@@ -1,0 +1,13 @@
+{
+  "_id": "yeuyogfx7kg",
+  "name": "within",
+  "order": "3",
+  "parents": [
+    "time-amount-exprs"
+  ],
+  "props": {
+    "en": "within",
+    "jp": "以内に",
+    "tl": "いないに"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "zryy5hrcr1",
+  "name": "exchange-student",
+  "order": "3",
+  "parents": [
+    "students"
+  ],
+  "props": {
+    "en": "exchange student",
+    "jp": "留学生",
+    "tl": "りゅうがくせい"
+  }
+}

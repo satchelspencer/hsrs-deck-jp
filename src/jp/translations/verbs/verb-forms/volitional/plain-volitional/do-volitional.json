@@ -1,0 +1,14 @@
+{
+  "_id": "e7n56vk8g88",
+  "name": "do-volitional",
+  "params": {
+    "verb": "do-suru"
+  },
+  "parents": [
+    "plain-volitional"
+  ],
+  "props": {
+    "en": null,
+    "jp": "しよう"
+  }
+}

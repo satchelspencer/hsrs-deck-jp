@@ -1,0 +1,13 @@
+{
+  "_id": "qmnvajweiba",
+  "name": "low-high-low",
+  "params": {
+    "iadj": "low",
+    "noun": "high-low"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "_id": "5vjbvkl5f2l",
+  "name": "bottle",
+  "order": "3",
+  "parents": [
+    "products",
+    "hon-countable",
+    "containers"
+  ],
+  "props": {
+    "en": "bottle",
+    "jp": "瓶",
+    "tl": "びん"
+  }
+}

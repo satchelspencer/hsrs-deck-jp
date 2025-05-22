@@ -1,0 +1,13 @@
+{
+  "_id": "6hfckuv0oh9",
+  "name": "match",
+  "order": "3",
+  "parents": [
+    "events"
+  ],
+  "props": {
+    "en": "match",
+    "jp": "マッチ",
+    "tl": "まっち"
+  }
+}

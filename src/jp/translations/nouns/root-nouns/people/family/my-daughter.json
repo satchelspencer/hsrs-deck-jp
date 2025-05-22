@@ -1,0 +1,13 @@
+{
+  "_id": "w6115ew45f",
+  "name": "my-daughter",
+  "order": "1",
+  "parents": [
+    "family"
+  ],
+  "props": {
+    "en": "my daughter",
+    "jp": "娘",
+    "tl": "むすめ"
+  }
+}

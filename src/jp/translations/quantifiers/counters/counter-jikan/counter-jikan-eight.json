@@ -1,0 +1,13 @@
+{
+  "_id": "ahytz5yjlpw",
+  "name": "counter-jikan-eight",
+  "params": {
+    "number": "eight"
+  },
+  "parents": [
+    "counter-jikan"
+  ],
+  "props": {
+    "tl": "はち~じかん"
+  }
+}

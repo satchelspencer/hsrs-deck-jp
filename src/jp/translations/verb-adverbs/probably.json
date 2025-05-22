@@ -1,0 +1,14 @@
+{
+  "_id": "5emsru7lmc",
+  "name": "probably",
+  "order": "2",
+  "parents": [
+    "verb-adverbs",
+    "i-adverbs"
+  ],
+  "props": {
+    "en": "probably",
+    "jp": "多分",
+    "tl": "たぶん"
+  }
+}

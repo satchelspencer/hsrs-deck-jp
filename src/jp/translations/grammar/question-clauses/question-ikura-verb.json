@@ -1,0 +1,18 @@
+{
+  "_id": "e11d2p9fkx",
+  "constraint": "verb",
+  "name": "question-ikura-verb",
+  "order": "2",
+  "params": {
+    "form": "verb-ka",
+    "qw": "how-much",
+    "verb": "ikura-verbs"
+  },
+  "parents": [
+    "question-clauses"
+  ],
+  "props": {
+    "en": "qw.en+' '+form.en",
+    "jp": "qw.jp+form.jp"
+  }
+}

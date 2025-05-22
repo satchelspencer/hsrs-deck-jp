@@ -1,0 +1,13 @@
+{
+  "_id": "5kcrg43bua",
+  "name": "a-flow",
+  "order": "3",
+  "parents": [
+    "naturals"
+  ],
+  "props": {
+    "en": "a flow",
+    "jp": "流れ",
+    "tl": "ながれ"
+  }
+}

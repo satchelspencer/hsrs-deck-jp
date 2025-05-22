@@ -1,0 +1,13 @@
+{
+  "_id": "mrw8385m0fd",
+  "name": "restroom",
+  "order": "1",
+  "parents": [
+    "absolute-places"
+  ],
+  "props": {
+    "en": "restroom",
+    "jp": "お手洗い",
+    "tl": "おてあらい"
+  }
+}

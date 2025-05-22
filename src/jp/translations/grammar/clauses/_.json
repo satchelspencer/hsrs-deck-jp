@@ -1,0 +1,11 @@
+{
+  "_id": "tn6bi8lfv19",
+  "name": "clauses",
+  "order": "",
+  "parents": [
+    "grammar"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

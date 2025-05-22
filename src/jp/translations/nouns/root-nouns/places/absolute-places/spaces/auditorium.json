@@ -1,0 +1,13 @@
+{
+  "_id": "ym4a47rz1w",
+  "name": "auditorium",
+  "order": "3",
+  "parents": [
+    "spaces"
+  ],
+  "props": {
+    "en": "auditorium",
+    "jp": "講堂",
+    "tl": "こうどう"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "remd8ey5qrg",
+  "name": "interesting-give-answer",
+  "params": {
+    "iadj": "interesting",
+    "verb": "give-answer"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

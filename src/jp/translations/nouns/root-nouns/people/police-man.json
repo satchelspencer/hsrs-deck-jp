@@ -1,0 +1,13 @@
+{
+  "_id": "84cm3di6evy",
+  "name": "police-man",
+  "order": "2",
+  "parents": [
+    "people"
+  ],
+  "props": {
+    "en": "police man",
+    "jp": "お巡りさん",
+    "tl": "おまわりさん"
+  }
+}

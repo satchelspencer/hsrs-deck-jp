@@ -1,0 +1,13 @@
+{
+  "_id": "r7ptk7x9hvo",
+  "name": "straight-walk",
+  "params": {
+    "na": "straight",
+    "verb": "walk"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

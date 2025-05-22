@@ -1,0 +1,13 @@
+{
+  "_id": "utpguj5f6so",
+  "name": "religion",
+  "order": "3",
+  "parents": [
+    "beliefs"
+  ],
+  "props": {
+    "en": "religion",
+    "jp": "宗教",
+    "tl": "しゅうきょう"
+  }
+}

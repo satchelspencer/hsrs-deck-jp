@@ -1,0 +1,13 @@
+{
+  "_id": "c1x5sdbgvyb",
+  "name": "early-sing",
+  "params": {
+    "iadj": "early",
+    "verb": "sing"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

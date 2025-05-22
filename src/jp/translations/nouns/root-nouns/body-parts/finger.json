@@ -1,0 +1,13 @@
+{
+  "_id": "ixrwqdjualg",
+  "name": "finger",
+  "order": "3",
+  "parents": [
+    "body-parts"
+  ],
+  "props": {
+    "en": "finger",
+    "jp": "指",
+    "tl": "ゆび"
+  }
+}

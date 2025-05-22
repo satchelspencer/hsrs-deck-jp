@@ -1,0 +1,13 @@
+{
+  "_id": "74i81c1ix63",
+  "name": "next-to",
+  "order": "2",
+  "parents": [
+    "positional-words"
+  ],
+  "props": {
+    "en": "next to",
+    "jp": "隣",
+    "tl": "となり"
+  }
+}

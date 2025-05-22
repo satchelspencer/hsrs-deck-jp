@@ -1,0 +1,13 @@
+{
+  "_id": "w6vgif54dm8",
+  "name": "person-type",
+  "order": "3",
+  "parents": [
+    "people-no"
+  ],
+  "props": {
+    "en": "person type",
+    "jp": "タイプ",
+    "tl": "たいぷ"
+  }
+}

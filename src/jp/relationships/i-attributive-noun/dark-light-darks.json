@@ -1,0 +1,13 @@
+{
+  "_id": "1opjeatgy3x",
+  "name": "dark-light-darks",
+  "params": {
+    "iadj": "dark",
+    "noun": "light-darks"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "h529qfu5hdf",
+  "name": "cold-touch",
+  "order": "2",
+  "parents": [
+    "i-attributive-standard"
+  ],
+  "props": {
+    "en": "cold to touch",
+    "jp": "冷たい",
+    "tl": "つめたい"
+  }
+}

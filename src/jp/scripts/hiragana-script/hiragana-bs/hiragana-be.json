@@ -1,0 +1,14 @@
+{
+  "_id": "dsvip6efkpl",
+  "name": "hiragana-be",
+  "params": {
+    "h": "hiragana-he"
+  },
+  "parents": [
+    "hiragana-bs"
+  ],
+  "props": {
+    "_tl": "be",
+    "jp": "べ"
+  }
+}

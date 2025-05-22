@@ -1,0 +1,12 @@
+{
+  "_id": "4ojr2x50u15",
+  "name": "katakana-mi",
+  "parents": [
+    "katakana-ms",
+    "katakana-iis"
+  ],
+  "props": {
+    "_tl": "mi",
+    "jp": "ミ"
+  }
+}

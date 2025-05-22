@@ -1,0 +1,13 @@
+{
+  "_id": "7om016h2h1l",
+  "name": "small-bird",
+  "order": "3",
+  "parents": [
+    "animals"
+  ],
+  "props": {
+    "en": "small bird",
+    "jp": "小鳥",
+    "tl": "ことり"
+  }
+}

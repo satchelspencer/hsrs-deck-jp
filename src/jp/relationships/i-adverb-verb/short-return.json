@@ -1,0 +1,13 @@
+{
+  "_id": "y64ot8dac5",
+  "name": "short-return",
+  "params": {
+    "iadj": "short",
+    "verb": "return-it"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

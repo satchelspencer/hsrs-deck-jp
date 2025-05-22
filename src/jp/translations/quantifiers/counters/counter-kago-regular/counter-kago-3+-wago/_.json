@@ -1,0 +1,13 @@
+{
+  "_id": "v5kjq37td5",
+  "name": "counter-kago-3+-wago",
+  "params": {
+    "root": "counter-roots-wago-2--only"
+  },
+  "parents": [
+    "counter-kago-regular"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

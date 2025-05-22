@@ -1,0 +1,13 @@
+{
+  "_id": "kubf0lja4c",
+  "name": "telegram",
+  "order": "4",
+  "parents": [
+    "sendables"
+  ],
+  "props": {
+    "en": "telegram",
+    "jp": "電報",
+    "tl": "でんぽう"
+  }
+}

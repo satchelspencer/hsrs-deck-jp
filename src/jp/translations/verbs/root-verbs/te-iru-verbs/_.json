@@ -1,0 +1,10 @@
+{
+  "_id": "lz239v8bgso",
+  "name": "te-iru-verbs",
+  "parents": [
+    "root-verbs"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

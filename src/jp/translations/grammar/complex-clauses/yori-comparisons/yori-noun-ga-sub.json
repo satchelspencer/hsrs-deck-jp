@@ -1,0 +1,16 @@
+{
+  "_id": "zslke2q58v",
+  "constraint": "verb form",
+  "name": "yori-noun-ga-sub",
+  "params": {
+    "alt": "noun-ga-sub",
+    "clause": "noun-ga-sub"
+  },
+  "parents": [
+    "yori-comparisons"
+  ],
+  "props": {
+    "en": "clause.en+' more than '+alt.rel.noun.en",
+    "jp": "clause.jp|rg(clause.rel.noun.jp+'が', clause.rel.noun.jp+'は'+alt.rel.noun.jp+'より')"
+  }
+}

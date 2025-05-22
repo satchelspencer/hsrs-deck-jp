@@ -1,0 +1,15 @@
+{
+  "_id": "dlzaojwcgda",
+  "name": "they-female",
+  "params": {
+    "pronoun": "she"
+  },
+  "parents": [
+    "third-person-pronouns-plural"
+  ],
+  "props": {
+    "en": "they (female)",
+    "jp": "彼女たち",
+    "tl": "かのじょたち"
+  }
+}

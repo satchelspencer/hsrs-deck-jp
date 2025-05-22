@@ -1,0 +1,10 @@
+{
+  "_id": "wpzai3s7nh",
+  "name": "musical-instruments",
+  "parents": [
+    "objects"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

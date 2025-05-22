@@ -1,0 +1,10 @@
+{
+  "_id": "rem2i1dti7",
+  "name": "continents",
+  "parents": [
+    "absolute-places"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

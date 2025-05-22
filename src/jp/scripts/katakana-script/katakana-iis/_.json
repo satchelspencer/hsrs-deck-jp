@@ -1,0 +1,10 @@
+{
+  "_id": "hmlik0m9l2k",
+  "name": "katakana-iis",
+  "parents": [
+    "katakana-script"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

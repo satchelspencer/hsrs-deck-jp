@@ -1,0 +1,13 @@
+{
+  "_id": "hj4mwl8tpzr",
+  "name": "fine-see",
+  "params": {
+    "iadj": "fine",
+    "verb": "see"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

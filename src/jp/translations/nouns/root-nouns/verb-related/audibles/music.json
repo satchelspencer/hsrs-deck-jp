@@ -1,0 +1,13 @@
+{
+  "_id": "s6ucxdwfxbi",
+  "name": "music",
+  "order": "1",
+  "parents": [
+    "audibles"
+  ],
+  "props": {
+    "en": "music",
+    "jp": "音楽",
+    "tl": "おんがく"
+  }
+}

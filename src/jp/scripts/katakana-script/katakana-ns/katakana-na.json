@@ -1,0 +1,11 @@
+{
+  "_id": "53kr51runjo",
+  "name": "katakana-na",
+  "parents": [
+    "katakana-ns"
+  ],
+  "props": {
+    "_tl": "na",
+    "jp": "ナ"
+  }
+}

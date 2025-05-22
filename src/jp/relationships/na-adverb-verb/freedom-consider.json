@@ -1,0 +1,13 @@
+{
+  "_id": "onoh870658s",
+  "name": "freedom-consider",
+  "params": {
+    "na": "freedom",
+    "verb": "consider"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

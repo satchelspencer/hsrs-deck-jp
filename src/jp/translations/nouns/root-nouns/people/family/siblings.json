@@ -1,0 +1,13 @@
+{
+  "_id": "fo6xlgkv5jg",
+  "name": "siblings",
+  "order": "2",
+  "parents": [
+    "family"
+  ],
+  "props": {
+    "en": "siblings",
+    "jp": "兄弟",
+    "tl": "きょうだい"
+  }
+}

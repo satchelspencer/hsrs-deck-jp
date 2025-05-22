@@ -1,0 +1,15 @@
+{
+  "_id": "3rx13l0xb8y",
+  "name": "na-adjective-de",
+  "order": "3",
+  "params": {
+    "na": "na-attributive"
+  },
+  "parents": [
+    "na-complex-forms"
+  ],
+  "props": {
+    "en": "na.en+' and'",
+    "jp": "na.jp+'で'"
+  }
+}

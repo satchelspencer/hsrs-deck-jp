@@ -1,0 +1,13 @@
+{
+  "_id": "h2tm9c5gebh",
+  "name": "thread",
+  "order": "3",
+  "parents": [
+    "pullables"
+  ],
+  "props": {
+    "en": "thread",
+    "jp": "糸",
+    "tl": "いと"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "kdksz23u3nn",
+  "name": "kimono",
+  "order": "3",
+  "parents": [
+    "wearables"
+  ],
+  "props": {
+    "en": "kimono",
+    "jp": "着物",
+    "tl": "きもの"
+  }
+}

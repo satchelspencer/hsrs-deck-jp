@@ -1,0 +1,10 @@
+{
+  "_id": "c6owv3e1fhn",
+  "name": "pronoun-rels",
+  "parents": [
+    "relationships"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

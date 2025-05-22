@@ -1,0 +1,10 @@
+{
+  "_id": "coew0ebyekw",
+  "name": "country-no",
+  "parents": [
+    "no-related"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

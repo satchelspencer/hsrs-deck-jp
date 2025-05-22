@@ -1,0 +1,10 @@
+{
+  "_id": "sp8qmwijml",
+  "name": "naturals",
+  "parents": [
+    "adj-related"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

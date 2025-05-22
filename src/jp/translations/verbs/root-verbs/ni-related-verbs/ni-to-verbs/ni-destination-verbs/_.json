@@ -1,0 +1,10 @@
+{
+  "_id": "uxmob498t7q",
+  "name": "ni-destination-verbs",
+  "parents": [
+    "ni-to-verbs"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

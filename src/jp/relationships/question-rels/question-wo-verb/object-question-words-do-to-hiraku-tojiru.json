@@ -1,0 +1,13 @@
+{
+  "_id": "zs4b6v27cur",
+  "name": "object-question-words-do-to-hiraku-tojiru",
+  "params": {
+    "qw": "object-question-words",
+    "verb": "do-to-hiraku-tojiru"
+  },
+  "parents": [
+    "question-wo-verb"
+  ],
+  "props": {
+  }
+}

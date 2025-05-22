@@ -1,0 +1,17 @@
+{
+  "_id": "qnm5wb2jyza",
+  "constraint": "verb",
+  "name": "polite-voltional-negative",
+  "order": "4",
+  "params": {
+    "form": "polite-negative",
+    "rel": "verb-people-do"
+  },
+  "parents": [
+    "volitional"
+  ],
+  "props": {
+    "en": "'should '+form.en",
+    "jp": "form.jp+'でおこう'"
+  }
+}

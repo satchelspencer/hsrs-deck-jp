@@ -1,0 +1,15 @@
+{
+  "_id": "rm4xzm0y7p",
+  "name": "godan-volitional",
+  "params": {
+    "verb": "godan"
+  },
+  "parents": [
+    "plain-volitional"
+  ],
+  "props": {
+    "en": null,
+    "jp": null
+  },
+  "virtual": true
+}

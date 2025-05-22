@@ -1,0 +1,10 @@
+{
+  "_id": "x4nmv5lzf3",
+  "name": "i-nda-forms",
+  "parents": [
+    "i-adjective-forms"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

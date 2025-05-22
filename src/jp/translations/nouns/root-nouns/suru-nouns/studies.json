@@ -1,0 +1,18 @@
+{
+  "_id": "e6ojvm2kfwr",
+  "name": "studies",
+  "order": "1",
+  "parents": [
+    "suru-nouns",
+    "people-do",
+    "do-to-learnables",
+    "te-iru-verbs-continuous",
+    "de-location-verbs",
+    "do-with-learnables"
+  ],
+  "props": {
+    "en": "studies",
+    "jp": "勉強",
+    "tl": "べんきょう"
+  }
+}

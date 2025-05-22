@@ -1,0 +1,14 @@
+{
+  "_id": "t4d4euoo3fk",
+  "name": "idea",
+  "order": "3",
+  "parents": [
+    "informations",
+    "people-no"
+  ],
+  "props": {
+    "en": "idea",
+    "jp": "考え",
+    "tl": "かんがえ"
+  }
+}

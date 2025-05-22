@@ -1,0 +1,15 @@
+{
+  "_id": "zos4lnmv96",
+  "name": "branch",
+  "order": "4",
+  "parents": [
+    "plants",
+    "objects",
+    "snappers"
+  ],
+  "props": {
+    "en": "branch",
+    "jp": "枝",
+    "tl": "えだ"
+  }
+}

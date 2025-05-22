@@ -1,0 +1,16 @@
+{
+  "_id": "hirdzo2yxs7",
+  "name": "touch",
+  "order": "3",
+  "parents": [
+    "godan-ru",
+    "people-do",
+    "te-iru-verbs-continuous",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "touch",
+    "jp": "触る",
+    "tl": "さわる"
+  }
+}

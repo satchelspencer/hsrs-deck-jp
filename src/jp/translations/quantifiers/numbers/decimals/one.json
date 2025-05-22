@@ -1,0 +1,12 @@
+{
+  "_id": "f0lcey4zzu",
+  "name": "one",
+  "parents": [
+    "decimals"
+  ],
+  "props": {
+    "en": "1",
+    "jp": "一",
+    "tl": "いち"
+  }
+}

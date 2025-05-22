@@ -1,0 +1,17 @@
+{
+  "_id": "nh9nn2rl6qr",
+  "name": "pass-away",
+  "order": "3",
+  "parents": [
+    "godan-ru",
+    "people-do",
+    "animals-do",
+    "te-iru-verbs-state",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "pass away",
+    "jp": "亡くなる",
+    "tl": "なくなる"
+  }
+}

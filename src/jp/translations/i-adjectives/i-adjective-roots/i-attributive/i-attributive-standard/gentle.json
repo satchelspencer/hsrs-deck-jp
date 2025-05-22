@@ -1,0 +1,14 @@
+{
+  "_id": "3h3mnuc4j5m",
+  "name": "gentle",
+  "order": "4",
+  "parents": [
+    "i-attributive-standard",
+    "i-people"
+  ],
+  "props": {
+    "en": "gentle",
+    "jp": "大人しい",
+    "tl": "おとなしい"
+  }
+}

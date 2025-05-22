@@ -1,0 +1,13 @@
+{
+  "_id": "0u542oz1idbk",
+  "name": "trumpet",
+  "order": "3",
+  "parents": [
+    "wind-instruments"
+  ],
+  "props": {
+    "en": "trumpet",
+    "jp": "トランペット",
+    "tl": "とらんぺっと"
+  }
+}

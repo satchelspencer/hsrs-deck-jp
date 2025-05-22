@@ -1,0 +1,14 @@
+{
+  "_id": "1rje8r2s8mn",
+  "name": "godan-negative-tsu",
+  "params": {
+    "verb": "godan-tsu"
+  },
+  "parents": [
+    "godan-negative"
+  ],
+  "props": {
+    "en": null,
+    "jp": "verb.jp|r('つ', 'たない')"
+  }
+}

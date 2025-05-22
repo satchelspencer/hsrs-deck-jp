@@ -1,0 +1,13 @@
+{
+  "_id": "8tombu0u99w",
+  "name": "buildables-build",
+  "params": {
+    "noun": "buildables",
+    "verb": "build"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

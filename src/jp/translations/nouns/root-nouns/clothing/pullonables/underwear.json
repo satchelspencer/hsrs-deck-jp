@@ -1,0 +1,13 @@
+{
+  "_id": "ca32ps9w0g6",
+  "name": "underwear",
+  "order": "3",
+  "parents": [
+    "pullonables"
+  ],
+  "props": {
+    "en": "underwear",
+    "jp": "下着",
+    "tl": "したぎ"
+  }
+}

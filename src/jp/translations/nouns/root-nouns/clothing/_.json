@@ -1,0 +1,13 @@
+{
+  "_id": "t6v4tp80svg",
+  "name": "clothing",
+  "parents": [
+    "root-nouns",
+    "products"
+  ],
+  "props": {
+    "en": null,
+    "jp": null
+  },
+  "virtual": true
+}

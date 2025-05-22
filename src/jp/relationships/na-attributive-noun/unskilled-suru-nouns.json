@@ -1,0 +1,13 @@
+{
+  "_id": "o870q9ffc",
+  "name": "unskilled-suru-nouns",
+  "params": {
+    "na": "unskilled",
+    "noun": "suru-nouns"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

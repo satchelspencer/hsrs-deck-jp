@@ -1,0 +1,14 @@
+{
+  "_id": "5kf155j6v0c",
+  "name": "do-reru",
+  "params": {
+    "verb": "do-suru"
+  },
+  "parents": [
+    "reru-plain"
+  ],
+  "props": {
+    "jp": "できる",
+    "tl": ""
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "_id": "5wlin5eythj",
+  "name": "just-did",
+  "order": "4",
+  "parents": [
+    "past-relative-time-exprs"
+  ],
+  "props": {
+    "en": "just did",
+    "jp": "ばかり"
+  }
+}

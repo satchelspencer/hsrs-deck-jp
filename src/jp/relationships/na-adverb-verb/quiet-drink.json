@@ -1,0 +1,13 @@
+{
+  "_id": "bn6y4opa649",
+  "name": "quiet-drink",
+  "params": {
+    "na": "quiet",
+    "verb": "drink"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "uot28pyclw",
+  "name": "be-popular",
+  "order": "2",
+  "parents": [
+    "godan-ru",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "en": "be popular",
+    "jp": "流行る",
+    "tl": "はやる"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "tjr68dht0p",
+  "name": "last",
+  "order": "2",
+  "parents": [
+    "relative-time-exprs"
+  ],
+  "props": {
+    "en": "last",
+    "jp": "最後",
+    "tl": "さいご"
+  }
+}

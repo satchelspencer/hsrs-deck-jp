@@ -1,0 +1,13 @@
+{
+  "_id": "fthemhbiwlu",
+  "name": "hard",
+  "order": "3",
+  "parents": [
+    "i-attributive-standard"
+  ],
+  "props": {
+    "en": "hard",
+    "jp": "硬い",
+    "tl": "かたい"
+  }
+}

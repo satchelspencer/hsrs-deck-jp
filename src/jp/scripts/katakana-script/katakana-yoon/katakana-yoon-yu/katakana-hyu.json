@@ -1,0 +1,13 @@
+{
+  "_id": "s363ts8gg3",
+  "name": "katakana-hyu",
+  "params": {
+    "iis": "katakana-hi"
+  },
+  "parents": [
+    "katakana-yoon-yu"
+  ],
+  "props": {
+    "_tl": "hyu"
+  }
+}

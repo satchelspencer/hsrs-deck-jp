@@ -1,0 +1,14 @@
+{
+  "_id": "p3u9wkfq0l",
+  "mode": "c",
+  "name": "dou",
+  "order": "2",
+  "parents": [
+    "adverb-question-words",
+    "pred-adv-question-words"
+  ],
+  "props": {
+    "en": "how",
+    "jp": "どう"
+  }
+}

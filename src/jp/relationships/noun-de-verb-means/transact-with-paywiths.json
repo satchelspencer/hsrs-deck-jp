@@ -1,0 +1,13 @@
+{
+  "_id": "g4zlqijo1hi",
+  "name": "transact-with-paywiths",
+  "params": {
+    "noun": "paywiths",
+    "verb": "do-with-money"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

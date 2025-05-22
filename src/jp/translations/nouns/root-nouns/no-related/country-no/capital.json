@@ -1,0 +1,13 @@
+{
+  "_id": "s9q91bl1l08",
+  "name": "capital",
+  "order": "4",
+  "parents": [
+    "country-no"
+  ],
+  "props": {
+    "en": "capital",
+    "jp": "都",
+    "tl": "みやこ"
+  }
+}

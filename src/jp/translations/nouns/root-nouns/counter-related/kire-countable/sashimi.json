@@ -1,0 +1,14 @@
+{
+  "_id": "gwdel9erev9",
+  "name": "sashimi",
+  "order": "2",
+  "parents": [
+    "kire-countable",
+    "foods"
+  ],
+  "props": {
+    "en": "sashimi",
+    "jp": "刺し身",
+    "tl": "さしみ"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "_id": "geyunecriow",
+  "name": "body-parts",
+  "parents": [
+    "root-nouns",
+    "people-no"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

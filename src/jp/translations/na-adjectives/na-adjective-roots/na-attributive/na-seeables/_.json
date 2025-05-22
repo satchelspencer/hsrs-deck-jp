@@ -1,0 +1,13 @@
+{
+  "_id": "m1kj6lajwsf",
+  "name": "na-seeables",
+  "parents": [
+    "na-attributive",
+    "na-people"
+  ],
+  "props": {
+    "en": null,
+    "jp": null
+  },
+  "virtual": true
+}

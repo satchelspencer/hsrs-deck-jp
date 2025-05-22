@@ -1,0 +1,13 @@
+{
+  "_id": "0mmu4tzfgxb",
+  "name": "kilometer",
+  "order": "2",
+  "parents": [
+    "units"
+  ],
+  "props": {
+    "en": "kilometer",
+    "jp": "キロメートル",
+    "tl": "きろめーとる"
+  }
+}

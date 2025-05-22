@@ -1,0 +1,10 @@
+{
+  "_id": "8428juk5dqj",
+  "name": "i-predicate-standard",
+  "parents": [
+    "i-predicate"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

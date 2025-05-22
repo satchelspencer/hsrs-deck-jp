@@ -1,0 +1,13 @@
+{
+  "_id": "wwz044fphl",
+  "name": "machines-fix",
+  "params": {
+    "noun": "machines",
+    "verb": "fix"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

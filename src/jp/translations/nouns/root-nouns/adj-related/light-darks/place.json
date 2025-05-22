@@ -1,0 +1,15 @@
+{
+  "_id": "lz1zyjbc42",
+  "name": "place",
+  "order": "2",
+  "parents": [
+    "light-darks",
+    "kashou-countable",
+    "absolute-places"
+  ],
+  "props": {
+    "en": "place",
+    "jp": "所",
+    "tl": "ところ"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "420whwn72x1",
+  "name": "katakana-hyo",
+  "params": {
+    "iis": "katakana-hi"
+  },
+  "parents": [
+    "katakana-yoon-yo"
+  ],
+  "props": {
+    "_tl": "hyo"
+  }
+}

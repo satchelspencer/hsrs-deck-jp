@@ -1,0 +1,16 @@
+{
+  "_id": "uwozeufjpw",
+  "name": "i-adjective-ku",
+  "order": "2",
+  "params": {
+    "iadj": "i-predicate"
+  },
+  "parents": [
+    "i-complex-forms"
+  ],
+  "props": {
+    "en": "iadj.en+'-ly'",
+    "jp": null
+  },
+  "virtual": true
+}

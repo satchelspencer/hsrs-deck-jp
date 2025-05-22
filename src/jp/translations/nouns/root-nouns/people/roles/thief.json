@@ -1,0 +1,13 @@
+{
+  "_id": "wehejnt7mqp",
+  "name": "thief",
+  "order": "3",
+  "parents": [
+    "roles"
+  ],
+  "props": {
+    "en": "thief",
+    "jp": "泥棒",
+    "tl": "どろぼう"
+  }
+}

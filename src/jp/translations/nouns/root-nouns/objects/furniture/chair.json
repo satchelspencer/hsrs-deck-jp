@@ -1,0 +1,14 @@
+{
+  "_id": "elv7h50utlk",
+  "name": "chair",
+  "order": "2",
+  "parents": [
+    "furniture",
+    "sitables"
+  ],
+  "props": {
+    "en": "chair",
+    "jp": "椅子",
+    "tl": "いす"
+  }
+}

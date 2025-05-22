@@ -1,0 +1,13 @@
+{
+  "_id": "bxd3hbsheej",
+  "name": "profession",
+  "order": "3",
+  "parents": [
+    "choosables"
+  ],
+  "props": {
+    "en": "profession",
+    "jp": "職業",
+    "tl": "しょくぎょう"
+  }
+}

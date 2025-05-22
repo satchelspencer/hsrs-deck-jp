@@ -1,0 +1,13 @@
+{
+  "_id": "avahjlxwg2c",
+  "name": "godan-ba-bu",
+  "params": {
+    "verb": "godan-bu"
+  },
+  "parents": [
+    "godan-ba"
+  ],
+  "props": {
+    "jp": "verb.jp|r('ぶ', 'べば')"
+  }
+}

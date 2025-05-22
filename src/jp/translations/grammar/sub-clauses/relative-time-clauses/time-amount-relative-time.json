@@ -1,0 +1,15 @@
+{
+  "_id": "plcnyb6iolk",
+  "name": "time-amount-relative-time",
+  "params": {
+    "expr": "time-amount-exprs",
+    "root": "time-amounts"
+  },
+  "parents": [
+    "relative-time-clauses"
+  ],
+  "props": {
+    "en": "expr.en+' '+root.en",
+    "jp": "root.jp+expr.jp"
+  }
+}

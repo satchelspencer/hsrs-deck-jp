@@ -1,0 +1,12 @@
+{
+  "_id": "ctxu003hg8v",
+  "mode": "p",
+  "name": "verb-kudasai",
+  "order": "3",
+  "parents": [
+    "complex-forms"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

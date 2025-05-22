@@ -1,0 +1,11 @@
+{
+  "_id": "3030mqpgrwf",
+  "name": "katakana-ya",
+  "parents": [
+    "katakana-ys"
+  ],
+  "props": {
+    "_tl": "ya",
+    "jp": "ヤ"
+  }
+}

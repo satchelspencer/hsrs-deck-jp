@@ -1,0 +1,13 @@
+{
+  "_id": "r8eo8wd4gca",
+  "name": "dai-countable-counter-root-machines",
+  "params": {
+    "noun": "dai-countable",
+    "root": "counter-root-machines"
+  },
+  "parents": [
+    "counter-noun"
+  ],
+  "props": {
+  }
+}

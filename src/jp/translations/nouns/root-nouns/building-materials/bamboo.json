@@ -1,0 +1,14 @@
+{
+  "_id": "r9l98lyuui",
+  "name": "bamboo",
+  "order": "2",
+  "parents": [
+    "building-materials",
+    "plants"
+  ],
+  "props": {
+    "en": "bamboo",
+    "jp": "竹",
+    "tl": "たけ"
+  }
+}

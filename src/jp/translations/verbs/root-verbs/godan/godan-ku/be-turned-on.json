@@ -1,0 +1,14 @@
+{
+  "_id": "95kaf7sysi",
+  "name": "be-turned-on",
+  "order": "2",
+  "parents": [
+    "godan-ku",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "en": "be turned on",
+    "jp": "点く",
+    "tl": "つく"
+  }
+}

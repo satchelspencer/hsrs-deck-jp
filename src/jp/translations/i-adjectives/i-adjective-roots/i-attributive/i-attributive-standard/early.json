@@ -1,0 +1,13 @@
+{
+  "_id": "wa4bwdp159n",
+  "name": "early",
+  "order": "1",
+  "parents": [
+    "i-attributive-standard"
+  ],
+  "props": {
+    "en": "early",
+    "jp": "早い",
+    "tl": "はやい"
+  }
+}

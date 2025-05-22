@@ -1,0 +1,16 @@
+{
+  "_id": "fq4nbcqh5r8",
+  "mode": "cmr",
+  "name": "you-omae-plural",
+  "params": {
+    "pronoun": "you-omae"
+  },
+  "parents": [
+    "second-person-pronouns-plural"
+  ],
+  "props": {
+    "en": "you all",
+    "jp": "お前たち",
+    "tl": "おまえたち"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "lzxu0ejtje",
+  "name": "root-verb-relative-time",
+  "order": "",
+  "params": {
+    "expr": "root-relative-time-exprs",
+    "root": "plain"
+  },
+  "parents": [
+    "relative-time-clauses"
+  ],
+  "props": {
+    "en": "expr.en+' '+root.en",
+    "jp": "root.jp+expr.jp"
+  }
+}

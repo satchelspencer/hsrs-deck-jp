@@ -1,0 +1,12 @@
+{
+  "_id": "7cvkdyflys",
+  "name": "beard",
+  "order": "3",
+  "parents": [
+    "body-parts"
+  ],
+  "props": {
+    "en": "beard",
+    "jp": "ひげ"
+  }
+}

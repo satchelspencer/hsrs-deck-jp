@@ -1,0 +1,14 @@
+{
+  "_id": "qbr95yitzzs",
+  "mode": "--s",
+  "name": "you-kimi",
+  "order": "2",
+  "parents": [
+    "second-person-pronouns-singular"
+  ],
+  "props": {
+    "en": "you",
+    "jp": "君",
+    "tl": "きみ"
+  }
+}

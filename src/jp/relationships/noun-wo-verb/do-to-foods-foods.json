@@ -1,0 +1,13 @@
+{
+  "_id": "bbek3fd37y",
+  "name": "do-to-foods-foods",
+  "params": {
+    "noun": "foods",
+    "verb": "do-to-foods"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

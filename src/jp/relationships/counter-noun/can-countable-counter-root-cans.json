@@ -1,0 +1,13 @@
+{
+  "_id": "92w4x5c3m8",
+  "name": "can-countable-counter-root-cans",
+  "params": {
+    "noun": "can-countable",
+    "root": "counter-root-cans"
+  },
+  "parents": [
+    "counter-noun"
+  ],
+  "props": {
+  }
+}

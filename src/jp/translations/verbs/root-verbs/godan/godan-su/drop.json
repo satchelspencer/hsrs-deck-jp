@@ -1,0 +1,18 @@
+{
+  "_id": "e8clqccmeck",
+  "name": "drop",
+  "order": "2",
+  "parents": [
+    "godan-su",
+    "people-do",
+    "do-to-objects",
+    "ni-destination-verbs",
+    "te-iru-verbs-state",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "drop",
+    "jp": "落とす",
+    "tl": "おとす"
+  }
+}

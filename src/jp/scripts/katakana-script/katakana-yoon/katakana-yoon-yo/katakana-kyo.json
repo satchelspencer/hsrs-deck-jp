@@ -1,0 +1,13 @@
+{
+  "_id": "hytndttyuif",
+  "name": "katakana-kyo",
+  "params": {
+    "iis": "katakana-ki"
+  },
+  "parents": [
+    "katakana-yoon-yo"
+  ],
+  "props": {
+    "_tl": "kyo"
+  }
+}

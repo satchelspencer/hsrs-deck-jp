@@ -1,0 +1,14 @@
+{
+  "_id": "wn8ltwi44w",
+  "name": "baseball",
+  "order": "1",
+  "parents": [
+    "shiai-countable",
+    "activities"
+  ],
+  "props": {
+    "en": "baseball",
+    "jp": "野球",
+    "tl": "やきゅう"
+  }
+}

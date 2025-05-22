@@ -1,0 +1,13 @@
+{
+  "_id": "1ljkvf0rjl5",
+  "mode": "c-r",
+  "name": "koitsu",
+  "order": "4",
+  "parents": [
+    "third-person-pronouns-singular"
+  ],
+  "props": {
+    "en": "this person",
+    "jp": "こいつ"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "0u6qud5q5wx",
+  "mode": "p",
+  "name": "viewing",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "do-to-seeables",
+    "people-do"
+  ],
+  "props": {
+    "en": "viewing",
+    "jp": "拝見",
+    "tl": "はいけん"
+  }
+}

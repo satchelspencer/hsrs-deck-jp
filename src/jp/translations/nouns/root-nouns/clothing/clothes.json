@@ -1,0 +1,14 @@
+{
+  "_id": "y9tu4ai6pcl",
+  "name": "clothes",
+  "order": "1",
+  "parents": [
+    "clothing",
+    "choosables"
+  ],
+  "props": {
+    "en": "clothes",
+    "jp": "服",
+    "tl": "ふく"
+  }
+}

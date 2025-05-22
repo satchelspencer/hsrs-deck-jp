@@ -1,0 +1,13 @@
+{
+  "_id": "4zpsndio6ya",
+  "name": "woods",
+  "order": "4",
+  "parents": [
+    "absolute-places"
+  ],
+  "props": {
+    "en": "woods",
+    "jp": "林",
+    "tl": "はやし"
+  }
+}

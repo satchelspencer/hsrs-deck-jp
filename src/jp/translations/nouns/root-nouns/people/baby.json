@@ -1,0 +1,13 @@
+{
+  "_id": "hwowcpv2svs",
+  "name": "baby",
+  "order": "3",
+  "parents": [
+    "people"
+  ],
+  "props": {
+    "en": "baby",
+    "jp": "赤ちゃん",
+    "tl": "あかちゃん"
+  }
+}

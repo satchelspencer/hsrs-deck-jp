@@ -1,0 +1,13 @@
+{
+  "_id": "33rho4nvai7",
+  "name": "command-form-kureru",
+  "params": {
+    "verb": "give-to-me"
+  },
+  "parents": [
+    "command-form-plain"
+  ],
+  "props": {
+    "jp": "くれ"
+  }
+}

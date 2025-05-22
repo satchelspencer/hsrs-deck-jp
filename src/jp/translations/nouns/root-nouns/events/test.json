@@ -1,0 +1,14 @@
+{
+  "_id": "7wlvrkxc61u",
+  "name": "test",
+  "order": "2",
+  "parents": [
+    "events",
+    "takeonables"
+  ],
+  "props": {
+    "en": "test",
+    "jp": "テスト",
+    "tl": "てすと"
+  }
+}

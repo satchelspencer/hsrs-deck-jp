@@ -1,0 +1,14 @@
+{
+  "_id": "3ac3vz9zqcw",
+  "name": "hiragana-gs",
+  "params": {
+    "k": "hiragana-ks"
+  },
+  "parents": [
+    "hiragana-script"
+  ],
+  "props": {
+    "jp": ""
+  },
+  "virtual": true
+}

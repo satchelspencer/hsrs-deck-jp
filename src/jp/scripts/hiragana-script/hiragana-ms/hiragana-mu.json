@@ -1,0 +1,11 @@
+{
+  "_id": "setwhecsxec",
+  "name": "hiragana-mu",
+  "parents": [
+    "hiragana-ms"
+  ],
+  "props": {
+    "_tl": "mu",
+    "jp": "む"
+  }
+}

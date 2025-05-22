@@ -1,0 +1,13 @@
+{
+  "_id": "pydinl6w0lp",
+  "name": "stomach",
+  "order": "1",
+  "parents": [
+    "body-parts"
+  ],
+  "props": {
+    "en": "stomach",
+    "jp": "お腹",
+    "tl": "おなか"
+  }
+}

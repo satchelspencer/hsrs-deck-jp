@@ -1,0 +1,13 @@
+{
+  "_id": "8v12lua8n96",
+  "name": "sales-floor",
+  "order": "3",
+  "parents": [
+    "spaces"
+  ],
+  "props": {
+    "en": "sales floor",
+    "jp": "売り場",
+    "tl": "うりば"
+  }
+}

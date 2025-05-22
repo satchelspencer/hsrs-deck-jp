@@ -1,0 +1,16 @@
+{
+  "_id": "wyk7ge4890l",
+  "name": "sing",
+  "order": "3",
+  "parents": [
+    "godan-u",
+    "people-do",
+    "te-iru-verbs-continuous",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "sing",
+    "jp": "歌う",
+    "tl": "うたう"
+  }
+}

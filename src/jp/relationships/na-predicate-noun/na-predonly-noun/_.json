@@ -1,0 +1,14 @@
+{
+  "_id": "ajy70o4urgg",
+  "name": "na-predonly-noun",
+  "params": {
+    "na": "na-predonly",
+    "noun": "root-nouns"
+  },
+  "parents": [
+    "na-predicate-noun"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

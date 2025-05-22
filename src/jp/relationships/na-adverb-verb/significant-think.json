@@ -1,0 +1,13 @@
+{
+  "_id": "lgqeufgnqln",
+  "name": "significant-think",
+  "params": {
+    "na": "significant",
+    "verb": "think"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

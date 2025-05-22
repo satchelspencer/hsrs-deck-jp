@@ -1,0 +1,16 @@
+{
+  "_id": "lx0il8rui2",
+  "name": "river",
+  "order": "1",
+  "parents": [
+    "flowing",
+    "deeps",
+    "ascendables",
+    "absolute-places"
+  ],
+  "props": {
+    "en": "river",
+    "jp": "川",
+    "tl": "かわ"
+  }
+}

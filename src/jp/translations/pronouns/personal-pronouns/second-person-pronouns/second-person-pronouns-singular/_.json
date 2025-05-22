@@ -1,0 +1,11 @@
+{
+  "_id": "q9s1xekv6q",
+  "name": "second-person-pronouns-singular",
+  "order": "",
+  "parents": [
+    "second-person-pronouns"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "cdjffh3pcj",
+  "name": "notify",
+  "order": "3",
+  "parents": [
+    "ichidan",
+    "do-to-informations",
+    "people-do",
+    "ni-person-verbs"
+  ],
+  "props": {
+    "en": "notify",
+    "jp": "知らせる",
+    "tl": "しらせる"
+  }
+}

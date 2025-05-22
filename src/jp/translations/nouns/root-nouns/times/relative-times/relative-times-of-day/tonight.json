@@ -1,0 +1,14 @@
+{
+  "_id": "s1hvdt36d7",
+  "name": "tonight",
+  "order": "1",
+  "parents": [
+    "relative-times-of-day",
+    "ni-any-times"
+  ],
+  "props": {
+    "en": "tonight",
+    "jp": "今夜",
+    "tl": "こんや"
+  }
+}

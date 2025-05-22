@@ -1,0 +1,13 @@
+{
+  "_id": "84zwabxxnqg",
+  "name": "bad-become",
+  "params": {
+    "iadj": "bad",
+    "verb": "become"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

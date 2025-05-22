@@ -1,0 +1,14 @@
+{
+  "_id": "vswqndu488f",
+  "name": "counter-nichi-four",
+  "params": {
+    "number": "four"
+  },
+  "parents": [
+    "counter-days"
+  ],
+  "props": {
+    "jp": "四日",
+    "tl": "よっか"
+  }
+}

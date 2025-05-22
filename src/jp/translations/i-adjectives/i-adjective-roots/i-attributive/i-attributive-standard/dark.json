@@ -1,0 +1,13 @@
+{
+  "_id": "aovwingpgi",
+  "name": "dark",
+  "order": "2",
+  "parents": [
+    "i-attributive-standard"
+  ],
+  "props": {
+    "en": "dark",
+    "jp": "暗い",
+    "tl": "くらい"
+  }
+}

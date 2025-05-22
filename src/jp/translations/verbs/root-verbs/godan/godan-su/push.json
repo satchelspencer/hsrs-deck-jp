@@ -1,0 +1,16 @@
+{
+  "_id": "ai8ddvqameu",
+  "name": "push",
+  "order": "2",
+  "parents": [
+    "godan-su",
+    "people-do",
+    "te-iru-verbs-continuous",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "press",
+    "jp": "押す",
+    "tl": "おす"
+  }
+}

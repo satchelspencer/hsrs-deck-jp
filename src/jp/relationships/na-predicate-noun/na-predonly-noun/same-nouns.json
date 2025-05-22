@@ -1,0 +1,13 @@
+{
+  "_id": "nnx2jzsjvij",
+  "name": "same-nouns",
+  "params": {
+    "na": "same",
+    "noun": "root-nouns"
+  },
+  "parents": [
+    "na-predonly-noun"
+  ],
+  "props": {
+  }
+}

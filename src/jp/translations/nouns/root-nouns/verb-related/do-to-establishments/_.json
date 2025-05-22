@@ -1,0 +1,10 @@
+{
+  "_id": "smh2oy7tm5e",
+  "name": "do-to-establishments",
+  "parents": [
+    "verb-related"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

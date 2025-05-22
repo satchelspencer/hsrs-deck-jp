@@ -1,0 +1,14 @@
+{
+  "_id": "te3ifjuhpja",
+  "name": "boil",
+  "order": "3",
+  "parents": [
+    "godan-su",
+    "people-do"
+  ],
+  "props": {
+    "en": "boil",
+    "jp": "沸かす",
+    "tl": "わかす"
+  }
+}

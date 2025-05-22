@@ -1,0 +1,14 @@
+{
+  "_id": "vky86jvxqx",
+  "name": "factory",
+  "order": "4",
+  "parents": [
+    "buildables",
+    "absolute-places"
+  ],
+  "props": {
+    "en": "factory",
+    "jp": "工場",
+    "tl": "こうじょう"
+  }
+}

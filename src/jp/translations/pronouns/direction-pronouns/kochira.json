@@ -1,0 +1,13 @@
+{
+  "_id": "bykr5abylc",
+  "mode": "p",
+  "name": "kochira",
+  "order": "3",
+  "parents": [
+    "direction-pronouns"
+  ],
+  "props": {
+    "en": "this way",
+    "jp": "こちら"
+  }
+}

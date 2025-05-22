@@ -1,0 +1,13 @@
+{
+  "_id": "8fnzsakhnth",
+  "name": "exit",
+  "order": "1",
+  "parents": [
+    "spaces"
+  ],
+  "props": {
+    "en": "exit",
+    "jp": "出口",
+    "tl": "でぐち"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "qopf0r7m5w",
+  "name": "detailed",
+  "order": "3",
+  "parents": [
+    "i-attributive-standard"
+  ],
+  "props": {
+    "en": "detailed",
+    "jp": "詳しい",
+    "tl": "くわしい"
+  }
+}

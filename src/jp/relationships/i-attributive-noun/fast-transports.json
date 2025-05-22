@@ -1,0 +1,13 @@
+{
+  "_id": "mbbvv3ivt7f",
+  "name": "fast-transports",
+  "params": {
+    "iadj": "fast",
+    "noun": "transports"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

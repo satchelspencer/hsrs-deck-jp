@@ -1,0 +1,13 @@
+{
+  "_id": "lxsignqakm",
+  "name": "good-at-activities",
+  "params": {
+    "iadj": "good-at",
+    "noun": "activities"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

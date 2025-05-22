@@ -1,0 +1,13 @@
+{
+  "_id": "b9opw5mam4p",
+  "name": "beliefs-believe",
+  "params": {
+    "noun": "beliefs",
+    "verb": "believe"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

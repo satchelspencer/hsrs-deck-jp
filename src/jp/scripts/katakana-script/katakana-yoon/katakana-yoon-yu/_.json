@@ -1,0 +1,11 @@
+{
+  "_id": "44f96uhbua9",
+  "name": "katakana-yoon-yu",
+  "parents": [
+    "katakana-yoon"
+  ],
+  "props": {
+    "jp": "iis.jp+'ュ'"
+  },
+  "virtual": true
+}

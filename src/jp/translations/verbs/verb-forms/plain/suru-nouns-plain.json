@@ -1,0 +1,14 @@
+{
+  "_id": "4b108e4seek",
+  "name": "suru-nouns-plain",
+  "params": {
+    "verb": "suru-nouns"
+  },
+  "parents": [
+    "plain"
+  ],
+  "props": {
+    "en": "'do '+verb.en",
+    "jp": "verb.jp+'する'"
+  }
+}

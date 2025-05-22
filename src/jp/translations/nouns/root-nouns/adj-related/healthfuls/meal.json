@@ -1,0 +1,13 @@
+{
+  "_id": "v3bk5vcrli",
+  "name": "meal",
+  "order": "3",
+  "parents": [
+    "healthfuls"
+  ],
+  "props": {
+    "en": "meal",
+    "jp": "食事",
+    "tl": "しょくじ"
+  }
+}

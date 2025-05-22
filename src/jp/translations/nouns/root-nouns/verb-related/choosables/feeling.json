@@ -1,0 +1,13 @@
+{
+  "_id": "iap5ru2ngvc",
+  "name": "feeling",
+  "order": "1",
+  "parents": [
+    "choosables"
+  ],
+  "props": {
+    "en": "feeling",
+    "jp": "気持ち",
+    "tl": "きもち"
+  }
+}

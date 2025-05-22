@@ -1,0 +1,15 @@
+{
+  "_id": "f3m7n3eihgt",
+  "name": "they",
+  "params": {
+    "pronoun": "he"
+  },
+  "parents": [
+    "third-person-pronouns-plural"
+  ],
+  "props": {
+    "en": "they",
+    "jp": "彼ら",
+    "tl": "かれら"
+  }
+}

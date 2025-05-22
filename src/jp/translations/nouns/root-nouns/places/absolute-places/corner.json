@@ -1,0 +1,13 @@
+{
+  "_id": "lm82j6dylmo",
+  "name": "corner",
+  "order": "3",
+  "parents": [
+    "absolute-places"
+  ],
+  "props": {
+    "en": "corner",
+    "jp": "角",
+    "tl": "かど"
+  }
+}

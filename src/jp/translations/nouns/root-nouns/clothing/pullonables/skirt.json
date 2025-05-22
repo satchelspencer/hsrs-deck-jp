@@ -1,0 +1,12 @@
+{
+  "_id": "7g2mpj1516p",
+  "name": "skirt",
+  "order": "2",
+  "parents": [
+    "pullonables"
+  ],
+  "props": {
+    "en": "skirt",
+    "jp": "スカート"
+  }
+}

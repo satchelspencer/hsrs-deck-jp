@@ -1,0 +1,17 @@
+{
+  "_id": "n290p9ine5s",
+  "name": "wash",
+  "order": "1",
+  "parents": [
+    "godan-u",
+    "people-do",
+    "do-to-clothing",
+    "te-iru-verbs-continuous",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "wash",
+    "jp": "洗う",
+    "tl": "あらう"
+  }
+}

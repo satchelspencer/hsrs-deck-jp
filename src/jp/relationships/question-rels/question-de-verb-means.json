@@ -1,0 +1,13 @@
+{
+  "_id": "1g8082e73vg",
+  "name": "question-de-verb-means",
+  "params": {
+    "qw": "object-question-words",
+    "verb": "de-object-verbs"
+  },
+  "parents": [
+    "question-rels"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "gk1qa6bkqnd",
+  "name": "cash",
+  "order": "1",
+  "parents": [
+    "paywiths"
+  ],
+  "props": {
+    "en": "cash",
+    "jp": "現金",
+    "tl": "げんきん"
+  }
+}

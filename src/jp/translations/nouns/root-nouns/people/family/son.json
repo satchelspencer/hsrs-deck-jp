@@ -1,0 +1,13 @@
+{
+  "_id": "92ymuip91gh",
+  "name": "son",
+  "order": "1",
+  "parents": [
+    "family"
+  ],
+  "props": {
+    "en": "son",
+    "jp": "息子",
+    "tl": "むすこ"
+  }
+}

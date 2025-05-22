@@ -1,0 +1,13 @@
+{
+  "_id": "ld0u3530xa",
+  "name": "snappers-snap",
+  "params": {
+    "noun": "snappers",
+    "verb": "be-snapped"
+  },
+  "parents": [
+    "noun-ga-verb"
+  ],
+  "props": {
+  }
+}

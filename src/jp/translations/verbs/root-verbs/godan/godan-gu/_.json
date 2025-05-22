@@ -1,0 +1,10 @@
+{
+  "_id": "vurxpe61t2d",
+  "name": "godan-gu",
+  "parents": [
+    "godan"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

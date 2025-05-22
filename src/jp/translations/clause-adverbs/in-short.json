@@ -1,0 +1,12 @@
+{
+  "_id": "ge4qeyzowrb",
+  "name": "in-short",
+  "order": "2",
+  "parents": [
+    "clause-adverbs"
+  ],
+  "props": {
+    "en": "in short",
+    "jp": "つまり"
+  }
+}

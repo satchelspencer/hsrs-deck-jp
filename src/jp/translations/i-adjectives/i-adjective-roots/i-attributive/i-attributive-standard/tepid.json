@@ -1,0 +1,13 @@
+{
+  "_id": "mdqfr79gal",
+  "name": "tepid",
+  "order": "2",
+  "parents": [
+    "i-attributive-standard"
+  ],
+  "props": {
+    "en": "tepid",
+    "jp": "温い",
+    "tl": "ぬるい"
+  }
+}

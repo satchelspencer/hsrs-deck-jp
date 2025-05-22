@@ -1,0 +1,14 @@
+{
+  "_id": "mfk9mr0v0w",
+  "name": "asparagus",
+  "order": "3",
+  "parents": [
+    "taba-countable",
+    "foods"
+  ],
+  "props": {
+    "en": "asparagus",
+    "jp": "アスパラ",
+    "tl": "あすぱら"
+  }
+}

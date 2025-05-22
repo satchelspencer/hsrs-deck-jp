@@ -1,0 +1,13 @@
+{
+  "_id": "ocl3eeed9lf",
+  "name": "long-short-long",
+  "params": {
+    "iadj": "long",
+    "noun": "short-long"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "rdrlk12zrpg",
+  "name": "katakana-be",
+  "params": {
+    "h": "katakana-he"
+  },
+  "parents": [
+    "katakana-bs"
+  ],
+  "props": {
+    "_tl": "be",
+    "jp": "ベ"
+  }
+}

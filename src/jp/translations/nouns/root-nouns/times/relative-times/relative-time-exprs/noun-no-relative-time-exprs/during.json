@@ -1,0 +1,14 @@
+{
+  "_id": "4ul1zzg03zq",
+  "name": "during",
+  "order": "3",
+  "parents": [
+    "noun-no-relative-time-exprs",
+    "teiru-relative-time-exprs"
+  ],
+  "props": {
+    "en": "during",
+    "jp": "間に",
+    "tl": "あいだに"
+  }
+}

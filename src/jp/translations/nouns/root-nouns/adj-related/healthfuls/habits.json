@@ -1,0 +1,13 @@
+{
+  "_id": "slvxnb145qd",
+  "name": "habits",
+  "order": "3",
+  "parents": [
+    "healthfuls"
+  ],
+  "props": {
+    "en": "habits",
+    "jp": "習慣",
+    "tl": "しゅうかん"
+  }
+}

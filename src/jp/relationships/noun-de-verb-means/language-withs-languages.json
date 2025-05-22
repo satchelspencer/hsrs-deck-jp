@@ -1,0 +1,13 @@
+{
+  "_id": "8g693uvp4i6",
+  "name": "language-withs-languages",
+  "params": {
+    "noun": "languages",
+    "verb": "do-with-languages"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

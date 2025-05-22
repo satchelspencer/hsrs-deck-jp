@@ -1,0 +1,15 @@
+{
+  "_id": "icdp9ngc8j8",
+  "name": "bird",
+  "order": "1",
+  "parents": [
+    "flying-things",
+    "animals",
+    "wa-countable"
+  ],
+  "props": {
+    "en": "bird",
+    "jp": "鳥",
+    "tl": "とり"
+  }
+}

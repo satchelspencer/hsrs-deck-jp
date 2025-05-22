@@ -1,0 +1,13 @@
+{
+  "_id": "fkd6h2kquev",
+  "name": "cause",
+  "order": "3",
+  "parents": [
+    "informations"
+  ],
+  "props": {
+    "en": "cause",
+    "jp": "原因",
+    "tl": "げんいん"
+  }
+}

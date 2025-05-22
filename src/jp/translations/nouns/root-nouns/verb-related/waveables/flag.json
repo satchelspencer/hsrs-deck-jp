@@ -1,0 +1,16 @@
+{
+  "_id": "sli73axqknr",
+  "name": "flag",
+  "order": "3",
+  "parents": [
+    "waveables",
+    "objects",
+    "raisables",
+    "country-no"
+  ],
+  "props": {
+    "en": "flag",
+    "jp": "旗",
+    "tl": "はた"
+  }
+}

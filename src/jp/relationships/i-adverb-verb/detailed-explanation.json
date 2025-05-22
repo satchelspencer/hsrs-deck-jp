@@ -1,0 +1,13 @@
+{
+  "_id": "5fz8g6eepic",
+  "name": "detailed-explanation",
+  "params": {
+    "iadj": "detailed",
+    "verb": "explanation"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

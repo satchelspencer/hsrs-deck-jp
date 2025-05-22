@@ -1,0 +1,15 @@
+{
+  "_id": "5kl24cfepjm",
+  "name": "window",
+  "order": "2",
+  "parents": [
+    "akeru-shimeru",
+    "objects",
+    "polishables"
+  ],
+  "props": {
+    "en": "window",
+    "jp": "窓",
+    "tl": "まど"
+  }
+}

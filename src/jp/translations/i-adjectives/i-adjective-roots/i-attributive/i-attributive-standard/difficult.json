@@ -1,0 +1,13 @@
+{
+  "_id": "5vqmidfwkiv",
+  "name": "difficult",
+  "order": "2",
+  "parents": [
+    "i-attributive-standard"
+  ],
+  "props": {
+    "en": "difficult",
+    "jp": "難しい",
+    "tl": "むずかしい"
+  }
+}

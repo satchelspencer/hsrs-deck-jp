@@ -1,0 +1,14 @@
+{
+  "_id": "wle8farsoyd",
+  "name": "closet",
+  "order": "3",
+  "parents": [
+    "akeru-shimeru",
+    "containers"
+  ],
+  "props": {
+    "en": "closet",
+    "jp": "押し入れ",
+    "tl": "おしいれ"
+  }
+}

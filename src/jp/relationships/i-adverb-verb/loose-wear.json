@@ -1,0 +1,13 @@
+{
+  "_id": "uxiwn3u5gm",
+  "name": "loose-wear",
+  "params": {
+    "iadj": "loose",
+    "verb": "wear"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

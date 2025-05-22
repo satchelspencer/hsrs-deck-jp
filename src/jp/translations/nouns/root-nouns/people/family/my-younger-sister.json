@@ -1,0 +1,13 @@
+{
+  "_id": "x0bz3blrblo",
+  "name": "my-younger-sister",
+  "order": "1",
+  "parents": [
+    "family"
+  ],
+  "props": {
+    "en": "my younger sister",
+    "jp": "妹",
+    "tl": "いもおと"
+  }
+}

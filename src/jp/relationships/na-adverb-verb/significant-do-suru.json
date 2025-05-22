@@ -1,0 +1,13 @@
+{
+  "_id": "h372klrhrv5",
+  "name": "significant-do-suru",
+  "params": {
+    "na": "significant",
+    "verb": "do-suru"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

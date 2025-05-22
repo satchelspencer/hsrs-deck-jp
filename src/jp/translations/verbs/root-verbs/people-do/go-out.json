@@ -1,0 +1,16 @@
+{
+  "_id": "gr9er8depe4",
+  "name": "go-out",
+  "order": "1",
+  "parents": [
+    "people-do",
+    "ni-destination-verbs",
+    "te-iru-verbs-state",
+    "ichidan"
+  ],
+  "props": {
+    "en": "go out",
+    "jp": "出かける",
+    "tl": "でかける"
+  }
+}

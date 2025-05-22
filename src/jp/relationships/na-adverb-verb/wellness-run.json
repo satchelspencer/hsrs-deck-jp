@@ -1,0 +1,13 @@
+{
+  "_id": "ctq7utpent",
+  "name": "wellness-run",
+  "params": {
+    "na": "wellness",
+    "verb": "run"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "_id": "uavmqu0dy9",
+  "name": "buy",
+  "order": "1",
+  "parents": [
+    "godan-u",
+    "people-do",
+    "do-to-products",
+    "ni-person-verbs",
+    "te-iru-verbs-state",
+    "de-location-verbs",
+    "do-with-money",
+    "ikura-verbs"
+  ],
+  "props": {
+    "en": "buy",
+    "jp": "買う",
+    "tl": "かう"
+  }
+}

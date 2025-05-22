@@ -1,0 +1,13 @@
+{
+  "_id": "htf4he9tjz5",
+  "name": "every-year",
+  "order": "2",
+  "parents": [
+    "continuing-times"
+  ],
+  "props": {
+    "en": "every year",
+    "jp": "毎年",
+    "tl": "まいとし"
+  }
+}

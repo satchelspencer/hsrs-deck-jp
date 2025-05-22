@@ -1,0 +1,15 @@
+{
+  "_id": "xroqnw6rr1g",
+  "name": "get-it-wrong",
+  "order": "2",
+  "parents": [
+    "people-do",
+    "te-iru-verbs-state",
+    "ichidan"
+  ],
+  "props": {
+    "en": "get it wrong",
+    "jp": "間違える",
+    "tl": "まちがえる"
+  }
+}

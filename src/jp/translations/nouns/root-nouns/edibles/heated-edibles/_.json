@@ -1,0 +1,11 @@
+{
+  "_id": "79zakkleghw",
+  "name": "heated-edibles",
+  "parents": [
+    "edibles",
+    "hot-cold-touch"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

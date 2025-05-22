@@ -1,0 +1,13 @@
+{
+  "_id": "g3dicz6c9e7",
+  "name": "answer",
+  "order": "3",
+  "parents": [
+    "informations"
+  ],
+  "props": {
+    "en": "answer",
+    "jp": "答え",
+    "tl": "こたえ"
+  }
+}

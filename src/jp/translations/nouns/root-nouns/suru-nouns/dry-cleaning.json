@@ -1,0 +1,15 @@
+{
+  "_id": "kamj8otf0j",
+  "name": "dry-cleaning",
+  "order": "3",
+  "parents": [
+    "suru-nouns",
+    "people-do",
+    "te-iru-verbs-continuous",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "dry cleaning",
+    "jp": "クリーニング"
+  }
+}

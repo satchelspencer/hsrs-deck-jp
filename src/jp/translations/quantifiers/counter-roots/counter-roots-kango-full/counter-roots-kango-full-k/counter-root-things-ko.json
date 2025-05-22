@@ -1,0 +1,13 @@
+{
+  "_id": "jjzrshxjxdk",
+  "name": "counter-root-things-ko",
+  "order": "2",
+  "parents": [
+    "counter-roots-kango-full-k"
+  ],
+  "props": {
+    "en": "items",
+    "jp": "個",
+    "tl": "こ"
+  }
+}

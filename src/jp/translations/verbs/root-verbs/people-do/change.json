@@ -1,0 +1,16 @@
+{
+  "_id": "dm89wm1zdh4",
+  "name": "change",
+  "order": "1",
+  "parents": [
+    "people-do",
+    "do-to-choices",
+    "te-iru-verbs-continuous",
+    "ichidan"
+  ],
+  "props": {
+    "en": "change",
+    "jp": "変える",
+    "tl": "かえる"
+  }
+}

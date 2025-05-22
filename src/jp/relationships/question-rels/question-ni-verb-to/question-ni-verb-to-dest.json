@@ -1,0 +1,13 @@
+{
+  "_id": "nmvqrb5zxsg",
+  "name": "question-ni-verb-to-dest",
+  "params": {
+    "qw": "location-question-words",
+    "verb": "ni-destination-verbs"
+  },
+  "parents": [
+    "question-ni-verb-to"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "avxdhdt0s5v",
+  "name": "fast-speak",
+  "params": {
+    "iadj": "fast",
+    "verb": "speak"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

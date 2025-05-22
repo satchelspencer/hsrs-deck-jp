@@ -1,0 +1,15 @@
+{
+  "_id": "3ufvitqoff3",
+  "name": "be-conspicuous",
+  "order": "3",
+  "parents": [
+    "godan-tsu",
+    "people-do",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "en": "be conspicuous",
+    "jp": "目立つ",
+    "tl": "めだつ"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "_id": "35g5km60jzp",
+  "name": "hiragana-script",
+  "order": "1",
+  "parents": [
+    "scripts"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

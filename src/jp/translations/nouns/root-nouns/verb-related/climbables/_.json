@@ -1,0 +1,10 @@
+{
+  "_id": "dm38dokqkol",
+  "name": "climbables",
+  "parents": [
+    "verb-related"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

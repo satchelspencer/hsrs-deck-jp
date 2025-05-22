@@ -1,0 +1,13 @@
+{
+  "_id": "1wlm4eebzpz",
+  "name": "counter-ji-six",
+  "params": {
+    "number": "six"
+  },
+  "parents": [
+    "counter-ji"
+  ],
+  "props": {
+    "tl": "ろく~じ"
+  }
+}

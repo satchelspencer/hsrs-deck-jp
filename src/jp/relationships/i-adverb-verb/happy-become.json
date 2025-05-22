@@ -1,0 +1,13 @@
+{
+  "_id": "8u11u3645b9",
+  "name": "happy-become",
+  "params": {
+    "iadj": "happy",
+    "verb": "become"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

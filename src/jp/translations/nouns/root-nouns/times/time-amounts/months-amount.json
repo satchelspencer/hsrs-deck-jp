@@ -1,0 +1,17 @@
+{
+  "_id": "lgr46n6etm",
+  "constraint": "root",
+  "name": "months-amount",
+  "order": "2",
+  "params": {
+    "counter": "counter-kago-regular",
+    "root": "counter-root-months"
+  },
+  "parents": [
+    "time-amounts"
+  ],
+  "props": {
+    "en": "counter.en",
+    "jp": "counter.jp"
+  }
+}

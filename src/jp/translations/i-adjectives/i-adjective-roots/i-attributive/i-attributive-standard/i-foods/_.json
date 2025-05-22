@@ -1,0 +1,10 @@
+{
+  "_id": "pgn8gqel4pg",
+  "name": "i-foods",
+  "parents": [
+    "i-attributive-standard"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

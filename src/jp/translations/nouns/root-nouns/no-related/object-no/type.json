@@ -1,0 +1,13 @@
+{
+  "_id": "j2y1bw6mnwj",
+  "name": "type",
+  "order": "3",
+  "parents": [
+    "object-no"
+  ],
+  "props": {
+    "en": "type",
+    "jp": "種類",
+    "tl": "しゅるい"
+  }
+}

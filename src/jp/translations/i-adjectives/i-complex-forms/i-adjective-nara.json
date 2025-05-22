@@ -1,0 +1,17 @@
+{
+  "_id": "gvu95rnwgnn",
+  "constraint": "iadj",
+  "name": "i-adjective-nara",
+  "order": "4",
+  "params": {
+    "form": "i-desu-forms"
+  },
+  "parents": [
+    "i-complex-forms",
+    "nara-conditional-clauses"
+  ],
+  "props": {
+    "en": "'*if* '+form.en",
+    "jp": "form.jp+'なら'"
+  }
+}

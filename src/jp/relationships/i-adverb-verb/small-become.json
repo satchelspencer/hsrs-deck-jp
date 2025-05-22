@@ -1,0 +1,13 @@
+{
+  "_id": "5x4mw49uj3q",
+  "name": "small-become",
+  "params": {
+    "iadj": "small",
+    "verb": "become"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "km5ebaprs69",
+  "name": "popularity",
+  "order": "3",
+  "parents": [
+    "people-no"
+  ],
+  "props": {
+    "en": "popularity",
+    "jp": "人気",
+    "tl": "にんき"
+  }
+}

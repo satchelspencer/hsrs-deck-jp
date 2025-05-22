@@ -1,0 +1,13 @@
+{
+  "_id": "p2qhz5tyb5r",
+  "name": "soon-root-verbs",
+  "params": {
+    "adv": "soon",
+    "verb": "root-verbs"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

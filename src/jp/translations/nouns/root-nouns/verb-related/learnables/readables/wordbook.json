@@ -1,0 +1,15 @@
+{
+  "_id": "q4t62knjpr",
+  "name": "wordbook",
+  "order": "4",
+  "parents": [
+    "readables",
+    "satsu-countable",
+    "learnables"
+  ],
+  "props": {
+    "en": "wordbook",
+    "jp": "辞典",
+    "tl": "じてん"
+  }
+}

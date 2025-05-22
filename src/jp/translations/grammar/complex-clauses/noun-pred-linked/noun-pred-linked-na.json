@@ -1,0 +1,15 @@
+{
+  "_id": "mfu3zj8625b",
+  "name": "noun-pred-linked-na",
+  "order": "",
+  "params": {
+    "pred": "noun-na-adj-pred"
+  },
+  "parents": [
+    "noun-pred-linked"
+  ],
+  "props": {
+    "en": "te.en+' '+pred.naform.en",
+    "jp": "te.jp+pred.naform.jp"
+  }
+}

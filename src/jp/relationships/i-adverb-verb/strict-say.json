@@ -1,0 +1,13 @@
+{
+  "_id": "9qo7whnunea",
+  "name": "strict-say",
+  "params": {
+    "iadj": "strict",
+    "verb": "say"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

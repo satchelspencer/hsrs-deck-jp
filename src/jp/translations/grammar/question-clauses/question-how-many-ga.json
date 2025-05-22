@@ -1,0 +1,21 @@
+{
+  "_id": "wsuspsyjlqa",
+  "constraint": "verb noun",
+  "name": "question-how-many-ga",
+  "order": "3",
+  "params": {
+    "form": "verb-ka",
+    "noun": "ko-countable",
+    "qw": "how-many",
+    "rel": "noun-ga-verb"
+  },
+  "parents": [
+    "question-clauses",
+    "embedded-wh-questions"
+  ],
+  "props": {
+    "en": "qw.en+' '+noun.en+' '+form.en",
+    "jp": "qw.jp+noun.jp+'が'+form.jp",
+    "tl": ""
+  }
+}

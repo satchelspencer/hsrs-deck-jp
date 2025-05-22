@@ -1,0 +1,10 @@
+{
+  "_id": "eyjwy6boox6",
+  "name": "quantity-question-words",
+  "parents": [
+    "question-words"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

@@ -1,0 +1,18 @@
+{
+  "_id": "ihfcmusoeec",
+  "constraint": "na verb",
+  "name": "na-adj-adv-verb",
+  "order": "2",
+  "params": {
+    "form": "verb-forms",
+    "ni": "na-adjective-ni",
+    "rel": "na-adverb-verb"
+  },
+  "parents": [
+    "clauses"
+  ],
+  "props": {
+    "en": "ni.en+' '+form.en",
+    "jp": "ni.jp+form.jp"
+  }
+}

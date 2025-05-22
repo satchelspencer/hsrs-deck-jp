@@ -1,0 +1,19 @@
+{
+  "_id": "v3lva7w74e",
+  "constraint": "verb noun",
+  "name": "noun-ni-to",
+  "order": "1",
+  "params": {
+    "form": "verb-forms",
+    "rel": "noun-ni-verb-to"
+  },
+  "parents": [
+    "clauses",
+    "const-noun-clauses",
+    "temporal-verb-clauses"
+  ],
+  "props": {
+    "en": "'to the '+rel.noun.en+' '+form.en",
+    "jp": "rel.noun.jp+'に'+form.jp"
+  }
+}

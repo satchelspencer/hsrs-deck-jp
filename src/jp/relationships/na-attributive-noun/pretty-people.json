@@ -1,0 +1,13 @@
+{
+  "_id": "rmdolenwl9i",
+  "name": "pretty-people",
+  "params": {
+    "na": "pretty",
+    "noun": "people"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

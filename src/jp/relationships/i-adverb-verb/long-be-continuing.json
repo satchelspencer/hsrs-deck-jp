@@ -1,0 +1,13 @@
+{
+  "_id": "7v6nrqu5zzg",
+  "name": "long-be-continuing",
+  "params": {
+    "iadj": "long",
+    "verb": "be-continuing"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "mzf7c0d61z",
+  "mode": "cf",
+  "name": "uchi",
+  "order": "3",
+  "parents": [
+    "first-person-pronouns-singular"
+  ],
+  "props": {
+    "en": "I",
+    "jp": "うち",
+    "tl": ""
+  }
+}

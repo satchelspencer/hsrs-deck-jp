@@ -1,0 +1,15 @@
+{
+  "_id": "lozqyjokjrs",
+  "mode": "p",
+  "name": "na-adjective-ba-negative-polite",
+  "params": {
+    "na": "na-attributive"
+  },
+  "parents": [
+    "na-adjective-ba"
+  ],
+  "props": {
+    "en": "'if not '+na.en",
+    "jp": "na.jp+'でなければ'"
+  }
+}

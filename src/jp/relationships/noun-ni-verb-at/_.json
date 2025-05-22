@@ -1,0 +1,14 @@
+{
+  "_id": "y11uvwh30bo",
+  "name": "noun-ni-verb-at",
+  "params": {
+    "noun": "root-nouns",
+    "verb": "root-verbs"
+  },
+  "parents": [
+    "relationships"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

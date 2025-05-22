@@ -1,0 +1,10 @@
+{
+  "_id": "9slhtf8yu3",
+  "name": "mai-countable",
+  "parents": [
+    "counter-related"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

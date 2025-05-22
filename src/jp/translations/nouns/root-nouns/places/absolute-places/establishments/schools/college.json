@@ -1,0 +1,13 @@
+{
+  "_id": "349lf56s1v9",
+  "name": "college",
+  "order": "2",
+  "parents": [
+    "schools"
+  ],
+  "props": {
+    "en": "college",
+    "jp": "大学",
+    "tl": "だいがく"
+  }
+}

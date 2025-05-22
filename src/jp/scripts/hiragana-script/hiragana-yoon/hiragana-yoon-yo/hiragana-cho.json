@@ -1,0 +1,14 @@
+{
+  "_id": "hca1n6lvgf8",
+  "name": "hiragana-cho",
+  "params": {
+    "iis": "hiragana-chi"
+  },
+  "parents": [
+    "hiragana-yoon-yo"
+  ],
+  "props": {
+    "_tl": "cho",
+    "jp": "iis.jp+'ょ'"
+  }
+}

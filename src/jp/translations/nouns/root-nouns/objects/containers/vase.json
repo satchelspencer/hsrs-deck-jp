@@ -1,0 +1,13 @@
+{
+  "_id": "1gaa42fljxq",
+  "name": "vase",
+  "order": "3",
+  "parents": [
+    "containers"
+  ],
+  "props": {
+    "en": "vase",
+    "jp": "花瓶",
+    "tl": "かびん"
+  }
+}

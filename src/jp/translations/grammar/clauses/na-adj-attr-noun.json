@@ -1,0 +1,18 @@
+{
+  "_id": "0w342ps3cbi8",
+  "constraint": "na noun",
+  "name": "na-adj-attr-noun",
+  "order": "1",
+  "params": {
+    "naform": "na-attributive-forms",
+    "nform": "noun-forms",
+    "rel": "na-attributive-noun"
+  },
+  "parents": [
+    "clauses"
+  ],
+  "props": {
+    "en": "(naform.en+' '+nform.en)|mts('is ')|mts('was ')",
+    "jp": "naform.jp+nform.jp"
+  }
+}

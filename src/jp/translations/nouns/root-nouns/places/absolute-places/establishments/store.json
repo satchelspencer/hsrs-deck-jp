@@ -1,0 +1,14 @@
+{
+  "_id": "2yszl6s56pe",
+  "name": "store",
+  "order": "1",
+  "parents": [
+    "establishments",
+    "stores"
+  ],
+  "props": {
+    "en": "store",
+    "jp": "店",
+    "tl": "みせ"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "woelc8mlaog",
+  "name": "simple-memorize",
+  "params": {
+    "na": "simple",
+    "verb": "memorize"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

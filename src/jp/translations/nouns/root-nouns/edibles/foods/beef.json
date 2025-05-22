@@ -1,0 +1,13 @@
+{
+  "_id": "tt8n8zz92r9",
+  "name": "beef",
+  "order": "2",
+  "parents": [
+    "foods"
+  ],
+  "props": {
+    "en": "beef",
+    "jp": "牛肉",
+    "tl": "ぎゅうにく"
+  }
+}

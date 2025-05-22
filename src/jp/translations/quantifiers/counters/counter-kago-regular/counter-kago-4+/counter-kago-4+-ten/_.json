@@ -1,0 +1,14 @@
+{
+  "_id": "mp8durdx8p",
+  "name": "counter-kago-4+-ten",
+  "params": {
+    "number": "ten"
+  },
+  "parents": [
+    "counter-kago-4+"
+  ],
+  "props": {
+    "tl": ""
+  },
+  "virtual": true
+}

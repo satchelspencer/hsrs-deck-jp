@@ -1,0 +1,13 @@
+{
+  "_id": "i6vjbfp5pua",
+  "name": "russia",
+  "order": "2",
+  "parents": [
+    "countries"
+  ],
+  "props": {
+    "en": "russia",
+    "jp": "ロシア",
+    "tl": "ろしあ"
+  }
+}

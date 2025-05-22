@@ -1,0 +1,13 @@
+{
+  "_id": "6sb4tmqr0s",
+  "name": "refrigerator",
+  "order": "2",
+  "parents": [
+    "appliances"
+  ],
+  "props": {
+    "en": "refrigerator",
+    "jp": "冷蔵庫",
+    "tl": "れいぞうこ"
+  }
+}

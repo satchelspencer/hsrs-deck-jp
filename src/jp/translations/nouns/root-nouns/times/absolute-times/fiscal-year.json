@@ -1,0 +1,14 @@
+{
+  "_id": "ulqjyd5dhui",
+  "name": "fiscal-year",
+  "order": "3",
+  "parents": [
+    "absolute-times",
+    "ni-any-times"
+  ],
+  "props": {
+    "en": "fiscal year",
+    "jp": "年度",
+    "tl": "ねんど"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "0khcvie606",
+  "name": "painful-body-parts",
+  "params": {
+    "iadj": "painful",
+    "noun": "body-parts"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

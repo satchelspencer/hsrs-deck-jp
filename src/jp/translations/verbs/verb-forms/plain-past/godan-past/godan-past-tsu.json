@@ -1,0 +1,14 @@
+{
+  "_id": "zllbe20svl9",
+  "name": "godan-past-tsu",
+  "params": {
+    "verb": "godan-tsu"
+  },
+  "parents": [
+    "godan-past"
+  ],
+  "props": {
+    "en": null,
+    "jp": "verb.jp|r('つ', 'った')"
+  }
+}

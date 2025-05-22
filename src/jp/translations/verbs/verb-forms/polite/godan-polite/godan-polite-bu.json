@@ -1,0 +1,14 @@
+{
+  "_id": "dufpxddoham",
+  "name": "godan-polite-bu",
+  "params": {
+    "verb": "godan-bu"
+  },
+  "parents": [
+    "godan-polite"
+  ],
+  "props": {
+    "en": null,
+    "jp": "verb.jp|r('ぶ', 'びます')"
+  }
+}

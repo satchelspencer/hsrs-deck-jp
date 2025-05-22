@@ -1,0 +1,14 @@
+{
+  "_id": "pohb0nm8knh",
+  "name": "credit-card",
+  "order": "2",
+  "parents": [
+    "paywiths",
+    "objects"
+  ],
+  "props": {
+    "en": "credit card",
+    "jp": "カード",
+    "tl": "かーど"
+  }
+}

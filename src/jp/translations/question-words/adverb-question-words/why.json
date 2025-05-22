@@ -1,0 +1,12 @@
+{
+  "_id": "utlf5buvz7n",
+  "name": "why",
+  "order": "2",
+  "parents": [
+    "adverb-question-words"
+  ],
+  "props": {
+    "en": "why",
+    "jp": "なぜ"
+  }
+}

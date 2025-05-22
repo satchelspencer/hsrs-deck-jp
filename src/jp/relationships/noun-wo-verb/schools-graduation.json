@@ -1,0 +1,13 @@
+{
+  "_id": "78qomcl6mcv",
+  "name": "schools-graduation",
+  "params": {
+    "noun": "schools",
+    "verb": "graduation"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

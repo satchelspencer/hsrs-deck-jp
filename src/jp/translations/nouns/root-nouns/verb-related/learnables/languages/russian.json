@@ -1,0 +1,13 @@
+{
+  "_id": "ev5c6tptg1q",
+  "name": "russian",
+  "order": "3",
+  "parents": [
+    "languages"
+  ],
+  "props": {
+    "en": "russian",
+    "jp": "ロシア語",
+    "tl": "ろしあご"
+  }
+}

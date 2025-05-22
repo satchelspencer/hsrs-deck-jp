@@ -1,0 +1,10 @@
+{
+  "_id": "s40syv8y7lk",
+  "name": "nda-na-forms",
+  "parents": [
+    "na-adjective-forms"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

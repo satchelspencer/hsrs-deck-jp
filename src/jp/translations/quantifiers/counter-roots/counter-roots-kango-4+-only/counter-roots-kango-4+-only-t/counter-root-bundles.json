@@ -1,0 +1,13 @@
+{
+  "_id": "qaisveooxc",
+  "name": "counter-root-bundles",
+  "order": "4",
+  "parents": [
+    "counter-roots-kango-4+-only-t"
+  ],
+  "props": {
+    "en": "bundles",
+    "jp": "束",
+    "tl": "たば"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "_id": "xeqc0nf7w0a",
+  "name": "kashou-countable",
+  "parents": [
+    "counter-related"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

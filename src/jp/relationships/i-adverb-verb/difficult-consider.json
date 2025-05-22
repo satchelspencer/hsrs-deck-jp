@@ -1,0 +1,13 @@
+{
+  "_id": "bxfpwakq7mw",
+  "name": "difficult-consider",
+  "params": {
+    "iadj": "difficult",
+    "verb": "consider"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

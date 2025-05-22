@@ -1,0 +1,12 @@
+{
+  "_id": "9jr561viik",
+  "name": "hiragana-ri",
+  "parents": [
+    "hiragana-rs",
+    "hiragana-iis"
+  ],
+  "props": {
+    "_tl": "ri",
+    "jp": "り"
+  }
+}

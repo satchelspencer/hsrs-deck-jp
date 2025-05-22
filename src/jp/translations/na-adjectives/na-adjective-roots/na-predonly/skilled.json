@@ -1,0 +1,13 @@
+{
+  "_id": "jf0ei15es5",
+  "name": "skilled",
+  "order": "2",
+  "parents": [
+    "na-predonly"
+  ],
+  "props": {
+    "en": "skilled",
+    "jp": "上手",
+    "tl": "じょうず"
+  }
+}

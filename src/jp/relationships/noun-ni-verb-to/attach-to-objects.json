@@ -1,0 +1,13 @@
+{
+  "_id": "w3secud1jg",
+  "name": "attach-to-objects",
+  "params": {
+    "noun": "objects",
+    "verb": "attach"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

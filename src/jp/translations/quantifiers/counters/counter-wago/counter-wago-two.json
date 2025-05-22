@@ -1,0 +1,14 @@
+{
+  "_id": "ayd7dukygts",
+  "name": "counter-wago-two",
+  "params": {
+    "number": "two"
+  },
+  "parents": [
+    "counter-wago"
+  ],
+  "props": {
+    "en": null,
+    "jp": "ふたつ"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "3exn3d14nqr",
+  "name": "clothing-be-popular",
+  "params": {
+    "noun": "clothing",
+    "verb": "be-popular"
+  },
+  "parents": [
+    "noun-ga-verb"
+  ],
+  "props": {
+  }
+}

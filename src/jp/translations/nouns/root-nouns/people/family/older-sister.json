@@ -1,0 +1,13 @@
+{
+  "_id": "60e6nixq9a6",
+  "name": "older-sister",
+  "order": "2",
+  "parents": [
+    "family"
+  ],
+  "props": {
+    "en": "older sister",
+    "jp": "お姉さん",
+    "tl": "おねえさん"
+  }
+}

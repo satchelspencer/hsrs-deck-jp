@@ -1,0 +1,13 @@
+{
+  "_id": "m3o4ip36g4l",
+  "name": "hundred",
+  "order": "2",
+  "parents": [
+    "numbers"
+  ],
+  "props": {
+    "en": "100",
+    "jp": "百",
+    "tl": "ひゃく"
+  }
+}

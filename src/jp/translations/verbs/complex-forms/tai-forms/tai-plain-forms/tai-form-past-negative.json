@@ -1,0 +1,16 @@
+{
+  "_id": "y4zh2z3chjk",
+  "constraint": "verb",
+  "name": "tai-form-past-negative",
+  "order": "3",
+  "params": {
+    "tai": "tai-form"
+  },
+  "parents": [
+    "tai-plain-forms"
+  ],
+  "props": {
+    "en": "tai.en|pr('want', 'not wanted')",
+    "jp": "tai.jp|r('い', 'くなかった')"
+  }
+}

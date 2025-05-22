@@ -1,0 +1,13 @@
+{
+  "_id": "gwrll9haz2g",
+  "name": "grandmother",
+  "order": "1",
+  "parents": [
+    "family"
+  ],
+  "props": {
+    "en": "grandmother",
+    "jp": "おばあさん",
+    "tl": ""
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "_id": "qzmpcez06ef",
+  "name": "yes",
+  "order": "1",
+  "parents": [
+    "replies"
+  ],
+  "props": {
+    "en": "yes",
+    "jp": "はい"
+  }
+}

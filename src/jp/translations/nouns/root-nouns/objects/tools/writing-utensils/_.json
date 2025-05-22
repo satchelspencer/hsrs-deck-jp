@@ -1,0 +1,10 @@
+{
+  "_id": "mk962zz7ygh",
+  "name": "writing-utensils",
+  "parents": [
+    "tools"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

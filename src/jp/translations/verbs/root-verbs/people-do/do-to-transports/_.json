@@ -1,0 +1,12 @@
+{
+  "_id": "322nrep5c2o",
+  "name": "do-to-transports",
+  "parents": [
+    "people-do"
+  ],
+  "props": {
+    "en": null,
+    "jp": null
+  },
+  "virtual": true
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "4e6o0bjd8rb",
+  "name": "exhibition",
+  "order": "3",
+  "parents": [
+    "events"
+  ],
+  "props": {
+    "en": "exhibition",
+    "jp": "展覧会",
+    "tl": "てんらんかい"
+  }
+}

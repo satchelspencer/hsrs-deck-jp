@@ -1,0 +1,13 @@
+{
+  "_id": "denjhj830z5",
+  "name": "i-predicate-question-personal",
+  "params": {
+    "iadj": "i-people",
+    "qw": "personal-question-words"
+  },
+  "parents": [
+    "i-predicate-question"
+  ],
+  "props": {
+  }
+}

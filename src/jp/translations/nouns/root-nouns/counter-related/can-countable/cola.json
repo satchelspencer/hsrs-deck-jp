@@ -1,0 +1,14 @@
+{
+  "_id": "jkz9wxr3nmq",
+  "name": "cola",
+  "order": "2",
+  "parents": [
+    "can-countable",
+    "drinks"
+  ],
+  "props": {
+    "en": "cola",
+    "jp": "コーラ",
+    "tl": "こーら"
+  }
+}

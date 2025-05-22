@@ -1,0 +1,12 @@
+{
+  "_id": "3keymodgm7x",
+  "name": "soko",
+  "order": "2",
+  "parents": [
+    "location-pronouns"
+  ],
+  "props": {
+    "en": "there",
+    "jp": "そこ"
+  }
+}

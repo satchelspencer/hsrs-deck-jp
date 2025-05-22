@@ -1,0 +1,15 @@
+{
+  "_id": "mbtnjxwa3in",
+  "name": "stand-it-up",
+  "order": "3",
+  "parents": [
+    "people-do",
+    "te-iru-verbs-continuous",
+    "ichidan"
+  ],
+  "props": {
+    "en": "stand it up",
+    "jp": "立てる",
+    "tl": "たてる"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "se2q1rji2a",
+  "name": "breath-outables-nouns",
+  "params": {
+    "noun": "breath-outables",
+    "verb": "breathe-out"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

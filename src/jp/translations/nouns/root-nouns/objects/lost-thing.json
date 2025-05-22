@@ -1,0 +1,14 @@
+{
+  "_id": "kf5y1voh2qe",
+  "name": "lost-thing",
+  "order": "3",
+  "parents": [
+    "objects",
+    "activities"
+  ],
+  "props": {
+    "en": "lost thing",
+    "jp": "忘れ物",
+    "tl": "わすれもの"
+  }
+}

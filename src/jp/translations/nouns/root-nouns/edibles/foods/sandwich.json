@@ -1,0 +1,13 @@
+{
+  "_id": "44haxquv3nj",
+  "name": "sandwich",
+  "order": "3",
+  "parents": [
+    "foods"
+  ],
+  "props": {
+    "en": "sandwich",
+    "jp": "サンドイッチ",
+    "tl": "さんどいっち"
+  }
+}

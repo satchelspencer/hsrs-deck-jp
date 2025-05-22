@@ -1,0 +1,13 @@
+{
+  "_id": "ro9ua9vut1",
+  "name": "color",
+  "order": "2",
+  "parents": [
+    "object-no"
+  ],
+  "props": {
+    "en": "color",
+    "jp": "色",
+    "tl": "いろ"
+  }
+}

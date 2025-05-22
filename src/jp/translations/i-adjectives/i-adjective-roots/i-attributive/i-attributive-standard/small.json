@@ -1,0 +1,14 @@
+{
+  "_id": "2rjlv1o3j2i",
+  "name": "small",
+  "order": "1",
+  "parents": [
+    "i-attributive-standard",
+    "i-objects"
+  ],
+  "props": {
+    "en": "small",
+    "jp": "小さい",
+    "tl": "ちいさい"
+  }
+}

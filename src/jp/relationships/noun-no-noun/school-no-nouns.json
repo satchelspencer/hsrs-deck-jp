@@ -1,0 +1,13 @@
+{
+  "_id": "geykar7t3g",
+  "name": "school-no-nouns",
+  "params": {
+    "noun": "school-no",
+    "owner": "schools"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

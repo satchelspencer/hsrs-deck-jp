@@ -1,0 +1,10 @@
+{
+  "_id": "dorekwms3rp",
+  "name": "katakana-ks",
+  "parents": [
+    "katakana-script"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

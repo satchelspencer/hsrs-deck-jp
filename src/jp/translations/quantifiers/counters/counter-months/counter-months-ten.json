@@ -1,0 +1,14 @@
+{
+  "_id": "ochahzarke",
+  "name": "counter-months-ten",
+  "params": {
+    "number": "ten"
+  },
+  "parents": [
+    "counter-months"
+  ],
+  "props": {
+    "en": "october",
+    "tl": "じゅうがつ\t"
+  }
+}

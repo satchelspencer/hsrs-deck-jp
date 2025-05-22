@@ -1,0 +1,13 @@
+{
+  "_id": "jlnawql0oam",
+  "name": "counter-root-books",
+  "order": "1",
+  "parents": [
+    "counter-roots-kango-full-s"
+  ],
+  "props": {
+    "en": "books",
+    "jp": "冊",
+    "tl": "さつ"
+  }
+}

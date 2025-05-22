@@ -1,0 +1,13 @@
+{
+  "_id": "8fijtmieuw6",
+  "name": "counter-root-birds",
+  "order": "3",
+  "parents": [
+    "counter-roots-kango-full-w"
+  ],
+  "props": {
+    "en": "birds",
+    "jp": "羽",
+    "tl": "わ"
+  }
+}

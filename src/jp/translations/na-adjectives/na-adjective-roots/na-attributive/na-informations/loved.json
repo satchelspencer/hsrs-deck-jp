@@ -1,0 +1,14 @@
+{
+  "_id": "b4kwolrzald",
+  "name": "loved",
+  "order": "2",
+  "parents": [
+    "na-informations",
+    "na-preferables"
+  ],
+  "props": {
+    "en": "loved",
+    "jp": "大好き",
+    "tl": "だいすき"
+  }
+}

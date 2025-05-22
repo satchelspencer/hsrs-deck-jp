@@ -1,0 +1,13 @@
+{
+  "_id": "nry6krrghyd",
+  "name": "places-ni-at-verbs",
+  "params": {
+    "noun": "places",
+    "verb": "ni-at-verbs"
+  },
+  "parents": [
+    "noun-ni-verb-at"
+  ],
+  "props": {
+  }
+}

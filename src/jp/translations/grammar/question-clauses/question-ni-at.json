@@ -1,0 +1,17 @@
+{
+  "_id": "25weabt8rpp",
+  "constraint": "verb",
+  "name": "question-ni-at",
+  "order": "1",
+  "params": {
+    "form": "verb-ka",
+    "rel": "question-ni-verb-at"
+  },
+  "parents": [
+    "question-clauses"
+  ],
+  "props": {
+    "en": "'at '+rel.qw.en+' '+form.en",
+    "jp": "rel.qw.jp+'に'+form.jp"
+  }
+}

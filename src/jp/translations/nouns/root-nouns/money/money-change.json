@@ -1,0 +1,13 @@
+{
+  "_id": "q6l0qu32aqc",
+  "name": "money-change",
+  "order": "3",
+  "parents": [
+    "money"
+  ],
+  "props": {
+    "en": "change (money)",
+    "jp": "お釣り",
+    "tl": "おつり"
+  }
+}

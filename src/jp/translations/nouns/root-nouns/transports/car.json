@@ -1,0 +1,15 @@
+{
+  "_id": "dc1x9biv8l",
+  "name": "car",
+  "order": "2",
+  "parents": [
+    "transports",
+    "dai-countable",
+    "polishables"
+  ],
+  "props": {
+    "en": "car",
+    "jp": "車",
+    "tl": "くるま"
+  }
+}

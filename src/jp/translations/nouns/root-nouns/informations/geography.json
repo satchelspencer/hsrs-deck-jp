@@ -1,0 +1,14 @@
+{
+  "_id": "7w293mc9273",
+  "name": "geography",
+  "order": "3",
+  "parents": [
+    "informations",
+    "learnables"
+  ],
+  "props": {
+    "en": "geography",
+    "jp": "地理",
+    "tl": "ちり"
+  }
+}

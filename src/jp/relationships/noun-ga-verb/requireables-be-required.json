@@ -1,0 +1,13 @@
+{
+  "_id": "nveboxwhvvl",
+  "name": "requireables-be-required",
+  "params": {
+    "noun": "be-requiredables",
+    "verb": "be-required"
+  },
+  "parents": [
+    "noun-ga-verb"
+  ],
+  "props": {
+  }
+}

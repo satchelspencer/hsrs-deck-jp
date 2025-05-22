@@ -1,0 +1,13 @@
+{
+  "_id": "d27zohifyrh",
+  "name": "pronoun-de-verb-in",
+  "params": {
+    "pn": "location-pronouns",
+    "verb": "de-location-verbs"
+  },
+  "parents": [
+    "pronoun-rels"
+  ],
+  "props": {
+  }
+}

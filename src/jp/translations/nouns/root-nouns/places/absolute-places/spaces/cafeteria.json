@@ -1,0 +1,13 @@
+{
+  "_id": "tqpt7c9wca8",
+  "name": "cafeteria",
+  "order": "2",
+  "parents": [
+    "spaces"
+  ],
+  "props": {
+    "en": "cafeteria",
+    "jp": "食堂",
+    "tl": "しょくどう"
+  }
+}

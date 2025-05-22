@@ -1,0 +1,14 @@
+{
+  "_id": "1th3y7k4fhv",
+  "name": "counter-nichi-three",
+  "params": {
+    "number": "three"
+  },
+  "parents": [
+    "counter-days"
+  ],
+  "props": {
+    "jp": "三日",
+    "tl": "みっか"
+  }
+}

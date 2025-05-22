@@ -1,0 +1,13 @@
+{
+  "_id": "5pv27rv6wrk",
+  "name": "impossible-suru-nouns",
+  "params": {
+    "na": "impossible",
+    "noun": "suru-nouns"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

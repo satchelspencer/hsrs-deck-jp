@@ -1,0 +1,13 @@
+{
+  "_id": "lb78pq2hho",
+  "name": "long",
+  "order": "2",
+  "parents": [
+    "i-attributive-standard"
+  ],
+  "props": {
+    "en": "long",
+    "jp": "長い",
+    "tl": "ながい"
+  }
+}

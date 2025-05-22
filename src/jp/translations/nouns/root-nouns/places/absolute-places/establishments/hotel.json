@@ -1,0 +1,14 @@
+{
+  "_id": "ljutp0o2owb",
+  "name": "hotel",
+  "order": "1",
+  "parents": [
+    "establishments",
+    "reservables"
+  ],
+  "props": {
+    "en": "hotel",
+    "jp": "ホテル",
+    "tl": "ほてる"
+  }
+}

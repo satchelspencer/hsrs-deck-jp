@@ -1,0 +1,16 @@
+{
+  "_id": "yij2qmrccce",
+  "name": "graduation",
+  "order": "2",
+  "parents": [
+    "events",
+    "suru-nouns",
+    "people-do",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "en": "graduation",
+    "jp": "卒業",
+    "tl": "そつぎょう"
+  }
+}

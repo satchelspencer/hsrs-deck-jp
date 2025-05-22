@@ -1,0 +1,11 @@
+{
+  "_id": "x7jvxqjfd9s",
+  "name": "third-person-pronouns-singular",
+  "order": "",
+  "parents": [
+    "third-person-pronouns"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "5cgonoe35ji",
+  "name": "celebration",
+  "order": "2",
+  "parents": [
+    "suru-nouns",
+    "people-do",
+    "te-iru-verbs-continuous",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "celebration",
+    "jp": "お祝い",
+    "tl": "おいわい"
+  }
+}

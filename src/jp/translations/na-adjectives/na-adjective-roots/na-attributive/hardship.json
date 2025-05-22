@@ -1,0 +1,14 @@
+{
+  "_id": "9juzhljw21a",
+  "name": "hardship",
+  "order": "1",
+  "parents": [
+    "na-attributive",
+    "na-people"
+  ],
+  "props": {
+    "en": "hardship",
+    "jp": "大変",
+    "tl": "たいへん"
+  }
+}

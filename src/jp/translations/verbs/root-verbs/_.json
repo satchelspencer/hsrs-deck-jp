@@ -1,0 +1,10 @@
+{
+  "_id": "all5x3m09pc",
+  "name": "root-verbs",
+  "parents": [
+    "verbs"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

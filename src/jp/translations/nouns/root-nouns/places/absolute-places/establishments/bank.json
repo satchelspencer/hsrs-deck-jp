@@ -1,0 +1,14 @@
+{
+  "_id": "gtdsl3zpgn",
+  "name": "bank",
+  "order": "2",
+  "parents": [
+    "establishments",
+    "organizations"
+  ],
+  "props": {
+    "en": "bank",
+    "jp": "銀行",
+    "tl": "ぎんこう"
+  }
+}

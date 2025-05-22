@@ -1,0 +1,13 @@
+{
+  "_id": "iov0bg1bcva",
+  "name": "goal",
+  "order": "2",
+  "parents": [
+    "choosables"
+  ],
+  "props": {
+    "en": "goal",
+    "jp": "目標",
+    "tl": "もくひょう"
+  }
+}

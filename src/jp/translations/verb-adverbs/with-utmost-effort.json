@@ -1,0 +1,13 @@
+{
+  "_id": "vn6hapbgg9",
+  "name": "with-utmost-effort",
+  "order": "3",
+  "parents": [
+    "verb-adverbs"
+  ],
+  "props": {
+    "en": "with utmost effort",
+    "jp": "一生懸命",
+    "tl": "いっしょうけんめい"
+  }
+}

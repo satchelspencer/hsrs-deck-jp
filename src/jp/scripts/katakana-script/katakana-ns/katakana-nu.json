@@ -1,0 +1,11 @@
+{
+  "_id": "o3tcyizcnqb",
+  "name": "katakana-nu",
+  "parents": [
+    "katakana-ns"
+  ],
+  "props": {
+    "_tl": "nu",
+    "jp": "ヌ"
+  }
+}

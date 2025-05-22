@@ -1,0 +1,13 @@
+{
+  "_id": "5r2b2aw2v1a",
+  "name": "normal-people-do",
+  "params": {
+    "na": "normal",
+    "verb": "people-do"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

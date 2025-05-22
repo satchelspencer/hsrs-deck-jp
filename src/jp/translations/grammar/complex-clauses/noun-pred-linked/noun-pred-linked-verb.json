@@ -1,0 +1,14 @@
+{
+  "_id": "tsvy2rpp0e9",
+  "name": "noun-pred-linked-verb",
+  "params": {
+    "pred": "noun-ga-sub"
+  },
+  "parents": [
+    "noun-pred-linked"
+  ],
+  "props": {
+    "en": "te.en+' '+pred.form.en",
+    "jp": "te.jp+pred.form.jp"
+  }
+}

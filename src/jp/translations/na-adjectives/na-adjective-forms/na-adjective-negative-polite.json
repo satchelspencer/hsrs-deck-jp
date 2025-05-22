@@ -1,0 +1,22 @@
+{
+  "_id": "fmnfu8a3yvn",
+  "mode": "p",
+  "name": "na-adjective-negative-polite",
+  "order": "2",
+  "params": {
+    "na": "na-attributive"
+  },
+  "parents": [
+    "na-adjective-forms",
+    "na-attributive-forms",
+    "na-predicate-forms",
+    "ka-na-forms",
+    "nda-na-forms",
+    "yo-ne-na-forms"
+  ],
+  "props": {
+    "en": "'not '+na.en",
+    "jp": "na.jp+'ではない'",
+    "tl": "na.tl+'でわない'"
+  }
+}

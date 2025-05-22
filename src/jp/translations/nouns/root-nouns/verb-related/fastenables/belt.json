@@ -1,0 +1,12 @@
+{
+  "_id": "vamm1x6ynd9",
+  "name": "belt",
+  "order": "3",
+  "parents": [
+    "fastenables"
+  ],
+  "props": {
+    "en": "belt",
+    "jp": "ベルト"
+  }
+}

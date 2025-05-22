@@ -1,0 +1,20 @@
+{
+  "_id": "3qlo0p5wfgj",
+  "name": "tree",
+  "order": "1",
+  "parents": [
+    "plants",
+    "tippable",
+    "hard-softs",
+    "high-low",
+    "hon-countable",
+    "climbables",
+    "building-materials",
+    "snappers"
+  ],
+  "props": {
+    "en": "tree",
+    "jp": "木",
+    "tl": "き"
+  }
+}

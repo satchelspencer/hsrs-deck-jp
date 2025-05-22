@@ -1,0 +1,13 @@
+{
+  "_id": "rf02koothi",
+  "name": "transports-be-broken",
+  "params": {
+    "noun": "transports",
+    "verb": "be-broken"
+  },
+  "parents": [
+    "noun-ga-verb"
+  ],
+  "props": {
+  }
+}

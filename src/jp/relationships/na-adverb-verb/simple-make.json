@@ -1,0 +1,13 @@
+{
+  "_id": "natjhyqloy",
+  "name": "simple-make",
+  "params": {
+    "na": "simple",
+    "verb": "make"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

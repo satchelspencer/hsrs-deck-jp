@@ -1,0 +1,13 @@
+{
+  "_id": "xf6bt4tw12",
+  "name": "katakana-pya",
+  "params": {
+    "iis": "katakana-pi"
+  },
+  "parents": [
+    "katakana-yoon-ya"
+  ],
+  "props": {
+    "_tl": "pya"
+  }
+}

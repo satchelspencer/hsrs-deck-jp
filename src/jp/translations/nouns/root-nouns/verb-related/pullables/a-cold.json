@@ -1,0 +1,13 @@
+{
+  "_id": "esoede2t2gk",
+  "name": "a-cold",
+  "order": "2",
+  "parents": [
+    "pullables"
+  ],
+  "props": {
+    "en": "a cold",
+    "jp": "風邪",
+    "tl": "かぜ"
+  }
+}

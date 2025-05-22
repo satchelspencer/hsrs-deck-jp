@@ -1,0 +1,17 @@
+{
+  "_id": "nczz814rbxp",
+  "constraint": "verb form",
+  "name": "yori-hou-noun-ga-sub",
+  "order": "",
+  "params": {
+    "alt": "noun-ga-sub",
+    "clause": "noun-ga-sub"
+  },
+  "parents": [
+    "yori-hou-comparisons"
+  ],
+  "props": {
+    "en": "'rather than '+alt.rel.noun.en+', '+clause.en",
+    "jp": "alt.rel.noun.jp+'より'+clause.jp|rg(clause.rel.noun.jp, clause.rel.noun.jp+'のほう')"
+  }
+}

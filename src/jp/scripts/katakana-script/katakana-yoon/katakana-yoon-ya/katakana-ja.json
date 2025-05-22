@@ -1,0 +1,13 @@
+{
+  "_id": "dse320bpq5v",
+  "name": "katakana-ja",
+  "params": {
+    "iis": "katakana-ji"
+  },
+  "parents": [
+    "katakana-yoon-ya"
+  ],
+  "props": {
+    "_tl": "ja"
+  }
+}

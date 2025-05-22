@@ -1,0 +1,17 @@
+{
+  "_id": "2gpcnr810af",
+  "constraint": "verb form",
+  "name": "de-in-ga",
+  "order": "2",
+  "params": {
+    "de": "noun-de-in",
+    "ga": "noun-ga-sub"
+  },
+  "parents": [
+    "clauses"
+  ],
+  "props": {
+    "en": "'at the '+de.rel.noun.en+', '+ga.en",
+    "jp": "de.rel.noun.jp+'で'+ga.jp"
+  }
+}

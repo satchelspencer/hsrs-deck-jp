@@ -1,0 +1,14 @@
+{
+  "_id": "6mnmzdjivts",
+  "name": "katakana-zu",
+  "params": {
+    "s": "katakana-su"
+  },
+  "parents": [
+    "katakana-zs"
+  ],
+  "props": {
+    "_tl": "zu",
+    "jp": "ズ"
+  }
+}

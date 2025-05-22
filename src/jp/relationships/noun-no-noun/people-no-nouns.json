@@ -1,0 +1,13 @@
+{
+  "_id": "05y2bfh6n733",
+  "name": "people-no-nouns",
+  "params": {
+    "noun": "people-no",
+    "owner": "people"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

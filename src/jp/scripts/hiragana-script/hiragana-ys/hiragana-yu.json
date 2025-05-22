@@ -1,0 +1,11 @@
+{
+  "_id": "zujtvy9aftg",
+  "name": "hiragana-yu",
+  "parents": [
+    "hiragana-ys"
+  ],
+  "props": {
+    "_tl": "yu",
+    "jp": "ゆ"
+  }
+}

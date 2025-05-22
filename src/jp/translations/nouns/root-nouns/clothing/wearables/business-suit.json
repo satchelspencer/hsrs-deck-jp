@@ -1,0 +1,13 @@
+{
+  "_id": "h6powjhp9q6",
+  "name": "business-suit",
+  "order": "2",
+  "parents": [
+    "wearables"
+  ],
+  "props": {
+    "en": "business suit",
+    "jp": "背広",
+    "tl": "せびろ"
+  }
+}

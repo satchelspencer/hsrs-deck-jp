@@ -1,0 +1,11 @@
+{
+  "_id": "c88frws7p6n",
+  "name": "katakana-nn",
+  "parents": [
+    "katakana-script"
+  ],
+  "props": {
+    "_tl": "n",
+    "jp": "ン"
+  }
+}

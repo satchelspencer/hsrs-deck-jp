@@ -1,0 +1,13 @@
+{
+  "_id": "q6uwjy6eo7b",
+  "name": "peculiar",
+  "order": "3",
+  "parents": [
+    "i-people"
+  ],
+  "props": {
+    "en": "peculiar",
+    "jp": "可笑しい",
+    "tl": "おかしい"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "1h81xiz6cjn",
+  "name": "counter-kago-full-one-s",
+  "params": {
+    "number": "",
+    "root": "counter-roots-kango-full-s"
+  },
+  "parents": [
+    "counter-kago-full-one"
+  ],
+  "props": {
+    "tl": "'いっ'+root.tl"
+  }
+}

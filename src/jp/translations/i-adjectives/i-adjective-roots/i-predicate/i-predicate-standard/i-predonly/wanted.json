@@ -1,0 +1,13 @@
+{
+  "_id": "mo8qsdt1r",
+  "name": "wanted",
+  "order": "1",
+  "parents": [
+    "i-predonly"
+  ],
+  "props": {
+    "en": "wanted",
+    "jp": "欲しい",
+    "tl": "ほしい"
+  }
+}

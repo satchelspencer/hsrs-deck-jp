@@ -1,0 +1,13 @@
+{
+  "_id": "mcm7cf5w7j",
+  "name": "simple",
+  "order": "2",
+  "parents": [
+    "na-attributive"
+  ],
+  "props": {
+    "en": "simple",
+    "jp": "簡単",
+    "tl": "かんたん"
+  }
+}

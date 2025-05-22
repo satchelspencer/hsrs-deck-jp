@@ -1,0 +1,13 @@
+{
+  "_id": "9pun11l3j5k",
+  "name": "do-to-hangables-hangables",
+  "params": {
+    "noun": "hangables",
+    "verb": "do-to-hangables"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

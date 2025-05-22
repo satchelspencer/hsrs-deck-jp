@@ -1,0 +1,13 @@
+{
+  "_id": "c0wbngwuvwl",
+  "name": "counter-nin-three",
+  "params": {
+    "number": "three"
+  },
+  "parents": [
+    "counter-nin"
+  ],
+  "props": {
+    "tl": "さん~にん"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "y7051h4pw5o",
+  "name": "get-wet-with-drinks",
+  "params": {
+    "noun": "drinks",
+    "verb": "get-wet"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

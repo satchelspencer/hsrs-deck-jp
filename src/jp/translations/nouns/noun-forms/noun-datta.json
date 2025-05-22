@@ -1,0 +1,20 @@
+{
+  "_id": "xddsgv6kwch",
+  "mode": "c",
+  "name": "noun-datta",
+  "order": "2",
+  "params": {
+    "noun": "root-nouns"
+  },
+  "parents": [
+    "noun-forms",
+    "ka-noun-forms",
+    "yo-noun-forms",
+    "conjunctive-noun-forms",
+    "noun-plain-forms"
+  ],
+  "props": {
+    "en": "'was '+noun.en",
+    "jp": "noun.jp+'だった'"
+  }
+}

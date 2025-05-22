@@ -1,0 +1,13 @@
+{
+  "_id": "xrsi4ua5n27",
+  "name": "cold-weather-feel-emotion",
+  "params": {
+    "iadj": "cold-weather",
+    "verb": "feel-emotion"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

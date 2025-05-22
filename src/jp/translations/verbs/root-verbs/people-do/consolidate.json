@@ -1,0 +1,14 @@
+{
+  "_id": "mnk1ztowd3a",
+  "name": "consolidate",
+  "order": "3",
+  "parents": [
+    "people-do",
+    "te-iru-verbs-continuous",
+    "ichidan"
+  ],
+  "props": {
+    "en": "consolidate",
+    "jp": "まとめる"
+  }
+}

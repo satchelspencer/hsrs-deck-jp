@@ -1,0 +1,16 @@
+{
+  "_id": "oxvz1mh8rjn",
+  "constraint": "verb",
+  "name": "verb-form-clause",
+  "order": "1",
+  "params": {
+    "form": ""
+  },
+  "parents": [
+    "temporal-verb-clauses"
+  ],
+  "props": {
+    "en": "form.en",
+    "jp": "form.jp"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "65gy0j7a69m",
+  "name": "reverse-side",
+  "order": "3",
+  "parents": [
+    "positional-words"
+  ],
+  "props": {
+    "en": "reverse side",
+    "jp": "裏",
+    "tl": "うら"
+  }
+}

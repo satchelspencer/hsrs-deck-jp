@@ -1,0 +1,13 @@
+{
+  "_id": "2gwvuuf6c3b",
+  "name": "interesting-media",
+  "params": {
+    "iadj": "interesting",
+    "noun": "media"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

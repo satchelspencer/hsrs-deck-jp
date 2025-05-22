@@ -1,0 +1,14 @@
+{
+  "_id": "jry85a90j39",
+  "name": "happy",
+  "order": "2",
+  "parents": [
+    "i-attributive-standard",
+    "i-people"
+  ],
+  "props": {
+    "en": "happy",
+    "jp": "嬉しい",
+    "tl": "うれしい"
+  }
+}

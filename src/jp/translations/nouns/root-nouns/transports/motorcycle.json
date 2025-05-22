@@ -1,0 +1,13 @@
+{
+  "_id": "c3y5mfx8h59",
+  "name": "motorcycle",
+  "order": "3",
+  "parents": [
+    "transports"
+  ],
+  "props": {
+    "en": "motorcycle",
+    "jp": "オートバイ",
+    "tl": "おーとばい"
+  }
+}

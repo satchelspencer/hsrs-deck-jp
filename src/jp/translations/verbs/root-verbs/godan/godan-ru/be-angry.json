@@ -1,0 +1,15 @@
+{
+  "_id": "rsa2r39y6z",
+  "name": "be-angry",
+  "order": "3",
+  "parents": [
+    "godan-ru",
+    "people-do",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "en": "be angry",
+    "jp": "怒る",
+    "tl": "おこる"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "_id": "e1xt0s1pn5o",
+  "name": "counter-related",
+  "parents": [
+    "root-nouns"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

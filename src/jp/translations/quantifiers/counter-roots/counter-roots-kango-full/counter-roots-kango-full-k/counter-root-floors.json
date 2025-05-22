@@ -1,0 +1,14 @@
+{
+  "_id": "yfronuc7o4",
+  "name": "counter-root-floors",
+  "order": "1",
+  "parents": [
+    "counter-roots-kango-full-k",
+    "absolute-places"
+  ],
+  "props": {
+    "en": "building floor",
+    "jp": "階",
+    "tl": "かい"
+  }
+}

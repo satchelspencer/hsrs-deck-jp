@@ -1,0 +1,10 @@
+{
+  "_id": "eq2n5sxpc4",
+  "name": "sendables",
+  "parents": [
+    "verb-related"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

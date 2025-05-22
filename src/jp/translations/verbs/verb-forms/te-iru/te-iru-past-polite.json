@@ -1,0 +1,13 @@
+{
+  "_id": "x0jwvv936zm",
+  "mode": "p",
+  "name": "te-iru-past-polite",
+  "order": "2",
+  "parents": [
+    "te-iru"
+  ],
+  "props": {
+    "en": "'was '+te.en|r(' and','')+'-ing'",
+    "jp": "te.jp+'いました'"
+  }
+}

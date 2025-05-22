@@ -1,0 +1,13 @@
+{
+  "_id": "ixe1tiakdf",
+  "name": "boots",
+  "order": "2",
+  "parents": [
+    "soku-countable",
+    "footwear"
+  ],
+  "props": {
+    "en": "boots",
+    "jp": "ブーツ"
+  }
+}

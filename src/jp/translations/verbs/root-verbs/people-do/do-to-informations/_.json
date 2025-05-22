@@ -1,0 +1,10 @@
+{
+  "_id": "20f5shwd215",
+  "name": "do-to-informations",
+  "parents": [
+    "people-do"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

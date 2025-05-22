@@ -1,0 +1,14 @@
+{
+  "_id": "682bhl3ivnx",
+  "name": "hold-a-job",
+  "order": "4",
+  "parents": [
+    "people-do",
+    "ichidan"
+  ],
+  "props": {
+    "en": "hold a job",
+    "jp": "勤める",
+    "tl": "つとめる"
+  }
+}

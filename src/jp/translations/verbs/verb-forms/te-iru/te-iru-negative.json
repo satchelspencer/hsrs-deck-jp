@@ -1,0 +1,13 @@
+{
+  "_id": "gv5m52nqbn9",
+  "mode": "c",
+  "name": "te-iru-negative",
+  "order": "1",
+  "parents": [
+    "te-iru"
+  ],
+  "props": {
+    "en": "'not '+te.en|r(' and','')+'-ing'",
+    "jp": "te.jp+'いない'"
+  }
+}

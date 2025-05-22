@@ -1,0 +1,16 @@
+{
+  "_id": "yfkzh4tsgh",
+  "name": "movie",
+  "order": "1",
+  "parents": [
+    "objects",
+    "products",
+    "learnables",
+    "media"
+  ],
+  "props": {
+    "en": "movie",
+    "jp": "映画",
+    "tl": "えいが"
+  }
+}

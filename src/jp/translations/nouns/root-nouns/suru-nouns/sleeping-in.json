@@ -1,0 +1,13 @@
+{
+  "_id": "xc3ipx935xe",
+  "name": "sleeping-in",
+  "order": "3",
+  "parents": [
+    "suru-nouns"
+  ],
+  "props": {
+    "en": "sleeping in",
+    "jp": "寝坊",
+    "tl": "ねぼう"
+  }
+}

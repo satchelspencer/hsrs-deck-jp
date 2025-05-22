@@ -1,0 +1,16 @@
+{
+  "_id": "zwvblohmoik",
+  "name": "give-okuru",
+  "order": "4",
+  "parents": [
+    "godan-ru",
+    "people-do",
+    "do-to-products",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "en": "give as a gift",
+    "jp": "贈る",
+    "tl": "おくる"
+  }
+}

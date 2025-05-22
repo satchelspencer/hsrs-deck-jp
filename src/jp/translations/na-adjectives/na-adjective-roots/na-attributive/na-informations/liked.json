@@ -1,0 +1,14 @@
+{
+  "_id": "6du3fpskma5",
+  "name": "liked",
+  "order": "1",
+  "parents": [
+    "na-informations",
+    "na-preferables"
+  ],
+  "props": {
+    "en": "liked",
+    "jp": "好き",
+    "tl": "すき"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "rp26wxvwe5i",
+  "name": "detach",
+  "order": "3",
+  "parents": [
+    "godan-su",
+    "people-do",
+    "do-to-hangables",
+    "te-iru-verbs-state",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "detach",
+    "jp": "外す",
+    "tl": "はずす"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "gzu4jsaw1ks",
+  "name": "cheap-sell",
+  "params": {
+    "iadj": "cheap",
+    "verb": "sell"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

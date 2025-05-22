@@ -1,0 +1,10 @@
+{
+  "_id": "uutulsyfry",
+  "name": "ken-buildings-countable",
+  "parents": [
+    "counter-related"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

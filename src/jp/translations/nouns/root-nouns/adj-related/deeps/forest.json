@@ -1,0 +1,14 @@
+{
+  "_id": "lg8fdcjiem",
+  "name": "forest",
+  "order": "1",
+  "parents": [
+    "deeps",
+    "absolute-places"
+  ],
+  "props": {
+    "en": "forest",
+    "jp": "森",
+    "tl": "もり"
+  }
+}

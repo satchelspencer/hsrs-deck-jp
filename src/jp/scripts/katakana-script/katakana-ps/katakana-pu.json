@@ -1,0 +1,14 @@
+{
+  "_id": "azw9zqpgsj",
+  "name": "katakana-pu",
+  "params": {
+    "h": "katakana-fu"
+  },
+  "parents": [
+    "katakana-ps"
+  ],
+  "props": {
+    "_tl": "pu",
+    "jp": "プ"
+  }
+}

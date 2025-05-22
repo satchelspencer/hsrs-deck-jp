@@ -1,0 +1,18 @@
+{
+  "_id": "vhnl3kivy9n",
+  "name": "move-it",
+  "order": "2",
+  "parents": [
+    "godan-su",
+    "people-do",
+    "do-to-objects",
+    "ni-destination-verbs",
+    "te-iru-verbs-continuous",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "move it",
+    "jp": "動かす",
+    "tl": "うごかす"
+  }
+}

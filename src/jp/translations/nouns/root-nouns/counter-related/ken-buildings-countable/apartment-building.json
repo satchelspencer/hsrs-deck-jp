@@ -1,0 +1,14 @@
+{
+  "_id": "oyql8onpm1j",
+  "name": "apartment-building",
+  "order": "3",
+  "parents": [
+    "ken-buildings-countable",
+    "spaces"
+  ],
+  "props": {
+    "en": "apartment building",
+    "jp": "マンション",
+    "tl": "まんしょん"
+  }
+}

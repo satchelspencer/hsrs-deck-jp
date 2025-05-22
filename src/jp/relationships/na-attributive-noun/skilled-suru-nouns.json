@@ -1,0 +1,13 @@
+{
+  "_id": "xt3952fi6ce",
+  "name": "skilled-suru-nouns",
+  "params": {
+    "na": "skilled",
+    "noun": "suru-nouns"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

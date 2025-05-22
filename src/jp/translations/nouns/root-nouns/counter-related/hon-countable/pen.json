@@ -1,0 +1,13 @@
+{
+  "_id": "ex8er2hjdn",
+  "name": "pen",
+  "order": "2",
+  "parents": [
+    "hon-countable",
+    "writing-utensils"
+  ],
+  "props": {
+    "en": "pen",
+    "jp": "ペン"
+  }
+}

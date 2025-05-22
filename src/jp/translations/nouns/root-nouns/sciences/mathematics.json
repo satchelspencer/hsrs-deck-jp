@@ -1,0 +1,13 @@
+{
+  "_id": "p5o36v4dtrf",
+  "name": "mathematics",
+  "order": "3",
+  "parents": [
+    "sciences"
+  ],
+  "props": {
+    "en": "mathematics",
+    "jp": "数学",
+    "tl": "すうがく"
+  }
+}

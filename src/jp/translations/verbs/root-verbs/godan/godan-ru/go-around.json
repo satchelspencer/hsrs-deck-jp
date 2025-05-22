@@ -1,0 +1,16 @@
+{
+  "_id": "e00zj7sr61h",
+  "name": "go-around",
+  "order": "2",
+  "parents": [
+    "godan-ru",
+    "movers-do",
+    "te-iru-verbs-continuous",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "go around",
+    "jp": "回る",
+    "tl": "まわる"
+  }
+}

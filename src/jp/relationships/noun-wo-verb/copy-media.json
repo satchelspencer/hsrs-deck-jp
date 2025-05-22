@@ -1,0 +1,13 @@
+{
+  "_id": "uuctzcf184b",
+  "name": "copy-media",
+  "params": {
+    "noun": "media",
+    "verb": "copy"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

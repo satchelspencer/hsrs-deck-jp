@@ -1,0 +1,17 @@
+{
+  "_id": "mkdjkr53bpa",
+  "constraint": "na",
+  "name": "na-adjective-ne",
+  "order": "2",
+  "params": {
+    "form": "yo-ne-na-forms"
+  },
+  "parents": [
+    "na-adjective-forms",
+    "na-predicate-forms"
+  ],
+  "props": {
+    "en": "form.en+e(', right?')",
+    "jp": "form.jp+'ね'"
+  }
+}

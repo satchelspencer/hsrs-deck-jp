@@ -1,0 +1,14 @@
+{
+  "_id": "whmrrs0oe3",
+  "name": "paint",
+  "order": "3",
+  "parents": [
+    "products",
+    "paintables"
+  ],
+  "props": {
+    "en": "paint",
+    "jp": "ペンキ",
+    "tl": "ぺんき"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "yei9kkmoae",
+  "name": "product-no-nouns",
+  "params": {
+    "noun": "product-no",
+    "owner": "products"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

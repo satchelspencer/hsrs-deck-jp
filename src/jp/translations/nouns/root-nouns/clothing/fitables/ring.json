@@ -1,0 +1,13 @@
+{
+  "_id": "0kgg5ec2dmko",
+  "name": "ring",
+  "order": "3",
+  "parents": [
+    "fitables"
+  ],
+  "props": {
+    "en": "ring",
+    "jp": "指輪",
+    "tl": "ゆびわ"
+  }
+}

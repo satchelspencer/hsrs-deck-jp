@@ -1,0 +1,13 @@
+{
+  "_id": "ykouvigdx1d",
+  "name": "quiet-play",
+  "params": {
+    "na": "quiet",
+    "verb": "play"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

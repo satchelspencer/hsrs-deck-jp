@@ -1,0 +1,10 @@
+{
+  "_id": "1wggtivik12",
+  "name": "i-objects",
+  "parents": [
+    "i-attributive-standard"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

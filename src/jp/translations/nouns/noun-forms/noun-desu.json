@@ -1,0 +1,19 @@
+{
+  "_id": "x6virv8ib4k",
+  "mode": "p",
+  "name": "noun-desu",
+  "order": "1",
+  "params": {
+    "noun": "root-nouns"
+  },
+  "parents": [
+    "noun-forms",
+    "ka-noun-forms",
+    "yo-noun-forms",
+    "conjunctive-noun-forms"
+  ],
+  "props": {
+    "en": "'is '+noun.en",
+    "jp": "noun.jp+'です'"
+  }
+}

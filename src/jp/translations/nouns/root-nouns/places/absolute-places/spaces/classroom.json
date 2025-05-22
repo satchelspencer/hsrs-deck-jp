@@ -1,0 +1,13 @@
+{
+  "_id": "z0nf1fona4d",
+  "name": "classroom",
+  "order": "2",
+  "parents": [
+    "spaces"
+  ],
+  "props": {
+    "en": "classroom",
+    "jp": "教室",
+    "tl": "きょうしつ"
+  }
+}

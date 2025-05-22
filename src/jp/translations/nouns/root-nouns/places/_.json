@@ -1,0 +1,13 @@
+{
+  "_id": "2g0udtu230r",
+  "name": "places",
+  "parents": [
+    "root-nouns",
+    "seeables"
+  ],
+  "props": {
+    "en": null,
+    "jp": null
+  },
+  "virtual": true
+}

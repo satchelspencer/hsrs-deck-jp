@@ -1,0 +1,14 @@
+{
+  "_id": "aay3bdl0jdl",
+  "name": "aru-polite",
+  "params": {
+    "verb": "aru"
+  },
+  "parents": [
+    "polite"
+  ],
+  "props": {
+    "en": null,
+    "jp": "あります"
+  }
+}

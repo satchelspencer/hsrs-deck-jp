@@ -1,0 +1,13 @@
+{
+  "_id": "ekxe19aah87",
+  "name": "long-distance-train",
+  "order": "4",
+  "parents": [
+    "trains"
+  ],
+  "props": {
+    "en": "long distance train",
+    "jp": "汽車",
+    "tl": "きしゃ"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "nt7zn71c0bf",
+  "name": "paint-paintables",
+  "params": {
+    "noun": "paintables",
+    "verb": "paint-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

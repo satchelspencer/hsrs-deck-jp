@@ -1,0 +1,10 @@
+{
+  "_id": "inq4h7g7gv",
+  "name": "do-to-hangables",
+  "parents": [
+    "root-verbs"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

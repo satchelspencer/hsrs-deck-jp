@@ -1,0 +1,17 @@
+{
+  "_id": "na2h1mgs6e",
+  "constraint": "noun",
+  "name": "noun-tara",
+  "order": "4",
+  "params": {
+    "past": "noun-forms"
+  },
+  "parents": [
+    "noun-complex-forms",
+    "tara-conditional-clauses"
+  ],
+  "props": {
+    "en": ""
+  },
+  "virtual": true
+}

@@ -1,0 +1,12 @@
+{
+  "_id": "un2nhiw3uc",
+  "mode": "p",
+  "name": "te-iru-polite-state",
+  "parents": [
+    "te-iru-state"
+  ],
+  "props": {
+    "en": "'is '+te.en|r(' and','')+'-ed'",
+    "jp": "te.jp+'います'"
+  }
+}

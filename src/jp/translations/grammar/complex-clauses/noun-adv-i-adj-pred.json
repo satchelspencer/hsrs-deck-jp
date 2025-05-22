@@ -1,0 +1,18 @@
+{
+  "_id": "mju9ameye8",
+  "constraint": "iadj noun",
+  "name": "noun-adv-i-adj-pred",
+  "order": "3",
+  "params": {
+    "clause": "adv-i-adj",
+    "nform": "noun-plain",
+    "rel": "i-predicate-noun"
+  },
+  "parents": [
+    "complex-clauses"
+  ],
+  "props": {
+    "en": "nform.en+' '+clause.en",
+    "jp": "nform.jp+'が'+clause.jp"
+  }
+}

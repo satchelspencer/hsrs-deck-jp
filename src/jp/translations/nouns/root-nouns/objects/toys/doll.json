@@ -1,0 +1,13 @@
+{
+  "_id": "z5nndjhm1ek",
+  "name": "doll",
+  "order": "3",
+  "parents": [
+    "toys"
+  ],
+  "props": {
+    "en": "doll",
+    "jp": "人形",
+    "tl": "にんぎょう"
+  }
+}

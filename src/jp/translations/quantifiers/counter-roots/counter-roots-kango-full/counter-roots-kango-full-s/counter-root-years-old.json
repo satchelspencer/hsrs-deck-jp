@@ -1,0 +1,13 @@
+{
+  "_id": "uqc8nal4p39",
+  "name": "counter-root-years-old",
+  "order": "1",
+  "parents": [
+    "counter-roots-kango-full-s"
+  ],
+  "props": {
+    "en": "years old",
+    "jp": "歳",
+    "tl": "さい"
+  }
+}

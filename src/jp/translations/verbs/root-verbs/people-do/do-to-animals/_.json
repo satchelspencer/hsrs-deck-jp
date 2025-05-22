@@ -1,0 +1,13 @@
+{
+  "_id": "5xfh0d1wogh",
+  "name": "do-to-animals",
+  "parents": [
+    "people-do",
+    "do-to-people"
+  ],
+  "props": {
+    "en": null,
+    "jp": null
+  },
+  "virtual": true
+}

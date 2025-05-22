@@ -1,0 +1,12 @@
+{
+  "_id": "wxo2ixr00u",
+  "name": "gradually",
+  "order": "3",
+  "parents": [
+    "verb-adverbs"
+  ],
+  "props": {
+    "en": "gradually",
+    "jp": "だんだん"
+  }
+}

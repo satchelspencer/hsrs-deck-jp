@@ -1,0 +1,10 @@
+{
+  "_id": "nn0oytslth",
+  "name": "katakana-rs",
+  "parents": [
+    "katakana-script"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

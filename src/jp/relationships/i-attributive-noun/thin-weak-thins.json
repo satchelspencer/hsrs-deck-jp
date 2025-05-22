@@ -1,0 +1,13 @@
+{
+  "_id": "3db4tbafrd6",
+  "name": "thin-weak-thins",
+  "params": {
+    "iadj": "thin-weak",
+    "noun": "thins"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

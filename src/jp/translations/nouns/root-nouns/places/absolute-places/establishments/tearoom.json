@@ -1,0 +1,13 @@
+{
+  "_id": "h9trp3fyrr6",
+  "name": "tearoom",
+  "order": "2",
+  "parents": [
+    "establishments"
+  ],
+  "props": {
+    "en": "tearoom",
+    "jp": "喫茶店",
+    "tl": "きっさてん"
+  }
+}

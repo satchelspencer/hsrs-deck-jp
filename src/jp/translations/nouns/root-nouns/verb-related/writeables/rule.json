@@ -1,0 +1,13 @@
+{
+  "_id": "l5uj55k0fia",
+  "name": "rule",
+  "order": "3",
+  "parents": [
+    "writeables"
+  ],
+  "props": {
+    "en": "rule",
+    "jp": "規則",
+    "tl": "きそく"
+  }
+}

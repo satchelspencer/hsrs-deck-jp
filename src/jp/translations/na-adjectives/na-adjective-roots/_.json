@@ -1,0 +1,10 @@
+{
+  "_id": "qiaf39narno",
+  "name": "na-adjective-roots",
+  "parents": [
+    "na-adjectives"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

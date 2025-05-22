@@ -1,0 +1,13 @@
+{
+  "_id": "4356qe2rcnf",
+  "name": "direction",
+  "order": "2",
+  "parents": [
+    "absolute-places"
+  ],
+  "props": {
+    "en": "direction",
+    "jp": "方",
+    "tl": "ほう"
+  }
+}

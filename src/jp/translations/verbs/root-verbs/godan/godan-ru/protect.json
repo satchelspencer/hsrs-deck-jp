@@ -1,0 +1,16 @@
+{
+  "_id": "7ysz9sntw52",
+  "name": "protect",
+  "order": "3",
+  "parents": [
+    "godan-ru",
+    "people-do",
+    "te-iru-verbs-continuous",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "protect",
+    "jp": "守る",
+    "tl": "まもる"
+  }
+}

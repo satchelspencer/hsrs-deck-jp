@@ -1,0 +1,13 @@
+{
+  "_id": "67e5j4lrhin",
+  "name": "garden",
+  "order": "2",
+  "parents": [
+    "spaces"
+  ],
+  "props": {
+    "en": "garden",
+    "jp": "庭",
+    "tl": "にわ"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "2yo2k0ryruh",
+  "name": "soup",
+  "order": "1",
+  "parents": [
+    "foods",
+    "heated-edibles",
+    "thins"
+  ],
+  "props": {
+    "en": "soup",
+    "jp": "スープ"
+  }
+}

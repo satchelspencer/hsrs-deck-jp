@@ -1,0 +1,13 @@
+{
+  "_id": "ypotjdsv1lf",
+  "name": "already-root-verbs",
+  "params": {
+    "adv": "already",
+    "verb": "root-verbs"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

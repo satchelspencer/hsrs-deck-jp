@@ -1,0 +1,12 @@
+{
+  "_id": "vhuz9cvzls",
+  "name": "fit-it",
+  "order": "3",
+  "parents": [
+    "ichidan"
+  ],
+  "props": {
+    "en": "fit it",
+    "jp": "はめる"
+  }
+}

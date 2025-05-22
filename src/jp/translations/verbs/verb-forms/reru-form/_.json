@@ -1,0 +1,13 @@
+{
+  "_id": "qnapjge4auq",
+  "name": "reru-form",
+  "order": "2",
+  "parents": [
+    "verb-forms",
+    "ka-verb-forms",
+    "yo-ne-verb-forms"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

@@ -1,0 +1,15 @@
+{
+  "_id": "yrj553v6wj",
+  "name": "blow",
+  "order": "3",
+  "parents": [
+    "godan-ku",
+    "people-do",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "blow",
+    "jp": "吹く",
+    "tl": "ふく"
+  }
+}

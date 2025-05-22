@@ -1,0 +1,12 @@
+{
+  "_id": "12xjxmte0tu",
+  "name": "do-to-edibles",
+  "parents": [
+    "people-do"
+  ],
+  "props": {
+    "en": "do-to-edibles",
+    "jp": null
+  },
+  "virtual": true
+}

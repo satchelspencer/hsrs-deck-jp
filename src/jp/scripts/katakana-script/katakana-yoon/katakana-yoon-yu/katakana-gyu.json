@@ -1,0 +1,13 @@
+{
+  "_id": "yakywi3gcff",
+  "name": "katakana-gyu",
+  "params": {
+    "iis": "katakana-gi"
+  },
+  "parents": [
+    "katakana-yoon-yu"
+  ],
+  "props": {
+    "_tl": "gyu"
+  }
+}

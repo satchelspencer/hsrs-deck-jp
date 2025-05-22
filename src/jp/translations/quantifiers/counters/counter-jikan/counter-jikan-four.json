@@ -1,0 +1,13 @@
+{
+  "_id": "mr1x59lu9rc",
+  "name": "counter-jikan-four",
+  "params": {
+    "number": "four"
+  },
+  "parents": [
+    "counter-jikan"
+  ],
+  "props": {
+    "tl": "よ~じかん"
+  }
+}

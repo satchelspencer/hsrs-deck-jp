@@ -1,0 +1,13 @@
+{
+  "_id": "msdi5nm3ee",
+  "name": "coffee",
+  "order": "2",
+  "parents": [
+    "drinks"
+  ],
+  "props": {
+    "en": "coffee",
+    "jp": "コーヒー",
+    "tl": "こーひー"
+  }
+}

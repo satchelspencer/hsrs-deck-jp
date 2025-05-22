@@ -1,0 +1,13 @@
+{
+  "_id": "ei2ky31snde",
+  "name": "fine-explanation",
+  "params": {
+    "iadj": "fine",
+    "verb": "explanation"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

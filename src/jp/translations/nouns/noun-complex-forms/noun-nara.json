@@ -1,0 +1,17 @@
+{
+  "_id": "szidfij3bd",
+  "constraint": "noun",
+  "name": "noun-nara",
+  "order": "4",
+  "params": {
+    "form": "noun-plain-forms"
+  },
+  "parents": [
+    "noun-complex-forms",
+    "nara-conditional-clauses"
+  ],
+  "props": {
+    "en": "'*if* '+form.en",
+    "jp": "form.jp+'なら'"
+  }
+}

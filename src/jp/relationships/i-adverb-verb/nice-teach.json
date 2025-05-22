@@ -1,0 +1,13 @@
+{
+  "_id": "jqepo9oly49",
+  "name": "nice-teach",
+  "params": {
+    "iadj": "nice",
+    "verb": "teach"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

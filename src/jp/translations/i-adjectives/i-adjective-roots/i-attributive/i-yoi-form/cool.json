@@ -1,0 +1,12 @@
+{
+  "_id": "4itrxifcyz",
+  "name": "cool",
+  "order": "2",
+  "parents": [
+    "i-yoi-form"
+  ],
+  "props": {
+    "en": "cool",
+    "jp": "かっこいい"
+  }
+}

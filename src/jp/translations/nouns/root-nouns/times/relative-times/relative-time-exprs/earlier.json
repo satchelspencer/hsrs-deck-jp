@@ -1,0 +1,15 @@
+{
+  "_id": "51sbpw4aasc",
+  "name": "earlier",
+  "order": "3",
+  "parents": [
+    "relative-time-exprs",
+    "independent-time-exprs",
+    "ni-any-times"
+  ],
+  "props": {
+    "en": "earlier",
+    "jp": "先",
+    "tl": "さき"
+  }
+}

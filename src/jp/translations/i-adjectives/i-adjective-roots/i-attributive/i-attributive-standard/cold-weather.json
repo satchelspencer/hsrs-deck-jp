@@ -1,0 +1,13 @@
+{
+  "_id": "esfn6w9if1o",
+  "name": "cold-weather",
+  "order": "2",
+  "parents": [
+    "i-attributive-standard"
+  ],
+  "props": {
+    "en": "cold (weather)",
+    "jp": "寒い",
+    "tl": "さむい"
+  }
+}

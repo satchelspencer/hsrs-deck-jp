@@ -1,0 +1,13 @@
+{
+  "_id": "yr3yz2wtm2o",
+  "name": "godan-ba-su",
+  "params": {
+    "verb": "godan-su"
+  },
+  "parents": [
+    "godan-ba"
+  ],
+  "props": {
+    "jp": "verb.jp|r('す', 'せば')"
+  }
+}

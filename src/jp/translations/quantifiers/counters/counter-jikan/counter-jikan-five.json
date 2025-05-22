@@ -1,0 +1,13 @@
+{
+  "_id": "l7le4izzqa",
+  "name": "counter-jikan-five",
+  "params": {
+    "number": "five"
+  },
+  "parents": [
+    "counter-jikan"
+  ],
+  "props": {
+    "tl": "ご~じかん"
+  }
+}

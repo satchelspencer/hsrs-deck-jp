@@ -1,0 +1,13 @@
+{
+  "_id": "whgcmtwxoxd",
+  "name": "greengrocer",
+  "order": "2",
+  "parents": [
+    "stores"
+  ],
+  "props": {
+    "en": "greengrocer",
+    "jp": "八百屋",
+    "tl": "やおや"
+  }
+}

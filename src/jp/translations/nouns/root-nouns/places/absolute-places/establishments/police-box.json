@@ -1,0 +1,13 @@
+{
+  "_id": "qzyak4me7q",
+  "name": "police-box",
+  "order": "2",
+  "parents": [
+    "establishments"
+  ],
+  "props": {
+    "en": "police box",
+    "jp": "交番",
+    "tl": "こうばん"
+  }
+}

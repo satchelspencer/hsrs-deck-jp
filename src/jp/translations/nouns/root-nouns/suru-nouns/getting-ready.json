@@ -1,0 +1,15 @@
+{
+  "_id": "dy6sosfwzrk",
+  "name": "getting-ready",
+  "order": "3",
+  "parents": [
+    "suru-nouns",
+    "people-do",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "en": "getting ready",
+    "jp": "用意",
+    "tl": "ようい"
+  }
+}

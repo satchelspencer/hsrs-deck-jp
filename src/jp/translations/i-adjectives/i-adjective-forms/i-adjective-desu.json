@@ -1,0 +1,20 @@
+{
+  "_id": "zpekmqjfxb",
+  "constraint": "iadj",
+  "mode": "p",
+  "name": "i-adjective-desu",
+  "order": "1",
+  "params": {
+    "form": "i-desu-forms"
+  },
+  "parents": [
+    "i-adjective-forms",
+    "i-predicate-forms",
+    "i-ka-forms",
+    "i-yo-ne-forms"
+  ],
+  "props": {
+    "en": "form.en",
+    "jp": "form.jp+'です'"
+  }
+}

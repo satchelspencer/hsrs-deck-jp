@@ -1,0 +1,15 @@
+{
+  "_id": "5jsrnv3snc2",
+  "name": "be-stopped",
+  "order": "2",
+  "parents": [
+    "godan-mu",
+    "events-do",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "en": "be stopped",
+    "jp": "止む",
+    "tl": "やむ"
+  }
+}

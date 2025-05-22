@@ -1,0 +1,15 @@
+{
+  "_id": "4dl7ac69zmj",
+  "name": "give-answer",
+  "order": "3",
+  "parents": [
+    "people-do",
+    "de-location-verbs",
+    "ichidan"
+  ],
+  "props": {
+    "en": "give answer",
+    "jp": "答える",
+    "tl": "こたえる"
+  }
+}

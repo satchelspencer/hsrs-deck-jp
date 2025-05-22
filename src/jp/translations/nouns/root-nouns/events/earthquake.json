@@ -1,0 +1,13 @@
+{
+  "_id": "o9tpk29nk8o",
+  "name": "earthquake",
+  "order": "3",
+  "parents": [
+    "events"
+  ],
+  "props": {
+    "en": "earthquake",
+    "jp": "地震",
+    "tl": "じしん"
+  }
+}

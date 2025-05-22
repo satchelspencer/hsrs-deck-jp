@@ -1,0 +1,17 @@
+{
+  "_id": "46tmrgkc9fr",
+  "constraint": "verb noun",
+  "name": "noun-ga-sub-te",
+  "order": "",
+  "params": {
+    "form": "verb-te-form",
+    "rel": "noun-ga-verb"
+  },
+  "parents": [
+    "noun-pred-te-forms"
+  ],
+  "props": {
+    "en": "rel.noun.en+' '+form.en",
+    "jp": "rel.noun.jp+'が'+form.jp"
+  }
+}

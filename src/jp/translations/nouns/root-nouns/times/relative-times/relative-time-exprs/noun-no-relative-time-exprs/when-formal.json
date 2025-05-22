@@ -1,0 +1,15 @@
+{
+  "_id": "yyq15wiweyq",
+  "mode": "p",
+  "name": "when-formal",
+  "order": "4",
+  "parents": [
+    "noun-no-relative-time-exprs",
+    "root-relative-time-exprs"
+  ],
+  "props": {
+    "en": "when",
+    "jp": "際に",
+    "tl": "さいに"
+  }
+}

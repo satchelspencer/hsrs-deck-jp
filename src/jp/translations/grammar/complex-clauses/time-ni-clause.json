@@ -1,0 +1,17 @@
+{
+  "_id": "ovnyqv6etuk",
+  "constraint": "form verb",
+  "name": "time-ni-clause",
+  "order": "2",
+  "params": {
+    "clause": "temporal-verb-clauses",
+    "rel": "verb-form-times"
+  },
+  "parents": [
+    "complex-clauses"
+  ],
+  "props": {
+    "en": "'at '+rel.time.en+' '+clause.en",
+    "jp": "rel.time.jp+'に'+clause.jp"
+  }
+}

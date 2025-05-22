@@ -1,0 +1,13 @@
+{
+  "_id": "dvw1par3e2h",
+  "name": "good-sing",
+  "params": {
+    "iadj": "good",
+    "verb": "sing"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

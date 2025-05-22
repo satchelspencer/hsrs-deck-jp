@@ -1,0 +1,17 @@
+{
+  "_id": "4j5rwjuctxd",
+  "name": "tease",
+  "order": "3",
+  "parents": [
+    "ichidan",
+    "do-to-people",
+    "people-do",
+    "te-iru-verbs-continuous",
+    "de-location-verbs",
+    "do-to-animals"
+  ],
+  "props": {
+    "en": "tease",
+    "jp": "いじめる"
+  }
+}

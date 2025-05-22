@@ -1,0 +1,13 @@
+{
+  "_id": "susnsc6awp",
+  "name": "paint-colorly",
+  "params": {
+    "iadj": "color-adjs",
+    "verb": "paint-it"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

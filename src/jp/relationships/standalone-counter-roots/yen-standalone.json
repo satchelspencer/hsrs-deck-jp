@@ -1,0 +1,13 @@
+{
+  "_id": "12ypar4h9xfk",
+  "name": "yen-standalone",
+  "params": {
+    "noun": "counter-root-yen",
+    "root": "counter-root-yen"
+  },
+  "parents": [
+    "standalone-counter-roots"
+  ],
+  "props": {
+  }
+}

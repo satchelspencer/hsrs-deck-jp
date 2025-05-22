@@ -1,0 +1,18 @@
+{
+  "_id": "xsn2lngvgz",
+  "constraint": "verb",
+  "name": "pronoun-de-with",
+  "order": "1",
+  "params": {
+    "form": "verb-forms",
+    "rel": "pronoun-de-verb-means"
+  },
+  "parents": [
+    "pronoun-clauses",
+    "pronoun-temporal-verb-clauses"
+  ],
+  "props": {
+    "en": "'with '+rel.pn.en+' '+form.en",
+    "jp": "rel.pn.jp+'で'+form.jp"
+  }
+}

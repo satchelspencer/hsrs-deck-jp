@@ -1,0 +1,14 @@
+{
+  "_id": "y9jc6vcwxco",
+  "name": "name",
+  "order": "1",
+  "parents": [
+    "people-no",
+    "choosables"
+  ],
+  "props": {
+    "en": "name",
+    "jp": "名前",
+    "tl": "なまえ"
+  }
+}

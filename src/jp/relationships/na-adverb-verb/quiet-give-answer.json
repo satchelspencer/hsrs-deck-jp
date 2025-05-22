@@ -1,0 +1,13 @@
+{
+  "_id": "o56owxos8gs",
+  "name": "quiet-give-answer",
+  "params": {
+    "na": "quiet",
+    "verb": "give-answer"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

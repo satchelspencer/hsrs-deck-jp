@@ -1,0 +1,13 @@
+{
+  "_id": "nrh6j0po8mn",
+  "name": "steak",
+  "order": "3",
+  "parents": [
+    "foods"
+  ],
+  "props": {
+    "en": "steak",
+    "jp": "ステーキ",
+    "tl": "すてーき"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "i2kfkhwe73b",
+  "name": "bitter",
+  "order": "3",
+  "parents": [
+    "i-foods"
+  ],
+  "props": {
+    "en": "bitter",
+    "jp": "苦い",
+    "tl": "にがい"
+  }
+}

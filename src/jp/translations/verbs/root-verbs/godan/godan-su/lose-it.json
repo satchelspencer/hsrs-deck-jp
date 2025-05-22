@@ -1,0 +1,17 @@
+{
+  "_id": "t9olabparcb",
+  "name": "lose-it",
+  "order": "3",
+  "parents": [
+    "godan-su",
+    "people-do",
+    "do-to-objects",
+    "te-iru-verbs-state",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "lose it",
+    "jp": "無くす",
+    "tl": "なくす"
+  }
+}

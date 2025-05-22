@@ -1,0 +1,13 @@
+{
+  "_id": "e5pe2hbp1cj",
+  "name": "counter-root-cups",
+  "order": "2",
+  "parents": [
+    "counter-roots-kango-full-h"
+  ],
+  "props": {
+    "en": "cups",
+    "jp": "杯",
+    "tl": "はい"
+  }
+}

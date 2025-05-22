@@ -1,0 +1,17 @@
+{
+  "_id": "rid9l70leie",
+  "constraint": "noun",
+  "name": "noun-no-clause",
+  "order": "2",
+  "params": {
+    "clause": "const-noun-clauses",
+    "rel": "noun-no-noun"
+  },
+  "parents": [
+    "complex-clauses"
+  ],
+  "props": {
+    "en": "clause.en|rg(rel.noun.en, rel.owner.en+'\\'s '+rel.noun.en)",
+    "jp": "clause.jp|rg(rel.noun.jp, rel.owner.jp+'の'+rel.noun.jp)"
+  }
+}

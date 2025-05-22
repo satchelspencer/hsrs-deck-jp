@@ -1,0 +1,17 @@
+{
+  "_id": "bgj4wdosnpc",
+  "name": "plan",
+  "order": "2",
+  "parents": [
+    "suru-nouns",
+    "people-do",
+    "choosables",
+    "te-iru-verbs-continuous",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "plan",
+    "jp": "予定",
+    "tl": "よてい"
+  }
+}

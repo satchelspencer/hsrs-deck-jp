@@ -1,0 +1,13 @@
+{
+  "_id": "uu75ikdntx",
+  "name": "opposite-side",
+  "order": "3",
+  "parents": [
+    "positional-words"
+  ],
+  "props": {
+    "en": "opposite side",
+    "jp": "向こう",
+    "tl": "むこう"
+  }
+}

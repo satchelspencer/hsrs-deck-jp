@@ -1,0 +1,14 @@
+{
+  "_id": "n107fhk777",
+  "name": "number-of",
+  "order": "2",
+  "parents": [
+    "countables",
+    "object-no"
+  ],
+  "props": {
+    "en": "number of",
+    "jp": "数",
+    "tl": "かず"
+  }
+}

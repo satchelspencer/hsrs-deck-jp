@@ -1,0 +1,12 @@
+{
+  "_id": "t5akpjxzqwh",
+  "name": "which-amount",
+  "order": "2",
+  "parents": [
+    "quantity-question-words"
+  ],
+  "props": {
+    "en": "which amount",
+    "jp": "どのくらい"
+  }
+}

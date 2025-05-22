@@ -1,0 +1,15 @@
+{
+  "_id": "6v3c55t1f6d",
+  "name": "copy",
+  "order": "3",
+  "parents": [
+    "suru-nouns",
+    "people-do",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "copy",
+    "jp": "コピー",
+    "tl": "こぴー"
+  }
+}

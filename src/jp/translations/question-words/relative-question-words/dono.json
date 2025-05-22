@@ -1,0 +1,15 @@
+{
+  "_id": "n6ftvixbysk",
+  "name": "dono",
+  "order": "2",
+  "params": {
+    "noun": "seeables"
+  },
+  "parents": [
+    "relative-question-words"
+  ],
+  "props": {
+    "en": "'which '+noun.en",
+    "jp": "'どの'+noun.jp"
+  }
+}

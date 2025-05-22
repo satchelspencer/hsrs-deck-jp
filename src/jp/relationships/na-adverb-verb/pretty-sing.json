@@ -1,0 +1,13 @@
+{
+  "_id": "ozf0ej3tzwb",
+  "name": "pretty-sing",
+  "params": {
+    "na": "pretty",
+    "verb": "sing"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

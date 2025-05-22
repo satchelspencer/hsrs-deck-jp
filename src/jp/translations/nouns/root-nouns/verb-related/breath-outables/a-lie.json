@@ -1,0 +1,13 @@
+{
+  "_id": "7p3838wkj2t",
+  "name": "a-lie",
+  "order": "3",
+  "parents": [
+    "breath-outables"
+  ],
+  "props": {
+    "en": "a lie",
+    "jp": "嘘",
+    "tl": "うそ"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "_id": "ulx5qs3pk5",
+  "name": "be-given-to",
+  "order": "2",
+  "parents": [
+    "godan-u",
+    "people-do",
+    "do-to-products",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "en": "be given",
+    "jp": "もらう"
+  }
+}

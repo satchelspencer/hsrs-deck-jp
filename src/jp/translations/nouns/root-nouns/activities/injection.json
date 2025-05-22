@@ -1,0 +1,14 @@
+{
+  "_id": "igil18ezz6",
+  "name": "injection",
+  "order": "4",
+  "parents": [
+    "activities",
+    "events"
+  ],
+  "props": {
+    "en": "injection",
+    "jp": "注射",
+    "tl": "ちゅうしゃ"
+  }
+}

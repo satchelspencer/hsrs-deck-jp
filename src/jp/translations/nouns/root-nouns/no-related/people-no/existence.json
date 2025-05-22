@@ -1,0 +1,13 @@
+{
+  "_id": "v0jtfqclrub",
+  "name": "existence",
+  "order": "3",
+  "parents": [
+    "people-no"
+  ],
+  "props": {
+    "en": "existence",
+    "jp": "生命",
+    "tl": "せいめい"
+  }
+}

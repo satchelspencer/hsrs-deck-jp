@@ -1,0 +1,14 @@
+{
+  "_id": "ryxsttgfdmd",
+  "name": "do-past",
+  "params": {
+    "verb": "do-suru"
+  },
+  "parents": [
+    "plain-past"
+  ],
+  "props": {
+    "en": null,
+    "jp": "した"
+  }
+}

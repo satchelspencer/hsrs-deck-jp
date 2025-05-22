@@ -1,0 +1,14 @@
+{
+  "_id": "f7k43s604b",
+  "name": "second-person-pronouns-plural",
+  "order": "2",
+  "params": {
+    "pronoun": "second-person-pronouns-singular"
+  },
+  "parents": [
+    "second-person-pronouns"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

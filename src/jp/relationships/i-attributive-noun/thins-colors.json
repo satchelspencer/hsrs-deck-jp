@@ -1,0 +1,13 @@
+{
+  "_id": "7o2w1ci0q4y",
+  "name": "thins-colors",
+  "params": {
+    "iadj": "colors",
+    "noun": "thins"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

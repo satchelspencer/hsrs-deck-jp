@@ -1,0 +1,13 @@
+{
+  "_id": "nm2j77yoj5",
+  "name": "lunch",
+  "order": "1",
+  "parents": [
+    "meals"
+  ],
+  "props": {
+    "en": "lunch",
+    "jp": "昼ご飯",
+    "tl": "ひるごはん"
+  }
+}

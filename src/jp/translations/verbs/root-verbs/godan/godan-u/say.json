@@ -1,0 +1,17 @@
+{
+  "_id": "lrpuse3whd9",
+  "name": "say",
+  "order": "1",
+  "parents": [
+    "godan-u",
+    "people-do",
+    "ni-person-verbs",
+    "te-iru-verbs-continuous",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "say",
+    "jp": "言う",
+    "tl": "いう"
+  }
+}

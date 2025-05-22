@@ -1,0 +1,13 @@
+{
+  "_id": "2uittoqwzn",
+  "name": "lake",
+  "order": "3",
+  "parents": [
+    "absolute-places"
+  ],
+  "props": {
+    "en": "lake",
+    "jp": "湖",
+    "tl": "みずうみ"
+  }
+}

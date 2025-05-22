@@ -1,0 +1,13 @@
+{
+  "_id": "h3vp7ylye4q",
+  "name": "counter-root-sets",
+  "order": "2",
+  "parents": [
+    "counter-roots-kango-full-k"
+  ],
+  "props": {
+    "en": "sets",
+    "jp": "組",
+    "tl": "くみ"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "o939h2qnzrg",
+  "name": "cherry-blossoms",
+  "order": "2",
+  "parents": [
+    "bloomers"
+  ],
+  "props": {
+    "en": "cherry blossoms",
+    "jp": "桜",
+    "tl": "さくら"
+  }
+}

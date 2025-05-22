@@ -1,0 +1,14 @@
+{
+  "_id": "1twmp6oqp16",
+  "name": "dirty",
+  "order": "2",
+  "parents": [
+    "i-attributive-standard",
+    "i-objects"
+  ],
+  "props": {
+    "en": "dirty",
+    "jp": "汚い",
+    "tl": "きたない"
+  }
+}

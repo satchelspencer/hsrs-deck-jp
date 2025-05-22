@@ -1,0 +1,13 @@
+{
+  "_id": "76luj2ha49b",
+  "name": "terrible-weather",
+  "params": {
+    "iadj": "terrible",
+    "noun": "weather"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

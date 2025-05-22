@@ -1,0 +1,14 @@
+{
+  "_id": "31z5pvmewqn",
+  "name": "water",
+  "order": "1",
+  "parents": [
+    "drinks",
+    "flowing"
+  ],
+  "props": {
+    "en": "water",
+    "jp": "水",
+    "tl": "みず"
+  }
+}

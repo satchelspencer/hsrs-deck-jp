@@ -1,0 +1,13 @@
+{
+  "_id": "3jbbj7u0jro",
+  "name": "pray-na-nouns",
+  "params": {
+    "noun": "na-nouns",
+    "verb": "pray"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

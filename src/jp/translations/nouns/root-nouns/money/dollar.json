@@ -1,0 +1,12 @@
+{
+  "_id": "ts2h78vy6rr",
+  "name": "dollar",
+  "order": "3",
+  "parents": [
+    "money"
+  ],
+  "props": {
+    "en": "dollar",
+    "jp": "ドル"
+  }
+}

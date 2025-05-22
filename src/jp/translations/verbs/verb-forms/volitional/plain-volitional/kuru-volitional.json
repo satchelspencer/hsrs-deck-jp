@@ -1,0 +1,14 @@
+{
+  "_id": "8x7g5r46vtq",
+  "name": "kuru-volitional",
+  "params": {
+    "verb": "kuru"
+  },
+  "parents": [
+    "plain-volitional"
+  ],
+  "props": {
+    "en": null,
+    "jp": "verb.jp|r('来る', '来よう')|r('くる', 'こよう')"
+  }
+}

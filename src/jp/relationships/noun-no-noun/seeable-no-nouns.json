@@ -1,0 +1,13 @@
+{
+  "_id": "m3g0tcujd8",
+  "name": "seeable-no-nouns",
+  "params": {
+    "noun": "object-no",
+    "owner": "objects"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

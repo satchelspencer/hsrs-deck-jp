@@ -1,0 +1,10 @@
+{
+  "_id": "6g1uziw96or",
+  "name": "hot-cold-weather",
+  "parents": [
+    "adj-related"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

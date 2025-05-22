@@ -1,0 +1,13 @@
+{
+  "_id": "foxw1g5x9nd",
+  "name": "correct",
+  "order": "4",
+  "parents": [
+    "i-attributive-standard"
+  ],
+  "props": {
+    "en": "correct",
+    "jp": "正しい",
+    "tl": "ただしい"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "shxwuko2ab",
+  "name": "strict-teach",
+  "params": {
+    "iadj": "strict",
+    "verb": "teach"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

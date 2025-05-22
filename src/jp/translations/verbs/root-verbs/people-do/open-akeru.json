@@ -1,0 +1,17 @@
+{
+  "_id": "aqxku52l6g",
+  "name": "open-akeru",
+  "order": "2",
+  "parents": [
+    "people-do",
+    "do-to-shimeru-akeru",
+    "te-iru-verbs-continuous",
+    "de-location-verbs",
+    "ichidan"
+  ],
+  "props": {
+    "en": "open it",
+    "jp": "開ける",
+    "tl": "あける"
+  }
+}

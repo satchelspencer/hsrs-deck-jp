@@ -1,0 +1,19 @@
+{
+  "_id": "9nh9gum9eik",
+  "constraint": "root number",
+  "name": "time-minutes",
+  "order": "3",
+  "params": {
+    "counter": "counter-kago-regular",
+    "number": "decimals",
+    "root": "counter-root-minutes"
+  },
+  "parents": [
+    "date-times"
+  ],
+  "props": {
+    "en": "counter.en+' past the hour'",
+    "jp": "counter.jp+'過ぎ'",
+    "tl": "counter.tl+'すぎ'"
+  }
+}

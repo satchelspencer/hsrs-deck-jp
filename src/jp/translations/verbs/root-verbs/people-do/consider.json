@@ -1,0 +1,18 @@
+{
+  "_id": "uyithuwteq",
+  "name": "consider",
+  "order": "2",
+  "parents": [
+    "people-do",
+    "do-to-choices",
+    "te-iru-verbs-continuous",
+    "de-location-verbs",
+    "ichidan",
+    "info-verbs"
+  ],
+  "props": {
+    "en": "consider",
+    "jp": "考える",
+    "tl": "かんがえる"
+  }
+}

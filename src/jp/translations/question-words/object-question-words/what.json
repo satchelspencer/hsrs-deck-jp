@@ -1,0 +1,13 @@
+{
+  "_id": "2q1bdvo8v55",
+  "name": "what",
+  "order": "1",
+  "parents": [
+    "object-question-words"
+  ],
+  "props": {
+    "en": "what",
+    "jp": "何",
+    "tl": "なに"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "pd0feth1g9r",
+  "name": "kire-countable-counter-root-slices",
+  "params": {
+    "noun": "kire-countable",
+    "root": "counter-root-slices"
+  },
+  "parents": [
+    "counter-noun"
+  ],
+  "props": {
+  }
+}

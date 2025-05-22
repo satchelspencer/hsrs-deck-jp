@@ -1,0 +1,13 @@
+{
+  "_id": "avrldtkci78",
+  "name": "strong-believe",
+  "params": {
+    "iadj": "strong",
+    "verb": "believe"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

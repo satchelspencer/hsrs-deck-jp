@@ -1,0 +1,14 @@
+{
+  "_id": "14nce26xrg6",
+  "name": "roast-it",
+  "order": "3",
+  "parents": [
+    "godan-ku",
+    "people-do"
+  ],
+  "props": {
+    "en": "roast it",
+    "jp": "焼く",
+    "tl": "やく"
+  }
+}

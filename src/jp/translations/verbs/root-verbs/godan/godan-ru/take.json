@@ -1,0 +1,16 @@
+{
+  "_id": "omuoxt0wb",
+  "name": "take",
+  "order": "3",
+  "parents": [
+    "godan-ru",
+    "people-do",
+    "te-iru-verbs-state",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "take",
+    "jp": "取る",
+    "tl": "とる"
+  }
+}

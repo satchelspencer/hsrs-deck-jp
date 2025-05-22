@@ -1,0 +1,14 @@
+{
+  "_id": "w6gzsr9edd",
+  "name": "butter",
+  "order": "2",
+  "parents": [
+    "ingredients",
+    "paintables"
+  ],
+  "props": {
+    "en": "butter",
+    "jp": "バター",
+    "tl": "ばたー"
+  }
+}

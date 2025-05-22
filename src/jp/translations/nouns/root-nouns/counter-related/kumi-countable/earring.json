@@ -1,0 +1,13 @@
+{
+  "_id": "ykfyqjkpyv",
+  "name": "earring",
+  "order": "2",
+  "parents": [
+    "kumi-countable"
+  ],
+  "props": {
+    "en": "earring",
+    "jp": "イヤリング",
+    "tl": "いやりんぐ"
+  }
+}

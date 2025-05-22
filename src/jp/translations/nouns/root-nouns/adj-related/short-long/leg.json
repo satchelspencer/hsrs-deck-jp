@@ -1,0 +1,14 @@
+{
+  "_id": "fu6dnkfiv",
+  "name": "leg",
+  "order": "1",
+  "parents": [
+    "short-long",
+    "body-parts"
+  ],
+  "props": {
+    "en": "leg",
+    "jp": "足",
+    "tl": "あし"
+  }
+}

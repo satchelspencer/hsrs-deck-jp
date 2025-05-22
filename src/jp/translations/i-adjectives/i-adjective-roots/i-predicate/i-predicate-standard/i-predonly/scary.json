@@ -1,0 +1,13 @@
+{
+  "_id": "5lo46pqxtc8",
+  "name": "scary",
+  "order": "2",
+  "parents": [
+    "i-predonly"
+  ],
+  "props": {
+    "en": "scary",
+    "jp": "怖い",
+    "tl": "こわい"
+  }
+}

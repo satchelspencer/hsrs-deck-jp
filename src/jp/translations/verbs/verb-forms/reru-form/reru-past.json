@@ -1,0 +1,18 @@
+{
+  "_id": "87viv6kkjof",
+  "constraint": "verb",
+  "mode": "c",
+  "name": "reru-past",
+  "params": {
+    "reru": "reru-plain"
+  },
+  "parents": [
+    "reru-form",
+    "relative-clause-verb-forms",
+    "nda-verb-forms"
+  ],
+  "props": {
+    "en": "reru.en|pr('can', 'could')",
+    "jp": "reru.jp|r('る', 'た')"
+  }
+}

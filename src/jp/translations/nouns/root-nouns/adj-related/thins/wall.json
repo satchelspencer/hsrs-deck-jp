@@ -1,0 +1,14 @@
+{
+  "_id": "w6t02pe8xpi",
+  "name": "wall",
+  "order": "2",
+  "parents": [
+    "thins",
+    "mai-countable"
+  ],
+  "props": {
+    "en": "wall",
+    "jp": "壁",
+    "tl": "かべ"
+  }
+}

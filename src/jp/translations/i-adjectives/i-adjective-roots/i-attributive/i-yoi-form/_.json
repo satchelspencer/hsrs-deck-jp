@@ -1,0 +1,11 @@
+{
+  "_id": "coyup1ocwzv",
+  "name": "i-yoi-form",
+  "parents": [
+    "i-attributive",
+    "i-predicate"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "5x25l3y1bgp",
+  "name": "economics",
+  "order": "4",
+  "parents": [
+    "sciences"
+  ],
+  "props": {
+    "en": "economics",
+    "jp": "経済学",
+    "tl": "けいざいがく"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "tfflat1aohp",
+  "name": "hiraku-tojiru-g8ervd21r3r",
+  "params": {
+    "noun": "hiraku-tojiru",
+    "verb": "do-to-hiraku-tojiru"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

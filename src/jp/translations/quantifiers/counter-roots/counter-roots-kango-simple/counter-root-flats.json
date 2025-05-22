@@ -1,0 +1,13 @@
+{
+  "_id": "go456zqqxvi",
+  "name": "counter-root-flats",
+  "order": "2",
+  "parents": [
+    "counter-roots-kango-simple"
+  ],
+  "props": {
+    "en": "flats",
+    "jp": "枚",
+    "tl": "まい"
+  }
+}

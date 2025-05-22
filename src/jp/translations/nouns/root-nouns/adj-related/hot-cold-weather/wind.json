@@ -1,0 +1,14 @@
+{
+  "_id": "ln7o2ka2eip",
+  "name": "wind",
+  "order": "3",
+  "parents": [
+    "hot-cold-weather",
+    "weather"
+  ],
+  "props": {
+    "en": "wind",
+    "jp": "風",
+    "tl": "かぜ"
+  }
+}

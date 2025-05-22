@@ -1,0 +1,13 @@
+{
+  "_id": "brhm0nnre7d",
+  "name": "strong-convey",
+  "params": {
+    "iadj": "strong",
+    "verb": "convey"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

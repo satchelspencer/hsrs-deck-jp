@@ -1,0 +1,14 @@
+{
+  "_id": "mbmem4iyer",
+  "name": "question-no-noun",
+  "params": {
+    "noun": "root-nouns",
+    "qw": "question-words"
+  },
+  "parents": [
+    "question-rels"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

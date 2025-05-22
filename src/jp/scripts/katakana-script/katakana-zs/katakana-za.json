@@ -1,0 +1,14 @@
+{
+  "_id": "gd4klrse9bn",
+  "name": "katakana-za",
+  "params": {
+    "s": "katakana-sa"
+  },
+  "parents": [
+    "katakana-zs"
+  ],
+  "props": {
+    "_tl": "za",
+    "jp": "ザ"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "13exnepuzae",
+  "name": "hiragana-pyu",
+  "params": {
+    "iis": "hiragana-pi"
+  },
+  "parents": [
+    "hiragana-yoon-yu"
+  ],
+  "props": {
+    "_tl": "pyu",
+    "jp": "iis.jp+'ゅ'"
+  }
+}

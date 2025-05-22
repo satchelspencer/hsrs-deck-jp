@@ -1,0 +1,11 @@
+{
+  "_id": "q060u7v7b4",
+  "name": "i-attributive-forms",
+  "parents": [
+    "i-adjective-forms",
+    "i-predicate-forms"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

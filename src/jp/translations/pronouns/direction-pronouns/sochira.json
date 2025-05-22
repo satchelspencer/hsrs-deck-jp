@@ -1,0 +1,13 @@
+{
+  "_id": "nuxslt3hvgd",
+  "mode": "p",
+  "name": "sochira",
+  "order": "3",
+  "parents": [
+    "direction-pronouns"
+  ],
+  "props": {
+    "en": "that way",
+    "jp": "そちら"
+  }
+}

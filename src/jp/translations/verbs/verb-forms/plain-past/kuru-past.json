@@ -1,0 +1,14 @@
+{
+  "_id": "gpf5sh4jw3u",
+  "name": "kuru-past",
+  "params": {
+    "verb": "kuru"
+  },
+  "parents": [
+    "plain-past"
+  ],
+  "props": {
+    "en": null,
+    "jp": "verb.jp|r('来る', '来た')|r('くる', 'きた')"
+  }
+}

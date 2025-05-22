@@ -1,0 +1,17 @@
+{
+  "_id": "r6u5207ubxg",
+  "name": "be-surprised",
+  "order": "3",
+  "parents": [
+    "godan-ku",
+    "people-do",
+    "animals-do",
+    "te-iru-verbs-state",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "be surprised",
+    "jp": "驚く",
+    "tl": "おどろく"
+  }
+}

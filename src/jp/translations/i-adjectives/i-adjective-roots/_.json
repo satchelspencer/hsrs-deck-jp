@@ -1,0 +1,10 @@
+{
+  "_id": "khd297ugze",
+  "name": "i-adjective-roots",
+  "parents": [
+    "i-adjectives"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

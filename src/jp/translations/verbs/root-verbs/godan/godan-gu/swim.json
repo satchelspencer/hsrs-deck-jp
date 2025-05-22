@@ -1,0 +1,16 @@
+{
+  "_id": "b7nkgj8i2e",
+  "name": "swim",
+  "order": "1",
+  "parents": [
+    "godan-gu",
+    "people-do",
+    "te-iru-verbs-continuous",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "swim",
+    "jp": "泳ぐ",
+    "tl": "およぐ"
+  }
+}

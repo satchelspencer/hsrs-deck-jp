@@ -1,0 +1,14 @@
+{
+  "_id": "zfbyc1j8g3j",
+  "name": "population",
+  "order": "3",
+  "parents": [
+    "countables",
+    "country-no"
+  ],
+  "props": {
+    "en": "population",
+    "jp": "人口",
+    "tl": "じんこう"
+  }
+}

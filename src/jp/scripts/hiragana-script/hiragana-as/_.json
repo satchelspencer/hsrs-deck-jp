@@ -1,0 +1,10 @@
+{
+  "_id": "en46canavj",
+  "name": "hiragana-as",
+  "parents": [
+    "hiragana-script"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

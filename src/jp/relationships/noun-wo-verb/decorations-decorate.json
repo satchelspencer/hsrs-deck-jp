@@ -1,0 +1,13 @@
+{
+  "_id": "bcudg5b6d3o",
+  "name": "decorations-decorate",
+  "params": {
+    "noun": "decorations",
+    "verb": "decorate"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "_id": "ohqna189bi8",
+  "name": "now-i-understand",
+  "order": "3",
+  "parents": [
+    "replies"
+  ],
+  "props": {
+    "en": "now i understand",
+    "jp": "なるほど"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "kmmsy09p0f",
+  "name": "a-lot-root-verbs",
+  "params": {
+    "adv": "a-lot",
+    "verb": "root-verbs"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

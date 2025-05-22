@@ -1,0 +1,11 @@
+{
+  "_id": "1fnqvycovnd",
+  "name": "location-pronouns",
+  "parents": [
+    "pronouns",
+    "direction-pronouns"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

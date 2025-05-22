@@ -1,0 +1,13 @@
+{
+  "_id": "dsyykbei0br",
+  "name": "personal-pronoun-people-no",
+  "params": {
+    "noun": "people-no",
+    "pn": "personal-pronouns"
+  },
+  "parents": [
+    "pronoun-no-noun"
+  ],
+  "props": {
+  }
+}

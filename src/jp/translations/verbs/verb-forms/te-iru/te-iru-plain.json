@@ -1,0 +1,18 @@
+{
+  "_id": "zlz3m2wdv2q",
+  "constraint": "",
+  "mode": "c",
+  "name": "te-iru-plain",
+  "order": "1",
+  "params": {
+    "verb": ""
+  },
+  "parents": [
+    "te-iru",
+    "relative-clause-verb-forms"
+  ],
+  "props": {
+    "en": "te.en|r(' and','')+'-ing'",
+    "jp": "te.jp+'いる'"
+  }
+}

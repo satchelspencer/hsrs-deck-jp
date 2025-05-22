@@ -1,0 +1,13 @@
+{
+  "_id": "w3z2y4eumm",
+  "name": "daughter",
+  "order": "3",
+  "parents": [
+    "family"
+  ],
+  "props": {
+    "en": "daughter",
+    "jp": "お嬢さん",
+    "tl": "おじょうさん"
+  }
+}

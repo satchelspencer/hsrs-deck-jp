@@ -1,0 +1,13 @@
+{
+  "_id": "pmx89b4933o",
+  "name": "katakana-shu",
+  "params": {
+    "iis": "katakana-shi"
+  },
+  "parents": [
+    "katakana-yoon-yu"
+  ],
+  "props": {
+    "_tl": "shu"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "_id": "3dvzbw1idgt",
+  "name": "countries",
+  "parents": [
+    "absolute-places"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

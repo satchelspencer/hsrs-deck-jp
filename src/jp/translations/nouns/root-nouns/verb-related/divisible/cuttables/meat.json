@@ -1,0 +1,16 @@
+{
+  "_id": "x7lwgkpeh9m",
+  "name": "meat",
+  "order": "1",
+  "parents": [
+    "cuttables",
+    "foods",
+    "thins",
+    "roastables"
+  ],
+  "props": {
+    "en": "meat",
+    "jp": "肉",
+    "tl": "にく"
+  }
+}

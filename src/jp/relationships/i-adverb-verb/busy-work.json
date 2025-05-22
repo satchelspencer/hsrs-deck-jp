@@ -1,0 +1,13 @@
+{
+  "_id": "48zenrojtmn",
+  "name": "busy-work",
+  "params": {
+    "iadj": "busy",
+    "verb": "work"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

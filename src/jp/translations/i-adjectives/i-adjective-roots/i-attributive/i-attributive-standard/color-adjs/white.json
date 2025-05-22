@@ -1,0 +1,13 @@
+{
+  "_id": "knmpw7k2pl",
+  "name": "white",
+  "order": "1",
+  "parents": [
+    "color-adjs"
+  ],
+  "props": {
+    "en": "white",
+    "jp": "白い",
+    "tl": "しろい"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "korf6kc7vr",
+  "name": "clay",
+  "order": "4",
+  "parents": [
+    "building-materials"
+  ],
+  "props": {
+    "en": "clay",
+    "jp": "土 ",
+    "tl": "つち"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "h37k79lnfkw",
+  "name": "counter-nichi-five",
+  "params": {
+    "number": "five"
+  },
+  "parents": [
+    "counter-days"
+  ],
+  "props": {
+    "jp": "五日",
+    "tl": "いつか"
+  }
+}

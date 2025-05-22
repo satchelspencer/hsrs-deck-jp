@@ -1,0 +1,10 @@
+{
+  "_id": "yup8742st4c",
+  "name": "family",
+  "parents": [
+    "people"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

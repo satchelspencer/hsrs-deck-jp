@@ -1,0 +1,10 @@
+{
+  "_id": "frmzme5hty8",
+  "name": "ichidan",
+  "parents": [
+    "root-verbs"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

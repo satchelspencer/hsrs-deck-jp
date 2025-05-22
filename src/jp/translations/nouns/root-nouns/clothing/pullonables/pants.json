@@ -1,0 +1,13 @@
+{
+  "_id": "87so2wem6t",
+  "name": "pants",
+  "order": "2",
+  "parents": [
+    "pullonables",
+    "mai-countable"
+  ],
+  "props": {
+    "en": "pants",
+    "jp": "ズボン"
+  }
+}

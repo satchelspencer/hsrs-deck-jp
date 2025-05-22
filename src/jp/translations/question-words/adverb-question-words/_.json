@@ -1,0 +1,10 @@
+{
+  "_id": "e07u82qor4",
+  "name": "adverb-question-words",
+  "parents": [
+    "question-words"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

@@ -1,0 +1,11 @@
+{
+  "_id": "wepejh1ymhh",
+  "name": "industries",
+  "parents": [
+    "root-nouns",
+    "country-no"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

@@ -1,0 +1,11 @@
+{
+  "_id": "v8732swfieb",
+  "name": "katakana-u",
+  "parents": [
+    "katakana-as"
+  ],
+  "props": {
+    "_tl": "u",
+    "jp": "ウ"
+  }
+}

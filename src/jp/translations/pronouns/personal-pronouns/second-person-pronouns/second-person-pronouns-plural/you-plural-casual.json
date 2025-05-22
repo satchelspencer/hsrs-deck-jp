@@ -1,0 +1,16 @@
+{
+  "_id": "rs98tnapep",
+  "mode": "--r",
+  "name": "you-plural-casual",
+  "params": {
+    "pronoun": "you"
+  },
+  "parents": [
+    "second-person-pronouns-plural"
+  ],
+  "props": {
+    "en": "you all",
+    "jp": "あなたら",
+    "tl": ""
+  }
+}

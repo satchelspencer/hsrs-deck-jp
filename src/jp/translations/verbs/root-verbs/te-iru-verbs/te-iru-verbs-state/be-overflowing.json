@@ -1,0 +1,13 @@
+{
+  "_id": "i2qravksbeg",
+  "name": "be-overflowing",
+  "order": "3",
+  "parents": [
+    "te-iru-verbs-state",
+    "ichidan"
+  ],
+  "props": {
+    "en": "be overflowing",
+    "jp": "こぼれる"
+  }
+}

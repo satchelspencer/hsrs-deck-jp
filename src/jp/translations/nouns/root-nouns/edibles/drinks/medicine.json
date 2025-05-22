@@ -1,0 +1,14 @@
+{
+  "_id": "9c7rkiphcav",
+  "name": "medicine",
+  "order": "2",
+  "parents": [
+    "drinks",
+    "paintables"
+  ],
+  "props": {
+    "en": "medicine",
+    "jp": "薬",
+    "tl": "くすり"
+  }
+}

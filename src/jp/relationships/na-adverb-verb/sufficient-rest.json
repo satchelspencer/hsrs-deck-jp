@@ -1,0 +1,13 @@
+{
+  "_id": "j5v1oenfbc",
+  "name": "sufficient-rest",
+  "params": {
+    "na": "sufficient",
+    "verb": "rest"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

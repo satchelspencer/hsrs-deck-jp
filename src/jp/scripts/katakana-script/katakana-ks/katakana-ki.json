@@ -1,0 +1,12 @@
+{
+  "_id": "uwngmzmer8",
+  "name": "katakana-ki",
+  "parents": [
+    "katakana-ks",
+    "katakana-iis"
+  ],
+  "props": {
+    "_tl": "ki",
+    "jp": "キ"
+  }
+}

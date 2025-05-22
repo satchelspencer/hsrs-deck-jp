@@ -1,0 +1,12 @@
+{
+  "_id": "xru7k3tsd8e",
+  "name": "winter",
+  "parents": [
+    "seasons"
+  ],
+  "props": {
+    "en": "winter",
+    "jp": "冬",
+    "tl": "ふゆ"
+  }
+}

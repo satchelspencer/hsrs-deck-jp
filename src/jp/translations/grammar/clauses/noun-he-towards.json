@@ -1,0 +1,20 @@
+{
+  "_id": "7ujk8pkwk1c",
+  "constraint": "verb noun",
+  "name": "noun-he-towards",
+  "order": "2",
+  "params": {
+    "form": "verb-forms",
+    "noun": "places",
+    "verb": "he-related-verbs"
+  },
+  "parents": [
+    "clauses",
+    "const-noun-clauses"
+  ],
+  "props": {
+    "en": "'towards the '+noun.en+' '+form.en",
+    "jp": "noun.jp+'へ'+form.jp",
+    "tl": "noun.tl+'え'+form.tl"
+  }
+}

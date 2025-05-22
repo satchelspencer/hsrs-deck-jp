@@ -1,0 +1,13 @@
+{
+  "_id": "17usgm3lyo2",
+  "name": "weird",
+  "order": "2",
+  "parents": [
+    "na-seeables"
+  ],
+  "props": {
+    "en": "weird",
+    "jp": "変",
+    "tl": "へん"
+  }
+}

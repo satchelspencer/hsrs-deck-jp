@@ -1,0 +1,15 @@
+{
+  "_id": "ao7phiihrlq",
+  "name": "open-hiraku",
+  "order": "3",
+  "parents": [
+    "godan-ku",
+    "do-to-hiraku-tojiru",
+    "people-do"
+  ],
+  "props": {
+    "en": "spread open",
+    "jp": "開く",
+    "tl": "ひらく"
+  }
+}

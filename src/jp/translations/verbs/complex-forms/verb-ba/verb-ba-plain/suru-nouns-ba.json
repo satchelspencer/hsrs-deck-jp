@@ -1,0 +1,15 @@
+{
+  "_id": "mlyhhn9v8si",
+  "name": "suru-nouns-ba",
+  "params": {
+    "verb": "suru-nouns"
+  },
+  "parents": [
+    "verb-ba-plain"
+  ],
+  "props": {
+    "en": "'if do '+verb.en",
+    "jp": "verb.jp+'すれば'",
+    "tl": ""
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "k099tdonqko",
+  "name": "counter-months-one",
+  "params": {
+    "number": "one"
+  },
+  "parents": [
+    "counter-months"
+  ],
+  "props": {
+    "en": "january",
+    "tl": "いちがつ"
+  }
+}

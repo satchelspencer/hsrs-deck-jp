@@ -1,0 +1,13 @@
+{
+  "_id": "mmw8f5ig1xi",
+  "name": "fun-activities",
+  "params": {
+    "iadj": "fun",
+    "noun": "activities"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

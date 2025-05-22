@@ -1,0 +1,14 @@
+{
+  "_id": "4pjeckd3zkk",
+  "name": "i-adjective-ku-yoi",
+  "params": {
+    "iadj": "i-yoi-form"
+  },
+  "parents": [
+    "i-adjective-ku"
+  ],
+  "props": {
+    "en": null,
+    "jp": "iadj.jp|r('いい', 'よく')"
+  }
+}

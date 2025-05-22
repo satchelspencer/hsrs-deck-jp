@@ -1,0 +1,14 @@
+{
+  "_id": "9mdbjrbbubj",
+  "name": "sushi",
+  "order": "1",
+  "parents": [
+    "foods",
+    "cuttables"
+  ],
+  "props": {
+    "en": "sushi",
+    "jp": "寿司",
+    "tl": "すし"
+  }
+}

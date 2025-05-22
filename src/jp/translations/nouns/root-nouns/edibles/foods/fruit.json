@@ -1,0 +1,13 @@
+{
+  "_id": "1nt2vvsbsce",
+  "name": "fruit",
+  "order": "2",
+  "parents": [
+    "foods"
+  ],
+  "props": {
+    "en": "fruit",
+    "jp": "果物",
+    "tl": "くだもの"
+  }
+}

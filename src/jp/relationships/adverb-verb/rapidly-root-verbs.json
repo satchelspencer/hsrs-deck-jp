@@ -1,0 +1,13 @@
+{
+  "_id": "nctrdwj2ib",
+  "name": "rapidly-root-verbs",
+  "params": {
+    "adv": "increasingly",
+    "verb": "root-verbs"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

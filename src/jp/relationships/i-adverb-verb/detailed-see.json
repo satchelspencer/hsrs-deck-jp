@@ -1,0 +1,13 @@
+{
+  "_id": "oyoby8mqzma",
+  "name": "detailed-see",
+  "params": {
+    "iadj": "detailed",
+    "verb": "see"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "_id": "l3o333jk3rf",
+  "name": "fish-it",
+  "order": "3",
+  "parents": [
+    "godan-ru",
+    "people-do",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "en": "fish it",
+    "jp": "釣る",
+    "tl": "つる"
+  }
+}

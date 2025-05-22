@@ -1,0 +1,13 @@
+{
+  "_id": "ef3b6gcuqu",
+  "name": "write-with-writing-utensils",
+  "params": {
+    "noun": "writing-utensils",
+    "verb": "write"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

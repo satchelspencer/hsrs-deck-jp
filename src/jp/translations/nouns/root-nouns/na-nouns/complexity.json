@@ -1,0 +1,13 @@
+{
+  "_id": "ujhrbao015",
+  "name": "complexity",
+  "order": "3",
+  "parents": [
+    "na-nouns"
+  ],
+  "props": {
+    "en": "complexity",
+    "jp": "複雑",
+    "tl": "ふくざつ"
+  }
+}

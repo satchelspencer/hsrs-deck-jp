@@ -1,0 +1,13 @@
+{
+  "_id": "jupdrnokalg",
+  "name": "liked-eat",
+  "params": {
+    "na": "liked",
+    "verb": "eat"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

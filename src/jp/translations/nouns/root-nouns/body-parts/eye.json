@@ -1,0 +1,14 @@
+{
+  "_id": "vuk14ivr8y",
+  "name": "eye",
+  "order": "1",
+  "parents": [
+    "body-parts",
+    "hiraku-tojiru"
+  ],
+  "props": {
+    "en": "eye",
+    "jp": "目",
+    "tl": "め"
+  }
+}

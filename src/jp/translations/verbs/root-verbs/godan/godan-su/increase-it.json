@@ -1,0 +1,17 @@
+{
+  "_id": "hkoah116ks",
+  "name": "increase-it",
+  "order": "3",
+  "parents": [
+    "godan-su",
+    "people-do",
+    "do-to-quantities",
+    "te-iru-verbs-continuous",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "increase it",
+    "jp": "増やす",
+    "tl": "ふやす"
+  }
+}

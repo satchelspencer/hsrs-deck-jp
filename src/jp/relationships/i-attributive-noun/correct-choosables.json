@@ -1,0 +1,13 @@
+{
+  "_id": "54oci67n6v3",
+  "name": "correct-choosables",
+  "params": {
+    "iadj": "correct",
+    "noun": "choosables"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

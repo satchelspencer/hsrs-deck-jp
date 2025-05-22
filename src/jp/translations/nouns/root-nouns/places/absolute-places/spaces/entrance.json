@@ -1,0 +1,13 @@
+{
+  "_id": "biliwlt20ru",
+  "name": "entrance",
+  "order": "1",
+  "parents": [
+    "spaces"
+  ],
+  "props": {
+    "en": "entrance",
+    "jp": "入口",
+    "tl": "いりぐち"
+  }
+}

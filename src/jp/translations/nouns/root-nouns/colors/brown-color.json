@@ -1,0 +1,13 @@
+{
+  "_id": "dgzqczfjvf",
+  "name": "brown-color",
+  "order": "",
+  "parents": [
+    "colors"
+  ],
+  "props": {
+    "en": "brown color",
+    "jp": "茶色",
+    "tl": "ちゃいろ"
+  }
+}

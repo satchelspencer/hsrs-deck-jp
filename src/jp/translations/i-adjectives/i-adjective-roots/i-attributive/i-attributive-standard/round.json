@@ -1,0 +1,13 @@
+{
+  "_id": "ngt5zn5q1m",
+  "name": "round",
+  "order": "2",
+  "parents": [
+    "i-attributive-standard"
+  ],
+  "props": {
+    "en": "round",
+    "jp": "丸い",
+    "tl": "まるい"
+  }
+}

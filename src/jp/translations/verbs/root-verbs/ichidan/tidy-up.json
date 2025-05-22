@@ -1,0 +1,16 @@
+{
+  "_id": "l07bijmjkg",
+  "name": "tidy-up",
+  "order": "3",
+  "parents": [
+    "ichidan",
+    "people-do",
+    "do-to-places",
+    "do-to-objects"
+  ],
+  "props": {
+    "en": "tidy up",
+    "jp": "片付ける",
+    "tl": "かたづける"
+  }
+}

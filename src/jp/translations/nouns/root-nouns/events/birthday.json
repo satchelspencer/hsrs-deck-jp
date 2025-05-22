@@ -1,0 +1,13 @@
+{
+  "_id": "sj7ko2r45w",
+  "name": "birthday",
+  "order": "1",
+  "parents": [
+    "events"
+  ],
+  "props": {
+    "en": "birthday",
+    "jp": "誕生日",
+    "tl": "たんじょうび"
+  }
+}

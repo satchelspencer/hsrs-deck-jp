@@ -1,0 +1,13 @@
+{
+  "_id": "09e9jbb69ces",
+  "name": "counter-root-machines",
+  "order": "2",
+  "parents": [
+    "counter-roots-kango-simple"
+  ],
+  "props": {
+    "en": "machines",
+    "jp": "台",
+    "tl": "だい"
+  }
+}

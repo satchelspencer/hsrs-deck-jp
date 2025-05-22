@@ -1,0 +1,13 @@
+{
+  "_id": "c08h96m43v9",
+  "name": "pupil",
+  "order": "3",
+  "parents": [
+    "students"
+  ],
+  "props": {
+    "en": "pupil",
+    "jp": "生徒",
+    "tl": "せいと"
+  }
+}

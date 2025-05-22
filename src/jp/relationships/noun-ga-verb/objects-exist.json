@@ -1,0 +1,13 @@
+{
+  "_id": "elnaxdzv7o",
+  "name": "objects-exist",
+  "params": {
+    "noun": "objects",
+    "verb": "aru"
+  },
+  "parents": [
+    "noun-ga-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "7wa48sw0hpf",
+  "name": "people-standalone",
+  "params": {
+    "noun": "person",
+    "root": "people-counter"
+  },
+  "parents": [
+    "standalone-counter-roots"
+  ],
+  "props": {
+  }
+}

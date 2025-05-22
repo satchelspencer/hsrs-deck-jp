@@ -1,0 +1,13 @@
+{
+  "_id": "uzvkvcr12e",
+  "name": "people-ni-person-verbs",
+  "params": {
+    "noun": "people",
+    "verb": "ni-person-verbs"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

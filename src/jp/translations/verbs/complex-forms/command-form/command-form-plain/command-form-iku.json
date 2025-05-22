@@ -1,0 +1,14 @@
+{
+  "_id": "ha6fwjjev3h",
+  "name": "command-form-iku",
+  "params": {
+    "verb": "go"
+  },
+  "parents": [
+    "command-form-plain"
+  ],
+  "props": {
+    "jp": "verb.jp|r('行く', '行け')|r('いく', 'いけ')",
+    "tl": "verb.tl|r('いく', 'いけ')"
+  }
+}

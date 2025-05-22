@@ -1,0 +1,15 @@
+{
+  "_id": "ewix3y9u3zu",
+  "name": "bell",
+  "order": "3",
+  "parents": [
+    "objects",
+    "audibles",
+    "ringers"
+  ],
+  "props": {
+    "en": "bell",
+    "jp": "ベル",
+    "tl": "べる"
+  }
+}

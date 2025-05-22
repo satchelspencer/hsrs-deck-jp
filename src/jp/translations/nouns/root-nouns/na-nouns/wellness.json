@@ -1,0 +1,14 @@
+{
+  "_id": "jocteupidb",
+  "name": "wellness",
+  "order": "1",
+  "parents": [
+    "na-nouns",
+    "na-place"
+  ],
+  "props": {
+    "en": "wellness",
+    "jp": "元気",
+    "tl": "げんき"
+  }
+}

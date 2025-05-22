@@ -1,0 +1,13 @@
+{
+  "_id": "3u3gpahghr4",
+  "name": "elevator",
+  "order": "2",
+  "parents": [
+    "spaces"
+  ],
+  "props": {
+    "en": "elevator",
+    "jp": "エレベーター",
+    "tl": "えれべーたー"
+  }
+}

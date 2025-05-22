@@ -1,0 +1,13 @@
+{
+  "_id": "dclol4k7gwf",
+  "name": "together-people-do",
+  "params": {
+    "adv": "together",
+    "verb": "people-do"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

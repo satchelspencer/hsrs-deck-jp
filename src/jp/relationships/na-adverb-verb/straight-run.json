@@ -1,0 +1,13 @@
+{
+  "_id": "scm5s92z9c",
+  "name": "straight-run",
+  "params": {
+    "na": "straight",
+    "verb": "run"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

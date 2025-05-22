@@ -1,0 +1,13 @@
+{
+  "_id": "ldsrq405gn",
+  "name": "wife",
+  "order": "2",
+  "parents": [
+    "family"
+  ],
+  "props": {
+    "en": "wife",
+    "jp": "奥さん",
+    "tl": "おくさん"
+  }
+}

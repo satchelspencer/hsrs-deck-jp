@@ -1,0 +1,14 @@
+{
+  "_id": "qos1symzow9",
+  "name": "noun-pred-linked-i",
+  "params": {
+    "pred": "noun-i-adj-pred"
+  },
+  "parents": [
+    "noun-pred-linked"
+  ],
+  "props": {
+    "en": "te.en+' '+pred.iform.en",
+    "jp": "te.jp+pred.iform.jp"
+  }
+}

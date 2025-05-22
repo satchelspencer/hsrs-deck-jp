@@ -1,0 +1,13 @@
+{
+  "_id": "kh5gjja21jg",
+  "name": "counter-kago-3+three-f",
+  "params": {
+    "root": "counter-roots-kango-3+-f"
+  },
+  "parents": [
+    "counter-kago-3+three"
+  ],
+  "props": {
+    "tl": "number.tl+root.tl|pcr('ふ', 'ぷ')"
+  }
+}

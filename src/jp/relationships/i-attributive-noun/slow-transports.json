@@ -1,0 +1,13 @@
+{
+  "_id": "fuk14y51uf",
+  "name": "slow-transports",
+  "params": {
+    "iadj": "slow",
+    "noun": "transports"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

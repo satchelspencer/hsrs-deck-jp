@@ -1,0 +1,14 @@
+{
+  "_id": "u1gy2e4gyv",
+  "name": "counter-months-eleven",
+  "params": {
+    "number": "eleven"
+  },
+  "parents": [
+    "counter-months"
+  ],
+  "props": {
+    "en": "november",
+    "tl": "じゅういちがつ\t"
+  }
+}

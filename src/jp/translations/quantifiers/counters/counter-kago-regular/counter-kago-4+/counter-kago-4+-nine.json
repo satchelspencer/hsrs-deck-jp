@@ -1,0 +1,13 @@
+{
+  "_id": "iljwwotrwjn",
+  "name": "counter-kago-4+-nine",
+  "params": {
+    "number": "nine"
+  },
+  "parents": [
+    "counter-kago-4+"
+  ],
+  "props": {
+    "tl": "$.jp"
+  }
+}

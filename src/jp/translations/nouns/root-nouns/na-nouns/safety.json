@@ -1,0 +1,14 @@
+{
+  "_id": "fmmcwb4ft74",
+  "name": "safety",
+  "order": "2",
+  "parents": [
+    "na-nouns",
+    "na-people"
+  ],
+  "props": {
+    "en": "safety",
+    "jp": "安全",
+    "tl": "あんぜん"
+  }
+}

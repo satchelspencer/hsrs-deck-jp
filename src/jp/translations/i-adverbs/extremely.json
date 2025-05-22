@@ -1,0 +1,13 @@
+{
+  "_id": "mwqdqimc4r",
+  "name": "extremely",
+  "order": "2",
+  "parents": [
+    "i-adverbs",
+    "na-adverbs"
+  ],
+  "props": {
+    "en": "immensely",
+    "jp": "すごく"
+  }
+}

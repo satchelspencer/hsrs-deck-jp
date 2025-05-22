@@ -1,0 +1,11 @@
+{
+  "_id": "i2rijo2sxrd",
+  "name": "katakana-so",
+  "parents": [
+    "katakana-ss"
+  ],
+  "props": {
+    "_tl": "so",
+    "jp": "ソ"
+  }
+}

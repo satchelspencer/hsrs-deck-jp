@@ -1,0 +1,14 @@
+{
+  "_id": "du4cfmy853t",
+  "name": "charachter",
+  "order": "3",
+  "parents": [
+    "language",
+    "writeables"
+  ],
+  "props": {
+    "en": "charachter",
+    "jp": "字",
+    "tl": "じ"
+  }
+}

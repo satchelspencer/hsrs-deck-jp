@@ -1,0 +1,13 @@
+{
+  "_id": "6ynn1zp5gh9",
+  "name": "ear",
+  "order": "1",
+  "parents": [
+    "body-parts"
+  ],
+  "props": {
+    "en": "ear",
+    "jp": "耳",
+    "tl": "みみ"
+  }
+}

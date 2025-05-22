@@ -1,0 +1,10 @@
+{
+  "_id": "l8tl7aivdba",
+  "name": "ko-countable",
+  "parents": [
+    "counter-related"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

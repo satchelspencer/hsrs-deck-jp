@@ -1,0 +1,13 @@
+{
+  "_id": "o73b05z98gs",
+  "name": "a-walk",
+  "order": "2",
+  "parents": [
+    "activities"
+  ],
+  "props": {
+    "en": "a walk",
+    "jp": "散歩",
+    "tl": "さんぽ"
+  }
+}

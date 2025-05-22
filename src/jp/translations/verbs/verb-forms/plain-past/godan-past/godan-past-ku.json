@@ -1,0 +1,14 @@
+{
+  "_id": "ik0dhggq79",
+  "name": "godan-past-ku",
+  "params": {
+    "verb": "godan-ku"
+  },
+  "parents": [
+    "godan-past"
+  ],
+  "props": {
+    "en": null,
+    "jp": "verb.jp|r('く', 'いた')"
+  }
+}

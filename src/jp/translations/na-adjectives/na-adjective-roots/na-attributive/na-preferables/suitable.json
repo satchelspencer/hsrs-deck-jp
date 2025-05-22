@@ -1,0 +1,13 @@
+{
+  "_id": "bxi5ijidjdw",
+  "name": "suitable",
+  "order": "3",
+  "parents": [
+    "na-preferables"
+  ],
+  "props": {
+    "en": "suitable",
+    "jp": "適当",
+    "tl": "てきとう"
+  }
+}

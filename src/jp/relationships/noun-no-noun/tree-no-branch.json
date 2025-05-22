@@ -1,0 +1,13 @@
+{
+  "_id": "1aa492v1b4r",
+  "name": "tree-no-branch",
+  "params": {
+    "noun": "branch",
+    "owner": "tree"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

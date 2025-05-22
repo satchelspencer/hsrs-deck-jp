@@ -1,0 +1,21 @@
+{
+  "_id": "tapxke8rgbe",
+  "mode": "p",
+  "name": "na-adjective-negative-past-polite",
+  "order": "2",
+  "params": {
+    "na": "na-attributive"
+  },
+  "parents": [
+    "na-adjective-forms",
+    "na-predicate-forms",
+    "ka-na-forms",
+    "nda-na-forms",
+    "yo-ne-na-forms"
+  ],
+  "props": {
+    "en": "'was not '+na.en",
+    "jp": "na.jp+'ではなかった'",
+    "tl": "na.tl+'でわなかった'"
+  }
+}

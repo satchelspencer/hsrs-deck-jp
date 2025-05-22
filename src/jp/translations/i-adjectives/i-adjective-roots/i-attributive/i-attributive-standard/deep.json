@@ -1,0 +1,13 @@
+{
+  "_id": "odex9zh78da",
+  "name": "deep",
+  "order": "2",
+  "parents": [
+    "i-attributive-standard"
+  ],
+  "props": {
+    "en": "deep",
+    "jp": "深い",
+    "tl": "ふかい"
+  }
+}

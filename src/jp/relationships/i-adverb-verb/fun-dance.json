@@ -1,0 +1,13 @@
+{
+  "_id": "3v4lxi8xcwy",
+  "name": "fun-dance",
+  "params": {
+    "iadj": "fun",
+    "verb": "dance"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

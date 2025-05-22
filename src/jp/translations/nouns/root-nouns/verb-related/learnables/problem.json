@@ -1,0 +1,14 @@
+{
+  "_id": "3e1pr0zu0w6",
+  "name": "problem",
+  "order": "3",
+  "parents": [
+    "learnables",
+    "choosables"
+  ],
+  "props": {
+    "en": "problem",
+    "jp": "問題",
+    "tl": "もんだい"
+  }
+}

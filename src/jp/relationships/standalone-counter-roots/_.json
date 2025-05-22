@@ -1,0 +1,14 @@
+{
+  "_id": "mhjd2rmxhb",
+  "name": "standalone-counter-roots",
+  "params": {
+    "noun": "root-nouns",
+    "root": "counter-roots"
+  },
+  "parents": [
+    "relationships"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

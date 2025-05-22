@@ -1,0 +1,11 @@
+{
+  "_id": "dro57sfi61c",
+  "name": "counter-roots-kango-full-p",
+  "parents": [
+    "counter-roots-kango-full",
+    "counter-roots-kango-3+-p"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

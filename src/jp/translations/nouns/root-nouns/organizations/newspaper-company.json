@@ -1,0 +1,13 @@
+{
+  "_id": "dp1qch30tkl",
+  "name": "newspaper-company",
+  "order": "3",
+  "parents": [
+    "organizations"
+  ],
+  "props": {
+    "en": "newspaper company",
+    "jp": "新聞社",
+    "tl": "しんぶんしゃ"
+  }
+}

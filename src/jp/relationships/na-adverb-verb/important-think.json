@@ -1,0 +1,13 @@
+{
+  "_id": "rzvf5w7ambc",
+  "name": "important-think",
+  "params": {
+    "na": "important",
+    "verb": "think"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

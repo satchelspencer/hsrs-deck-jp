@@ -1,0 +1,16 @@
+{
+  "_id": "ey3ci8cm5tv",
+  "name": "humbly-do",
+  "order": "4",
+  "parents": [
+    "godan-su",
+    "people-do",
+    "te-iru-verbs-continuous",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "humbly do",
+    "jp": "いたす",
+    "tl": ""
+  }
+}

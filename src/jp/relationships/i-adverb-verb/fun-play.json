@@ -1,0 +1,13 @@
+{
+  "_id": "gg0wbx0d6qa",
+  "name": "fun-play",
+  "params": {
+    "iadj": "fun",
+    "verb": "play"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

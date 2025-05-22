@@ -1,0 +1,13 @@
+{
+  "_id": "1ctc6dq79fg",
+  "name": "horse",
+  "order": "3",
+  "parents": [
+    "tou-countable"
+  ],
+  "props": {
+    "en": "horse",
+    "jp": "馬",
+    "tl": "うま"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "wjd106q8ifm",
+  "name": "be-seen",
+  "order": "3",
+  "parents": [
+    "seeables-do",
+    "ni-at-verbs",
+    "te-iru-verbs-state",
+    "ichidan"
+  ],
+  "props": {
+    "en": "be seen",
+    "jp": "見える",
+    "tl": "みえる"
+  }
+}

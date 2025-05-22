@@ -1,0 +1,13 @@
+{
+  "_id": "kl6ooiqgtso",
+  "mode": "c",
+  "name": "te-iru-past-nagative",
+  "parents": [
+    "te-iru",
+    "relative-clause-verb-forms"
+  ],
+  "props": {
+    "en": "'wasn\\'t '+te.en|r(' and','')+'-ing'",
+    "jp": "te.jp+'いなかった'"
+  }
+}

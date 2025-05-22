@@ -1,0 +1,14 @@
+{
+  "_id": "7mqofsf6i3a",
+  "name": "more",
+  "order": "1",
+  "parents": [
+    "verb-adverbs",
+    "i-adverbs",
+    "na-adverbs"
+  ],
+  "props": {
+    "en": "more",
+    "jp": "もっと"
+  }
+}

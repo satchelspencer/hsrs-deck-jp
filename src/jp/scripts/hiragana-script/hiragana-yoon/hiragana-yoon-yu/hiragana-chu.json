@@ -1,0 +1,14 @@
+{
+  "_id": "1jtx4fm724e",
+  "name": "hiragana-chu",
+  "params": {
+    "iis": "hiragana-chi"
+  },
+  "parents": [
+    "hiragana-yoon-yu"
+  ],
+  "props": {
+    "_tl": "chu",
+    "jp": "iis.jp+'ゅ'"
+  }
+}

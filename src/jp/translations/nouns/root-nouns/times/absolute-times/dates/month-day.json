@@ -1,0 +1,17 @@
+{
+  "_id": "rboi8di70o",
+  "name": "month-day",
+  "order": "2",
+  "params": {
+    "day": "date-day",
+    "month": "date-month"
+  },
+  "parents": [
+    "dates",
+    "ni-any-times"
+  ],
+  "props": {
+    "en": "month.en+' '+day.en|r('day', '')",
+    "jp": "month.jp+day.jp"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "ikz68mvm1uq",
+  "name": "judo",
+  "order": "3",
+  "parents": [
+    "activities"
+  ],
+  "props": {
+    "en": "judo",
+    "jp": "柔道",
+    "tl": "じゅうどう"
+  }
+}

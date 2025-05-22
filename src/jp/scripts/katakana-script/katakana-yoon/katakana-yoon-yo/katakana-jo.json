@@ -1,0 +1,13 @@
+{
+  "_id": "qlhgaelop29",
+  "name": "katakana-jo",
+  "params": {
+    "iis": "katakana-ji"
+  },
+  "parents": [
+    "katakana-yoon-yo"
+  ],
+  "props": {
+    "_tl": "jo"
+  }
+}

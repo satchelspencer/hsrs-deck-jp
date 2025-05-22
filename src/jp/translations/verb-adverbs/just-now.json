@@ -1,0 +1,13 @@
+{
+  "_id": "9ihlh16mwtp",
+  "name": "just-now",
+  "order": "2",
+  "parents": [
+    "verb-adverbs"
+  ],
+  "props": {
+    "en": "just now",
+    "jp": "丁度",
+    "tl": "ちょうど"
+  }
+}

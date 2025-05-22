@@ -1,0 +1,14 @@
+{
+  "_id": "adbusvgxu49",
+  "name": "be-understood",
+  "order": "1",
+  "parents": [
+    "godan-ru",
+    "info-verbs"
+  ],
+  "props": {
+    "en": "be understood",
+    "jp": "分かる",
+    "tl": "わかる"
+  }
+}

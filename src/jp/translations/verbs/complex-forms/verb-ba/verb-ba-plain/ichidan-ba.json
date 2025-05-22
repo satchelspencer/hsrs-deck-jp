@@ -1,0 +1,15 @@
+{
+  "_id": "8iqnzgz3fmo",
+  "name": "ichidan-ba",
+  "params": {
+    "verb": "ichidan"
+  },
+  "parents": [
+    "verb-ba-plain"
+  ],
+  "props": {
+    "en": "'if do '+verb.en",
+    "jp": "verb.jp|r('る', 'れば')",
+    "tl": ""
+  }
+}

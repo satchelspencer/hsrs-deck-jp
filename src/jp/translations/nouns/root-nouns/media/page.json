@@ -1,0 +1,13 @@
+{
+  "_id": "idjqajjtf2i",
+  "name": "page",
+  "order": "3",
+  "parents": [
+    "media"
+  ],
+  "props": {
+    "en": "page",
+    "jp": "ページ",
+    "tl": "ぺーじ"
+  }
+}

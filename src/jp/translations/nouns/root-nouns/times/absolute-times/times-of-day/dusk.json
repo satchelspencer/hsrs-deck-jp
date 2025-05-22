@@ -1,0 +1,13 @@
+{
+  "_id": "652sucbz8gh",
+  "name": "dusk",
+  "order": "2",
+  "parents": [
+    "times-of-day"
+  ],
+  "props": {
+    "en": "dusk",
+    "jp": "夕方",
+    "tl": "ゆうがた"
+  }
+}

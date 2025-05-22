@@ -1,0 +1,13 @@
+{
+  "_id": "1jgnxuvvmhd",
+  "name": "together",
+  "order": "2",
+  "parents": [
+    "verb-adverbs"
+  ],
+  "props": {
+    "en": "together",
+    "jp": "一緒に",
+    "tl": "いっしょに"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "9u2et4p8a1e",
+  "constraint": "iadj iform",
+  "name": "yori-hou-noun-i-adj-pred",
+  "params": {
+    "alt": "noun-i-adj-pred",
+    "clause": "noun-i-adj-pred"
+  },
+  "parents": [
+    "yori-hou-comparisons"
+  ],
+  "props": {
+    "en": "'rather than '+alt.rel.noun.en+', '+clause.en",
+    "jp": "alt.rel.noun.jp+'より'+clause.jp|rg(clause.rel.noun.jp, clause.rel.noun.jp+'のほう')"
+  }
+}

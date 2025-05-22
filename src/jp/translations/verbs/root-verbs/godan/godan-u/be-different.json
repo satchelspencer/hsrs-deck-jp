@@ -1,0 +1,15 @@
+{
+  "_id": "jn719wliyo",
+  "name": "be-different",
+  "order": "1",
+  "parents": [
+    "godan-u",
+    "choices-do",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "en": "be different",
+    "jp": "違う",
+    "tl": "ちがう"
+  }
+}

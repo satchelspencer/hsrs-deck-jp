@@ -1,0 +1,13 @@
+{
+  "_id": "bmgg1k56x4r",
+  "name": "cheap-stay-overnight",
+  "params": {
+    "iadj": "cheap",
+    "verb": "stay-overnight"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

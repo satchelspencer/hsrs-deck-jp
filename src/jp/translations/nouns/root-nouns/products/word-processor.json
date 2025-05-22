@@ -1,0 +1,15 @@
+{
+  "_id": "tcziwtbh4df",
+  "name": "word-processor",
+  "order": "3",
+  "parents": [
+    "products",
+    "tools",
+    "electrics"
+  ],
+  "props": {
+    "en": "word processor",
+    "jp": "ワープロ",
+    "tl": "わーぷろ"
+  }
+}

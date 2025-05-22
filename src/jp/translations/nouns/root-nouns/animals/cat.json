@@ -1,0 +1,14 @@
+{
+  "_id": "ppqxis1g29b",
+  "name": "cat",
+  "order": "1",
+  "parents": [
+    "animals",
+    "hiki-countable"
+  ],
+  "props": {
+    "en": "cat",
+    "jp": "猫",
+    "tl": "ねこ"
+  }
+}

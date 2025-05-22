@@ -1,0 +1,19 @@
+{
+  "_id": "i4kujz70dm",
+  "constraint": "verb noun",
+  "name": "noun-de-in",
+  "order": "1",
+  "params": {
+    "form": "verb-forms",
+    "rel": "noun-de-verb-loc"
+  },
+  "parents": [
+    "clauses",
+    "const-noun-clauses",
+    "temporal-verb-clauses"
+  ],
+  "props": {
+    "en": "'in '+rel.noun.en+' '+form.en",
+    "jp": "rel.noun.jp+'で'+form.jp"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "xptdj0pc97",
+  "name": "parking-lot",
+  "order": "3",
+  "parents": [
+    "absolute-places"
+  ],
+  "props": {
+    "en": "parking lot",
+    "jp": "駐車場",
+    "tl": "ちゅうしゃじょう"
+  }
+}

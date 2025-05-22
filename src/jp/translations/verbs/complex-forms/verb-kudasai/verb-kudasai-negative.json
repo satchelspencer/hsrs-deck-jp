@@ -1,0 +1,14 @@
+{
+  "_id": "d8wm88j0kus",
+  "name": "verb-kudasai-negative",
+  "params": {
+    "form": "plain-negative"
+  },
+  "parents": [
+    "verb-kudasai"
+  ],
+  "props": {
+    "en": "'please '+form.en",
+    "jp": "form.jp+'で下さい'"
+  }
+}

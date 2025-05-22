@@ -1,0 +1,15 @@
+{
+  "_id": "y4qnml2zcir",
+  "name": "greeting",
+  "order": "3",
+  "parents": [
+    "suru-nouns",
+    "people-do",
+    "ni-person-verbs"
+  ],
+  "props": {
+    "en": "greeting",
+    "jp": "挨拶",
+    "tl": "あいさつ"
+  }
+}

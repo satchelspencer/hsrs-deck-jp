@@ -1,0 +1,13 @@
+{
+  "_id": "jojki319wgj",
+  "name": "i-predicate-question-location",
+  "params": {
+    "iadj": "i-places",
+    "qw": "location-question-words"
+  },
+  "parents": [
+    "i-predicate-question"
+  ],
+  "props": {
+  }
+}

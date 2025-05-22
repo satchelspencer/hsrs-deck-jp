@@ -1,0 +1,10 @@
+{
+  "_id": "3zkgef5snv6",
+  "name": "na-people",
+  "parents": [
+    "na-attributive"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

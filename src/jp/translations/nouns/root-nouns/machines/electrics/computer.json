@@ -1,0 +1,13 @@
+{
+  "_id": "ctaqj8tbta7",
+  "name": "computer",
+  "order": "3",
+  "parents": [
+    "electrics"
+  ],
+  "props": {
+    "en": "computer",
+    "jp": "コンピュータ",
+    "tl": "こんぴゅーた"
+  }
+}

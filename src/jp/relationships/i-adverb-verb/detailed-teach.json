@@ -1,0 +1,13 @@
+{
+  "_id": "pvwf7l9926",
+  "name": "detailed-teach",
+  "params": {
+    "iadj": "detailed",
+    "verb": "teach"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

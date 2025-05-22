@@ -1,0 +1,17 @@
+{
+  "_id": "28qxng1ians",
+  "name": "be-moving",
+  "order": "2",
+  "parents": [
+    "godan-ku",
+    "people-do",
+    "movers-do",
+    "te-iru-verbs-continuous",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "be moving",
+    "jp": "動く",
+    "tl": "うごく"
+  }
+}

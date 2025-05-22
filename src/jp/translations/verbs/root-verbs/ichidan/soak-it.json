@@ -1,0 +1,16 @@
+{
+  "_id": "2c9fkg3n2bs",
+  "name": "soak-it",
+  "order": "3",
+  "parents": [
+    "ichidan",
+    "do-to-foods",
+    "people-do",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "en": "soak it",
+    "jp": "漬ける",
+    "tl": "つける"
+  }
+}

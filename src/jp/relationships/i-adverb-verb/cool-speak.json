@@ -1,0 +1,13 @@
+{
+  "_id": "aziwrirh5zq",
+  "name": "cool-speak",
+  "params": {
+    "iadj": "cool",
+    "verb": "speak"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

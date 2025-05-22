@@ -1,0 +1,13 @@
+{
+  "_id": "dki0fm409m",
+  "name": "warm-hot-cold-touch",
+  "params": {
+    "iadj": "warm",
+    "noun": "hot-cold-touch"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

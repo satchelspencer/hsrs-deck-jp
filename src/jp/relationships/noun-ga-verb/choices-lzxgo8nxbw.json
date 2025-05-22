@@ -1,0 +1,13 @@
+{
+  "_id": "eqym808bwbe",
+  "name": "choices-lzxgo8nxbw",
+  "params": {
+    "noun": "choosables",
+    "verb": "choices-do"
+  },
+  "parents": [
+    "noun-ga-verb"
+  ],
+  "props": {
+  }
+}

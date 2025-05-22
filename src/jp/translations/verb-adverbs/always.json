@@ -1,0 +1,12 @@
+{
+  "_id": "0pj1u1po817",
+  "name": "always",
+  "order": "1",
+  "parents": [
+    "verb-adverbs"
+  ],
+  "props": {
+    "en": "always",
+    "jp": "いつも"
+  }
+}

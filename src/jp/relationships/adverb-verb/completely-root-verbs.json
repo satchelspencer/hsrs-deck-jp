@@ -1,0 +1,13 @@
+{
+  "_id": "dqbz8xgm22s",
+  "name": "completely-root-verbs",
+  "params": {
+    "adv": "completely",
+    "verb": "root-verbs"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

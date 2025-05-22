@@ -1,0 +1,11 @@
+{
+  "_id": "17xkse9cqx2",
+  "name": "people-no",
+  "parents": [
+    "no-related",
+    "good-bads"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

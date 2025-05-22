@@ -1,0 +1,13 @@
+{
+  "_id": "8en8irh78qw",
+  "name": "department-head",
+  "order": "4",
+  "parents": [
+    "roles"
+  ],
+  "props": {
+    "en": "department head",
+    "jp": "部長",
+    "tl": "ぶちょう"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "xaoyxnkwtt9",
+  "name": "godan-negative-u",
+  "params": {
+    "verb": "godan-u"
+  },
+  "parents": [
+    "godan-negative"
+  ],
+  "props": {
+    "en": null,
+    "jp": "verb.jp|r('う', 'わない')"
+  }
+}

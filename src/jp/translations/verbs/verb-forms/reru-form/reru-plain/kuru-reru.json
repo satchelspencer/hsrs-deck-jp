@@ -1,0 +1,14 @@
+{
+  "_id": "ql9nipiftsh",
+  "name": "kuru-reru",
+  "params": {
+    "verb": "kuru"
+  },
+  "parents": [
+    "reru-plain"
+  ],
+  "props": {
+    "jp": "verb.jp|r('来る', '来れる')|r('くる', 'これる')",
+    "tl": "verb.tl|r('くる', 'これる')"
+  }
+}

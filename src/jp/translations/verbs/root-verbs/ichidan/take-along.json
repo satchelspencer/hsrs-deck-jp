@@ -1,0 +1,15 @@
+{
+  "_id": "74hamiko5sp",
+  "name": "take-along",
+  "order": "3",
+  "parents": [
+    "ichidan",
+    "people-do",
+    "do-to-people"
+  ],
+  "props": {
+    "en": "take along",
+    "jp": "連れる",
+    "tl": "つれる"
+  }
+}

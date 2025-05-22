@@ -1,0 +1,18 @@
+{
+  "_id": "s8uaz3owk3e",
+  "constraint": "verb",
+  "name": "pronoun-ni-at",
+  "order": "1",
+  "params": {
+    "form": "verb-forms",
+    "rel": "pronoun-ni-verb-at"
+  },
+  "parents": [
+    "pronoun-clauses",
+    "pronoun-temporal-verb-clauses"
+  ],
+  "props": {
+    "en": "'at '+rel.pn.en+' '+form.en",
+    "jp": "rel.pn.jp+'に'+form.jp"
+  }
+}

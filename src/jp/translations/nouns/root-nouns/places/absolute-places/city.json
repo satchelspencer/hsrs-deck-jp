@@ -1,0 +1,13 @@
+{
+  "_id": "vlk6z4ov81",
+  "name": "city",
+  "order": "4",
+  "parents": [
+    "absolute-places"
+  ],
+  "props": {
+    "en": "city",
+    "jp": "市",
+    "tl": "し"
+  }
+}

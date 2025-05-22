@@ -1,0 +1,16 @@
+{
+  "_id": "ugb2zbows1",
+  "name": "decide-on",
+  "order": "3",
+  "parents": [
+    "people-do",
+    "do-to-choices",
+    "ichidan",
+    "info-verbs"
+  ],
+  "props": {
+    "en": "decide on",
+    "jp": "決める",
+    "tl": "きめる"
+  }
+}

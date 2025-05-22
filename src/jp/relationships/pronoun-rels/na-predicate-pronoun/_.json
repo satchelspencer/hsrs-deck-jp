@@ -1,0 +1,14 @@
+{
+  "_id": "dr43r1i0a25",
+  "name": "na-predicate-pronoun",
+  "params": {
+    "na": "na-adjective-roots",
+    "pn": "pronouns"
+  },
+  "parents": [
+    "pronoun-rels"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

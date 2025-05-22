@@ -1,0 +1,18 @@
+{
+  "_id": "ungzvtah3nb",
+  "constraint": "iadj",
+  "mode": "---w",
+  "name": "i-adjective-ba",
+  "order": "3",
+  "params": {
+    "form": "i-attributive-forms"
+  },
+  "parents": [
+    "i-complex-forms",
+    "ba-conditional-clauses"
+  ],
+  "props": {
+    "en": "'if '+form.en",
+    "jp": "form.jp|r('い', 'ければ')"
+  }
+}

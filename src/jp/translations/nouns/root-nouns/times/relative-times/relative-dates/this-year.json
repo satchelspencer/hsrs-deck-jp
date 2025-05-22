@@ -1,0 +1,14 @@
+{
+  "_id": "2fpq9sayui5",
+  "name": "this-year",
+  "order": "1",
+  "parents": [
+    "relative-dates",
+    "ni-any-times"
+  ],
+  "props": {
+    "en": "this year",
+    "jp": "今年",
+    "tl": "ことし"
+  }
+}

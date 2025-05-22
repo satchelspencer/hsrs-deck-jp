@@ -1,0 +1,13 @@
+{
+  "_id": "f2efr2zoihv",
+  "name": "nouns-no-reservation",
+  "params": {
+    "noun": "reservation",
+    "owner": "reservables"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

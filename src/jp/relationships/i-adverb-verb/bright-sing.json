@@ -1,0 +1,13 @@
+{
+  "_id": "1ujagkj2te",
+  "name": "bright-sing",
+  "params": {
+    "iadj": "bright",
+    "verb": "sing"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "nys84582qjl",
+  "name": "company",
+  "order": "2",
+  "parents": [
+    "organizations"
+  ],
+  "props": {
+    "en": "company",
+    "jp": "会社",
+    "tl": "かいしゃ"
+  }
+}

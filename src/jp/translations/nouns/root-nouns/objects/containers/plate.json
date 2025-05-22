@@ -1,0 +1,13 @@
+{
+  "_id": "72cbfbpn5vg",
+  "name": "plate",
+  "order": "2",
+  "parents": [
+    "containers"
+  ],
+  "props": {
+    "en": "plate",
+    "jp": "お皿",
+    "tl": "おさら"
+  }
+}

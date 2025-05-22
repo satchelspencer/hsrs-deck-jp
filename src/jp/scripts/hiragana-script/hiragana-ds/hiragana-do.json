@@ -1,0 +1,14 @@
+{
+  "_id": "c58pqw60kjc",
+  "name": "hiragana-do",
+  "params": {
+    "t": "hiragana-to"
+  },
+  "parents": [
+    "hiragana-ds"
+  ],
+  "props": {
+    "_tl": "do",
+    "jp": "ど"
+  }
+}

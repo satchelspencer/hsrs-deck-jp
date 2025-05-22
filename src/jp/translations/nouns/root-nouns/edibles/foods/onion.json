@@ -1,0 +1,14 @@
+{
+  "_id": "htw5v4qeap",
+  "name": "onion",
+  "order": "3",
+  "parents": [
+    "foods",
+    "cuttables"
+  ],
+  "props": {
+    "en": "onion",
+    "jp": "玉ねぎ",
+    "tl": "たまねぎ"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "hgnauzpw4g",
+  "name": "possess",
+  "order": "2",
+  "parents": [
+    "godan-tsu",
+    "people-do",
+    "do-to-objects",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "en": "possess",
+    "jp": "持つ",
+    "tl": "もつ"
+  }
+}

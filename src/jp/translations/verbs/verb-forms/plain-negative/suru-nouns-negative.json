@@ -1,0 +1,14 @@
+{
+  "_id": "0dzjbwq1a7jc",
+  "name": "suru-nouns-negative",
+  "params": {
+    "verb": "suru-nouns"
+  },
+  "parents": [
+    "plain-negative"
+  ],
+  "props": {
+    "en": "'not do '+verb.en",
+    "jp": "verb.jp+'しない'"
+  }
+}

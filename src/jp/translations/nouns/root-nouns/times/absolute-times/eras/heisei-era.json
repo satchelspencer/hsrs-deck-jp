@@ -1,0 +1,14 @@
+{
+  "_id": "rkc8unm7t6",
+  "name": "heisei-era",
+  "order": "3",
+  "parents": [
+    "eras",
+    "ni-past-times"
+  ],
+  "props": {
+    "en": "heisei era (1989–2019)",
+    "jp": "平成",
+    "tl": "へいせい"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "1tz1qi0czgb",
+  "name": "hardship-suru-nouns",
+  "params": {
+    "na": "hardship",
+    "noun": "suru-nouns"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

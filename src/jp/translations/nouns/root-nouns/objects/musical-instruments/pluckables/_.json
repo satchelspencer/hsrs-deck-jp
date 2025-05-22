@@ -1,0 +1,10 @@
+{
+  "_id": "3a449pmyw7y",
+  "name": "pluckables",
+  "parents": [
+    "musical-instruments"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

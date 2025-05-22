@@ -1,0 +1,13 @@
+{
+  "_id": "utql24dga6a",
+  "name": "every-week",
+  "order": "2",
+  "parents": [
+    "continuing-times"
+  ],
+  "props": {
+    "en": "every week",
+    "jp": "毎週",
+    "tl": "まいしゅう"
+  }
+}

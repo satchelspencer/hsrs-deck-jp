@@ -1,0 +1,13 @@
+{
+  "_id": "pmf97cp1a7",
+  "name": "counter-kago-4+-thousand-w",
+  "params": {
+    "root": "counter-roots-kango-4+-w"
+  },
+  "parents": [
+    "counter-kago-4+-thousand"
+  ],
+  "props": {
+    "tl": "number.tl+root.tl|pcr('わ', 'ば')"
+  }
+}

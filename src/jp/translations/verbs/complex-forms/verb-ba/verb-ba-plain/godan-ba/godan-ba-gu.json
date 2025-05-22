@@ -1,0 +1,13 @@
+{
+  "_id": "can4q2o8xcs",
+  "name": "godan-ba-gu",
+  "params": {
+    "verb": "godan-gu"
+  },
+  "parents": [
+    "godan-ba"
+  ],
+  "props": {
+    "jp": "verb.jp|r('ぐ', 'げば')"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "zfelqrrjvr9",
+  "name": "ethanol",
+  "order": "3",
+  "parents": [
+    "drinks"
+  ],
+  "props": {
+    "en": "ethanol",
+    "jp": "アルコール",
+    "tl": "あるこーる"
+  }
+}

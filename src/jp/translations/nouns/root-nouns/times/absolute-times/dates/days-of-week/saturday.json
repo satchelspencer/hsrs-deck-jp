@@ -1,0 +1,12 @@
+{
+  "_id": "2a3p07yua0p",
+  "name": "saturday",
+  "parents": [
+    "days-of-week"
+  ],
+  "props": {
+    "en": "saturday",
+    "jp": "土曜日",
+    "tl": "どようび"
+  }
+}

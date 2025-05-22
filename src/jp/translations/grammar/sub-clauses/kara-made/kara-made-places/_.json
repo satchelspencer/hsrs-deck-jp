@@ -1,0 +1,10 @@
+{
+  "_id": "zpiv3fkwfd",
+  "name": "kara-made-places",
+  "parents": [
+    "kara-made"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

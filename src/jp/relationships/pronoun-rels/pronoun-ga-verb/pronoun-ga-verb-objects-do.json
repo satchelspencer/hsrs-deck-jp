@@ -1,0 +1,13 @@
+{
+  "_id": "pkkn4prvrlm",
+  "name": "pronoun-ga-verb-objects-do",
+  "params": {
+    "pn": "object-pronouns",
+    "verb": "objects-do"
+  },
+  "parents": [
+    "pronoun-ga-verb"
+  ],
+  "props": {
+  }
+}

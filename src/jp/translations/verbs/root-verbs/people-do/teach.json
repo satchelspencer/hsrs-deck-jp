@@ -1,0 +1,18 @@
+{
+  "_id": "9mfxfv5oeh7",
+  "name": "teach",
+  "order": "1",
+  "parents": [
+    "people-do",
+    "do-to-learnables",
+    "ni-person-verbs",
+    "te-iru-verbs-continuous",
+    "de-location-verbs",
+    "ichidan"
+  ],
+  "props": {
+    "en": "teach",
+    "jp": "教える",
+    "tl": "おしえる"
+  }
+}

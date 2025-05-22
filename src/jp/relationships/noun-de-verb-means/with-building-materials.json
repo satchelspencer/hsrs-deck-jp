@@ -1,0 +1,13 @@
+{
+  "_id": "p6v43j49p7",
+  "name": "with-building-materials",
+  "params": {
+    "noun": "building-materials",
+    "verb": "do-with-building-materials"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

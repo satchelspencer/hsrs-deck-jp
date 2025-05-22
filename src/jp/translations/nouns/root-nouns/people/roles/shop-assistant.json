@@ -1,0 +1,13 @@
+{
+  "_id": "c2zp8fmqurg",
+  "name": "shop-assistant",
+  "order": "3",
+  "parents": [
+    "roles"
+  ],
+  "props": {
+    "en": "shop assistant",
+    "jp": "店員",
+    "tl": "てんいん"
+  }
+}

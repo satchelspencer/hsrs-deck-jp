@@ -1,0 +1,15 @@
+{
+  "_id": "m6qyzzd0byq",
+  "name": "believe",
+  "order": "2",
+  "parents": [
+    "people-do",
+    "te-iru-verbs-continuous",
+    "ichidan"
+  ],
+  "props": {
+    "en": "believe",
+    "jp": "信じる",
+    "tl": "しんじる"
+  }
+}

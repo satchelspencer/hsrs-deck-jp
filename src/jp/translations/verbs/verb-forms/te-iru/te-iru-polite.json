@@ -1,0 +1,13 @@
+{
+  "_id": "00ambzy2pr013",
+  "mode": "p",
+  "name": "te-iru-polite",
+  "order": "1",
+  "parents": [
+    "te-iru"
+  ],
+  "props": {
+    "en": "te.en|r(' and','')+'-ing'",
+    "jp": "te.jp+'います'"
+  }
+}

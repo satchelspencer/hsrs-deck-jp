@@ -1,0 +1,13 @@
+{
+  "_id": "wcwi0k0yyga",
+  "name": "all",
+  "order": "1",
+  "parents": [
+    "verb-adverbs"
+  ],
+  "props": {
+    "en": "all",
+    "jp": "全部",
+    "tl": "ぜんぶ"
+  }
+}

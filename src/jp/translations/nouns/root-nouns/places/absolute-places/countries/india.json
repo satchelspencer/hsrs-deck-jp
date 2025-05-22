@@ -1,0 +1,13 @@
+{
+  "_id": "85twqhirqlq",
+  "name": "india",
+  "order": "2",
+  "parents": [
+    "countries"
+  ],
+  "props": {
+    "en": "india",
+    "jp": "インド",
+    "tl": "いんど"
+  }
+}

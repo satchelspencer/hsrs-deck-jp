@@ -1,0 +1,22 @@
+{
+  "_id": "j1jgsoxr1op",
+  "mode": "c",
+  "name": "na-adjective-negative",
+  "order": "1",
+  "params": {
+    "na": "na-attributive"
+  },
+  "parents": [
+    "na-adjective-forms",
+    "na-desu-forms",
+    "na-attributive-forms",
+    "ka-na-forms",
+    "nda-na-forms",
+    "yo-ne-na-forms",
+    "na-plain-forms"
+  ],
+  "props": {
+    "en": "'not '+na.en",
+    "jp": "na.jp+'じゃない'"
+  }
+}

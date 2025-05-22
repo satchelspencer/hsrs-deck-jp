@@ -1,0 +1,13 @@
+{
+  "_id": "zrdgahanjv",
+  "name": "command-form-ichidan",
+  "params": {
+    "verb": "ichidan"
+  },
+  "parents": [
+    "command-form-plain"
+  ],
+  "props": {
+    "jp": "verb.jp|r('る', 'ろ')|r('くれろ', 'くれ')"
+  }
+}

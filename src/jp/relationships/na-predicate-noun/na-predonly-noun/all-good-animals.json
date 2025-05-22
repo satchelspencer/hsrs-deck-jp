@@ -1,0 +1,13 @@
+{
+  "_id": "m8rp5soj5nb",
+  "name": "all-good-animals",
+  "params": {
+    "na": "all-good",
+    "noun": "animals"
+  },
+  "parents": [
+    "na-predonly-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "ygbbi5dk1d",
+  "name": "counter-root-hiki",
+  "order": "2",
+  "parents": [
+    "counter-roots-kango-full-h"
+  ],
+  "props": {
+    "en": "critters",
+    "jp": "匹",
+    "tl": "ひき"
+  }
+}

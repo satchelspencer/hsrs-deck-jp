@@ -1,0 +1,14 @@
+{
+  "_id": "rews107jn1",
+  "name": "promise",
+  "order": "3",
+  "parents": [
+    "protectables",
+    "activities"
+  ],
+  "props": {
+    "en": "promise",
+    "jp": "約束",
+    "tl": "やくそく"
+  }
+}

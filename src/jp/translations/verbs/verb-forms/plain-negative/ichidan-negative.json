@@ -1,0 +1,14 @@
+{
+  "_id": "nglxe0hy6qf",
+  "name": "ichidan-negative",
+  "params": {
+    "verb": "ichidan"
+  },
+  "parents": [
+    "plain-negative"
+  ],
+  "props": {
+    "en": null,
+    "jp": "verb.jp|r('る', 'ない')"
+  }
+}

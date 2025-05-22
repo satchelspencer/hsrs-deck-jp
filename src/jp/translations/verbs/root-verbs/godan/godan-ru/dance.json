@@ -1,0 +1,16 @@
+{
+  "_id": "46qokmoqnj7",
+  "name": "dance",
+  "order": "3",
+  "parents": [
+    "godan-ru",
+    "people-do",
+    "te-iru-verbs-continuous",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "dance",
+    "jp": "踊る",
+    "tl": "おどる"
+  }
+}

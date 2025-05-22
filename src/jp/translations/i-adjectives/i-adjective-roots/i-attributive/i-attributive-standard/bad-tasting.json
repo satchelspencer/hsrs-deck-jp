@@ -1,0 +1,13 @@
+{
+  "_id": "gg5txb9mxyt",
+  "name": "bad-tasting",
+  "order": "2",
+  "parents": [
+    "i-attributive-standard"
+  ],
+  "props": {
+    "en": "bad tasting",
+    "jp": "不味い",
+    "tl": "まずい"
+  }
+}

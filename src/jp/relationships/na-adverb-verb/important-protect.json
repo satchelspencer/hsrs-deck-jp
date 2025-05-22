@@ -1,0 +1,13 @@
+{
+  "_id": "wbl0i7rt95",
+  "name": "important-protect",
+  "params": {
+    "na": "important",
+    "verb": "protect"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "yrrh0rbf3a",
+  "name": "width",
+  "order": "2",
+  "parents": [
+    "attributes"
+  ],
+  "props": {
+    "en": "width",
+    "jp": "横",
+    "tl": "よこ"
+  }
+}

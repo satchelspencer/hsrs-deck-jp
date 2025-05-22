@@ -1,0 +1,13 @@
+{
+  "_id": "q6qlptvszu",
+  "name": "shallow-deeps",
+  "params": {
+    "iadj": "shallow",
+    "noun": "deeps"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

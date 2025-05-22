@@ -1,0 +1,13 @@
+{
+  "_id": "1m2eda1aw1r",
+  "name": "wellness-exercise",
+  "params": {
+    "na": "wellness",
+    "verb": "exercise"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

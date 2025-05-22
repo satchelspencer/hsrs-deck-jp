@@ -1,0 +1,13 @@
+{
+  "_id": "kdmurq116sb",
+  "name": "iku-polite",
+  "params": {
+    "verb": "iku"
+  },
+  "parents": [
+    "polite"
+  ],
+  "props": {
+    "jp": "verb.jp|r('行く', '行きます')|r('いく', 'いきます')"
+  }
+}

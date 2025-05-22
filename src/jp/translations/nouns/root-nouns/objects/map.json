@@ -1,0 +1,13 @@
+{
+  "_id": "dvw9wxaj23",
+  "name": "map",
+  "order": "1",
+  "parents": [
+    "objects"
+  ],
+  "props": {
+    "en": "map",
+    "jp": "地図",
+    "tl": "ちず"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "fxk0iwvv8cv",
+  "name": "pray",
+  "order": "3",
+  "parents": [
+    "godan-ru",
+    "people-do"
+  ],
+  "props": {
+    "en": "pray",
+    "jp": "祈る",
+    "tl": "いのる"
+  }
+}

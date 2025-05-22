@@ -1,0 +1,14 @@
+{
+  "_id": "6ktujpc53mo",
+  "name": "suru-nouns-reru",
+  "params": {
+    "verb": "suru-nouns"
+  },
+  "parents": [
+    "reru-plain"
+  ],
+  "props": {
+    "en": "'can do '+verb.en",
+    "jp": "verb.jp+'できる'"
+  }
+}

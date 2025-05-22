@@ -1,0 +1,10 @@
+{
+  "_id": "rzm4u77k67d",
+  "name": "absolute-places",
+  "parents": [
+    "places"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "2x8aagx7l0o",
+  "name": "flow",
+  "order": "3",
+  "parents": [
+    "te-iru-verbs-continuous",
+    "ichidan"
+  ],
+  "props": {
+    "en": "flow",
+    "jp": "流れる",
+    "tl": "ながれる"
+  }
+}

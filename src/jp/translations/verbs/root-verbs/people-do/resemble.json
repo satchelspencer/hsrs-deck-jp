@@ -1,0 +1,15 @@
+{
+  "_id": "qr0pp77kr2l",
+  "name": "resemble",
+  "order": "2",
+  "parents": [
+    "people-do",
+    "te-iru-verbs-state",
+    "ichidan"
+  ],
+  "props": {
+    "en": "resemble",
+    "jp": "似る",
+    "tl": "にる"
+  }
+}

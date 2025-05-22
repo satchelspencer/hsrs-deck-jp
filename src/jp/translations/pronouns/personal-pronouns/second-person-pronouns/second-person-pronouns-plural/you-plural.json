@@ -1,0 +1,15 @@
+{
+  "_id": "qhkdscr1fqo",
+  "mode": "--r",
+  "name": "you-plural",
+  "params": {
+    "pronoun": "you"
+  },
+  "parents": [
+    "second-person-pronouns-plural"
+  ],
+  "props": {
+    "en": "you all",
+    "jp": "あなたたち"
+  }
+}

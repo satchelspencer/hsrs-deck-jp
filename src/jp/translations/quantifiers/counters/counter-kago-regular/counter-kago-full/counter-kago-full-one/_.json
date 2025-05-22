@@ -1,0 +1,14 @@
+{
+  "_id": "e1n54hznli",
+  "name": "counter-kago-full-one",
+  "params": {
+    "number": "one",
+    "root": ""
+  },
+  "parents": [
+    "counter-kago-full"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

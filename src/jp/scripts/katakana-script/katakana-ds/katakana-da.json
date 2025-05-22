@@ -1,0 +1,14 @@
+{
+  "_id": "7qaw6p9hi2h",
+  "name": "katakana-da",
+  "params": {
+    "t": "katakana-ta"
+  },
+  "parents": [
+    "katakana-ds"
+  ],
+  "props": {
+    "_tl": "da",
+    "jp": "ダ"
+  }
+}

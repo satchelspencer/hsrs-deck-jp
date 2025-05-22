@@ -1,0 +1,13 @@
+{
+  "_id": "i15lbxskiye",
+  "name": "simple-read",
+  "params": {
+    "na": "simple",
+    "verb": "read"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

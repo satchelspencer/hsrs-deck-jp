@@ -1,0 +1,13 @@
+{
+  "_id": "q72hfi0vg5",
+  "name": "impossible",
+  "order": "3",
+  "parents": [
+    "na-attributive"
+  ],
+  "props": {
+    "en": "impossible",
+    "jp": "無理",
+    "tl": "むり"
+  }
+}

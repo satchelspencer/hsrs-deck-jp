@@ -1,0 +1,13 @@
+{
+  "_id": "lzrugow3oyf",
+  "name": "counter-root-volumes",
+  "order": "3",
+  "parents": [
+    "counter-roots-kango-full-k"
+  ],
+  "props": {
+    "en": "volumes",
+    "jp": "巻",
+    "tl": "かん"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "_id": "n59f65wytpe",
+  "mode": "c",
+  "name": "plain-negative",
+  "order": "1",
+  "params": {
+    "verb": "root-verbs"
+  },
+  "parents": [
+    "verb-forms",
+    "ka-verb-forms",
+    "nda-verb-forms",
+    "yo-ne-verb-forms",
+    "plain-forms",
+    "non-past-dict-forms"
+  ],
+  "props": {
+    "en": "'not '+verb.en",
+    "jp": null
+  },
+  "virtual": true
+}

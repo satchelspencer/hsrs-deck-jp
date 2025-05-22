@@ -1,0 +1,13 @@
+{
+  "_id": "u6adtaxn1fc",
+  "name": "eraser",
+  "order": "3",
+  "parents": [
+    "tools"
+  ],
+  "props": {
+    "en": "eraser",
+    "jp": "消しゴム",
+    "tl": "けしごむ"
+  }
+}

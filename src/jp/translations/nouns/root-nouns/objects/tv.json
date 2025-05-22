@@ -1,0 +1,14 @@
+{
+  "_id": "r4umws771x",
+  "name": "tv",
+  "order": "1",
+  "parents": [
+    "objects",
+    "electrics",
+    "audibles"
+  ],
+  "props": {
+    "en": "tv",
+    "jp": "テレビ"
+  }
+}

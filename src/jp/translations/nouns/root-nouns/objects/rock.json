@@ -1,0 +1,14 @@
+{
+  "_id": "x1mxsyekb8",
+  "name": "rock",
+  "order": "3",
+  "parents": [
+    "objects",
+    "hard-softs"
+  ],
+  "props": {
+    "en": "rock",
+    "jp": "岩",
+    "tl": "いわ"
+  }
+}

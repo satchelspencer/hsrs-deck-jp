@@ -1,0 +1,13 @@
+{
+  "_id": "x70lgrxlur",
+  "name": "few-seeables",
+  "params": {
+    "iadj": "few",
+    "noun": "seeables"
+  },
+  "parents": [
+    "i-predonly-noun"
+  ],
+  "props": {
+  }
+}

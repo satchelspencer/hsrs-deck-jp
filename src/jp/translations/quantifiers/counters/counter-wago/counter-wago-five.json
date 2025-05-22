@@ -1,0 +1,14 @@
+{
+  "_id": "612y5pwrq49",
+  "name": "counter-wago-five",
+  "params": {
+    "number": "five"
+  },
+  "parents": [
+    "counter-wago"
+  ],
+  "props": {
+    "en": null,
+    "jp": "いつつ"
+  }
+}

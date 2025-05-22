@@ -1,0 +1,13 @@
+{
+  "_id": "bhgdbcg6do",
+  "name": "early-events",
+  "params": {
+    "iadj": "early",
+    "noun": "events"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

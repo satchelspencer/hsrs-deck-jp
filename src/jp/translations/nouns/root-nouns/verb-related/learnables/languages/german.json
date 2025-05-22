@@ -1,0 +1,13 @@
+{
+  "_id": "170v6pjgz1u",
+  "name": "german",
+  "order": "3",
+  "parents": [
+    "languages"
+  ],
+  "props": {
+    "en": "german",
+    "jp": "ドイツ語",
+    "tl": "どいつご"
+  }
+}

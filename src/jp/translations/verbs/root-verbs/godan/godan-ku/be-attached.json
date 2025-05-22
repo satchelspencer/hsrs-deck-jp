@@ -1,0 +1,14 @@
+{
+  "_id": "6htkm1lbxd",
+  "name": "be-attached",
+  "order": "3",
+  "parents": [
+    "godan-ku",
+    "objects-do"
+  ],
+  "props": {
+    "en": "be attached",
+    "jp": "付く",
+    "tl": "つく"
+  }
+}

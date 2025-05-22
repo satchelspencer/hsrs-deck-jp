@@ -1,0 +1,14 @@
+{
+  "_id": "zsqq0xvqd5a",
+  "name": "be-cleared-up",
+  "order": "3",
+  "parents": [
+    "te-iru-verbs-state",
+    "ichidan"
+  ],
+  "props": {
+    "en": "be cleared up",
+    "jp": "晴れる",
+    "tl": "はれる"
+  }
+}

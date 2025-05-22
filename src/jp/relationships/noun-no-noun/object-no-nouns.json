@@ -1,0 +1,13 @@
+{
+  "_id": "k58zep5l5p",
+  "name": "object-no-nouns",
+  "params": {
+    "noun": "object-no",
+    "owner": "objects"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "ips3l1j2tvi",
+  "name": "face",
+  "order": "2",
+  "parents": [
+    "body-parts"
+  ],
+  "props": {
+    "en": "face",
+    "jp": "顔",
+    "tl": "かお"
+  }
+}

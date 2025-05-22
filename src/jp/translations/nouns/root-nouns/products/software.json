@@ -1,0 +1,13 @@
+{
+  "_id": "4a6owd0prf3",
+  "name": "software",
+  "order": "3",
+  "parents": [
+    "products"
+  ],
+  "props": {
+    "en": "software",
+    "jp": "ソフト",
+    "tl": "そふと"
+  }
+}

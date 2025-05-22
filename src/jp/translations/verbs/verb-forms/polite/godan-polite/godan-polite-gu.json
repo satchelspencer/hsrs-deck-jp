@@ -1,0 +1,14 @@
+{
+  "_id": "h5url8md0xe",
+  "name": "godan-polite-gu",
+  "params": {
+    "verb": "godan-gu"
+  },
+  "parents": [
+    "godan-polite"
+  ],
+  "props": {
+    "en": null,
+    "jp": "verb.jp|r('ぐ', 'ぎます')"
+  }
+}

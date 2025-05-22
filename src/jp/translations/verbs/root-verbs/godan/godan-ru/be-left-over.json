@@ -1,0 +1,15 @@
+{
+  "_id": "sqc871wkjim",
+  "name": "be-left-over",
+  "order": "3",
+  "parents": [
+    "godan-ru",
+    "ni-at-verbs",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "en": "be left over",
+    "jp": "残る",
+    "tl": "のこる"
+  }
+}

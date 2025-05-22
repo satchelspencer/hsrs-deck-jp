@@ -1,0 +1,13 @@
+{
+  "_id": "2qyyawmhx0t",
+  "name": "health-healthfuls",
+  "params": {
+    "na": "health",
+    "noun": "healthfuls"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

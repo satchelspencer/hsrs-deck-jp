@@ -1,0 +1,10 @@
+{
+  "_id": "o96q6ppxeu9",
+  "name": "dai-countable",
+  "parents": [
+    "counter-related"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

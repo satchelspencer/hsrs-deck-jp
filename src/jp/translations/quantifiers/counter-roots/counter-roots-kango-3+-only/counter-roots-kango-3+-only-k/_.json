@@ -1,0 +1,11 @@
+{
+  "_id": "lvr382cg38q",
+  "name": "counter-roots-kango-3+-only-k",
+  "parents": [
+    "counter-roots-kango-3+-only",
+    "counter-roots-kango-3+-k"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

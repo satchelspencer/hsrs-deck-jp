@@ -1,0 +1,13 @@
+{
+  "_id": "g7btpnkc29b",
+  "name": "buildables-shake",
+  "params": {
+    "noun": "buildables",
+    "verb": "shake"
+  },
+  "parents": [
+    "noun-ga-verb"
+  ],
+  "props": {
+  }
+}

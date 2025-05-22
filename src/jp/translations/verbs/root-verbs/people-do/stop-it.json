@@ -1,0 +1,18 @@
+{
+  "_id": "3org3b8r9e2",
+  "name": "stop-it",
+  "order": "1",
+  "parents": [
+    "people-do",
+    "do-to-people",
+    "te-iru-verbs-state",
+    "de-location-verbs",
+    "ichidan",
+    "do-to-activities"
+  ],
+  "props": {
+    "en": "stop it",
+    "jp": "止める",
+    "tl": "やめる"
+  }
+}

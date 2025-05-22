@@ -1,0 +1,13 @@
+{
+  "_id": "5uwsslre1bc",
+  "name": "pencil",
+  "order": "2",
+  "parents": [
+    "writing-utensils"
+  ],
+  "props": {
+    "en": "pencil",
+    "jp": "鉛筆",
+    "tl": "えんぴつ"
+  }
+}

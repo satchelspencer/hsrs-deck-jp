@@ -1,0 +1,16 @@
+{
+  "_id": "ddltcmx9h4a",
+  "name": "leave",
+  "order": "1",
+  "parents": [
+    "people-do",
+    "animals-do",
+    "do-to-places",
+    "ichidan"
+  ],
+  "props": {
+    "en": "leave",
+    "jp": "出る",
+    "tl": "でる"
+  }
+}

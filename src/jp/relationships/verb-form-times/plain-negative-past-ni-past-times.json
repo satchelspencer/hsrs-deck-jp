@@ -1,0 +1,13 @@
+{
+  "_id": "96vhlmhwnhh",
+  "name": "plain-negative-past-ni-past-times",
+  "params": {
+    "form": "plain-negative-past",
+    "time": "ni-past-times"
+  },
+  "parents": [
+    "verb-form-times"
+  ],
+  "props": {
+  }
+}

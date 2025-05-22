@@ -1,0 +1,15 @@
+{
+  "_id": "oc5hkvmoqyj",
+  "name": "fax",
+  "order": "4",
+  "parents": [
+    "sendables",
+    "suru-nouns",
+    "people-do"
+  ],
+  "props": {
+    "en": "fax",
+    "jp": "ファックス",
+    "tl": "ふぁっくす"
+  }
+}

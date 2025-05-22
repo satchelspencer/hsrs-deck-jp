@@ -1,0 +1,13 @@
+{
+  "_id": "k4117hbhstq",
+  "name": "famous",
+  "order": "1",
+  "parents": [
+    "na-seeables"
+  ],
+  "props": {
+    "en": "famous",
+    "jp": "有名",
+    "tl": "ゆうめい"
+  }
+}

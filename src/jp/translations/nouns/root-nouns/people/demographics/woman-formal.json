@@ -1,0 +1,14 @@
+{
+  "_id": "lak6dul6v1",
+  "mode": "p",
+  "name": "woman-formal",
+  "order": "3",
+  "parents": [
+    "demographics"
+  ],
+  "props": {
+    "en": "woman",
+    "jp": "女性",
+    "tl": "じょせい"
+  }
+}

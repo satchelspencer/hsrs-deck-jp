@@ -1,0 +1,13 @@
+{
+  "_id": "stq9vvg8lg",
+  "name": "long-wait",
+  "params": {
+    "iadj": "long",
+    "verb": "wait"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "pyuelnmfc6s",
+  "name": "customer",
+  "order": "3",
+  "parents": [
+    "roles"
+  ],
+  "props": {
+    "en": "customer",
+    "jp": "客",
+    "tl": "きゃく"
+  }
+}

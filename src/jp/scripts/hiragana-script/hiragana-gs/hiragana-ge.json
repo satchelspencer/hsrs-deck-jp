@@ -1,0 +1,14 @@
+{
+  "_id": "lirk0mk3vg",
+  "name": "hiragana-ge",
+  "params": {
+    "k": "hiragana-ke"
+  },
+  "parents": [
+    "hiragana-gs"
+  ],
+  "props": {
+    "_tl": "ge",
+    "jp": "げ"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "xqmkeo72a",
+  "name": "katakana-byu",
+  "params": {
+    "iis": "katakana-bi"
+  },
+  "parents": [
+    "katakana-yoon-yu"
+  ],
+  "props": {
+    "_tl": "byu"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "gayq5jcg3ku",
+  "name": "counter-nichi-two",
+  "params": {
+    "number": "two"
+  },
+  "parents": [
+    "counter-days"
+  ],
+  "props": {
+    "jp": "二日",
+    "tl": "ふつか"
+  }
+}

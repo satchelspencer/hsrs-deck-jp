@@ -1,0 +1,13 @@
+{
+  "_id": "dlngiplzp4",
+  "name": "gradually-te-iru-verbs-continuous",
+  "params": {
+    "adv": "gradually",
+    "verb": "te-iru-verbs-continuous"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

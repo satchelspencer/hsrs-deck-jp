@@ -1,0 +1,14 @@
+{
+  "_id": "099k98oxl7un",
+  "name": "toilet",
+  "order": "1",
+  "parents": [
+    "flowing",
+    "spaces",
+    "objects"
+  ],
+  "props": {
+    "en": "toilet",
+    "jp": "トイレ"
+  }
+}

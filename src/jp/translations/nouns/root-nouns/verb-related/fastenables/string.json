@@ -1,0 +1,13 @@
+{
+  "_id": "bndbb5t2h3t",
+  "name": "string",
+  "order": "3",
+  "parents": [
+    "fastenables",
+    "cuttables"
+  ],
+  "props": {
+    "en": "string",
+    "jp": "ひも"
+  }
+}

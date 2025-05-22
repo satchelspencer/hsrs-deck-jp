@@ -1,0 +1,13 @@
+{
+  "_id": "2og7looecka",
+  "name": "cool-dance",
+  "params": {
+    "iadj": "cool",
+    "verb": "dance"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

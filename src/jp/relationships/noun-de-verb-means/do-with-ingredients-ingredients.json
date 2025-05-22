@@ -1,0 +1,13 @@
+{
+  "_id": "izmixjc24lj",
+  "name": "do-with-ingredients-ingredients",
+  "params": {
+    "noun": "ingredients",
+    "verb": "do-with-ingredients"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "5gjpdxlzi2c",
+  "name": "snow",
+  "order": "2",
+  "parents": [
+    "falling-weather",
+    "deeps"
+  ],
+  "props": {
+    "en": "snow",
+    "jp": "雪",
+    "tl": "ゆき"
+  }
+}

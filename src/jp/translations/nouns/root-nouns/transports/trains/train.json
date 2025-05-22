@@ -1,0 +1,14 @@
+{
+  "_id": "gzzi92zf6q4",
+  "name": "train",
+  "order": "1",
+  "parents": [
+    "trains",
+    "reservables"
+  ],
+  "props": {
+    "en": "train",
+    "jp": "電車",
+    "tl": "でんしゃ"
+  }
+}

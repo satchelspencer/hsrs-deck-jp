@@ -1,0 +1,13 @@
+{
+  "_id": "zmlt8dywfp",
+  "name": "dentist",
+  "order": "3",
+  "parents": [
+    "roles"
+  ],
+  "props": {
+    "en": "dentist",
+    "jp": "歯医者",
+    "tl": "はいしゃ"
+  }
+}

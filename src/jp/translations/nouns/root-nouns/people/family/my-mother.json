@@ -1,0 +1,13 @@
+{
+  "_id": "0qqzksi08kj",
+  "name": "my-mother",
+  "order": "1",
+  "parents": [
+    "family"
+  ],
+  "props": {
+    "en": "my mother",
+    "jp": "母",
+    "tl": "はは"
+  }
+}

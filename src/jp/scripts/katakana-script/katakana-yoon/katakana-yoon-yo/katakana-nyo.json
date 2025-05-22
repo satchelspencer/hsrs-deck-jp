@@ -1,0 +1,13 @@
+{
+  "_id": "t1inoxaurir",
+  "name": "katakana-nyo",
+  "params": {
+    "iis": "katakana-ni"
+  },
+  "parents": [
+    "katakana-yoon-yo"
+  ],
+  "props": {
+    "_tl": "nyo"
+  }
+}

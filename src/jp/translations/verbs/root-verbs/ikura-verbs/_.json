@@ -1,0 +1,10 @@
+{
+  "_id": "vftfl0kd5f",
+  "name": "ikura-verbs",
+  "parents": [
+    "root-verbs"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

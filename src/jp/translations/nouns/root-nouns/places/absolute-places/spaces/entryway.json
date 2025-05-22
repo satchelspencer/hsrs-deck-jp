@@ -1,0 +1,13 @@
+{
+  "_id": "agz771oynkp",
+  "name": "entryway",
+  "order": "3",
+  "parents": [
+    "spaces"
+  ],
+  "props": {
+    "en": "entryway",
+    "jp": "玄関",
+    "tl": "げんかん"
+  }
+}

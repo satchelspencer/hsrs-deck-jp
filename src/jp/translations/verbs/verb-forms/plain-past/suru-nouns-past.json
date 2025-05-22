@@ -1,0 +1,14 @@
+{
+  "_id": "zp8b9d4ytzj",
+  "name": "suru-nouns-past",
+  "params": {
+    "verb": "suru-nouns"
+  },
+  "parents": [
+    "plain-past"
+  ],
+  "props": {
+    "en": "'did do '+verb.en",
+    "jp": "verb.jp+'した'"
+  }
+}

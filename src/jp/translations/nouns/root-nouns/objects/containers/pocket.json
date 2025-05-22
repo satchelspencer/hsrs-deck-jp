@@ -1,0 +1,13 @@
+{
+  "_id": "tx5v4iha03",
+  "name": "pocket",
+  "order": "2",
+  "parents": [
+    "containers"
+  ],
+  "props": {
+    "en": "pocket",
+    "jp": "ポケット",
+    "tl": "ぽけっと"
+  }
+}

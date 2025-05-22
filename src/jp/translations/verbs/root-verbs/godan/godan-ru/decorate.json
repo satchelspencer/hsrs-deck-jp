@@ -1,0 +1,15 @@
+{
+  "_id": "6l7l8zutqsw",
+  "name": "decorate",
+  "order": "3",
+  "parents": [
+    "godan-ru",
+    "people-do",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "en": "decorate",
+    "jp": "飾る",
+    "tl": "かざる"
+  }
+}

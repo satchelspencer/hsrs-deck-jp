@@ -1,0 +1,13 @@
+{
+  "_id": "7gg2rj6zfa6",
+  "name": "loose-fastenables",
+  "params": {
+    "iadj": "loose",
+    "noun": "fastenables"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

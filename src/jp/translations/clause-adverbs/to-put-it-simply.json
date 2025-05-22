@@ -1,0 +1,13 @@
+{
+  "_id": "u5l92q4i76",
+  "name": "to-put-it-simply",
+  "order": "4",
+  "parents": [
+    "clause-adverbs"
+  ],
+  "props": {
+    "en": "to put it simply",
+    "jp": "要するに",
+    "tl": "ようするに"
+  }
+}

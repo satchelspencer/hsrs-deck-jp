@@ -1,0 +1,13 @@
+{
+  "_id": "x7gfdvk45q",
+  "name": "hot-touch-feel-emotion",
+  "params": {
+    "iadj": "hot-touch",
+    "verb": "feel-emotion"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

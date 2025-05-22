@@ -1,0 +1,17 @@
+{
+  "_id": "q2bs1xthpu",
+  "name": "date-year-1990s",
+  "params": {
+    "nine": "nine",
+    "thousand": "thousand"
+  },
+  "parents": [
+    "date-year",
+    "ni-past-times"
+  ],
+  "props": {
+    "en": "'199'+number.en",
+    "jp": "'199'+number.en+year.jp",
+    "tl": "'せんきゅうひゃくきゅうじゅう'+number.tl+year.tl"
+  }
+}

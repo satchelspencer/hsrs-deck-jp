@@ -1,0 +1,16 @@
+{
+  "_id": "1klp61eoo08",
+  "name": "polish",
+  "order": "2",
+  "parents": [
+    "godan-ku",
+    "people-do",
+    "te-iru-verbs-continuous",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "polish",
+    "jp": "磨く",
+    "tl": "みがく"
+  }
+}

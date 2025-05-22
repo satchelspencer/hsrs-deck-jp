@@ -1,0 +1,13 @@
+{
+  "_id": "kwwm7vdvd3",
+  "name": "green-color",
+  "order": "",
+  "parents": [
+    "colors"
+  ],
+  "props": {
+    "en": "green color",
+    "jp": "緑",
+    "tl": "みどり"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "8v4h9oaepn2",
+  "name": "divisible-divide",
+  "params": {
+    "noun": "divisible",
+    "verb": "divide"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

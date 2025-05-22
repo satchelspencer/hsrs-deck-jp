@@ -1,0 +1,13 @@
+{
+  "_id": "332dq4beo0k",
+  "name": "full-name",
+  "order": "2",
+  "parents": [
+    "people-no"
+  ],
+  "props": {
+    "en": "full name",
+    "jp": "氏名",
+    "tl": "しめい"
+  }
+}

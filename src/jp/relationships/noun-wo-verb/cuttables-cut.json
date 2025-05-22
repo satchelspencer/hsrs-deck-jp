@@ -1,0 +1,13 @@
+{
+  "_id": "4zlev5t7194",
+  "name": "cuttables-cut",
+  "params": {
+    "noun": "cuttables",
+    "verb": "cut"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "_id": "b8z761wjad",
+  "name": "stop-it-moving",
+  "order": "3",
+  "parents": [
+    "ichidan",
+    "people-do",
+    "do-to-transports"
+  ],
+  "props": {
+    "en": "stop it moving",
+    "jp": "止める",
+    "tl": "とめる"
+  }
+}

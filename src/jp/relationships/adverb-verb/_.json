@@ -1,0 +1,14 @@
+{
+  "_id": "ntjl0ujrhhk",
+  "name": "adverb-verb",
+  "params": {
+    "adv": "verb-adverbs",
+    "verb": "root-verbs"
+  },
+  "parents": [
+    "relationships"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "84wdx9twj8p",
+  "name": "counter-nichi-twenty-four",
+  "params": {
+    "number": "twenty-four"
+  },
+  "parents": [
+    "counter-days"
+  ],
+  "props": {
+    "jp": "二十~四日",
+    "tl": "にじゅう~よっか"
+  }
+}

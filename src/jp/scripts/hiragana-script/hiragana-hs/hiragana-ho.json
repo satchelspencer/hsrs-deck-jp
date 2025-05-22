@@ -1,0 +1,11 @@
+{
+  "_id": "orfh5300pfo",
+  "name": "hiragana-ho",
+  "parents": [
+    "hiragana-hs"
+  ],
+  "props": {
+    "_tl": "ho",
+    "jp": "ほ"
+  }
+}

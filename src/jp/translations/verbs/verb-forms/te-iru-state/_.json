@@ -1,0 +1,19 @@
+{
+  "_id": "w587olnfl3",
+  "constraint": "verb",
+  "name": "te-iru-state",
+  "order": "4",
+  "params": {
+    "te": "verb-te-form",
+    "verb": "te-iru-verbs-state"
+  },
+  "parents": [
+    "verb-forms",
+    "ka-verb-forms",
+    "yo-ne-verb-forms"
+  ],
+  "props": {
+    "tl": ""
+  },
+  "virtual": true
+}

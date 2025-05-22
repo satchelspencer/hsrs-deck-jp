@@ -1,0 +1,16 @@
+{
+  "_id": "zmwicm0byql",
+  "name": "hour-minutes",
+  "order": "2",
+  "params": {
+    "hour": "time-hour",
+    "minutes": "time-minutes"
+  },
+  "parents": [
+    "date-times"
+  ],
+  "props": {
+    "en": "hour.en|r(':00', ':0')+''+minutes.counter.number.en",
+    "jp": "hour.jp+minutes.counter.jp"
+  }
+}

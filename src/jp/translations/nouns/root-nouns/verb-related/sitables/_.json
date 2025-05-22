@@ -1,0 +1,10 @@
+{
+  "_id": "yntsbcegnc",
+  "name": "sitables",
+  "parents": [
+    "verb-related"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

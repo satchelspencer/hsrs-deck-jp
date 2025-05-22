@@ -1,0 +1,11 @@
+{
+  "_id": "ddwad7xlwk8",
+  "name": "learnables",
+  "parents": [
+    "verb-related",
+    "easy-hard"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

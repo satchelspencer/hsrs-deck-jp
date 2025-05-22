@@ -1,0 +1,11 @@
+{
+  "_id": "ssy9gao8gla",
+  "name": "katakana-ku",
+  "parents": [
+    "katakana-ks"
+  ],
+  "props": {
+    "_tl": "ku",
+    "jp": "ク"
+  }
+}

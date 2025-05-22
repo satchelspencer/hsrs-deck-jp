@@ -1,0 +1,15 @@
+{
+  "_id": "c22et1svbau",
+  "name": "floor",
+  "order": "3",
+  "parents": [
+    "polishables",
+    "sitables",
+    "absolute-places"
+  ],
+  "props": {
+    "en": "floor",
+    "jp": "床",
+    "tl": "ゆか"
+  }
+}

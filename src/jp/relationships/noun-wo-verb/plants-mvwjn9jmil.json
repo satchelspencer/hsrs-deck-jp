@@ -1,0 +1,13 @@
+{
+  "_id": "jzbf4ccxiwi",
+  "name": "plants-mvwjn9jmil",
+  "params": {
+    "noun": "plants",
+    "verb": "do-to-living-things"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

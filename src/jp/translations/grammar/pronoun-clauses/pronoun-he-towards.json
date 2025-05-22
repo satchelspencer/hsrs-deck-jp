@@ -1,0 +1,20 @@
+{
+  "_id": "g0lhuci2v8f",
+  "constraint": "verb",
+  "name": "pronoun-he-towards",
+  "order": "2",
+  "params": {
+    "form": "verb-forms",
+    "pn": "direction-pronouns",
+    "verb": "he-related-verbs"
+  },
+  "parents": [
+    "pronoun-clauses",
+    "pronoun-temporal-verb-clauses"
+  ],
+  "props": {
+    "en": "'towards '+pn.en+' '+form.en",
+    "jp": "pn.jp+'へ'+form.jp",
+    "tl": "pn.tl+'え'+form.tl"
+  }
+}

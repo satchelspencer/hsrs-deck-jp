@@ -1,0 +1,12 @@
+{
+  "_id": "g8ervd21r3r",
+  "name": "do-to-hiraku-tojiru",
+  "parents": [
+    "root-verbs"
+  ],
+  "props": {
+    "en": null,
+    "jp": null
+  },
+  "virtual": true
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "jr0qbpzdsc",
+  "name": "drawer",
+  "order": "3",
+  "parents": [
+    "akeru-shimeru",
+    "containers"
+  ],
+  "props": {
+    "en": "drawer",
+    "jp": "引き出し",
+    "tl": "ひきだし"
+  }
+}

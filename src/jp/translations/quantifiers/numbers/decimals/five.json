@@ -1,0 +1,12 @@
+{
+  "_id": "i2ac8esfh7",
+  "name": "five",
+  "parents": [
+    "decimals"
+  ],
+  "props": {
+    "en": "5",
+    "jp": "五",
+    "tl": "ご"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "_id": "erkbtawrsv",
+  "name": "katakana-ss",
+  "parents": [
+    "katakana-script"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "2rrhv88pq2b",
+  "name": "line",
+  "order": "2",
+  "parents": [
+    "objects",
+    "pullables"
+  ],
+  "props": {
+    "en": "line",
+    "jp": "線",
+    "tl": "せん"
+  }
+}

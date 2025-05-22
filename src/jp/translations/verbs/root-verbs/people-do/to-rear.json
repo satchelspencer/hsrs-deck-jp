@@ -1,0 +1,16 @@
+{
+  "_id": "br7u6kmk8a",
+  "name": "to-rear",
+  "order": "3",
+  "parents": [
+    "people-do",
+    "do-to-living-things",
+    "te-iru-verbs-continuous",
+    "ichidan"
+  ],
+  "props": {
+    "en": "rear",
+    "jp": "育てる",
+    "tl": "そだてる"
+  }
+}

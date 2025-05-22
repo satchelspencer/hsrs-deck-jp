@@ -1,0 +1,13 @@
+{
+  "_id": "nimv9nrzfp",
+  "name": "church",
+  "order": "4",
+  "parents": [
+    "organizations"
+  ],
+  "props": {
+    "en": "church",
+    "jp": "教会",
+    "tl": "きょうかい"
+  }
+}

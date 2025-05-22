@@ -1,0 +1,13 @@
+{
+  "_id": "t9gi88ptr1",
+  "name": "peace-discuss",
+  "params": {
+    "na": "peace",
+    "verb": "discuss"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "ftzg7je4wm9",
+  "name": "counter-root-colors",
+  "order": "4",
+  "parents": [
+    "counter-roots-kango-full-s"
+  ],
+  "props": {
+    "en": "colors",
+    "jp": "色",
+    "tl": "しょく"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "_id": "x2fogz1679f",
+  "name": "shower",
+  "order": "1",
+  "parents": [
+    "spaces"
+  ],
+  "props": {
+    "en": "shower",
+    "jp": "シャワー"
+  }
+}

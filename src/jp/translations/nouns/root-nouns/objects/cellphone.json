@@ -1,0 +1,17 @@
+{
+  "_id": "um2gb6fj08",
+  "name": "cellphone",
+  "order": "2",
+  "parents": [
+    "objects",
+    "electrics",
+    "tools",
+    "dai-countable",
+    "ringers"
+  ],
+  "props": {
+    "en": "cellphone",
+    "jp": "携帯電話",
+    "tl": "けいたいでんわ"
+  }
+}

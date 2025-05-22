@@ -1,0 +1,21 @@
+{
+  "_id": "6xujrtii6k",
+  "constraint": "na",
+  "mode": "p",
+  "name": "na-adjective-desu",
+  "order": "1",
+  "params": {
+    "form": "na-desu-forms"
+  },
+  "parents": [
+    "na-adjective-forms",
+    "na-predicate-forms",
+    "ka-na-forms",
+    "yo-ne-na-forms",
+    "conjunctive-na-forms"
+  ],
+  "props": {
+    "en": "'is '+form.en",
+    "jp": "form.jp+'です'"
+  }
+}

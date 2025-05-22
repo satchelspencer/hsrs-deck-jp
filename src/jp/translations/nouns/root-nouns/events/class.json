@@ -1,0 +1,13 @@
+{
+  "_id": "hmm4e5hoilp",
+  "name": "class",
+  "order": "1",
+  "parents": [
+    "events",
+    "absolute-places"
+  ],
+  "props": {
+    "en": "class",
+    "jp": "クラス"
+  }
+}

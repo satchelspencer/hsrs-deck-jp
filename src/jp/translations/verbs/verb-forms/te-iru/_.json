@@ -1,0 +1,19 @@
+{
+  "_id": "0bmba57io9y6",
+  "constraint": "verb",
+  "name": "te-iru",
+  "order": "3",
+  "params": {
+    "te": "verb-te-form",
+    "verb": "te-iru-verbs-continuous"
+  },
+  "parents": [
+    "verb-forms",
+    "ka-verb-forms",
+    "yo-ne-verb-forms"
+  ],
+  "props": {
+    "tl": ""
+  },
+  "virtual": true
+}

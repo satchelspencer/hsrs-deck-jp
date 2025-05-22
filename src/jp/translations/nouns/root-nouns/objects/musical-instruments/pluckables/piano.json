@@ -1,0 +1,13 @@
+{
+  "_id": "932owg6vo4h",
+  "name": "piano",
+  "order": "1",
+  "parents": [
+    "pluckables"
+  ],
+  "props": {
+    "en": "piano",
+    "jp": "ピアノ",
+    "tl": "ぴあの"
+  }
+}

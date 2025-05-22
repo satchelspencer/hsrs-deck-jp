@@ -1,0 +1,13 @@
+{
+  "_id": "4cguk49m45m",
+  "name": "do-with-learnables-learnables",
+  "params": {
+    "noun": "learnables",
+    "verb": "do-with-learnables"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

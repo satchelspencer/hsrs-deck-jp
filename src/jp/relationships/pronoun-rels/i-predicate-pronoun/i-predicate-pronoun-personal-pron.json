@@ -1,0 +1,13 @@
+{
+  "_id": "ai5sgj6ras6",
+  "name": "i-predicate-pronoun-personal-pron",
+  "params": {
+    "iadj": "i-people",
+    "pn": "personal-pronouns"
+  },
+  "parents": [
+    "i-predicate-pronoun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "67v4jn5tlxd",
+  "name": "in-the-center",
+  "order": "3",
+  "parents": [
+    "positional-words"
+  ],
+  "props": {
+    "en": "in the center",
+    "jp": "真ん中",
+    "tl": "まんなか"
+  }
+}

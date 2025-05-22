@@ -1,0 +1,12 @@
+{
+  "_id": "4jzfrlq501p",
+  "name": "do-to-products",
+  "parents": [
+    "people-do"
+  ],
+  "props": {
+    "en": "do-to-products",
+    "jp": null
+  },
+  "virtual": true
+}

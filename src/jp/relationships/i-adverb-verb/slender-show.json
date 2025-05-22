@@ -1,0 +1,13 @@
+{
+  "_id": "rltzj2ckcmi",
+  "name": "slender-show",
+  "params": {
+    "iadj": "slender",
+    "verb": "show"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

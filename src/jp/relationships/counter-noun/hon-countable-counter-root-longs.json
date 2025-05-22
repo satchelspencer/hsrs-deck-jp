@@ -1,0 +1,13 @@
+{
+  "_id": "bw7hiybbdsh",
+  "name": "hon-countable-counter-root-longs",
+  "params": {
+    "noun": "hon-countable",
+    "root": "counter-root-longs"
+  },
+  "parents": [
+    "counter-noun"
+  ],
+  "props": {
+  }
+}

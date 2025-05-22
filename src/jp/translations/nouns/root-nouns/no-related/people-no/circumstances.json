@@ -1,0 +1,13 @@
+{
+  "_id": "7z6q2hf95ni",
+  "name": "circumstances",
+  "order": "3",
+  "parents": [
+    "people-no"
+  ],
+  "props": {
+    "en": "circumstances",
+    "jp": "都合",
+    "tl": "つごう"
+  }
+}

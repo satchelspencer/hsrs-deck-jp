@@ -1,0 +1,13 @@
+{
+  "_id": "uh42c7p2pwo",
+  "name": "office",
+  "order": "3",
+  "parents": [
+    "establishments"
+  ],
+  "props": {
+    "en": "office",
+    "jp": "事務所",
+    "tl": "じむしょ"
+  }
+}

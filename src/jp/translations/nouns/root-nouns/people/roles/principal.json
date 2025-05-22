@@ -1,0 +1,13 @@
+{
+  "_id": "l7y18zd9cga",
+  "name": "principal",
+  "order": "3",
+  "parents": [
+    "roles"
+  ],
+  "props": {
+    "en": "principal",
+    "jp": "校長",
+    "tl": "こうちょう"
+  }
+}

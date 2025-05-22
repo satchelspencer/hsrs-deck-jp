@@ -1,0 +1,19 @@
+{
+  "_id": "o5ecf759ie",
+  "constraint": "verb noun",
+  "name": "noun-ga-sub",
+  "order": "1",
+  "params": {
+    "form": "verb-forms",
+    "rel": "noun-ga-verb"
+  },
+  "parents": [
+    "clauses",
+    "const-noun-clauses",
+    "temporal-verb-clauses"
+  ],
+  "props": {
+    "en": "rel.noun.en+' '+form.en",
+    "jp": "rel.noun.jp+'が'+form.jp"
+  }
+}

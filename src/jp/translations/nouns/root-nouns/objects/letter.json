@@ -1,0 +1,15 @@
+{
+  "_id": "fk9j1uz9i7",
+  "name": "letter",
+  "order": "1",
+  "parents": [
+    "objects",
+    "sendables",
+    "writeables"
+  ],
+  "props": {
+    "en": "letter",
+    "jp": "手紙",
+    "tl": "てがみ"
+  }
+}

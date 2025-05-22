@@ -1,0 +1,11 @@
+{
+  "_id": "53g1cwm3yce",
+  "name": "katakana-me",
+  "parents": [
+    "katakana-ms"
+  ],
+  "props": {
+    "_tl": "me",
+    "jp": "メ"
+  }
+}

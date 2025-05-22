@@ -1,0 +1,11 @@
+{
+  "_id": "xnzuvrgbge",
+  "name": "katakana-o",
+  "parents": [
+    "katakana-as"
+  ],
+  "props": {
+    "_tl": "o",
+    "jp": "オ"
+  }
+}

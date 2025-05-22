@@ -1,0 +1,13 @@
+{
+  "_id": "1vnemwth8b9",
+  "name": "info-dotos",
+  "params": {
+    "noun": "informations",
+    "verb": "do-to-informations"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

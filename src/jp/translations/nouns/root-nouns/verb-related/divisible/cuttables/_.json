@@ -1,0 +1,10 @@
+{
+  "_id": "l9mejek5107",
+  "name": "cuttables",
+  "parents": [
+    "divisible"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

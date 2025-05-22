@@ -1,0 +1,13 @@
+{
+  "_id": "4eais7gzooj",
+  "name": "clearly-hear",
+  "params": {
+    "adv": "clearly",
+    "verb": "hear"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

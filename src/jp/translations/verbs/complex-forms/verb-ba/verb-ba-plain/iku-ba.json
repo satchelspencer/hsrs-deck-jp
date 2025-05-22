@@ -1,0 +1,13 @@
+{
+  "_id": "iog8boz5xjs",
+  "name": "iku-ba",
+  "params": {
+    "verb": "go"
+  },
+  "parents": [
+    "verb-ba-plain"
+  ],
+  "props": {
+    "jp": "verb.jp|r('行く', '行けば')|r('いく', 'いけば')"
+  }
+}

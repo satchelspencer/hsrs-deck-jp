@@ -1,0 +1,13 @@
+{
+  "_id": "mfvgwg4n9zc",
+  "name": "counter-nin-eight",
+  "params": {
+    "number": "eight"
+  },
+  "parents": [
+    "counter-nin"
+  ],
+  "props": {
+    "tl": "はち~にん"
+  }
+}

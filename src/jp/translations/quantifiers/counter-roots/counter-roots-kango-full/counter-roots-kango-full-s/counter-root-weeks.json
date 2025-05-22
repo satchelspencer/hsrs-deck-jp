@@ -1,0 +1,13 @@
+{
+  "_id": "hmbrlj58wei",
+  "name": "counter-root-weeks",
+  "order": "3",
+  "parents": [
+    "counter-roots-kango-full-s"
+  ],
+  "props": {
+    "en": "weeks",
+    "jp": "週間",
+    "tl": "しゅうかん"
+  }
+}

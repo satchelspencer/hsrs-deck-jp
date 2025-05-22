@@ -1,0 +1,13 @@
+{
+  "_id": "66w5ykn7irw",
+  "name": "opprotunity",
+  "order": "3",
+  "parents": [
+    "people-no"
+  ],
+  "props": {
+    "en": "opprotunity",
+    "jp": "機会",
+    "tl": "きかい"
+  }
+}

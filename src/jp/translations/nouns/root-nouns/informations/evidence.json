@@ -1,0 +1,13 @@
+{
+  "_id": "uxunm79hi58",
+  "name": "evidence",
+  "order": "4",
+  "parents": [
+    "informations"
+  ],
+  "props": {
+    "en": "evidence",
+    "jp": "証拠",
+    "tl": "しょうこ"
+  }
+}

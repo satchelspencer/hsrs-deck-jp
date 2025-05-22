@@ -1,0 +1,14 @@
+{
+  "_id": "afc4on41hyb",
+  "mode": "p",
+  "name": "after-polite",
+  "order": "3",
+  "parents": [
+    "time-amount-exprs"
+  ],
+  "props": {
+    "en": "after",
+    "jp": "後に",
+    "tl": "あとに"
+  }
+}

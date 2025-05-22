@@ -1,0 +1,13 @@
+{
+  "_id": "f8da0p0q1av",
+  "name": "quiet-run",
+  "params": {
+    "na": "quiet",
+    "verb": "run"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

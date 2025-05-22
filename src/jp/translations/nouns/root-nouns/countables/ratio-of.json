@@ -1,0 +1,14 @@
+{
+  "_id": "siszo4tf0qp",
+  "name": "ratio-of",
+  "order": "3",
+  "parents": [
+    "countables",
+    "object-no"
+  ],
+  "props": {
+    "en": "ratio of",
+    "jp": "割合",
+    "tl": "わりあい"
+  }
+}

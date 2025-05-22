@@ -1,0 +1,14 @@
+{
+  "_id": "7hfuetuezrw",
+  "name": "mostly",
+  "order": "3",
+  "parents": [
+    "verb-adverbs",
+    "na-adverbs",
+    "i-adverbs"
+  ],
+  "props": {
+    "en": "mostly",
+    "jp": "ほとんど"
+  }
+}

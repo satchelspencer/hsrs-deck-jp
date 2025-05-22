@@ -1,0 +1,13 @@
+{
+  "_id": "y0y12kfb7i",
+  "name": "noisy-say",
+  "params": {
+    "iadj": "noisy",
+    "verb": "say"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

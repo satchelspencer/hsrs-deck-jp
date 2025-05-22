@@ -1,0 +1,13 @@
+{
+  "_id": "vvcnrm17b4",
+  "name": "flavor-enjoy",
+  "params": {
+    "noun": "flavor",
+    "verb": "enjoy"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

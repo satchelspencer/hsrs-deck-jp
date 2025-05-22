@@ -1,0 +1,13 @@
+{
+  "_id": "z69n8hdjwsn",
+  "name": "cool-temp",
+  "order": "2",
+  "parents": [
+    "i-attributive-standard"
+  ],
+  "props": {
+    "en": "cool",
+    "jp": "涼しい",
+    "tl": "すずしい"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "tv0yuyo4e8",
+  "name": "cramped",
+  "order": "3",
+  "parents": [
+    "i-attributive-standard"
+  ],
+  "props": {
+    "en": "cramped",
+    "jp": "狭い",
+    "tl": "せまい"
+  }
+}

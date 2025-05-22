@@ -1,0 +1,13 @@
+{
+  "_id": "64ytw8o1eh",
+  "name": "id-number",
+  "order": "2",
+  "parents": [
+    "informations"
+  ],
+  "props": {
+    "en": "id number",
+    "jp": "番号",
+    "tl": "ばんごう"
+  }
+}

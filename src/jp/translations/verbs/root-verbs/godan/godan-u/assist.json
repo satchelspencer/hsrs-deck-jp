@@ -1,0 +1,16 @@
+{
+  "_id": "ptljdvsg0qg",
+  "name": "assist",
+  "order": "3",
+  "parents": [
+    "godan-u",
+    "people-do",
+    "do-to-people",
+    "do-to-activities"
+  ],
+  "props": {
+    "en": "assist",
+    "jp": "手伝う",
+    "tl": "てつだう"
+  }
+}

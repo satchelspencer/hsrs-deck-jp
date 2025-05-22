@@ -1,0 +1,13 @@
+{
+  "_id": "wxwrn1gu22",
+  "name": "correct-teach",
+  "params": {
+    "iadj": "correct",
+    "verb": "teach"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

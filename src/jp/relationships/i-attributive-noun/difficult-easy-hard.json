@@ -1,0 +1,13 @@
+{
+  "_id": "h0tvwzh2o8d",
+  "name": "difficult-easy-hard",
+  "params": {
+    "iadj": "difficult",
+    "noun": "easy-hard"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

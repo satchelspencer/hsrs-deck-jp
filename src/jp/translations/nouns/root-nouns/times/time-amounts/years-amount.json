@@ -1,0 +1,17 @@
+{
+  "_id": "9o0fb2cno5u",
+  "constraint": "root",
+  "name": "years-amount",
+  "order": "2",
+  "params": {
+    "counter": "counter-kago-regular",
+    "root": "counter-root-years"
+  },
+  "parents": [
+    "time-amounts"
+  ],
+  "props": {
+    "en": "counter.en",
+    "jp": "counter.jp"
+  }
+}

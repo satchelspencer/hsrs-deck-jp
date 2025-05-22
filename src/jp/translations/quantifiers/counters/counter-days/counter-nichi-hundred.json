@@ -1,0 +1,14 @@
+{
+  "_id": "u4c2x57atth",
+  "name": "counter-nichi-hundred",
+  "params": {
+    "number": "hundred"
+  },
+  "parents": [
+    "counter-days"
+  ],
+  "props": {
+    "jp": "",
+    "tl": "ひゃく~にち"
+  }
+}

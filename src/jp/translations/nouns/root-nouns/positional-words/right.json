@@ -1,0 +1,13 @@
+{
+  "_id": "mjvashp4zqd",
+  "name": "right",
+  "order": "1",
+  "parents": [
+    "positional-words"
+  ],
+  "props": {
+    "en": "right",
+    "jp": "右",
+    "tl": "みぎ"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "n6o3749xpb",
+  "name": "dangerous",
+  "order": "2",
+  "parents": [
+    "i-attributive-standard"
+  ],
+  "props": {
+    "en": "dangerous",
+    "jp": "危ない",
+    "tl": "あぶない"
+  }
+}

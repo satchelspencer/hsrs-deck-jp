@@ -1,0 +1,13 @@
+{
+  "_id": "upgwrsw5v5e",
+  "name": "fourteen",
+  "parents": [
+    "numbers",
+    "month-numbers"
+  ],
+  "props": {
+    "en": "14",
+    "jp": "十四",
+    "tl": "じゅうよん"
+  }
+}

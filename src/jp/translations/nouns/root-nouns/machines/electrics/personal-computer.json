@@ -1,0 +1,12 @@
+{
+  "_id": "sbrln7jcmj",
+  "name": "personal-computer",
+  "order": "2",
+  "parents": [
+    "electrics"
+  ],
+  "props": {
+    "en": "personal computer",
+    "jp": "パソコン"
+  }
+}

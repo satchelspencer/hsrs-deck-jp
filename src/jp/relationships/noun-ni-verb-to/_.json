@@ -1,0 +1,14 @@
+{
+  "_id": "uswbgadb8le",
+  "name": "noun-ni-verb-to",
+  "params": {
+    "noun": "root-nouns",
+    "verb": "root-verbs"
+  },
+  "parents": [
+    "relationships"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

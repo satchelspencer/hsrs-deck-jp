@@ -1,0 +1,14 @@
+{
+  "_id": "8lmpopwzo1t",
+  "mode": "p",
+  "name": "my-wife-polite",
+  "order": "4",
+  "parents": [
+    "family"
+  ],
+  "props": {
+    "en": "my wife",
+    "jp": "家内",
+    "tl": "かない"
+  }
+}

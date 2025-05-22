@@ -1,0 +1,16 @@
+{
+  "_id": "gbn6tu5da2",
+  "name": "experience",
+  "order": "3",
+  "parents": [
+    "suru-nouns",
+    "people-do",
+    "te-iru-verbs-continuous",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "experience",
+    "jp": "経験",
+    "tl": "けいけん"
+  }
+}

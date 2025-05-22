@@ -1,0 +1,14 @@
+{
+  "_id": "j32ouj4lx1d",
+  "name": "shoes",
+  "order": "1",
+  "parents": [
+    "footwear",
+    "polishables"
+  ],
+  "props": {
+    "en": "shoes",
+    "jp": "靴",
+    "tl": "くつ"
+  }
+}

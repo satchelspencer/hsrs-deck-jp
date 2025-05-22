@@ -1,0 +1,19 @@
+{
+  "_id": "2shavnky2uq",
+  "name": "recall",
+  "order": "2",
+  "parents": [
+    "godan-su",
+    "people-do",
+    "do-to-places",
+    "do-to-choices",
+    "do-to-people",
+    "te-iru-verbs-state",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "recall",
+    "jp": "思い出す",
+    "tl": "おもいだす"
+  }
+}

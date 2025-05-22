@@ -1,0 +1,10 @@
+{
+  "_id": "cxi02q873g6",
+  "name": "te-iru-verbs-continuous",
+  "parents": [
+    "te-iru-verbs"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

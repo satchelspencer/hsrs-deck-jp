@@ -1,0 +1,14 @@
+{
+  "_id": "3mn83qz2zbr",
+  "name": "trip",
+  "order": "2",
+  "parents": [
+    "activities",
+    "events"
+  ],
+  "props": {
+    "en": "trip",
+    "jp": "旅行",
+    "tl": "りょこう"
+  }
+}

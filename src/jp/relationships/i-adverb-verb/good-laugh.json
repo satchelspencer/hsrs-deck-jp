@@ -1,0 +1,13 @@
+{
+  "_id": "daskb7m8gsj",
+  "name": "good-laugh",
+  "params": {
+    "iadj": "good",
+    "verb": "laugh"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

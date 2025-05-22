@@ -1,0 +1,13 @@
+{
+  "_id": "ycq2y11woq",
+  "name": "appearance",
+  "order": "3",
+  "parents": [
+    "people-no"
+  ],
+  "props": {
+    "en": "appearance",
+    "jp": "格好",
+    "tl": "かっこう"
+  }
+}

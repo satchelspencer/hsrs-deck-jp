@@ -1,0 +1,13 @@
+{
+  "_id": "sry838xlyan",
+  "name": "counter-kago-4+-four-s",
+  "params": {
+    "root": "counter-roots-kango-4+-s"
+  },
+  "parents": [
+    "counter-kago-4+-four"
+  ],
+  "props": {
+    "tl": "$.jp"
+  }
+}

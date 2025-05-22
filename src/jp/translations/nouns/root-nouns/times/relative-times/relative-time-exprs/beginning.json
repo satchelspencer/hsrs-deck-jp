@@ -1,0 +1,13 @@
+{
+  "_id": "8b3ul0wjvfg",
+  "name": "beginning",
+  "order": "2",
+  "parents": [
+    "relative-time-exprs"
+  ],
+  "props": {
+    "en": "beginning",
+    "jp": "最初",
+    "tl": "さいしょ"
+  }
+}

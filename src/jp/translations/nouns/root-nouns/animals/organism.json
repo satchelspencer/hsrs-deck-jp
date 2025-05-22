@@ -1,0 +1,13 @@
+{
+  "_id": "i7snimfy9z9",
+  "name": "organism",
+  "order": "3",
+  "parents": [
+    "animals"
+  ],
+  "props": {
+    "en": "organism",
+    "jp": "生物",
+    "tl": "せいぶつ"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "b30j06znwxs",
+  "name": "interesting",
+  "order": "1",
+  "parents": [
+    "i-attributive-standard",
+    "i-people"
+  ],
+  "props": {
+    "en": "interesting",
+    "jp": "面白い",
+    "tl": "おもしろい"
+  }
+}

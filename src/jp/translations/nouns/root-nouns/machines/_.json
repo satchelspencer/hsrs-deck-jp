@@ -1,0 +1,10 @@
+{
+  "_id": "uiw37pdx86s",
+  "name": "machines",
+  "parents": [
+    "root-nouns"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

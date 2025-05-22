@@ -1,0 +1,13 @@
+{
+  "_id": "fn4gx0o5a5f",
+  "name": "happy-think",
+  "params": {
+    "iadj": "happy",
+    "verb": "think"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

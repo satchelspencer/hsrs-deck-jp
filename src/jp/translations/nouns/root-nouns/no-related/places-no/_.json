@@ -1,0 +1,10 @@
+{
+  "_id": "3qr9hg17sbi",
+  "name": "places-no",
+  "parents": [
+    "no-related"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

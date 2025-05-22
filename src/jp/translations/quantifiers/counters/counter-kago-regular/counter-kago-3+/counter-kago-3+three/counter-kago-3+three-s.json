@@ -1,0 +1,13 @@
+{
+  "_id": "h69miegmpwn",
+  "name": "counter-kago-3+three-s",
+  "params": {
+    "root": "counter-roots-kango-3+-s"
+  },
+  "parents": [
+    "counter-kago-3+three"
+  ],
+  "props": {
+    "tl": "$.jp"
+  }
+}

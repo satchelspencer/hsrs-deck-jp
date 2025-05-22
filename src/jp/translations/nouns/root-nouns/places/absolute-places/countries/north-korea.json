@@ -1,0 +1,13 @@
+{
+  "_id": "junm1mg6ef9",
+  "name": "north-korea",
+  "order": "4",
+  "parents": [
+    "countries"
+  ],
+  "props": {
+    "en": "north korea",
+    "jp": "北朝鮮",
+    "tl": "きたちょうせん"
+  }
+}

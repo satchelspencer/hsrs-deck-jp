@@ -1,0 +1,13 @@
+{
+  "_id": "acs1ruvtbdb",
+  "name": "good-sleep",
+  "params": {
+    "iadj": "good",
+    "verb": "go-to-bed"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "_id": "hdgzw8ragqs",
+  "constraint": "iadj noun",
+  "name": "noun-i-adj-pred",
+  "order": "1",
+  "params": {
+    "iform": "i-predicate-forms",
+    "nform": "noun-plain",
+    "rel": "i-predicate-noun"
+  },
+  "parents": [
+    "clauses",
+    "topic-clauses"
+  ],
+  "props": {
+    "en": "nform.en+' '+iform.en",
+    "jp": "nform.jp+'が'+iform.jp"
+  }
+}

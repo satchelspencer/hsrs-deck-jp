@@ -1,0 +1,14 @@
+{
+  "_id": "6j5d2993y7r",
+  "name": "gasoline",
+  "order": "3",
+  "parents": [
+    "products",
+    "flowing"
+  ],
+  "props": {
+    "en": "gasoline",
+    "jp": "ガソリン",
+    "tl": "がそりん"
+  }
+}

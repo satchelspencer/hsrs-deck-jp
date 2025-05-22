@@ -1,0 +1,14 @@
+{
+  "_id": "4131j19h9im",
+  "name": "box",
+  "order": "2",
+  "parents": [
+    "containers",
+    "ko-countable"
+  ],
+  "props": {
+    "en": "box",
+    "jp": "箱",
+    "tl": "はこ"
+  }
+}

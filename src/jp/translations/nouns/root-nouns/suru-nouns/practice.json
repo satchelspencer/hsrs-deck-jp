@@ -1,0 +1,16 @@
+{
+  "_id": "f44w0qz6a3g",
+  "name": "practice",
+  "order": "2",
+  "parents": [
+    "suru-nouns",
+    "people-do",
+    "te-iru-verbs-continuous",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "practice",
+    "jp": "練習",
+    "tl": "れんしゅう"
+  }
+}

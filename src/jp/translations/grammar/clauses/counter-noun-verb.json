@@ -1,0 +1,19 @@
+{
+  "_id": "a5jsbt5t11g",
+  "constraint": "noun root verb",
+  "name": "counter-noun-verb",
+  "order": "2",
+  "params": {
+    "counter": "counter-kago-regular",
+    "crel": "counter-noun",
+    "form": "verb-forms",
+    "vrel": "noun-ga-verb"
+  },
+  "parents": [
+    "clauses"
+  ],
+  "props": {
+    "en": "counter.en+' of '+crel.noun.en+' '+form.en",
+    "jp": "crel.noun.jp+'が'+counter.jp+form.jp"
+  }
+}

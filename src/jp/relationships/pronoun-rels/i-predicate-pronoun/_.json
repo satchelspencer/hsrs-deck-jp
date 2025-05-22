@@ -1,0 +1,14 @@
+{
+  "_id": "y2x5e0o07s",
+  "name": "i-predicate-pronoun",
+  "params": {
+    "iadj": "i-predicate",
+    "pn": "pronouns"
+  },
+  "parents": [
+    "pronoun-rels"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

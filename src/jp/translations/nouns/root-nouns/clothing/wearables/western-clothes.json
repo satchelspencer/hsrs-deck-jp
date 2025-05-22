@@ -1,0 +1,13 @@
+{
+  "_id": "ab2cqz3z73v",
+  "name": "western-clothes",
+  "order": "2",
+  "parents": [
+    "wearables"
+  ],
+  "props": {
+    "en": "western clothes",
+    "jp": "洋服",
+    "tl": "ようふく"
+  }
+}

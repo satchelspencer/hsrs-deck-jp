@@ -1,0 +1,13 @@
+{
+  "_id": "fw5u1rw6zj8",
+  "name": "red-decorate",
+  "params": {
+    "iadj": "red",
+    "verb": "decorate"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

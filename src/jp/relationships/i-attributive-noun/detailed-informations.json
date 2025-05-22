@@ -1,0 +1,13 @@
+{
+  "_id": "4f2o3qja4mp",
+  "name": "detailed-informations",
+  "params": {
+    "iadj": "detailed",
+    "noun": "informations"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

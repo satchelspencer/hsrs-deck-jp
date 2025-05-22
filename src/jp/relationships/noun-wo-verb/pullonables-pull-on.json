@@ -1,0 +1,13 @@
+{
+  "_id": "yzutj3je3pe",
+  "name": "pullonables-pull-on",
+  "params": {
+    "noun": "pullonables",
+    "verb": "pull-on"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

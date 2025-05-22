@@ -1,0 +1,19 @@
+{
+  "_id": "5qbmdanrcsi",
+  "constraint": "noun",
+  "name": "question-ikura-noun",
+  "order": "1",
+  "params": {
+    "form": "noun-ka",
+    "noun": "products",
+    "qw": "how-much"
+  },
+  "parents": [
+    "question-clauses"
+  ],
+  "props": {
+    "en": "form.en+' '+qw.en",
+    "jp": "noun.jp+'は'+qw.jp+(form.jp|pr(form.form.noun.jp, ''))",
+    "tl": "noun.tl+'わ'+qw.tl+(form.tl|pr(form.form.noun.tl, ''))"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "jvkhtc8mg0a",
+  "mode": "c-r",
+  "name": "soitsu",
+  "order": "4",
+  "parents": [
+    "third-person-pronouns-singular"
+  ],
+  "props": {
+    "en": "that person",
+    "jp": "そいつ"
+  }
+}

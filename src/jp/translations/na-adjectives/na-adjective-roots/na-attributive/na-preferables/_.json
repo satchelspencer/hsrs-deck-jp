@@ -1,0 +1,13 @@
+{
+  "_id": "9hokih3sz3",
+  "name": "na-preferables",
+  "parents": [
+    "na-attributive",
+    "na-people"
+  ],
+  "props": {
+    "en": null,
+    "jp": null
+  },
+  "virtual": true
+}

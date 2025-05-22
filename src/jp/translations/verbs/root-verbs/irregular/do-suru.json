@@ -1,0 +1,15 @@
+{
+  "_id": "wtezdtrekco",
+  "name": "do-suru",
+  "order": "1",
+  "parents": [
+    "irregular",
+    "people-do",
+    "te-iru-verbs-continuous",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "do",
+    "jp": "する"
+  }
+}

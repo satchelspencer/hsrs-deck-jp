@@ -1,0 +1,16 @@
+{
+  "_id": "h7u4cpjs7oj",
+  "name": "plant-it",
+  "order": "3",
+  "parents": [
+    "ichidan",
+    "people-do",
+    "te-iru-verbs-continuous",
+    "do-to-plants"
+  ],
+  "props": {
+    "en": "plant-it",
+    "jp": "植える",
+    "tl": "うえる"
+  }
+}

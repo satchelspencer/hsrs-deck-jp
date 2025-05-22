@@ -1,0 +1,13 @@
+{
+  "_id": "6qypkqluo8b",
+  "name": "polite-na",
+  "order": "3",
+  "parents": [
+    "na-people"
+  ],
+  "props": {
+    "en": "polite",
+    "jp": "丁寧",
+    "tl": "ていねい"
+  }
+}

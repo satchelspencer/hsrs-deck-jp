@@ -1,0 +1,13 @@
+{
+  "_id": "qp5ymw4rgm",
+  "name": "the-weather-clear-up",
+  "params": {
+    "noun": "the-weather",
+    "verb": "be-cleared-up"
+  },
+  "parents": [
+    "noun-ga-verb"
+  ],
+  "props": {
+  }
+}

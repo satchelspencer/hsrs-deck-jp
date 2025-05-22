@@ -1,0 +1,13 @@
+{
+  "_id": "wo4cg5r7fi",
+  "name": "firstly-people-do",
+  "params": {
+    "adv": "firstly",
+    "verb": "people-do"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

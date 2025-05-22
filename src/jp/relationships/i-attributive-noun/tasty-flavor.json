@@ -1,0 +1,13 @@
+{
+  "_id": "1lm6x431fqf",
+  "name": "tasty-flavor",
+  "params": {
+    "iadj": "tasty",
+    "noun": "flavor"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

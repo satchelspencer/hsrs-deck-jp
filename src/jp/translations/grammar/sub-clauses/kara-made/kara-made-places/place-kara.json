@@ -1,0 +1,15 @@
+{
+  "_id": "hu2pdjmorv6",
+  "name": "place-kara",
+  "order": "2",
+  "params": {
+    "place": "places"
+  },
+  "parents": [
+    "kara-made-places"
+  ],
+  "props": {
+    "en": "'from '+place.en",
+    "jp": "place.jp+'から'"
+  }
+}

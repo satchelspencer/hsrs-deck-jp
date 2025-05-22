@@ -1,0 +1,13 @@
+{
+  "_id": "0on0rjj1h4ki",
+  "name": "object-pronouns-do-to-objects",
+  "params": {
+    "pn": "object-pronouns",
+    "verb": "do-to-objects"
+  },
+  "parents": [
+    "pronoun-wo-verb"
+  ],
+  "props": {
+  }
+}

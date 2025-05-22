@@ -1,0 +1,13 @@
+{
+  "_id": "o1ctg894la8",
+  "name": "good-meet",
+  "params": {
+    "iadj": "good",
+    "verb": "meet"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

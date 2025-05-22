@@ -1,0 +1,16 @@
+{
+  "_id": "iw84vuqqmqd",
+  "name": "check",
+  "order": "3",
+  "parents": [
+    "suru-nouns",
+    "do-to-objects",
+    "te-iru-verbs-continuous",
+    "do-to-informations"
+  ],
+  "props": {
+    "en": "check",
+    "jp": "チェック",
+    "tl": "ちぇっく"
+  }
+}

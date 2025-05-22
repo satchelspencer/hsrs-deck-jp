@@ -1,0 +1,13 @@
+{
+  "_id": "ge89aoy2sxo",
+  "name": "delicious-edibles",
+  "params": {
+    "iadj": "delicious",
+    "noun": "edibles"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

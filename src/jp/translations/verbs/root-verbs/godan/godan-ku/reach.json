@@ -1,0 +1,15 @@
+{
+  "_id": "u05tbewduod",
+  "name": "reach",
+  "order": "3",
+  "parents": [
+    "godan-ku",
+    "ni-destination-verbs",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "en": "reach",
+    "jp": "届く",
+    "tl": "とどく"
+  }
+}

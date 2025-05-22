@@ -1,0 +1,14 @@
+{
+  "_id": "0sr34muv6nt",
+  "name": "empty out",
+  "order": "3",
+  "parents": [
+    "godan-ku",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "en": "empty out",
+    "jp": "空く",
+    "tl": "すく"
+  }
+}

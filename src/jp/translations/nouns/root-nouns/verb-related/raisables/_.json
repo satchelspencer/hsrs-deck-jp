@@ -1,0 +1,12 @@
+{
+  "_id": "k3mclmrgate",
+  "name": "raisables",
+  "parents": [
+    "verb-related"
+  ],
+  "props": {
+    "en": null,
+    "jp": null
+  },
+  "virtual": true
+}

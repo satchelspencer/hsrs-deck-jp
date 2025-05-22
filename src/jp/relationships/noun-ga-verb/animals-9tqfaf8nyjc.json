@@ -1,0 +1,13 @@
+{
+  "_id": "dj3iqyl2kg",
+  "name": "animals-9tqfaf8nyjc",
+  "params": {
+    "noun": "animals",
+    "verb": "animals-do"
+  },
+  "parents": [
+    "noun-ga-verb"
+  ],
+  "props": {
+  }
+}

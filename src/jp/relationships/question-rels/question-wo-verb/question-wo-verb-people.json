@@ -1,0 +1,13 @@
+{
+  "_id": "xcfma6ryq",
+  "name": "question-wo-verb-people",
+  "params": {
+    "qw": "personal-question-words",
+    "verb": "do-to-people"
+  },
+  "parents": [
+    "question-wo-verb"
+  ],
+  "props": {
+  }
+}

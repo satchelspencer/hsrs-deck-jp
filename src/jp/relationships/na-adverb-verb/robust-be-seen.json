@@ -1,0 +1,13 @@
+{
+  "_id": "91n65u1jidp",
+  "name": "robust-be-seen",
+  "params": {
+    "na": "robust",
+    "verb": "be-seen"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

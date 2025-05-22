@@ -1,0 +1,13 @@
+{
+  "_id": "d14lt8klzag",
+  "name": "my-father",
+  "order": "1",
+  "parents": [
+    "family"
+  ],
+  "props": {
+    "en": "my father",
+    "jp": "父",
+    "tl": "ちち"
+  }
+}

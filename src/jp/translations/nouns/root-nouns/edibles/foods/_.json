@@ -1,0 +1,12 @@
+{
+  "_id": "onadw99u19h",
+  "name": "foods",
+  "parents": [
+    "edibles",
+    "kuchi-countable",
+    "sara-countable"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

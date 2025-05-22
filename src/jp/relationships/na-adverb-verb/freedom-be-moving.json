@@ -1,0 +1,13 @@
+{
+  "_id": "zqp1mrswi3n",
+  "name": "freedom-be-moving",
+  "params": {
+    "na": "freedom",
+    "verb": "be-moving"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

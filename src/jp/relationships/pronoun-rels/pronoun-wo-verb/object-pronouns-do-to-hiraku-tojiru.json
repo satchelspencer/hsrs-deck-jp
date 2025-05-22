@@ -1,0 +1,13 @@
+{
+  "_id": "qhynps0k2vk",
+  "name": "object-pronouns-do-to-hiraku-tojiru",
+  "params": {
+    "pn": "object-pronouns",
+    "verb": "do-to-hiraku-tojiru"
+  },
+  "parents": [
+    "pronoun-wo-verb"
+  ],
+  "props": {
+  }
+}

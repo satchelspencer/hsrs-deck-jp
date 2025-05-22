@@ -1,0 +1,13 @@
+{
+  "_id": "358l7modda5",
+  "name": "chicken",
+  "order": "3",
+  "parents": [
+    "wa-countable"
+  ],
+  "props": {
+    "en": "chicken animal",
+    "jp": "鶏",
+    "tl": "にわとり"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "9746bw3d6od",
+  "name": "wake-it-up",
+  "order": "2",
+  "parents": [
+    "godan-su",
+    "people-do",
+    "do-to-animals",
+    "te-iru-verbs-state",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "wake it up",
+    "jp": "起こす",
+    "tl": "おこす"
+  }
+}

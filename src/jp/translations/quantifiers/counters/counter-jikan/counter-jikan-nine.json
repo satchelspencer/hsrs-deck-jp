@@ -1,0 +1,13 @@
+{
+  "_id": "062uwzsn4fea",
+  "name": "counter-jikan-nine",
+  "params": {
+    "number": "nine"
+  },
+  "parents": [
+    "counter-jikan"
+  ],
+  "props": {
+    "tl": "く~じかん"
+  }
+}

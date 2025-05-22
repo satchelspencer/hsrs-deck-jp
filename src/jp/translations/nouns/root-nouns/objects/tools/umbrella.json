@@ -1,0 +1,13 @@
+{
+  "_id": "f25h5c29sqn",
+  "name": "umbrella",
+  "order": "1",
+  "parents": [
+    "tools"
+  ],
+  "props": {
+    "en": "umbrella",
+    "jp": "傘",
+    "tl": "かさ"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "lg7genb6jmf",
+  "name": "loose-fasten",
+  "params": {
+    "iadj": "loose",
+    "verb": "fasten"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

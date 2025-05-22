@@ -1,0 +1,14 @@
+{
+  "_id": "tnckoaghvw",
+  "name": "counter-months-three",
+  "params": {
+    "number": "three"
+  },
+  "parents": [
+    "counter-months"
+  ],
+  "props": {
+    "en": "march",
+    "tl": "さんがつ"
+  }
+}

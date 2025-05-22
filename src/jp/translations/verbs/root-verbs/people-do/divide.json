@@ -1,0 +1,14 @@
+{
+  "_id": "qzudwl6167h",
+  "name": "divide",
+  "order": "3",
+  "parents": [
+    "people-do",
+    "ichidan"
+  ],
+  "props": {
+    "en": "divide",
+    "jp": "分ける",
+    "tl": "わける"
+  }
+}

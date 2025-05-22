@@ -1,0 +1,13 @@
+{
+  "_id": "9vyseqqktkk",
+  "name": "weak-feel-emotion",
+  "params": {
+    "iadj": "weak",
+    "verb": "feel-emotion"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

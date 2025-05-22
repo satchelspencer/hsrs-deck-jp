@@ -1,0 +1,13 @@
+{
+  "_id": "dz0yueshe0m",
+  "name": "salad",
+  "order": "3",
+  "parents": [
+    "foods"
+  ],
+  "props": {
+    "en": "salad",
+    "jp": "サラダ",
+    "tl": "さらだ"
+  }
+}

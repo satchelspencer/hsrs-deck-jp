@@ -1,0 +1,13 @@
+{
+  "_id": "i7uw2vt6g1p",
+  "name": "fire",
+  "order": "4",
+  "parents": [
+    "lightables"
+  ],
+  "props": {
+    "en": "fire",
+    "jp": "火",
+    "tl": "ひ"
+  }
+}

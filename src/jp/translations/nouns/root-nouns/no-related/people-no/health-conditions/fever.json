@@ -1,0 +1,13 @@
+{
+  "_id": "r5gdcmtzehg",
+  "name": "fever",
+  "order": "3",
+  "parents": [
+    "health-conditions"
+  ],
+  "props": {
+    "en": "fever",
+    "jp": "熱",
+    "tl": "ねつ"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "u58ngggkove",
+  "name": "breathe-out",
+  "order": "3",
+  "parents": [
+    "godan-ku",
+    "people-do"
+  ],
+  "props": {
+    "en": "breathe out",
+    "jp": "吐く",
+    "tl": "つく"
+  }
+}

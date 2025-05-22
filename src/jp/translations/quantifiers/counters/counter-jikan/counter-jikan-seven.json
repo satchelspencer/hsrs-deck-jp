@@ -1,0 +1,13 @@
+{
+  "_id": "2tr44a4cwfh",
+  "name": "counter-jikan-seven",
+  "params": {
+    "number": "seven"
+  },
+  "parents": [
+    "counter-jikan"
+  ],
+  "props": {
+    "tl": "しち~じかん"
+  }
+}

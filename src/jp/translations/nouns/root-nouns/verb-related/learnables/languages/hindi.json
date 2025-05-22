@@ -1,0 +1,13 @@
+{
+  "_id": "4534y565tq3",
+  "name": "hindi",
+  "order": "2",
+  "parents": [
+    "languages"
+  ],
+  "props": {
+    "en": "hindi",
+    "jp": "ヒンディー語",
+    "tl": "ひんでぃーご"
+  }
+}

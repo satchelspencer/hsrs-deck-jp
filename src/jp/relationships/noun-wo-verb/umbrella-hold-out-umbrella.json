@@ -1,0 +1,13 @@
+{
+  "_id": "7njhzl0fl1h",
+  "name": "umbrella-hold-out-umbrella",
+  "params": {
+    "noun": "umbrella",
+    "verb": "hold-out-umbrella"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "4hyovqhlfoy",
+  "name": "godan-polite",
+  "params": {
+    "verb": "godan"
+  },
+  "parents": [
+    "polite"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

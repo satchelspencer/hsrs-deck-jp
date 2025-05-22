@@ -1,0 +1,13 @@
+{
+  "_id": "i97ax04vm28",
+  "name": "tou-countable-counter-root-large-animals",
+  "params": {
+    "noun": "tou-countable",
+    "root": "counter-root-beasts"
+  },
+  "parents": [
+    "counter-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "a50vueyxt1c",
+  "name": "fast-run",
+  "params": {
+    "iadj": "fast",
+    "verb": "run"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

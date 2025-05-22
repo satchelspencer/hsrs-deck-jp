@@ -1,0 +1,10 @@
+{
+  "_id": "68lhs1646pj",
+  "name": "question-words",
+  "parents": [
+    "translations"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

@@ -1,0 +1,12 @@
+{
+  "_id": "3kcwg58c7ab",
+  "name": "as-much-as-possible",
+  "order": "3",
+  "parents": [
+    "verb-adverbs"
+  ],
+  "props": {
+    "en": "as much as possible",
+    "jp": "できるだけ"
+  }
+}

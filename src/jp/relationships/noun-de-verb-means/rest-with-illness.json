@@ -1,0 +1,13 @@
+{
+  "_id": "oz49u3r92fi",
+  "name": "rest-with-illness",
+  "params": {
+    "noun": "illness",
+    "verb": "rest"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

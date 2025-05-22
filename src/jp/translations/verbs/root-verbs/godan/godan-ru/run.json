@@ -1,0 +1,16 @@
+{
+  "_id": "khl806c6vdn",
+  "name": "run",
+  "order": "2",
+  "parents": [
+    "godan-ru",
+    "people-do",
+    "do-to-places",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "en": "run",
+    "jp": "走る",
+    "tl": "はしる"
+  }
+}

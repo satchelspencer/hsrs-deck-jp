@@ -1,0 +1,10 @@
+{
+  "_id": "svi365vfejl",
+  "name": "personal-pronouns",
+  "parents": [
+    "pronouns"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

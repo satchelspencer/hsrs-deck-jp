@@ -1,0 +1,12 @@
+{
+  "_id": "qmfx3vqlrr9",
+  "name": "openables",
+  "parents": [
+    "verb-related"
+  ],
+  "props": {
+    "en": null,
+    "jp": null
+  },
+  "virtual": true
+}

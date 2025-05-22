@@ -1,0 +1,14 @@
+{
+  "_id": "gy1usneym14",
+  "name": "reservation",
+  "order": "3",
+  "parents": [
+    "suru-nouns",
+    "people-do"
+  ],
+  "props": {
+    "en": "reservation",
+    "jp": "予約",
+    "tl": "よやく"
+  }
+}

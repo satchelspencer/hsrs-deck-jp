@@ -1,0 +1,13 @@
+{
+  "_id": "o0pigaqmjo",
+  "name": "how-to-swim",
+  "order": "4",
+  "parents": [
+    "learnables"
+  ],
+  "props": {
+    "en": "how to swim",
+    "jp": "泳ぎ方",
+    "tl": "およぎかた"
+  }
+}

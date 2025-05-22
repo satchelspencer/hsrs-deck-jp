@@ -1,0 +1,13 @@
+{
+  "_id": "gck39630yp4",
+  "name": "suru-nouns-9hokih3sz3",
+  "params": {
+    "na": "na-preferables",
+    "noun": "suru-nouns"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

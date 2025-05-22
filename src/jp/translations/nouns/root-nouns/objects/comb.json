@@ -1,0 +1,14 @@
+{
+  "_id": "lodzfnr451f",
+  "name": "comb",
+  "order": "3",
+  "parents": [
+    "objects",
+    "products",
+    "tools"
+  ],
+  "props": {
+    "en": "comb",
+    "jp": "くし"
+  }
+}

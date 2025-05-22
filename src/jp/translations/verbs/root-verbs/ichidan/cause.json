@@ -1,0 +1,14 @@
+{
+  "_id": "t7qop025fto",
+  "name": "cause",
+  "order": "3",
+  "parents": [
+    "ichidan",
+    "events-do"
+  ],
+  "props": {
+    "en": "cause",
+    "jp": "生じる",
+    "tl": "しょうじる"
+  }
+}

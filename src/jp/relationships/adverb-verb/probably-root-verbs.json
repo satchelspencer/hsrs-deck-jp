@@ -1,0 +1,13 @@
+{
+  "_id": "8l2g8jq592y",
+  "name": "probably-root-verbs",
+  "params": {
+    "adv": "probably",
+    "verb": "root-verbs"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

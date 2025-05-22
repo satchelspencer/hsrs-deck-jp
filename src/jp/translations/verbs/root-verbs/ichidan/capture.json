@@ -1,0 +1,15 @@
+{
+  "_id": "2vc1is3vxj3",
+  "name": "capture",
+  "order": "3",
+  "parents": [
+    "ichidan",
+    "people-do",
+    "do-to-people"
+  ],
+  "props": {
+    "en": "capture",
+    "jp": "捕まえる",
+    "tl": "つかまえる"
+  }
+}

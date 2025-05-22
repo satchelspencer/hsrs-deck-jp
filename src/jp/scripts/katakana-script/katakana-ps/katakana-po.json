@@ -1,0 +1,14 @@
+{
+  "_id": "bi87qgw21zc",
+  "name": "katakana-po",
+  "params": {
+    "h": "katakana-ho"
+  },
+  "parents": [
+    "katakana-ps"
+  ],
+  "props": {
+    "_tl": "po",
+    "jp": "ポ"
+  }
+}

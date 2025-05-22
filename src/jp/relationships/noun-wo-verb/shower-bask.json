@@ -1,0 +1,13 @@
+{
+  "_id": "yga39tb8jg",
+  "name": "shower-bask",
+  "params": {
+    "noun": "shower",
+    "verb": "bask"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

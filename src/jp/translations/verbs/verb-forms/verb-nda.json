@@ -1,0 +1,17 @@
+{
+  "_id": "xq8fx7z6syn",
+  "constraint": "verb form",
+  "mode": "c",
+  "name": "verb-nda",
+  "order": "3",
+  "params": {
+    "nda": "nda-verb-forms"
+  },
+  "parents": [
+    "verb-forms"
+  ],
+  "props": {
+    "en": "nda.en+e(', thats why')",
+    "jp": "nda.jp+'んだ'"
+  }
+}

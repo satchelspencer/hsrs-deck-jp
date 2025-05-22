@@ -1,0 +1,13 @@
+{
+  "_id": "y0i52r46oq8",
+  "name": "machine",
+  "order": "3",
+  "parents": [
+    "objects"
+  ],
+  "props": {
+    "en": "machine",
+    "jp": "機械",
+    "tl": "きかい"
+  }
+}

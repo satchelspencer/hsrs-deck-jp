@@ -1,0 +1,13 @@
+{
+  "_id": "sbkr0nt3yyh",
+  "name": "pluck-pluckables",
+  "params": {
+    "noun": "pluckables",
+    "verb": "pluck-instrument"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

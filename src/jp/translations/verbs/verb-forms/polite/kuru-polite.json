@@ -1,0 +1,14 @@
+{
+  "_id": "yc9l0wwp06",
+  "name": "kuru-polite",
+  "params": {
+    "verb": "kuru"
+  },
+  "parents": [
+    "polite"
+  ],
+  "props": {
+    "en": null,
+    "jp": "verb.jp|r('来る', '来ます')|r('くる', 'きます')"
+  }
+}

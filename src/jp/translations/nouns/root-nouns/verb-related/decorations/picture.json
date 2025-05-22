@@ -1,0 +1,15 @@
+{
+  "_id": "sp8gcu0jqye",
+  "name": "picture",
+  "order": "2",
+  "parents": [
+    "decorations",
+    "objects",
+    "media"
+  ],
+  "props": {
+    "en": "picture",
+    "jp": "絵",
+    "tl": "え"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "1rnaufiqe54",
+  "name": "bad-say",
+  "params": {
+    "iadj": "bad",
+    "verb": "say"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

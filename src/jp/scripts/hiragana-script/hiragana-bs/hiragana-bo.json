@@ -1,0 +1,14 @@
+{
+  "_id": "n1teqygetx9",
+  "name": "hiragana-bo",
+  "params": {
+    "h": "hiragana-ho"
+  },
+  "parents": [
+    "hiragana-bs"
+  ],
+  "props": {
+    "_tl": "bo",
+    "jp": "ぼ"
+  }
+}

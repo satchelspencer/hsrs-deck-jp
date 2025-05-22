@@ -1,0 +1,18 @@
+{
+  "_id": "fjgwy19q79r",
+  "constraint": "na noun",
+  "name": "noun-na-adj-pred-te",
+  "order": "",
+  "params": {
+    "naform": "na-adjective-de",
+    "nform": "noun-plain",
+    "rel": "na-predicate-noun"
+  },
+  "parents": [
+    "noun-pred-te-forms"
+  ],
+  "props": {
+    "en": "nform.en+' '+naform.en",
+    "jp": "nform.jp+'が'+naform.jp"
+  }
+}

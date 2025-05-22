@@ -1,0 +1,13 @@
+{
+  "_id": "f1ed6fw1fgq",
+  "name": "school",
+  "order": "1",
+  "parents": [
+    "schools"
+  ],
+  "props": {
+    "en": "school",
+    "jp": "学校",
+    "tl": "がっこう"
+  }
+}

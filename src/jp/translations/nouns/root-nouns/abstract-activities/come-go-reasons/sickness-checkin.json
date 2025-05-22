@@ -1,0 +1,13 @@
+{
+  "_id": "0y1vvdyyps3",
+  "name": "sickness-checkin",
+  "order": "3",
+  "parents": [
+    "come-go-reasons"
+  ],
+  "props": {
+    "en": "sickness checkin",
+    "jp": "お見舞い",
+    "tl": "おみまい"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "0vgj1w05fral",
+  "name": "object-pronouns-do-to-raiseables",
+  "params": {
+    "pn": "object-pronouns",
+    "verb": "do-to-raiseables"
+  },
+  "parents": [
+    "pronoun-wo-verb"
+  ],
+  "props": {
+  }
+}

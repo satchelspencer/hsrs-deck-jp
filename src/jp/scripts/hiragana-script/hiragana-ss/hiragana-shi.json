@@ -1,0 +1,12 @@
+{
+  "_id": "vgbskxc3t3",
+  "name": "hiragana-shi",
+  "parents": [
+    "hiragana-ss",
+    "hiragana-iis"
+  ],
+  "props": {
+    "_tl": "shi",
+    "jp": "し"
+  }
+}

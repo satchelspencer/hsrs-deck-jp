@@ -1,0 +1,15 @@
+{
+  "_id": "rpff24h35zh",
+  "name": "date-year",
+  "order": "2",
+  "params": {
+    "number": "decimals",
+    "year": "counter-root-years"
+  },
+  "parents": [
+    "dates"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

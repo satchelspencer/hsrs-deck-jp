@@ -1,0 +1,11 @@
+{
+  "_id": "emrrvzy2if",
+  "name": "weather",
+  "parents": [
+    "root-nouns",
+    "good-bads"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

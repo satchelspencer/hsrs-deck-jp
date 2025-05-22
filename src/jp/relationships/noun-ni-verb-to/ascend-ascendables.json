@@ -1,0 +1,13 @@
+{
+  "_id": "i39sdasvt5m",
+  "name": "ascend-ascendables",
+  "params": {
+    "noun": "ascendables",
+    "verb": "ascend"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

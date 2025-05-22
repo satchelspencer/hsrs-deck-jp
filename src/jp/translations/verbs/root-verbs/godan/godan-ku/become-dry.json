@@ -1,0 +1,14 @@
+{
+  "_id": "pnqop7zuii",
+  "name": "become-dry",
+  "order": "3",
+  "parents": [
+    "godan-ku",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "en": "become dry",
+    "jp": "乾く",
+    "tl": "かわく"
+  }
+}

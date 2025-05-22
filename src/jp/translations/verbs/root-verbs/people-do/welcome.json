@@ -1,0 +1,16 @@
+{
+  "_id": "eebpyu98ubk",
+  "name": "welcome",
+  "order": "3",
+  "parents": [
+    "people-do",
+    "do-to-people",
+    "te-iru-verbs-continuous",
+    "ichidan"
+  ],
+  "props": {
+    "en": "welcome",
+    "jp": "迎える",
+    "tl": "むかえる"
+  }
+}

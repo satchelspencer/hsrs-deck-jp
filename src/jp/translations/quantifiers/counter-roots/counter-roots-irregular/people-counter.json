@@ -1,0 +1,13 @@
+{
+  "_id": "adowbq9wlp9",
+  "name": "people-counter",
+  "order": "1",
+  "parents": [
+    "counter-roots-irregular"
+  ],
+  "props": {
+    "en": "people",
+    "jp": "人",
+    "tl": "にん"
+  }
+}

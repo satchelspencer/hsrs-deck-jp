@@ -1,0 +1,14 @@
+{
+  "_id": "3gf6etnjngz",
+  "name": "sofa",
+  "order": "3",
+  "parents": [
+    "sitables",
+    "furniture"
+  ],
+  "props": {
+    "en": "sofa",
+    "jp": "ソファー",
+    "tl": "そふぁー"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "_id": "aq7ruyibl1d",
+  "name": "he-related-verbs",
+  "parents": [
+    "root-verbs",
+    "ni-destination-verbs"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

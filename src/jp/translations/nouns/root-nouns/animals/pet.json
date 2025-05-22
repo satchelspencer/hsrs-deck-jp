@@ -1,0 +1,13 @@
+{
+  "_id": "9ebpu42612",
+  "name": "pet",
+  "order": "2",
+  "parents": [
+    "animals"
+  ],
+  "props": {
+    "en": "pet",
+    "jp": "ペット",
+    "tl": "ぺっと"
+  }
+}

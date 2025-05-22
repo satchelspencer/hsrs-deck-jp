@@ -1,0 +1,15 @@
+{
+  "_id": "f4qctr6i4jd",
+  "name": "relief",
+  "order": "3",
+  "parents": [
+    "na-place",
+    "suru-nouns",
+    "people-do"
+  ],
+  "props": {
+    "en": "relief",
+    "jp": "安心",
+    "tl": "あんしん"
+  }
+}

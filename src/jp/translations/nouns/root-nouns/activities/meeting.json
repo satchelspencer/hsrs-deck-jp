@@ -1,0 +1,14 @@
+{
+  "_id": "hdpvxfybq9",
+  "name": "meeting",
+  "order": "3",
+  "parents": [
+    "activities",
+    "events"
+  ],
+  "props": {
+    "en": "meeting",
+    "jp": "会議",
+    "tl": "かいぎ"
+  }
+}

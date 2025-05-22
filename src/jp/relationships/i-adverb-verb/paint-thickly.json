@@ -1,0 +1,13 @@
+{
+  "_id": "6pzmf7ydrr6",
+  "name": "paint-thickly",
+  "params": {
+    "iadj": "thick",
+    "verb": "paint-it"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

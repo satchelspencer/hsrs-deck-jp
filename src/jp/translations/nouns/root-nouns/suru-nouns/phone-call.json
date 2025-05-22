@@ -1,0 +1,18 @@
+{
+  "_id": "ob9r0bdsjo8",
+  "name": "phone-call",
+  "order": "1",
+  "parents": [
+    "suru-nouns",
+    "events",
+    "people-do",
+    "ni-person-verbs",
+    "te-iru-verbs-continuous",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "phone call",
+    "jp": "電話",
+    "tl": "でんわ"
+  }
+}

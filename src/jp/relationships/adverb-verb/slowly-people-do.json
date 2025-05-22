@@ -1,0 +1,13 @@
+{
+  "_id": "06qors17j40b",
+  "name": "slowly-people-do",
+  "params": {
+    "adv": "slowly",
+    "verb": "people-do"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

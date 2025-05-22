@@ -1,0 +1,11 @@
+{
+  "_id": "bgpr8mgxpv",
+  "name": "verb-adverbs",
+  "parents": [
+    "translations"
+  ],
+  "props": {
+    "en": ""
+  },
+  "virtual": true
+}

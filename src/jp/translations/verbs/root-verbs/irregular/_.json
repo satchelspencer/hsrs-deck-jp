@@ -1,0 +1,10 @@
+{
+  "_id": "pal8c1q40v",
+  "name": "irregular",
+  "parents": [
+    "root-verbs"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

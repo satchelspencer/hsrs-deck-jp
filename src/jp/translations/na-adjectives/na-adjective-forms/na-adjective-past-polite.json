@@ -1,0 +1,20 @@
+{
+  "_id": "e5yd7mjavbv",
+  "mode": "p",
+  "name": "na-adjective-past-polite",
+  "order": "2",
+  "params": {
+    "na": "na-attributive"
+  },
+  "parents": [
+    "na-adjective-forms",
+    "na-predicate-forms",
+    "ka-na-forms",
+    "yo-ne-na-forms",
+    "conjunctive-na-forms"
+  ],
+  "props": {
+    "en": "'was '+na.en",
+    "jp": "na.jp+'でした'"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "_id": "hhzvcxq5rvd",
+  "name": "wago-counter-root",
+  "order": "1",
+  "parents": [
+    "counter-roots-irregular"
+  ],
+  "props": {
+    "en": "things",
+    "jp": "つ"
+  }
+}

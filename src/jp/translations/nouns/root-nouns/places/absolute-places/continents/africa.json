@@ -1,0 +1,13 @@
+{
+  "_id": "64rnemp6g9t",
+  "name": "africa",
+  "order": "3",
+  "parents": [
+    "continents"
+  ],
+  "props": {
+    "en": "africa",
+    "jp": "アフリカ",
+    "tl": "あふりか"
+  }
+}

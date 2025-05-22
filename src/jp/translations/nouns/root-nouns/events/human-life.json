@@ -1,0 +1,13 @@
+{
+  "_id": "5ua6nih14lt",
+  "name": "human-life",
+  "order": "4",
+  "parents": [
+    "events"
+  ],
+  "props": {
+    "en": "human life",
+    "jp": "人生",
+    "tl": "じんせい"
+  }
+}

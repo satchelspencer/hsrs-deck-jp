@@ -1,0 +1,13 @@
+{
+  "_id": "2avmbmpop7l",
+  "name": "spicy-feel-emotion",
+  "params": {
+    "iadj": "spicy",
+    "verb": "feel-emotion"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

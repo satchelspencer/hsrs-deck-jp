@@ -1,0 +1,13 @@
+{
+  "_id": "vnx57a9tros",
+  "name": "deep-consider",
+  "params": {
+    "iadj": "deep",
+    "verb": "consider"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "_id": "wa0lgkyrytl",
+  "name": "hiragana-gi",
+  "params": {
+    "k": "hiragana-ki"
+  },
+  "parents": [
+    "hiragana-gs",
+    "hiragana-iis"
+  ],
+  "props": {
+    "_tl": "gi",
+    "jp": "ぎ"
+  }
+}

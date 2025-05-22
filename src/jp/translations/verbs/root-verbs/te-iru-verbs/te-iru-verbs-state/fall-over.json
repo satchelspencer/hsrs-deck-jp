@@ -1,0 +1,14 @@
+{
+  "_id": "saya6rddi0i",
+  "name": "fall-over",
+  "order": "3",
+  "parents": [
+    "te-iru-verbs-state",
+    "ichidan"
+  ],
+  "props": {
+    "en": "fall over",
+    "jp": "倒れる",
+    "tl": "たおれる"
+  }
+}

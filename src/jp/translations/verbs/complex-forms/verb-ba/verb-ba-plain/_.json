@@ -1,0 +1,15 @@
+{
+  "_id": "xt28rtlxx8",
+  "name": "verb-ba-plain",
+  "order": "",
+  "params": {
+    "verb": "root-verbs"
+  },
+  "parents": [
+    "verb-ba"
+  ],
+  "props": {
+    "en": "'if '+verb.en"
+  },
+  "virtual": true
+}

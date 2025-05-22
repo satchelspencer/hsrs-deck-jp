@@ -1,0 +1,11 @@
+{
+  "_id": "nu79w1njnnj",
+  "name": "trains",
+  "parents": [
+    "transports",
+    "hon-countable"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

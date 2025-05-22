@@ -1,0 +1,13 @@
+{
+  "_id": "cwerv6rbppr",
+  "name": "relative-pronouns",
+  "params": {
+    "noun": "root-nouns"
+  },
+  "parents": [
+    "pronouns"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

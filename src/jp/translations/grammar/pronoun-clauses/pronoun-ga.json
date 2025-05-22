@@ -1,0 +1,18 @@
+{
+  "_id": "tuy6c14sa2",
+  "constraint": "verb",
+  "name": "pronoun-ga",
+  "order": "1",
+  "params": {
+    "form": "verb-forms",
+    "rel": "pronoun-ga-verb"
+  },
+  "parents": [
+    "pronoun-clauses",
+    "pronoun-temporal-verb-clauses"
+  ],
+  "props": {
+    "en": "rel.pn.en+' '+form.en",
+    "jp": "rel.pn.jp+'が'+form.jp"
+  }
+}

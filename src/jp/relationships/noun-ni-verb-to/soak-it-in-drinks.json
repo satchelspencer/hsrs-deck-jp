@@ -1,0 +1,13 @@
+{
+  "_id": "ect3kn9ci2",
+  "name": "soak-it-in-drinks",
+  "params": {
+    "noun": "drinks",
+    "verb": "soak-it"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

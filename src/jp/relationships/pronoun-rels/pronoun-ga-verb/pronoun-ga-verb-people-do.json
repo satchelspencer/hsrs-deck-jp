@@ -1,0 +1,13 @@
+{
+  "_id": "sj3h429mnhi",
+  "name": "pronoun-ga-verb-people-do",
+  "params": {
+    "pn": "personal-pronouns",
+    "verb": "people-do"
+  },
+  "parents": [
+    "pronoun-ga-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "eptf6kaoibb",
+  "name": "hours",
+  "order": "1",
+  "parents": [
+    "quantities",
+    "short-long",
+    "be-requiredables",
+    "counter-roots-irregular"
+  ],
+  "props": {
+    "en": "hours",
+    "jp": "時間",
+    "tl": "じかん"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "j1ww8usx04",
+  "name": "way-of-doing",
+  "order": "3",
+  "parents": [
+    "choosables"
+  ],
+  "props": {
+    "en": "way of doing",
+    "jp": "仕方",
+    "tl": "しかた"
+  }
+}

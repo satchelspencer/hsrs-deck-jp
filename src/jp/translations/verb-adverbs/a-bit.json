@@ -1,0 +1,15 @@
+{
+  "_id": "36z0z9s2rar",
+  "mode": "c",
+  "name": "a-bit",
+  "order": "1",
+  "parents": [
+    "verb-adverbs",
+    "i-adverbs",
+    "na-adverbs"
+  ],
+  "props": {
+    "en": "a bit",
+    "jp": "ちょっと"
+  }
+}

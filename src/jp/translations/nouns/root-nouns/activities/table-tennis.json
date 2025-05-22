@@ -1,0 +1,14 @@
+{
+  "_id": "cyt7xhzmwo4",
+  "name": "table-tennis",
+  "order": "2",
+  "parents": [
+    "activities",
+    "shiai-countable"
+  ],
+  "props": {
+    "en": "table tennis",
+    "jp": "卓球",
+    "tl": "たっきゅう"
+  }
+}

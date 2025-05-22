@@ -1,0 +1,10 @@
+{
+  "_id": "85az1h42d2h",
+  "name": "ascendables",
+  "parents": [
+    "verb-related"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

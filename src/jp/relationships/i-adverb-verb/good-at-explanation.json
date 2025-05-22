@@ -1,0 +1,13 @@
+{
+  "_id": "ooirnrtkgk",
+  "name": "good-at-explanation",
+  "params": {
+    "iadj": "good-at",
+    "verb": "explanation"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

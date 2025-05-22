@@ -1,0 +1,17 @@
+{
+  "_id": "vjparfaea1a",
+  "name": "hang-up",
+  "order": "3",
+  "parents": [
+    "people-do",
+    "ni-destination-verbs",
+    "te-iru-verbs-state",
+    "do-to-hangables",
+    "ichidan"
+  ],
+  "props": {
+    "en": "hang up",
+    "jp": "掛ける",
+    "tl": "かける"
+  }
+}

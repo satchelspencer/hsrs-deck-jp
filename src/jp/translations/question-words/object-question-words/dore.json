@@ -1,0 +1,12 @@
+{
+  "_id": "i98qbrayaoo",
+  "name": "dore",
+  "order": "2",
+  "parents": [
+    "object-question-words"
+  ],
+  "props": {
+    "en": "which one",
+    "jp": "どれ"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "bll11pj90c8",
+  "name": "find",
+  "order": "1",
+  "parents": [
+    "people-do",
+    "do-to-seeables",
+    "de-location-verbs",
+    "ichidan"
+  ],
+  "props": {
+    "en": "find",
+    "jp": "見つける",
+    "tl": "みつける"
+  }
+}

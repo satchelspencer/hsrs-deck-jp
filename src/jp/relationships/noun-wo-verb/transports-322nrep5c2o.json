@@ -1,0 +1,13 @@
+{
+  "_id": "gktfhgia369",
+  "name": "transports-322nrep5c2o",
+  "params": {
+    "noun": "transports",
+    "verb": "do-to-transports"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

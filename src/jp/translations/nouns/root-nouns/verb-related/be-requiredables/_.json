@@ -1,0 +1,10 @@
+{
+  "_id": "ugiqagif2n",
+  "name": "be-requiredables",
+  "parents": [
+    "verb-related"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

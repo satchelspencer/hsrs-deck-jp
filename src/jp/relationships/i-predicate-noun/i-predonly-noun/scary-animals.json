@@ -1,0 +1,13 @@
+{
+  "_id": "ni1sfaqcdp",
+  "name": "scary-animals",
+  "params": {
+    "iadj": "scary",
+    "noun": "animals"
+  },
+  "parents": [
+    "i-predonly-noun"
+  ],
+  "props": {
+  }
+}

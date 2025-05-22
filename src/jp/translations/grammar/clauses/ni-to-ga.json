@@ -1,0 +1,17 @@
+{
+  "_id": "773y4h7tf1b",
+  "constraint": "verb form",
+  "name": "ni-to-ga",
+  "order": "2",
+  "params": {
+    "ga": "noun-ga-sub",
+    "ni": "noun-ni-to"
+  },
+  "parents": [
+    "clauses"
+  ],
+  "props": {
+    "en": "'to the '+ni.rel.noun.en+' '+ga.en",
+    "jp": "ni.rel.noun.jp+'に'+ga.jp"
+  }
+}

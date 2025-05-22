@@ -1,0 +1,10 @@
+{
+  "_id": "o7e47d7009",
+  "name": "first-person-pronouns",
+  "parents": [
+    "personal-pronouns"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

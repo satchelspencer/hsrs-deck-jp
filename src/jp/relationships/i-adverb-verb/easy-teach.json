@@ -1,0 +1,13 @@
+{
+  "_id": "s2fwvgcsgrm",
+  "name": "easy-teach",
+  "params": {
+    "iadj": "easy",
+    "verb": "teach"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

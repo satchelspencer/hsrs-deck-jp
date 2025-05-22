@@ -1,0 +1,13 @@
+{
+  "_id": "ute4f1gwi7c",
+  "name": "languages-m36eq3ozty",
+  "params": {
+    "noun": "languages",
+    "verb": "do-to-languages"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

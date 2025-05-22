@@ -1,0 +1,13 @@
+{
+  "_id": "2dgmlvq666m",
+  "name": "ending",
+  "order": "2",
+  "parents": [
+    "events"
+  ],
+  "props": {
+    "en": "ending",
+    "jp": "終わり",
+    "tl": "おわり"
+  }
+}

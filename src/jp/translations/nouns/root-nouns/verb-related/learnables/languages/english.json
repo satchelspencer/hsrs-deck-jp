@@ -1,0 +1,13 @@
+{
+  "_id": "kd5afprcbmp",
+  "name": "english",
+  "order": "1",
+  "parents": [
+    "languages"
+  ],
+  "props": {
+    "en": "english",
+    "jp": "英語",
+    "tl": "えいご"
+  }
+}

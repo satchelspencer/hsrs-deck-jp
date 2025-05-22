@@ -1,0 +1,14 @@
+{
+  "_id": "7l8dz4nhkti",
+  "name": "na-predicate-question",
+  "params": {
+    "na": "na-adjective-roots",
+    "qw": "question-words"
+  },
+  "parents": [
+    "question-rels"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

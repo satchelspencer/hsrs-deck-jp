@@ -1,0 +1,15 @@
+{
+  "_id": "27mk35tblvt",
+  "name": "counter-days-how-many",
+  "params": {
+    "root": "day-of-the-month"
+  },
+  "parents": [
+    "counter-questions"
+  ],
+  "props": {
+    "en": "how many days",
+    "jp": "何日",
+    "tl": "なんにち"
+  }
+}

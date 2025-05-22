@@ -1,0 +1,15 @@
+{
+  "_id": "a1rqccuuo1l",
+  "name": "get-fat",
+  "order": "3",
+  "parents": [
+    "godan-ru",
+    "people-do",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "en": "get fat",
+    "jp": "太る",
+    "tl": "ふとる"
+  }
+}

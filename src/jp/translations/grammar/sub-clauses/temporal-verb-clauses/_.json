@@ -1,0 +1,13 @@
+{
+  "_id": "h4a51vyrehi",
+  "name": "temporal-verb-clauses",
+  "params": {
+    "form": "verb-forms"
+  },
+  "parents": [
+    "sub-clauses"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "yuwpzxtzb3",
+  "name": "cheap-make",
+  "params": {
+    "iadj": "cheap",
+    "verb": "make"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

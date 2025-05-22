@@ -1,0 +1,14 @@
+{
+  "_id": "3ipw1s2njyf",
+  "name": "hiragana-ga",
+  "params": {
+    "k": "hiragana-ka"
+  },
+  "parents": [
+    "hiragana-gs"
+  ],
+  "props": {
+    "_tl": "ga",
+    "jp": "が"
+  }
+}

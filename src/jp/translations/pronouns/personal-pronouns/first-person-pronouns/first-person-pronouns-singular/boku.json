@@ -1,0 +1,14 @@
+{
+  "_id": "2at6tsxwpqb",
+  "mode": "-m",
+  "name": "boku",
+  "order": "2",
+  "parents": [
+    "first-person-pronouns-singular"
+  ],
+  "props": {
+    "en": "I",
+    "jp": "僕",
+    "tl": "ぼく"
+  }
+}

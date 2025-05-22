@@ -1,0 +1,13 @@
+{
+  "_id": "i4h9a3yobx",
+  "name": "sour-edibles",
+  "params": {
+    "iadj": "sour",
+    "noun": "edibles"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

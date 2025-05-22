@@ -1,0 +1,14 @@
+{
+  "_id": "053np4469d7s",
+  "name": "counter-wago-four",
+  "params": {
+    "number": "four"
+  },
+  "parents": [
+    "counter-wago"
+  ],
+  "props": {
+    "en": null,
+    "jp": "よっつ"
+  }
+}

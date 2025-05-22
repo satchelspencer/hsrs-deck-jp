@@ -1,0 +1,14 @@
+{
+  "_id": "kmsq4ks8xon",
+  "name": "hiragana-gya",
+  "params": {
+    "iis": "hiragana-gi"
+  },
+  "parents": [
+    "hiragana-yoon-ya"
+  ],
+  "props": {
+    "_tl": "gya",
+    "jp": "iis.jp+'ゃ'"
+  }
+}

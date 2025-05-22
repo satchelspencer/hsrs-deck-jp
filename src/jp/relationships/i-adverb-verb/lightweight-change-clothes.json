@@ -1,0 +1,13 @@
+{
+  "_id": "7bcdb6a25ie",
+  "name": "lightweight-change-clothes",
+  "params": {
+    "iadj": "lightweight",
+    "verb": "change-clothes"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "l1mh2knsct",
+  "name": "counter-nichi-one",
+  "params": {
+    "number": "one"
+  },
+  "parents": [
+    "counter-days"
+  ],
+  "props": {
+    "tl": "いち~にち"
+  }
+}

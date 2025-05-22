@@ -1,0 +1,14 @@
+{
+  "_id": "xgfmoe42b8",
+  "name": "inconvenience",
+  "order": "3",
+  "parents": [
+    "na-nouns",
+    "na-place"
+  ],
+  "props": {
+    "en": "inconvenience",
+    "jp": "不便",
+    "tl": "ふべん"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "qfgbyadbzsf",
+  "name": "young-animals",
+  "params": {
+    "iadj": "young",
+    "noun": "animals"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

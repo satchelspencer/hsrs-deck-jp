@@ -1,0 +1,13 @@
+{
+  "_id": "dpwwkeir57q",
+  "name": "sudden-people-do",
+  "params": {
+    "na": "sudden",
+    "verb": "people-do"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

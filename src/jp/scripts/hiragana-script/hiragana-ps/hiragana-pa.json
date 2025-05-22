@@ -1,0 +1,14 @@
+{
+  "_id": "m4s1zpvn9g",
+  "name": "hiragana-pa",
+  "params": {
+    "h": "hiragana-ha"
+  },
+  "parents": [
+    "hiragana-ps"
+  ],
+  "props": {
+    "_tl": "pa",
+    "jp": "ぱ"
+  }
+}

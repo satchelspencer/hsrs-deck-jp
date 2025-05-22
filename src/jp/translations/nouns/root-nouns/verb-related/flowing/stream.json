@@ -1,0 +1,14 @@
+{
+  "_id": "0f6elxr4vrh",
+  "name": "stream",
+  "order": "3",
+  "parents": [
+    "flowing",
+    "absolute-places"
+  ],
+  "props": {
+    "en": "stream",
+    "jp": "小川",
+    "tl": "おがわ"
+  }
+}

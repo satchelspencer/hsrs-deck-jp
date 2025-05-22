@@ -1,0 +1,17 @@
+{
+  "_id": "pwlsmcnmuhh",
+  "constraint": "iadj",
+  "name": "question-i-adj-pred",
+  "order": "1",
+  "params": {
+    "iform": "i-adjective-ka",
+    "rel": "i-predicate-question"
+  },
+  "parents": [
+    "question-clauses"
+  ],
+  "props": {
+    "en": "rel.qw.en+' '+iform.en",
+    "jp": "rel.qw.jp+'が'+iform.jp"
+  }
+}

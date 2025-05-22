@@ -1,0 +1,15 @@
+{
+  "_id": "6r3b9to9yft",
+  "name": "all-sort-of",
+  "order": "3",
+  "params": {
+    "noun": "seeables"
+  },
+  "parents": [
+    "relative-pronouns"
+  ],
+  "props": {
+    "en": "'all sorts of '+noun.en",
+    "jp": "'色んな'+noun.jp"
+  }
+}

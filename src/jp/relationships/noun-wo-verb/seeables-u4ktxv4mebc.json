@@ -1,0 +1,13 @@
+{
+  "_id": "4et755fzj53",
+  "name": "seeables-u4ktxv4mebc",
+  "params": {
+    "noun": "seeables",
+    "verb": "do-to-seeables"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

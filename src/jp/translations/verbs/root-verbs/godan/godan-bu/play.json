@@ -1,0 +1,16 @@
+{
+  "_id": "grfbiaezczm",
+  "name": "play",
+  "order": "3",
+  "parents": [
+    "godan-bu",
+    "people-do",
+    "te-iru-verbs-continuous",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "play",
+    "jp": "遊ぶ",
+    "tl": "あそぶ"
+  }
+}

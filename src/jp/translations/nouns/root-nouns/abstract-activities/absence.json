@@ -1,0 +1,13 @@
+{
+  "_id": "6f5jyhzi7wp",
+  "name": "absence",
+  "order": "3",
+  "parents": [
+    "abstract-activities"
+  ],
+  "props": {
+    "en": "absence",
+    "jp": "留守",
+    "tl": "るす"
+  }
+}

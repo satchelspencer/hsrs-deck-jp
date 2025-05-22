@@ -1,0 +1,15 @@
+{
+  "_id": "4ug6pxrf0nr",
+  "name": "na-attributive-noun",
+  "params": {
+    "na": "na-attributive",
+    "noun": "root-nouns"
+  },
+  "parents": [
+    "relationships",
+    "na-predicate-noun"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

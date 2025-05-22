@@ -1,0 +1,16 @@
+{
+  "_id": "2acqstatcmm",
+  "constraint": "verb",
+  "mode": "P",
+  "name": "reru-polite-negative",
+  "params": {
+    "reru": "reru-plain"
+  },
+  "parents": [
+    "reru-form"
+  ],
+  "props": {
+    "en": "reru.en|pr('can', 'can not')",
+    "jp": "reru.jp|r('る', 'ません')"
+  }
+}

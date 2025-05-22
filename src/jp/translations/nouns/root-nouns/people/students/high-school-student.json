@@ -1,0 +1,13 @@
+{
+  "_id": "sw2zkipkcr",
+  "name": "high-school-student",
+  "order": "2",
+  "parents": [
+    "students"
+  ],
+  "props": {
+    "en": "high school student",
+    "jp": "高校生",
+    "tl": "こうこうせい"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "ycs3qd6kp3",
+  "name": "straight-move-it-forward",
+  "params": {
+    "na": "straight",
+    "verb": "move-it-forward"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

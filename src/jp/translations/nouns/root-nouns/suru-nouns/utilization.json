@@ -1,0 +1,14 @@
+{
+  "_id": "wzi11r1dzz",
+  "name": "utilization",
+  "order": "3",
+  "parents": [
+    "suru-nouns",
+    "do-to-establishments"
+  ],
+  "props": {
+    "en": "utilization",
+    "jp": "利用",
+    "tl": "りよう"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "1lhzlk1x7ke",
+  "name": "agonizing-body-parts",
+  "params": {
+    "iadj": "agonizing",
+    "noun": "body-parts"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

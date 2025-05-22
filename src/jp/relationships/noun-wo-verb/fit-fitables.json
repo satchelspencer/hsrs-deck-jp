@@ -1,0 +1,13 @@
+{
+  "_id": "gs8sh35p5m6",
+  "name": "fit-fitables",
+  "params": {
+    "noun": "fitables",
+    "verb": "fit-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

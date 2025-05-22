@@ -1,0 +1,15 @@
+{
+  "_id": "h2fapn5go89",
+  "name": "war",
+  "order": "3",
+  "parents": [
+    "suru-nouns",
+    "people-do",
+    "countries-do"
+  ],
+  "props": {
+    "en": "war",
+    "jp": "戦争",
+    "tl": "せんそう"
+  }
+}

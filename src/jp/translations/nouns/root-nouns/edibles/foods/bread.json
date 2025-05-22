@@ -1,0 +1,15 @@
+{
+  "_id": "ekzh6vm68v5",
+  "name": "bread",
+  "order": "1",
+  "parents": [
+    "foods",
+    "hard-softs",
+    "kire-countable",
+    "roastables"
+  ],
+  "props": {
+    "en": "bread",
+    "jp": "パン"
+  }
+}

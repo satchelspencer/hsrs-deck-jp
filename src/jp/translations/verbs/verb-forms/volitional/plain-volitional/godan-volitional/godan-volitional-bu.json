@@ -1,0 +1,14 @@
+{
+  "_id": "ehox38g0npa",
+  "name": "godan-volitional-bu",
+  "params": {
+    "verb": "godan-bu"
+  },
+  "parents": [
+    "godan-volitional"
+  ],
+  "props": {
+    "en": null,
+    "jp": "verb.jp|r('ぶ', 'ぼう')"
+  }
+}

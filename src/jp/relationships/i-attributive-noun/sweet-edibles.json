@@ -1,0 +1,13 @@
+{
+  "_id": "23csgso7ezb",
+  "name": "sweet-edibles",
+  "params": {
+    "iadj": "sweet",
+    "noun": "edibles"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "yide780wv5",
+  "name": "be-lost",
+  "order": "3",
+  "parents": [
+    "godan-ru",
+    "objects-do",
+    "te-iru-verbs-state",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "be lost",
+    "jp": "無くなる",
+    "tl": "なくなる"
+  }
+}

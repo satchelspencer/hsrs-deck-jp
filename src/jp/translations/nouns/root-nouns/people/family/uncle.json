@@ -1,0 +1,13 @@
+{
+  "_id": "h2rtn5dv3yk",
+  "name": "uncle",
+  "order": "2",
+  "parents": [
+    "family"
+  ],
+  "props": {
+    "en": "uncle",
+    "jp": "伯父さん",
+    "tl": "おじさん"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "cbhi47ya10p",
+  "name": "go-to-come-go-reasons",
+  "params": {
+    "noun": "come-go-reasons",
+    "verb": "go"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "_id": "zdblx19sbmq",
+  "name": "katakana-ma",
+  "parents": [
+    "katakana-ms"
+  ],
+  "props": {
+    "_tl": "ma",
+    "jp": "マ"
+  }
+}

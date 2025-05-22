@@ -1,0 +1,13 @@
+{
+  "_id": "9167hoptyci",
+  "name": "counter-nin-hundred",
+  "params": {
+    "number": "hundred"
+  },
+  "parents": [
+    "counter-nin"
+  ],
+  "props": {
+    "tl": "ひゃく~にん"
+  }
+}

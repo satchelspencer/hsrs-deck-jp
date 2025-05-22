@@ -1,0 +1,13 @@
+{
+  "_id": "g1siu692nwl",
+  "name": "shake",
+  "order": "3",
+  "parents": [
+    "ichidan"
+  ],
+  "props": {
+    "en": "shake",
+    "jp": "揺れる",
+    "tl": "ゆれる"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "_id": "79yq9f525kp",
+  "name": "no-related",
+  "parents": [
+    "root-nouns"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

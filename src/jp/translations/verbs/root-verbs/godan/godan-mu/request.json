@@ -1,0 +1,17 @@
+{
+  "_id": "ubtl3ar1yd",
+  "name": "request",
+  "order": "2",
+  "parents": [
+    "godan-mu",
+    "people-do",
+    "do-to-edibles",
+    "ni-person-verbs",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "en": "request",
+    "jp": "頼む",
+    "tl": "たのむ"
+  }
+}

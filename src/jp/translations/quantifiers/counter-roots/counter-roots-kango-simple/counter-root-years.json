@@ -1,0 +1,15 @@
+{
+  "_id": "zesch7xojr",
+  "name": "counter-root-years",
+  "order": "1",
+  "parents": [
+    "counter-roots-kango-simple",
+    "units",
+    "be-requiredables"
+  ],
+  "props": {
+    "en": "years",
+    "jp": "年",
+    "tl": "ねん"
+  }
+}

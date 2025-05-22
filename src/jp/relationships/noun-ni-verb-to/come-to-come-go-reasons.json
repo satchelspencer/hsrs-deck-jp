@@ -1,0 +1,13 @@
+{
+  "_id": "f3kggikqvue",
+  "name": "come-to-come-go-reasons",
+  "params": {
+    "noun": "playfulness",
+    "verb": "come-go-reasons"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

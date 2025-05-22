@@ -1,0 +1,12 @@
+{
+  "_id": "bcppar6oge",
+  "name": "seeables-do",
+  "parents": [
+    "objects-do"
+  ],
+  "props": {
+    "en": null,
+    "jp": null
+  },
+  "virtual": true
+}

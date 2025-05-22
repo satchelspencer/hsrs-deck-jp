@@ -1,0 +1,13 @@
+{
+  "_id": "655khaadu3w",
+  "name": "wellness-walk",
+  "params": {
+    "na": "wellness",
+    "verb": "walk"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

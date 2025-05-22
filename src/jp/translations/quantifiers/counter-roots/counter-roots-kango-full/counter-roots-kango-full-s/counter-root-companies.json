@@ -1,0 +1,13 @@
+{
+  "_id": "i8v972av57s",
+  "name": "counter-root-companies",
+  "order": "4",
+  "parents": [
+    "counter-roots-kango-full-s"
+  ],
+  "props": {
+    "en": "companies",
+    "jp": "社",
+    "tl": "しゃ"
+  }
+}

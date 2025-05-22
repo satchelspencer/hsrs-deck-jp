@@ -1,0 +1,13 @@
+{
+  "_id": "scj3sh3viy",
+  "name": "katakana-ryu",
+  "params": {
+    "iis": "katakana-ri"
+  },
+  "parents": [
+    "katakana-yoon-yu"
+  ],
+  "props": {
+    "_tl": "ryu"
+  }
+}

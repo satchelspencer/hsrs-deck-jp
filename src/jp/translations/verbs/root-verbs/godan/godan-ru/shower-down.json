@@ -1,0 +1,15 @@
+{
+  "_id": "ih38jm8r9w",
+  "name": "shower-down",
+  "order": "1",
+  "parents": [
+    "godan-ru",
+    "te-iru-verbs-continuous",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "shower down",
+    "jp": "降る",
+    "tl": "ふる"
+  }
+}

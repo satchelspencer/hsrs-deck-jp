@@ -1,0 +1,14 @@
+{
+  "_id": "109y89abvruq",
+  "mode": "p",
+  "name": "breakfast-formal",
+  "order": "3",
+  "parents": [
+    "meals"
+  ],
+  "props": {
+    "en": "breakfast",
+    "jp": "朝食",
+    "tl": "ちょうしょく"
+  }
+}

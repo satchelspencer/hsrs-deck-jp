@@ -1,0 +1,13 @@
+{
+  "_id": "ytzaj4hmatd",
+  "name": "sufficient-consider",
+  "params": {
+    "na": "sufficient",
+    "verb": "consider"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

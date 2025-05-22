@@ -1,0 +1,13 @@
+{
+  "_id": "wkodoergsvm",
+  "name": "godan-reru-mu",
+  "params": {
+    "verb": "godan-mu"
+  },
+  "parents": [
+    "godan-reru"
+  ],
+  "props": {
+    "jp": "verb.jp|r('む', 'める')"
+  }
+}

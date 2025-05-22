@@ -1,0 +1,13 @@
+{
+  "_id": "gm69ovlposa",
+  "name": "future",
+  "order": "3",
+  "parents": [
+    "ni-future-times"
+  ],
+  "props": {
+    "en": "future",
+    "jp": "将来",
+    "tl": "しょうらい"
+  }
+}

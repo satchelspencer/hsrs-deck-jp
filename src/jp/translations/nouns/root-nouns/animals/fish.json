@@ -1,0 +1,15 @@
+{
+  "_id": "bewragong1",
+  "name": "fish",
+  "order": "1",
+  "parents": [
+    "animals",
+    "hiki-countable",
+    "foods"
+  ],
+  "props": {
+    "en": "fish",
+    "jp": "魚",
+    "tl": "さかな"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "ql1ksgvupuf",
+  "name": "manufacturing industry",
+  "order": "4",
+  "parents": [
+    "country-no"
+  ],
+  "props": {
+    "en": "manufacturing industry",
+    "jp": "工業",
+    "tl": "こうぎょう"
+  }
+}

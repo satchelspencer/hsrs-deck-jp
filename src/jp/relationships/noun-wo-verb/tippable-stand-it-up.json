@@ -1,0 +1,13 @@
+{
+  "_id": "ybdrk6f1ux",
+  "name": "tippable-stand-it-up",
+  "params": {
+    "noun": "tippable",
+    "verb": "stand-it-up"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

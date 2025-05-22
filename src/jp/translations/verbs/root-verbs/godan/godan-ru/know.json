@@ -1,0 +1,19 @@
+{
+  "_id": "qdmhp7eo0w",
+  "name": "know",
+  "order": "3",
+  "parents": [
+    "godan-ru",
+    "people-do",
+    "do-to-places",
+    "do-to-learnables",
+    "do-to-people",
+    "te-iru-verbs-state",
+    "info-verbs"
+  ],
+  "props": {
+    "en": "know",
+    "jp": "知る",
+    "tl": "しる"
+  }
+}

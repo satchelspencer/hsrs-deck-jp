@@ -1,0 +1,15 @@
+{
+  "_id": "gv8e2g3620l",
+  "name": "be-decided",
+  "order": "3",
+  "parents": [
+    "godan-ru",
+    "choices-do",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "en": "be decided",
+    "jp": "決まる",
+    "tl": "きまる"
+  }
+}

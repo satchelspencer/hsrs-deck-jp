@@ -1,0 +1,15 @@
+{
+  "_id": "8m5mjs0kkm",
+  "name": "manga",
+  "order": "3",
+  "parents": [
+    "media",
+    "products",
+    "readables"
+  ],
+  "props": {
+    "en": "manga",
+    "jp": "漫画",
+    "tl": "まんが"
+  }
+}

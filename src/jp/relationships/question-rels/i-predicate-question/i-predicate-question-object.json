@@ -1,0 +1,13 @@
+{
+  "_id": "iofnrzz50uc",
+  "name": "i-predicate-question-object",
+  "params": {
+    "iadj": "i-objects",
+    "qw": "object-question-words"
+  },
+  "parents": [
+    "i-predicate-question"
+  ],
+  "props": {
+  }
+}

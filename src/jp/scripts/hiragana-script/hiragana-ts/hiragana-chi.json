@@ -1,0 +1,12 @@
+{
+  "_id": "q2zbxs398q",
+  "name": "hiragana-chi",
+  "parents": [
+    "hiragana-ts",
+    "hiragana-iis"
+  ],
+  "props": {
+    "_tl": "chi",
+    "jp": "ち"
+  }
+}

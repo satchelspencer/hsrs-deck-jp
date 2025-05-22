@@ -1,0 +1,13 @@
+{
+  "_id": "83fji5oud6y",
+  "name": "pond",
+  "order": "3",
+  "parents": [
+    "absolute-places"
+  ],
+  "props": {
+    "en": "pond",
+    "jp": "池",
+    "tl": "いけ"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "ds089eccrpt",
+  "name": "care-about",
+  "order": "3",
+  "parents": [
+    "godan-u",
+    "people-do",
+    "ni-person-verbs",
+    "ni-at-activities-verbs"
+  ],
+  "props": {
+    "en": "care-about",
+    "jp": "構う",
+    "tl": "かまう"
+  }
+}

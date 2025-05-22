@@ -1,0 +1,13 @@
+{
+  "_id": "59unlvtpd97",
+  "name": "both-sides",
+  "order": "3",
+  "parents": [
+    "positional-words"
+  ],
+  "props": {
+    "en": "both sides",
+    "jp": "両方",
+    "tl": "りょうほう"
+  }
+}

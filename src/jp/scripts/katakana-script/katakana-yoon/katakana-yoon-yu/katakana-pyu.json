@@ -1,0 +1,13 @@
+{
+  "_id": "ns9j7ffl5n",
+  "name": "katakana-pyu",
+  "params": {
+    "iis": "katakana-pi"
+  },
+  "parents": [
+    "katakana-yoon-yu"
+  ],
+  "props": {
+    "_tl": "pyu"
+  }
+}

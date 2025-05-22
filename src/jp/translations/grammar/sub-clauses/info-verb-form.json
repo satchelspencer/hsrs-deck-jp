@@ -1,0 +1,17 @@
+{
+  "_id": "bfnao3cpv0e",
+  "constraint": "verb",
+  "name": "info-verb-form",
+  "order": "3",
+  "params": {
+    "form": "verb-forms",
+    "verb": "info-verbs"
+  },
+  "parents": [
+    "sub-clauses"
+  ],
+  "props": {
+    "en": "form.en",
+    "jp": "form.jp"
+  }
+}

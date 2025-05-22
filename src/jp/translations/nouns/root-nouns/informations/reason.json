@@ -1,0 +1,13 @@
+{
+  "_id": "islhlokgdzk",
+  "name": "reason",
+  "order": "2",
+  "parents": [
+    "informations"
+  ],
+  "props": {
+    "en": "reason",
+    "jp": "理由",
+    "tl": "りゆう"
+  }
+}

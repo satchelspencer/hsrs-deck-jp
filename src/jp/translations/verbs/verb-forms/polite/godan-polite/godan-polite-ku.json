@@ -1,0 +1,14 @@
+{
+  "_id": "t4e7fa8u2nj",
+  "name": "godan-polite-ku",
+  "params": {
+    "verb": "godan-ku"
+  },
+  "parents": [
+    "godan-polite"
+  ],
+  "props": {
+    "en": null,
+    "jp": "verb.jp|r('く', 'きます')"
+  }
+}

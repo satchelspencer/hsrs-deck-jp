@@ -1,0 +1,14 @@
+{
+  "_id": "nfb0irg9pjp",
+  "name": "the-weather",
+  "order": "1",
+  "parents": [
+    "weather",
+    "hot-cold-weather"
+  ],
+  "props": {
+    "en": "the weather",
+    "jp": "天気",
+    "tl": "てんき"
+  }
+}

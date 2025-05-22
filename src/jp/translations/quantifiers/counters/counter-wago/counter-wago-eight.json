@@ -1,0 +1,14 @@
+{
+  "_id": "vusdwg16prb",
+  "name": "counter-wago-eight",
+  "params": {
+    "number": "eight"
+  },
+  "parents": [
+    "counter-wago"
+  ],
+  "props": {
+    "en": null,
+    "jp": "やっつ"
+  }
+}

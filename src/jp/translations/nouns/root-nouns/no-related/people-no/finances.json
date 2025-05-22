@@ -1,0 +1,13 @@
+{
+  "_id": "rmsjx4wasfl",
+  "name": "finances",
+  "order": "3",
+  "parents": [
+    "people-no"
+  ],
+  "props": {
+    "en": "finances",
+    "jp": "経済",
+    "tl": "けいざい"
+  }
+}

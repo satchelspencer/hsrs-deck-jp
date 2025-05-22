@@ -1,0 +1,13 @@
+{
+  "_id": "2n91e88m4k6",
+  "name": "oxygen",
+  "order": "5",
+  "parents": [
+    "inhaleables"
+  ],
+  "props": {
+    "en": "oxygen",
+    "jp": "酸素",
+    "tl": "さんそ"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "x2smudp2j8s",
+  "name": "door",
+  "order": "1",
+  "parents": [
+    "objects",
+    "akeru-shimeru",
+    "pullables"
+  ],
+  "props": {
+    "en": "door",
+    "jp": "ドア"
+  }
+}

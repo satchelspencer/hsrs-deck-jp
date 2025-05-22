@@ -1,0 +1,17 @@
+{
+  "_id": "ectf1ucu00o",
+  "name": "cheer-it-up",
+  "order": "3",
+  "parents": [
+    "godan-su",
+    "people-do",
+    "do-to-people",
+    "te-iru-verbs-continuous",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "cheer it up",
+    "jp": "励ます",
+    "tl": "はげます"
+  }
+}

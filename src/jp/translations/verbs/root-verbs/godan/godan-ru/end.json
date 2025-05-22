@@ -1,0 +1,14 @@
+{
+  "_id": "beynniyoa6b",
+  "name": "end",
+  "order": "2",
+  "parents": [
+    "godan-ru",
+    "events-do"
+  ],
+  "props": {
+    "en": "end",
+    "jp": "終わる",
+    "tl": "おわる"
+  }
+}

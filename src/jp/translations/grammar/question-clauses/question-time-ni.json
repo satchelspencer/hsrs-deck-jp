@@ -1,0 +1,18 @@
+{
+  "_id": "izhzwk6ejpj",
+  "constraint": "form",
+  "name": "question-time-ni",
+  "order": "2",
+  "params": {
+    "clause": "temporal-verb-clauses",
+    "form": "verb-ka",
+    "qw": "time-question-words"
+  },
+  "parents": [
+    "question-clauses"
+  ],
+  "props": {
+    "en": "qw.en+' '+clause.en",
+    "jp": "qw.jp+'に'+clause.jp"
+  }
+}

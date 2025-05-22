@@ -1,0 +1,13 @@
+{
+  "_id": "vnxod5e9lc",
+  "name": "robust-body-parts",
+  "params": {
+    "na": "robust",
+    "noun": "body-parts"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

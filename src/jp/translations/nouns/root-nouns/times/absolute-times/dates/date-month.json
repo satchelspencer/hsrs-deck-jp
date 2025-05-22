@@ -1,0 +1,17 @@
+{
+  "_id": "n8wm0atybqh",
+  "name": "date-month",
+  "order": "1",
+  "params": {
+    "month": "counter-months"
+  },
+  "parents": [
+    "dates",
+    "ni-any-times"
+  ],
+  "props": {
+    "en": "month.en",
+    "jp": "month.number.en+'月'",
+    "tl": "month.tl"
+  }
+}

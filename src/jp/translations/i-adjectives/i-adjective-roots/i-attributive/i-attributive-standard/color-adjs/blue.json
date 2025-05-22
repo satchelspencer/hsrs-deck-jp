@@ -1,0 +1,13 @@
+{
+  "_id": "xbrthbiid9",
+  "name": "blue",
+  "order": "2",
+  "parents": [
+    "color-adjs"
+  ],
+  "props": {
+    "en": "blue",
+    "jp": "青い",
+    "tl": "あおい"
+  }
+}

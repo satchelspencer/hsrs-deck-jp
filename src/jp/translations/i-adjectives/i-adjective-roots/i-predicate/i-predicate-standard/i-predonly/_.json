@@ -1,0 +1,10 @@
+{
+  "_id": "4r0crwocm5s",
+  "name": "i-predonly",
+  "parents": [
+    "i-predicate-standard"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

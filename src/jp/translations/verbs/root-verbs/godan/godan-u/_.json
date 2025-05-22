@@ -1,0 +1,10 @@
+{
+  "_id": "abskpy89g04",
+  "name": "godan-u",
+  "parents": [
+    "godan"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

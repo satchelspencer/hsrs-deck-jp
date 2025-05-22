@@ -1,0 +1,10 @@
+{
+  "_id": "bnj5i3w6ru",
+  "name": "eating-utensils",
+  "parents": [
+    "tools"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

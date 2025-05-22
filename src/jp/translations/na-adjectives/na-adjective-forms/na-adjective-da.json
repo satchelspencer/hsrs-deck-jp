@@ -1,0 +1,19 @@
+{
+  "_id": "luv8rvfua8l",
+  "mode": "c",
+  "name": "na-adjective-da",
+  "order": "1",
+  "params": {
+    "na": "na-attributive"
+  },
+  "parents": [
+    "na-adjective-forms",
+    "na-predicate-forms",
+    "yo-ne-na-forms",
+    "conjunctive-na-forms"
+  ],
+  "props": {
+    "en": "'is '+na.en",
+    "jp": "na.jp+'だ'"
+  }
+}

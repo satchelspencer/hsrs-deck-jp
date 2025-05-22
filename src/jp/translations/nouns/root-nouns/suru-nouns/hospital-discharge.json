@@ -1,0 +1,14 @@
+{
+  "_id": "ykw9c6gjf3n",
+  "name": "hospital-discharge",
+  "order": "3",
+  "parents": [
+    "suru-nouns",
+    "people-do"
+  ],
+  "props": {
+    "en": "hospital discharge",
+    "jp": "退院",
+    "tl": "たいいん"
+  }
+}

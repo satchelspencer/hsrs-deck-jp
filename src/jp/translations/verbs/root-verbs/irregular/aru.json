@@ -1,0 +1,13 @@
+{
+  "_id": "y8ciz8yzdvq",
+  "name": "aru",
+  "order": "1",
+  "parents": [
+    "irregular",
+    "ni-at-verbs"
+  ],
+  "props": {
+    "en": "exist",
+    "jp": "ある"
+  }
+}

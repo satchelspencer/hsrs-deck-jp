@@ -1,0 +1,20 @@
+{
+  "_id": "ylwabjlax1",
+  "name": "magazine",
+  "order": "3",
+  "parents": [
+    "objects",
+    "products",
+    "readables",
+    "hiraku-tojiru",
+    "writeables",
+    "media",
+    "thins",
+    "satsu-countable"
+  ],
+  "props": {
+    "en": "magazine",
+    "jp": "雑誌",
+    "tl": "ざっし"
+  }
+}

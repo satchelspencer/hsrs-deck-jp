@@ -1,0 +1,14 @@
+{
+  "_id": "dqt4sakm1q",
+  "name": "tooth",
+  "order": "2",
+  "parents": [
+    "body-parts",
+    "polishables"
+  ],
+  "props": {
+    "en": "tooth",
+    "jp": "歯",
+    "tl": "は"
+  }
+}

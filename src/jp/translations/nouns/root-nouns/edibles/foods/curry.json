@@ -1,0 +1,13 @@
+{
+  "_id": "n2wmnogibt",
+  "name": "curry",
+  "order": "1",
+  "parents": [
+    "foods"
+  ],
+  "props": {
+    "en": "curry",
+    "jp": "カレー",
+    "tl": "かれー"
+  }
+}

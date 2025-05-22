@@ -1,0 +1,13 @@
+{
+  "_id": "ra74s5aqqnk",
+  "name": "fine-divide",
+  "params": {
+    "iadj": "fine",
+    "verb": "divide"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "xajtm3nojx",
+  "name": "cheap-products",
+  "params": {
+    "iadj": "cheap",
+    "noun": "products"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

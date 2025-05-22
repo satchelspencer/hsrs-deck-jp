@@ -1,0 +1,12 @@
+{
+  "_id": "yoqk08wc3r",
+  "name": "do-to-people",
+  "parents": [
+    "people-do"
+  ],
+  "props": {
+    "en": null,
+    "jp": null
+  },
+  "virtual": true
+}

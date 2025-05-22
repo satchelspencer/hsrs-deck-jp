@@ -1,0 +1,13 @@
+{
+  "_id": "6jbpixxpard",
+  "name": "arabic",
+  "order": "3",
+  "parents": [
+    "languages"
+  ],
+  "props": {
+    "en": "arabic",
+    "jp": "アラビア語",
+    "tl": "あらびあご"
+  }
+}

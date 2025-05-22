@@ -1,0 +1,13 @@
+{
+  "_id": "f59qu0wn8jp",
+  "name": "small-be-seen",
+  "params": {
+    "iadj": "small",
+    "verb": "be-seen"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

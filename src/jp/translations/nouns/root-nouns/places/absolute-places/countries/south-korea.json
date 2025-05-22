@@ -1,0 +1,13 @@
+{
+  "_id": "o7n3na4rsd8",
+  "name": "south-korea",
+  "order": "1",
+  "parents": [
+    "countries"
+  ],
+  "props": {
+    "en": "south korea",
+    "jp": "韓国",
+    "tl": "かんこく"
+  }
+}

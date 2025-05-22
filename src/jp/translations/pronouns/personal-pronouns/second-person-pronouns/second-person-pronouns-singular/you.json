@@ -1,0 +1,13 @@
+{
+  "_id": "wt93qbtzhqk",
+  "mode": "--r",
+  "name": "you",
+  "order": "1",
+  "parents": [
+    "second-person-pronouns-singular"
+  ],
+  "props": {
+    "en": "you",
+    "jp": "あなた"
+  }
+}

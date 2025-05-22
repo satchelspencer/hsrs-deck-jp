@@ -1,0 +1,14 @@
+{
+  "_id": "b6myfe5x4fc",
+  "name": "counter-wago-nine",
+  "params": {
+    "number": "nine"
+  },
+  "parents": [
+    "counter-wago"
+  ],
+  "props": {
+    "en": null,
+    "jp": "ここのつ"
+  }
+}

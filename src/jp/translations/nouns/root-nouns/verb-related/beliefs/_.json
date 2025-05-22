@@ -1,0 +1,10 @@
+{
+  "_id": "c9gkv1u65v",
+  "name": "beliefs",
+  "parents": [
+    "verb-related"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

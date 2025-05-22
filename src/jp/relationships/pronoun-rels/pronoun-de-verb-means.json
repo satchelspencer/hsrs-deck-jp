@@ -1,0 +1,13 @@
+{
+  "_id": "5zozlhtoqtd",
+  "name": "pronoun-de-verb-means",
+  "params": {
+    "pn": "object-pronouns",
+    "verb": "de-object-verbs"
+  },
+  "parents": [
+    "pronoun-rels"
+  ],
+  "props": {
+  }
+}

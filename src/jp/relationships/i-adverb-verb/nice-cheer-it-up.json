@@ -1,0 +1,13 @@
+{
+  "_id": "3gsf67tc6qh",
+  "name": "nice-cheer-it-up",
+  "params": {
+    "iadj": "nice",
+    "verb": "cheer-it-up"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "j1f55n1nqdf",
+  "name": "reply",
+  "order": "3",
+  "parents": [
+    "suru-nouns",
+    "people-do",
+    "informations",
+    "audibles"
+  ],
+  "props": {
+    "en": "reply",
+    "jp": "返事",
+    "tl": "へんじ"
+  }
+}

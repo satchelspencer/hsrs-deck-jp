@@ -1,0 +1,14 @@
+{
+  "_id": "niqde5ne7t",
+  "name": "i-predonly-noun",
+  "params": {
+    "iadj": "i-predonly",
+    "noun": "root-nouns"
+  },
+  "parents": [
+    "i-predicate-noun"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

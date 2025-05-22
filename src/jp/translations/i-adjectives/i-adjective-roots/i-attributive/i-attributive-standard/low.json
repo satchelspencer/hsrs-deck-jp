@@ -1,0 +1,13 @@
+{
+  "_id": "htggvmnba45",
+  "name": "low",
+  "order": "2",
+  "parents": [
+    "i-attributive-standard"
+  ],
+  "props": {
+    "en": "low",
+    "jp": "低い",
+    "tl": "ひくい"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "zig8mbh86vm",
+  "name": "cute-dance",
+  "params": {
+    "iadj": "cute",
+    "verb": "dance"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

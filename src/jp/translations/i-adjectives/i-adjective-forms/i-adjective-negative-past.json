@@ -1,0 +1,20 @@
+{
+  "_id": "aq17rzu4b4k",
+  "constraint": "iadj",
+  "name": "i-adjective-negative-past",
+  "order": "3",
+  "params": {
+    "ku": "i-adjective-ku"
+  },
+  "parents": [
+    "i-adjective-forms",
+    "i-desu-forms",
+    "i-nda-forms",
+    "i-yo-ne-forms",
+    "i-conjunctive-forms"
+  ],
+  "props": {
+    "en": "'was not '+ku.en|r('-ly', '')",
+    "jp": "ku.jp|r('く', 'くなかった')"
+  }
+}

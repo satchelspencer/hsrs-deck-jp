@@ -1,0 +1,12 @@
+{
+  "_id": "s07ubk3o1bp",
+  "name": "na-adjective-forms",
+  "parents": [
+    "na-adjectives"
+  ],
+  "props": {
+    "en": null,
+    "jp": null
+  },
+  "virtual": true
+}

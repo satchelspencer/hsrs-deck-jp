@@ -1,0 +1,10 @@
+{
+  "_id": "97aeayw6mhf",
+  "name": "reservables",
+  "parents": [
+    "verb-related"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

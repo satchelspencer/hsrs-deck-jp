@@ -1,0 +1,10 @@
+{
+  "_id": "ub6rt29v4zq",
+  "name": "na-activities-predonly",
+  "parents": [
+    "na-predonly"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

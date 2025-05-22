@@ -1,0 +1,13 @@
+{
+  "_id": "75zxlohh0c3",
+  "name": "godan-ba-nu",
+  "params": {
+    "verb": "godan-nu"
+  },
+  "parents": [
+    "godan-ba"
+  ],
+  "props": {
+    "jp": "verb.jp|r('ぬ', 'ねば')"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "1rx9dsnbg2l",
+  "name": "food",
+  "order": "1",
+  "parents": [
+    "foods",
+    "quantities"
+  ],
+  "props": {
+    "en": "food",
+    "jp": "食べ物",
+    "tl": "たべもの"
+  }
+}

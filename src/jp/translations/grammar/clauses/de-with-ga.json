@@ -1,0 +1,17 @@
+{
+  "_id": "bhw38m1ngoh",
+  "constraint": "verb form",
+  "name": "de-with-ga",
+  "order": "2",
+  "params": {
+    "de": "noun-de-with",
+    "ga": "noun-ga-sub"
+  },
+  "parents": [
+    "clauses"
+  ],
+  "props": {
+    "en": "'with '+de.rel.noun.en+', '+ga.en",
+    "jp": "de.rel.noun.jp+'で'+ga.jp"
+  }
+}

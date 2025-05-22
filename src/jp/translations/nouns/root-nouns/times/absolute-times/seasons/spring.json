@@ -1,0 +1,12 @@
+{
+  "_id": "fn9p2fluasi",
+  "name": "spring",
+  "parents": [
+    "seasons"
+  ],
+  "props": {
+    "en": "spring",
+    "jp": "春",
+    "tl": "はる"
+  }
+}

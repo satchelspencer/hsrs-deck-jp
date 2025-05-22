@@ -1,0 +1,15 @@
+{
+  "_id": "mg7i88v89tn",
+  "name": "hiragana-bi",
+  "params": {
+    "h": "hiragana-hi"
+  },
+  "parents": [
+    "hiragana-bs",
+    "hiragana-iis"
+  ],
+  "props": {
+    "_tl": "bi",
+    "jp": "び"
+  }
+}

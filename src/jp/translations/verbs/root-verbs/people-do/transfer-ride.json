@@ -1,0 +1,16 @@
+{
+  "_id": "qdw47ex6hz8",
+  "name": "transfer-ride",
+  "order": "1",
+  "parents": [
+    "people-do",
+    "do-to-transports",
+    "te-iru-verbs-state",
+    "ichidan"
+  ],
+  "props": {
+    "en": "transfer ride",
+    "jp": "乗り換える",
+    "tl": "のりかえる"
+  }
+}

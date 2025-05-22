@@ -1,0 +1,16 @@
+{
+  "_id": "rqclup6924i",
+  "name": "year-month",
+  "order": "2",
+  "params": {
+    "month": "date-month",
+    "year": "date-year"
+  },
+  "parents": [
+    "dates"
+  ],
+  "props": {
+    "en": "month.en+' '+year.en",
+    "jp": "year.jp+month.jp"
+  }
+}

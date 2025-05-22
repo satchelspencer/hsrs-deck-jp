@@ -1,0 +1,15 @@
+{
+  "_id": "i0bkp0o2b7s",
+  "name": "wrap-it",
+  "order": "3",
+  "parents": [
+    "godan-mu",
+    "people-do",
+    "do-to-objects"
+  ],
+  "props": {
+    "en": "wrap it",
+    "jp": "包む",
+    "tl": "つつむ"
+  }
+}

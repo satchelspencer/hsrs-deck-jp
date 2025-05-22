@@ -1,0 +1,15 @@
+{
+  "_id": "48fbr4a82vs",
+  "name": "head",
+  "order": "1",
+  "parents": [
+    "body-parts",
+    "waveables",
+    "raisables"
+  ],
+  "props": {
+    "en": "head",
+    "jp": "頭",
+    "tl": "あたま"
+  }
+}

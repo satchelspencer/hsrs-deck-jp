@@ -1,0 +1,18 @@
+{
+  "_id": "edkqnd59dk",
+  "constraint": "form verb",
+  "name": "time-amount-de-clause",
+  "order": "4",
+  "params": {
+    "amount": "time-amounts",
+    "clause": "temporal-verb-clauses",
+    "form": "non-past-dict-forms"
+  },
+  "parents": [
+    "complex-clauses"
+  ],
+  "props": {
+    "en": "'in '+amount.en+' '+clause.en",
+    "jp": "amount.jp+'で'+clause.jp"
+  }
+}

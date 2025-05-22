@@ -1,0 +1,13 @@
+{
+  "_id": "wf385qmun3l",
+  "name": "strict-studies",
+  "params": {
+    "iadj": "strict",
+    "verb": "studies"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "59iqzvthnfx",
+  "name": "hiragana-pya",
+  "params": {
+    "iis": "hiragana-pi"
+  },
+  "parents": [
+    "hiragana-yoon-ya"
+  ],
+  "props": {
+    "_tl": "pya",
+    "jp": "iis.jp+'ゃ'"
+  }
+}

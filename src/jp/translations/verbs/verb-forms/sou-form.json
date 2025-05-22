@@ -1,0 +1,19 @@
+{
+  "_id": "tv148zali0r",
+  "constraint": "verb",
+  "mode": "C",
+  "name": "sou-form",
+  "order": "4",
+  "params": {
+    "polite": "polite",
+    "rel": "people-do"
+  },
+  "parents": [
+    "verb-forms",
+    "ka-verb-forms"
+  ],
+  "props": {
+    "en": "'looks like will '+polite.en",
+    "jp": "polite.jp|r('ます', 'そう')"
+  }
+}

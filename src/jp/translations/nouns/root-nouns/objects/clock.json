@@ -1,0 +1,13 @@
+{
+  "_id": "o3j6i47er8f",
+  "name": "clock",
+  "order": "3",
+  "parents": [
+    "objects"
+  ],
+  "props": {
+    "en": "clock",
+    "jp": "時計",
+    "tl": "とけい"
+  }
+}

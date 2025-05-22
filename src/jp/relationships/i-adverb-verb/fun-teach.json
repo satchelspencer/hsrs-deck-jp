@@ -1,0 +1,13 @@
+{
+  "_id": "9uben5nex4a",
+  "name": "fun-teach",
+  "params": {
+    "iadj": "fun",
+    "verb": "teach"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "l6e353ij6d",
+  "name": "cooked-rice",
+  "order": "1",
+  "parents": [
+    "foods",
+    "heated-edibles"
+  ],
+  "props": {
+    "en": "cooked rice",
+    "jp": "ご飯",
+    "tl": "ごはん"
+  }
+}

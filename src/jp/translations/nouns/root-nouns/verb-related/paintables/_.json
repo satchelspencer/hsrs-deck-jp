@@ -1,0 +1,10 @@
+{
+  "_id": "dntdxp6uiy",
+  "name": "paintables",
+  "parents": [
+    "verb-related"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

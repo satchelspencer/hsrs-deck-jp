@@ -1,0 +1,14 @@
+{
+  "_id": "t0vcc8hm3gf",
+  "name": "godan-past-gu",
+  "params": {
+    "verb": "godan-gu"
+  },
+  "parents": [
+    "godan-past"
+  ],
+  "props": {
+    "en": null,
+    "jp": "verb.jp|r('ぐ', 'いだ')"
+  }
+}

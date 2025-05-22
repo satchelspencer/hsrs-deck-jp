@@ -1,0 +1,13 @@
+{
+  "_id": "4uujggvhawl",
+  "name": "a-dance",
+  "order": "3",
+  "parents": [
+    "activities"
+  ],
+  "props": {
+    "en": "a dance",
+    "jp": "踊り",
+    "tl": "おどり"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "_id": "c02tidutbwh",
+  "name": "knife",
+  "order": "3",
+  "parents": [
+    "cutting-utensils"
+  ],
+  "props": {
+    "en": "knife",
+    "jp": "ナイフ"
+  }
+}

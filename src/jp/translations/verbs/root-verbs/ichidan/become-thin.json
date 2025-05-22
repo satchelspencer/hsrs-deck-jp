@@ -1,0 +1,15 @@
+{
+  "_id": "ctsdgvjsr2w",
+  "name": "become-thin",
+  "order": "3",
+  "parents": [
+    "ichidan",
+    "people-do",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "en": "become thin",
+    "jp": "痩せる",
+    "tl": "やせる"
+  }
+}

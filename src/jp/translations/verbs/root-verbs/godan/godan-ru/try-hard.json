@@ -1,0 +1,16 @@
+{
+  "_id": "1812hnjp6xz",
+  "name": "try-hard",
+  "order": "1",
+  "parents": [
+    "godan-ru",
+    "people-do",
+    "te-iru-verbs-continuous",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "try hard",
+    "jp": "頑張る",
+    "tl": "がんばる"
+  }
+}

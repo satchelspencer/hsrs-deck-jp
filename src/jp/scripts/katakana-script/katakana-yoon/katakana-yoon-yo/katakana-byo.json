@@ -1,0 +1,13 @@
+{
+  "_id": "7vmx9bunwvc",
+  "name": "katakana-byo",
+  "params": {
+    "iis": "katakana-bi"
+  },
+  "parents": [
+    "katakana-yoon-yo"
+  ],
+  "props": {
+    "_tl": "byo"
+  }
+}

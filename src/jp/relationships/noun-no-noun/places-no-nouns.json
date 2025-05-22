@@ -1,0 +1,13 @@
+{
+  "_id": "iokowssnpbr",
+  "name": "places-no-nouns",
+  "params": {
+    "noun": "places-no",
+    "owner": "places"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

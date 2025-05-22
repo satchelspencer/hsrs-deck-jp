@@ -1,0 +1,13 @@
+{
+  "_id": "10rrj1kvcvls",
+  "name": "below",
+  "order": "2",
+  "parents": [
+    "positional-words"
+  ],
+  "props": {
+    "en": "below",
+    "jp": "下",
+    "tl": "した"
+  }
+}

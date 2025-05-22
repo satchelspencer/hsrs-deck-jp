@@ -1,0 +1,15 @@
+{
+  "_id": "8pulscu4a28",
+  "name": "start-it",
+  "order": "2",
+  "parents": [
+    "people-do",
+    "te-iru-verbs-continuous",
+    "ichidan"
+  ],
+  "props": {
+    "en": "start it",
+    "jp": "始める",
+    "tl": "はじめる"
+  }
+}

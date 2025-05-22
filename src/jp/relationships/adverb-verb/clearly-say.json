@@ -1,0 +1,13 @@
+{
+  "_id": "nz5705ffstq",
+  "name": "clearly-say",
+  "params": {
+    "adv": "clearly",
+    "verb": "say"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

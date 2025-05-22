@@ -1,0 +1,18 @@
+{
+  "_id": "t65jpb5zqbm",
+  "constraint": "verb",
+  "mode": "c",
+  "name": "reru-negative",
+  "params": {
+    "reru": "reru-plain"
+  },
+  "parents": [
+    "reru-form",
+    "relative-clause-verb-forms",
+    "nda-verb-forms"
+  ],
+  "props": {
+    "en": "reru.en|pr('can', 'can not')",
+    "jp": "reru.jp|r('る', 'ない')"
+  }
+}

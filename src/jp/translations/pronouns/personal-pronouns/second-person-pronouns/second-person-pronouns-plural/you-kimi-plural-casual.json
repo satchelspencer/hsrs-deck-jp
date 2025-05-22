@@ -1,0 +1,16 @@
+{
+  "_id": "chiamebyuth",
+  "mode": "c-s",
+  "name": "you-kimi-plural-casual",
+  "params": {
+    "pronoun": "you-kimi"
+  },
+  "parents": [
+    "second-person-pronouns-plural"
+  ],
+  "props": {
+    "en": "you all",
+    "jp": "君ら",
+    "tl": "きみら"
+  }
+}

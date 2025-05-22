@@ -1,0 +1,13 @@
+{
+  "_id": "251iahzfqce",
+  "name": "kindness",
+  "order": "3",
+  "parents": [
+    "na-people"
+  ],
+  "props": {
+    "en": "kindness",
+    "jp": "親切",
+    "tl": "しんせつ"
+  }
+}

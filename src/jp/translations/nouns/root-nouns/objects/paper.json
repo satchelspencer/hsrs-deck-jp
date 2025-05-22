@@ -1,0 +1,18 @@
+{
+  "_id": "w4swicjtkms",
+  "name": "paper",
+  "order": "1",
+  "parents": [
+    "objects",
+    "cuttables",
+    "fines",
+    "thins",
+    "mai-countable",
+    "building-materials"
+  ],
+  "props": {
+    "en": "paper",
+    "jp": "紙",
+    "tl": "かみ"
+  }
+}

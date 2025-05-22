@@ -1,0 +1,13 @@
+{
+  "_id": "rgfoamhzx7h",
+  "name": "counter-root-battles",
+  "order": "5",
+  "parents": [
+    "counter-roots-kango-full-s"
+  ],
+  "props": {
+    "en": "battles",
+    "jp": "戦",
+    "tl": "せん"
+  }
+}

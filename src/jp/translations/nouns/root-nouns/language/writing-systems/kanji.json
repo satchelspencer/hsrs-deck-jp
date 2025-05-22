@@ -1,0 +1,14 @@
+{
+  "_id": "93vz341qauw",
+  "name": "kanji",
+  "order": "3",
+  "parents": [
+    "writing-systems",
+    "writeables"
+  ],
+  "props": {
+    "en": "kanji",
+    "jp": "漢字",
+    "tl": "かんじ"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "jj9t870azic",
+  "constraint": "noun",
+  "name": "relative-clause-clause",
+  "order": "4",
+  "params": {
+    "clause": "const-noun-clauses",
+    "rel": "relative-clauses"
+  },
+  "parents": [
+    "complex-clauses"
+  ],
+  "props": {
+    "en": "clause.en|rg(rel.clause.rel.noun.en, rel.en)",
+    "jp": "clause.jp|rg(rel.clause.rel.noun.jp, rel.jp)"
+  }
+}

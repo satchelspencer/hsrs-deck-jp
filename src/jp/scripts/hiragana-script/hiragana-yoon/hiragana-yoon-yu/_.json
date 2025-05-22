@@ -1,0 +1,11 @@
+{
+  "_id": "ad2ipm8975r",
+  "name": "hiragana-yoon-yu",
+  "parents": [
+    "hiragana-yoon"
+  ],
+  "props": {
+    "jp": "iis.jp+'ゅ'"
+  },
+  "virtual": true
+}

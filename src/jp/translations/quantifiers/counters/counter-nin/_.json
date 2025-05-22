@@ -1,0 +1,17 @@
+{
+  "_id": "vx9zm9l671",
+  "name": "counter-nin",
+  "order": "3",
+  "params": {
+    "root": "people-counter"
+  },
+  "parents": [
+    "counters"
+  ],
+  "props": {
+    "en": "number.en+' people'",
+    "jp": "number.jp+'人'",
+    "tl": ""
+  },
+  "virtual": true
+}

@@ -1,0 +1,15 @@
+{
+  "_id": "jj1mkgnstz",
+  "name": "steal",
+  "order": "3",
+  "parents": [
+    "godan-mu",
+    "people-do",
+    "do-to-products"
+  ],
+  "props": {
+    "en": "steal",
+    "jp": "盗む",
+    "tl": "ぬすむ"
+  }
+}

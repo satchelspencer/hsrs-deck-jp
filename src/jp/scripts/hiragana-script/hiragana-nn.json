@@ -1,0 +1,11 @@
+{
+  "_id": "3jap39u1z4l",
+  "name": "hiragana-nn",
+  "parents": [
+    "hiragana-script"
+  ],
+  "props": {
+    "_tl": "n",
+    "jp": "ん"
+  }
+}

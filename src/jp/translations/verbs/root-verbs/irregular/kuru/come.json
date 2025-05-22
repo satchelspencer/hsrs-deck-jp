@@ -1,0 +1,17 @@
+{
+  "_id": "y6pd4m4ep6",
+  "name": "come",
+  "order": "1",
+  "parents": [
+    "kuru",
+    "movers-do",
+    "he-related-verbs",
+    "te-iru-verbs-state",
+    "do-with-transports"
+  ],
+  "props": {
+    "en": "come",
+    "jp": "来る",
+    "tl": "くる"
+  }
+}

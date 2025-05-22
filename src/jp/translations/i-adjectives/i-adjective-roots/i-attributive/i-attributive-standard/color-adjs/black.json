@@ -1,0 +1,13 @@
+{
+  "_id": "vwu85a38dir",
+  "name": "black",
+  "order": "1",
+  "parents": [
+    "color-adjs"
+  ],
+  "props": {
+    "en": "black",
+    "jp": "黒い",
+    "tl": "くろい"
+  }
+}

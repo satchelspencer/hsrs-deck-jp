@@ -1,0 +1,10 @@
+{
+  "_id": "hzn2666cyr",
+  "name": "de-related-verbs",
+  "parents": [
+    "root-verbs"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

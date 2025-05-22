@@ -1,0 +1,14 @@
+{
+  "_id": "0nx6lsdpkpcb",
+  "name": "noun-ga-verb",
+  "params": {
+    "noun": "root-nouns",
+    "verb": "root-verbs"
+  },
+  "parents": [
+    "relationships"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

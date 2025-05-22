@@ -1,0 +1,13 @@
+{
+  "_id": "bv1mjpljo9",
+  "name": "delicious-flavor",
+  "params": {
+    "iadj": "delicious",
+    "noun": "flavor"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

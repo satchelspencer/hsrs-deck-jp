@@ -1,0 +1,13 @@
+{
+  "_id": "edk95g380g",
+  "name": "godan-ba-mu",
+  "params": {
+    "verb": "godan-mu"
+  },
+  "parents": [
+    "godan-ba"
+  ],
+  "props": {
+    "jp": "verb.jp|r('む', 'めば')"
+  }
+}

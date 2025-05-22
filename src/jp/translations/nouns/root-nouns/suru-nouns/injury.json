@@ -1,0 +1,14 @@
+{
+  "_id": "e2cweiof10r",
+  "name": "injury",
+  "order": "3",
+  "parents": [
+    "suru-nouns",
+    "people-do"
+  ],
+  "props": {
+    "en": "injury",
+    "jp": "怪我",
+    "tl": "けが"
+  }
+}

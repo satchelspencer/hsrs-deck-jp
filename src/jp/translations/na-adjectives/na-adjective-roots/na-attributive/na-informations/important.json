@@ -1,0 +1,14 @@
+{
+  "_id": "474naijpzt",
+  "name": "important",
+  "order": "2",
+  "parents": [
+    "na-informations",
+    "na-seeables"
+  ],
+  "props": {
+    "en": "important",
+    "jp": "大事",
+    "tl": "だいじ"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "_id": "gyh47md2mvp",
+  "name": "thing-words",
+  "parents": [
+    "root-nouns"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

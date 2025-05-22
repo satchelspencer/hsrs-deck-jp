@@ -1,0 +1,13 @@
+{
+  "_id": "02xtfaox7jo5",
+  "name": "animal",
+  "order": "1",
+  "parents": [
+    "animals"
+  ],
+  "props": {
+    "en": "animal",
+    "jp": "動物",
+    "tl": "どうぶつ"
+  }
+}

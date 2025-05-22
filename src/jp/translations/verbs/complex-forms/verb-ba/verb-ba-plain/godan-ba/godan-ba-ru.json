@@ -1,0 +1,13 @@
+{
+  "_id": "ubgs1bouuz",
+  "name": "godan-ba-ru",
+  "params": {
+    "verb": "godan-ru"
+  },
+  "parents": [
+    "godan-ba"
+  ],
+  "props": {
+    "jp": "verb.jp|r('る', 'れば')"
+  }
+}

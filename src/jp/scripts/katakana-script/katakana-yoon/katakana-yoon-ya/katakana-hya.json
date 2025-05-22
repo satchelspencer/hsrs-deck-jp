@@ -1,0 +1,13 @@
+{
+  "_id": "u9x04exbvn9",
+  "name": "katakana-hya",
+  "params": {
+    "iis": "katakana-hi"
+  },
+  "parents": [
+    "katakana-yoon-ya"
+  ],
+  "props": {
+    "_tl": "hya"
+  }
+}

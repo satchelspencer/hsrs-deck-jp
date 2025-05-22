@@ -1,0 +1,13 @@
+{
+  "_id": "5wy2nhp61l9",
+  "name": "after-a-long-time",
+  "order": "3",
+  "parents": [
+    "verb-adverbs"
+  ],
+  "props": {
+    "en": "after a long time",
+    "jp": "久しぶりに",
+    "tl": "ひさしぶりに"
+  }
+}

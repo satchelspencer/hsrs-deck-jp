@@ -1,0 +1,13 @@
+{
+  "_id": "ww02egi46f",
+  "name": "cheap-eat",
+  "params": {
+    "iadj": "cheap",
+    "verb": "eat"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

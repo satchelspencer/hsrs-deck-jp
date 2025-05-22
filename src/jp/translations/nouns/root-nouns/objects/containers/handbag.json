@@ -1,0 +1,14 @@
+{
+  "_id": "0b6d4xryg536",
+  "name": "handbag",
+  "order": "3",
+  "parents": [
+    "containers",
+    "products"
+  ],
+  "props": {
+    "en": "handbag",
+    "jp": "ハンドバッグ",
+    "tl": "はんどばっぐ"
+  }
+}

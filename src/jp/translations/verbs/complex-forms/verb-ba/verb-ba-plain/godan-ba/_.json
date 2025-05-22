@@ -1,0 +1,13 @@
+{
+  "_id": "c959c0i2x1e",
+  "name": "godan-ba",
+  "params": {
+    "verb": "godan"
+  },
+  "parents": [
+    "verb-ba-plain"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "n8ugthmp9ka",
+  "name": "write",
+  "order": "1",
+  "parents": [
+    "godan-ku",
+    "people-do",
+    "do-to-writeables",
+    "te-iru-verbs-continuous",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "write",
+    "jp": "書く",
+    "tl": "かく"
+  }
+}

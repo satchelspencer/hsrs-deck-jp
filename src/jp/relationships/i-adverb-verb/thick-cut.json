@@ -1,0 +1,13 @@
+{
+  "_id": "y0jmb3u2lxa",
+  "name": "thick-cut",
+  "params": {
+    "iadj": "thick",
+    "verb": "cut"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

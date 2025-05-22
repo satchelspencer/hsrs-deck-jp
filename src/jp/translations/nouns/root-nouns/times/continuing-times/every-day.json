@@ -1,0 +1,13 @@
+{
+  "_id": "vu7we7xgd1",
+  "name": "every-day",
+  "order": "2",
+  "parents": [
+    "continuing-times"
+  ],
+  "props": {
+    "en": "every day",
+    "jp": "毎日",
+    "tl": "まいにち"
+  }
+}

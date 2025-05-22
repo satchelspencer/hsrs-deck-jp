@@ -1,0 +1,13 @@
+{
+  "_id": "bzvc023hjth",
+  "name": "counter-ji-nine",
+  "params": {
+    "number": "nine"
+  },
+  "parents": [
+    "counter-ji"
+  ],
+  "props": {
+    "tl": "く~じ"
+  }
+}

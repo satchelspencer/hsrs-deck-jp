@@ -1,0 +1,13 @@
+{
+  "_id": "ncjwsrig92l",
+  "name": "wrap-wrappings",
+  "params": {
+    "noun": "paper",
+    "verb": "wrap-it"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "bx0zi79ssm",
+  "name": "elapse",
+  "order": "4",
+  "parents": [
+    "godan-tsu"
+  ],
+  "props": {
+    "en": "elapse",
+    "jp": "経つ",
+    "tl": "たつ"
+  }
+}

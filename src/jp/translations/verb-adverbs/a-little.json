@@ -1,0 +1,16 @@
+{
+  "_id": "20s7qtawgvm",
+  "mode": "p",
+  "name": "a-little",
+  "order": "2",
+  "parents": [
+    "verb-adverbs",
+    "i-adverbs",
+    "na-adverbs"
+  ],
+  "props": {
+    "en": "a little",
+    "jp": "少し",
+    "tl": "すこし"
+  }
+}

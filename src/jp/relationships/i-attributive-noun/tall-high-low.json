@@ -1,0 +1,13 @@
+{
+  "_id": "m6fhvf060th",
+  "name": "tall-high-low",
+  "params": {
+    "iadj": "high",
+    "noun": "high-low"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

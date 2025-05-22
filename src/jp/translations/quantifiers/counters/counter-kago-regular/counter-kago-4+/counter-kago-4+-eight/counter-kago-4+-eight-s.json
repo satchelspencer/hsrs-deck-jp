@@ -1,0 +1,13 @@
+{
+  "_id": "zvd208kia1",
+  "name": "counter-kago-4+-eight-s",
+  "params": {
+    "root": "counter-roots-kango-4+-s"
+  },
+  "parents": [
+    "counter-kago-4+-eight"
+  ],
+  "props": {
+    "tl": "'はっ'+root.tl"
+  }
+}

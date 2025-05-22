@@ -1,0 +1,15 @@
+{
+  "_id": "azxar3zv7b9",
+  "name": "exchange-it",
+  "order": "3",
+  "parents": [
+    "ichidan",
+    "do-to-products",
+    "people-do"
+  ],
+  "props": {
+    "en": "exchange it",
+    "jp": "取り替える",
+    "tl": "とりかえる"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "7nfd7e53396",
+  "name": "be-found",
+  "order": "3",
+  "parents": [
+    "godan-ru",
+    "seeables-do",
+    "te-iru-verbs-state",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "be found",
+    "jp": "見つかる",
+    "tl": "みつかる"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "_id": "2bajynix7j9",
+  "name": "katakana-ns",
+  "parents": [
+    "katakana-script"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

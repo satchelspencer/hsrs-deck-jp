@@ -1,0 +1,13 @@
+{
+  "_id": "tweybkymmj",
+  "name": "alone",
+  "order": "3",
+  "parents": [
+    "verb-adverbs"
+  ],
+  "props": {
+    "en": "alone",
+    "jp": "一人で",
+    "tl": "ひとりで"
+  }
+}

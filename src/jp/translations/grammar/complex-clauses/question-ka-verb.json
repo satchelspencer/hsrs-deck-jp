@@ -1,0 +1,16 @@
+{
+  "_id": "yk5tdlfn3pb",
+  "name": "question-ka-verb",
+  "order": "5",
+  "params": {
+    "form": "info-verb-form",
+    "qu": "embedded-wh-question"
+  },
+  "parents": [
+    "complex-clauses"
+  ],
+  "props": {
+    "en": "form.en+' '+qu.en",
+    "jp": "qu.jp+form.jp"
+  }
+}

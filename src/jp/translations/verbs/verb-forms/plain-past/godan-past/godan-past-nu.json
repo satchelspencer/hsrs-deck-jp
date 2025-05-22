@@ -1,0 +1,14 @@
+{
+  "_id": "2y20c99loq2",
+  "name": "godan-past-nu",
+  "params": {
+    "verb": "godan-nu"
+  },
+  "parents": [
+    "godan-past"
+  ],
+  "props": {
+    "en": null,
+    "jp": "verb.jp|r('ぬ', 'んだ')"
+  }
+}

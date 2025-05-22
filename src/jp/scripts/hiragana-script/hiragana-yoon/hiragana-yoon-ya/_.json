@@ -1,0 +1,11 @@
+{
+  "_id": "p69bfgbkov",
+  "name": "hiragana-yoon-ya",
+  "parents": [
+    "hiragana-yoon"
+  ],
+  "props": {
+    "jp": "iis.jp+'ゃ'"
+  },
+  "virtual": true
+}

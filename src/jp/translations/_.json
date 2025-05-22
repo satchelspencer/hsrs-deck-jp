@@ -1,0 +1,15 @@
+{
+  "_id": "udwimlrd3y",
+  "mode": "",
+  "name": "translations",
+  "order": "2",
+  "parents": [
+    "jp"
+  ],
+  "props": {
+    "en": null,
+    "jp": "",
+    "tl": "$.jp"
+  },
+  "virtual": true
+}

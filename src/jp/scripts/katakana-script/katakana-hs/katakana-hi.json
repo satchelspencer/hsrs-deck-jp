@@ -1,0 +1,12 @@
+{
+  "_id": "3p45atweccq",
+  "name": "katakana-hi",
+  "parents": [
+    "katakana-hs",
+    "katakana-iis"
+  ],
+  "props": {
+    "_tl": "hi",
+    "jp": "ヒ"
+  }
+}

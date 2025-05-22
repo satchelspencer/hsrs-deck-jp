@@ -1,0 +1,13 @@
+{
+  "_id": "sj8x2jcrd2",
+  "name": "iku-volitional",
+  "params": {
+    "verb": "iku"
+  },
+  "parents": [
+    "plain-volitional"
+  ],
+  "props": {
+    "jp": "verb.jp|r('行く', '行こう')|r('いく', 'いこう')"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "36eif6ahpcb",
+  "name": "i-predicate-pronoun-object-pron",
+  "params": {
+    "iadj": "i-objects",
+    "pn": "object-pronouns"
+  },
+  "parents": [
+    "i-predicate-pronoun"
+  ],
+  "props": {
+  }
+}

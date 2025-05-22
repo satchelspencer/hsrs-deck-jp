@@ -1,0 +1,13 @@
+{
+  "_id": "nookkqersuj",
+  "name": "flying-things-fly",
+  "params": {
+    "noun": "flying-things",
+    "verb": "fly"
+  },
+  "parents": [
+    "noun-ga-verb"
+  ],
+  "props": {
+  }
+}

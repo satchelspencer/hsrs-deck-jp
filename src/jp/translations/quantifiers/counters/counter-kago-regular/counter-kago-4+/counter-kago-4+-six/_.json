@@ -1,0 +1,14 @@
+{
+  "_id": "zb20yof37h",
+  "name": "counter-kago-4+-six",
+  "params": {
+    "number": "six"
+  },
+  "parents": [
+    "counter-kago-4+"
+  ],
+  "props": {
+    "tl": ""
+  },
+  "virtual": true
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "f0jby1gexqa",
+  "name": "places-ni-destination-verbs",
+  "params": {
+    "noun": "places",
+    "verb": "ni-destination-verbs"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

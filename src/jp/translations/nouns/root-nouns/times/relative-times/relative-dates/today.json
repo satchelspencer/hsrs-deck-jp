@@ -1,0 +1,14 @@
+{
+  "_id": "ezb8g22owj",
+  "name": "today",
+  "order": "1",
+  "parents": [
+    "relative-dates",
+    "ni-any-times"
+  ],
+  "props": {
+    "en": "today",
+    "jp": "今日",
+    "tl": "きょう"
+  }
+}

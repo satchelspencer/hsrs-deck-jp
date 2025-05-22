@@ -1,0 +1,10 @@
+{
+  "_id": "bk7lz51p53r",
+  "name": "animal-no",
+  "parents": [
+    "no-related"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "eis88z9si2t",
+  "name": "happiness-people",
+  "params": {
+    "na": "happiness",
+    "noun": "people"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

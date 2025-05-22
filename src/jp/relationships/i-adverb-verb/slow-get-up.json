@@ -1,0 +1,13 @@
+{
+  "_id": "zqpyq9e3pd",
+  "name": "slow-get-up",
+  "params": {
+    "iadj": "slow",
+    "verb": "get-up"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "054s7hmhvwwg",
+  "name": "move-it-forward",
+  "order": "2",
+  "parents": [
+    "people-do",
+    "te-iru-verbs-continuous",
+    "de-location-verbs",
+    "ichidan"
+  ],
+  "props": {
+    "en": "move it forward",
+    "jp": "進める",
+    "tl": "すすめる"
+  }
+}

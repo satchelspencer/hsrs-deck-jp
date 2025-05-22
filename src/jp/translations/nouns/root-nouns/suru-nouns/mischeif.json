@@ -1,0 +1,15 @@
+{
+  "_id": "b81l5vuo8vh",
+  "name": "mischeif",
+  "order": "2",
+  "parents": [
+    "suru-nouns",
+    "people-do",
+    "te-iru-verbs-continuous",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "mischeif",
+    "jp": "いたずら"
+  }
+}

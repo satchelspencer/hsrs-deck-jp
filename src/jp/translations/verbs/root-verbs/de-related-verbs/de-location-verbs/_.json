@@ -1,0 +1,10 @@
+{
+  "_id": "cok6aotlse5",
+  "name": "de-location-verbs",
+  "parents": [
+    "de-related-verbs"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "zk0729rqvah",
+  "name": "body-weight",
+  "order": "2",
+  "parents": [
+    "countables"
+  ],
+  "props": {
+    "en": "body weight",
+    "jp": "体重",
+    "tl": "たいじゅう"
+  }
+}

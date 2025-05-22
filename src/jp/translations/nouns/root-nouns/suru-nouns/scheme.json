@@ -1,0 +1,14 @@
+{
+  "_id": "56634rdl73m",
+  "name": "scheme",
+  "order": "3",
+  "parents": [
+    "suru-nouns",
+    "people-do"
+  ],
+  "props": {
+    "en": "scheme",
+    "jp": "計画",
+    "tl": "けいかく"
+  }
+}

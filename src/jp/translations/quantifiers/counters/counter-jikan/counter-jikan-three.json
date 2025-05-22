@@ -1,0 +1,13 @@
+{
+  "_id": "fe3bcu9xmx",
+  "name": "counter-jikan-three",
+  "params": {
+    "number": "three"
+  },
+  "parents": [
+    "counter-jikan"
+  ],
+  "props": {
+    "tl": "さん~じかん"
+  }
+}

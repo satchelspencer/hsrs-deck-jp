@@ -1,0 +1,14 @@
+{
+  "_id": "d9laecvgbcg",
+  "name": "na-adjective-tara-polite",
+  "params": {
+    "past": "na-adjective-past-polite"
+  },
+  "parents": [
+    "na-adjective-tara"
+  ],
+  "props": {
+    "en": "past.en|pr('was', 'when is')",
+    "jp": "past.jp+'ら'"
+  }
+}

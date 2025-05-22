@@ -1,0 +1,14 @@
+{
+  "_id": "3g0svyvcib3",
+  "name": "glass",
+  "order": "3",
+  "parents": [
+    "containers",
+    "ko-countable"
+  ],
+  "props": {
+    "en": "glass",
+    "jp": "ガラス",
+    "tl": "がらす"
+  }
+}

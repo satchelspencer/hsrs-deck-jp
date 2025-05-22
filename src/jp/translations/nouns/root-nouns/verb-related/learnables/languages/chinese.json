@@ -1,0 +1,13 @@
+{
+  "_id": "z23mrm5xmdt",
+  "name": "chinese",
+  "order": "2",
+  "parents": [
+    "languages"
+  ],
+  "props": {
+    "en": "chinese",
+    "jp": "中国語",
+    "tl": "ちゅうごくご"
+  }
+}

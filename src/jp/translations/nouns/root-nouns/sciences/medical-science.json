@@ -1,0 +1,13 @@
+{
+  "_id": "qhy1eu6jxt",
+  "name": "medical-science",
+  "order": "4",
+  "parents": [
+    "sciences"
+  ],
+  "props": {
+    "en": "medical science",
+    "jp": "医学",
+    "tl": "いがく"
+  }
+}

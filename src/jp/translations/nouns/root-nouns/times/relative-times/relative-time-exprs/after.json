@@ -1,0 +1,18 @@
+{
+  "_id": "h4ezosu7qu9",
+  "mode": "c",
+  "name": "after",
+  "order": "2",
+  "parents": [
+    "relative-time-exprs",
+    "noun-no-relative-time-exprs",
+    "past-relative-time-exprs",
+    "time-amount-exprs",
+    "verb-adverbs"
+  ],
+  "props": {
+    "en": "after",
+    "jp": "後で",
+    "tl": "あとで"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "8w8odh54dt",
+  "constraint": "verb",
+  "name": "tai-form-past",
+  "order": "2",
+  "params": {
+    "tai": "tai-form"
+  },
+  "parents": [
+    "tai-plain-forms"
+  ],
+  "props": {
+    "en": "tai.en|pr('want', 'wanted')",
+    "jp": "tai.jp|r('い', 'かった')"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "phdprtyb0fg",
+  "name": "simple-say",
+  "params": {
+    "na": "simple",
+    "verb": "say"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

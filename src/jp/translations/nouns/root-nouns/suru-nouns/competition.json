@@ -1,0 +1,15 @@
+{
+  "_id": "9o8lubkjbmq",
+  "name": "competition",
+  "order": "3",
+  "parents": [
+    "suru-nouns",
+    "people-do",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "en": "competition",
+    "jp": "競争",
+    "tl": "きょうそう"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "vavzr5qzk2",
+  "name": "sour-feel-emotion",
+  "params": {
+    "iadj": "sour",
+    "verb": "feel-emotion"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

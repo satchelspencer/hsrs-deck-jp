@@ -1,0 +1,13 @@
+{
+  "_id": "wnhb5mvs87b",
+  "name": "for-the-first-time",
+  "order": "2",
+  "parents": [
+    "verb-adverbs"
+  ],
+  "props": {
+    "en": "for the first time",
+    "jp": "初めて",
+    "tl": "はじめて"
+  }
+}

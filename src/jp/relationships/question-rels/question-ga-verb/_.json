@@ -1,0 +1,14 @@
+{
+  "_id": "d3fjh2w2z3",
+  "name": "question-ga-verb",
+  "params": {
+    "qw": "question-words",
+    "verb": "root-verbs"
+  },
+  "parents": [
+    "question-rels"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "4a5qdir686m",
+  "name": "tasty-feel-emotion",
+  "params": {
+    "iadj": "tasty",
+    "verb": "feel-emotion"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

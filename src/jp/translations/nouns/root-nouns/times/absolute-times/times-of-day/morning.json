@@ -1,0 +1,13 @@
+{
+  "_id": "dc9pqfs0uh4",
+  "name": "morning",
+  "order": "1",
+  "parents": [
+    "times-of-day"
+  ],
+  "props": {
+    "en": "morning",
+    "jp": "朝",
+    "tl": "あさ"
+  }
+}

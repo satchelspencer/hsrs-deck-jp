@@ -1,0 +1,14 @@
+{
+  "_id": "t1mudl5gthe",
+  "name": "surely",
+  "order": "3",
+  "parents": [
+    "verb-adverbs",
+    "i-adverbs",
+    "clause-adverbs"
+  ],
+  "props": {
+    "en": "surely",
+    "jp": "きっと"
+  }
+}

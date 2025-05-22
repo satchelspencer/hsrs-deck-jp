@@ -1,0 +1,13 @@
+{
+  "_id": "q4945ym0ghs",
+  "name": "electric-lights",
+  "order": "1",
+  "parents": [
+    "electrics"
+  ],
+  "props": {
+    "en": "electric-lights",
+    "jp": "電気",
+    "tl": "でんき"
+  }
+}

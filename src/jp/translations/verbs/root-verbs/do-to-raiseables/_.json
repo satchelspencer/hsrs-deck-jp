@@ -1,0 +1,12 @@
+{
+  "_id": "9wwekijot99",
+  "name": "do-to-raiseables",
+  "parents": [
+    "root-verbs"
+  ],
+  "props": {
+    "en": null,
+    "jp": null
+  },
+  "virtual": true
+}

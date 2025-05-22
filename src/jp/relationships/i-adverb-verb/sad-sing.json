@@ -1,0 +1,13 @@
+{
+  "_id": "u21hw1kyn4",
+  "name": "sad-sing",
+  "params": {
+    "iadj": "sad",
+    "verb": "sing"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

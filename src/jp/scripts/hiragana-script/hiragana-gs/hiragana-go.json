@@ -1,0 +1,14 @@
+{
+  "_id": "x5xi4pvueo",
+  "name": "hiragana-go",
+  "params": {
+    "k": "hiragana-ko"
+  },
+  "parents": [
+    "hiragana-gs"
+  ],
+  "props": {
+    "_tl": "go",
+    "jp": "ご"
+  }
+}

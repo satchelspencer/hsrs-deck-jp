@@ -1,0 +1,13 @@
+{
+  "_id": "s1ojxxuk8",
+  "name": "definitely",
+  "order": "3",
+  "parents": [
+    "verb-adverbs"
+  ],
+  "props": {
+    "en": "definitely",
+    "jp": "必ず",
+    "tl": "かならず"
+  }
+}

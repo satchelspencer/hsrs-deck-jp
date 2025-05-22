@@ -1,0 +1,13 @@
+{
+  "_id": "zmddfo0g2kr",
+  "name": "in-front",
+  "order": "2",
+  "parents": [
+    "positional-words"
+  ],
+  "props": {
+    "en": "in front",
+    "jp": "前",
+    "tl": "まえ"
+  }
+}

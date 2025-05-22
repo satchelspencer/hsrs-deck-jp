@@ -1,0 +1,14 @@
+{
+  "_id": "hx4kqmdwmru",
+  "name": "hot-water",
+  "order": "3",
+  "parents": [
+    "drinks",
+    "heated-edibles"
+  ],
+  "props": {
+    "en": "hot water",
+    "jp": "お湯",
+    "tl": "おゆ"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "o1cyw05ttyl",
+  "name": "country-no-nouns",
+  "params": {
+    "noun": "country-no",
+    "owner": "countries"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

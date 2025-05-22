@@ -1,0 +1,13 @@
+{
+  "_id": "i7rfv0myhhs",
+  "name": "sugar",
+  "order": "3",
+  "parents": [
+    "ingredients"
+  ],
+  "props": {
+    "en": "sugar",
+    "jp": "砂糖",
+    "tl": "さとう"
+  }
+}

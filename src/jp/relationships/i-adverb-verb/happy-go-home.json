@@ -1,0 +1,13 @@
+{
+  "_id": "0mxuqwzor1uf",
+  "name": "happy-go-home",
+  "params": {
+    "iadj": "happy",
+    "verb": "go-home"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "41gq2l4a2sy",
+  "constraint": "iadj",
+  "name": "i-adjective-tara",
+  "order": "4",
+  "params": {
+    "past": "i-adjective-forms"
+  },
+  "parents": [
+    "i-complex-forms",
+    "tara-conditional-clauses"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

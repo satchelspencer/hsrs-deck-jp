@@ -1,0 +1,19 @@
+{
+  "_id": "gg2db90s93p",
+  "constraint": "noun root verb",
+  "name": "question-counter-noun-verb-ga",
+  "order": "2",
+  "params": {
+    "counter": "counter-questions",
+    "crel": "counter-noun",
+    "form": "verb-ka",
+    "vrel": "noun-ga-verb"
+  },
+  "parents": [
+    "question-clauses"
+  ],
+  "props": {
+    "en": "counter.en+' of '+crel.noun.en+' '+form.en",
+    "jp": "crel.noun.jp+'が'+counter.jp+form.jp"
+  }
+}

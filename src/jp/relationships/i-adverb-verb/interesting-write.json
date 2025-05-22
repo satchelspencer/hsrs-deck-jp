@@ -1,0 +1,13 @@
+{
+  "_id": "x8mozrnijah",
+  "name": "interesting-write",
+  "params": {
+    "iadj": "interesting",
+    "verb": "write"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

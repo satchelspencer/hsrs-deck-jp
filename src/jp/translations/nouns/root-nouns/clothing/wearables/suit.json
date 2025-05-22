@@ -1,0 +1,13 @@
+{
+  "_id": "let2sudzxio",
+  "name": "suit",
+  "order": "3",
+  "parents": [
+    "wearables"
+  ],
+  "props": {
+    "en": "suit",
+    "jp": "スーツ",
+    "tl": "すーつ"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "62k9gnx8awj",
+  "name": "wellness-choices",
+  "params": {
+    "na": "wellness",
+    "noun": "choosables"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

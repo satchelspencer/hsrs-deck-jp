@@ -1,0 +1,14 @@
+{
+  "_id": "ny6vogedzph",
+  "name": "wallet",
+  "order": "1",
+  "parents": [
+    "objects",
+    "ko-countable"
+  ],
+  "props": {
+    "en": "wallet",
+    "jp": "財布",
+    "tl": "さいふ"
+  }
+}

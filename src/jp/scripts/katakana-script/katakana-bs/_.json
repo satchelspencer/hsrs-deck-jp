@@ -1,0 +1,14 @@
+{
+  "_id": "0efgsf8vwes",
+  "name": "katakana-bs",
+  "params": {
+    "h": "katakana-hs"
+  },
+  "parents": [
+    "katakana-script"
+  ],
+  "props": {
+    "jp": ""
+  },
+  "virtual": true
+}

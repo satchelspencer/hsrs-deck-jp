@@ -1,0 +1,13 @@
+{
+  "_id": "69opsu37ac",
+  "name": "become",
+  "order": "2",
+  "parents": [
+    "godan-ru",
+    "people-do"
+  ],
+  "props": {
+    "en": "become",
+    "jp": "なる"
+  }
+}

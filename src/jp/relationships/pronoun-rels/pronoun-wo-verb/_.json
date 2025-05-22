@@ -1,0 +1,14 @@
+{
+  "_id": "hy7khhqedra",
+  "name": "pronoun-wo-verb",
+  "params": {
+    "pn": "pronouns",
+    "verb": "root-verbs"
+  },
+  "parents": [
+    "pronoun-rels"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

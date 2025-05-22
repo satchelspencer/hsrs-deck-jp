@@ -1,0 +1,13 @@
+{
+  "_id": "jdsdrb5pmef",
+  "name": "kashou-countable-counter-root-places",
+  "params": {
+    "noun": "kashou-countable",
+    "root": "counter-root-places"
+  },
+  "parents": [
+    "counter-noun"
+  ],
+  "props": {
+  }
+}

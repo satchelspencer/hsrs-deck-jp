@@ -1,0 +1,13 @@
+{
+  "_id": "i8yusxj4iy",
+  "name": "trip-back-ticket",
+  "params": {
+    "noun": "ticket",
+    "owner": "trip-back"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

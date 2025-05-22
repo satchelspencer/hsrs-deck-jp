@@ -1,0 +1,15 @@
+{
+  "_id": "v1w29w1hx5c",
+  "mode": "p",
+  "name": "noun-ba-polite",
+  "params": {
+    "noun": "root-nouns"
+  },
+  "parents": [
+    "noun-ba"
+  ],
+  "props": {
+    "en": "'if '+noun.en",
+    "jp": "noun.jp+'であれば'"
+  }
+}

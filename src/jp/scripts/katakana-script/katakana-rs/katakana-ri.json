@@ -1,0 +1,12 @@
+{
+  "_id": "mvr3keg4zo",
+  "name": "katakana-ri",
+  "parents": [
+    "katakana-rs",
+    "katakana-iis"
+  ],
+  "props": {
+    "_tl": "ri",
+    "jp": "リ"
+  }
+}

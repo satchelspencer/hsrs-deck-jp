@@ -1,0 +1,15 @@
+{
+  "_id": "5ly8m47hjes",
+  "name": "hiragana-pi",
+  "params": {
+    "h": "hiragana-hi"
+  },
+  "parents": [
+    "hiragana-ps",
+    "hiragana-iis"
+  ],
+  "props": {
+    "_tl": "pi",
+    "jp": "ぴ"
+  }
+}

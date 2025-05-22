@@ -1,0 +1,13 @@
+{
+  "_id": "srukoyfdzrq",
+  "name": "meter",
+  "order": "2",
+  "parents": [
+    "units"
+  ],
+  "props": {
+    "en": "meter",
+    "jp": "メートル",
+    "tl": "めーとる"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "nml67jqvkcj",
+  "name": "justice",
+  "order": "4",
+  "parents": [
+    "beliefs"
+  ],
+  "props": {
+    "en": "justice",
+    "jp": "正義",
+    "tl": "せいぎ"
+  }
+}

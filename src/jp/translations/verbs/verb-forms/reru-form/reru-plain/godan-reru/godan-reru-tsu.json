@@ -1,0 +1,13 @@
+{
+  "_id": "ocvkyrciijd",
+  "name": "godan-reru-tsu",
+  "params": {
+    "verb": "godan-tsu"
+  },
+  "parents": [
+    "godan-reru"
+  ],
+  "props": {
+    "jp": "verb.jp|r('つ', 'てる')"
+  }
+}

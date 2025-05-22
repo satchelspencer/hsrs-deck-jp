@@ -1,0 +1,14 @@
+{
+  "_id": "vghuw13bpd",
+  "mode": "p",
+  "name": "my-grandfather",
+  "order": "3",
+  "parents": [
+    "family"
+  ],
+  "props": {
+    "en": "my grandfather",
+    "jp": "祖父",
+    "tl": "そふ"
+  }
+}

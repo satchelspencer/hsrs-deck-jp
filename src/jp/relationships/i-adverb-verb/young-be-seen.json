@@ -1,0 +1,13 @@
+{
+  "_id": "thvgek2o22",
+  "name": "young-be-seen",
+  "params": {
+    "iadj": "young",
+    "verb": "be-seen"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

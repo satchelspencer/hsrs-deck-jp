@@ -1,0 +1,13 @@
+{
+  "_id": "e3gjjxy94zo",
+  "mode": "p",
+  "name": "donata",
+  "order": "3",
+  "parents": [
+    "personal-question-words"
+  ],
+  "props": {
+    "en": "who",
+    "jp": "どなた"
+  }
+}

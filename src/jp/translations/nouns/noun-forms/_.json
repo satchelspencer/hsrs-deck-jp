@@ -1,0 +1,10 @@
+{
+  "_id": "lc6p67qjiyk",
+  "name": "noun-forms",
+  "parents": [
+    "nouns"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

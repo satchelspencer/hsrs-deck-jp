@@ -1,0 +1,12 @@
+{
+  "_id": "en5gpteqgg5",
+  "name": "people-do",
+  "parents": [
+    "root-verbs"
+  ],
+  "props": {
+    "en": null,
+    "jp": null
+  },
+  "virtual": true
+}

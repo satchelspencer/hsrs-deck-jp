@@ -1,0 +1,15 @@
+{
+  "_id": "h0kd2ck946c",
+  "name": "slide",
+  "order": "3",
+  "parents": [
+    "godan-ru",
+    "people-do",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "slide",
+    "jp": "滑る",
+    "tl": "すべる"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "fynxgf2stu",
+  "name": "lightweight-touch",
+  "params": {
+    "iadj": "lightweight",
+    "verb": "touch"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "jc3fbzx4e1i",
+  "name": "ko-ko-countable",
+  "params": {
+    "noun": "ko-countable",
+    "root": "counter-root-things-ko"
+  },
+  "parents": [
+    "counter-noun"
+  ],
+  "props": {
+  }
+}

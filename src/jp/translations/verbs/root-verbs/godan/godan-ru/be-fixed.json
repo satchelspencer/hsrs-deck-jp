@@ -1,0 +1,15 @@
+{
+  "_id": "3msmqy2rde3",
+  "name": "be-fixed",
+  "order": "3",
+  "parents": [
+    "godan-ru",
+    "de-location-verbs",
+    "machines-do"
+  ],
+  "props": {
+    "en": "be fixed",
+    "jp": "直る",
+    "tl": "なおる"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "l7vctu50r4",
+  "constraint": "verb",
+  "name": "question-ni-to",
+  "order": "1",
+  "params": {
+    "form": "verb-ka",
+    "rel": "question-ni-verb-to"
+  },
+  "parents": [
+    "question-clauses"
+  ],
+  "props": {
+    "en": "'to '+rel.qw.en+' '+form.en ",
+    "jp": "rel.qw.jp+'に'+form.jp"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "_id": "q8so45lw0k",
+  "name": "level",
+  "order": "2",
+  "parents": [
+    "raisables"
+  ],
+  "props": {
+    "en": "level",
+    "jp": "レベル"
+  }
+}

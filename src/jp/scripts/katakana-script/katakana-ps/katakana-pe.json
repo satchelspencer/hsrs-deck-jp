@@ -1,0 +1,14 @@
+{
+  "_id": "dkmh63jdgd4",
+  "name": "katakana-pe",
+  "params": {
+    "h": "katakana-he"
+  },
+  "parents": [
+    "katakana-ps"
+  ],
+  "props": {
+    "_tl": "pe",
+    "jp": "ペ"
+  }
+}

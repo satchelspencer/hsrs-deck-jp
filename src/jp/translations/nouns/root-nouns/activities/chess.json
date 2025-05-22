@@ -1,0 +1,12 @@
+{
+  "_id": "71bkj3ncil",
+  "name": "chess",
+  "order": "3",
+  "parents": [
+    "activities"
+  ],
+  "props": {
+    "en": "chess",
+    "jp": "チェス"
+  }
+}

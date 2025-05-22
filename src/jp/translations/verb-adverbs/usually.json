@@ -1,0 +1,12 @@
+{
+  "_id": "50qyov2wjem",
+  "name": "usually",
+  "order": "3",
+  "parents": [
+    "verb-adverbs"
+  ],
+  "props": {
+    "en": "usually",
+    "jp": "たいてい"
+  }
+}

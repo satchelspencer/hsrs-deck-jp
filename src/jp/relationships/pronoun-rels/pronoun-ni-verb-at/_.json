@@ -1,0 +1,14 @@
+{
+  "_id": "ew259kt2oz",
+  "name": "pronoun-ni-verb-at",
+  "params": {
+    "pn": "pronouns",
+    "verb": "root-verbs"
+  },
+  "parents": [
+    "pronoun-rels"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

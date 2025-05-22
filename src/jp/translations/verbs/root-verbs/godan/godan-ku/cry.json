@@ -1,0 +1,15 @@
+{
+  "_id": "514kzlj3dz3",
+  "name": "cry",
+  "order": "3",
+  "parents": [
+    "godan-ku",
+    "people-do",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "en": "cry",
+    "jp": "泣く",
+    "tl": "なく"
+  }
+}

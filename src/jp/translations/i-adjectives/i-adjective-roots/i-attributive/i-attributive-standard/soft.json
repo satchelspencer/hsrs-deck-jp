@@ -1,0 +1,13 @@
+{
+  "_id": "i1d92ljqqx",
+  "name": "soft",
+  "order": "3",
+  "parents": [
+    "i-attributive-standard"
+  ],
+  "props": {
+    "en": "soft",
+    "jp": "柔らかい",
+    "tl": "やわらかい"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "fb8ykf7td49",
+  "name": "nature-be-decreased",
+  "params": {
+    "na": "nature",
+    "verb": "be-decreased"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

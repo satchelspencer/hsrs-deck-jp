@@ -1,0 +1,13 @@
+{
+  "_id": "rtwgliuva4",
+  "name": "counter-nichi-ten-thousand",
+  "params": {
+    "number": "ten-thousand"
+  },
+  "parents": [
+    "counter-days"
+  ],
+  "props": {
+    "tl": "いちまん~にち"
+  }
+}

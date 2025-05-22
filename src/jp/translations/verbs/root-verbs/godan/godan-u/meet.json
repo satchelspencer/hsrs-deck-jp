@@ -1,0 +1,17 @@
+{
+  "_id": "pzw8sc70qe8",
+  "name": "meet",
+  "order": "1",
+  "parents": [
+    "godan-u",
+    "people-do",
+    "ni-person-verbs",
+    "te-iru-verbs-state",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "meet",
+    "jp": "会う",
+    "tl": "あう"
+  }
+}

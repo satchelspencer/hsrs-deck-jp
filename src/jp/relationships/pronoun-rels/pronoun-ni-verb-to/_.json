@@ -1,0 +1,14 @@
+{
+  "_id": "lhmltq8eej",
+  "name": "pronoun-ni-verb-to",
+  "params": {
+    "pn": "pronouns",
+    "verb": "root-verbs"
+  },
+  "parents": [
+    "pronoun-rels"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

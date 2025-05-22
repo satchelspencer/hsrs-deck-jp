@@ -1,0 +1,18 @@
+{
+  "_id": "mst1y1vpng",
+  "constraint": "verb",
+  "name": "kara-made-place-clause",
+  "order": "3",
+  "params": {
+    "form": "verb-forms",
+    "km": "kara-made-places",
+    "verb": "he-related-verbs"
+  },
+  "parents": [
+    "kara-made"
+  ],
+  "props": {
+    "en": "km.en+' '+form.en",
+    "jp": "km.jp+form.jp"
+  }
+}

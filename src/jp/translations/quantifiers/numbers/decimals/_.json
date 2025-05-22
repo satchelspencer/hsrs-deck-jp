@@ -1,0 +1,11 @@
+{
+  "_id": "nq4gxrwo5ie",
+  "name": "decimals",
+  "parents": [
+    "numbers",
+    "month-numbers"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

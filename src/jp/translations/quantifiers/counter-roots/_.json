@@ -1,0 +1,10 @@
+{
+  "_id": "dp03cetntg",
+  "name": "counter-roots",
+  "parents": [
+    "quantifiers"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

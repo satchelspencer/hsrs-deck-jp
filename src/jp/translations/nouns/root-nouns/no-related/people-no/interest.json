@@ -1,0 +1,14 @@
+{
+  "_id": "8vhmcfykm3p",
+  "name": "interest",
+  "order": "3",
+  "parents": [
+    "people-no",
+    "abstract-activities"
+  ],
+  "props": {
+    "en": "curiosity",
+    "jp": "興味",
+    "tl": "きょうみ"
+  }
+}

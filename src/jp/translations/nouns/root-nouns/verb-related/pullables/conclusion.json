@@ -1,0 +1,14 @@
+{
+  "_id": "bqy9zg9xv9k",
+  "name": "conclusion",
+  "order": "4",
+  "parents": [
+    "pullables",
+    "choosables"
+  ],
+  "props": {
+    "en": "conclusion",
+    "jp": "結論",
+    "tl": "けつろん"
+  }
+}

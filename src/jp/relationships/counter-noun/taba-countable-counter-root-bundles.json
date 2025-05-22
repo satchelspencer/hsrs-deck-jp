@@ -1,0 +1,13 @@
+{
+  "_id": "rzk6fmknefm",
+  "name": "taba-countable-counter-root-bundles",
+  "params": {
+    "noun": "taba-countable",
+    "root": "counter-root-bundles"
+  },
+  "parents": [
+    "counter-noun"
+  ],
+  "props": {
+  }
+}

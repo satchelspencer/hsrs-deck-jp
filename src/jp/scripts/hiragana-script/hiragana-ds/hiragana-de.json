@@ -1,0 +1,14 @@
+{
+  "_id": "sp1yjqkcz6m",
+  "name": "hiragana-de",
+  "params": {
+    "t": "hiragana-te"
+  },
+  "parents": [
+    "hiragana-ds"
+  ],
+  "props": {
+    "_tl": "de",
+    "jp": "で"
+  }
+}

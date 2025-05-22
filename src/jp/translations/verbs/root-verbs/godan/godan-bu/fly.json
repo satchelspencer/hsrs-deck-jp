@@ -1,0 +1,17 @@
+{
+  "_id": "0iixm7e0ofos",
+  "name": "fly",
+  "order": "2",
+  "parents": [
+    "godan-bu",
+    "te-iru-verbs-continuous",
+    "de-location-verbs",
+    "do-with-transports",
+    "he-related-verbs"
+  ],
+  "props": {
+    "en": "fly",
+    "jp": "飛ぶ",
+    "tl": "とぶ"
+  }
+}

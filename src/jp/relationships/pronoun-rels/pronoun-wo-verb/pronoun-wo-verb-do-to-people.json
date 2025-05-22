@@ -1,0 +1,13 @@
+{
+  "_id": "sb2rns21v4n",
+  "name": "pronoun-wo-verb-do-to-people",
+  "params": {
+    "pn": "personal-pronouns",
+    "verb": "do-to-people"
+  },
+  "parents": [
+    "pronoun-wo-verb"
+  ],
+  "props": {
+  }
+}

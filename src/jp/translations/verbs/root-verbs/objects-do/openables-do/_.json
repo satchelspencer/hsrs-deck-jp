@@ -1,0 +1,12 @@
+{
+  "_id": "84hs5ax235u",
+  "name": "openables-do",
+  "parents": [
+    "objects-do"
+  ],
+  "props": {
+    "en": null,
+    "jp": null
+  },
+  "virtual": true
+}

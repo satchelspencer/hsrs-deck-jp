@@ -1,0 +1,13 @@
+{
+  "_id": "2a246jsx3c7",
+  "name": "england",
+  "order": "1",
+  "parents": [
+    "countries"
+  ],
+  "props": {
+    "en": "england",
+    "jp": "イギリス",
+    "tl": "いぎりす"
+  }
+}

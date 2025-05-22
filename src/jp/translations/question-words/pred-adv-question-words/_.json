@@ -1,0 +1,10 @@
+{
+  "_id": "c56m1qmvcgd",
+  "name": "pred-adv-question-words",
+  "parents": [
+    "question-words"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

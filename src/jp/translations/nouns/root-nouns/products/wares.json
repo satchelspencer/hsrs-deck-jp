@@ -1,0 +1,13 @@
+{
+  "_id": "wu7v4ijp4k",
+  "name": "wares",
+  "order": "3",
+  "parents": [
+    "products"
+  ],
+  "props": {
+    "en": "wares",
+    "jp": "品物",
+    "tl": "しなもの"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "lhx8px6yrj",
+  "name": "significant-to-rear",
+  "params": {
+    "na": "significant",
+    "verb": "to-rear"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

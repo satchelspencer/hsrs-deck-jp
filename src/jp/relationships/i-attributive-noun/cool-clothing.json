@@ -1,0 +1,13 @@
+{
+  "_id": "8see336uu3",
+  "name": "cool-clothing",
+  "params": {
+    "iadj": "cool",
+    "noun": "clothing"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

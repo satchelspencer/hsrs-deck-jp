@@ -1,0 +1,15 @@
+{
+  "_id": "6ngcs5m3854",
+  "name": "hand",
+  "order": "1",
+  "parents": [
+    "body-parts",
+    "waveables",
+    "raisables"
+  ],
+  "props": {
+    "en": "hand",
+    "jp": "手",
+    "tl": "て"
+  }
+}

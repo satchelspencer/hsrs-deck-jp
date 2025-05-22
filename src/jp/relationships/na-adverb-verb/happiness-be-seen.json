@@ -1,0 +1,13 @@
+{
+  "_id": "i5eyxyntegh",
+  "name": "happiness-be-seen",
+  "params": {
+    "na": "happiness",
+    "verb": "be-seen"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

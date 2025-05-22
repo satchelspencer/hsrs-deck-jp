@@ -1,0 +1,13 @@
+{
+  "_id": "i0b5gffk7l",
+  "name": "songs-standalone",
+  "params": {
+    "noun": "counter-root-songs",
+    "root": "counter-root-songs"
+  },
+  "parents": [
+    "standalone-counter-roots"
+  ],
+  "props": {
+  }
+}

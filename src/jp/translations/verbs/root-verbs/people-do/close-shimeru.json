@@ -1,0 +1,16 @@
+{
+  "_id": "9g64mlu5wi",
+  "name": "close-shimeru",
+  "order": "1",
+  "parents": [
+    "people-do",
+    "do-to-shimeru-akeru",
+    "te-iru-verbs-continuous",
+    "ichidan"
+  ],
+  "props": {
+    "en": "close it",
+    "jp": "閉める",
+    "tl": "しめる"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "hi9i7sg73bs",
+  "name": "france",
+  "order": "2",
+  "parents": [
+    "countries"
+  ],
+  "props": {
+    "en": "france",
+    "jp": "フランス",
+    "tl": "ふらんす"
+  }
+}

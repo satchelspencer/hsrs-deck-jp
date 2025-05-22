@@ -1,0 +1,15 @@
+{
+  "_id": "mgr32gx3hkp",
+  "name": "make-call",
+  "order": "3",
+  "parents": [
+    "godan-ku",
+    "animals-do",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "en": "make call",
+    "jp": "鳴く",
+    "tl": "なく"
+  }
+}

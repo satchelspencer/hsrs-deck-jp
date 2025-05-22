@@ -1,0 +1,17 @@
+{
+  "_id": "fwhr33buoi9",
+  "name": "use",
+  "order": "1",
+  "parents": [
+    "godan-u",
+    "people-do",
+    "te-iru-verbs-continuous",
+    "de-location-verbs",
+    "ikura-verbs"
+  ],
+  "props": {
+    "en": "use",
+    "jp": "使う",
+    "tl": "つかう"
+  }
+}

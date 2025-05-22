@@ -1,0 +1,13 @@
+{
+  "_id": "q5vi3ilcr2j",
+  "name": "ichidan-reru",
+  "params": {
+    "verb": "ichidan"
+  },
+  "parents": [
+    "reru-plain"
+  ],
+  "props": {
+    "jp": "verb.jp|r('る', 'られる')"
+  }
+}

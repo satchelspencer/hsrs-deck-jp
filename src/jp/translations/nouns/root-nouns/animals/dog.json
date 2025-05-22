@@ -1,0 +1,14 @@
+{
+  "_id": "ggcximk4z2u",
+  "name": "dog",
+  "order": "1",
+  "parents": [
+    "animals",
+    "hiki-countable"
+  ],
+  "props": {
+    "en": "dog",
+    "jp": "犬",
+    "tl": "いぬ"
+  }
+}

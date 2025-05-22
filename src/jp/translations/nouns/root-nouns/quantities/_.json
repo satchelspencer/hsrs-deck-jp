@@ -1,0 +1,10 @@
+{
+  "_id": "afnq1frcgkh",
+  "name": "quantities",
+  "parents": [
+    "root-nouns"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

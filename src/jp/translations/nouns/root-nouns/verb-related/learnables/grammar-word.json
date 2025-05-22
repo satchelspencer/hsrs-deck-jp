@@ -1,0 +1,13 @@
+{
+  "_id": "k38xbtp009",
+  "name": "grammar-word",
+  "order": "3",
+  "parents": [
+    "learnables"
+  ],
+  "props": {
+    "en": "grammar",
+    "jp": "文法",
+    "tl": "ぶんぽう"
+  }
+}

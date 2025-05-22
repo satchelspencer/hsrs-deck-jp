@@ -1,0 +1,12 @@
+{
+  "_id": "e8iccoarot",
+  "name": "weekday",
+  "parents": [
+    "days-of-week"
+  ],
+  "props": {
+    "en": "weekday",
+    "jp": "平日",
+    "tl": "へいじつ"
+  }
+}

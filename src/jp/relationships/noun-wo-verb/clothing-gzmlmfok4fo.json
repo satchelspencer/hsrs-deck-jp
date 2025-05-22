@@ -1,0 +1,13 @@
+{
+  "_id": "z7xhyp56w7o",
+  "name": "clothing-gzmlmfok4fo",
+  "params": {
+    "noun": "clothing",
+    "verb": "do-to-clothing"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

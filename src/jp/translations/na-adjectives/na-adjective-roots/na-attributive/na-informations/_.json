@@ -1,0 +1,12 @@
+{
+  "_id": "p9ehn1mu0k9",
+  "name": "na-informations",
+  "parents": [
+    "na-attributive"
+  ],
+  "props": {
+    "en": null,
+    "jp": null
+  },
+  "virtual": true
+}

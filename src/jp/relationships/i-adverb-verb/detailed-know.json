@@ -1,0 +1,13 @@
+{
+  "_id": "5mp5ykcz5ua",
+  "name": "detailed-know",
+  "params": {
+    "iadj": "detailed",
+    "verb": "know"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

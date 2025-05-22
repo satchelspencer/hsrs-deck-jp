@@ -1,0 +1,15 @@
+{
+  "_id": "z49r82cxb29",
+  "name": "be-present",
+  "order": "1",
+  "parents": [
+    "people-do",
+    "animals-do",
+    "ni-at-verbs",
+    "ichidan"
+  ],
+  "props": {
+    "en": "be present",
+    "jp": "いる"
+  }
+}

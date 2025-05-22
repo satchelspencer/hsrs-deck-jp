@@ -1,0 +1,14 @@
+{
+  "_id": "l5wr3cwg4sh",
+  "name": "hiragana-ps",
+  "params": {
+    "h": "hiragana-hs"
+  },
+  "parents": [
+    "hiragana-script"
+  ],
+  "props": {
+    "jp": ""
+  },
+  "virtual": true
+}

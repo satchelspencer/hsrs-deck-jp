@@ -1,0 +1,16 @@
+{
+  "_id": "8ef051hp6lx",
+  "name": "hold-out-umbrella",
+  "order": "3",
+  "parents": [
+    "godan-su",
+    "people-do",
+    "te-iru-verbs-continuous",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "hold out",
+    "jp": "差す",
+    "tl": "さす"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "_id": "9p2se3oe9qn",
+  "mode": "p",
+  "name": "noun-deshita",
+  "order": "2",
+  "params": {
+    "noun": "root-nouns"
+  },
+  "parents": [
+    "noun-forms",
+    "ka-noun-forms",
+    "yo-noun-forms",
+    "conjunctive-noun-forms"
+  ],
+  "props": {
+    "en": "'was '+noun.en",
+    "jp": "noun.jp+'でした'"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "vmfy32h6fwq",
+  "name": "ken-buildings-countable-counter-root-buildings",
+  "params": {
+    "noun": "ken-buildings-countable",
+    "root": "counter-root-buildings"
+  },
+  "parents": [
+    "counter-noun"
+  ],
+  "props": {
+  }
+}

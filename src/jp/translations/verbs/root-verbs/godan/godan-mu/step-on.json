@@ -1,0 +1,16 @@
+{
+  "_id": "98td83hu27v",
+  "name": "step-on",
+  "order": "3",
+  "parents": [
+    "godan-mu",
+    "animals-do",
+    "people-do",
+    "do-to-objects"
+  ],
+  "props": {
+    "en": "step on",
+    "jp": "踏む",
+    "tl": "ふむ"
+  }
+}

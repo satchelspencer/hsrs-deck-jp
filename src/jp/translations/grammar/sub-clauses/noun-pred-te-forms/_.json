@@ -1,0 +1,14 @@
+{
+  "_id": "ktwinzwtfs",
+  "name": "noun-pred-te-forms",
+  "order": "3",
+  "params": {
+    "nform": "noun-plain"
+  },
+  "parents": [
+    "sub-clauses"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

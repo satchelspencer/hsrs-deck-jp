@@ -1,0 +1,13 @@
+{
+  "_id": "pmcskn8tgod",
+  "name": "anticipation",
+  "order": "3",
+  "parents": [
+    "na-activities-predonly"
+  ],
+  "props": {
+    "en": "anticipation",
+    "jp": "楽しみ",
+    "tl": "たのしみ"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "sixuc4h3asl",
+  "name": "shake-with-earthquake",
+  "params": {
+    "noun": "earthquake",
+    "verb": "shake"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "_id": "zx8rhhcrwr",
+  "constraint": "noun root",
+  "mode": "p",
+  "name": "noun-counter-kudasai",
+  "order": "2",
+  "params": {
+    "counter": "counter-kago-regular",
+    "crel": "counter-noun",
+    "noun": "products"
+  },
+  "parents": [
+    "requests"
+  ],
+  "props": {
+    "en": "counter.en+' of '+noun.en+' '+'please'",
+    "jp": "noun.jp+'を'+counter.jp+'下さい'",
+    "tl": "noun.tl+'を'+counter.tl+'ください'"
+  }
+}

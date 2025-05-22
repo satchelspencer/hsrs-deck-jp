@@ -1,0 +1,14 @@
+{
+  "_id": "euhip1s43g",
+  "name": "be-enough",
+  "order": "3",
+  "parents": [
+    "ichidan",
+    "do-to-quantities"
+  ],
+  "props": {
+    "en": "be enough",
+    "jp": "足りる",
+    "tl": "たりる"
+  }
+}

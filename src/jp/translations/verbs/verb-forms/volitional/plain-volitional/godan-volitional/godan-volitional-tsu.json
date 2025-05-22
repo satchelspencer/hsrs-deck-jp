@@ -1,0 +1,14 @@
+{
+  "_id": "vft221xkjzg",
+  "name": "godan-volitional-tsu",
+  "params": {
+    "verb": "godan-tsu"
+  },
+  "parents": [
+    "godan-volitional"
+  ],
+  "props": {
+    "en": null,
+    "jp": "verb.jp|r('つ', 'とう')"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "anjn76ezbtp",
+  "name": "light",
+  "order": "3",
+  "parents": [
+    "seeables"
+  ],
+  "props": {
+    "en": "light",
+    "jp": "光",
+    "tl": "ひかり"
+  }
+}

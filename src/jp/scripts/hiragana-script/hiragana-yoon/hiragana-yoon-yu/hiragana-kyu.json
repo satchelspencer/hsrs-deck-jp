@@ -1,0 +1,14 @@
+{
+  "_id": "edt5jir285",
+  "name": "hiragana-kyu",
+  "params": {
+    "iis": "hiragana-ki"
+  },
+  "parents": [
+    "hiragana-yoon-yu"
+  ],
+  "props": {
+    "_tl": "kyu",
+    "jp": "iis.jp+'ゅ'"
+  }
+}

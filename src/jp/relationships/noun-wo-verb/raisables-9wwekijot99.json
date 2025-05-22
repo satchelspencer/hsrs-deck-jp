@@ -1,0 +1,13 @@
+{
+  "_id": "sol1k9rzn1m",
+  "name": "raisables-9wwekijot99",
+  "params": {
+    "noun": "raisables",
+    "verb": "do-to-raiseables"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

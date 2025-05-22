@@ -1,0 +1,15 @@
+{
+  "_id": "0aygthpwpsfp",
+  "name": "become-cold",
+  "order": "3",
+  "parents": [
+    "ichidan",
+    "people-do",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "en": "become cold",
+    "jp": "冷える",
+    "tl": "ひえる"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "_id": "mmcrjm79zjm",
+  "constraint": "verb",
+  "name": "verb-ba-negative",
+  "params": {
+    "form": "plain-negative"
+  },
+  "parents": [
+    "verb-ba"
+  ],
+  "props": {
+    "en": "'if '+form.en",
+    "jp": "form.jp|r('ない', 'なければ')"
+  }
+}

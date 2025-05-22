@@ -1,0 +1,13 @@
+{
+  "_id": "bsfau098cb",
+  "name": "events-htiy2ompd4g",
+  "params": {
+    "noun": "events",
+    "verb": "events-do"
+  },
+  "parents": [
+    "noun-ga-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "v7qnilw318i",
+  "name": "gas-station",
+  "order": "4",
+  "parents": [
+    "establishments"
+  ],
+  "props": {
+    "en": "gas station",
+    "jp": "ガソリンスタンド",
+    "tl": "がそりんすたんど"
+  }
+}

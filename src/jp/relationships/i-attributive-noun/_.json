@@ -1,0 +1,15 @@
+{
+  "_id": "yttxq8dg4r",
+  "name": "i-attributive-noun",
+  "params": {
+    "iadj": "i-attributive",
+    "noun": "root-nouns"
+  },
+  "parents": [
+    "relationships",
+    "i-predicate-noun"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

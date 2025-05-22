@@ -1,0 +1,13 @@
+{
+  "_id": "lqji3u1lys",
+  "name": "writeables-rkw8l9vt309",
+  "params": {
+    "noun": "writeables",
+    "verb": "do-to-writeables"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

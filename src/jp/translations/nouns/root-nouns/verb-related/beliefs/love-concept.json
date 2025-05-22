@@ -1,0 +1,13 @@
+{
+  "_id": "8t8lkq8bed",
+  "name": "love-concept",
+  "order": "2",
+  "parents": [
+    "beliefs"
+  ],
+  "props": {
+    "en": "idea of love",
+    "jp": "愛",
+    "tl": "あい"
+  }
+}

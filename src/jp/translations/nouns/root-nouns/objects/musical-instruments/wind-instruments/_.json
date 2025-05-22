@@ -1,0 +1,10 @@
+{
+  "_id": "bs8mcdv5urm",
+  "name": "wind-instruments",
+  "parents": [
+    "musical-instruments"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

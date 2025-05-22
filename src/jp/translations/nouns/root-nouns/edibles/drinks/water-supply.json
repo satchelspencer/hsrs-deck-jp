@@ -1,0 +1,13 @@
+{
+  "_id": "2q0mdtfwz8y",
+  "name": "water-supply",
+  "order": "3",
+  "parents": [
+    "drinks"
+  ],
+  "props": {
+    "en": "water supply",
+    "jp": "水道",
+    "tl": "すいどう"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "a4jqjcfkdn6",
+  "name": "counter-ji-five",
+  "params": {
+    "number": "five"
+  },
+  "parents": [
+    "counter-ji"
+  ],
+  "props": {
+    "tl": "ご~じ"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "ay8bcgwnbcw",
+  "name": "na-attributive-plain",
+  "order": "1",
+  "params": {
+    "na": "na-attributive"
+  },
+  "parents": [
+    "na-attributive-forms",
+    "nda-na-forms"
+  ],
+  "props": {
+    "en": "na.en+'-ed'",
+    "jp": "na.jp+'な'"
+  }
+}

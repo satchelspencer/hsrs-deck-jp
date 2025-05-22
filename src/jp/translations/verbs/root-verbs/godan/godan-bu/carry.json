@@ -1,0 +1,18 @@
+{
+  "_id": "ikkrc1l2ze",
+  "name": "carry",
+  "order": "3",
+  "parents": [
+    "godan-bu",
+    "people-do",
+    "do-to-objects",
+    "ni-destination-verbs",
+    "te-iru-verbs-continuous",
+    "do-with-transports"
+  ],
+  "props": {
+    "en": "carry",
+    "jp": "運ぶ",
+    "tl": "はこぶ"
+  }
+}

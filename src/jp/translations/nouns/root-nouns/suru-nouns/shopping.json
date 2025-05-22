@@ -1,0 +1,17 @@
+{
+  "_id": "2vqugbzhtyd",
+  "name": "shopping",
+  "order": "1",
+  "parents": [
+    "suru-nouns",
+    "people-do",
+    "activities",
+    "te-iru-verbs-continuous",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "shopping",
+    "jp": "買い物",
+    "tl": "かいもの"
+  }
+}

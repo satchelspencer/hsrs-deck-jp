@@ -1,0 +1,14 @@
+{
+  "_id": "vc7k1kwn5sl",
+  "name": "this week",
+  "order": "1",
+  "parents": [
+    "relative-dates",
+    "ni-any-times"
+  ],
+  "props": {
+    "en": "this week",
+    "jp": "今週",
+    "tl": "こんしゅう"
+  }
+}

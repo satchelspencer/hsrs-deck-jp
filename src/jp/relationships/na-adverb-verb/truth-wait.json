@@ -1,0 +1,13 @@
+{
+  "_id": "iikvz8l6c8",
+  "name": "truth-wait",
+  "params": {
+    "na": "truth",
+    "verb": "wait"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

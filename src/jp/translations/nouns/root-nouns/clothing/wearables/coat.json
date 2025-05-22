@@ -1,0 +1,13 @@
+{
+  "_id": "52a7l1029ov",
+  "name": "coat",
+  "order": "1",
+  "parents": [
+    "wearables"
+  ],
+  "props": {
+    "en": "coat",
+    "jp": "コート",
+    "tl": "こーと"
+  }
+}

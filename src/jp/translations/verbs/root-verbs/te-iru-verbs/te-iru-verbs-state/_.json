@@ -1,0 +1,10 @@
+{
+  "_id": "jjftkiaiv3d",
+  "name": "te-iru-verbs-state",
+  "parents": [
+    "te-iru-verbs"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

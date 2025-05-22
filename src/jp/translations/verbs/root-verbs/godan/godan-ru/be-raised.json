@@ -1,0 +1,16 @@
+{
+  "_id": "fuojbqeya2",
+  "name": "be-raised",
+  "order": "3",
+  "parents": [
+    "godan-ru",
+    "raisables-do",
+    "te-iru-verbs-continuous",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "be raised",
+    "jp": "上がる",
+    "tl": "あがる"
+  }
+}

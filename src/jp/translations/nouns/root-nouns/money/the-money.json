@@ -1,0 +1,15 @@
+{
+  "_id": "wohaqz9f01q",
+  "name": "the-money",
+  "order": "2",
+  "parents": [
+    "money",
+    "divisible",
+    "quantities"
+  ],
+  "props": {
+    "en": "money",
+    "jp": "金",
+    "tl": "かね"
+  }
+}

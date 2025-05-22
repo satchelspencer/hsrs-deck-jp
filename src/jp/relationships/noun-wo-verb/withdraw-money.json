@@ -1,0 +1,13 @@
+{
+  "_id": "zqu8jcstkxi",
+  "name": "withdraw-money",
+  "params": {
+    "noun": "money",
+    "verb": "withdraw"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

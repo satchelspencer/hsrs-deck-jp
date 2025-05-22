@@ -1,0 +1,13 @@
+{
+  "_id": "kwin0bsghng",
+  "name": "counter-ji-ten",
+  "params": {
+    "number": "ten"
+  },
+  "parents": [
+    "counter-ji"
+  ],
+  "props": {
+    "tl": "じゅう~じ"
+  }
+}

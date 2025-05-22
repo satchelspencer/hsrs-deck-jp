@@ -1,0 +1,13 @@
+{
+  "_id": "eucyh85va7c",
+  "name": "leaf",
+  "order": "3",
+  "parents": [
+    "plants"
+  ],
+  "props": {
+    "en": "leaf",
+    "jp": "葉",
+    "tl": "は"
+  }
+}

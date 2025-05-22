@@ -1,0 +1,13 @@
+{
+  "_id": "1jo26phgnll",
+  "name": "nice-guide",
+  "params": {
+    "iadj": "nice",
+    "verb": "guidance"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

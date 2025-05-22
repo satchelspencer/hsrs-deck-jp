@@ -1,0 +1,16 @@
+{
+  "_id": "dn7mlqccijp",
+  "name": "place-no-positional",
+  "order": "2",
+  "params": {
+    "noun": "",
+    "pos": "positional-words"
+  },
+  "parents": [
+    "relative-places"
+  ],
+  "props": {
+    "en": "pos.en+' of '+noun.en",
+    "jp": "noun.jp+'の'+pos.jp"
+  }
+}

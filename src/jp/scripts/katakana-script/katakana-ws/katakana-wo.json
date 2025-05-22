@@ -1,0 +1,11 @@
+{
+  "_id": "fa3aw2cyz8v",
+  "name": "katakana-wo",
+  "parents": [
+    "katakana-ws"
+  ],
+  "props": {
+    "_tl": "wo",
+    "jp": "ヲ"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "t8w0nelyuo",
+  "name": "sara-countable-counter-root-plates",
+  "params": {
+    "noun": "sara-countable",
+    "root": "counter-root-plates"
+  },
+  "parents": [
+    "counter-noun"
+  ],
+  "props": {
+  }
+}

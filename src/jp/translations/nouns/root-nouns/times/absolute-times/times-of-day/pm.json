@@ -1,0 +1,14 @@
+{
+  "_id": "uaih9iyskdi",
+  "name": "pm",
+  "order": "2",
+  "parents": [
+    "times-of-day",
+    "am-pm"
+  ],
+  "props": {
+    "en": "p.m.",
+    "jp": "午後",
+    "tl": "ごご"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "gkvp3m1v27i",
+  "name": "hiragana-po",
+  "params": {
+    "h": "hiragana-ho"
+  },
+  "parents": [
+    "hiragana-ps"
+  ],
+  "props": {
+    "_tl": "po",
+    "jp": "ぽ"
+  }
+}

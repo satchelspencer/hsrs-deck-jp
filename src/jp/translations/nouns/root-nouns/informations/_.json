@@ -1,0 +1,11 @@
+{
+  "_id": "h9oi6ft6rj",
+  "name": "informations",
+  "parents": [
+    "root-nouns",
+    "fines"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

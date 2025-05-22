@@ -1,0 +1,13 @@
+{
+  "_id": "dm0pr9rcgoi",
+  "name": "cool-temp-become",
+  "params": {
+    "iadj": "cool-temp",
+    "verb": "become"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

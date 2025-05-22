@@ -1,0 +1,15 @@
+{
+  "_id": "q1tf2wfs0z",
+  "name": "become-dirty",
+  "order": "3",
+  "parents": [
+    "ichidan",
+    "objects-do",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "en": "become dirty",
+    "jp": "汚れる",
+    "tl": "よごれる"
+  }
+}

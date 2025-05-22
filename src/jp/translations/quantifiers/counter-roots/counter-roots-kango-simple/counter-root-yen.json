@@ -1,0 +1,14 @@
+{
+  "_id": "kbilvj4jpyg",
+  "name": "counter-root-yen",
+  "order": "1",
+  "parents": [
+    "counter-roots-kango-simple",
+    "money"
+  ],
+  "props": {
+    "en": "yen",
+    "jp": "円",
+    "tl": "えん"
+  }
+}

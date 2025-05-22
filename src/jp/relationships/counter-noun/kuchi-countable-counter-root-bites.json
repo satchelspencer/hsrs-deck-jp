@@ -1,0 +1,13 @@
+{
+  "_id": "zigkd8w105",
+  "name": "kuchi-countable-counter-root-bites",
+  "params": {
+    "noun": "kuchi-countable",
+    "root": "counter-root-bites"
+  },
+  "parents": [
+    "counter-noun"
+  ],
+  "props": {
+  }
+}

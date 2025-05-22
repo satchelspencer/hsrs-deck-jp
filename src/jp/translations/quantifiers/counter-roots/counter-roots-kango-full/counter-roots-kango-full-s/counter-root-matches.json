@@ -1,0 +1,13 @@
+{
+  "_id": "tvtajwuhrs",
+  "name": "counter-root-matches",
+  "order": "4",
+  "parents": [
+    "counter-roots-kango-full-s"
+  ],
+  "props": {
+    "en": "matches",
+    "jp": "試合",
+    "tl": "しあい"
+  }
+}

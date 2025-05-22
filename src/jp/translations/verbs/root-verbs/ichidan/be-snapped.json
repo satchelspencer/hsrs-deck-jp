@@ -1,0 +1,13 @@
+{
+  "_id": "d7vddtwzyrk",
+  "name": "be-snapped",
+  "order": "3",
+  "parents": [
+    "ichidan"
+  ],
+  "props": {
+    "en": "be snapped",
+    "jp": "折れる",
+    "tl": "おれる"
+  }
+}

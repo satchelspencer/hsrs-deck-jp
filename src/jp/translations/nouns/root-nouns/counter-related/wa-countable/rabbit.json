@@ -1,0 +1,13 @@
+{
+  "_id": "lw1akko3aec",
+  "name": "rabbit",
+  "order": "2",
+  "parents": [
+    "wa-countable",
+    "animals"
+  ],
+  "props": {
+    "en": "rabbit",
+    "jp": "うさぎ"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "8gf0whkj0gx",
+  "name": "basketball",
+  "order": "3",
+  "parents": [
+    "activities",
+    "shiai-countable"
+  ],
+  "props": {
+    "en": "basketball",
+    "jp": "バスケットボール"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "_id": "ous3nmgljt",
+  "name": "hair",
+  "order": "1",
+  "parents": [
+    "tall-growing",
+    "body-parts",
+    "short-long"
+  ],
+  "props": {
+    "en": "hair",
+    "jp": "髪",
+    "tl": "かみ"
+  }
+}

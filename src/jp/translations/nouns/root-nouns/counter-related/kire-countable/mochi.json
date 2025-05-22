@@ -1,0 +1,14 @@
+{
+  "_id": "fqo68xrtp8j",
+  "name": "mochi",
+  "order": "2",
+  "parents": [
+    "kire-countable",
+    "foods"
+  ],
+  "props": {
+    "en": "mochi",
+    "jp": "餅",
+    "tl": "もち"
+  }
+}

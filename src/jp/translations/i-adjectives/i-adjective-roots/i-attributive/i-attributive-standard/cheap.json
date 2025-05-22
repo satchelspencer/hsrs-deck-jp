@@ -1,0 +1,13 @@
+{
+  "_id": "u6sug44x3m8",
+  "name": "cheap",
+  "order": "1",
+  "parents": [
+    "i-attributive-standard"
+  ],
+  "props": {
+    "en": "cheap",
+    "jp": "安い",
+    "tl": "やすい"
+  }
+}

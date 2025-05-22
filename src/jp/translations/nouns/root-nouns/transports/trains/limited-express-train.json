@@ -1,0 +1,13 @@
+{
+  "_id": "nxmagtlkrq",
+  "name": "limited-express-train",
+  "order": "4",
+  "parents": [
+    "trains"
+  ],
+  "props": {
+    "en": "limited express train",
+    "jp": "特急",
+    "tl": "とっきゅう"
+  }
+}

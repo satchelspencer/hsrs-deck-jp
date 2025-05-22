@@ -1,0 +1,13 @@
+{
+  "_id": "tnohfssce0f",
+  "name": "no-good",
+  "order": "1",
+  "parents": [
+    "na-predonly"
+  ],
+  "props": {
+    "en": "no good",
+    "jp": "駄目",
+    "tl": "だめ"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "vfwtbiv8dl",
+  "mode": "p",
+  "name": "extremely-polite",
+  "order": "3",
+  "parents": [
+    "i-adverbs"
+  ],
+  "props": {
+    "en": "extremely",
+    "jp": "非常に",
+    "tl": "ひじょうに"
+  }
+}

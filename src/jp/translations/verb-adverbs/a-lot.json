@@ -1,0 +1,12 @@
+{
+  "_id": "vfbu3xe39k",
+  "name": "a-lot",
+  "order": "1",
+  "parents": [
+    "verb-adverbs"
+  ],
+  "props": {
+    "en": "a lot",
+    "jp": "たくさん"
+  }
+}

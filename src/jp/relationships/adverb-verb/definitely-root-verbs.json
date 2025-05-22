@@ -1,0 +1,13 @@
+{
+  "_id": "whg8f1vslt",
+  "name": "definitely-root-verbs",
+  "params": {
+    "adv": "definitely",
+    "verb": "root-verbs"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

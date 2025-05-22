@@ -1,0 +1,13 @@
+{
+  "_id": "53f951w2nxg",
+  "name": "irregular-plain",
+  "params": {
+    "verb": "irregular"
+  },
+  "parents": [
+    "plain"
+  ],
+  "props": {
+    "tl": "$.jp"
+  }
+}

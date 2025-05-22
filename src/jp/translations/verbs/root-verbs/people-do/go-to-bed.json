@@ -1,0 +1,16 @@
+{
+  "_id": "3cp9cx3b626",
+  "name": "go-to-bed",
+  "order": "1",
+  "parents": [
+    "people-do",
+    "animals-do",
+    "te-iru-verbs-continuous",
+    "ichidan"
+  ],
+  "props": {
+    "en": "go to bed",
+    "jp": "寝る",
+    "tl": "ねる"
+  }
+}

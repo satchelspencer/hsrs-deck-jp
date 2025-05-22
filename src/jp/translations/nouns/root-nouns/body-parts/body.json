@@ -1,0 +1,14 @@
+{
+  "_id": "bdq4tslgc8n",
+  "name": "body",
+  "order": "2",
+  "parents": [
+    "body-parts",
+    "healthfuls"
+  ],
+  "props": {
+    "en": "body",
+    "jp": "体",
+    "tl": "からだ"
+  }
+}

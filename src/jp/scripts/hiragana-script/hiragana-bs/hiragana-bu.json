@@ -1,0 +1,14 @@
+{
+  "_id": "4zyh4d8dufx",
+  "name": "hiragana-bu",
+  "params": {
+    "h": "hiragana-fu"
+  },
+  "parents": [
+    "hiragana-bs"
+  ],
+  "props": {
+    "_tl": "bu",
+    "jp": "ぶ"
+  }
+}

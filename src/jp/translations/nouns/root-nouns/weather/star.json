@@ -1,0 +1,14 @@
+{
+  "_id": "aofd4mx9ksm",
+  "name": "star",
+  "order": "3",
+  "parents": [
+    "weather",
+    "shiners"
+  ],
+  "props": {
+    "en": "star",
+    "jp": "星",
+    "tl": "ほし"
+  }
+}

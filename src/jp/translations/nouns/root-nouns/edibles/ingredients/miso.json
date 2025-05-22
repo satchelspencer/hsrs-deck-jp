@@ -1,0 +1,13 @@
+{
+  "_id": "jlc9yz6za3",
+  "name": "miso",
+  "order": "3",
+  "parents": [
+    "ingredients"
+  ],
+  "props": {
+    "en": "miso",
+    "jp": "味噌",
+    "tl": "みそ"
+  }
+}

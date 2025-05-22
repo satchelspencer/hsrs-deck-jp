@@ -1,0 +1,18 @@
+{
+  "_id": "j2xklppuy6",
+  "name": "send",
+  "order": "2",
+  "parents": [
+    "godan-ru",
+    "people-do",
+    "do-to-sendables",
+    "he-related-verbs",
+    "ni-person-verbs",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "en": "send",
+    "jp": "送る",
+    "tl": "おくる"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "_id": "qtxvxue15tn",
+  "name": "grass",
+  "order": "2",
+  "parents": [
+    "tall-growing",
+    "plants",
+    "building-materials"
+  ],
+  "props": {
+    "en": "grass",
+    "jp": "草",
+    "tl": "くさ"
+  }
+}

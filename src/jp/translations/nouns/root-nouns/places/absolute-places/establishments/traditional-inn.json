@@ -1,0 +1,13 @@
+{
+  "_id": "65rhayqtmqf",
+  "name": "traditional-inn",
+  "order": "3",
+  "parents": [
+    "establishments"
+  ],
+  "props": {
+    "en": "traditional inn",
+    "jp": "旅館",
+    "tl": "りょかん"
+  }
+}

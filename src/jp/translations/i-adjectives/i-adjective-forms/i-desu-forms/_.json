@@ -1,0 +1,12 @@
+{
+  "_id": "2uavf6k2oks",
+  "name": "i-desu-forms",
+  "parents": [
+    "i-adjective-forms",
+    "i-predicate-forms",
+    "embedded-questions"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

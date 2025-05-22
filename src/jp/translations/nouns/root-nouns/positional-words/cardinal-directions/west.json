@@ -1,0 +1,12 @@
+{
+  "_id": "la8mzjy0gh",
+  "name": "west",
+  "parents": [
+    "cardinal-directions"
+  ],
+  "props": {
+    "en": "west",
+    "jp": "西",
+    "tl": "にし"
+  }
+}

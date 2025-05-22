@@ -1,0 +1,16 @@
+{
+  "_id": "u2l51uwcvv",
+  "constraint": "na",
+  "name": "na-adjective-yo",
+  "order": "3",
+  "params": {
+    "form": "yo-ne-na-forms"
+  },
+  "parents": [
+    "na-adjective-forms"
+  ],
+  "props": {
+    "en": "form.en+e(', you know')",
+    "jp": "form.jp+'よ'"
+  }
+}

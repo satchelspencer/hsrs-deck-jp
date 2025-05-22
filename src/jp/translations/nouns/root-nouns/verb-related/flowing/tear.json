@@ -1,0 +1,13 @@
+{
+  "_id": "2xa4ribjcr5",
+  "name": "tear",
+  "order": "3",
+  "parents": [
+    "flowing"
+  ],
+  "props": {
+    "en": "tear",
+    "jp": "涙",
+    "tl": "なみだ"
+  }
+}

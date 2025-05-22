@@ -1,0 +1,13 @@
+{
+  "_id": "2nme1hko2r4",
+  "name": "robust-people",
+  "params": {
+    "na": "robust",
+    "noun": "people"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

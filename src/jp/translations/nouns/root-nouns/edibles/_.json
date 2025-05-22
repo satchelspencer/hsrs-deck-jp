@@ -1,0 +1,11 @@
+{
+  "_id": "s4lfvqijjrd",
+  "name": "edibles",
+  "parents": [
+    "root-nouns",
+    "products"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

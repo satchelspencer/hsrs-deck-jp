@@ -1,0 +1,16 @@
+{
+  "_id": "jee4mb8go19",
+  "name": "go-forward",
+  "order": "2",
+  "parents": [
+    "godan-mu",
+    "movers-do",
+    "he-related-verbs",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "en": "go forward",
+    "jp": "進む",
+    "tl": "すすむ"
+  }
+}

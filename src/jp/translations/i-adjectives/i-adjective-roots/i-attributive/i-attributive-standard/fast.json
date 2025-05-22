@@ -1,0 +1,14 @@
+{
+  "_id": "ppyycw95rs",
+  "name": "fast",
+  "order": "3",
+  "parents": [
+    "i-attributive-standard",
+    "i-people"
+  ],
+  "props": {
+    "en": "fast",
+    "jp": "速い",
+    "tl": "はやい"
+  }
+}

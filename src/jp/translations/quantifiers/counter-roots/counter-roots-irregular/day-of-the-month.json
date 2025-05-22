@@ -1,0 +1,13 @@
+{
+  "_id": "viderk6n4ir",
+  "name": "day-of-the-month",
+  "order": "1",
+  "parents": [
+    "counter-roots-irregular"
+  ],
+  "props": {
+    "en": "day of the month",
+    "jp": "日",
+    "tl": "にち"
+  }
+}

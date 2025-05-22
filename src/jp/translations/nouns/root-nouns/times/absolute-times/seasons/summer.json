@@ -1,0 +1,12 @@
+{
+  "_id": "evl7hzg2qge",
+  "name": "summer",
+  "parents": [
+    "seasons"
+  ],
+  "props": {
+    "en": "summer",
+    "jp": "夏",
+    "tl": "なつ"
+  }
+}

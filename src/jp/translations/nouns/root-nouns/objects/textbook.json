@@ -1,0 +1,20 @@
+{
+  "_id": "amd1a99lf7f",
+  "name": "textbook",
+  "order": "3",
+  "parents": [
+    "objects",
+    "products",
+    "readables",
+    "hiraku-tojiru",
+    "writeables",
+    "media",
+    "thins",
+    "satsu-countable"
+  ],
+  "props": {
+    "en": "text",
+    "jp": "テキスト",
+    "tl": "てきすと"
+  }
+}

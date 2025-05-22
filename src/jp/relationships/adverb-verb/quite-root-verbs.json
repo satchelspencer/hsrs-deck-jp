@@ -1,0 +1,13 @@
+{
+  "_id": "lx9z7jvi3t",
+  "name": "quite-root-verbs",
+  "params": {
+    "adv": "quite",
+    "verb": "root-verbs"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "0al49zas38jh",
+  "name": "escape",
+  "order": "3",
+  "parents": [
+    "people-do",
+    "animals-do",
+    "he-related-verbs",
+    "te-iru-verbs-continuous",
+    "ichidan"
+  ],
+  "props": {
+    "en": "escape",
+    "jp": "逃げる",
+    "tl": "にげる"
+  }
+}

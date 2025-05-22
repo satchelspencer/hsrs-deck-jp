@@ -1,0 +1,12 @@
+{
+  "_id": "dm0kmth28b",
+  "name": "appliances",
+  "parents": [
+    "objects",
+    "electrics",
+    "dai-countable"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

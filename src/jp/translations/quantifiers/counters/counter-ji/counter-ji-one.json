@@ -1,0 +1,13 @@
+{
+  "_id": "7maqz407ebc",
+  "name": "counter-ji-one",
+  "params": {
+    "number": "one"
+  },
+  "parents": [
+    "counter-ji"
+  ],
+  "props": {
+    "tl": "いち~じ"
+  }
+}

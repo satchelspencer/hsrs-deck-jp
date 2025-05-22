@@ -1,0 +1,13 @@
+{
+  "_id": "6i93z8r6kd4",
+  "name": "your-home",
+  "order": "3",
+  "parents": [
+    "absolute-places"
+  ],
+  "props": {
+    "en": "your home",
+    "jp": "お宅",
+    "tl": "おたく"
+  }
+}

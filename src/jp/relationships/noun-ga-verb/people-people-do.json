@@ -1,0 +1,13 @@
+{
+  "_id": "w0ug6nsbv1",
+  "name": "people-people-do",
+  "params": {
+    "noun": "people",
+    "verb": "people-do"
+  },
+  "parents": [
+    "noun-ga-verb"
+  ],
+  "props": {
+  }
+}

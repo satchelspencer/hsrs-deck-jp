@@ -1,0 +1,13 @@
+{
+  "_id": "8ndz4vobpbi",
+  "name": "counter-ji-four",
+  "params": {
+    "number": "four"
+  },
+  "parents": [
+    "counter-ji"
+  ],
+  "props": {
+    "tl": "よ~じ"
+  }
+}

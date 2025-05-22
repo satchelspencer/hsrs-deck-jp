@@ -1,0 +1,13 @@
+{
+  "_id": "a49wpv9tvjb",
+  "name": "government-worker",
+  "order": "4",
+  "parents": [
+    "roles"
+  ],
+  "props": {
+    "en": "government worker",
+    "jp": "公務員",
+    "tl": "こうむいん"
+  }
+}

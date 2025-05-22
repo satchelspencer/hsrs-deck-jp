@@ -1,0 +1,13 @@
+{
+  "_id": "l0gqx4f5phg",
+  "name": "more-people-do",
+  "params": {
+    "adv": "more",
+    "verb": "people-do"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

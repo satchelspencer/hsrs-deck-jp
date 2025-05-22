@@ -1,0 +1,16 @@
+{
+  "_id": "3oifuai6hko",
+  "name": "kara-made-time-clause",
+  "order": "3",
+  "params": {
+    "clause": "temporal-verb-clauses",
+    "km": "kara-made-times"
+  },
+  "parents": [
+    "kara-made"
+  ],
+  "props": {
+    "en": "km.en+' '+clause.en",
+    "jp": "km.jp+clause.jp"
+  }
+}

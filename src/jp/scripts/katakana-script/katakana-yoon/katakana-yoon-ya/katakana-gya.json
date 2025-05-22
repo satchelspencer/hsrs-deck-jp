@@ -1,0 +1,13 @@
+{
+  "_id": "wwodc9jqkfq",
+  "name": "katakana-gya",
+  "params": {
+    "iis": "katakana-gi"
+  },
+  "parents": [
+    "katakana-yoon-ya"
+  ],
+  "props": {
+    "_tl": "gya"
+  }
+}

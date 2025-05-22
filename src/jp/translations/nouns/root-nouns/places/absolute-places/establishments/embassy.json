@@ -1,0 +1,14 @@
+{
+  "_id": "e3ptxl1yqx7",
+  "name": "embassy",
+  "order": "3",
+  "parents": [
+    "establishments",
+    "country-no"
+  ],
+  "props": {
+    "en": "embassy",
+    "jp": "大使館",
+    "tl": "たいしかん"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "z2p08j4ynu",
+  "name": "cheap-buy",
+  "params": {
+    "iadj": "cheap",
+    "verb": "buy"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

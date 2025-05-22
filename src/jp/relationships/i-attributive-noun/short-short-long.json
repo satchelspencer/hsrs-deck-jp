@@ -1,0 +1,13 @@
+{
+  "_id": "ts5v5esk8oj",
+  "name": "short-short-long",
+  "params": {
+    "iadj": "short",
+    "noun": "short-long"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "rea2se9hpn",
+  "name": "counter-jikan-six",
+  "params": {
+    "number": "six"
+  },
+  "parents": [
+    "counter-jikan"
+  ],
+  "props": {
+    "tl": "ろく~じかん"
+  }
+}

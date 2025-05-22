@@ -1,0 +1,16 @@
+{
+  "_id": "5g0l1w7nj74",
+  "name": "conjunctive-tara-clause",
+  "order": "4",
+  "params": {
+    "clause": "clauses",
+    "tara": "tara-conditional-clauses"
+  },
+  "parents": [
+    "complex-clauses"
+  ],
+  "props": {
+    "en": "tara.en+', then '+clause.en",
+    "jp": "tara.jp+'、'+clause.jp"
+  }
+}

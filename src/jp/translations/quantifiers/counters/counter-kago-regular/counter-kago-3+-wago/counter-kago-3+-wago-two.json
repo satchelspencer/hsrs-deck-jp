@@ -1,0 +1,13 @@
+{
+  "_id": "xu23e4sekta",
+  "name": "counter-kago-3+-wago-two",
+  "params": {
+    "number": "two"
+  },
+  "parents": [
+    "counter-kago-3+-wago"
+  ],
+  "props": {
+    "tl": "'ふた'+root.tl"
+  }
+}

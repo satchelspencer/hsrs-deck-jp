@@ -1,0 +1,12 @@
+{
+  "_id": "k1muihibip",
+  "name": "katakana-ni",
+  "parents": [
+    "katakana-ns",
+    "katakana-iis"
+  ],
+  "props": {
+    "_tl": "ni",
+    "jp": "ニ"
+  }
+}

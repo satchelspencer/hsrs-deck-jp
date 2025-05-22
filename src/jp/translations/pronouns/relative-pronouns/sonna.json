@@ -1,0 +1,15 @@
+{
+  "_id": "7g4wwelg72j",
+  "name": "sonna",
+  "order": "3",
+  "params": {
+    "noun": "seeables"
+  },
+  "parents": [
+    "relative-pronouns"
+  ],
+  "props": {
+    "en": "noun.en+' like that'",
+    "jp": "'そんな'+noun.jp"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "_id": "j6k6x1snrch",
+  "name": "writing-systems",
+  "parents": [
+    "language"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

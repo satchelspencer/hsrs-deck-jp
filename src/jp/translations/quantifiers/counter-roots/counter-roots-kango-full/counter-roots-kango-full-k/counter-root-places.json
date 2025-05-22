@@ -1,0 +1,13 @@
+{
+  "_id": "nrwupyus3i",
+  "name": "counter-root-places",
+  "order": "2",
+  "parents": [
+    "counter-roots-kango-full-k"
+  ],
+  "props": {
+    "en": "places",
+    "jp": "ヶ所",
+    "tl": "かしょ"
+  }
+}

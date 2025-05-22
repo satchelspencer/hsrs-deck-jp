@@ -1,0 +1,13 @@
+{
+  "_id": "iby26o88w8",
+  "name": "air-cooling",
+  "order": "4",
+  "parents": [
+    "electrics"
+  ],
+  "props": {
+    "en": "air-cooling",
+    "jp": "冷房",
+    "tl": "れいぼう"
+  }
+}

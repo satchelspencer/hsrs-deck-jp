@@ -1,0 +1,13 @@
+{
+  "_id": "gi3shfsmniw",
+  "name": "throat",
+  "order": "3",
+  "parents": [
+    "body-parts"
+  ],
+  "props": {
+    "en": "throat",
+    "jp": "喉",
+    "tl": "のど"
+  }
+}

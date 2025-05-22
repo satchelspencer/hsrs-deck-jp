@@ -1,0 +1,13 @@
+{
+  "_id": "5gqbgg4l2yb",
+  "name": "capital-city",
+  "order": "3",
+  "parents": [
+    "country-no"
+  ],
+  "props": {
+    "en": "capital city",
+    "jp": "首都",
+    "tl": "しゅと"
+  }
+}

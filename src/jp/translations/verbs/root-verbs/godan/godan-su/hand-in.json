@@ -1,0 +1,18 @@
+{
+  "_id": "9c9hqc54fd4",
+  "name": "hand-in",
+  "order": "3",
+  "parents": [
+    "godan-su",
+    "people-do",
+    "do-to-objects",
+    "ni-person-verbs",
+    "te-iru-verbs-state",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "hand in",
+    "jp": "渡す",
+    "tl": "わたす"
+  }
+}

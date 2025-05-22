@@ -1,0 +1,13 @@
+{
+  "_id": "wwihruqis9n",
+  "name": "power",
+  "order": "3",
+  "parents": [
+    "people-no"
+  ],
+  "props": {
+    "en": "power",
+    "jp": "力",
+    "tl": "ちから"
+  }
+}

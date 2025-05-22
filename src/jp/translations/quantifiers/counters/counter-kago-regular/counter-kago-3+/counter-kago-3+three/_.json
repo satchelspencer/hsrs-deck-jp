@@ -1,0 +1,13 @@
+{
+  "_id": "l27o8kad3g8",
+  "name": "counter-kago-3+three",
+  "params": {
+    "number": "three"
+  },
+  "parents": [
+    "counter-kago-3+"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

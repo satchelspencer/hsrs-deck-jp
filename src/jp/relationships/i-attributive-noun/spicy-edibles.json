@@ -1,0 +1,13 @@
+{
+  "_id": "8eka4ejc0kx",
+  "name": "spicy-edibles",
+  "params": {
+    "iadj": "spicy",
+    "noun": "edibles"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

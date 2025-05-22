@@ -1,0 +1,17 @@
+{
+  "_id": "t3qsc6yps2",
+  "name": "kill",
+  "order": "2",
+  "parents": [
+    "godan-su",
+    "people-do",
+    "do-to-living-things",
+    "te-iru-verbs-state",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "kill",
+    "jp": "殺す",
+    "tl": "ころす"
+  }
+}

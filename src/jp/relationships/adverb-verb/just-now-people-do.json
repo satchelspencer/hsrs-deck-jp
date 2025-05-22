@@ -1,0 +1,13 @@
+{
+  "_id": "o2i1rovvjl",
+  "name": "just-now-people-do",
+  "params": {
+    "adv": "just-now",
+    "verb": "people-do"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

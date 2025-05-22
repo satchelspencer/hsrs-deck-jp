@@ -1,0 +1,13 @@
+{
+  "_id": "lulnpkp3ye",
+  "name": "fun-celebration",
+  "params": {
+    "iadj": "fun",
+    "verb": "celebration"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

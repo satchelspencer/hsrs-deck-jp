@@ -1,0 +1,13 @@
+{
+  "_id": "tae6r0ay3qi",
+  "name": "literature",
+  "order": "3",
+  "parents": [
+    "readables"
+  ],
+  "props": {
+    "en": "literature",
+    "jp": "文学",
+    "tl": "ぶんがく"
+  }
+}

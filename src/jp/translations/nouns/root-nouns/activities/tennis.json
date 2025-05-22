@@ -1,0 +1,13 @@
+{
+  "_id": "1r0uowmtbl",
+  "name": "tennis",
+  "order": "2",
+  "parents": [
+    "activities",
+    "shiai-countable"
+  ],
+  "props": {
+    "en": "tennis",
+    "jp": "テニス"
+  }
+}

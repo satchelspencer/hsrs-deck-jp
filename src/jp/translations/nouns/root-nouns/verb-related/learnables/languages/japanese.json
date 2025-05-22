@@ -1,0 +1,13 @@
+{
+  "_id": "zphvcmggw2",
+  "name": "japanese",
+  "order": "1",
+  "parents": [
+    "languages"
+  ],
+  "props": {
+    "en": "japanese",
+    "jp": "日本語",
+    "tl": "にほんご"
+  }
+}

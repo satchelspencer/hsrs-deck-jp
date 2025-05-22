@@ -1,0 +1,13 @@
+{
+  "_id": "zi4geeruiym",
+  "name": "happiness-be-living",
+  "params": {
+    "na": "happiness",
+    "verb": "be-living"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "_id": "dz8pg2pl8mb",
+  "name": "katakana-ys",
+  "parents": [
+    "katakana-script"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

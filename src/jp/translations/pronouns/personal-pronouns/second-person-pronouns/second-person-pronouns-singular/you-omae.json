@@ -1,0 +1,14 @@
+{
+  "_id": "chgp4dsguql",
+  "mode": "cmr",
+  "name": "you-omae",
+  "order": "3",
+  "parents": [
+    "second-person-pronouns-singular"
+  ],
+  "props": {
+    "en": "you",
+    "jp": "お前",
+    "tl": "おまえ"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "6ljhpw0b78h",
+  "name": "happiness",
+  "order": "2",
+  "parents": [
+    "na-nouns",
+    "na-people"
+  ],
+  "props": {
+    "en": "happiness",
+    "jp": "幸せ",
+    "tl": "しあわせ"
+  }
+}

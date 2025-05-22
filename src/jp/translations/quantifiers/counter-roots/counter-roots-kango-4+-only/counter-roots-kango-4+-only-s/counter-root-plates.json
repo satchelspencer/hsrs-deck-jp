@@ -1,0 +1,13 @@
+{
+  "_id": "20z1zl0iux5i",
+  "name": "counter-root-plates",
+  "order": "2",
+  "parents": [
+    "counter-roots-kango-4+-only-s"
+  ],
+  "props": {
+    "en": "plates",
+    "jp": "皿",
+    "tl": "さら"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "apd9io35rfg",
+  "name": "take-out",
+  "order": "2",
+  "parents": [
+    "godan-su",
+    "people-do",
+    "ni-destination-verbs",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "en": "take out",
+    "jp": "出す",
+    "tl": "だす"
+  }
+}

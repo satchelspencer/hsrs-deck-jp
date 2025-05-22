@@ -1,0 +1,13 @@
+{
+  "_id": "rfkqmot08g9",
+  "name": "all-good",
+  "order": "1",
+  "parents": [
+    "na-predonly"
+  ],
+  "props": {
+    "en": "all good",
+    "jp": "大丈夫",
+    "tl": "だいじょうぶ"
+  }
+}

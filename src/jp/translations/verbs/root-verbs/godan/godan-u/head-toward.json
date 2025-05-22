@@ -1,0 +1,17 @@
+{
+  "_id": "662ok07kvy2",
+  "name": "head-toward",
+  "order": "2",
+  "parents": [
+    "godan-u",
+    "people-do",
+    "movers-do",
+    "he-related-verbs",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "en": "head toward",
+    "jp": "向かう",
+    "tl": "むかう"
+  }
+}

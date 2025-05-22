@@ -1,0 +1,13 @@
+{
+  "_id": "is50ij9vfge",
+  "name": "counter-root-slices",
+  "order": "2",
+  "parents": [
+    "counter-roots-kango-4+-only-k"
+  ],
+  "props": {
+    "en": "slices",
+    "jp": "切れ",
+    "tl": "きれ"
+  }
+}

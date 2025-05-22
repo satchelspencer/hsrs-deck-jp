@@ -1,0 +1,13 @@
+{
+  "_id": "akt1x5cfesl",
+  "name": "parents",
+  "order": "2",
+  "parents": [
+    "family"
+  ],
+  "props": {
+    "en": "parents",
+    "jp": "両親",
+    "tl": "りょうしん"
+  }
+}

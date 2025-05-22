@@ -1,0 +1,15 @@
+{
+  "_id": "2ag1bngk2fe",
+  "name": "be-increased",
+  "order": "3",
+  "parents": [
+    "quantities-do",
+    "te-iru-verbs-state",
+    "ichidan"
+  ],
+  "props": {
+    "en": "be increased",
+    "jp": "増える",
+    "tl": "ふえる"
+  }
+}

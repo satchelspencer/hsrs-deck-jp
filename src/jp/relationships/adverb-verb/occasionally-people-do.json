@@ -1,0 +1,13 @@
+{
+  "_id": "jinmq9bsxye",
+  "name": "occasionally-people-do",
+  "params": {
+    "adv": "occasionally",
+    "verb": "people-do"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

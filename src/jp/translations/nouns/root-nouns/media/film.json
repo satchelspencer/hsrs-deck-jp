@@ -1,0 +1,13 @@
+{
+  "_id": "mn6oak7f3rd",
+  "name": "film",
+  "order": "2",
+  "parents": [
+    "media"
+  ],
+  "props": {
+    "en": "film",
+    "jp": "フィルム",
+    "tl": "ふぃるむ"
+  }
+}

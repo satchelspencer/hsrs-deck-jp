@@ -1,0 +1,11 @@
+{
+  "_id": "gro2xo5hle5",
+  "name": "cardinal-directions",
+  "order": "2",
+  "parents": [
+    "positional-words"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "ofh6wqog9ne",
+  "name": "object-question-words-do-to-objects",
+  "params": {
+    "qw": "object-question-words",
+    "verb": "do-to-objects"
+  },
+  "parents": [
+    "question-wo-verb"
+  ],
+  "props": {
+  }
+}

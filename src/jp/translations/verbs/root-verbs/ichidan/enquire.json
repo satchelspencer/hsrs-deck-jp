@@ -1,0 +1,16 @@
+{
+  "_id": "j1ouzpfzwm",
+  "name": "enquire",
+  "order": "3",
+  "parents": [
+    "ichidan",
+    "people-do",
+    "ni-person-verbs",
+    "do-to-informations"
+  ],
+  "props": {
+    "en": "enquire",
+    "jp": "尋ねる",
+    "tl": "たずねる"
+  }
+}

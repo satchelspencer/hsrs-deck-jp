@@ -1,0 +1,12 @@
+{
+  "_id": "4w2q9h4g9vc",
+  "name": "north",
+  "parents": [
+    "cardinal-directions"
+  ],
+  "props": {
+    "en": "north",
+    "jp": "北",
+    "tl": "きた"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "yg584ei5zzr",
+  "name": "deliver",
+  "order": "3",
+  "parents": [
+    "ichidan",
+    "people-do",
+    "do-to-sendables",
+    "ni-person-verbs",
+    "ni-destination-verbs"
+  ],
+  "props": {
+    "en": "deliver",
+    "jp": "届ける",
+    "tl": "とどける"
+  }
+}

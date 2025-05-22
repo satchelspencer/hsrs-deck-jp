@@ -1,0 +1,13 @@
+{
+  "_id": "rhd0g2y2uqj",
+  "name": "swimming-pool",
+  "order": "2",
+  "parents": [
+    "absolute-places"
+  ],
+  "props": {
+    "en": "pool",
+    "jp": "プール",
+    "tl": "ぷーる"
+  }
+}

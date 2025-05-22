@@ -1,0 +1,13 @@
+{
+  "_id": "qpw9dbo5e2",
+  "name": "futon",
+  "order": "3",
+  "parents": [
+    "furniture"
+  ],
+  "props": {
+    "en": "futon",
+    "jp": "布団",
+    "tl": "ふとん"
+  }
+}

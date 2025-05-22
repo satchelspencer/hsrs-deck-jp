@@ -1,0 +1,13 @@
+{
+  "_id": "nfahzds58vq",
+  "name": "ken-matters-countable-counter-root-matters",
+  "params": {
+    "noun": "ken-matters-countable",
+    "root": "counter-root-matters"
+  },
+  "parents": [
+    "counter-noun"
+  ],
+  "props": {
+  }
+}

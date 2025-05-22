@@ -1,0 +1,15 @@
+{
+  "_id": "m5nawez3t1",
+  "name": "time-made",
+  "order": "2",
+  "params": {
+    "time": "ni-future-times"
+  },
+  "parents": [
+    "kara-made-times"
+  ],
+  "props": {
+    "en": "'until '+time.en",
+    "jp": "time.jp+'まで'"
+  }
+}

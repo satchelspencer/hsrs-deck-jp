@@ -1,0 +1,14 @@
+{
+  "_id": "9n8fr87kb6p",
+  "name": "counters",
+  "params": {
+    "number": "numbers",
+    "root": "counter-roots"
+  },
+  "parents": [
+    "quantifiers"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

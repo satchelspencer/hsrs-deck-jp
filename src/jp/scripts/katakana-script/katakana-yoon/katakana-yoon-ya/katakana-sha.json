@@ -1,0 +1,13 @@
+{
+  "_id": "n4fotrda3or",
+  "name": "katakana-sha",
+  "params": {
+    "iis": "katakana-shi"
+  },
+  "parents": [
+    "katakana-yoon-ya"
+  ],
+  "props": {
+    "_tl": "sha"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "_id": "8g2gjbi0fcg",
+  "name": "clearly",
+  "order": "3",
+  "parents": [
+    "verb-adverbs"
+  ],
+  "props": {
+    "en": "clearly",
+    "jp": "はっきり"
+  }
+}

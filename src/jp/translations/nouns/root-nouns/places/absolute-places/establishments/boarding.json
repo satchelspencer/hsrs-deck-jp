@@ -1,0 +1,16 @@
+{
+  "_id": "mdrk46ozqz",
+  "name": "boarding",
+  "order": "4",
+  "parents": [
+    "establishments",
+    "suru-nouns",
+    "do-to-people",
+    "people-do"
+  ],
+  "props": {
+    "en": "boarding",
+    "jp": "下宿",
+    "tl": "げしゅく"
+  }
+}

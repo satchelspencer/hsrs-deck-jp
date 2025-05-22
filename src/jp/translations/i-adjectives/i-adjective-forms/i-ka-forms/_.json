@@ -1,0 +1,10 @@
+{
+  "_id": "v1vbd7yxpwe",
+  "name": "i-ka-forms",
+  "parents": [
+    "i-adjective-forms"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

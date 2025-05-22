@@ -1,0 +1,15 @@
+{
+  "_id": "o2ceshk2a",
+  "name": "be-rung",
+  "order": "3",
+  "parents": [
+    "godan-ru",
+    "te-iru-verbs-continuous",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "be-rung",
+    "jp": "鳴る",
+    "tl": "なる"
+  }
+}

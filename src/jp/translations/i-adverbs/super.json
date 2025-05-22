@@ -1,0 +1,13 @@
+{
+  "_id": "kkwyva7pkyc",
+  "mode": "c",
+  "name": "super",
+  "order": "3",
+  "parents": [
+    "i-adverbs"
+  ],
+  "props": {
+    "en": "super",
+    "jp": "めっちゃ"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "d0kkkjyysag",
+  "name": "get-used-to",
+  "order": "2",
+  "parents": [
+    "te-iru-verbs-state",
+    "ichidan"
+  ],
+  "props": {
+    "en": "be used to",
+    "jp": "慣れる",
+    "tl": "なれる"
+  }
+}

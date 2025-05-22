@@ -1,0 +1,13 @@
+{
+  "_id": "vzvcfsc3f4c",
+  "name": "fun-sing",
+  "params": {
+    "iadj": "fun",
+    "verb": "sing"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

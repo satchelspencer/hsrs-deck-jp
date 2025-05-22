@@ -1,0 +1,13 @@
+{
+  "_id": "tu45hytbfq",
+  "name": "sufficient-consumables",
+  "params": {
+    "na": "sufficient",
+    "noun": "quantities"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

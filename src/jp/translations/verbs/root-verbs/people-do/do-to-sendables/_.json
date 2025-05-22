@@ -1,0 +1,12 @@
+{
+  "_id": "9flyx7z31wb",
+  "name": "do-to-sendables",
+  "parents": [
+    "people-do"
+  ],
+  "props": {
+    "en": null,
+    "jp": null
+  },
+  "virtual": true
+}

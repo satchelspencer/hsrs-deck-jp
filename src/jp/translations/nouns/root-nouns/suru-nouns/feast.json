@@ -1,0 +1,14 @@
+{
+  "_id": "s2gp9ofyuw9",
+  "name": "feast",
+  "order": "3",
+  "parents": [
+    "suru-nouns",
+    "de-location-verbs",
+    "people-do"
+  ],
+  "props": {
+    "en": "feast",
+    "jp": "ごちそう"
+  }
+}

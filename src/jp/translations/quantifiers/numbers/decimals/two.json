@@ -1,0 +1,12 @@
+{
+  "_id": "1wqewcy596c",
+  "name": "two",
+  "parents": [
+    "decimals"
+  ],
+  "props": {
+    "en": "2",
+    "jp": "二",
+    "tl": "に"
+  }
+}

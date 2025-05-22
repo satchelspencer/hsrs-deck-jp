@@ -1,0 +1,12 @@
+{
+  "_id": "rddtgsrn7e",
+  "name": "just-when",
+  "order": "3",
+  "parents": [
+    "past-relative-time-exprs"
+  ],
+  "props": {
+    "en": "just when",
+    "jp": "ところ"
+  }
+}

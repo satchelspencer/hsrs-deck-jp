@@ -1,0 +1,13 @@
+{
+  "_id": "bwnejimegql",
+  "name": "do-to-media-media",
+  "params": {
+    "noun": "media",
+    "verb": "do-to-media"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

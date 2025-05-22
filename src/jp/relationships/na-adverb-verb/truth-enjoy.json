@@ -1,0 +1,13 @@
+{
+  "_id": "yqp3ggifvq",
+  "name": "truth-enjoy",
+  "params": {
+    "na": "truth",
+    "verb": "enjoy"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "fqmq3dhegxl",
+  "name": "perform-it",
+  "order": "3",
+  "parents": [
+    "godan-u",
+    "people-do",
+    "do-to-activities",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "en": "perform it",
+    "jp": "行う",
+    "tl": "おこなう"
+  }
+}

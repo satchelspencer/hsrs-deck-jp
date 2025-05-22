@@ -1,0 +1,12 @@
+{
+  "_id": "im97pjrz62m",
+  "name": "oven",
+  "order": "3",
+  "parents": [
+    "appliances"
+  ],
+  "props": {
+    "en": "oven",
+    "jp": "オーブン"
+  }
+}

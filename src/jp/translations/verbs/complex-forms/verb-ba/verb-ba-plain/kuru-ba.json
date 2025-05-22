@@ -1,0 +1,13 @@
+{
+  "_id": "uqvql7vqjsl",
+  "name": "kuru-ba",
+  "params": {
+    "verb": "come"
+  },
+  "parents": [
+    "verb-ba-plain"
+  ],
+  "props": {
+    "jp": "verb.jp|r('る', 'れば')"
+  }
+}

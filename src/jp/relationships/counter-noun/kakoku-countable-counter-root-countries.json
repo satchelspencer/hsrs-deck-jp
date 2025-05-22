@@ -1,0 +1,13 @@
+{
+  "_id": "bwa335fb677",
+  "name": "kakoku-countable-counter-root-countries",
+  "params": {
+    "noun": "kakoku-countable",
+    "root": "counter-root-countries"
+  },
+  "parents": [
+    "counter-noun"
+  ],
+  "props": {
+  }
+}

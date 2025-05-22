@@ -1,0 +1,13 @@
+{
+  "_id": "orf7etttv9f",
+  "name": "rice-bowl",
+  "order": "2",
+  "parents": [
+    "containers"
+  ],
+  "props": {
+    "en": "rice bowl",
+    "jp": "茶碗",
+    "tl": "ちゃわん"
+  }
+}

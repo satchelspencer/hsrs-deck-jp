@@ -1,0 +1,13 @@
+{
+  "_id": "69qodpyrik",
+  "name": "activities-ni-at-activities-verbs",
+  "params": {
+    "noun": "activities",
+    "verb": "ni-at-activities-verbs"
+  },
+  "parents": [
+    "noun-ni-verb-at"
+  ],
+  "props": {
+  }
+}

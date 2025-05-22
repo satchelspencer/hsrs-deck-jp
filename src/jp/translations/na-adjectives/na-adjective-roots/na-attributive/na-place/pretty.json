@@ -1,0 +1,14 @@
+{
+  "_id": "cb9hmaubs4",
+  "name": "pretty",
+  "order": "1",
+  "parents": [
+    "na-place",
+    "na-people"
+  ],
+  "props": {
+    "en": "pretty",
+    "jp": "綺麗",
+    "tl": "きれい"
+  }
+}

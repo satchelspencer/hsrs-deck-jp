@@ -1,0 +1,19 @@
+{
+  "_id": "bri8vzy9snk",
+  "constraint": "verb",
+  "mode": "c",
+  "name": "reru-plain",
+  "params": {
+    "rel": "verb-people-do",
+    "verb": "root-verbs"
+  },
+  "parents": [
+    "reru-form",
+    "relative-clause-verb-forms",
+    "nda-verb-forms"
+  ],
+  "props": {
+    "en": "'can '+verb.en"
+  },
+  "virtual": true
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "txe8sjwj4df",
+  "name": "safety-return-to-home-country",
+  "params": {
+    "na": "safety",
+    "verb": "return-to-home-country"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

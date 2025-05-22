@@ -1,0 +1,16 @@
+{
+  "_id": "yee3rvayoh8",
+  "name": "commute",
+  "order": "3",
+  "parents": [
+    "godan-u",
+    "people-do",
+    "ni-destination-verbs",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "en": "commute",
+    "jp": "通う",
+    "tl": "かよう"
+  }
+}

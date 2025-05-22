@@ -1,0 +1,13 @@
+{
+  "_id": "0scm7bfyipa",
+  "name": "hardship-choices",
+  "params": {
+    "na": "hardship",
+    "noun": "choosables"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

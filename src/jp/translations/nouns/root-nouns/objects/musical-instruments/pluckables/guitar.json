@@ -1,0 +1,13 @@
+{
+  "_id": "bbzk9xj55g4",
+  "name": "guitar",
+  "order": "2",
+  "parents": [
+    "pluckables"
+  ],
+  "props": {
+    "en": "guitar",
+    "jp": "ギター",
+    "tl": "ぎたー"
+  }
+}

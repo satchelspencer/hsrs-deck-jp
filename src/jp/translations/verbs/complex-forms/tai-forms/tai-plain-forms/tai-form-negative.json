@@ -1,0 +1,16 @@
+{
+  "_id": "ji3dxx3iuo",
+  "constraint": "verb",
+  "name": "tai-form-negative",
+  "order": "2",
+  "params": {
+    "tai": "tai-form"
+  },
+  "parents": [
+    "tai-plain-forms"
+  ],
+  "props": {
+    "en": "'not '+tai.en",
+    "jp": "tai.jp|r('い', 'くない')"
+  }
+}

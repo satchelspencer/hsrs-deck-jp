@@ -1,0 +1,12 @@
+{
+  "_id": "mzavma5foz",
+  "name": "three",
+  "parents": [
+    "decimals"
+  ],
+  "props": {
+    "en": "3",
+    "jp": "三",
+    "tl": "さん"
+  }
+}

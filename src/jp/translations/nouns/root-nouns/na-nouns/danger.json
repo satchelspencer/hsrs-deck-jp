@@ -1,0 +1,14 @@
+{
+  "_id": "iecf4t6t0xf",
+  "name": "danger",
+  "order": "2",
+  "parents": [
+    "na-nouns",
+    "na-place"
+  ],
+  "props": {
+    "en": "danger",
+    "jp": "危険",
+    "tl": "きけん"
+  }
+}

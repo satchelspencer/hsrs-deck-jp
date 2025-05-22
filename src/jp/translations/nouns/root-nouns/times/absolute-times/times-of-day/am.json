@@ -1,0 +1,14 @@
+{
+  "_id": "knp5605i4sq",
+  "name": "am",
+  "order": "2",
+  "parents": [
+    "times-of-day",
+    "am-pm"
+  ],
+  "props": {
+    "en": "a.m.",
+    "jp": "午前",
+    "tl": "ごぜん"
+  }
+}

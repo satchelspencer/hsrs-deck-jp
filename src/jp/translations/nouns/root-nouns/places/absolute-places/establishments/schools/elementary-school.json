@@ -1,0 +1,13 @@
+{
+  "_id": "0i0c4jk0f715",
+  "name": "elementary-school",
+  "order": "2",
+  "parents": [
+    "schools"
+  ],
+  "props": {
+    "en": "elementary school",
+    "jp": "小学校",
+    "tl": "しょうがっこう"
+  }
+}

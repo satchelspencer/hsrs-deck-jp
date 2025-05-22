@@ -1,0 +1,13 @@
+{
+  "_id": "wkn7bgnvuhr",
+  "name": "simple-choices",
+  "params": {
+    "na": "simple",
+    "noun": "choosables"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

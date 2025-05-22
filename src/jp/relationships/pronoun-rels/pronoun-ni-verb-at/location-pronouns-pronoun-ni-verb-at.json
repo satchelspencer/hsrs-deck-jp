@@ -1,0 +1,13 @@
+{
+  "_id": "2dr115fyr2p",
+  "name": "location-pronouns-pronoun-ni-verb-at",
+  "params": {
+    "pn": "location-pronouns",
+    "verb": "ni-at-verbs"
+  },
+  "parents": [
+    "pronoun-ni-verb-at"
+  ],
+  "props": {
+  }
+}

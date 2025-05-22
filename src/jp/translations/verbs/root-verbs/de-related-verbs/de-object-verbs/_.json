@@ -1,0 +1,10 @@
+{
+  "_id": "u5869vsix29",
+  "name": "de-object-verbs",
+  "parents": [
+    "de-related-verbs"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "kc4y2ovqn1h",
+  "name": "hiki-countable-counter-root-hiki",
+  "params": {
+    "noun": "hiki-countable",
+    "root": "counter-root-hiki"
+  },
+  "parents": [
+    "counter-noun"
+  ],
+  "props": {
+  }
+}

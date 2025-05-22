@@ -1,0 +1,13 @@
+{
+  "_id": "iv1ivwyslcm",
+  "name": "straight-go-forward",
+  "params": {
+    "na": "straight",
+    "verb": "go-forward"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

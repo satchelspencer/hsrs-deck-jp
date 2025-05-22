@@ -1,0 +1,13 @@
+{
+  "_id": "66vc6qdmhl3",
+  "name": "audibles-hear",
+  "params": {
+    "noun": "audibles",
+    "verb": "hear"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

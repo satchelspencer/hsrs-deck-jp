@@ -1,0 +1,14 @@
+{
+  "_id": "pm2j3bt3ubb",
+  "name": "approximately",
+  "order": "3",
+  "parents": [
+    "i-adverbs",
+    "na-adverbs"
+  ],
+  "props": {
+    "en": "approximately",
+    "jp": "大体",
+    "tl": "だいたい"
+  }
+}

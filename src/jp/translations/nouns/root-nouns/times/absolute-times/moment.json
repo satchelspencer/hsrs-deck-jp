@@ -1,0 +1,13 @@
+{
+  "_id": "ir8mcz1n3qq",
+  "name": "moment",
+  "order": "2",
+  "parents": [
+    "absolute-times"
+  ],
+  "props": {
+    "en": "moment",
+    "jp": "時",
+    "tl": "とき"
+  }
+}

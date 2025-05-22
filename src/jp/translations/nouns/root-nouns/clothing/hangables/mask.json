@@ -1,0 +1,13 @@
+{
+  "_id": "irdznt3lvk",
+  "name": "mask",
+  "order": "2",
+  "parents": [
+    "hangables"
+  ],
+  "props": {
+    "en": "mask",
+    "jp": "マスク",
+    "tl": "ますく"
+  }
+}

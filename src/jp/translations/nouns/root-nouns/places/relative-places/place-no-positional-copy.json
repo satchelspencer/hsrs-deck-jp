@@ -1,0 +1,17 @@
+{
+  "_id": "4c2o9k2m2ui",
+  "name": "place-no-positional-copy",
+  "order": "3",
+  "params": {
+    "noun": "",
+    "pos": "absolute-places"
+  },
+  "parents": [
+    "relative-places"
+  ],
+  "props": {
+    "en": "'between '+noun.en+' and '+pos.en",
+    "jp": "noun.jp+'と'+pos.jp+'の間'",
+    "tl": "noun.tl+'と'+pos.tl+'のあいだ'"
+  }
+}

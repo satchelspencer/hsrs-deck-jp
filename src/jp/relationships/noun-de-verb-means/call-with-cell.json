@@ -1,0 +1,13 @@
+{
+  "_id": "sm260aauv0d",
+  "name": "call-with-cell",
+  "params": {
+    "noun": "cellphone",
+    "verb": "phone-call"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

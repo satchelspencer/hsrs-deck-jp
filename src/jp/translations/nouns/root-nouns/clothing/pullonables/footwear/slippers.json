@@ -1,0 +1,13 @@
+{
+  "_id": "1ouoc46cw2p",
+  "name": "slippers",
+  "order": "2",
+  "parents": [
+    "footwear"
+  ],
+  "props": {
+    "en": "slippers",
+    "jp": "スリッパ",
+    "tl": "すりっぱ"
+  }
+}

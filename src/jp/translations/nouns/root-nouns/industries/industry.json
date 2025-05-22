@@ -1,0 +1,13 @@
+{
+  "_id": "0p8u36bn01j",
+  "name": "industry",
+  "order": "4",
+  "parents": [
+    "industries"
+  ],
+  "props": {
+    "en": "industry",
+    "jp": "産業",
+    "tl": "さんぎょう"
+  }
+}

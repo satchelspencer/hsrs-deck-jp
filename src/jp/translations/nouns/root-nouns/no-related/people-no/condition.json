@@ -1,0 +1,13 @@
+{
+  "_id": "87931xbjwm",
+  "name": "condition",
+  "order": "4",
+  "parents": [
+    "people-no"
+  ],
+  "props": {
+    "en": "condition",
+    "jp": "具合",
+    "tl": "ぐあい"
+  }
+}

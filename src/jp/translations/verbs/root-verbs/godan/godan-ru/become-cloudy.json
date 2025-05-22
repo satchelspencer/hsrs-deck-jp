@@ -1,0 +1,14 @@
+{
+  "_id": "vbv3t3ac9s",
+  "name": "become-cloudy",
+  "order": "2",
+  "parents": [
+    "godan-ru",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "en": "become cloudy",
+    "jp": "曇る",
+    "tl": "くもる"
+  }
+}

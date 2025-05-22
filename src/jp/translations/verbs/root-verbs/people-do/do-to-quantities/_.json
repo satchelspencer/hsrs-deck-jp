@@ -1,0 +1,12 @@
+{
+  "_id": "obt7few0kzh",
+  "name": "do-to-quantities",
+  "parents": [
+    "people-do"
+  ],
+  "props": {
+    "en": "do-to-quantities",
+    "jp": null
+  },
+  "virtual": true
+}

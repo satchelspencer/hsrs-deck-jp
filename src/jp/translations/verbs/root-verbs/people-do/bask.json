@@ -1,0 +1,16 @@
+{
+  "_id": "8stkcw18qu8",
+  "name": "bask",
+  "order": "2",
+  "parents": [
+    "people-do",
+    "te-iru-verbs-continuous",
+    "de-location-verbs",
+    "ichidan"
+  ],
+  "props": {
+    "en": "bask",
+    "jp": "浴びる",
+    "tl": "あびる"
+  }
+}

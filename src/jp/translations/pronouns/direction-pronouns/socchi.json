@@ -1,0 +1,13 @@
+{
+  "_id": "06ynsg5wr1ak",
+  "mode": "c",
+  "name": "socchi",
+  "order": "2",
+  "parents": [
+    "direction-pronouns"
+  ],
+  "props": {
+    "en": "that way",
+    "jp": "そっち"
+  }
+}

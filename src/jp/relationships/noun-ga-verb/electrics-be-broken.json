@@ -1,0 +1,13 @@
+{
+  "_id": "dma5aea9qa5",
+  "name": "electrics-be-broken",
+  "params": {
+    "noun": "electrics",
+    "verb": "be-broken"
+  },
+  "parents": [
+    "noun-ga-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "mcdqb11wkga",
+  "name": "inside",
+  "order": "2",
+  "parents": [
+    "positional-words"
+  ],
+  "props": {
+    "en": "inside",
+    "jp": "中",
+    "tl": "なか"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "_id": "m71681a45in",
+  "name": "stores",
+  "parents": [
+    "establishments"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

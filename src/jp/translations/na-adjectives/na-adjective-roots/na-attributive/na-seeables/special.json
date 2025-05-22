@@ -1,0 +1,13 @@
+{
+  "_id": "vs5s5bxyiuo",
+  "name": "special",
+  "order": "3",
+  "parents": [
+    "na-seeables"
+  ],
+  "props": {
+    "en": "special",
+    "jp": "特別",
+    "tl": "とくべつ"
+  }
+}

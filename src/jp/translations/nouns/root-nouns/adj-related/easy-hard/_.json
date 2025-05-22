@@ -1,0 +1,10 @@
+{
+  "_id": "25oor3lylx7",
+  "name": "easy-hard",
+  "parents": [
+    "adj-related"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "n6qg9g54efc",
+  "name": "show-signs-of",
+  "order": "4",
+  "parents": [
+    "godan-ru",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "en": "show signs of",
+    "jp": "がる"
+  }
+}

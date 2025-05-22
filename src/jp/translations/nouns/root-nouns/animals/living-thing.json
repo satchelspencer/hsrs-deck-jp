@@ -1,0 +1,13 @@
+{
+  "_id": "2hljltp0wo4",
+  "name": "living-thing",
+  "order": "4",
+  "parents": [
+    "animals"
+  ],
+  "props": {
+    "en": "living thing",
+    "jp": "生き物",
+    "tl": "いきもの"
+  }
+}

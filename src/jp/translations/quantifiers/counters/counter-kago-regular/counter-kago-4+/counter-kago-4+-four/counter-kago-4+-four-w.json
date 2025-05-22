@@ -1,0 +1,13 @@
+{
+  "_id": "2kwld727k9v",
+  "name": "counter-kago-4+-four-w",
+  "params": {
+    "root": "counter-roots-kango-4+-w"
+  },
+  "parents": [
+    "counter-kago-4+-four"
+  ],
+  "props": {
+    "tl": "'よ'+root.tl"
+  }
+}

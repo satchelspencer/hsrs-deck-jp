@@ -1,0 +1,14 @@
+{
+  "_id": "d704a0o5jt",
+  "name": "accessory",
+  "order": "3",
+  "parents": [
+    "attachables",
+    "clothing"
+  ],
+  "props": {
+    "en": "accessory",
+    "jp": "アクセサリー",
+    "tl": "あくせさりー"
+  }
+}

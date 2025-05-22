@@ -1,0 +1,17 @@
+{
+  "_id": "6afx7dt6576",
+  "name": "be-changed",
+  "order": "1",
+  "parents": [
+    "godan-ru",
+    "choices-do",
+    "quantities-do",
+    "te-iru-verbs-state",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "be changed",
+    "jp": "変わる",
+    "tl": "かわる"
+  }
+}

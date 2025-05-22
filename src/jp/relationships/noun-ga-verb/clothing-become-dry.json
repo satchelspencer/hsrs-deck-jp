@@ -1,0 +1,13 @@
+{
+  "_id": "oq2vfwx16mn",
+  "name": "clothing-become-dry",
+  "params": {
+    "noun": "clothing",
+    "verb": "become-dry"
+  },
+  "parents": [
+    "noun-ga-verb"
+  ],
+  "props": {
+  }
+}

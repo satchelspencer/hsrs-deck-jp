@@ -1,0 +1,14 @@
+{
+  "_id": "bmyrdlkjjgg",
+  "name": "katakana-ba",
+  "params": {
+    "h": "katakana-ha"
+  },
+  "parents": [
+    "katakana-bs"
+  ],
+  "props": {
+    "_tl": "ba",
+    "jp": "バ"
+  }
+}

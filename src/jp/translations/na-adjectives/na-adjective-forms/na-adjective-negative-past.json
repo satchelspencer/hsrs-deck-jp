@@ -1,0 +1,21 @@
+{
+  "_id": "1iotdeo6ynh",
+  "mode": "c",
+  "name": "na-adjective-negative-past",
+  "order": "2",
+  "params": {
+    "na": "na-attributive"
+  },
+  "parents": [
+    "na-adjective-forms",
+    "na-desu-forms",
+    "ka-na-forms",
+    "nda-na-forms",
+    "yo-ne-na-forms",
+    "na-plain-forms"
+  ],
+  "props": {
+    "en": "'was not '+na.en",
+    "jp": "na.jp+'じゃなかった'"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "1zgnz3llsir",
+  "name": "te-iru-past-polite-state-ni-past-times",
+  "params": {
+    "form": "te-iru-past-polite-state",
+    "time": "ni-past-times"
+  },
+  "parents": [
+    "verb-form-times"
+  ],
+  "props": {
+  }
+}

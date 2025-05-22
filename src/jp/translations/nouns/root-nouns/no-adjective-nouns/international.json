@@ -1,0 +1,13 @@
+{
+  "_id": "p00whev2k7",
+  "name": "international",
+  "order": "3",
+  "parents": [
+    "no-adjective-nouns"
+  ],
+  "props": {
+    "en": "international",
+    "jp": "国際",
+    "tl": "こくさい"
+  }
+}

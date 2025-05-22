@@ -1,0 +1,13 @@
+{
+  "_id": "8ugu7wlts6n",
+  "name": "early-get-up",
+  "params": {
+    "iadj": "early",
+    "verb": "get-up"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

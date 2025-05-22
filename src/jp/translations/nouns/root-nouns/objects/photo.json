@@ -1,0 +1,16 @@
+{
+  "_id": "2vdhp62oxj4",
+  "name": "photo",
+  "order": "2",
+  "parents": [
+    "objects",
+    "decorations",
+    "media",
+    "mai-countable"
+  ],
+  "props": {
+    "en": "photo",
+    "jp": "写真",
+    "tl": "しゃしん"
+  }
+}

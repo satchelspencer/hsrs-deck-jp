@@ -1,0 +1,13 @@
+{
+  "_id": "yaz2buqfdw",
+  "name": "counter-root-circuts",
+  "order": "4",
+  "parents": [
+    "counter-roots-kango-full-s"
+  ],
+  "props": {
+    "en": "circuts",
+    "jp": "周",
+    "tl": "しゅう"
+  }
+}

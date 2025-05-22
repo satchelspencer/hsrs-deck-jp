@@ -1,0 +1,14 @@
+{
+  "_id": "tw5g9fkz1fc",
+  "name": "strong",
+  "order": "3",
+  "parents": [
+    "i-attributive-standard",
+    "i-people"
+  ],
+  "props": {
+    "en": "strong",
+    "jp": "強い",
+    "tl": "つよい"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "s58tbrkqlhp",
+  "name": "sometimes-root-verbs",
+  "params": {
+    "adv": "sometimes",
+    "verb": "root-verbs"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

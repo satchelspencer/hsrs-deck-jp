@@ -1,0 +1,17 @@
+{
+  "_id": "p364rxc9lj",
+  "name": "sell",
+  "order": "2",
+  "parents": [
+    "godan-ru",
+    "people-do",
+    "do-to-products",
+    "de-location-verbs",
+    "do-with-money"
+  ],
+  "props": {
+    "en": "sell",
+    "jp": "売る",
+    "tl": "うる"
+  }
+}

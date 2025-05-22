@@ -1,0 +1,13 @@
+{
+  "_id": "s60huya4kw",
+  "name": "places-0m0cn2xjqwp",
+  "params": {
+    "noun": "places",
+    "verb": "do-to-places"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

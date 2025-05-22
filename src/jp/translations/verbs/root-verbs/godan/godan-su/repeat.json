@@ -1,0 +1,16 @@
+{
+  "_id": "xh2ta94czip",
+  "name": "repeat",
+  "order": "4",
+  "parents": [
+    "godan-su",
+    "people-do",
+    "te-iru-verbs-continuous",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "repeat",
+    "jp": "繰り返す",
+    "tl": "くりかえす"
+  }
+}

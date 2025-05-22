@@ -1,0 +1,13 @@
+{
+  "_id": "q0wubqp492a",
+  "name": "question-no-people",
+  "params": {
+    "noun": "people-no",
+    "qw": "personal-question-words"
+  },
+  "parents": [
+    "question-no-noun"
+  ],
+  "props": {
+  }
+}

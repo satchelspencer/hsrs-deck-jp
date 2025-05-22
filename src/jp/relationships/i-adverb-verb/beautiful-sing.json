@@ -1,0 +1,13 @@
+{
+  "_id": "9k02odqw3mo",
+  "name": "beautiful-sing",
+  "params": {
+    "iadj": "beautiful",
+    "verb": "sing"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

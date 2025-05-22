@@ -1,0 +1,12 @@
+{
+  "_id": "gtbch4eawl7",
+  "name": "sport",
+  "order": "1",
+  "parents": [
+    "activities"
+  ],
+  "props": {
+    "en": "sport",
+    "jp": "スポーツ"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "2tagp2t5ot5",
+  "name": "sleepy",
+  "order": "1",
+  "parents": [
+    "i-attributive-standard",
+    "i-people"
+  ],
+  "props": {
+    "en": "sleepy",
+    "jp": "眠い",
+    "tl": "ねむい"
+  }
+}

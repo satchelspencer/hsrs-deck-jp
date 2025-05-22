@@ -1,0 +1,10 @@
+{
+  "_id": "abot6wlesnl",
+  "name": "protectables",
+  "parents": [
+    "verb-related"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

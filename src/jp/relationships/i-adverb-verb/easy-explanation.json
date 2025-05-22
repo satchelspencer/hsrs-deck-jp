@@ -1,0 +1,13 @@
+{
+  "_id": "bd7phqyojnd",
+  "name": "easy-explanation",
+  "params": {
+    "iadj": "easy",
+    "verb": "explanation"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

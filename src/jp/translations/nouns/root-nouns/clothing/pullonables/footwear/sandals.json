@@ -1,0 +1,13 @@
+{
+  "_id": "bno43f6hxth",
+  "name": "sandals",
+  "order": "3",
+  "parents": [
+    "footwear"
+  ],
+  "props": {
+    "en": "sandals",
+    "jp": "サンダル",
+    "tl": "さんだる"
+  }
+}

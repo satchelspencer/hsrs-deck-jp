@@ -1,0 +1,11 @@
+{
+  "_id": "6nygdzg2mrp",
+  "name": "i-attributive-standard",
+  "parents": [
+    "i-attributive",
+    "i-predicate-standard"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

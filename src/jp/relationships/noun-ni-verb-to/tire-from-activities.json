@@ -1,0 +1,13 @@
+{
+  "_id": "spnnisl2ivi",
+  "name": "tire-from-activities",
+  "params": {
+    "noun": "activities",
+    "verb": "become-tired"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "x21vsr4z86",
+  "name": "excellent",
+  "order": "3",
+  "parents": [
+    "i-attributive-standard"
+  ],
+  "props": {
+    "en": "excellent",
+    "jp": "素晴らしい",
+    "tl": "すばらしい"
+  }
+}

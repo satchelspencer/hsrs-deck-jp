@@ -1,0 +1,13 @@
+{
+  "_id": "j9r1tyek1a",
+  "name": "amap-people-do",
+  "params": {
+    "adv": "as-much-as-possible",
+    "verb": "people-do"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

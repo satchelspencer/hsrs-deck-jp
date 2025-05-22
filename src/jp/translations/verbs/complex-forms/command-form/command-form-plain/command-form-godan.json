@@ -1,0 +1,14 @@
+{
+  "_id": "7g5rwlbwsr5",
+  "name": "command-form-godan",
+  "params": {
+    "form": "godan-reru",
+    "verb": "godan"
+  },
+  "parents": [
+    "command-form-plain"
+  ],
+  "props": {
+    "jp": "form.jp|r('る', '')"
+  }
+}

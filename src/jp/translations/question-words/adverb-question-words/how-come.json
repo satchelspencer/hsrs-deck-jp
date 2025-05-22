@@ -1,0 +1,12 @@
+{
+  "_id": "lso7ge1wipp",
+  "name": "how-come",
+  "order": "2",
+  "parents": [
+    "adverb-question-words"
+  ],
+  "props": {
+    "en": "how come",
+    "jp": "どうして"
+  }
+}

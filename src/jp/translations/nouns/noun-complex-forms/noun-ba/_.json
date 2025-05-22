@@ -1,0 +1,13 @@
+{
+  "_id": "jthmawym9s",
+  "mode": "---w",
+  "name": "noun-ba",
+  "order": "3",
+  "parents": [
+    "noun-complex-forms",
+    "ba-conditional-clauses"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "tky97b9ubmj",
+  "name": "flavor",
+  "order": "3",
+  "parents": [
+    "edibles-no"
+  ],
+  "props": {
+    "en": "flavor",
+    "jp": "味",
+    "tl": "あじ"
+  }
+}

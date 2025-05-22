@@ -1,0 +1,12 @@
+{
+  "_id": "qltgqdaybo",
+  "name": "katakana-shi",
+  "parents": [
+    "katakana-ss",
+    "katakana-iis"
+  ],
+  "props": {
+    "_tl": "shi",
+    "jp": "シ"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "82jyrcy3rxe",
+  "name": "agonizing-feel-emotion",
+  "params": {
+    "iadj": "agonizing",
+    "verb": "feel-emotion"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

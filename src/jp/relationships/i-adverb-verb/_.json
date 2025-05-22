@@ -1,0 +1,14 @@
+{
+  "_id": "9v2kumroxnr",
+  "name": "i-adverb-verb",
+  "params": {
+    "iadj": "i-attributive",
+    "verb": "root-verbs"
+  },
+  "parents": [
+    "relationships"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

@@ -1,0 +1,10 @@
+{
+  "_id": "b715hwtdizo",
+  "name": "toys",
+  "parents": [
+    "objects"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

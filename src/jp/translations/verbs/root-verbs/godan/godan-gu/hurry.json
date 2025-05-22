@@ -1,0 +1,15 @@
+{
+  "_id": "be2skds1onh",
+  "name": "hurry",
+  "order": "2",
+  "parents": [
+    "godan-gu",
+    "people-do",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "en": "hurry",
+    "jp": "急ぐ",
+    "tl": "いそぐ"
+  }
+}

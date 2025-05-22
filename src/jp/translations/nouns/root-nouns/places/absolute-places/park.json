@@ -1,0 +1,13 @@
+{
+  "_id": "3lj25jpxjnx",
+  "name": "park",
+  "order": "1",
+  "parents": [
+    "absolute-places"
+  ],
+  "props": {
+    "en": "park",
+    "jp": "公園",
+    "tl": "こうえん"
+  }
+}

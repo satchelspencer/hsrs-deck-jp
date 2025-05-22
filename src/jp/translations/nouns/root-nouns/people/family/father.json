@@ -1,0 +1,13 @@
+{
+  "_id": "7fnrxt1a4rc",
+  "name": "father",
+  "order": "1",
+  "parents": [
+    "family"
+  ],
+  "props": {
+    "en": "father",
+    "jp": "お父さん",
+    "tl": "おとうさん"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "b2mhzbrcq2t",
+  "name": "rain",
+  "order": "2",
+  "parents": [
+    "falling-weather"
+  ],
+  "props": {
+    "en": "rain",
+    "jp": "雨",
+    "tl": "あめ"
+  }
+}

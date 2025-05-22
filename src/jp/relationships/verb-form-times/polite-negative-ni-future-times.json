@@ -1,0 +1,13 @@
+{
+  "_id": "7854c83u0vo",
+  "name": "polite-negative-ni-future-times",
+  "params": {
+    "form": "polite-negative",
+    "time": "ni-future-times"
+  },
+  "parents": [
+    "verb-form-times"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "him84deexzb",
+  "name": "bad-tasting-flavor",
+  "params": {
+    "iadj": "bad-tasting",
+    "noun": "flavor"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

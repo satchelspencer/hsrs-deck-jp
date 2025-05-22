@@ -1,0 +1,14 @@
+{
+  "_id": "vipwperpwe",
+  "name": "hiragana-zo",
+  "params": {
+    "s": "hiragana-so"
+  },
+  "parents": [
+    "hiragana-zs"
+  ],
+  "props": {
+    "_tl": "zo",
+    "jp": "ぞ"
+  }
+}

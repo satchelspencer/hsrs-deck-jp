@@ -1,0 +1,13 @@
+{
+  "_id": "q0j4dmnqsuj",
+  "name": "lunch-break",
+  "order": "3",
+  "parents": [
+    "events"
+  ],
+  "props": {
+    "en": "lunch break",
+    "jp": "昼休み",
+    "tl": "ひるやすみ"
+  }
+}

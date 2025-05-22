@@ -1,0 +1,11 @@
+{
+  "_id": "5wwvsw4h8l6",
+  "name": "katakana-ru",
+  "parents": [
+    "katakana-rs"
+  ],
+  "props": {
+    "_tl": "ru",
+    "jp": "ル"
+  }
+}

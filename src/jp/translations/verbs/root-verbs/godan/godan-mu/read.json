@@ -1,0 +1,17 @@
+{
+  "_id": "u1kwbm5b0yj",
+  "name": "read",
+  "order": "1",
+  "parents": [
+    "godan-mu",
+    "people-do",
+    "do-to-writeables",
+    "te-iru-verbs-continuous",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "read",
+    "jp": "読む",
+    "tl": "よむ"
+  }
+}

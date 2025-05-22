@@ -1,0 +1,15 @@
+{
+  "_id": "4kh70z8nu2m",
+  "name": "be-started",
+  "order": "2",
+  "parents": [
+    "godan-ru",
+    "events-do",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "en": "be started",
+    "jp": "始まる",
+    "tl": "はじまる"
+  }
+}

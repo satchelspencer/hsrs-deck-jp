@@ -1,0 +1,13 @@
+{
+  "_id": "hfneoeqdknu",
+  "name": "mail",
+  "order": "3",
+  "parents": [
+    "sendables"
+  ],
+  "props": {
+    "en": "mail",
+    "jp": "郵便",
+    "tl": "ゆうびん"
+  }
+}

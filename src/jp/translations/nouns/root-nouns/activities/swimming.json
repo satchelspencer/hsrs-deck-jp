@@ -1,0 +1,13 @@
+{
+  "_id": "80nw5s2kaq9",
+  "name": "swimming",
+  "order": "3",
+  "parents": [
+    "activities"
+  ],
+  "props": {
+    "en": "swimming",
+    "jp": "水泳",
+    "tl": "すいえい"
+  }
+}

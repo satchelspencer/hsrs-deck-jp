@@ -1,0 +1,13 @@
+{
+  "_id": "su1gtqb3i1i",
+  "name": "terrible-events",
+  "params": {
+    "iadj": "terrible",
+    "noun": "events"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

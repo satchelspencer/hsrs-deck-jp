@@ -1,0 +1,13 @@
+{
+  "_id": "gy874m7l2v",
+  "name": "especially",
+  "order": "3",
+  "parents": [
+    "clause-adverbs"
+  ],
+  "props": {
+    "en": "especially",
+    "jp": "特に",
+    "tl": "とくに"
+  }
+}

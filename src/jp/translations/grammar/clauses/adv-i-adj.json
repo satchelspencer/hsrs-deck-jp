@@ -1,0 +1,17 @@
+{
+  "_id": "2eromv9bvjo",
+  "constraint": "iadj",
+  "name": "adv-i-adj",
+  "order": "2",
+  "params": {
+    "adv": "i-adverbs",
+    "iform": "i-predicate-forms"
+  },
+  "parents": [
+    "clauses"
+  ],
+  "props": {
+    "en": "(adv.en+' '+iform.en)|mts('was ')|mts('is ')",
+    "jp": "adv.jp+iform.jp"
+  }
+}

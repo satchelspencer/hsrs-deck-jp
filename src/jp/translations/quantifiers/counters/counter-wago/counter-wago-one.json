@@ -1,0 +1,14 @@
+{
+  "_id": "1gvtla02ej7",
+  "name": "counter-wago-one",
+  "params": {
+    "number": "one"
+  },
+  "parents": [
+    "counter-wago"
+  ],
+  "props": {
+    "en": null,
+    "jp": "ひとつ"
+  }
+}

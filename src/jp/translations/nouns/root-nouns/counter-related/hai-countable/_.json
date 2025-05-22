@@ -1,0 +1,10 @@
+{
+  "_id": "j6ys3sc02js",
+  "name": "hai-countable",
+  "parents": [
+    "counter-related"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

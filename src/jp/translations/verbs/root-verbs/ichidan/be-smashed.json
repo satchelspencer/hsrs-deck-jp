@@ -1,0 +1,14 @@
+{
+  "_id": "m9vqy7z9mp",
+  "name": "be-smashed",
+  "order": "3",
+  "parents": [
+    "ichidan",
+    "objects-do"
+  ],
+  "props": {
+    "en": "be smashed",
+    "jp": "割れる",
+    "tl": "われる"
+  }
+}

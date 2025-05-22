@@ -1,0 +1,13 @@
+{
+  "_id": "billek64pfv",
+  "name": "hard-hards",
+  "params": {
+    "iadj": "hard",
+    "noun": "hard-softs"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "3zuadjeiozf",
+  "name": "katakana-gu",
+  "params": {
+    "k": "katakana-ku"
+  },
+  "parents": [
+    "katakana-gs"
+  ],
+  "props": {
+    "_tl": "gu",
+    "jp": "グ"
+  }
+}

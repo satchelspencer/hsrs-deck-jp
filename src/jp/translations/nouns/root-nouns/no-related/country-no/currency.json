@@ -1,0 +1,13 @@
+{
+  "_id": "mbh5y3x9u2b",
+  "name": "currency",
+  "order": "4",
+  "parents": [
+    "country-no"
+  ],
+  "props": {
+    "en": "currency",
+    "jp": "通貨",
+    "tl": "つうか"
+  }
+}

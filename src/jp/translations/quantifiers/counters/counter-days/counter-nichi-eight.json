@@ -1,0 +1,14 @@
+{
+  "_id": "4pax9lj4r16",
+  "name": "counter-nichi-eight",
+  "params": {
+    "number": "eight"
+  },
+  "parents": [
+    "counter-days"
+  ],
+  "props": {
+    "jp": "八日",
+    "tl": "ようか"
+  }
+}

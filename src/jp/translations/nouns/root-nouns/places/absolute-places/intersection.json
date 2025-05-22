@@ -1,0 +1,13 @@
+{
+  "_id": "ds99hgn6799",
+  "name": "intersection",
+  "order": "2",
+  "parents": [
+    "absolute-places"
+  ],
+  "props": {
+    "en": "intersection",
+    "jp": "交差点",
+    "tl": "こうさてん"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "_id": "37lchkdt09k",
+  "name": "counter-jikan",
+  "order": "2",
+  "params": {
+    "root": "hours"
+  },
+  "parents": [
+    "counters",
+    "time-amounts"
+  ],
+  "props": {
+    "en": "number.en+' hours'",
+    "jp": "number.jp+'時間'",
+    "tl": ""
+  },
+  "virtual": true
+}

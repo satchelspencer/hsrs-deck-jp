@@ -1,0 +1,17 @@
+{
+  "_id": "g9najnmefn",
+  "name": "be-born",
+  "order": "2",
+  "parents": [
+    "people-do",
+    "animals-do",
+    "te-iru-verbs-state",
+    "de-location-verbs",
+    "ichidan"
+  ],
+  "props": {
+    "en": "be born",
+    "jp": "生まれる",
+    "tl": "うまれる"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "ki3qj0tumyp",
+  "name": "ride",
+  "order": "1",
+  "parents": [
+    "godan-ru",
+    "people-do",
+    "do-to-transports",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "en": "ride",
+    "jp": "乗る",
+    "tl": "のる"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "_id": "loet90ocvpp",
+  "name": "quite",
+  "order": "3",
+  "parents": [
+    "verb-adverbs"
+  ],
+  "props": {
+    "en": "quite",
+    "jp": "なかなか"
+  }
+}

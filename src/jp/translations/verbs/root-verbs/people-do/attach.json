@@ -1,0 +1,15 @@
+{
+  "_id": "93bvd31b3a",
+  "name": "attach",
+  "order": "3",
+  "parents": [
+    "people-do",
+    "te-iru-verbs-state",
+    "ichidan"
+  ],
+  "props": {
+    "en": "attach",
+    "jp": "付ける",
+    "tl": "つける"
+  }
+}

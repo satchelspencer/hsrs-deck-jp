@@ -1,0 +1,11 @@
+{
+  "_id": "cfyam65crgn",
+  "name": "katakana-he",
+  "parents": [
+    "katakana-hs"
+  ],
+  "props": {
+    "_tl": "he",
+    "jp": "ヘ"
+  }
+}

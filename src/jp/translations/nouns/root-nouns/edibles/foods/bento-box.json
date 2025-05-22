@@ -1,0 +1,13 @@
+{
+  "_id": "81kxz44n1i2",
+  "name": "bento-box",
+  "order": "2",
+  "parents": [
+    "foods"
+  ],
+  "props": {
+    "en": "bento box",
+    "jp": "お弁当",
+    "tl": "おべんとう"
+  }
+}

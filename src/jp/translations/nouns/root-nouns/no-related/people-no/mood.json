@@ -1,0 +1,14 @@
+{
+  "_id": "ejiha5ltvgr",
+  "name": "mood",
+  "order": "3",
+  "parents": [
+    "people-no",
+    "good-bads"
+  ],
+  "props": {
+    "en": "mood",
+    "jp": "気分",
+    "tl": "きぶん"
+  }
+}

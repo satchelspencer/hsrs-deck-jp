@@ -1,0 +1,17 @@
+{
+  "_id": "7m9j4nmbceh",
+  "name": "counter-kago-regular",
+  "order": "1",
+  "params": {
+    "number": "numbers",
+    "root": "counter-roots"
+  },
+  "parents": [
+    "counters"
+  ],
+  "props": {
+    "en": "number.en+' '+root.en",
+    "jp": "number.jp+root.jp"
+  },
+  "virtual": true
+}

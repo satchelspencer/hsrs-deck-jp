@@ -1,0 +1,13 @@
+{
+  "_id": "a9tswofojps",
+  "name": "thousand",
+  "order": "2",
+  "parents": [
+    "numbers"
+  ],
+  "props": {
+    "en": "1000",
+    "jp": "千",
+    "tl": "せん"
+  }
+}

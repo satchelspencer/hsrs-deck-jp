@@ -1,0 +1,13 @@
+{
+  "_id": "irk06f45bq",
+  "name": "godan-ba-tsu",
+  "params": {
+    "verb": "godan-tsu"
+  },
+  "parents": [
+    "godan-ba"
+  ],
+  "props": {
+    "jp": "verb.jp|r('つ', 'てば')"
+  }
+}

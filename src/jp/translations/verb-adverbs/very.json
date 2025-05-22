@@ -1,0 +1,14 @@
+{
+  "_id": "9anc4r7ktm",
+  "name": "very",
+  "order": "1",
+  "parents": [
+    "verb-adverbs",
+    "i-adverbs",
+    "na-adverbs"
+  ],
+  "props": {
+    "en": "very",
+    "jp": "とても"
+  }
+}

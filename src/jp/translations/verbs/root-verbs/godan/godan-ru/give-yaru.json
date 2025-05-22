@@ -1,0 +1,16 @@
+{
+  "_id": "po83pmig2b",
+  "mode": "--s",
+  "name": "give-yaru",
+  "order": "3",
+  "parents": [
+    "godan-ru",
+    "people-do",
+    "te-iru-verbs-continuous",
+    "ni-person-verbs"
+  ],
+  "props": {
+    "en": "give",
+    "jp": "やる"
+  }
+}

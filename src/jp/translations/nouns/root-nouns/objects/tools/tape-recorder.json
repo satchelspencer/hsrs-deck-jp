@@ -1,0 +1,13 @@
+{
+  "_id": "zm1nqr5ay7g",
+  "name": "tape-recorder",
+  "order": "4",
+  "parents": [
+    "tools"
+  ],
+  "props": {
+    "en": "tape recorder",
+    "jp": "テープレコーダー",
+    "tl": "てーぷれこーだー"
+  }
+}

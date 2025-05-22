@@ -1,0 +1,13 @@
+{
+  "_id": "xcitcpc8sd",
+  "name": "birth",
+  "order": "3",
+  "parents": [
+    "people-no"
+  ],
+  "props": {
+    "en": "birth",
+    "jp": "生まれ",
+    "tl": "うまれ"
+  }
+}

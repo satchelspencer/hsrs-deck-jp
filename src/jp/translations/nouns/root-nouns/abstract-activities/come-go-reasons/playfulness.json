@@ -1,0 +1,13 @@
+{
+  "_id": "9vu176y87ds",
+  "name": "playfulness",
+  "order": "3",
+  "parents": [
+    "come-go-reasons"
+  ],
+  "props": {
+    "en": "playfulness",
+    "jp": "遊び",
+    "tl": "あそび"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "_id": "asmrtgcumor",
+  "name": "decorations",
+  "parents": [
+    "verb-related"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

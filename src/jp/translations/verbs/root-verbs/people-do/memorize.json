@@ -1,0 +1,17 @@
+{
+  "_id": "7h1scvqb826",
+  "name": "memorize",
+  "order": "2",
+  "parents": [
+    "people-do",
+    "do-to-learnables",
+    "te-iru-verbs-state",
+    "de-location-verbs",
+    "ichidan"
+  ],
+  "props": {
+    "en": "memorize",
+    "jp": "覚える",
+    "tl": "おぼえる"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "_id": "lzxgo8nxbw",
+  "name": "choices-do",
+  "parents": [
+    "godan"
+  ],
+  "props": {
+    "en": null,
+    "jp": null
+  },
+  "virtual": true
+}

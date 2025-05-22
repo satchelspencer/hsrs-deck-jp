@@ -1,0 +1,13 @@
+{
+  "_id": "uf5aq362o3",
+  "name": "counter-root-footwear",
+  "order": "3",
+  "parents": [
+    "counter-roots-kango-full-s"
+  ],
+  "props": {
+    "en": "footpairs",
+    "jp": "足",
+    "tl": "そく"
+  }
+}

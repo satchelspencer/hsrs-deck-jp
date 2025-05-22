@@ -1,0 +1,14 @@
+{
+  "_id": "p6tdwbsdnu",
+  "name": "too-much",
+  "order": "3",
+  "parents": [
+    "i-adverbs",
+    "na-adverbs",
+    "verb-adverbs"
+  ],
+  "props": {
+    "en": "too much",
+    "jp": "あまり"
+  }
+}

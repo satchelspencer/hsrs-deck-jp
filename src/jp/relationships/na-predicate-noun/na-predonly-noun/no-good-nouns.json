@@ -1,0 +1,13 @@
+{
+  "_id": "bnrx4npeapc",
+  "name": "no-good-nouns",
+  "params": {
+    "na": "no-good",
+    "noun": "root-nouns"
+  },
+  "parents": [
+    "na-predonly-noun"
+  ],
+  "props": {
+  }
+}

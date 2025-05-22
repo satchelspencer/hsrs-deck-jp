@@ -1,0 +1,19 @@
+{
+  "_id": "ycvo6wq3avf",
+  "constraint": "verb",
+  "mode": "p-s",
+  "name": "nasai-form",
+  "order": "3",
+  "params": {
+    "form": "polite",
+    "rel": "verb-people-do"
+  },
+  "parents": [
+    "complex-forms",
+    "requests"
+  ],
+  "props": {
+    "en": "form.en+'!'",
+    "jp": "form.jp|r('ます', 'なさい')"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "_id": "ckwz8gc3h1",
+  "name": "disembark",
+  "order": "3",
+  "parents": [
+    "people-do",
+    "do-to-transports",
+    "ichidan"
+  ],
+  "props": {
+    "en": "disembark",
+    "jp": "降りる",
+    "tl": "おりる"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "_id": "0zb74yqi6jj",
+  "name": "system",
+  "order": "3",
+  "parents": [
+    "organizations"
+  ],
+  "props": {
+    "en": "system",
+    "jp": "システム"
+  }
+}

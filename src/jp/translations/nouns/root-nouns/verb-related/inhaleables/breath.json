@@ -1,0 +1,13 @@
+{
+  "_id": "h60k37v7676",
+  "name": "breath",
+  "order": "4",
+  "parents": [
+    "inhaleables"
+  ],
+  "props": {
+    "en": "breath",
+    "jp": "息",
+    "tl": "いき"
+  }
+}

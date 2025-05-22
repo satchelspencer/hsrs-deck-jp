@@ -1,0 +1,13 @@
+{
+  "_id": "vktin1d7v2i",
+  "name": "fine-fines",
+  "params": {
+    "iadj": "fine",
+    "noun": "fines"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

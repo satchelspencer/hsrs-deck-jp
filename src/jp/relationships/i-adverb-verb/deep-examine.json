@@ -1,0 +1,13 @@
+{
+  "_id": "kybkk2byab",
+  "name": "deep-examine",
+  "params": {
+    "iadj": "deep",
+    "verb": "examine"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

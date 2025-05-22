@@ -1,0 +1,11 @@
+{
+  "_id": "awevnwpux9",
+  "name": "color-adjs",
+  "parents": [
+    "i-attributive-standard",
+    "i-objects"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "bfzk694syws",
+  "name": "clothing-get-wet",
+  "params": {
+    "noun": "clothing",
+    "verb": "get-wet"
+  },
+  "parents": [
+    "noun-ga-verb"
+  ],
+  "props": {
+  }
+}

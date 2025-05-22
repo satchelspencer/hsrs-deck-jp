@@ -1,0 +1,13 @@
+{
+  "_id": "d8d6l6ukkss",
+  "name": "fun-chat",
+  "params": {
+    "iadj": "fun",
+    "verb": "chat"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

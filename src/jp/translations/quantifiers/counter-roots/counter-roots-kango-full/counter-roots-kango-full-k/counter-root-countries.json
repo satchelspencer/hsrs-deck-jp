@@ -1,0 +1,13 @@
+{
+  "_id": "2c7h7yi3g5z",
+  "name": "counter-root-countries",
+  "order": "3",
+  "parents": [
+    "counter-roots-kango-full-k"
+  ],
+  "props": {
+    "en": "countries",
+    "jp": "ヶ国",
+    "tl": "かこく"
+  }
+}

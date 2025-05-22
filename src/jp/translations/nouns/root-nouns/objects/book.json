@@ -1,0 +1,20 @@
+{
+  "_id": "zu8gbfcdyof",
+  "name": "book",
+  "order": "1",
+  "parents": [
+    "objects",
+    "products",
+    "readables",
+    "hiraku-tojiru",
+    "writeables",
+    "media",
+    "thins",
+    "satsu-countable"
+  ],
+  "props": {
+    "en": "book",
+    "jp": "本",
+    "tl": "ほん"
+  }
+}

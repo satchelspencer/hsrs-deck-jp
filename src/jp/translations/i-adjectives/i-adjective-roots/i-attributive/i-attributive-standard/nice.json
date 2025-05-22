@@ -1,0 +1,14 @@
+{
+  "_id": "ibpnmujdnp8",
+  "name": "nice",
+  "order": "1",
+  "parents": [
+    "i-attributive-standard",
+    "i-people"
+  ],
+  "props": {
+    "en": "nice",
+    "jp": "優しい",
+    "tl": "やさしい"
+  }
+}

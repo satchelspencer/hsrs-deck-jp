@@ -1,0 +1,10 @@
+{
+  "_id": "3e34pokmi51",
+  "name": "hot-cold-touch",
+  "parents": [
+    "adj-related"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

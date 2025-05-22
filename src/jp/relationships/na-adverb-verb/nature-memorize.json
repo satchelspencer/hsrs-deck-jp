@@ -1,0 +1,13 @@
+{
+  "_id": "r5wgkalxbb",
+  "name": "nature-memorize",
+  "params": {
+    "na": "nature",
+    "verb": "memorize"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

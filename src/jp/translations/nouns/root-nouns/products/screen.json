@@ -1,0 +1,14 @@
+{
+  "_id": "5j5a9hbgal3",
+  "name": "screen",
+  "order": "3",
+  "parents": [
+    "products",
+    "shiners"
+  ],
+  "props": {
+    "en": "screen",
+    "jp": "スクリーン",
+    "tl": "すくりーん"
+  }
+}

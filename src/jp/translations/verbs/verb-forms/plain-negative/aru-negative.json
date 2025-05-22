@@ -1,0 +1,14 @@
+{
+  "_id": "058x03kxinn2",
+  "name": "aru-negative",
+  "params": {
+    "verb": "aru"
+  },
+  "parents": [
+    "plain-negative"
+  ],
+  "props": {
+    "en": null,
+    "jp": "ない"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "_id": "4p13u4sn3v6",
+  "name": "movers-do",
+  "parents": [
+    "root-verbs",
+    "people-do"
+  ],
+  "props": {
+    "jp": null
+  },
+  "virtual": true
+}

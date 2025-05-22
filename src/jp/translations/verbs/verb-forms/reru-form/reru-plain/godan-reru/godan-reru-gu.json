@@ -1,0 +1,13 @@
+{
+  "_id": "71sny46352c",
+  "name": "godan-reru-gu",
+  "params": {
+    "verb": "godan-gu"
+  },
+  "parents": [
+    "godan-reru"
+  ],
+  "props": {
+    "jp": "verb.jp|r('ぐ', 'げる')"
+  }
+}

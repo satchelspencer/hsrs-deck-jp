@@ -1,0 +1,14 @@
+{
+  "_id": "sdf1ecb37xa",
+  "name": "address",
+  "order": "3",
+  "parents": [
+    "ken-buildings-countable",
+    "absolute-places"
+  ],
+  "props": {
+    "en": "address",
+    "jp": "住所",
+    "tl": "じゅうしょ"
+  }
+}

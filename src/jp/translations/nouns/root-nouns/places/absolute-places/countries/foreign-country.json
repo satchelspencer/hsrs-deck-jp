@@ -1,0 +1,14 @@
+{
+  "_id": "j1gt5tnrl3",
+  "name": "foreign-country",
+  "order": "2",
+  "parents": [
+    "countries",
+    "kakoku-countable"
+  ],
+  "props": {
+    "en": "foreign country",
+    "jp": "外国",
+    "tl": "がいこく"
+  }
+}

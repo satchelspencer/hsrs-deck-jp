@@ -1,0 +1,13 @@
+{
+  "_id": "603n42a6txe",
+  "name": "wanted-products",
+  "params": {
+    "iadj": "wanted",
+    "noun": "products"
+  },
+  "parents": [
+    "i-predonly-noun"
+  ],
+  "props": {
+  }
+}

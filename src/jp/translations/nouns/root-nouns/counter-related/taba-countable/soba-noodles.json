@@ -1,0 +1,14 @@
+{
+  "_id": "5ia4rbm9dbo",
+  "name": "soba-noodles",
+  "order": "2",
+  "parents": [
+    "taba-countable",
+    "foods"
+  ],
+  "props": {
+    "en": "soba noodles",
+    "jp": "蕎麦",
+    "tl": "そば"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "_id": "qhr6hiynczs",
+  "name": "kore",
+  "order": "2",
+  "parents": [
+    "object-pronouns"
+  ],
+  "props": {
+    "en": "this one",
+    "jp": "これ"
+  }
+}

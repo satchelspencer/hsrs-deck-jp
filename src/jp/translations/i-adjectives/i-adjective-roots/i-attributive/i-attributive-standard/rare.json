@@ -1,0 +1,14 @@
+{
+  "_id": "ighonj2gq3e",
+  "name": "rare",
+  "order": "3",
+  "parents": [
+    "i-attributive-standard",
+    "i-objects"
+  ],
+  "props": {
+    "en": "rare",
+    "jp": "珍しい",
+    "tl": "めずらしい"
+  }
+}

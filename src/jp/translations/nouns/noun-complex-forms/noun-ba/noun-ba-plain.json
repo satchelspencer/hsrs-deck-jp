@@ -1,0 +1,15 @@
+{
+  "_id": "vu85hkcf8q",
+  "mode": "c",
+  "name": "noun-ba-plain",
+  "params": {
+    "noun": "root-nouns"
+  },
+  "parents": [
+    "noun-ba"
+  ],
+  "props": {
+    "en": "'if '+noun.en",
+    "jp": "noun.jp+'ならば'"
+  }
+}

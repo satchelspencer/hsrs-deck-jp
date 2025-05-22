@@ -1,0 +1,13 @@
+{
+  "_id": "n58nng6ila",
+  "name": "black-tea",
+  "order": "2",
+  "parents": [
+    "drinks"
+  ],
+  "props": {
+    "en": "black tea",
+    "jp": "紅茶",
+    "tl": "こうちゃ"
+  }
+}

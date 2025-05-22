@@ -1,0 +1,13 @@
+{
+  "_id": "2ul0dggwr6v",
+  "name": "my-husband",
+  "order": "3",
+  "parents": [
+    "family"
+  ],
+  "props": {
+    "en": "my husband",
+    "jp": "夫",
+    "tl": "おっと"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "6h0pdkewtks",
+  "name": "mai-countable-counter-root-flats",
+  "params": {
+    "noun": "mai-countable",
+    "root": "counter-root-flats"
+  },
+  "parents": [
+    "counter-noun"
+  ],
+  "props": {
+  }
+}

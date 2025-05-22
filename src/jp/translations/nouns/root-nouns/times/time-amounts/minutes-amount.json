@@ -1,0 +1,17 @@
+{
+  "_id": "f6chqzw5myr",
+  "constraint": "root",
+  "name": "minutes-amount",
+  "order": "3",
+  "params": {
+    "counter": "counter-kago-regular",
+    "root": "counter-root-minutes"
+  },
+  "parents": [
+    "time-amounts"
+  ],
+  "props": {
+    "en": "counter.en",
+    "jp": "counter.jp"
+  }
+}

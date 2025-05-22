@@ -1,0 +1,13 @@
+{
+  "_id": "fl7ull8z0rl",
+  "name": "counter-nin-ten-thousand",
+  "params": {
+    "number": "ten-thousand"
+  },
+  "parents": [
+    "counter-nin"
+  ],
+  "props": {
+    "tl": "いちまん~にん"
+  }
+}

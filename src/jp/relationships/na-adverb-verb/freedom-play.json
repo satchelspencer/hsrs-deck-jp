@@ -1,0 +1,13 @@
+{
+  "_id": "dqw5apyg09a",
+  "name": "freedom-play",
+  "params": {
+    "na": "freedom",
+    "verb": "play"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

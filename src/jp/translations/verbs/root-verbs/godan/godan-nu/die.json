@@ -1,0 +1,17 @@
+{
+  "_id": "0cvnckqjtk89",
+  "name": "die",
+  "order": "2",
+  "parents": [
+    "godan-nu",
+    "people-do",
+    "animals-do",
+    "te-iru-verbs-state",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "die",
+    "jp": "死ぬ",
+    "tl": "しぬ"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "_id": "xo3v4oc6eqg",
+  "name": "hiragana-ss",
+  "parents": [
+    "hiragana-script"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

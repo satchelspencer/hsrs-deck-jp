@@ -1,0 +1,16 @@
+{
+  "_id": "3xi91cyap9",
+  "name": "be-lined-up",
+  "order": "3",
+  "parents": [
+    "godan-bu",
+    "people-do",
+    "ni-at-verbs",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "en": "be lined up",
+    "jp": "並ぶ",
+    "tl": "ならぶ"
+  }
+}

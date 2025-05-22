@@ -1,0 +1,14 @@
+{
+  "_id": "mte7nifn4w",
+  "name": "cup",
+  "order": "1",
+  "parents": [
+    "containers",
+    "ko-countable"
+  ],
+  "props": {
+    "en": "cup",
+    "jp": "カップ",
+    "tl": "かっぷ"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "_id": "dopxzwm80z",
+  "name": "katakana-gi",
+  "params": {
+    "k": "katakana-ki"
+  },
+  "parents": [
+    "katakana-gs",
+    "katakana-iis"
+  ],
+  "props": {
+    "_tl": "gi",
+    "jp": "ギ"
+  }
+}

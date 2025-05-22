@@ -1,0 +1,13 @@
+{
+  "_id": "p5893wryno",
+  "name": "godan-reru-ku",
+  "params": {
+    "verb": "godan-ku"
+  },
+  "parents": [
+    "godan-reru"
+  ],
+  "props": {
+    "jp": "verb.jp|r('く', 'ける')"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "tbfz23bli8",
+  "name": "seats-standalone",
+  "params": {
+    "noun": "counter-root-seats",
+    "root": "counter-root-seats"
+  },
+  "parents": [
+    "standalone-counter-roots"
+  ],
+  "props": {
+  }
+}

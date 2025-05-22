@@ -1,0 +1,20 @@
+{
+  "_id": "ezz4g0ldj9e",
+  "constraint": "verb",
+  "mode": "p",
+  "name": "polite-negative",
+  "order": "1",
+  "params": {
+    "polite": "polite"
+  },
+  "parents": [
+    "verb-forms",
+    "ka-verb-forms",
+    "yo-ne-verb-forms",
+    "non-past-dict-forms"
+  ],
+  "props": {
+    "en": "'not '+polite.en",
+    "jp": "polite.jp|r('ます', 'ません')"
+  }
+}

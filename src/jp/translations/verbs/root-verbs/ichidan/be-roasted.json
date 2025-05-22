@@ -1,0 +1,13 @@
+{
+  "_id": "yyca6kb63d",
+  "name": "be-roasted",
+  "order": "3",
+  "parents": [
+    "ichidan"
+  ],
+  "props": {
+    "en": "be roasted",
+    "jp": "焼ける",
+    "tl": "やける"
+  }
+}

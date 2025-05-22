@@ -1,0 +1,13 @@
+{
+  "_id": "ybd3i7a4q1o",
+  "name": "soft-hards",
+  "params": {
+    "iadj": "soft",
+    "noun": "hard-softs"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

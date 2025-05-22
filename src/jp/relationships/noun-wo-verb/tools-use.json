@@ -1,0 +1,13 @@
+{
+  "_id": "3bolqed3akw",
+  "name": "tools-use",
+  "params": {
+    "noun": "tools",
+    "verb": "use"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "rvkhn7wyqxa",
+  "name": "quiet-speak",
+  "params": {
+    "na": "quiet",
+    "verb": "speak"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

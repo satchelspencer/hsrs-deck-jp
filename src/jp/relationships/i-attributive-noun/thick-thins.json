@@ -1,0 +1,13 @@
+{
+  "_id": "brf8yxevrbk",
+  "name": "thick-thins",
+  "params": {
+    "iadj": "thick",
+    "noun": "thins"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

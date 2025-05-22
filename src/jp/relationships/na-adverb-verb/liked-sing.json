@@ -1,0 +1,13 @@
+{
+  "_id": "qonnt473ogs",
+  "name": "liked-sing",
+  "params": {
+    "na": "liked",
+    "verb": "sing"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "6cdn772vovm",
+  "name": "good-be-seen",
+  "params": {
+    "iadj": "good",
+    "verb": "be-seen"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

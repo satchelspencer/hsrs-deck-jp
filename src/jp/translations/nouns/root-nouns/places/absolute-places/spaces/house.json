@@ -1,0 +1,16 @@
+{
+  "_id": "94k9rjexa48",
+  "name": "house",
+  "order": "1",
+  "parents": [
+    "spaces",
+    "buildables",
+    "hot-cold-weather",
+    "ken-buildings-countable"
+  ],
+  "props": {
+    "en": "house",
+    "jp": "家",
+    "tl": "いえ"
+  }
+}

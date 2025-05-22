@@ -1,0 +1,13 @@
+{
+  "_id": "189kegilayo",
+  "name": "airfield",
+  "order": "4",
+  "parents": [
+    "absolute-places"
+  ],
+  "props": {
+    "en": "airfield",
+    "jp": "飛行場",
+    "tl": "ひこうじょう"
+  }
+}

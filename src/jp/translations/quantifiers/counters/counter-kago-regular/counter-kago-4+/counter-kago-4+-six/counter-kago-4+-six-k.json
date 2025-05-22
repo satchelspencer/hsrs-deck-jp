@@ -1,0 +1,13 @@
+{
+  "_id": "5a1z4o1aytg",
+  "name": "counter-kago-4+-six-k",
+  "params": {
+    "root": "counter-roots-kango-4+-k"
+  },
+  "parents": [
+    "counter-kago-4+-six"
+  ],
+  "props": {
+    "tl": "'ろっ'+root.tl"
+  }
+}

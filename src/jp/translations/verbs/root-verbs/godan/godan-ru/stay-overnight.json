@@ -1,0 +1,16 @@
+{
+  "_id": "77oocla04gw",
+  "name": "stay-overnight",
+  "order": "2",
+  "parents": [
+    "godan-ru",
+    "people-do",
+    "ni-at-verbs",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "en": "stay overnight",
+    "jp": "泊まる",
+    "tl": "とまる"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "m43djsabnfk",
+  "name": "weak-be-seen",
+  "params": {
+    "iadj": "weak",
+    "verb": "be-seen"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

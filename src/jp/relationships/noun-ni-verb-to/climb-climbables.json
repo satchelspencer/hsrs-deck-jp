@@ -1,0 +1,13 @@
+{
+  "_id": "wypltuued1i",
+  "name": "climb-climbables",
+  "params": {
+    "noun": "climbables",
+    "verb": "climb"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

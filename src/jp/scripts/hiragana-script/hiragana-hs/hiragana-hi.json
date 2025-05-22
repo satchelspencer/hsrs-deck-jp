@@ -1,0 +1,12 @@
+{
+  "_id": "i2l36mcxf5d",
+  "name": "hiragana-hi",
+  "parents": [
+    "hiragana-hs",
+    "hiragana-iis"
+  ],
+  "props": {
+    "_tl": "hi",
+    "jp": "ひ"
+  }
+}

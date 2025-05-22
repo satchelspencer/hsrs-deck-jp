@@ -1,0 +1,13 @@
+{
+  "_id": "9cux7kmssy9",
+  "name": "unpleasant-feel-emotion",
+  "params": {
+    "na": "unpleasant",
+    "verb": "feel-emotion"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

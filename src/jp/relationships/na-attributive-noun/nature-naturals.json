@@ -1,0 +1,13 @@
+{
+  "_id": "tge9nxk51k",
+  "name": "nature-naturals",
+  "params": {
+    "na": "nature",
+    "noun": "naturals"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

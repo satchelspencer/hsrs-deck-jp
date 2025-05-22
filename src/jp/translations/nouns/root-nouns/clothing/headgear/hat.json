@@ -1,0 +1,13 @@
+{
+  "_id": "6xiyevty40x",
+  "name": "hat",
+  "order": "1",
+  "parents": [
+    "headgear"
+  ],
+  "props": {
+    "en": "hat",
+    "jp": "帽子",
+    "tl": "ぼうし"
+  }
+}

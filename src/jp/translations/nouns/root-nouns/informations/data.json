@@ -1,0 +1,12 @@
+{
+  "_id": "lawyheeb778",
+  "name": "data",
+  "order": "3",
+  "parents": [
+    "informations"
+  ],
+  "props": {
+    "en": "data",
+    "jp": "データ"
+  }
+}

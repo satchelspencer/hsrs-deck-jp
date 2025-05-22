@@ -1,0 +1,13 @@
+{
+  "_id": "7af9zds7om",
+  "name": "escalator",
+  "order": "3",
+  "parents": [
+    "ascendables"
+  ],
+  "props": {
+    "en": "escalator",
+    "jp": "エスカレーター",
+    "tl": "えすかれーたー"
+  }
+}

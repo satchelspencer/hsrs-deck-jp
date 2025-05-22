@@ -1,0 +1,13 @@
+{
+  "_id": "p1bdu4apxhd",
+  "name": "summer-break",
+  "order": "2",
+  "parents": [
+    "events"
+  ],
+  "props": {
+    "en": "summer break",
+    "jp": "夏休み",
+    "tl": "なつやすみ"
+  }
+}

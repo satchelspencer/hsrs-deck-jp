@@ -1,0 +1,20 @@
+{
+  "_id": "xbuyenmvf6",
+  "constraint": "verb",
+  "mode": "c",
+  "name": "plain-negative-past",
+  "order": "2",
+  "params": {
+    "negative": "plain-negative"
+  },
+  "parents": [
+    "verb-forms",
+    "ka-verb-forms",
+    "nda-verb-forms",
+    "plain-forms"
+  ],
+  "props": {
+    "en": "negative.en|pr('not', 'didn\\'t')",
+    "jp": "negative.jp|r('ない', 'なかった')"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "_id": "uz2kf3vgzg",
+  "constraint": "verb",
+  "name": "question-adv-verb",
+  "order": "2",
+  "params": {
+    "form": "verb-ka",
+    "qw": "adverb-question-words",
+    "verb": "te-iru-verbs-continuous"
+  },
+  "parents": [
+    "question-clauses"
+  ],
+  "props": {
+    "en": "qw.en+' '+form.en",
+    "jp": "qw.jp+form.jp"
+  }
+}

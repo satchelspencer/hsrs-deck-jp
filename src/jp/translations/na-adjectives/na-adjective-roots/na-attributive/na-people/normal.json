@@ -1,0 +1,13 @@
+{
+  "_id": "mvmy8yr1gal",
+  "name": "normal",
+  "order": "3",
+  "parents": [
+    "na-people"
+  ],
+  "props": {
+    "en": "normal",
+    "jp": "普通",
+    "tl": "ふつう"
+  }
+}

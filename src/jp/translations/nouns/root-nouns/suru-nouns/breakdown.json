@@ -1,0 +1,14 @@
+{
+  "_id": "6pa4ipukiiw",
+  "name": "breakdown",
+  "order": "3",
+  "parents": [
+    "suru-nouns",
+    "machines-do"
+  ],
+  "props": {
+    "en": "breakdown",
+    "jp": "故障",
+    "tl": "こしょう"
+  }
+}

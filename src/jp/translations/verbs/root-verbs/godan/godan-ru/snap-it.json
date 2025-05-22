@@ -1,0 +1,14 @@
+{
+  "_id": "pcxhn0h44rm",
+  "name": "snap-it",
+  "order": "3",
+  "parents": [
+    "godan-ru",
+    "people-do"
+  ],
+  "props": {
+    "en": "snap it",
+    "jp": "折る",
+    "tl": "おる"
+  }
+}

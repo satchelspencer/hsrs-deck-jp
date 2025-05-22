@@ -1,0 +1,15 @@
+{
+  "_id": "olkrngu808n",
+  "name": "place-made",
+  "order": "2",
+  "params": {
+    "place": "places"
+  },
+  "parents": [
+    "kara-made-places"
+  ],
+  "props": {
+    "en": "'to '+place.en",
+    "jp": "place.jp+'まで'"
+  }
+}

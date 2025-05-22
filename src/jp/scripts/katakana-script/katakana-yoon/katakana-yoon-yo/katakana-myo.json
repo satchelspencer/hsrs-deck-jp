@@ -1,0 +1,13 @@
+{
+  "_id": "7hvno5g8v7d",
+  "name": "katakana-myo",
+  "params": {
+    "iis": "katakana-mi"
+  },
+  "parents": [
+    "katakana-yoon-yo"
+  ],
+  "props": {
+    "_tl": "myo"
+  }
+}

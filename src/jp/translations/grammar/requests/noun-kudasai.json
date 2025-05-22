@@ -1,0 +1,17 @@
+{
+  "_id": "1jd0czdfjry",
+  "mode": "p",
+  "name": "noun-kudasai",
+  "order": "1",
+  "params": {
+    "noun": "products"
+  },
+  "parents": [
+    "requests"
+  ],
+  "props": {
+    "en": "noun.en+' '+'please'",
+    "jp": "noun.jp+'を下さい'",
+    "tl": "noun.tl+'をください'"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "071p1m9viyha",
+  "name": "low-sing",
+  "params": {
+    "iadj": "low",
+    "verb": "sing"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

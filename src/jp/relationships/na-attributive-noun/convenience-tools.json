@@ -1,0 +1,13 @@
+{
+  "_id": "d45vhwdc26m",
+  "name": "convenience-tools",
+  "params": {
+    "na": "convenience",
+    "noun": "tools"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

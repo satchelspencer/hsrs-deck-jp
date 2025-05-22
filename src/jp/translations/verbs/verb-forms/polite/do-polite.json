@@ -1,0 +1,14 @@
+{
+  "_id": "pmqqpq3h9z",
+  "name": "do-polite",
+  "params": {
+    "verb": "do-suru"
+  },
+  "parents": [
+    "polite"
+  ],
+  "props": {
+    "en": null,
+    "jp": "します"
+  }
+}

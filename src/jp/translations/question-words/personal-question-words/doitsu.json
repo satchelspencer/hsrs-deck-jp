@@ -1,0 +1,13 @@
+{
+  "_id": "c1kgxhtsocd",
+  "mode": "c-r",
+  "name": "doitsu",
+  "order": "4",
+  "parents": [
+    "personal-question-words"
+  ],
+  "props": {
+    "en": "which person",
+    "jp": "どいつ"
+  }
+}

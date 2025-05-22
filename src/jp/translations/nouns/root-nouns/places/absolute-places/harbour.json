@@ -1,0 +1,13 @@
+{
+  "_id": "nyiml7ntlh",
+  "name": "harbour",
+  "order": "3",
+  "parents": [
+    "absolute-places"
+  ],
+  "props": {
+    "en": "harbour",
+    "jp": "港",
+    "tl": "みなと"
+  }
+}

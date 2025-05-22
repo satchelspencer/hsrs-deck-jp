@@ -1,0 +1,12 @@
+{
+  "_id": "4z2jp5gkmzy",
+  "name": "na-place",
+  "parents": [
+    "na-attributive"
+  ],
+  "props": {
+    "en": null,
+    "jp": null
+  },
+  "virtual": true
+}

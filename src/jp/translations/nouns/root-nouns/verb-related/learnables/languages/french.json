@@ -1,0 +1,13 @@
+{
+  "_id": "1n105j0tqmc",
+  "name": "french",
+  "order": "2",
+  "parents": [
+    "languages"
+  ],
+  "props": {
+    "en": "french",
+    "jp": "フランス語",
+    "tl": "ふらんすご"
+  }
+}

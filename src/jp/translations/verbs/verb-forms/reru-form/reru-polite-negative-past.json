@@ -1,0 +1,16 @@
+{
+  "_id": "pr62kavn3n",
+  "constraint": "verb",
+  "mode": "P",
+  "name": "reru-polite-negative-past",
+  "params": {
+    "reru": "reru-plain"
+  },
+  "parents": [
+    "reru-form"
+  ],
+  "props": {
+    "en": "reru.en|pr('can', 'couldn\\'t')",
+    "jp": "reru.jp|r('る', 'ませんでした')"
+  }
+}

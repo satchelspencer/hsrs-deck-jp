@@ -1,0 +1,13 @@
+{
+  "_id": "reg9a06qzdn",
+  "name": "thin-weak-cut",
+  "params": {
+    "iadj": "thin-weak",
+    "verb": "cut"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

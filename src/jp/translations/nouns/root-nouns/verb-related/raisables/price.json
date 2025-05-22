@@ -1,0 +1,14 @@
+{
+  "_id": "2wpsxx2fbpe",
+  "name": "price",
+  "order": "2",
+  "parents": [
+    "raisables",
+    "product-no"
+  ],
+  "props": {
+    "en": "price",
+    "jp": "値段",
+    "tl": "ねだん"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "rla4d7uz9q",
+  "name": "bookshelf",
+  "order": "1",
+  "parents": [
+    "furniture"
+  ],
+  "props": {
+    "en": "bookshelf",
+    "jp": "本棚",
+    "tl": "ほんだな"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "qfpzky8nnz",
+  "name": "i-predicate-question",
+  "params": {
+    "iadj": "i-predicate",
+    "qw": "question-words"
+  },
+  "parents": [
+    "question-rels"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

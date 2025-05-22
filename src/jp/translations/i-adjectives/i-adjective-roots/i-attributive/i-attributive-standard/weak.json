@@ -1,0 +1,14 @@
+{
+  "_id": "j22iozyz7fp",
+  "name": "weak",
+  "order": "2",
+  "parents": [
+    "i-attributive-standard",
+    "i-people"
+  ],
+  "props": {
+    "en": "weak",
+    "jp": "弱い",
+    "tl": "よわい"
+  }
+}

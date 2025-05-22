@@ -1,0 +1,12 @@
+{
+  "_id": "rkw8l9vt309",
+  "name": "do-to-writeables",
+  "parents": [
+    "people-do"
+  ],
+  "props": {
+    "en": null,
+    "jp": null
+  },
+  "virtual": true
+}

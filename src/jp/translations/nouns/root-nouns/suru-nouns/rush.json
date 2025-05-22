@@ -1,0 +1,16 @@
+{
+  "_id": "tyjb6bzjpxb",
+  "name": "rush",
+  "order": "3",
+  "parents": [
+    "suru-nouns",
+    "people-do",
+    "te-iru-verbs-continuous",
+    "ni-destination-verbs"
+  ],
+  "props": {
+    "en": "rush",
+    "jp": "急行",
+    "tl": "きゅうこう"
+  }
+}

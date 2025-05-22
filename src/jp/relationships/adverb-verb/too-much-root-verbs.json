@@ -1,0 +1,13 @@
+{
+  "_id": "xgb5c1j2vm",
+  "name": "too-much-root-verbs",
+  "params": {
+    "adv": "too-much",
+    "verb": "root-verbs"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

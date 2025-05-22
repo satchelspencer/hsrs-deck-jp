@@ -1,0 +1,13 @@
+{
+  "_id": "yr0vnc0bld",
+  "name": "friend",
+  "order": "2",
+  "parents": [
+    "people"
+  ],
+  "props": {
+    "en": "friend",
+    "jp": "友達",
+    "tl": "ともだち"
+  }
+}

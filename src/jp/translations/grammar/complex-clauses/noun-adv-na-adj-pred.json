@@ -1,0 +1,18 @@
+{
+  "_id": "ktvy44b975",
+  "constraint": "na noun",
+  "name": "noun-adv-na-adj-pred",
+  "order": "3",
+  "params": {
+    "clause": "adv-na-adj",
+    "nform": "noun-plain",
+    "rel": "na-predicate-noun"
+  },
+  "parents": [
+    "complex-clauses"
+  ],
+  "props": {
+    "en": "nform.en+' '+clause.en",
+    "jp": "nform.jp+'が'+clause.jp"
+  }
+}

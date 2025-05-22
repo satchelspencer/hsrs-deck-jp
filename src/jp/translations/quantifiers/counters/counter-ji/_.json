@@ -1,0 +1,17 @@
+{
+  "_id": "18bhvrdci0c",
+  "name": "counter-ji",
+  "order": "2",
+  "params": {
+    "root": "ji-counter-root"
+  },
+  "parents": [
+    "counters"
+  ],
+  "props": {
+    "en": "number.en+' oclock'",
+    "jp": "number.jp+'時'",
+    "tl": ""
+  },
+  "virtual": true
+}

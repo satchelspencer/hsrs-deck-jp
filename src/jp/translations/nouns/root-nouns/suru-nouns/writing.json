@@ -1,0 +1,16 @@
+{
+  "_id": "b6ebb22sxwj",
+  "name": "writing",
+  "order": "3",
+  "parents": [
+    "suru-nouns",
+    "people-do",
+    "te-iru-verbs-continuous",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "writing",
+    "jp": "作文",
+    "tl": "さくぶん"
+  }
+}

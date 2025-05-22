@@ -1,0 +1,15 @@
+{
+  "_id": "s4dmic1ta3r",
+  "name": "getting-in-touch",
+  "order": "3",
+  "parents": [
+    "suru-nouns",
+    "people-do",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "en": "getting in touch",
+    "jp": "連絡",
+    "tl": "れんらく"
+  }
+}

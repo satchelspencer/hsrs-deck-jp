@@ -1,0 +1,13 @@
+{
+  "_id": "mzil7zonwt",
+  "name": "counter-ji-two",
+  "params": {
+    "number": "two"
+  },
+  "parents": [
+    "counter-ji"
+  ],
+  "props": {
+    "tl": "に~じ"
+  }
+}

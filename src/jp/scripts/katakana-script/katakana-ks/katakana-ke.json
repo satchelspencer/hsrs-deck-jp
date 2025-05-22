@@ -1,0 +1,11 @@
+{
+  "_id": "6nmc324ok77",
+  "name": "katakana-ke",
+  "parents": [
+    "katakana-ks"
+  ],
+  "props": {
+    "_tl": "ke",
+    "jp": "ケ"
+  }
+}

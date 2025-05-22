@@ -1,0 +1,13 @@
+{
+  "_id": "egpc146hu1",
+  "name": "na-predicate-question-personal",
+  "params": {
+    "na": "na-people",
+    "qw": "personal-question-words"
+  },
+  "parents": [
+    "na-predicate-question"
+  ],
+  "props": {
+  }
+}

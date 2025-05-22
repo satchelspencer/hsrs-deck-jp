@@ -1,0 +1,11 @@
+{
+  "_id": "i429avuycg",
+  "name": "hangables",
+  "parents": [
+    "clothing",
+    "verb-related"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

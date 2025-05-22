@@ -1,0 +1,15 @@
+{
+  "_id": "bp79ruvss7c",
+  "name": "opinion",
+  "order": "3",
+  "parents": [
+    "divisible",
+    "choosables",
+    "people-no"
+  ],
+  "props": {
+    "en": "opinion",
+    "jp": "意見",
+    "tl": "いけん"
+  }
+}

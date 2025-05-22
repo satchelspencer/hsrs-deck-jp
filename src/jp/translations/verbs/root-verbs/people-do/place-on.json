@@ -1,0 +1,16 @@
+{
+  "_id": "ijclxgifqra",
+  "name": "place-on",
+  "order": "3",
+  "parents": [
+    "people-do",
+    "ni-destination-verbs",
+    "te-iru-verbs-continuous",
+    "ichidan"
+  ],
+  "props": {
+    "en": "place on",
+    "jp": "載せる",
+    "tl": "のせる"
+  }
+}

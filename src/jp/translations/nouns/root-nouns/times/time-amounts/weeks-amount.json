@@ -1,0 +1,17 @@
+{
+  "_id": "7satgm54zm",
+  "constraint": "root",
+  "name": "weeks-amount",
+  "order": "3",
+  "params": {
+    "counter": "counter-kago-regular",
+    "root": "counter-root-weeks"
+  },
+  "parents": [
+    "time-amounts"
+  ],
+  "props": {
+    "en": "counter.en",
+    "jp": "counter.jp"
+  }
+}

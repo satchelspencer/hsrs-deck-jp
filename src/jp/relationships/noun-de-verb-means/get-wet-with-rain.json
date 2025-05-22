@@ -1,0 +1,13 @@
+{
+  "_id": "onnat0guvpj",
+  "name": "get-wet-with-rain",
+  "params": {
+    "noun": "rain",
+    "verb": "get-wet"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

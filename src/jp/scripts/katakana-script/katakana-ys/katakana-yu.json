@@ -1,0 +1,11 @@
+{
+  "_id": "c1ekfsnrpeg",
+  "name": "katakana-yu",
+  "parents": [
+    "katakana-ys"
+  ],
+  "props": {
+    "_tl": "yu",
+    "jp": "ユ"
+  }
+}

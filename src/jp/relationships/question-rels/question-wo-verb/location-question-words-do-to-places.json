@@ -1,0 +1,13 @@
+{
+  "_id": "m56postzl5s",
+  "name": "location-question-words-do-to-places",
+  "params": {
+    "qw": "location-question-words",
+    "verb": "do-to-places"
+  },
+  "parents": [
+    "question-wo-verb"
+  ],
+  "props": {
+  }
+}

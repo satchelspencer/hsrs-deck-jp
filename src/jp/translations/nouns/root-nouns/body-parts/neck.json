@@ -1,0 +1,13 @@
+{
+  "_id": "nf4ltdppfe",
+  "name": "neck",
+  "order": "3",
+  "parents": [
+    "body-parts"
+  ],
+  "props": {
+    "en": "neck",
+    "jp": "首",
+    "tl": "くび"
+  }
+}

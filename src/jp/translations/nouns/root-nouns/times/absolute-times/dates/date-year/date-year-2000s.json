@@ -1,0 +1,17 @@
+{
+  "_id": "1pze5xqnpaw",
+  "name": "date-year-2000s",
+  "params": {
+    "thousand": "thousand",
+    "two": "two"
+  },
+  "parents": [
+    "date-year",
+    "ni-past-times"
+  ],
+  "props": {
+    "en": "'200'+number.en",
+    "jp": "'200'+number.en+year.jp",
+    "tl": "'にせん'+number.tl+year.tl"
+  }
+}

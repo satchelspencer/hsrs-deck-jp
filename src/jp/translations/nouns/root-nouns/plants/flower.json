@@ -1,0 +1,15 @@
+{
+  "_id": "4cy2e1jrtve",
+  "name": "flower",
+  "order": "1",
+  "parents": [
+    "plants",
+    "decorations",
+    "bloomers"
+  ],
+  "props": {
+    "en": "flower",
+    "jp": "花",
+    "tl": "はな"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "977ifzypnzc",
+  "name": "first-person-pronouns-plural",
+  "order": "2",
+  "params": {
+    "pronoun": "first-person-pronouns-singular"
+  },
+  "parents": [
+    "first-person-pronouns"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

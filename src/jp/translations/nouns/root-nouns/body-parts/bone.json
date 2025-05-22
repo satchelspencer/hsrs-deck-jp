@@ -1,0 +1,14 @@
+{
+  "_id": "8hjo3tfm13w",
+  "name": "bone",
+  "order": "4",
+  "parents": [
+    "body-parts",
+    "snappers"
+  ],
+  "props": {
+    "en": "bone",
+    "jp": "骨",
+    "tl": "ほね"
+  }
+}

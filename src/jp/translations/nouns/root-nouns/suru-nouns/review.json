@@ -1,0 +1,17 @@
+{
+  "_id": "15wmlr2bxwv",
+  "name": "review",
+  "order": "3",
+  "parents": [
+    "suru-nouns",
+    "people-do",
+    "do-to-learnables",
+    "te-iru-verbs-continuous",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "review",
+    "jp": "復習",
+    "tl": "ふくしゅう"
+  }
+}

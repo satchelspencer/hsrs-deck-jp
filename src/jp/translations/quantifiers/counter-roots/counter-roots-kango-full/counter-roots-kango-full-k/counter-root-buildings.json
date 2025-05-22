@@ -1,0 +1,13 @@
+{
+  "_id": "ozhkkeum8i8",
+  "name": "counter-root-buildings",
+  "order": "2",
+  "parents": [
+    "counter-roots-kango-full-k"
+  ],
+  "props": {
+    "en": "buildings",
+    "jp": "軒",
+    "tl": "けん"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "mgko3hm720i",
+  "mode": "c",
+  "name": "we-casual",
+  "params": {
+    "pronoun": "I"
+  },
+  "parents": [
+    "first-person-pronouns-plural"
+  ],
+  "props": {
+    "en": "we",
+    "jp": "私ら",
+    "tl": "わたしら"
+  }
+}

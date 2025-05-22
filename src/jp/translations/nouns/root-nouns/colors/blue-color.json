@@ -1,0 +1,12 @@
+{
+  "_id": "sr4xjwdkj5",
+  "name": "blue-color",
+  "parents": [
+    "colors"
+  ],
+  "props": {
+    "en": "blue color",
+    "jp": "青",
+    "tl": "あお"
+  }
+}

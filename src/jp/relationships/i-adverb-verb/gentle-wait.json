@@ -1,0 +1,13 @@
+{
+  "_id": "ij8etevgen",
+  "name": "gentle-wait",
+  "params": {
+    "iadj": "gentle",
+    "verb": "wait"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

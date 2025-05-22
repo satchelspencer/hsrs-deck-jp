@@ -1,0 +1,10 @@
+{
+  "_id": "wiswp6rvit",
+  "name": "conjuncting-clauses",
+  "parents": [
+    "sub-clauses"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

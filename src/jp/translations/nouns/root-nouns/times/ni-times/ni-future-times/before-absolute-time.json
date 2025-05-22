@@ -1,0 +1,15 @@
+{
+  "_id": "lukurct177",
+  "name": "before-absolute-time",
+  "order": "3",
+  "params": {
+    "time": "ni-any-times"
+  },
+  "parents": [
+    "ni-future-times"
+  ],
+  "props": {
+    "en": "'before '+time.en",
+    "jp": "time.jp+'まで'"
+  }
+}

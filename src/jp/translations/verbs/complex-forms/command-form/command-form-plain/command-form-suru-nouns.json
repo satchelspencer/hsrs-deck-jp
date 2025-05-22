@@ -1,0 +1,14 @@
+{
+  "_id": "7nuxii90bbe",
+  "name": "command-form-suru-nouns",
+  "params": {
+    "verb": "suru-nouns"
+  },
+  "parents": [
+    "command-form-plain"
+  ],
+  "props": {
+    "en": "'do '+verb.en+'!'",
+    "jp": "verb.jp+'しろ'"
+  }
+}

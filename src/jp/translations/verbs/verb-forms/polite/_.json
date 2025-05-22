@@ -1,0 +1,20 @@
+{
+  "_id": "0jjucp9wsnt",
+  "mode": "p",
+  "name": "polite",
+  "order": "1",
+  "params": {
+    "verb": "verb-forms"
+  },
+  "parents": [
+    "verb-forms",
+    "ka-verb-forms",
+    "yo-ne-verb-forms",
+    "non-past-dict-forms"
+  ],
+  "props": {
+    "en": "verb.en",
+    "jp": null
+  },
+  "virtual": true
+}

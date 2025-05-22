@@ -1,0 +1,18 @@
+{
+  "_id": "xxoioyvfr7p",
+  "name": "raise",
+  "order": "2",
+  "parents": [
+    "people-do",
+    "do-to-objects",
+    "do-to-raiseables",
+    "te-iru-verbs-continuous",
+    "de-location-verbs",
+    "ichidan"
+  ],
+  "props": {
+    "en": "raise",
+    "jp": "上げる",
+    "tl": "あげる"
+  }
+}

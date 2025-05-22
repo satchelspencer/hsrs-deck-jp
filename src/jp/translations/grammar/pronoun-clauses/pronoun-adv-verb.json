@@ -1,0 +1,19 @@
+{
+  "_id": "e81q1udo56n",
+  "constraint": "verb",
+  "name": "pronoun-adv-verb",
+  "order": "2",
+  "params": {
+    "form": "verb-forms",
+    "pn": "adverb-pronouns",
+    "verb": "te-iru-verbs-continuous"
+  },
+  "parents": [
+    "pronoun-clauses",
+    "pronoun-temporal-verb-clauses"
+  ],
+  "props": {
+    "en": "pn.en+' '+form.en",
+    "jp": "pn.jp+form.jp"
+  }
+}

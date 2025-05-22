@@ -1,0 +1,12 @@
+{
+  "_id": "ulhsktzwk8s",
+  "name": "godan-ku",
+  "parents": [
+    "godan"
+  ],
+  "props": {
+    "en": null,
+    "jp": null
+  },
+  "virtual": true
+}

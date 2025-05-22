@@ -1,0 +1,14 @@
+{
+  "_id": "fyul0oivn7",
+  "name": "dream",
+  "order": "2",
+  "parents": [
+    "good-bads",
+    "events"
+  ],
+  "props": {
+    "en": "dream",
+    "jp": "夢",
+    "tl": "ゆめ"
+  }
+}

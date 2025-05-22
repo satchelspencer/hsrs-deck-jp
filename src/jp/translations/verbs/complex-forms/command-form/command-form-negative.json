@@ -1,0 +1,16 @@
+{
+  "_id": "w9m1pxexau",
+  "constraint": "verb",
+  "name": "command-form-negative",
+  "params": {
+    "form": "plain",
+    "rel": "verb-people-do"
+  },
+  "parents": [
+    "command-form"
+  ],
+  "props": {
+    "en": "'don\\'t '+form.en+'!'",
+    "jp": "form.jp+'な'"
+  }
+}

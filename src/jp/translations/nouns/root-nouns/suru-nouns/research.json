@@ -1,0 +1,17 @@
+{
+  "_id": "edkwef9cdfw",
+  "name": "research",
+  "order": "3",
+  "parents": [
+    "suru-nouns",
+    "people-do",
+    "te-iru-verbs-continuous",
+    "people-no",
+    "good-bads"
+  ],
+  "props": {
+    "en": "research",
+    "jp": "研究",
+    "tl": "けんきゅう"
+  }
+}

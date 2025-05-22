@@ -1,0 +1,16 @@
+{
+  "_id": "t94ag4612qh",
+  "name": "pluck-instrument",
+  "order": "3",
+  "parents": [
+    "godan-ku",
+    "people-do",
+    "te-iru-verbs-continuous",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "pluck",
+    "jp": "弾く",
+    "tl": "ひく"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "brs2lg8tmvk",
+  "name": "events-start",
+  "params": {
+    "noun": "events",
+    "verb": "start-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "hhq3q2zll2f",
+  "name": "fall",
+  "order": "3",
+  "parents": [
+    "people-do",
+    "animals-do",
+    "te-iru-verbs-state",
+    "de-location-verbs",
+    "ichidan"
+  ],
+  "props": {
+    "en": "fall",
+    "jp": "落ちる",
+    "tl": "おちる"
+  }
+}

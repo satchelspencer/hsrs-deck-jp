@@ -1,0 +1,16 @@
+{
+  "_id": "4fvrb4f2wfy",
+  "mode": "cmr",
+  "name": "we-male-impolite",
+  "params": {
+    "pronoun": "ore"
+  },
+  "parents": [
+    "first-person-pronouns-plural"
+  ],
+  "props": {
+    "en": "we",
+    "jp": "俺ら",
+    "tl": "おれら"
+  }
+}

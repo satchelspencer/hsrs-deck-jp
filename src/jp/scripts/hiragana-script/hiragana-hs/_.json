@@ -1,0 +1,10 @@
+{
+  "_id": "gwx9lcvxym8",
+  "name": "hiragana-hs",
+  "parents": [
+    "hiragana-script"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

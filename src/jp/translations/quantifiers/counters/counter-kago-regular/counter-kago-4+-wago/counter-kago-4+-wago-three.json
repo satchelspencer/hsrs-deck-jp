@@ -1,0 +1,13 @@
+{
+  "_id": "btvkv2qvwsh",
+  "name": "counter-kago-4+-wago-three",
+  "params": {
+    "number": "three"
+  },
+  "parents": [
+    "counter-kago-4+-wago"
+  ],
+  "props": {
+    "tl": "'み'+root.tl"
+  }
+}

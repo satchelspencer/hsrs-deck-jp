@@ -1,0 +1,14 @@
+{
+  "_id": "9op9j4feojm",
+  "name": "godan-negative-bu",
+  "params": {
+    "verb": "godan-bu"
+  },
+  "parents": [
+    "godan-negative"
+  ],
+  "props": {
+    "en": null,
+    "jp": "verb.jp|r('ぶ', 'ばない')"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "58cqenqeztf",
+  "name": "brazil",
+  "order": "2",
+  "parents": [
+    "countries"
+  ],
+  "props": {
+    "en": "brazil",
+    "jp": "ブラジル",
+    "tl": "ぶらじる"
+  }
+}

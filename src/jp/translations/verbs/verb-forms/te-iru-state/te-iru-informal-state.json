@@ -1,0 +1,12 @@
+{
+  "_id": "jztz803wv2",
+  "mode": "c-r",
+  "name": "te-iru-informal-state",
+  "parents": [
+    "te-iru-state"
+  ],
+  "props": {
+    "en": "'is '+te.en|r(' and','')+'-ed'",
+    "jp": "te.jp+'る'"
+  }
+}

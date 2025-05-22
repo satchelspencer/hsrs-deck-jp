@@ -1,0 +1,13 @@
+{
+  "_id": "4to8c66k3ba",
+  "name": "command-form-suru",
+  "params": {
+    "verb": "do-suru"
+  },
+  "parents": [
+    "command-form-plain"
+  ],
+  "props": {
+    "jp": "しろ"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "3fr4gwwnsyf",
+  "mode": "p",
+  "name": "counter-root-people-formal",
+  "order": "4",
+  "parents": [
+    "counter-roots-kango-simple"
+  ],
+  "props": {
+    "en": "people",
+    "jp": "名",
+    "tl": "めい"
+  }
+}

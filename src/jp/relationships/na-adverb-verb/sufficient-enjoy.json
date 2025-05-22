@@ -1,0 +1,13 @@
+{
+  "_id": "47egxtqxsa2",
+  "name": "sufficient-enjoy",
+  "params": {
+    "na": "sufficient",
+    "verb": "enjoy"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

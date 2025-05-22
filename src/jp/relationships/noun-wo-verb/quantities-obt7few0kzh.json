@@ -1,0 +1,13 @@
+{
+  "_id": "vlpjovp9bw",
+  "name": "quantities-obt7few0kzh",
+  "params": {
+    "noun": "countables",
+    "verb": "do-to-quantities"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

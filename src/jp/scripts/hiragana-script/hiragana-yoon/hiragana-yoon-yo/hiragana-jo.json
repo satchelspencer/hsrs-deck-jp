@@ -1,0 +1,14 @@
+{
+  "_id": "xjyowyjo5k",
+  "name": "hiragana-jo",
+  "params": {
+    "iis": "hiragana-ji"
+  },
+  "parents": [
+    "hiragana-yoon-yo"
+  ],
+  "props": {
+    "_tl": "jo",
+    "jp": "iis.jp+'ょ'"
+  }
+}

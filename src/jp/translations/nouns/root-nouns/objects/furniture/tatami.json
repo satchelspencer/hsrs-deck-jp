@@ -1,0 +1,13 @@
+{
+  "_id": "1bp0y42e1sx",
+  "name": "tatami",
+  "order": "3",
+  "parents": [
+    "furniture"
+  ],
+  "props": {
+    "en": "tatami mats",
+    "jp": "畳",
+    "tl": "たたみ"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "tl8c3gta82",
+  "name": "counter-nichi-seven",
+  "params": {
+    "number": "seven"
+  },
+  "parents": [
+    "counter-days"
+  ],
+  "props": {
+    "jp": "七日",
+    "tl": "なのか"
+  }
+}

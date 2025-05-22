@@ -1,0 +1,13 @@
+{
+  "_id": "irk0amwsgzl",
+  "name": "ladder",
+  "order": "3",
+  "parents": [
+    "climbables",
+    "tools"
+  ],
+  "props": {
+    "en": "ladder",
+    "jp": "はしご"
+  }
+}

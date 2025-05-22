@@ -1,0 +1,22 @@
+{
+  "_id": "tu2h2pvly1",
+  "mode": "c",
+  "name": "na-adjective-past",
+  "order": "2",
+  "params": {
+    "na": "na-attributive"
+  },
+  "parents": [
+    "na-adjective-forms",
+    "na-predicate-forms",
+    "ka-na-forms",
+    "nda-na-forms",
+    "yo-ne-na-forms",
+    "conjunctive-na-forms",
+    "na-plain-forms"
+  ],
+  "props": {
+    "en": "'was '+na.en",
+    "jp": "na.jp+'だった'"
+  }
+}

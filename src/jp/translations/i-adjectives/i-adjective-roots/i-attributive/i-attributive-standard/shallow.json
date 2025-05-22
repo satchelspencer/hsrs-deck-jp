@@ -1,0 +1,13 @@
+{
+  "_id": "pvt4q7qkzj9",
+  "name": "shallow",
+  "order": "3",
+  "parents": [
+    "i-attributive-standard"
+  ],
+  "props": {
+    "en": "shallow",
+    "jp": "浅い",
+    "tl": "あさい"
+  }
+}

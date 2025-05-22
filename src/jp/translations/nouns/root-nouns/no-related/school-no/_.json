@@ -1,0 +1,10 @@
+{
+  "_id": "41hn903g3zy",
+  "name": "school-no",
+  "parents": [
+    "no-related"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "9wsxn2b9tx",
+  "name": "relationship",
+  "order": "3",
+  "parents": [
+    "suru-nouns",
+    "events",
+    "people-do",
+    "people-no"
+  ],
+  "props": {
+    "en": "relationship",
+    "jp": "関係",
+    "tl": "かんけい"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "_id": "tyeebsg64gc",
+  "name": "room",
+  "order": "1",
+  "parents": [
+    "spaces",
+    "light-darks",
+    "hot-cold-weather"
+  ],
+  "props": {
+    "en": "room",
+    "jp": "部屋",
+    "tl": "へや"
+  }
+}

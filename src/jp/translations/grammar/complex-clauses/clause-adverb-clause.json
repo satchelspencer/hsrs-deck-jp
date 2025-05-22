@@ -1,0 +1,16 @@
+{
+  "_id": "wrso3x5tm7p",
+  "name": "clause-adverb-clause",
+  "order": "2",
+  "params": {
+    "adv": "clause-adverbs",
+    "clause": "clauses"
+  },
+  "parents": [
+    "complex-clauses"
+  ],
+  "props": {
+    "en": "adv.en+' '+clause.en",
+    "jp": "adv.jp+clause.jp"
+  }
+}

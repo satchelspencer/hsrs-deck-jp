@@ -1,0 +1,13 @@
+{
+  "_id": "xlgw65v34kh",
+  "name": "counter-root-beasts",
+  "order": "2",
+  "parents": [
+    "counter-roots-kango-full-t"
+  ],
+  "props": {
+    "en": "beasts",
+    "jp": "頭",
+    "tl": "とう"
+  }
+}

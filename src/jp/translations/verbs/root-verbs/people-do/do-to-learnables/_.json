@@ -1,0 +1,12 @@
+{
+  "_id": "xoncvnbdqfp",
+  "name": "do-to-learnables",
+  "parents": [
+    "people-do"
+  ],
+  "props": {
+    "en": null,
+    "jp": null
+  },
+  "virtual": true
+}

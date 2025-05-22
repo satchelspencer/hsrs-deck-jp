@@ -1,0 +1,11 @@
+{
+  "_id": "f981a6asrf",
+  "name": "nouns",
+  "order": "",
+  "parents": [
+    "translations"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

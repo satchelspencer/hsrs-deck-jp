@@ -1,0 +1,18 @@
+{
+  "_id": "lf4fghwr1xl",
+  "name": "counter-months",
+  "order": "2",
+  "params": {
+    "root": "month-of-the-year"
+  },
+  "parents": [
+    "counters",
+    "dates",
+    "ni-any-times"
+  ],
+  "props": {
+    "en": "",
+    "jp": "number.jp+'月'"
+  },
+  "virtual": true
+}

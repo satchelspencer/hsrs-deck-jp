@@ -1,0 +1,14 @@
+{
+  "_id": "15h0ogu5qj3",
+  "name": "hiragana-gu",
+  "params": {
+    "k": "hiragana-ku"
+  },
+  "parents": [
+    "hiragana-gs"
+  ],
+  "props": {
+    "_tl": "gu",
+    "jp": "ぐ"
+  }
+}

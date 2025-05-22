@@ -1,0 +1,19 @@
+{
+  "_id": "wdc58opvjzk",
+  "constraint": "verb noun",
+  "name": "noun-wo-obj",
+  "order": "1",
+  "params": {
+    "form": "verb-forms",
+    "rel": "noun-wo-verb"
+  },
+  "parents": [
+    "clauses",
+    "const-noun-clauses",
+    "temporal-verb-clauses"
+  ],
+  "props": {
+    "en": "form.en+' '+rel.noun.en",
+    "jp": "rel.noun.jp+'を'+form.jp"
+  }
+}

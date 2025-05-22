@@ -1,0 +1,17 @@
+{
+  "_id": "6en3ltrgen3",
+  "name": "be-gathered",
+  "order": "2",
+  "parents": [
+    "godan-ru",
+    "people-do",
+    "animals-do",
+    "ni-at-verbs",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "en": "be gathered",
+    "jp": "集まる",
+    "tl": "あつまる"
+  }
+}

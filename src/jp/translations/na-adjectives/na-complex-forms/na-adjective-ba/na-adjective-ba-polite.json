@@ -1,0 +1,15 @@
+{
+  "_id": "k7bjk7z32oj",
+  "mode": "p",
+  "name": "na-adjective-ba-polite",
+  "params": {
+    "na": "na-attributive"
+  },
+  "parents": [
+    "na-adjective-ba"
+  ],
+  "props": {
+    "en": "'if '+na.en",
+    "jp": "na.jp+'であれば'"
+  }
+}

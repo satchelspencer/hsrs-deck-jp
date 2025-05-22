@@ -1,0 +1,14 @@
+{
+  "_id": "gi7bqztc14f",
+  "name": "outside",
+  "order": "1",
+  "parents": [
+    "positional-words",
+    "absolute-places"
+  ],
+  "props": {
+    "en": "outside",
+    "jp": "外",
+    "tl": "そと"
+  }
+}

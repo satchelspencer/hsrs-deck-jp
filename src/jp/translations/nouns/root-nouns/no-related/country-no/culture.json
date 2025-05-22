@@ -1,0 +1,13 @@
+{
+  "_id": "xxl77xapw1",
+  "name": "culture",
+  "order": "2",
+  "parents": [
+    "country-no"
+  ],
+  "props": {
+    "en": "culture",
+    "jp": "文化",
+    "tl": "ぶんか"
+  }
+}

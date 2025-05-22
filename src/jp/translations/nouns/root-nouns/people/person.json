@@ -1,0 +1,13 @@
+{
+  "_id": "857c094i07x",
+  "name": "person",
+  "order": "1",
+  "parents": [
+    "people"
+  ],
+  "props": {
+    "en": "person",
+    "jp": "人",
+    "tl": "ひと"
+  }
+}

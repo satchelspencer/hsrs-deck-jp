@@ -1,0 +1,13 @@
+{
+  "_id": "od5uns31pwf",
+  "name": "zero",
+  "order": "2",
+  "parents": [
+    "quantifiers"
+  ],
+  "props": {
+    "en": "zero",
+    "jp": "零",
+    "tl": "れい"
+  }
+}

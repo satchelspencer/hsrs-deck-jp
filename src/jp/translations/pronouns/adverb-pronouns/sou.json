@@ -1,0 +1,12 @@
+{
+  "_id": "98pw1r86f6q",
+  "name": "sou",
+  "order": "2",
+  "parents": [
+    "adverb-pronouns"
+  ],
+  "props": {
+    "en": "like that",
+    "jp": "そう"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "4dstkcegga7",
+  "name": "godan-reru-nu",
+  "params": {
+    "verb": "godan-nu"
+  },
+  "parents": [
+    "godan-reru"
+  ],
+  "props": {
+    "jp": "verb.jp|r('ぬ', 'ねる')"
+  }
+}

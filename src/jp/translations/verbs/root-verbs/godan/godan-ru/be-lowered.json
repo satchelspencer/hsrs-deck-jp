@@ -1,0 +1,16 @@
+{
+  "_id": "yhd0n2j1v1",
+  "name": "be-lowered",
+  "order": "3",
+  "parents": [
+    "godan-ru",
+    "raisables-do",
+    "te-iru-verbs-continuous",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "be lowered",
+    "jp": "下がる",
+    "tl": "さがる"
+  }
+}

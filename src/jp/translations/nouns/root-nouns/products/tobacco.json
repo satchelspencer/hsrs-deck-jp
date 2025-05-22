@@ -1,0 +1,14 @@
+{
+  "_id": "kqhhlje8es",
+  "name": "tobacco",
+  "order": "2",
+  "parents": [
+    "products",
+    "inhaleables"
+  ],
+  "props": {
+    "en": "tobacco",
+    "jp": "タバコ",
+    "tl": "たばこ"
+  }
+}

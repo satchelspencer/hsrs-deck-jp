@@ -1,0 +1,10 @@
+{
+  "_id": "tdd17vg75",
+  "name": "satsu-countable",
+  "parents": [
+    "counter-related"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

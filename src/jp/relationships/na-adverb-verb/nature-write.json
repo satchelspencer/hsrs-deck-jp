@@ -1,0 +1,13 @@
+{
+  "_id": "cwbcofo3igh",
+  "name": "nature-write",
+  "params": {
+    "na": "nature",
+    "verb": "write"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

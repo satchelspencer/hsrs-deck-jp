@@ -1,0 +1,11 @@
+{
+  "_id": "9hclqx84tl",
+  "name": "electrics",
+  "parents": [
+    "machines",
+    "verb-related"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

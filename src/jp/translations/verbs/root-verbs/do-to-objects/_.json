@@ -1,0 +1,12 @@
+{
+  "_id": "xx3l7m6lin",
+  "name": "do-to-objects",
+  "parents": [
+    "root-verbs"
+  ],
+  "props": {
+    "en": null,
+    "jp": null
+  },
+  "virtual": true
+}

@@ -1,0 +1,10 @@
+{
+  "_id": "4yei32wsigu",
+  "name": "ni-to-verbs",
+  "parents": [
+    "ni-related-verbs"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

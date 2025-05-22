@@ -1,0 +1,13 @@
+{
+  "_id": "8q4exh4bnbt",
+  "name": "cool-temp-hot-cold-touch",
+  "params": {
+    "iadj": "cool-temp",
+    "noun": "hot-cold-touch"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

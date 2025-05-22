@@ -1,0 +1,14 @@
+{
+  "_id": "2g8e1bkdjyl",
+  "name": "email",
+  "order": "2",
+  "parents": [
+    "sendables",
+    "writeables",
+    "activities"
+  ],
+  "props": {
+    "en": "email",
+    "jp": "メール"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "on6zf972jwp",
+  "name": "break-up",
+  "order": "3",
+  "parents": [
+    "ichidan",
+    "people-do"
+  ],
+  "props": {
+    "en": "break up",
+    "jp": "別れる",
+    "tl": "わかれる"
+  }
+}

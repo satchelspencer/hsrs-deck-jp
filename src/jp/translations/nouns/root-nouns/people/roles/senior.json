@@ -1,0 +1,13 @@
+{
+  "_id": "5ps3wuo85i4",
+  "name": "senior",
+  "order": "4",
+  "parents": [
+    "roles"
+  ],
+  "props": {
+    "en": "senior",
+    "jp": "先輩",
+    "tl": "せんぱい"
+  }
+}

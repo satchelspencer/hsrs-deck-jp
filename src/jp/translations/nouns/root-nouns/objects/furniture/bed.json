@@ -1,0 +1,14 @@
+{
+  "_id": "9gy4hr2cych",
+  "name": "bed",
+  "order": "1",
+  "parents": [
+    "furniture",
+    "hard-softs"
+  ],
+  "props": {
+    "en": "bed",
+    "jp": "ベッド",
+    "tl": "べっど"
+  }
+}

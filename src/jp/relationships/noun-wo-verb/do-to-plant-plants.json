@@ -1,0 +1,13 @@
+{
+  "_id": "wyieubdytoj",
+  "name": "do-to-plant-plants",
+  "params": {
+    "noun": "plants",
+    "verb": "do-to-plants"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

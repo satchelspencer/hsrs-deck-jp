@@ -1,0 +1,14 @@
+{
+  "_id": "fuwypdq0har",
+  "name": "hiragana-ze",
+  "params": {
+    "s": "hiragana-se"
+  },
+  "parents": [
+    "hiragana-zs"
+  ],
+  "props": {
+    "_tl": "ze",
+    "jp": "ぜ"
+  }
+}

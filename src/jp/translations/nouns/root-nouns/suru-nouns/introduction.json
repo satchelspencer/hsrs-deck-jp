@@ -1,0 +1,16 @@
+{
+  "_id": "nhc347vfjjp",
+  "name": "introduction",
+  "order": "3",
+  "parents": [
+    "suru-nouns",
+    "people-no",
+    "do-to-people",
+    "ni-person-verbs"
+  ],
+  "props": {
+    "en": "introduction",
+    "jp": "紹介",
+    "tl": "しょうかい"
+  }
+}

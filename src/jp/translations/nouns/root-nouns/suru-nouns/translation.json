@@ -1,0 +1,16 @@
+{
+  "_id": "vevs2fzjry",
+  "name": "translation",
+  "order": "3",
+  "parents": [
+    "suru-nouns",
+    "people-do",
+    "do-to-writeables",
+    "do-to-learnables"
+  ],
+  "props": {
+    "en": "translation",
+    "jp": "翻訳",
+    "tl": "ほんやく"
+  }
+}

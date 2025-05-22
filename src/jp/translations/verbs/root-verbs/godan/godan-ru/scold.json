@@ -1,0 +1,15 @@
+{
+  "_id": "c7rd9l781pi",
+  "name": "scold",
+  "order": "3",
+  "parents": [
+    "godan-ru",
+    "people-do",
+    "do-to-people"
+  ],
+  "props": {
+    "en": "scold",
+    "jp": "叱る",
+    "tl": "しかる"
+  }
+}

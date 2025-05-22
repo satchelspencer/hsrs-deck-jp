@@ -1,0 +1,13 @@
+{
+  "_id": "3ohuvlv37s4",
+  "name": "glasses",
+  "order": "2",
+  "parents": [
+    "hangables"
+  ],
+  "props": {
+    "en": "glasses",
+    "jp": "眼鏡",
+    "tl": "めがね"
+  }
+}

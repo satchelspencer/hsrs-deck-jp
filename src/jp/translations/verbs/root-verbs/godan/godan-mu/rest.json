@@ -1,0 +1,16 @@
+{
+  "_id": "l3s91lt8hq",
+  "name": "rest",
+  "order": "1",
+  "parents": [
+    "godan-mu",
+    "people-do",
+    "te-iru-verbs-continuous",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "rest",
+    "jp": "休む",
+    "tl": "やすむ"
+  }
+}

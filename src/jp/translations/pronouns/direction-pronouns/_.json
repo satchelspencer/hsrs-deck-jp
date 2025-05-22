@@ -1,0 +1,10 @@
+{
+  "_id": "sm4w0ui74x",
+  "name": "direction-pronouns",
+  "parents": [
+    "pronouns"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

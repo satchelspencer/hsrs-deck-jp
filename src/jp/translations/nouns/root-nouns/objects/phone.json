@@ -1,0 +1,16 @@
+{
+  "_id": "ploxjtbfnrq",
+  "name": "phone",
+  "order": "1",
+  "parents": [
+    "objects",
+    "electrics",
+    "audibles",
+    "ringers"
+  ],
+  "props": {
+    "en": "phone",
+    "jp": "電話",
+    "tl": "でんわ"
+  }
+}

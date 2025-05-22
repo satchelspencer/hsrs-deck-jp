@@ -1,0 +1,13 @@
+{
+  "_id": "quk3zbxs68",
+  "name": "ball-point-pen",
+  "order": "3",
+  "parents": [
+    "writing-utensils"
+  ],
+  "props": {
+    "en": "ball-point pen",
+    "jp": "ボールペン",
+    "tl": "ぼーるぺん"
+  }
+}

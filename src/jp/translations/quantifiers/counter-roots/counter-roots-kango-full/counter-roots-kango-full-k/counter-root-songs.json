@@ -1,0 +1,14 @@
+{
+  "_id": "xgxvev6tf5",
+  "name": "counter-root-songs",
+  "order": "3",
+  "parents": [
+    "counter-roots-kango-full-k",
+    "media"
+  ],
+  "props": {
+    "en": "songs",
+    "jp": "曲",
+    "tl": "きょく"
+  }
+}

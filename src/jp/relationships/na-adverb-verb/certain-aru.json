@@ -1,0 +1,13 @@
+{
+  "_id": "m2hiq8gsc1",
+  "name": "certain-aru",
+  "params": {
+    "na": "certain",
+    "verb": "aru"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

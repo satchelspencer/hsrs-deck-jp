@@ -1,0 +1,11 @@
+{
+  "_id": "pv850jwq80b",
+  "name": "hiragana-ne",
+  "parents": [
+    "hiragana-ns"
+  ],
+  "props": {
+    "_tl": "ne",
+    "jp": "ね"
+  }
+}

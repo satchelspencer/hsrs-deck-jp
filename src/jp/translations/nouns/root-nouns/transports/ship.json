@@ -1,0 +1,13 @@
+{
+  "_id": "1861zqks09a",
+  "name": "ship",
+  "order": "3",
+  "parents": [
+    "transports"
+  ],
+  "props": {
+    "en": "ship",
+    "jp": "船",
+    "tl": "ふね"
+  }
+}

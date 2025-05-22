@@ -1,0 +1,14 @@
+{
+  "_id": "ruabick2dc9",
+  "name": "thunder",
+  "order": "4",
+  "parents": [
+    "weather",
+    "ringers"
+  ],
+  "props": {
+    "en": "thunder",
+    "jp": "雷",
+    "tl": "かみなり"
+  }
+}

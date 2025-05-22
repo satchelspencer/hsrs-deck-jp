@@ -1,0 +1,13 @@
+{
+  "_id": "hrnb6ephxep",
+  "name": "nature-consider",
+  "params": {
+    "na": "nature",
+    "verb": "consider"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "_id": "njg2mrlskfg",
+  "name": "air",
+  "order": "3",
+  "parents": [
+    "weather",
+    "hot-cold-weather",
+    "inhaleables"
+  ],
+  "props": {
+    "en": "air",
+    "jp": "空気",
+    "tl": "くうき"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "_id": "dme9ohj7c6i",
+  "name": "fitables",
+  "parents": [
+    "clothing"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

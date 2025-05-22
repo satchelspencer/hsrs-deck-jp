@@ -1,0 +1,15 @@
+{
+  "_id": "x6r9x7207b8",
+  "name": "sleep",
+  "order": "2",
+  "parents": [
+    "godan-ru",
+    "people-do",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "sleep",
+    "jp": "眠る",
+    "tl": "ねむる"
+  }
+}

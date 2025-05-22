@@ -1,0 +1,13 @@
+{
+  "_id": "p4yr8nb1c99",
+  "name": "tasty-edibles",
+  "params": {
+    "iadj": "tasty",
+    "noun": "edibles"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

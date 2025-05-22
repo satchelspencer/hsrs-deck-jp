@@ -1,0 +1,13 @@
+{
+  "_id": "r32axp6l4um",
+  "name": "above",
+  "order": "1",
+  "parents": [
+    "positional-words"
+  ],
+  "props": {
+    "en": "above",
+    "jp": "上",
+    "tl": "うえ"
+  }
+}

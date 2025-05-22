@@ -1,0 +1,18 @@
+{
+  "_id": "ds3beeuotju",
+  "name": "noun-plain",
+  "order": "1",
+  "params": {
+    "noun": "root-nouns"
+  },
+  "parents": [
+    "noun-forms",
+    "ka-noun-forms",
+    "noun-plain-forms"
+  ],
+  "props": {
+    "en": "noun.en",
+    "jp": "noun.jp",
+    "tl": "noun.tl"
+  }
+}

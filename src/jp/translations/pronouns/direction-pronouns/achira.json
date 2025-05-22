@@ -1,0 +1,13 @@
+{
+  "_id": "20hee53xhba",
+  "mode": "p",
+  "name": "achira",
+  "order": "3",
+  "parents": [
+    "direction-pronouns"
+  ],
+  "props": {
+    "en": "over that way",
+    "jp": "あちら"
+  }
+}

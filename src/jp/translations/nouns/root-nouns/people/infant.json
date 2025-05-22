@@ -1,0 +1,13 @@
+{
+  "_id": "42nbocs1z6c",
+  "name": "infant",
+  "order": "4",
+  "parents": [
+    "people"
+  ],
+  "props": {
+    "en": "infant",
+    "jp": "赤ん坊",
+    "tl": "あかんぼう"
+  }
+}

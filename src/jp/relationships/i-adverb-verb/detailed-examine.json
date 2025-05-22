@@ -1,0 +1,13 @@
+{
+  "_id": "mpzo2ma9ts9",
+  "name": "detailed-examine",
+  "params": {
+    "iadj": "detailed",
+    "verb": "examine"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

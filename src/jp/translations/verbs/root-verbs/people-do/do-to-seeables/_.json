@@ -1,0 +1,12 @@
+{
+  "_id": "u4ktxv4mebc",
+  "name": "do-to-seeables",
+  "parents": [
+    "people-do"
+  ],
+  "props": {
+    "en": null,
+    "jp": null
+  },
+  "virtual": true
+}

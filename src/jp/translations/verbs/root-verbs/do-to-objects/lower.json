@@ -1,0 +1,16 @@
+{
+  "_id": "7ef9kqhrkk",
+  "name": "lower",
+  "order": "3",
+  "parents": [
+    "do-to-objects",
+    "do-to-raiseables",
+    "te-iru-verbs-continuous",
+    "ichidan"
+  ],
+  "props": {
+    "en": "lower",
+    "jp": "下げる",
+    "tl": "さげる"
+  }
+}

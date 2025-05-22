@@ -1,0 +1,13 @@
+{
+  "_id": "i93h4ph1apn",
+  "name": "counter-ji-three",
+  "params": {
+    "number": "three"
+  },
+  "parents": [
+    "counter-ji"
+  ],
+  "props": {
+    "tl": "さん~じ"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "_id": "gzcmtdomwpu",
+  "name": "mirror",
+  "order": "3",
+  "parents": [
+    "objects",
+    "polishables",
+    "shiners"
+  ],
+  "props": {
+    "en": "mirror",
+    "jp": "鏡",
+    "tl": "かがみ"
+  }
+}

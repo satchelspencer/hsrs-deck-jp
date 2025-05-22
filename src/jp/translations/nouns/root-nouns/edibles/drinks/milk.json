@@ -1,0 +1,13 @@
+{
+  "_id": "n884rjucg7",
+  "name": "milk",
+  "order": "2",
+  "parents": [
+    "drinks"
+  ],
+  "props": {
+    "en": "milk",
+    "jp": "牛乳",
+    "tl": "ぎゅうにゅう"
+  }
+}

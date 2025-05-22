@@ -1,0 +1,13 @@
+{
+  "_id": "9x022gmwoj9",
+  "name": "early-start-it",
+  "params": {
+    "iadj": "early",
+    "verb": "start-it"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

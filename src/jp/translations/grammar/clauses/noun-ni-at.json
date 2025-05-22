@@ -1,0 +1,18 @@
+{
+  "_id": "ac9nyjatqio",
+  "constraint": "verb noun",
+  "name": "noun-ni-at",
+  "order": "1",
+  "params": {
+    "form": "verb-forms",
+    "rel": "noun-ni-verb-at"
+  },
+  "parents": [
+    "clauses",
+    "const-noun-clauses"
+  ],
+  "props": {
+    "en": "'at the '+rel.noun.en+' '+form.en",
+    "jp": "rel.noun.jp+'に'+form.jp"
+  }
+}

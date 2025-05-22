@@ -1,0 +1,17 @@
+{
+  "_id": "fqz66mzltxt",
+  "name": "date-year-2020s",
+  "params": {
+    "ten": "twenty",
+    "thousand": "thousand",
+    "two": "two"
+  },
+  "parents": [
+    "date-year"
+  ],
+  "props": {
+    "en": "'202'+number.en",
+    "jp": "'202'+number.en+year.jp",
+    "tl": "'にせんにじゅう'+number.tl+year.tl"
+  }
+}

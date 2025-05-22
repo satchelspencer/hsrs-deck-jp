@@ -1,0 +1,13 @@
+{
+  "_id": "1xbf57gil7j",
+  "name": "program-book",
+  "order": "4",
+  "parents": [
+    "objects",
+    "satsu-countable"
+  ],
+  "props": {
+    "en": "program book",
+    "jp": "プログラム"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "7z215qnoqq8",
+  "name": "ichidan-volitional",
+  "params": {
+    "verb": "ichidan"
+  },
+  "parents": [
+    "plain-volitional"
+  ],
+  "props": {
+    "en": null,
+    "jp": "verb.jp|r('る', 'よう')"
+  }
+}

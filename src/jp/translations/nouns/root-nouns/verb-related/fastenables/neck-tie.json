@@ -1,0 +1,12 @@
+{
+  "_id": "2smpe6phbya",
+  "name": "neck-tie",
+  "order": "2",
+  "parents": [
+    "fastenables"
+  ],
+  "props": {
+    "en": "neck tie",
+    "jp": "ネクタイ"
+  }
+}

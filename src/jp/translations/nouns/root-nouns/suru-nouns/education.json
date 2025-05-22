@@ -1,0 +1,15 @@
+{
+  "_id": "7je1an8yxfu",
+  "name": "education",
+  "order": "3",
+  "parents": [
+    "suru-nouns",
+    "people-do",
+    "people-no"
+  ],
+  "props": {
+    "en": "education",
+    "jp": "教育",
+    "tl": "きょういく"
+  }
+}

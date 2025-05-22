@@ -1,0 +1,13 @@
+{
+  "_id": "8ji5af7z74",
+  "name": "always-people-do",
+  "params": {
+    "adv": "always",
+    "verb": "people-do"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

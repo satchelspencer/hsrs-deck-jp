@@ -1,0 +1,13 @@
+{
+  "_id": "ob9eo1okksd",
+  "name": "opponent",
+  "order": "3",
+  "parents": [
+    "people"
+  ],
+  "props": {
+    "en": "opponent",
+    "jp": "相手",
+    "tl": "あいて"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "w8kcl0udhqm",
+  "name": "feel-emotion",
+  "order": "1",
+  "parents": [
+    "people-do",
+    "ichidan"
+  ],
+  "props": {
+    "en": "feel emotion",
+    "jp": "感じる",
+    "tl": "かんじる"
+  }
+}

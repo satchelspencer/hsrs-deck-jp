@@ -1,0 +1,14 @@
+{
+  "_id": "rbjh1rvol4b",
+  "name": "sand",
+  "order": "2",
+  "parents": [
+    "fines",
+    "building-materials"
+  ],
+  "props": {
+    "en": "sand",
+    "jp": "砂",
+    "tl": "すな"
+  }
+}

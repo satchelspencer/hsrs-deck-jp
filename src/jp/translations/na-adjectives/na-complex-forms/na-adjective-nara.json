@@ -1,0 +1,17 @@
+{
+  "_id": "xcdkvn31bnl",
+  "constraint": "na",
+  "name": "na-adjective-nara",
+  "order": "4",
+  "params": {
+    "form": "na-plain-forms"
+  },
+  "parents": [
+    "na-complex-forms",
+    "nara-conditional-clauses"
+  ],
+  "props": {
+    "en": "'*if* '+form.en",
+    "jp": "form.jp+'なら'"
+  }
+}

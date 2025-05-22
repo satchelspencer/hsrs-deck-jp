@@ -1,0 +1,14 @@
+{
+  "_id": "re2kekde0s",
+  "name": "busy",
+  "order": "1",
+  "parents": [
+    "i-attributive-standard",
+    "i-people"
+  ],
+  "props": {
+    "en": "busy",
+    "jp": "忙しい",
+    "tl": "いそがしい"
+  }
+}

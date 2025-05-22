@@ -1,0 +1,15 @@
+{
+  "_id": "5fkq4mw4sop",
+  "name": "take-on",
+  "order": "3",
+  "parents": [
+    "ichidan",
+    "people-do",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "en": "take on",
+    "jp": "受ける",
+    "tl": "うける"
+  }
+}

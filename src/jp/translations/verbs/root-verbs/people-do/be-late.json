@@ -1,0 +1,15 @@
+{
+  "_id": "m9n41lcq3lp",
+  "name": "be-late",
+  "order": "2",
+  "parents": [
+    "people-do",
+    "te-iru-verbs-state",
+    "ichidan"
+  ],
+  "props": {
+    "en": "be late",
+    "jp": "遅れる",
+    "tl": "おくれる"
+  }
+}

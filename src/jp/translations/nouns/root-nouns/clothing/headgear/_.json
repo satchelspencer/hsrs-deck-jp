@@ -1,0 +1,10 @@
+{
+  "_id": "zsd4spnnxms",
+  "name": "headgear",
+  "parents": [
+    "clothing"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

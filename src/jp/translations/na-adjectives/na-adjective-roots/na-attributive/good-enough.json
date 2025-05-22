@@ -1,0 +1,13 @@
+{
+  "_id": "5krwh08z8j5",
+  "name": "good-enough",
+  "order": "3",
+  "parents": [
+    "na-attributive"
+  ],
+  "props": {
+    "en": "good enough",
+    "jp": "結構",
+    "tl": "けっこう"
+  }
+}

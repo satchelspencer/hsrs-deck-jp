@@ -1,0 +1,16 @@
+{
+  "_id": "9d73e0656hv",
+  "name": "think",
+  "order": "1",
+  "parents": [
+    "godan-u",
+    "people-do",
+    "te-iru-verbs-continuous",
+    "info-verbs"
+  ],
+  "props": {
+    "en": "think",
+    "jp": "思う",
+    "tl": "おもう"
+  }
+}

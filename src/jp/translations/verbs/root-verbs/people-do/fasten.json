@@ -1,0 +1,16 @@
+{
+  "_id": "cs3gxkfiitc",
+  "name": "fasten",
+  "order": "3",
+  "parents": [
+    "people-do",
+    "te-iru-verbs-continuous",
+    "de-location-verbs",
+    "ichidan"
+  ],
+  "props": {
+    "en": "fasten",
+    "jp": "締める",
+    "tl": "しめる"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "pkb2nyuziji",
+  "name": "freedom-walk",
+  "params": {
+    "na": "freedom",
+    "verb": "walk"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

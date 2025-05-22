@@ -1,0 +1,15 @@
+{
+  "_id": "b2xxzxwv1zu",
+  "name": "put-away",
+  "order": "2",
+  "parents": [
+    "godan-u",
+    "people-do",
+    "ni-destination-verbs",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "en": "put away",
+    "jp": "しまう"
+  }
+}

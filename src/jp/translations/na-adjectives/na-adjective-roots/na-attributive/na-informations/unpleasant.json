@@ -1,0 +1,14 @@
+{
+  "_id": "choyz5qxpi7",
+  "name": "unpleasant",
+  "order": "2",
+  "parents": [
+    "na-informations",
+    "na-preferables"
+  ],
+  "props": {
+    "en": "unpleasant",
+    "jp": "嫌",
+    "tl": "いや"
+  }
+}

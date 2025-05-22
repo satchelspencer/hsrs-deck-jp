@@ -1,0 +1,13 @@
+{
+  "_id": "bf5gms5sp46",
+  "name": "cute-sing",
+  "params": {
+    "iadj": "cute",
+    "verb": "sing"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

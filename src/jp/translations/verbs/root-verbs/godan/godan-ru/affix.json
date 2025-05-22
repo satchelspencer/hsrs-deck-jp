@@ -1,0 +1,16 @@
+{
+  "_id": "8y3q2ankbmv",
+  "name": "affix",
+  "order": "3",
+  "parents": [
+    "godan-ru",
+    "people-do",
+    "ni-destination-verbs",
+    "do-to-objects"
+  ],
+  "props": {
+    "en": "affix it",
+    "jp": "貼る",
+    "tl": "はる"
+  }
+}

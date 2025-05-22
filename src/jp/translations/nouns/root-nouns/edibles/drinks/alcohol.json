@@ -1,0 +1,13 @@
+{
+  "_id": "eesf76miazk",
+  "name": "alcohol",
+  "order": "2",
+  "parents": [
+    "drinks"
+  ],
+  "props": {
+    "en": "alcohol",
+    "jp": "酒",
+    "tl": "さけ"
+  }
+}

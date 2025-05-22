@@ -1,0 +1,13 @@
+{
+  "_id": "0s8mrwt3zldq",
+  "name": "beverage",
+  "order": "1",
+  "parents": [
+    "drinks"
+  ],
+  "props": {
+    "en": "beverage",
+    "jp": "飲み物",
+    "tl": "のみもの"
+  }
+}

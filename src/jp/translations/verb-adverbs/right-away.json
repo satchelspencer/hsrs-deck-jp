@@ -1,0 +1,13 @@
+{
+  "_id": "k69q7fttql",
+  "name": "right-away",
+  "order": "2",
+  "parents": [
+    "verb-adverbs"
+  ],
+  "props": {
+    "en": "right away",
+    "jp": "直ぐに",
+    "tl": "すぐに"
+  }
+}

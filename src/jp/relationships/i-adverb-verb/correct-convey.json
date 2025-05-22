@@ -1,0 +1,13 @@
+{
+  "_id": "c40ctyjl5of",
+  "name": "correct-convey",
+  "params": {
+    "iadj": "correct",
+    "verb": "convey"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "jm0wuql7ae",
+  "name": "counter-nichi-nine",
+  "params": {
+    "number": "nine"
+  },
+  "parents": [
+    "counter-days"
+  ],
+  "props": {
+    "jp": "九日",
+    "tl": "ここのか"
+  }
+}

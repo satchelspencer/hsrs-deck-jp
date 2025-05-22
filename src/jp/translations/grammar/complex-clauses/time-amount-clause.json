@@ -1,0 +1,18 @@
+{
+  "_id": "6xd1f6tbw4l",
+  "constraint": "verb",
+  "name": "time-amount-clause",
+  "order": "3",
+  "params": {
+    "amount": "time-amounts",
+    "clause": "temporal-verb-clauses",
+    "verb": "te-iru-verbs-continuous"
+  },
+  "parents": [
+    "complex-clauses"
+  ],
+  "props": {
+    "en": "' for '+amount.en+' '+clause.en",
+    "jp": "amount.jp+clause.jp"
+  }
+}

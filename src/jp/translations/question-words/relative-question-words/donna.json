@@ -1,0 +1,15 @@
+{
+  "_id": "8243hbeqzmr",
+  "name": "donna",
+  "order": "3",
+  "params": {
+    "noun": "seeables"
+  },
+  "parents": [
+    "relative-question-words"
+  ],
+  "props": {
+    "en": "'what kind of '+noun.en",
+    "jp": "'どんな'+noun.jp"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "0csy67y7wqt8",
+  "name": "history",
+  "order": "3",
+  "parents": [
+    "sciences"
+  ],
+  "props": {
+    "en": "history",
+    "jp": "歴史",
+    "tl": "れきし"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "1h0bwi60oz4",
+  "name": "transports-with-do-with-transports",
+  "params": {
+    "noun": "transports",
+    "verb": "do-with-transports"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

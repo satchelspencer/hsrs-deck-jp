@@ -1,0 +1,13 @@
+{
+  "_id": "x110v6vj17",
+  "name": "programme",
+  "order": "3",
+  "parents": [
+    "media"
+  ],
+  "props": {
+    "en": "programme",
+    "jp": "番組",
+    "tl": "ばんぐみ"
+  }
+}

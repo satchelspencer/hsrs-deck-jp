@@ -1,0 +1,14 @@
+{
+  "_id": "4j07bilg4j",
+  "name": "godan-past-u",
+  "params": {
+    "verb": "godan-u"
+  },
+  "parents": [
+    "godan-past"
+  ],
+  "props": {
+    "en": null,
+    "jp": "verb.jp|r('う', 'った')"
+  }
+}

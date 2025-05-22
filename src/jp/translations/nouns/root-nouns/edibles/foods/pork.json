@@ -1,0 +1,13 @@
+{
+  "_id": "rst3uxitk18",
+  "name": "pork",
+  "order": "2",
+  "parents": [
+    "foods"
+  ],
+  "props": {
+    "en": "pork",
+    "jp": "豚肉",
+    "tl": "ぶたにく"
+  }
+}

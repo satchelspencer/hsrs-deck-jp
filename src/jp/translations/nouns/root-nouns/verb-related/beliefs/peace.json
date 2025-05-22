@@ -1,0 +1,15 @@
+{
+  "_id": "myximjsiok",
+  "name": "peace",
+  "order": "4",
+  "parents": [
+    "beliefs",
+    "na-nouns",
+    "na-place"
+  ],
+  "props": {
+    "en": "peace",
+    "jp": "平和",
+    "tl": "へいわ"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "br9xlxx7nll",
+  "name": "blow-wind-instru",
+  "params": {
+    "noun": "wind-instruments",
+    "verb": "blow"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "_id": "bns0b9oblwv",
+  "name": "teiru-verb-relative-time",
+  "params": {
+    "expr": "teiru-relative-time-exprs",
+    "root": "te-iru-plain"
+  },
+  "parents": [
+    "relative-time-clauses"
+  ],
+  "props": {
+    "en": "expr.en+' '+root.en",
+    "jp": "root.jp+expr.jp"
+  }
+}

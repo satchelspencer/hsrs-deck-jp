@@ -1,0 +1,15 @@
+{
+  "_id": "flyw8uoas0n",
+  "mode": "p",
+  "name": "noun-ba-polite-negative",
+  "params": {
+    "noun": "root-nouns"
+  },
+  "parents": [
+    "noun-ba"
+  ],
+  "props": {
+    "en": "'if not '+noun.en",
+    "jp": "noun.jp+'でなければ'"
+  }
+}

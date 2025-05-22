@@ -1,0 +1,14 @@
+{
+  "_id": "9sg94nfzcn",
+  "mode": "p",
+  "name": "dochira",
+  "order": "3",
+  "parents": [
+    "direction-question-words",
+    "personal-question-words"
+  ],
+  "props": {
+    "en": "which way",
+    "jp": "どちら"
+  }
+}

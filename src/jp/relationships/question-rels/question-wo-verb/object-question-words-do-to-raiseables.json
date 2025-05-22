@@ -1,0 +1,13 @@
+{
+  "_id": "jaqs9byx7q",
+  "name": "object-question-words-do-to-raiseables",
+  "params": {
+    "qw": "object-question-words",
+    "verb": "do-to-raiseables"
+  },
+  "parents": [
+    "question-wo-verb"
+  ],
+  "props": {
+  }
+}

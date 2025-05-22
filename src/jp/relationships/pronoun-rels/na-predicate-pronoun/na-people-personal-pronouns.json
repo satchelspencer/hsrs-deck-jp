@@ -1,0 +1,13 @@
+{
+  "_id": "ywallk42xd",
+  "name": "na-people-personal-pronouns",
+  "params": {
+    "na": "na-people",
+    "pn": "personal-pronouns"
+  },
+  "parents": [
+    "na-predicate-pronoun"
+  ],
+  "props": {
+  }
+}

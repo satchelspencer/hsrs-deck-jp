@@ -1,0 +1,14 @@
+{
+  "_id": "z031u7vkoyh",
+  "name": "seasons",
+  "order": "2",
+  "parents": [
+    "absolute-times",
+    "hot-cold-weather",
+    "short-long",
+    "ni-any-times"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

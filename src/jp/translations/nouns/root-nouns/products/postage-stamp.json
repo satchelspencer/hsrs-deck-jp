@@ -1,0 +1,13 @@
+{
+  "_id": "n53sf27xzv",
+  "name": "postage-stamp",
+  "order": "3",
+  "parents": [
+    "products"
+  ],
+  "props": {
+    "en": "postage stamp",
+    "jp": "切手",
+    "tl": "きって"
+  }
+}

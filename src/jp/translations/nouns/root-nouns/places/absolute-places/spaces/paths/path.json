@@ -1,0 +1,15 @@
+{
+  "_id": "9wj6hfgqpgu",
+  "name": "path",
+  "order": "2",
+  "parents": [
+    "paths",
+    "choosables",
+    "short-long"
+  ],
+  "props": {
+    "en": "path",
+    "jp": "道",
+    "tl": "みち"
+  }
+}

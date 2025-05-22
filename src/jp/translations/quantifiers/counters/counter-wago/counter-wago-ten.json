@@ -1,0 +1,14 @@
+{
+  "_id": "k7qrrgttdgr",
+  "name": "counter-wago-ten",
+  "params": {
+    "number": "ten"
+  },
+  "parents": [
+    "counter-wago"
+  ],
+  "props": {
+    "en": null,
+    "jp": "とお"
+  }
+}

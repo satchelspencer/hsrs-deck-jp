@@ -1,0 +1,10 @@
+{
+  "_id": "b5rf72ur5ot",
+  "name": "i-places",
+  "parents": [
+    "i-attributive-standard"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

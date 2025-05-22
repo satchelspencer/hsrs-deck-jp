@@ -1,0 +1,13 @@
+{
+  "_id": "wwgbvqhe8z",
+  "name": "meaning",
+  "order": "2",
+  "parents": [
+    "learnables"
+  ],
+  "props": {
+    "en": "meaning",
+    "jp": "意味",
+    "tl": "いみ"
+  }
+}

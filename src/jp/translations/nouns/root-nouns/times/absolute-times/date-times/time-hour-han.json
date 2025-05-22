@@ -1,0 +1,16 @@
+{
+  "_id": "uk1libncvb",
+  "name": "time-hour-han",
+  "order": "3",
+  "params": {
+    "hour": "counter-ji"
+  },
+  "parents": [
+    "date-times"
+  ],
+  "props": {
+    "en": "hour.en|r(' oclock', ':30')",
+    "jp": "hour.jp+'半'",
+    "tl": "hour.tl+'はん'"
+  }
+}

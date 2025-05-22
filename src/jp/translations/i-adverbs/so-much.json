@@ -1,0 +1,13 @@
+{
+  "_id": "a64evixwafh",
+  "name": "so-much",
+  "order": "3",
+  "parents": [
+    "i-adverbs",
+    "na-adverbs"
+  ],
+  "props": {
+    "en": "so much",
+    "jp": "そんなに"
+  }
+}

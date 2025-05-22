@@ -1,0 +1,15 @@
+{
+  "_id": "1x8fgbx5xz1",
+  "name": "be-living",
+  "order": "2",
+  "parents": [
+    "people-do",
+    "te-iru-verbs-state",
+    "ichidan"
+  ],
+  "props": {
+    "en": "be living",
+    "jp": "生きる",
+    "tl": "いきる"
+  }
+}

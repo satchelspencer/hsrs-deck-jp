@@ -1,0 +1,13 @@
+{
+  "_id": "o5o6bg51odo",
+  "name": "easy",
+  "order": "3",
+  "parents": [
+    "i-attributive-standard"
+  ],
+  "props": {
+    "en": "easy",
+    "jp": "易しい",
+    "tl": "やさしい"
+  }
+}

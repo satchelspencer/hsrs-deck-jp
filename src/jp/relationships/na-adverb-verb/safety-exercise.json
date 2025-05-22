@@ -1,0 +1,13 @@
+{
+  "_id": "l88t2fvlc39",
+  "name": "safety-exercise",
+  "params": {
+    "na": "safety",
+    "verb": "exercise"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

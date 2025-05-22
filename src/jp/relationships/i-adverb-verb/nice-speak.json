@@ -1,0 +1,13 @@
+{
+  "_id": "7udyq59b38f",
+  "name": "nice-speak",
+  "params": {
+    "iadj": "nice",
+    "verb": "speak"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

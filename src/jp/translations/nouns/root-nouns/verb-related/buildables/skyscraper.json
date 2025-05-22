@@ -1,0 +1,14 @@
+{
+  "_id": "wl0l294ijr",
+  "name": "skyscraper",
+  "order": "3",
+  "parents": [
+    "buildables",
+    "absolute-places"
+  ],
+  "props": {
+    "en": "skyscraper",
+    "jp": "高層ビル",
+    "tl": "こうそうビル"
+  }
+}

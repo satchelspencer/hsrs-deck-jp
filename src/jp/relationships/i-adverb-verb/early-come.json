@@ -1,0 +1,13 @@
+{
+  "_id": "ssa6n4k0ple",
+  "name": "early-come",
+  "params": {
+    "iadj": "early",
+    "verb": "come"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "aieaigpj7q",
+  "name": "go-home",
+  "order": "2",
+  "parents": [
+    "godan-ru",
+    "people-do",
+    "he-related-verbs",
+    "te-iru-verbs-state",
+    "do-with-transports"
+  ],
+  "props": {
+    "en": "go home",
+    "jp": "帰る",
+    "tl": "かえる"
+  }
+}

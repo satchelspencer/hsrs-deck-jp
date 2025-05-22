@@ -1,0 +1,16 @@
+{
+  "_id": "05onh2b7vdhu",
+  "name": "counter-wago",
+  "order": "2",
+  "params": {
+    "root": "wago-counter-root"
+  },
+  "parents": [
+    "counters"
+  ],
+  "props": {
+    "en": "number.en+' things'",
+    "jp": null
+  },
+  "virtual": true
+}

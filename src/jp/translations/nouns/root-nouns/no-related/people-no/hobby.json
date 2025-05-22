@@ -1,0 +1,13 @@
+{
+  "_id": "hhczf9b49if",
+  "name": "hobby",
+  "order": "3",
+  "parents": [
+    "people-no"
+  ],
+  "props": {
+    "en": "hobby",
+    "jp": "趣味",
+    "tl": "しゅみ"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "42arrqn8e5",
+  "name": "sun",
+  "order": "3",
+  "parents": [
+    "weather",
+    "shiners"
+  ],
+  "props": {
+    "en": "sun",
+    "jp": "太陽",
+    "tl": "たいよう"
+  }
+}

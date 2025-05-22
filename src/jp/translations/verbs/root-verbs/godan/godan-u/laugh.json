@@ -1,0 +1,16 @@
+{
+  "_id": "4sxmakle4lv",
+  "name": "laugh",
+  "order": "3",
+  "parents": [
+    "godan-u",
+    "people-do",
+    "te-iru-verbs-continuous",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "laugh",
+    "jp": "笑う",
+    "tl": "わらう"
+  }
+}

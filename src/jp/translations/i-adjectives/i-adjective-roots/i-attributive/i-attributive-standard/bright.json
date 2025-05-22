@@ -1,0 +1,13 @@
+{
+  "_id": "vd3qyw2swwa",
+  "name": "bright",
+  "order": "2",
+  "parents": [
+    "i-attributive-standard"
+  ],
+  "props": {
+    "en": "bright",
+    "jp": "明るい",
+    "tl": "あかるい"
+  }
+}

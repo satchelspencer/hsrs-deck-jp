@@ -1,0 +1,15 @@
+{
+  "_id": "aaz32nlsjxm",
+  "name": "turn",
+  "order": "3",
+  "parents": [
+    "godan-ru",
+    "movers-do",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "en": "turn",
+    "jp": "曲がる",
+    "tl": "まがる"
+  }
+}

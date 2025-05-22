@@ -1,0 +1,13 @@
+{
+  "_id": "uxs1rwgxh7a",
+  "name": "question-ga-verb-objects-do",
+  "params": {
+    "qw": "object-question-words",
+    "verb": "objects-do"
+  },
+  "parents": [
+    "question-ga-verb"
+  ],
+  "props": {
+  }
+}

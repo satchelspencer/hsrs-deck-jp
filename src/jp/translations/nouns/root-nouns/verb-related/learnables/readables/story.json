@@ -1,0 +1,14 @@
+{
+  "_id": "vodr7fkyyr8",
+  "name": "story",
+  "order": "1",
+  "parents": [
+    "readables",
+    "media"
+  ],
+  "props": {
+    "en": "story",
+    "jp": "話",
+    "tl": "はなし"
+  }
+}

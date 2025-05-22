@@ -1,0 +1,12 @@
+{
+  "_id": "yc5pz3vemtr",
+  "name": "present",
+  "order": "1",
+  "parents": [
+    "products"
+  ],
+  "props": {
+    "en": "present",
+    "jp": "プレゼント"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "yayufckq54m",
+  "name": "certain",
+  "order": "2",
+  "parents": [
+    "na-informations"
+  ],
+  "props": {
+    "en": "certain",
+    "jp": "確か",
+    "tl": "たしか"
+  }
+}

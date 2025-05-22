@@ -1,0 +1,13 @@
+{
+  "_id": "z8geu6cyr9n",
+  "name": "do-to-activities-nouns",
+  "params": {
+    "noun": "activities",
+    "verb": "do-to-activities"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "35zj3j6lwss",
+  "name": "waveables-wave",
+  "params": {
+    "noun": "waveables",
+    "verb": "wave"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

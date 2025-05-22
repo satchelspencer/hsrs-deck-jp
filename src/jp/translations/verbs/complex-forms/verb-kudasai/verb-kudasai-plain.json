@@ -1,0 +1,14 @@
+{
+  "_id": "25dome9vumu",
+  "name": "verb-kudasai-plain",
+  "params": {
+    "form": "verb-te-form"
+  },
+  "parents": [
+    "verb-kudasai"
+  ],
+  "props": {
+    "en": "'please '+form.en|r(' and', '')",
+    "jp": "form.jp+'下さい'"
+  }
+}

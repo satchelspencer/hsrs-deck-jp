@@ -1,0 +1,13 @@
+{
+  "_id": "epbgexdkz9",
+  "name": "godan-reru",
+  "params": {
+    "verb": "godan"
+  },
+  "parents": [
+    "reru-plain"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

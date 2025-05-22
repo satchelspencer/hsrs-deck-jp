@@ -1,0 +1,17 @@
+{
+  "_id": "jypvp6msl28",
+  "mode": "p",
+  "name": "counter-kudasai",
+  "order": "2",
+  "params": {
+    "counter": "counter-kago-regular"
+  },
+  "parents": [
+    "requests"
+  ],
+  "props": {
+    "en": "counter.en+' please'",
+    "jp": "counter.jp+'下さい'",
+    "tl": "counter.tl+'ください'"
+  }
+}

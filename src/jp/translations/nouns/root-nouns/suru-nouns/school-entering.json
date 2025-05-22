@@ -1,0 +1,14 @@
+{
+  "_id": "bxz0ne4yoqt",
+  "name": "school-entering",
+  "order": "3",
+  "parents": [
+    "suru-nouns",
+    "people-do"
+  ],
+  "props": {
+    "en": "school entering",
+    "jp": "入学",
+    "tl": "にゅうがく"
+  }
+}

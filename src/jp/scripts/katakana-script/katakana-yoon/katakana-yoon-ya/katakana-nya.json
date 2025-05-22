@@ -1,0 +1,13 @@
+{
+  "_id": "q3iyfcjzas",
+  "name": "katakana-nya",
+  "params": {
+    "iis": "katakana-ni"
+  },
+  "parents": [
+    "katakana-yoon-ya"
+  ],
+  "props": {
+    "_tl": "nya"
+  }
+}

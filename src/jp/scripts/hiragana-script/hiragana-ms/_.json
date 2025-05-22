@@ -1,0 +1,10 @@
+{
+  "_id": "8f72culflu",
+  "name": "hiragana-ms",
+  "parents": [
+    "hiragana-script"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

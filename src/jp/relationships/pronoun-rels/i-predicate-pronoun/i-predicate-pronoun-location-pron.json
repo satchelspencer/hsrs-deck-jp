@@ -1,0 +1,13 @@
+{
+  "_id": "ocr7owcbumh",
+  "name": "i-predicate-pronoun-location-pron",
+  "params": {
+    "iadj": "i-places",
+    "pn": "location-pronouns"
+  },
+  "parents": [
+    "i-predicate-pronoun"
+  ],
+  "props": {
+  }
+}

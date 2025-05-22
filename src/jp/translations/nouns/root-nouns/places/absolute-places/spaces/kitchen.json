@@ -1,0 +1,13 @@
+{
+  "_id": "qebnnia2j6d",
+  "name": "kitchen",
+  "order": "2",
+  "parents": [
+    "spaces"
+  ],
+  "props": {
+    "en": "kitchen",
+    "jp": "台所",
+    "tl": "だいどころ"
+  }
+}

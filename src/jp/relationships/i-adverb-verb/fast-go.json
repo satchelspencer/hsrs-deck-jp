@@ -1,0 +1,13 @@
+{
+  "_id": "f0ubx4u4rid",
+  "name": "fast-go",
+  "params": {
+    "iadj": "fast",
+    "verb": "go"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

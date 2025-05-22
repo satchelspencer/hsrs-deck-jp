@@ -1,0 +1,20 @@
+{
+  "_id": "lt9q4p5zddk",
+  "constraint": "verb noun",
+  "name": "question-what-amount-ga",
+  "order": "3",
+  "params": {
+    "form": "verb-ka",
+    "noun": "quantities",
+    "qw": "which-amount",
+    "rel": "noun-ga-verb"
+  },
+  "parents": [
+    "question-clauses"
+  ],
+  "props": {
+    "en": "qw.en+' '+noun.en+' '+form.en",
+    "jp": "qw.jp+noun.jp+'が'+form.jp",
+    "tl": ""
+  }
+}

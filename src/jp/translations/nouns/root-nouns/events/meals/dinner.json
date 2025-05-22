@@ -1,0 +1,13 @@
+{
+  "_id": "wtar0vfapga",
+  "name": "dinner",
+  "order": "1",
+  "parents": [
+    "meals"
+  ],
+  "props": {
+    "en": "dinner",
+    "jp": "晩ご飯",
+    "tl": "ばんごはん"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "pzbken70419",
+  "name": "noun-tara-polite",
+  "params": {
+    "past": "noun-deshita"
+  },
+  "parents": [
+    "noun-tara"
+  ],
+  "props": {
+    "en": "past.en|pr('was', 'when is')",
+    "jp": "past.jp+'ら'"
+  }
+}

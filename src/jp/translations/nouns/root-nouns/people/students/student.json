@@ -1,0 +1,14 @@
+{
+  "_id": "wuni9799l48",
+  "name": "student",
+  "order": "1",
+  "parents": [
+    "students",
+    "school-no"
+  ],
+  "props": {
+    "en": "student",
+    "jp": "学生",
+    "tl": "がくせい"
+  }
+}

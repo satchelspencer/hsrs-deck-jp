@@ -1,0 +1,13 @@
+{
+  "_id": "h2lwu0i8fap",
+  "name": "same",
+  "order": "2",
+  "parents": [
+    "na-predonly"
+  ],
+  "props": {
+    "en": "same",
+    "jp": "同じ",
+    "tl": "おなじ"
+  }
+}

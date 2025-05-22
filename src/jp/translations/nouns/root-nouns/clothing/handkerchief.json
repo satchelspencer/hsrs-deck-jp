@@ -1,0 +1,13 @@
+{
+  "_id": "mv6drw2b0w",
+  "name": "handkerchief",
+  "order": "2",
+  "parents": [
+    "clothing"
+  ],
+  "props": {
+    "en": "handkerchief",
+    "jp": "ハンカチ",
+    "tl": "はんかち"
+  }
+}

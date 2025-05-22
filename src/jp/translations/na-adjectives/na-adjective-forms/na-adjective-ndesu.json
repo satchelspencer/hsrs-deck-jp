@@ -1,0 +1,18 @@
+{
+  "_id": "8a7lmq1ew5w",
+  "constraint": "na",
+  "mode": "p",
+  "name": "na-adjective-ndesu",
+  "order": "3",
+  "params": {
+    "form": "nda-na-forms"
+  },
+  "parents": [
+    "na-adjective-forms",
+    "na-predicate-forms"
+  ],
+  "props": {
+    "en": "form.en+e(', thats why')",
+    "jp": "form.jp+'んです'"
+  }
+}

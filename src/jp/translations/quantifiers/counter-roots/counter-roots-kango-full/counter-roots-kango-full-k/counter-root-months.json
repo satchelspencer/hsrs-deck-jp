@@ -1,0 +1,13 @@
+{
+  "_id": "xewz4ff2ps9",
+  "name": "counter-root-months",
+  "order": "2",
+  "parents": [
+    "counter-roots-kango-full-k"
+  ],
+  "props": {
+    "en": "months",
+    "jp": "ヶ月",
+    "tl": "かげつ"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "_id": "6w8cx6gkeh8",
+  "name": "job",
+  "order": "1",
+  "parents": [
+    "suru-nouns",
+    "events",
+    "people-do",
+    "choosables",
+    "te-iru-verbs-continuous",
+    "de-location-verbs",
+    "takeonables",
+    "absolute-places"
+  ],
+  "props": {
+    "en": "job",
+    "jp": "仕事",
+    "tl": "しごと"
+  }
+}

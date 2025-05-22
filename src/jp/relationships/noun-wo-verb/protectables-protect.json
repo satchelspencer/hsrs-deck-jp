@@ -1,0 +1,13 @@
+{
+  "_id": "86ogukgcbsu",
+  "name": "protectables-protect",
+  "params": {
+    "noun": "protectables",
+    "verb": "protect"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

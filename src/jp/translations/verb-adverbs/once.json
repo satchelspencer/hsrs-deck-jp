@@ -1,0 +1,13 @@
+{
+  "_id": "8e6hhw1s91o",
+  "name": "once",
+  "order": "3",
+  "parents": [
+    "verb-adverbs"
+  ],
+  "props": {
+    "en": "once",
+    "jp": "一度",
+    "tl": "いちど"
+  }
+}

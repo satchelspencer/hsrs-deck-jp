@@ -1,0 +1,14 @@
+{
+  "_id": "97ld31i45zh",
+  "name": "lecture",
+  "order": "3",
+  "parents": [
+    "suru-nouns",
+    "people-do"
+  ],
+  "props": {
+    "en": "lecture",
+    "jp": "講義",
+    "tl": "こうぎ"
+  }
+}

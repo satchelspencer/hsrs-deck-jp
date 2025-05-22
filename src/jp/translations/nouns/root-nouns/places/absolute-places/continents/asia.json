@@ -1,0 +1,13 @@
+{
+  "_id": "srfl3rh21e",
+  "name": "asia",
+  "order": "3",
+  "parents": [
+    "continents"
+  ],
+  "props": {
+    "en": "asia",
+    "jp": "アジア",
+    "tl": "あじあ"
+  }
+}

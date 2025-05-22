@@ -1,0 +1,11 @@
+{
+  "_id": "u3hfqjclxkk",
+  "name": "wearables",
+  "parents": [
+    "clothing",
+    "verb-related"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

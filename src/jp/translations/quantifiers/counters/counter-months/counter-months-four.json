@@ -1,0 +1,14 @@
+{
+  "_id": "37eooqql812",
+  "name": "counter-months-four",
+  "params": {
+    "number": "four"
+  },
+  "parents": [
+    "counter-months"
+  ],
+  "props": {
+    "en": "april",
+    "tl": "しがつ"
+  }
+}

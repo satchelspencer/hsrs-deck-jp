@@ -1,0 +1,14 @@
+{
+  "_id": "chdmfbnaivj",
+  "name": "godan-past-mu",
+  "params": {
+    "verb": "godan-mu"
+  },
+  "parents": [
+    "godan-past"
+  ],
+  "props": {
+    "en": null,
+    "jp": "verb.jp|r('む', 'んだ')"
+  }
+}

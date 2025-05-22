@@ -1,0 +1,13 @@
+{
+  "_id": "h9qffouk43d",
+  "name": "post-office",
+  "order": "2",
+  "parents": [
+    "establishments"
+  ],
+  "props": {
+    "en": "post office",
+    "jp": "郵便局",
+    "tl": "ゆうびんきょく"
+  }
+}

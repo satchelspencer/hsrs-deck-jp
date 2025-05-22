@@ -1,0 +1,16 @@
+{
+  "_id": "2p354bxhsnu",
+  "name": "failure",
+  "order": "3",
+  "parents": [
+    "suru-nouns",
+    "people-do",
+    "te-iru-verbs-continuous",
+    "ni-at-activities-verbs"
+  ],
+  "props": {
+    "en": "failure",
+    "jp": "失敗",
+    "tl": "しっぱい"
+  }
+}

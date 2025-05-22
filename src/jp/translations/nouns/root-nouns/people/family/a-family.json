@@ -1,0 +1,13 @@
+{
+  "_id": "j36fwo8rsrl",
+  "name": "a-family",
+  "order": "2",
+  "parents": [
+    "family"
+  ],
+  "props": {
+    "en": "family",
+    "jp": "家族",
+    "tl": "かぞく"
+  }
+}

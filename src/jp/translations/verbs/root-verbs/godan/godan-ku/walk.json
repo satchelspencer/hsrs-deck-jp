@@ -1,0 +1,16 @@
+{
+  "_id": "e7air9xullq",
+  "name": "walk",
+  "order": "2",
+  "parents": [
+    "godan-ku",
+    "people-do",
+    "do-to-places",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "en": "walk",
+    "jp": "歩く",
+    "tl": "あるく"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "9bosulprmkg",
+  "name": "few",
+  "order": "2",
+  "parents": [
+    "i-predonly"
+  ],
+  "props": {
+    "en": "few",
+    "jp": "少ない",
+    "tl": "すくない"
+  }
+}

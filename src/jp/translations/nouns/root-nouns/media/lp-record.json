@@ -1,0 +1,13 @@
+{
+  "_id": "v3lu64t9lw",
+  "name": "lp-record",
+  "order": "3",
+  "parents": [
+    "media"
+  ],
+  "props": {
+    "en": "lp record",
+    "jp": "レコード",
+    "tl": "れこーど"
+  }
+}

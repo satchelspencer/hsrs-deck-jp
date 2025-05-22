@@ -1,0 +1,13 @@
+{
+  "_id": "6uucsvksie5",
+  "name": "zoo",
+  "order": "3",
+  "parents": [
+    "establishments"
+  ],
+  "props": {
+    "en": "zoo",
+    "jp": "動物園",
+    "tl": "どうぶつえん"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "hekohap2kyb",
+  "name": "establishments-become-less-crowded",
+  "params": {
+    "noun": "establishments",
+    "verb": "empty out"
+  },
+  "parents": [
+    "noun-ga-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "17pke395zg1",
+  "name": "sour",
+  "order": "3",
+  "parents": [
+    "i-attributive-standard"
+  ],
+  "props": {
+    "en": "sour",
+    "jp": "酸っぱい",
+    "tl": "すっぱい"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "6prjyvyckmi",
+  "name": "be-needed",
+  "order": "1",
+  "parents": [
+    "godan-ru"
+  ],
+  "props": {
+    "en": "be needed",
+    "jp": "要る",
+    "tl": "いる"
+  }
+}

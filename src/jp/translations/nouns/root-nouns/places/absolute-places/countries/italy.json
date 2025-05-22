@@ -1,0 +1,13 @@
+{
+  "_id": "itx8m47ekbp",
+  "name": "italy",
+  "order": "2",
+  "parents": [
+    "countries"
+  ],
+  "props": {
+    "en": "italy",
+    "jp": "イタリア",
+    "tl": "いたりあ"
+  }
+}

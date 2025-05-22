@@ -1,0 +1,13 @@
+{
+  "_id": "4hie9hkqong",
+  "name": "snap-it-snappers",
+  "params": {
+    "noun": "snappers",
+    "verb": "snap-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

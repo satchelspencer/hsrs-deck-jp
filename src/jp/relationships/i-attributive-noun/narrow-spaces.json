@@ -1,0 +1,13 @@
+{
+  "_id": "a5f5s2165z5",
+  "name": "narrow-spaces",
+  "params": {
+    "iadj": "cramped",
+    "noun": "spaces"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

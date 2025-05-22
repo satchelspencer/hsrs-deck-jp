@@ -1,0 +1,13 @@
+{
+  "_id": "3qmkksy3hrq",
+  "name": "quiet-sing",
+  "params": {
+    "na": "quiet",
+    "verb": "sing"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

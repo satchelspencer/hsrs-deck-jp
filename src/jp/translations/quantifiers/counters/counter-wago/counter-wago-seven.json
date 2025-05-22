@@ -1,0 +1,14 @@
+{
+  "_id": "hk24zzh9a9q",
+  "name": "counter-wago-seven",
+  "params": {
+    "number": "seven"
+  },
+  "parents": [
+    "counter-wago"
+  ],
+  "props": {
+    "en": null,
+    "jp": "ななつ"
+  }
+}

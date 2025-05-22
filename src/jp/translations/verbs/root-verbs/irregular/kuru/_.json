@@ -1,0 +1,11 @@
+{
+  "_id": "v3vumann1u",
+  "name": "kuru",
+  "parents": [
+    "irregular"
+  ],
+  "props": {
+    "tl": ""
+  },
+  "virtual": true
+}

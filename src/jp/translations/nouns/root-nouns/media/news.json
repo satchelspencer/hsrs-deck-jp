@@ -1,0 +1,13 @@
+{
+  "_id": "167en4ifjjg",
+  "name": "news",
+  "order": "2",
+  "parents": [
+    "media"
+  ],
+  "props": {
+    "en": "news",
+    "jp": "ニュース",
+    "tl": "にゅーす"
+  }
+}

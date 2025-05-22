@@ -1,0 +1,16 @@
+{
+  "_id": "tpsvsuye73p",
+  "name": "take-photo",
+  "order": "3",
+  "parents": [
+    "godan-ru",
+    "people-do",
+    "te-iru-verbs-state",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "take photo",
+    "jp": "撮る",
+    "tl": "とる"
+  }
+}

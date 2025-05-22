@@ -1,0 +1,13 @@
+{
+  "_id": "jfc25m4pat",
+  "name": "desk-no-drawers",
+  "params": {
+    "noun": "drawer",
+    "owner": "desk"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "hx0edeetky",
+  "name": "still-root-verbs",
+  "params": {
+    "adv": "still",
+    "verb": "root-verbs"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

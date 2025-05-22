@@ -1,0 +1,13 @@
+{
+  "_id": "gyo2oi2brma",
+  "name": "katakana-ju",
+  "params": {
+    "iis": "katakana-ji"
+  },
+  "parents": [
+    "katakana-yoon-yu"
+  ],
+  "props": {
+    "_tl": "ju"
+  }
+}

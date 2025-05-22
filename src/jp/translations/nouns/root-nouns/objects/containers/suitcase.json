@@ -1,0 +1,13 @@
+{
+  "_id": "8vozbbd2f18",
+  "name": "suitcase",
+  "order": "3",
+  "parents": [
+    "containers"
+  ],
+  "props": {
+    "en": "suitcase",
+    "jp": "スーツケース",
+    "tl": "すーつけーす"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "f4pnw5ps2ig",
+  "name": "after-all",
+  "order": "4",
+  "parents": [
+    "clause-adverbs"
+  ],
+  "props": {
+    "en": "after all",
+    "jp": "結局",
+    "tl": "けっきょく"
+  }
+}

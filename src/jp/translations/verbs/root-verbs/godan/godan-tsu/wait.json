@@ -1,0 +1,17 @@
+{
+  "_id": "ihe8ax1h3ci",
+  "name": "wait",
+  "order": "1",
+  "parents": [
+    "godan-tsu",
+    "people-do",
+    "do-to-transports",
+    "te-iru-verbs-continuous",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "wait",
+    "jp": "待つ",
+    "tl": "まつ"
+  }
+}

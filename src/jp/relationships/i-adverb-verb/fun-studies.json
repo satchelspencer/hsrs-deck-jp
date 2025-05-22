@@ -1,0 +1,13 @@
+{
+  "_id": "dk2hkpqcp6i",
+  "name": "fun-studies",
+  "params": {
+    "iadj": "fun",
+    "verb": "studies"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

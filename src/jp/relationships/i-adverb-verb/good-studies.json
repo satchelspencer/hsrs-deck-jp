@@ -1,0 +1,13 @@
+{
+  "_id": "ng04qlo692m",
+  "name": "good-studies",
+  "params": {
+    "iadj": "good",
+    "verb": "studies"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

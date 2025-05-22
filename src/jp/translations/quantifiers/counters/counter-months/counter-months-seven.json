@@ -1,0 +1,14 @@
+{
+  "_id": "v7tpyatviu",
+  "name": "counter-months-seven",
+  "params": {
+    "number": "seven"
+  },
+  "parents": [
+    "counter-months"
+  ],
+  "props": {
+    "en": "july",
+    "tl": "しちがつ"
+  }
+}

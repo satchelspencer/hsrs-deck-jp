@@ -1,0 +1,15 @@
+{
+  "_id": "mmt2v4pgvl",
+  "name": "position",
+  "order": "4",
+  "parents": [
+    "high-low",
+    "kashou-countable",
+    "absolute-places"
+  ],
+  "props": {
+    "en": "position",
+    "jp": "位置",
+    "tl": "いち"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "d1pb1fpll9c",
+  "name": "gram",
+  "order": "3",
+  "parents": [
+    "units"
+  ],
+  "props": {
+    "en": "gram",
+    "jp": "グラム",
+    "tl": "ぐらむ"
+  }
+}

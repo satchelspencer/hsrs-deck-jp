@@ -1,0 +1,14 @@
+{
+  "_id": "kzns0yds0rk",
+  "name": "add",
+  "order": "3",
+  "parents": [
+    "godan-su",
+    "do-to-quantities"
+  ],
+  "props": {
+    "en": "add",
+    "jp": "足す",
+    "tl": "たす"
+  }
+}

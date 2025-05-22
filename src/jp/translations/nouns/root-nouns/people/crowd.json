@@ -1,0 +1,13 @@
+{
+  "_id": "5y912btx9jc",
+  "name": "crowd",
+  "order": "3",
+  "parents": [
+    "people"
+  ],
+  "props": {
+    "en": "crowd",
+    "jp": "大勢",
+    "tl": "おおぜい"
+  }
+}

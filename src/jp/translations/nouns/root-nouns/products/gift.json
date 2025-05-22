@@ -1,0 +1,13 @@
+{
+  "_id": "1hy478vjo5m",
+  "name": "gift",
+  "order": "3",
+  "parents": [
+    "products"
+  ],
+  "props": {
+    "en": "gift",
+    "jp": "贈り物",
+    "tl": "おくりもの"
+  }
+}

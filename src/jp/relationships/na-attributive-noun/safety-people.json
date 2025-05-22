@@ -1,0 +1,13 @@
+{
+  "_id": "d1sthc2tkvp",
+  "name": "safety-people",
+  "params": {
+    "na": "safety",
+    "noun": "people"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

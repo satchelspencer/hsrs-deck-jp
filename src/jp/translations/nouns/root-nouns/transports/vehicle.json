@@ -1,0 +1,13 @@
+{
+  "_id": "6to50tz117w",
+  "name": "vehicle",
+  "order": "3",
+  "parents": [
+    "transports"
+  ],
+  "props": {
+    "en": "vehicle",
+    "jp": "乗り物",
+    "tl": "のりもの"
+  }
+}

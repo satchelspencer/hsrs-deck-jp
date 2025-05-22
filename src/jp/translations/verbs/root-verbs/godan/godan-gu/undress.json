@@ -1,0 +1,17 @@
+{
+  "_id": "l65x41xmu8",
+  "name": "undress",
+  "order": "2",
+  "parents": [
+    "godan-gu",
+    "people-do",
+    "do-to-clothing",
+    "te-iru-verbs-continuous",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "undress",
+    "jp": "脱ぐ",
+    "tl": "ぬぐ"
+  }
+}

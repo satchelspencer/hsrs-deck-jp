@@ -1,0 +1,14 @@
+{
+  "_id": "92z76tq3jis",
+  "name": "katakana-bu",
+  "params": {
+    "h": "katakana-fu"
+  },
+  "parents": [
+    "katakana-bs"
+  ],
+  "props": {
+    "_tl": "bu",
+    "jp": "ブ"
+  }
+}

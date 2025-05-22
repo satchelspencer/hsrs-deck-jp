@@ -1,0 +1,13 @@
+{
+  "_id": "75adze714dt",
+  "name": "white-color",
+  "order": "",
+  "parents": [
+    "colors"
+  ],
+  "props": {
+    "en": "white color",
+    "jp": "白",
+    "tl": "しろ"
+  }
+}

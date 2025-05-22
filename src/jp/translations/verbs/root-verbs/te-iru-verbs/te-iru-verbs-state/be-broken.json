@@ -1,0 +1,15 @@
+{
+  "_id": "jmxu5sinux7",
+  "name": "be-broken",
+  "order": "3",
+  "parents": [
+    "te-iru-verbs-state",
+    "ichidan",
+    "machines-do"
+  ],
+  "props": {
+    "en": "be broken",
+    "jp": "壊れる",
+    "tl": "こわれる"
+  }
+}

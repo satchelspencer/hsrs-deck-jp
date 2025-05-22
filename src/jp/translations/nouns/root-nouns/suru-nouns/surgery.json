@@ -1,0 +1,17 @@
+{
+  "_id": "lie52oi2y8l",
+  "name": "surgery",
+  "order": "3",
+  "parents": [
+    "suru-nouns",
+    "people-do",
+    "te-iru-verbs-continuous",
+    "de-location-verbs",
+    "takeonables"
+  ],
+  "props": {
+    "en": "surgery",
+    "jp": "手術",
+    "tl": "しゅじゅつ"
+  }
+}

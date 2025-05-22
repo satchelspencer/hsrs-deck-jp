@@ -1,0 +1,12 @@
+{
+  "_id": "8g86cjikyom",
+  "name": "asoko",
+  "order": "2",
+  "parents": [
+    "location-pronouns"
+  ],
+  "props": {
+    "en": "over there",
+    "jp": "あそこ"
+  }
+}

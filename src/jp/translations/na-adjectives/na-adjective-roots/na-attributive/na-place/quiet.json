@@ -1,0 +1,13 @@
+{
+  "_id": "gmff3832zrh",
+  "name": "quiet",
+  "order": "1",
+  "parents": [
+    "na-place"
+  ],
+  "props": {
+    "en": "quiet",
+    "jp": "静か",
+    "tl": "しずか"
+  }
+}

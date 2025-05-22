@@ -1,0 +1,13 @@
+{
+  "_id": "xaj7lciibw",
+  "name": "read-readables",
+  "params": {
+    "noun": "readables",
+    "verb": "read"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

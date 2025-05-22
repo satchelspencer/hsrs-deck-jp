@@ -1,0 +1,13 @@
+{
+  "_id": "d0qkzttru0h",
+  "name": "pullables-pull",
+  "params": {
+    "noun": "pullables",
+    "verb": "pull"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "j478zmamzar",
+  "name": "ashtray",
+  "order": "3",
+  "parents": [
+    "containers"
+  ],
+  "props": {
+    "en": "ashtray",
+    "jp": "灰皿",
+    "tl": "はいざら"
+  }
+}

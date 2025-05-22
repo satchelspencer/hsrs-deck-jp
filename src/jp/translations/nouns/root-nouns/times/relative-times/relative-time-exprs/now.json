@@ -1,0 +1,13 @@
+{
+  "_id": "821pcrpf7zn",
+  "name": "now",
+  "order": "1",
+  "parents": [
+    "relative-time-exprs"
+  ],
+  "props": {
+    "en": "now",
+    "jp": "今",
+    "tl": "いま"
+  }
+}

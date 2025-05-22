@@ -1,0 +1,12 @@
+{
+  "_id": "5pft569r99q",
+  "name": "furniture",
+  "parents": [
+    "objects",
+    "products"
+  ],
+  "props": {
+    "en": ""
+  },
+  "virtual": true
+}

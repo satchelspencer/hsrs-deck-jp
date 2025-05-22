@@ -1,0 +1,10 @@
+{
+  "_id": "ilp2th0q2p",
+  "name": "info-verbs",
+  "parents": [
+    "root-verbs"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

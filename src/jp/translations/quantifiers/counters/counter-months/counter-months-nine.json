@@ -1,0 +1,14 @@
+{
+  "_id": "hoqs46bgf4",
+  "name": "counter-months-nine",
+  "params": {
+    "number": "nine"
+  },
+  "parents": [
+    "counter-months"
+  ],
+  "props": {
+    "en": "september",
+    "tl": "くがつ\t"
+  }
+}

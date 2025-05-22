@@ -1,0 +1,13 @@
+{
+  "_id": "60xpznd090u",
+  "name": "sendables-reach",
+  "params": {
+    "noun": "sendables",
+    "verb": "reach"
+  },
+  "parents": [
+    "noun-ga-verb"
+  ],
+  "props": {
+  }
+}

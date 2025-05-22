@@ -1,0 +1,13 @@
+{
+  "_id": "ogsqrihh10j",
+  "name": "movie-theater",
+  "order": "2",
+  "parents": [
+    "establishments"
+  ],
+  "props": {
+    "en": "movie theater",
+    "jp": "映画館",
+    "tl": "えいがかん"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "zifo524heab",
+  "name": "police",
+  "order": "2",
+  "parents": [
+    "organizations"
+  ],
+  "props": {
+    "en": "police",
+    "jp": "警察",
+    "tl": "けいさつ"
+  }
+}

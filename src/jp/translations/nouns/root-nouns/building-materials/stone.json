@@ -1,0 +1,15 @@
+{
+  "_id": "6a267qpvy8v",
+  "name": "stone",
+  "order": "3",
+  "parents": [
+    "building-materials",
+    "objects",
+    "ko-countable"
+  ],
+  "props": {
+    "en": "stone",
+    "jp": "石",
+    "tl": "いし"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "tajp5bas35",
+  "name": "new-start-it",
+  "params": {
+    "iadj": "new",
+    "verb": "start-it"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "thw26fhngsb",
+  "name": "hiragana-bya",
+  "params": {
+    "iis": "hiragana-bi"
+  },
+  "parents": [
+    "hiragana-yoon-ya"
+  ],
+  "props": {
+    "_tl": "bya",
+    "jp": "iis.jp+'ゃ'"
+  }
+}

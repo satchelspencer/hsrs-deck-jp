@@ -1,0 +1,13 @@
+{
+  "_id": "rlkmdkvlbgs",
+  "name": "godan-ba-u",
+  "params": {
+    "verb": "godan-u"
+  },
+  "parents": [
+    "godan-ba"
+  ],
+  "props": {
+    "jp": "verb.jp|r('う', 'えば')"
+  }
+}

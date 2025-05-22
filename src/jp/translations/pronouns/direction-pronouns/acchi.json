@@ -1,0 +1,13 @@
+{
+  "_id": "r11d2s5r94e",
+  "mode": "c",
+  "name": "acchi",
+  "order": "2",
+  "parents": [
+    "direction-pronouns"
+  ],
+  "props": {
+    "en": "over that way",
+    "jp": "あっち"
+  }
+}

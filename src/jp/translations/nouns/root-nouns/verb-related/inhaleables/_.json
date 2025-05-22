@@ -1,0 +1,10 @@
+{
+  "_id": "b9sk38vwz3",
+  "name": "inhaleables",
+  "parents": [
+    "verb-related"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

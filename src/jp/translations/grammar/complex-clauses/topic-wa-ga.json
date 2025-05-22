@@ -1,0 +1,18 @@
+{
+  "_id": "bafbo7rtk37",
+  "constraint": "noun",
+  "name": "topic-wa-ga",
+  "order": "3",
+  "params": {
+    "clause": "topic-clauses",
+    "rel": "noun-no-noun"
+  },
+  "parents": [
+    "complex-clauses"
+  ],
+  "props": {
+    "en": "'as for '+rel.owner.en+', its '+clause.en",
+    "jp": "rel.owner.jp+'は'+clause.jp",
+    "tl": "rel.owner.tl+'わ'+clause.tl"
+  }
+}

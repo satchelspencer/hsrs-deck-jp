@@ -1,0 +1,16 @@
+{
+  "_id": "6n4ywf20qel",
+  "name": "pass",
+  "order": "2",
+  "parents": [
+    "godan-ru",
+    "movers-do",
+    "do-to-places",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "en": "pass",
+    "jp": "通る",
+    "tl": "とおる"
+  }
+}

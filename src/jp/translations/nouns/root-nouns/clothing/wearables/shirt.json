@@ -1,0 +1,13 @@
+{
+  "_id": "vzufbb74le",
+  "name": "shirt",
+  "order": "1",
+  "parents": [
+    "wearables"
+  ],
+  "props": {
+    "en": "shirt",
+    "jp": "シャツ",
+    "tl": "しゃつ"
+  }
+}

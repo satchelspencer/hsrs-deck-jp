@@ -1,0 +1,12 @@
+{
+  "_id": "fs52bpkmw0q",
+  "name": "do-to-electrics",
+  "parents": [
+    "people-do"
+  ],
+  "props": {
+    "en": null,
+    "jp": null
+  },
+  "virtual": true
+}

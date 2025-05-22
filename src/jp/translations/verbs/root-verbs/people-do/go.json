@@ -1,0 +1,18 @@
+{
+  "_id": "rpvwewq9fy",
+  "name": "go",
+  "order": "1",
+  "parents": [
+    "people-do",
+    "movers-do",
+    "iku",
+    "he-related-verbs",
+    "te-iru-verbs-continuous",
+    "do-with-transports"
+  ],
+  "props": {
+    "en": "go",
+    "jp": "行く",
+    "tl": "いく"
+  }
+}

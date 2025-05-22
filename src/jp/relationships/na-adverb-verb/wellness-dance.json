@@ -1,0 +1,13 @@
+{
+  "_id": "6p7ox2zwsnv",
+  "name": "wellness-dance",
+  "params": {
+    "na": "wellness",
+    "verb": "dance"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

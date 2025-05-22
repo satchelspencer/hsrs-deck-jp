@@ -1,0 +1,13 @@
+{
+  "_id": "rc19o856gfs",
+  "name": "beside",
+  "order": "2",
+  "parents": [
+    "absolute-places"
+  ],
+  "props": {
+    "en": "beside",
+    "jp": "側",
+    "tl": "そば"
+  }
+}

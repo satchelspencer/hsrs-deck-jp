@@ -1,0 +1,15 @@
+{
+  "_id": "5nry9dezjjs",
+  "name": "counter-root-words",
+  "order": "4",
+  "parents": [
+    "counter-roots-kango-simple",
+    "language",
+    "learnables"
+  ],
+  "props": {
+    "en": "words",
+    "jp": "語",
+    "tl": "ご"
+  }
+}

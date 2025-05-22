@@ -1,0 +1,13 @@
+{
+  "_id": "xs0e7i8iul9",
+  "name": "electrics-fs52bpkmw0q",
+  "params": {
+    "noun": "electrics",
+    "verb": "do-to-electrics"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

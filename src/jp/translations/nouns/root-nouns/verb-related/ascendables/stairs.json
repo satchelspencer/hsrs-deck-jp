@@ -1,0 +1,14 @@
+{
+  "_id": "op9onuluhw",
+  "name": "stairs",
+  "order": "2",
+  "parents": [
+    "ascendables",
+    "spaces"
+  ],
+  "props": {
+    "en": "stairs",
+    "jp": "階段",
+    "tl": "かいだん"
+  }
+}

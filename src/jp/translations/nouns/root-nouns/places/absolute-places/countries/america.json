@@ -1,0 +1,13 @@
+{
+  "_id": "n5y0law6w4",
+  "name": "america",
+  "order": "1",
+  "parents": [
+    "countries"
+  ],
+  "props": {
+    "en": "america",
+    "jp": "アメリカ",
+    "tl": "あめりか"
+  }
+}

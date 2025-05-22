@@ -1,0 +1,17 @@
+{
+  "_id": "23vogserecyj",
+  "name": "throw",
+  "order": "3",
+  "parents": [
+    "ichidan",
+    "people-do",
+    "do-to-objects",
+    "ni-destination-verbs",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "en": "throw",
+    "jp": "投げる",
+    "tl": "なげる"
+  }
+}

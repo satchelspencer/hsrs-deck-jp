@@ -1,0 +1,13 @@
+{
+  "_id": "3fx9z5r34lk",
+  "name": "kid",
+  "order": "3",
+  "parents": [
+    "people"
+  ],
+  "props": {
+    "en": "kid",
+    "jp": "子",
+    "tl": "こ"
+  }
+}

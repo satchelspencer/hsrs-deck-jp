@@ -1,0 +1,13 @@
+{
+  "_id": "tnvc7dzbkhf",
+  "name": "unskilled-suru-nouns",
+  "params": {
+    "na": "unskilled",
+    "noun": "suru-nouns"
+  },
+  "parents": [
+    "na-predonly-noun"
+  ],
+  "props": {
+  }
+}

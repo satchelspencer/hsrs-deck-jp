@@ -1,0 +1,17 @@
+{
+  "_id": "h0gm46r2ll",
+  "name": "life",
+  "order": "2",
+  "parents": [
+    "suru-nouns",
+    "people-do",
+    "healthfuls",
+    "te-iru-verbs-continuous",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "life",
+    "jp": "生活",
+    "tl": "せいかつ"
+  }
+}

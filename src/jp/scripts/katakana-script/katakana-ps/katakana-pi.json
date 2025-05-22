@@ -1,0 +1,15 @@
+{
+  "_id": "sn7tjdtemt",
+  "name": "katakana-pi",
+  "params": {
+    "h": "katakana-hi"
+  },
+  "parents": [
+    "katakana-ps",
+    "katakana-iis"
+  ],
+  "props": {
+    "_tl": "pi",
+    "jp": "ピ"
+  }
+}

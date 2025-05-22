@@ -1,0 +1,17 @@
+{
+  "_id": "snm4mw82um",
+  "name": "success",
+  "order": "2",
+  "parents": [
+    "suru-nouns",
+    "people-do",
+    "te-iru-verbs-continuous",
+    "te-iru-verbs-state",
+    "ni-at-activities-verbs"
+  ],
+  "props": {
+    "en": "success",
+    "jp": "成功",
+    "tl": "せいこう"
+  }
+}

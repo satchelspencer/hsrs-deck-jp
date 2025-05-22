@@ -1,0 +1,13 @@
+{
+  "_id": "ioqkbjujwko",
+  "name": "considerably",
+  "order": "3",
+  "parents": [
+    "i-adverbs"
+  ],
+  "props": {
+    "en": "considerably",
+    "jp": "大分",
+    "tl": "だいぶ"
+  }
+}

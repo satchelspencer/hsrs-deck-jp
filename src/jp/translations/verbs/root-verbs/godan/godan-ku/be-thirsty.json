@@ -1,0 +1,16 @@
+{
+  "_id": "akdu7p5h9xd",
+  "name": "be-thirsty",
+  "order": "1",
+  "parents": [
+    "godan-ku",
+    "people-do",
+    "te-iru-verbs-state",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "be thirsty",
+    "jp": "渇く",
+    "tl": "かわく"
+  }
+}

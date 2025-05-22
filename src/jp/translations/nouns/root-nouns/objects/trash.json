@@ -1,0 +1,13 @@
+{
+  "_id": "6naw0h3te8o",
+  "name": "trash",
+  "order": "3",
+  "parents": [
+    "objects"
+  ],
+  "props": {
+    "en": "trash",
+    "jp": "ゴミ",
+    "tl": "ごみ"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "lmjqe0c0eg",
+  "constraint": "na",
+  "name": "pronoun-na-adj-pred",
+  "order": "1",
+  "params": {
+    "naform": "na-predicate-forms",
+    "rel": "na-predicate-pronoun"
+  },
+  "parents": [
+    "pronoun-clauses"
+  ],
+  "props": {
+    "en": "rel.pn.en+' '+naform.en",
+    "jp": "rel.pn.jp+'が'+naform.jp"
+  }
+}

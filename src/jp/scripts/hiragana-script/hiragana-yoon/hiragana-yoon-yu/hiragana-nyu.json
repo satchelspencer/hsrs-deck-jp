@@ -1,0 +1,14 @@
+{
+  "_id": "7muonodyl3v",
+  "name": "hiragana-nyu",
+  "params": {
+    "iis": "hiragana-ni"
+  },
+  "parents": [
+    "hiragana-yoon-yu"
+  ],
+  "props": {
+    "_tl": "nyu",
+    "jp": "iis.jp+'ゅ'"
+  }
+}

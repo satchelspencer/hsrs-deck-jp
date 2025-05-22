@@ -1,0 +1,20 @@
+{
+  "_id": "25exd2gpetd",
+  "constraint": "iadj",
+  "name": "i-adjective-past",
+  "order": "2",
+  "params": {
+    "ku": "i-adjective-ku"
+  },
+  "parents": [
+    "i-adjective-forms",
+    "i-desu-forms",
+    "i-nda-forms",
+    "i-yo-ne-forms",
+    "i-conjunctive-forms"
+  ],
+  "props": {
+    "en": "'was '+ku.en|r('-ly', '')",
+    "jp": "ku.jp|r('く', 'かった')"
+  }
+}

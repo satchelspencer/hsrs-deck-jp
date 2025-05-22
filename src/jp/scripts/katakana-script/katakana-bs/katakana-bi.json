@@ -1,0 +1,15 @@
+{
+  "_id": "ri38w70w0ng",
+  "name": "katakana-bi",
+  "params": {
+    "h": "katakana-hi"
+  },
+  "parents": [
+    "katakana-bs",
+    "katakana-iis"
+  ],
+  "props": {
+    "_tl": "bi",
+    "jp": "ビ"
+  }
+}

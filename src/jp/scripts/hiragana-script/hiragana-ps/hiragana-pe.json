@@ -1,0 +1,14 @@
+{
+  "_id": "vaqtrpa7m9",
+  "name": "hiragana-pe",
+  "params": {
+    "h": "hiragana-he"
+  },
+  "parents": [
+    "hiragana-ps"
+  ],
+  "props": {
+    "_tl": "pe",
+    "jp": "ぺ"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "wp1i3s80pb9",
+  "name": "ichidan-past",
+  "params": {
+    "verb": "ichidan"
+  },
+  "parents": [
+    "plain-past"
+  ],
+  "props": {
+    "en": null,
+    "jp": "verb.jp|r('る', 'た')"
+  }
+}

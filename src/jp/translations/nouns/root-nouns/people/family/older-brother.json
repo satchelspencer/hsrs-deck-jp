@@ -1,0 +1,13 @@
+{
+  "_id": "b0wvl5su81",
+  "name": "older-brother",
+  "order": "1",
+  "parents": [
+    "family"
+  ],
+  "props": {
+    "en": "older brother",
+    "jp": "お兄さん",
+    "tl": "おにいさん"
+  }
+}

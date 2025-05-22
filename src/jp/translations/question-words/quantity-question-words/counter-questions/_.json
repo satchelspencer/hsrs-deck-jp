@@ -1,0 +1,14 @@
+{
+  "_id": "vq0247c5o38",
+  "name": "counter-questions",
+  "order": "2",
+  "params": {
+    "root": "counter-roots"
+  },
+  "parents": [
+    "quantity-question-words"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

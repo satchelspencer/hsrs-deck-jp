@@ -1,0 +1,17 @@
+{
+  "_id": "0dnjrhg92b4s",
+  "name": "switch-off",
+  "order": "1",
+  "parents": [
+    "godan-su",
+    "people-do",
+    "do-to-electrics",
+    "te-iru-verbs-state",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "switch off",
+    "jp": "消す",
+    "tl": "けす"
+  }
+}

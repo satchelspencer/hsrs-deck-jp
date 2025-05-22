@@ -1,0 +1,12 @@
+{
+  "_id": "3wq2x2ngt46",
+  "name": "verb-people-do",
+  "params": {
+    "verb": "people-do"
+  },
+  "parents": [
+    "relationships"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "x66e6pb37yl",
+  "name": "dress-shirt",
+  "order": "2",
+  "parents": [
+    "wearables"
+  ],
+  "props": {
+    "en": "dress shirt",
+    "jp": "ワイシャツ",
+    "tl": "わいしゃつ"
+  }
+}

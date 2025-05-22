@@ -1,0 +1,13 @@
+{
+  "_id": "0kdpfg2bsgcr",
+  "name": "good-at-do-yaru",
+  "params": {
+    "iadj": "good-at",
+    "verb": "do-yaru"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

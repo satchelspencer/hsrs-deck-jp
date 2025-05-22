@@ -1,0 +1,14 @@
+{
+  "_id": "lg5jvs73fa",
+  "name": "town",
+  "order": "2",
+  "parents": [
+    "light-darks",
+    "absolute-places"
+  ],
+  "props": {
+    "en": "town",
+    "jp": "町",
+    "tl": "まち"
+  }
+}

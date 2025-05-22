@@ -1,0 +1,12 @@
+{
+  "_id": "cji8al61l5",
+  "mode": "c-r",
+  "name": "te-iru-informal",
+  "parents": [
+    "te-iru"
+  ],
+  "props": {
+    "en": "te.en|r(' and','')+'-ing'",
+    "jp": "te.jp+'る'"
+  }
+}

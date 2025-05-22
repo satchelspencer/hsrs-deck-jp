@@ -1,0 +1,13 @@
+{
+  "_id": "qm4m3vx2w6",
+  "name": "hard-candy",
+  "order": "2",
+  "parents": [
+    "foods"
+  ],
+  "props": {
+    "en": "hard candy",
+    "jp": "飴",
+    "tl": "あめ"
+  }
+}

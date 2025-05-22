@@ -1,0 +1,14 @@
+{
+  "_id": "jq6dnetj45p",
+  "name": "verb-form-times",
+  "params": {
+    "form": "verb-forms",
+    "time": "ni-times"
+  },
+  "parents": [
+    "relationships"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

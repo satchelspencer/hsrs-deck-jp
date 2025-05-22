@@ -1,0 +1,13 @@
+{
+  "_id": "bts0tdt4mjl",
+  "name": "spanish",
+  "order": "2",
+  "parents": [
+    "languages"
+  ],
+  "props": {
+    "en": "spanish",
+    "jp": "スペイン語",
+    "tl": "すぺいんご"
+  }
+}

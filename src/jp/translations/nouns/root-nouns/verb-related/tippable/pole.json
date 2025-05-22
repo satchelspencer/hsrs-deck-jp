@@ -1,0 +1,16 @@
+{
+  "_id": "4fvypwhf2bj",
+  "name": "pole",
+  "order": "3",
+  "parents": [
+    "tippable",
+    "objects",
+    "high-low",
+    "hon-countable"
+  ],
+  "props": {
+    "en": "pole",
+    "jp": "棒",
+    "tl": "ぼう"
+  }
+}

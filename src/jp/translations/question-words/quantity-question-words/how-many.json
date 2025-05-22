@@ -1,0 +1,12 @@
+{
+  "_id": "l5ljq8edkr",
+  "name": "how-many",
+  "order": "2",
+  "parents": [
+    "quantity-question-words"
+  ],
+  "props": {
+    "en": "how many",
+    "jp": "いくつ"
+  }
+}

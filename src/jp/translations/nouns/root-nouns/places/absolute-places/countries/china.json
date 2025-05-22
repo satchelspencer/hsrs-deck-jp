@@ -1,0 +1,13 @@
+{
+  "_id": "2e4uaxfjz9l",
+  "name": "china",
+  "order": "1",
+  "parents": [
+    "countries"
+  ],
+  "props": {
+    "en": "china",
+    "jp": "中国",
+    "tl": "ちゅうごく"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "_id": "gh2ia47sxbe",
+  "name": "kono",
+  "order": "2",
+  "params": {
+    "noun": "seeables"
+  },
+  "parents": [
+    "relative-pronouns"
+  ],
+  "props": {
+    "en": "'this '+noun.en",
+    "jp": "'この'+noun.jp"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "apsarp3p2ac",
+  "name": "shine-beautifully",
+  "params": {
+    "iadj": "beautiful",
+    "verb": "shine"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

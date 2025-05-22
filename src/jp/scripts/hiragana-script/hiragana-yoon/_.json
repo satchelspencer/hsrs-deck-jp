@@ -1,0 +1,14 @@
+{
+  "_id": "4op5weii2mb",
+  "name": "hiragana-yoon",
+  "order": "1",
+  "params": {
+    "iis": "hiragana-iis"
+  },
+  "parents": [
+    "hiragana-script"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "nqmohz84lxn",
+  "constraint": "iadj",
+  "name": "i-adjective-ka",
+  "order": "1",
+  "params": {
+    "form": "i-ka-forms"
+  },
+  "parents": [
+    "i-adjective-forms",
+    "i-predicate-forms"
+  ],
+  "props": {
+    "en": "form.en+e('?')",
+    "jp": "form.jp+'か'"
+  }
+}

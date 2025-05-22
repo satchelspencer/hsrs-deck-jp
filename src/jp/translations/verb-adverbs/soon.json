@@ -1,0 +1,12 @@
+{
+  "_id": "jjxb1uz3k8",
+  "name": "soon",
+  "order": "3",
+  "parents": [
+    "verb-adverbs"
+  ],
+  "props": {
+    "en": "soon",
+    "jp": "もうすぐ"
+  }
+}

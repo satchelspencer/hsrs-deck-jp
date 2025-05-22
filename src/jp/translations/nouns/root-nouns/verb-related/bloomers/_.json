@@ -1,0 +1,10 @@
+{
+  "_id": "2wqh0cc7m0f",
+  "name": "bloomers",
+  "parents": [
+    "verb-related"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "twndq5ptbz",
+  "name": "come-to-a-stop",
+  "order": "1",
+  "parents": [
+    "godan-ru",
+    "ni-at-verbs",
+    "te-iru-verbs-state",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "come to a stop",
+    "jp": "止まる",
+    "tl": "とまる"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "_id": "tlbia4rfeic",
+  "name": "the-fall",
+  "parents": [
+    "seasons"
+  ],
+  "props": {
+    "en": "fall",
+    "jp": "秋",
+    "tl": "あき"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "fszvaxtia37",
+  "name": "godan-reru-bu",
+  "params": {
+    "verb": "godan-bu"
+  },
+  "parents": [
+    "godan-reru"
+  ],
+  "props": {
+    "jp": "verb.jp|r('ぶ', 'べる')"
+  }
+}

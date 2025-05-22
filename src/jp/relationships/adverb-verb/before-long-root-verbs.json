@@ -1,0 +1,13 @@
+{
+  "_id": "njlvz691apg",
+  "name": "before-long-root-verbs",
+  "params": {
+    "adv": "before-long",
+    "verb": "root-verbs"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

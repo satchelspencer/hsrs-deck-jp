@@ -1,0 +1,13 @@
+{
+  "_id": "x489fkinlu",
+  "name": "canada",
+  "order": "2",
+  "parents": [
+    "countries"
+  ],
+  "props": {
+    "en": "canada",
+    "jp": "カナダ",
+    "tl": "かなだ"
+  }
+}

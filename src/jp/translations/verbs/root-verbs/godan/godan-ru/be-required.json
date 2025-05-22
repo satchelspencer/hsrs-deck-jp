@@ -1,0 +1,14 @@
+{
+  "_id": "50395miymij",
+  "name": "be-required",
+  "order": "2",
+  "parents": [
+    "godan-ru",
+    "ikura-verbs"
+  ],
+  "props": {
+    "en": "be required",
+    "jp": "掛かる",
+    "tl": "かかる"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "bhylm66h4e",
+  "name": "loose-clothing",
+  "params": {
+    "iadj": "loose",
+    "noun": "clothing"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

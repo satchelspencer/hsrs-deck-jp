@@ -1,0 +1,13 @@
+{
+  "_id": "v4rxwge5qbp",
+  "name": "counter-nin-four",
+  "params": {
+    "number": "four"
+  },
+  "parents": [
+    "counter-nin"
+  ],
+  "props": {
+    "tl": "よ~にん"
+  }
+}

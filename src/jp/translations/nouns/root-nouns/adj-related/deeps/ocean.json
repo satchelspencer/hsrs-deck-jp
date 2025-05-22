@@ -1,0 +1,15 @@
+{
+  "_id": "ofjrpaa63lm",
+  "name": "ocean",
+  "order": "1",
+  "parents": [
+    "deeps",
+    "hot-cold-weather",
+    "absolute-places"
+  ],
+  "props": {
+    "en": "ocean",
+    "jp": "海",
+    "tl": "うみ"
+  }
+}

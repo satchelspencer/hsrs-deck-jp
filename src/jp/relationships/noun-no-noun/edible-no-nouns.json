@@ -1,0 +1,13 @@
+{
+  "_id": "iq75i4ykq2f",
+  "name": "edible-no-nouns",
+  "params": {
+    "noun": "edibles-no",
+    "owner": "edibles"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

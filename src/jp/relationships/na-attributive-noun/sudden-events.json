@@ -1,0 +1,13 @@
+{
+  "_id": "ksgq44yelrl",
+  "name": "sudden-events",
+  "params": {
+    "na": "sudden",
+    "noun": "events"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "xjz5bzsnm3",
+  "name": "hai-countable-counter-root-cups",
+  "params": {
+    "noun": "hai-countable",
+    "root": "counter-root-cups"
+  },
+  "parents": [
+    "counter-noun"
+  ],
+  "props": {
+  }
+}

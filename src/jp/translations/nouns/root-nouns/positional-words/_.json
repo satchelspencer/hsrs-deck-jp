@@ -1,0 +1,10 @@
+{
+  "_id": "pzc7zoqu4vi",
+  "name": "positional-words",
+  "parents": [
+    "root-nouns"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "froabe5zoc9",
+  "name": "roast-it-roastables",
+  "params": {
+    "noun": "roastables",
+    "verb": "roast-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

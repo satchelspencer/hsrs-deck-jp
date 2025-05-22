@@ -1,0 +1,13 @@
+{
+  "_id": "rat8np4y8o",
+  "name": "counter-roots-kango-simple",
+  "parents": [
+    "counter-roots"
+  ],
+  "props": {
+    "en": "",
+    "jp": "",
+    "tl": ""
+  },
+  "virtual": true
+}

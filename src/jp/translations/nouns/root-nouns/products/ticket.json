@@ -1,0 +1,14 @@
+{
+  "_id": "n5m3ticc4bp",
+  "name": "ticket",
+  "order": "1",
+  "parents": [
+    "products",
+    "reservables"
+  ],
+  "props": {
+    "en": "ticket",
+    "jp": "切符",
+    "tl": "きっぷ"
+  }
+}

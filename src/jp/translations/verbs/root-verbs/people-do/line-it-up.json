@@ -1,0 +1,17 @@
+{
+  "_id": "cvtjit6l545",
+  "name": "line-it-up",
+  "order": "3",
+  "parents": [
+    "people-do",
+    "do-to-objects",
+    "ni-destination-verbs",
+    "te-iru-verbs-continuous",
+    "ichidan"
+  ],
+  "props": {
+    "en": "line it up",
+    "jp": "並べる",
+    "tl": "ならべる"
+  }
+}

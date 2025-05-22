@@ -1,0 +1,13 @@
+{
+  "_id": "txepeu1kgf",
+  "name": "thick",
+  "order": "3",
+  "parents": [
+    "i-attributive-standard"
+  ],
+  "props": {
+    "en": "thick",
+    "jp": "厚い",
+    "tl": "あつい"
+  }
+}

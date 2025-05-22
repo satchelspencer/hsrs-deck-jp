@@ -1,0 +1,13 @@
+{
+  "_id": "f6vcg4j7drs",
+  "name": "midday",
+  "order": "1",
+  "parents": [
+    "times-of-day"
+  ],
+  "props": {
+    "en": "midday",
+    "jp": "昼",
+    "tl": "ひる"
+  }
+}

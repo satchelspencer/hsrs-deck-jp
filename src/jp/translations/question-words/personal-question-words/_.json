@@ -1,0 +1,10 @@
+{
+  "_id": "cajj72la57",
+  "name": "personal-question-words",
+  "parents": [
+    "question-words"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

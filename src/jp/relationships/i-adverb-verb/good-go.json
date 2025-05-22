@@ -1,0 +1,13 @@
+{
+  "_id": "ifdz78huga",
+  "name": "good-go",
+  "params": {
+    "iadj": "good",
+    "verb": "go"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

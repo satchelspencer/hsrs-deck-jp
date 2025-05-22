@@ -1,0 +1,13 @@
+{
+  "_id": "wq25fkvcpg",
+  "name": "flavor-be-understood",
+  "params": {
+    "noun": "flavor",
+    "verb": "be-understood"
+  },
+  "parents": [
+    "noun-ga-verb"
+  ],
+  "props": {
+  }
+}

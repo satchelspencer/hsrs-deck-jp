@@ -1,0 +1,14 @@
+{
+  "_id": "fu3kp45a6y",
+  "name": "aru-past",
+  "params": {
+    "verb": "aru"
+  },
+  "parents": [
+    "plain-past"
+  ],
+  "props": {
+    "en": null,
+    "jp": "あった"
+  }
+}

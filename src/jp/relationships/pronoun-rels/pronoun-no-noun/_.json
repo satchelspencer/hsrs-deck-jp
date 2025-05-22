@@ -1,0 +1,14 @@
+{
+  "_id": "kzltfjx77w",
+  "name": "pronoun-no-noun",
+  "params": {
+    "noun": "root-nouns",
+    "pn": "pronouns"
+  },
+  "parents": [
+    "pronoun-rels"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

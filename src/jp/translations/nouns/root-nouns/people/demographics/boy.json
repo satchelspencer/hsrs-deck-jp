@@ -1,0 +1,13 @@
+{
+  "_id": "5oikafkuz2e",
+  "name": "boy",
+  "order": "1",
+  "parents": [
+    "demographics"
+  ],
+  "props": {
+    "en": "boy",
+    "jp": "男の子",
+    "tl": "おとこのこ"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "qlr8kk50fo",
+  "name": "sad-laugh",
+  "params": {
+    "iadj": "sad",
+    "verb": "laugh"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

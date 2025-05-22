@@ -1,0 +1,13 @@
+{
+  "_id": "g3h7z1ns6p",
+  "name": "counter-kago-4+",
+  "params": {
+    "root": "counter-roots-kango-4+"
+  },
+  "parents": [
+    "counter-kago-regular"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "d5sd7srd10c",
+  "name": "silk",
+  "order": "3",
+  "parents": [
+    "building-materials"
+  ],
+  "props": {
+    "en": "silk",
+    "jp": "絹",
+    "tl": "きぬ"
+  }
+}

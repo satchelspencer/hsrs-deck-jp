@@ -1,0 +1,13 @@
+{
+  "_id": "ydrqcu9w8no",
+  "name": "spoon",
+  "order": "2",
+  "parents": [
+    "eating-utensils"
+  ],
+  "props": {
+    "en": "spoon",
+    "jp": "スプーン",
+    "tl": "すぷーん"
+  }
+}

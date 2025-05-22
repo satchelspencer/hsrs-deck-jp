@@ -1,0 +1,14 @@
+{
+  "_id": "jci64c9evh9",
+  "name": "be-struck",
+  "order": "3",
+  "parents": [
+    "godan-ru",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "en": "be struck",
+    "jp": "当たる",
+    "tl": "あたる"
+  }
+}

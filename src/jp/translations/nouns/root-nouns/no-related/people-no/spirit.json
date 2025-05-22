@@ -1,0 +1,14 @@
+{
+  "_id": "wbdsgu88i2p",
+  "name": "spirit",
+  "order": "3",
+  "parents": [
+    "people-no",
+    "good-bads"
+  ],
+  "props": {
+    "en": "spirit",
+    "jp": "気",
+    "tl": "き"
+  }
+}

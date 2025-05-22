@@ -1,0 +1,13 @@
+{
+  "_id": "0vqmw1lwplbj",
+  "name": "interesting-speak",
+  "params": {
+    "iadj": "interesting",
+    "verb": "speak"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

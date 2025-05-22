@@ -1,0 +1,14 @@
+{
+  "_id": "trq286zi9vo",
+  "name": "teacher",
+  "order": "1",
+  "parents": [
+    "people",
+    "school-no"
+  ],
+  "props": {
+    "en": "teacher",
+    "jp": "先生",
+    "tl": "せんせい"
+  }
+}

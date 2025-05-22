@@ -1,0 +1,13 @@
+{
+  "_id": "427btxbcyr",
+  "name": "sufficient-discuss",
+  "params": {
+    "na": "sufficient",
+    "verb": "discuss"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

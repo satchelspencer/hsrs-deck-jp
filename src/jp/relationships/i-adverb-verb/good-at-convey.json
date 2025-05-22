@@ -1,0 +1,13 @@
+{
+  "_id": "6nv2zu7z90m",
+  "name": "good-at-convey",
+  "params": {
+    "iadj": "good-at",
+    "verb": "convey"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "_id": "1c1mm7zdx0l",
+  "constraint": "noun verb root",
+  "name": "standalone-counter-verb-wo",
+  "order": "3",
+  "params": {
+    "counter": "counter-kago-regular",
+    "form": "verb-forms",
+    "stan": "standalone-counter-roots",
+    "vrel": "noun-wo-verb"
+  },
+  "parents": [
+    "clauses"
+  ],
+  "props": {
+    "en": "form.en+' '+counter.en",
+    "jp": "counter.jp+'を'+form.jp"
+  }
+}

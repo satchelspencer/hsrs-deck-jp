@@ -1,0 +1,13 @@
+{
+  "_id": "59bqolfkwmq",
+  "name": "switch-off-lightables",
+  "params": {
+    "noun": "lightables",
+    "verb": "switch-off"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

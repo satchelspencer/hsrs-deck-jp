@@ -1,0 +1,14 @@
+{
+  "_id": "5wdovbbglwc",
+  "name": "counter-nin-one",
+  "params": {
+    "number": "one"
+  },
+  "parents": [
+    "counter-nin"
+  ],
+  "props": {
+    "jp": "一人",
+    "tl": "ひとり"
+  }
+}

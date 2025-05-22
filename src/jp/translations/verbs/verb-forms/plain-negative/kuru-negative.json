@@ -1,0 +1,14 @@
+{
+  "_id": "r62wgincy8",
+  "name": "kuru-negative",
+  "params": {
+    "verb": "kuru"
+  },
+  "parents": [
+    "plain-negative"
+  ],
+  "props": {
+    "en": null,
+    "jp": "verb.jp|r('来る', '来ない')|r('くる', 'こない')"
+  }
+}

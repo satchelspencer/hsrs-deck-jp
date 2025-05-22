@@ -1,0 +1,13 @@
+{
+  "_id": "lmt5dccxa9",
+  "name": "headphones",
+  "order": "3",
+  "parents": [
+    "hangables"
+  ],
+  "props": {
+    "en": "headphones",
+    "jp": "ヘッドホン",
+    "tl": "へっどほん"
+  }
+}

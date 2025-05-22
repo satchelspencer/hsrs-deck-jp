@@ -1,0 +1,14 @@
+{
+  "_id": "ru8a2yhhxc",
+  "name": "increasingly",
+  "order": "3",
+  "parents": [
+    "verb-adverbs",
+    "i-adverbs",
+    "na-adverbs"
+  ],
+  "props": {
+    "en": "increasingly",
+    "jp": "どんどん"
+  }
+}

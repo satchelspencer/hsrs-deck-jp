@@ -1,0 +1,12 @@
+{
+  "_id": "xjdcfmhrnki",
+  "mode": "c",
+  "name": "te-iru-negative-state",
+  "parents": [
+    "te-iru-state"
+  ],
+  "props": {
+    "en": "'isn\\'t '+te.en|r(' and','')+'-ed'",
+    "jp": "te.jp+'いない'"
+  }
+}

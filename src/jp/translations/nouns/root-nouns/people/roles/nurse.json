@@ -1,0 +1,13 @@
+{
+  "_id": "x0r4nnjow3j",
+  "name": "nurse",
+  "order": "3",
+  "parents": [
+    "roles"
+  ],
+  "props": {
+    "en": "nurse",
+    "jp": "看護師",
+    "tl": "かんごし"
+  }
+}

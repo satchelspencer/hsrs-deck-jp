@@ -1,0 +1,13 @@
+{
+  "_id": "6qqsms6mvot",
+  "name": "brick",
+  "order": "3",
+  "parents": [
+    "building-materials"
+  ],
+  "props": {
+    "en": "brick",
+    "jp": "レンガ",
+    "tl": "れんが"
+  }
+}

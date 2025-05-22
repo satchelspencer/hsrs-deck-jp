@@ -1,0 +1,16 @@
+{
+  "_id": "dp9c5jiko15",
+  "name": "noun-no-relative-time",
+  "order": "",
+  "params": {
+    "expr": "noun-no-relative-time-exprs",
+    "root": "ni-times"
+  },
+  "parents": [
+    "relative-time-clauses"
+  ],
+  "props": {
+    "en": "expr.en+' '+root.en",
+    "jp": "root.jp+'の'+expr.jp"
+  }
+}

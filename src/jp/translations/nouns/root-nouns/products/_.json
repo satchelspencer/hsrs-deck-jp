@@ -1,0 +1,11 @@
+{
+  "_id": "i2wcon3oknk",
+  "name": "products",
+  "parents": [
+    "root-nouns",
+    "people-no"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

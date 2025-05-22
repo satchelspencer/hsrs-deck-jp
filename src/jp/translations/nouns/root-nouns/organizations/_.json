@@ -1,0 +1,11 @@
+{
+  "_id": "oety6rs485i",
+  "name": "organizations",
+  "parents": [
+    "root-nouns",
+    "divisible"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

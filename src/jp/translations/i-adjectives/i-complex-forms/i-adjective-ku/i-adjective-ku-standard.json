@@ -1,0 +1,14 @@
+{
+  "_id": "h328ih6cgtp",
+  "name": "i-adjective-ku-standard",
+  "params": {
+    "iadj": "i-predicate-standard"
+  },
+  "parents": [
+    "i-adjective-ku"
+  ],
+  "props": {
+    "en": "",
+    "jp": "iadj.jp|r('い', 'く')"
+  }
+}

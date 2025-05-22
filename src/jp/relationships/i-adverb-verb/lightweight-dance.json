@@ -1,0 +1,13 @@
+{
+  "_id": "x81ahhoq4fl",
+  "name": "lightweight-dance",
+  "params": {
+    "iadj": "lightweight",
+    "verb": "dance"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

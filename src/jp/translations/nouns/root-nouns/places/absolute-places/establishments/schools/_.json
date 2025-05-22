@@ -1,0 +1,11 @@
+{
+  "_id": "bkexf306oy4",
+  "name": "schools",
+  "parents": [
+    "establishments",
+    "events"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

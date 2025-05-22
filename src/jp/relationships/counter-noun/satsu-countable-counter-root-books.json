@@ -1,0 +1,13 @@
+{
+  "_id": "si7caygszsd",
+  "name": "satsu-countable-counter-root-books",
+  "params": {
+    "noun": "satsu-countable",
+    "root": "counter-root-books"
+  },
+  "parents": [
+    "counter-noun"
+  ],
+  "props": {
+  }
+}

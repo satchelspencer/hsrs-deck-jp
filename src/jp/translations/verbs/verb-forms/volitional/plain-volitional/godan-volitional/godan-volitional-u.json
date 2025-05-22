@@ -1,0 +1,14 @@
+{
+  "_id": "kvqvx04tvkp",
+  "name": "godan-volitional-u",
+  "params": {
+    "verb": "godan-u"
+  },
+  "parents": [
+    "godan-volitional"
+  ],
+  "props": {
+    "en": null,
+    "jp": "verb.jp|r('う', 'おう')"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "mhcok5kk689",
+  "name": "exam",
+  "order": "3",
+  "parents": [
+    "events",
+    "takeonables"
+  ],
+  "props": {
+    "en": "exam",
+    "jp": "試験",
+    "tl": "しけん"
+  }
+}

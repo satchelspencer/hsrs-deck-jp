@@ -1,0 +1,13 @@
+{
+  "_id": "wo9g93z24zb",
+  "name": "yellow",
+  "order": "2",
+  "parents": [
+    "color-adjs"
+  ],
+  "props": {
+    "en": "yellow",
+    "jp": "黄色い",
+    "tl": "きいろい"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "_id": "yoyyyjttlrb",
+  "name": "ka-verb-forms",
+  "parents": [
+    "verb-forms"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "zva5mvmqtgg",
+  "name": "bright-light-darks",
+  "params": {
+    "iadj": "bright",
+    "noun": "light-darks"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

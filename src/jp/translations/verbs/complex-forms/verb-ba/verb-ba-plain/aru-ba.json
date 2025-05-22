@@ -1,0 +1,13 @@
+{
+  "_id": "e7bn7wc0678",
+  "name": "aru-ba",
+  "params": {
+    "verb": "aru"
+  },
+  "parents": [
+    "verb-ba-plain"
+  ],
+  "props": {
+    "jp": "あれば"
+  }
+}

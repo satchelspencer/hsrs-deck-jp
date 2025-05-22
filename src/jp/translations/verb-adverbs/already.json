@@ -1,0 +1,12 @@
+{
+  "_id": "gjd5h3asqf4",
+  "name": "already",
+  "order": "2",
+  "parents": [
+    "verb-adverbs"
+  ],
+  "props": {
+    "en": "already",
+    "jp": "もう"
+  }
+}

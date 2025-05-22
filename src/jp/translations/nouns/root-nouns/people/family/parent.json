@@ -1,0 +1,13 @@
+{
+  "_id": "ziah5zbrno",
+  "name": "parent",
+  "order": "3",
+  "parents": [
+    "family"
+  ],
+  "props": {
+    "en": "parent",
+    "jp": "親",
+    "tl": "おや"
+  }
+}

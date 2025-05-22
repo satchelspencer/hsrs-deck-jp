@@ -1,0 +1,13 @@
+{
+  "_id": "ra3484yhn2",
+  "name": "iku-reru",
+  "params": {
+    "verb": "iku"
+  },
+  "parents": [
+    "reru-plain"
+  ],
+  "props": {
+    "jp": "verb.jp|r('行く', '行ける')|r('いく', 'いける')"
+  }
+}

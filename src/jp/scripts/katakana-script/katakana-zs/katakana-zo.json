@@ -1,0 +1,14 @@
+{
+  "_id": "kkdushp8smh",
+  "name": "katakana-zo",
+  "params": {
+    "s": "katakana-so"
+  },
+  "parents": [
+    "katakana-zs"
+  ],
+  "props": {
+    "_tl": "zo",
+    "jp": "ゾ"
+  }
+}

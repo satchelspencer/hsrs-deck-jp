@@ -1,0 +1,13 @@
+{
+  "_id": "cadhhc7jc7",
+  "name": "clearly-remember",
+  "params": {
+    "adv": "clearly",
+    "verb": "recall"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "_id": "skuet6t4xf",
+  "name": "godan-negative-ku",
+  "params": {
+    "verb": "godan-ku"
+  },
+  "parents": [
+    "godan-negative"
+  ],
+  "props": {
+    "en": null,
+    "jp": "verb.jp|r('く', 'かない')",
+    "tl": ""
+  }
+}

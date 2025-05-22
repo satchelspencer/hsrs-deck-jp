@@ -1,0 +1,14 @@
+{
+  "_id": "1mg4hpxxvgx",
+  "name": "suru-nouns-volitional",
+  "params": {
+    "verb": "suru-nouns"
+  },
+  "parents": [
+    "plain-volitional"
+  ],
+  "props": {
+    "en": "'should do '+verb.en",
+    "jp": "verb.jp+'しよう'"
+  }
+}

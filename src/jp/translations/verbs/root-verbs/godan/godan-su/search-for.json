@@ -1,0 +1,18 @@
+{
+  "_id": "q3nuwgjnsgi",
+  "name": "search-for",
+  "order": "1",
+  "parents": [
+    "godan-su",
+    "people-do",
+    "do-to-objects",
+    "do-to-products",
+    "te-iru-verbs-continuous",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "search for",
+    "jp": "探す",
+    "tl": "さがす"
+  }
+}

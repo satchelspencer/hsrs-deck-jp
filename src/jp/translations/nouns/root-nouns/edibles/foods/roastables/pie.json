@@ -1,0 +1,13 @@
+{
+  "_id": "444ir9gtx71",
+  "name": "pie",
+  "order": "3",
+  "parents": [
+    "roastables"
+  ],
+  "props": {
+    "en": "pie",
+    "jp": "パイ",
+    "tl": "ぱい"
+  }
+}

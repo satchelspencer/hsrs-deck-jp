@@ -1,0 +1,14 @@
+{
+  "_id": "9twf34paivn",
+  "name": "ichidan-polite",
+  "params": {
+    "verb": "ichidan"
+  },
+  "parents": [
+    "polite"
+  ],
+  "props": {
+    "en": null,
+    "jp": "verb.jp|r('る', 'ます')"
+  }
+}

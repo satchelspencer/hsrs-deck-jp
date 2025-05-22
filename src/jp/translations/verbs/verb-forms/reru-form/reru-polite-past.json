@@ -1,0 +1,16 @@
+{
+  "_id": "ec0rwfudzso",
+  "constraint": "verb",
+  "mode": "P",
+  "name": "reru-polite-past",
+  "params": {
+    "reru": "reru-plain"
+  },
+  "parents": [
+    "reru-form"
+  ],
+  "props": {
+    "en": "reru.en|pr('can', 'could')",
+    "jp": "reru.jp|r('る', 'ました')"
+  }
+}

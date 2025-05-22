@@ -1,0 +1,13 @@
+{
+  "_id": "6g0d8nxk33l",
+  "name": "people-yoqk08wc3r",
+  "params": {
+    "noun": "people",
+    "verb": "do-to-people"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

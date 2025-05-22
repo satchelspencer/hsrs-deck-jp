@@ -1,0 +1,13 @@
+{
+  "_id": "q4tpv6ho1tk",
+  "name": "sufficient-eat",
+  "params": {
+    "na": "sufficient",
+    "verb": "eat"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

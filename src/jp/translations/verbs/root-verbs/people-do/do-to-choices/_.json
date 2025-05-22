@@ -1,0 +1,12 @@
+{
+  "_id": "z4a9w6y6ras",
+  "name": "do-to-choices",
+  "parents": [
+    "people-do"
+  ],
+  "props": {
+    "en": "",
+    "jp": null
+  },
+  "virtual": true
+}

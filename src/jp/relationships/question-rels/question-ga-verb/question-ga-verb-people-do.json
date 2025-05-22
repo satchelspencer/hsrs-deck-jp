@@ -1,0 +1,13 @@
+{
+  "_id": "gefb5ja0adn",
+  "name": "question-ga-verb-people-do",
+  "params": {
+    "qw": "personal-question-words",
+    "verb": "people-do"
+  },
+  "parents": [
+    "question-ga-verb"
+  ],
+  "props": {
+  }
+}

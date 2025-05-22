@@ -1,0 +1,15 @@
+{
+  "_id": "4fx3s8ytwpr",
+  "name": "we",
+  "params": {
+    "pronoun": "I"
+  },
+  "parents": [
+    "first-person-pronouns-plural"
+  ],
+  "props": {
+    "en": "we",
+    "jp": "私たち",
+    "tl": "わたしたち"
+  }
+}

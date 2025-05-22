@@ -1,0 +1,13 @@
+{
+  "_id": "5n8zqk7b4f8",
+  "name": "homework",
+  "order": "2",
+  "parents": [
+    "activities"
+  ],
+  "props": {
+    "en": "homework",
+    "jp": "宿題",
+    "tl": "しゅくだい"
+  }
+}

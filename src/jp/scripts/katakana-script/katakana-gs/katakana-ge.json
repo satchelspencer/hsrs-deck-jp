@@ -1,0 +1,14 @@
+{
+  "_id": "mxe12a7r5yb",
+  "name": "katakana-ge",
+  "params": {
+    "k": "katakana-ke"
+  },
+  "parents": [
+    "katakana-gs"
+  ],
+  "props": {
+    "_tl": "ge",
+    "jp": "ゲ"
+  }
+}

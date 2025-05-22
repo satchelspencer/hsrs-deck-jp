@@ -1,0 +1,13 @@
+{
+  "_id": "pn5836ltg3d",
+  "name": "soap",
+  "order": "1",
+  "parents": [
+    "tools"
+  ],
+  "props": {
+    "en": "soap",
+    "jp": "石鹼",
+    "tl": "せっけん"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "c8ztlb843m4",
+  "name": "bloom",
+  "order": "3",
+  "parents": [
+    "godan-ku",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "en": "bloom",
+    "jp": "咲く",
+    "tl": "さく"
+  }
+}

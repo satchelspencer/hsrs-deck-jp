@@ -1,0 +1,13 @@
+{
+  "_id": "sqycp473zt",
+  "name": "counter-kago-4+-ten-h",
+  "params": {
+    "root": "counter-roots-kango-4+-h"
+  },
+  "parents": [
+    "counter-kago-4+-ten"
+  ],
+  "props": {
+    "tl": "'じっ'+root.tl|pcr('はひへほ', 'ぱぴぺぽ')"
+  }
+}

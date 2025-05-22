@@ -1,0 +1,12 @@
+{
+  "_id": "lafrzmbsb2k",
+  "name": "headscarf",
+  "order": "3",
+  "parents": [
+    "headgear"
+  ],
+  "props": {
+    "en": "headscarf",
+    "jp": "ヘッドスカーフ"
+  }
+}

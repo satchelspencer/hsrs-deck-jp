@@ -1,0 +1,17 @@
+{
+  "_id": "j22pajhm6xo",
+  "name": "decrease-it",
+  "order": "3",
+  "parents": [
+    "godan-su",
+    "people-do",
+    "do-to-quantities",
+    "te-iru-verbs-continuous",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "decrease it",
+    "jp": "減らす",
+    "tl": "へらす"
+  }
+}

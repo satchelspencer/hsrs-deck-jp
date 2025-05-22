@@ -1,0 +1,15 @@
+{
+  "_id": "kw6xj3ugvmh",
+  "name": "be-closed",
+  "order": "2",
+  "parents": [
+    "godan-ru",
+    "openables-do",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "en": "be closed",
+    "jp": "閉まる",
+    "tl": "しまる"
+  }
+}

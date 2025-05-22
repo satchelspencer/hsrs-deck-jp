@@ -1,0 +1,13 @@
+{
+  "_id": "qrzgdimrbz",
+  "name": "simple-suru-nouns",
+  "params": {
+    "na": "simple",
+    "noun": "suru-nouns"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

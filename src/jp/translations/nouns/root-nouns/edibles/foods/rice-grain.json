@@ -1,0 +1,13 @@
+{
+  "_id": "4te3p95j9os",
+  "name": "rice-grain",
+  "order": "3",
+  "parents": [
+    "foods"
+  ],
+  "props": {
+    "en": "rice grain",
+    "jp": "米",
+    "tl": "こめ"
+  }
+}

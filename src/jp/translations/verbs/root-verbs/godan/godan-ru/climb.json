@@ -1,0 +1,15 @@
+{
+  "_id": "zry5i3zldz",
+  "name": "climb",
+  "order": "3",
+  "parents": [
+    "godan-ru",
+    "people-do",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "en": "climb",
+    "jp": "登る",
+    "tl": "のぼる"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "yas46caqlp",
+  "name": "behind",
+  "order": "2",
+  "parents": [
+    "positional-words"
+  ],
+  "props": {
+    "en": "behind",
+    "jp": "後ろ",
+    "tl": "うしろ"
+  }
+}

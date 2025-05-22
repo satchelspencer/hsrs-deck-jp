@@ -1,0 +1,13 @@
+{
+  "_id": "ebbogtu4x68",
+  "name": "counter-jikan-two",
+  "params": {
+    "number": "two"
+  },
+  "parents": [
+    "counter-jikan"
+  ],
+  "props": {
+    "tl": "に~じかん"
+  }
+}

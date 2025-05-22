@@ -1,0 +1,13 @@
+{
+  "_id": "wsrl06ehxsk",
+  "name": "nature",
+  "order": "2",
+  "parents": [
+    "na-nouns"
+  ],
+  "props": {
+    "en": "nature",
+    "jp": "自然",
+    "tl": "しぜん"
+  }
+}

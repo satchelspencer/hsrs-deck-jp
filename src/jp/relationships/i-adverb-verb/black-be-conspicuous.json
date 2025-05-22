@@ -1,0 +1,13 @@
+{
+  "_id": "d0g2fb38b6o",
+  "name": "black-be-conspicuous",
+  "params": {
+    "iadj": "black",
+    "verb": "be-conspicuous"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

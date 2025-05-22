@@ -1,0 +1,14 @@
+{
+  "_id": "2zv57huq143",
+  "name": "katakana-ze",
+  "params": {
+    "s": "katakana-se"
+  },
+  "parents": [
+    "katakana-zs"
+  ],
+  "props": {
+    "_tl": "ze",
+    "jp": "ゼ"
+  }
+}

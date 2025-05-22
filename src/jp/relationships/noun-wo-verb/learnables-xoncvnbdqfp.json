@@ -1,0 +1,13 @@
+{
+  "_id": "1u3qbas12i4",
+  "name": "learnables-xoncvnbdqfp",
+  "params": {
+    "noun": "learnables",
+    "verb": "do-to-learnables"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

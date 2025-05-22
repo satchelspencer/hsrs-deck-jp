@@ -1,0 +1,13 @@
+{
+  "_id": "x65ii14c3eo",
+  "name": "sleepy-animals",
+  "params": {
+    "iadj": "sleepy",
+    "noun": "animals"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

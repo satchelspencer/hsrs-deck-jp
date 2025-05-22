@@ -1,0 +1,12 @@
+{
+  "_id": "0m0cn2xjqwp",
+  "name": "do-to-places",
+  "parents": [
+    "root-verbs"
+  ],
+  "props": {
+    "en": null,
+    "jp": null
+  },
+  "virtual": true
+}

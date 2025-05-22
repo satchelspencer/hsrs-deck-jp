@@ -1,0 +1,13 @@
+{
+  "_id": "mvwjn9jmil",
+  "name": "do-to-living-things",
+  "parents": [
+    "people-do",
+    "do-to-animals"
+  ],
+  "props": {
+    "en": "",
+    "jp": null
+  },
+  "virtual": true
+}

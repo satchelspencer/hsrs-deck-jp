@@ -1,0 +1,15 @@
+{
+  "_id": "ld3pj2s4bii",
+  "name": "drop-by",
+  "order": "3",
+  "parents": [
+    "godan-ru",
+    "people-do",
+    "ni-destination-verbs"
+  ],
+  "props": {
+    "en": "drop by",
+    "jp": "寄る",
+    "tl": "よる"
+  }
+}

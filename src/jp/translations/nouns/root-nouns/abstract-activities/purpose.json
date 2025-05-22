@@ -1,0 +1,13 @@
+{
+  "_id": "jpoyl5jjs2a",
+  "name": "purpose",
+  "order": "3",
+  "parents": [
+    "abstract-activities"
+  ],
+  "props": {
+    "en": "purpose",
+    "jp": "用",
+    "tl": "よう"
+  }
+}

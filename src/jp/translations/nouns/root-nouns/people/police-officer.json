@@ -1,0 +1,13 @@
+{
+  "_id": "m4jwz7x7fvl",
+  "name": "police-officer",
+  "order": "2",
+  "parents": [
+    "people"
+  ],
+  "props": {
+    "en": "police officer",
+    "jp": "警官",
+    "tl": "けいかん"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "kzjwhina22r",
+  "name": "counter-kago-simple",
+  "params": {
+    "root": "counter-roots-kango-simple"
+  },
+  "parents": [
+    "counter-kago-regular"
+  ],
+  "props": {
+    "jp": "number.jp+root.jp"
+  }
+}

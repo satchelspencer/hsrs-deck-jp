@@ -1,0 +1,13 @@
+{
+  "_id": "kqctk8b74bl",
+  "name": "animals-5xfh0d1wogh",
+  "params": {
+    "noun": "animals",
+    "verb": "do-to-animals"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

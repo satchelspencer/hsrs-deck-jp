@@ -1,0 +1,13 @@
+{
+  "_id": "lhsks7jlot9",
+  "name": "new-be-started",
+  "params": {
+    "iadj": "new",
+    "verb": "be-started"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

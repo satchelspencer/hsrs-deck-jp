@@ -1,0 +1,10 @@
+{
+  "_id": "v5zq3tuevh",
+  "name": "healthfuls",
+  "parents": [
+    "adj-related"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

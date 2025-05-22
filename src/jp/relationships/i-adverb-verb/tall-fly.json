@@ -1,0 +1,13 @@
+{
+  "_id": "q4zsjogsxr",
+  "name": "tall-fly",
+  "params": {
+    "iadj": "high",
+    "verb": "fly"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

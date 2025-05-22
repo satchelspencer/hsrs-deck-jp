@@ -1,0 +1,17 @@
+{
+  "_id": "mnnd4386r7",
+  "name": "win",
+  "order": "3",
+  "parents": [
+    "godan-tsu",
+    "people-do",
+    "ni-person-verbs",
+    "te-iru-verbs-state",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "win",
+    "jp": "勝つ",
+    "tl": "かつ"
+  }
+}

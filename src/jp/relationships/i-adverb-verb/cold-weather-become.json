@@ -1,0 +1,13 @@
+{
+  "_id": "esoofljsiog",
+  "name": "cold-weather-become",
+  "params": {
+    "iadj": "cold-weather",
+    "verb": "become"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

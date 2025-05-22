@@ -1,0 +1,10 @@
+{
+  "_id": "zjxwv5z0bra",
+  "name": "object-question-words",
+  "parents": [
+    "question-words"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "k7lukbscoyc",
+  "name": "lightweight-consider",
+  "params": {
+    "iadj": "lightweight",
+    "verb": "consider"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

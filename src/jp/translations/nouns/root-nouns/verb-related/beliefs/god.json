@@ -1,0 +1,13 @@
+{
+  "_id": "f1cmtkt6cv",
+  "name": "god",
+  "order": "3",
+  "parents": [
+    "beliefs"
+  ],
+  "props": {
+    "en": "god",
+    "jp": "神",
+    "tl": "かみ"
+  }
+}

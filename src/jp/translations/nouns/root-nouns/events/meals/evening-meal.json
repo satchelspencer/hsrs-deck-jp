@@ -1,0 +1,14 @@
+{
+  "_id": "ii6e9k62qtc",
+  "mode": "p",
+  "name": "evening-meal",
+  "order": "3",
+  "parents": [
+    "meals"
+  ],
+  "props": {
+    "en": "evening meal",
+    "jp": "夕食",
+    "tl": "ゆうしょく"
+  }
+}

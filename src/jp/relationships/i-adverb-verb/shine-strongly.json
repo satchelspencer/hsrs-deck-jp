@@ -1,0 +1,13 @@
+{
+  "_id": "g2fupewt9dk",
+  "name": "shine-strongly",
+  "params": {
+    "iadj": "strong",
+    "verb": "shine"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

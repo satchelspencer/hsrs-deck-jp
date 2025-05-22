@@ -1,0 +1,19 @@
+{
+  "_id": "dboa48r3izp",
+  "constraint": "verb",
+  "mode": "c",
+  "name": "plain-volitional",
+  "order": "3",
+  "params": {
+    "rel": "verb-people-do",
+    "verb": "root-verbs"
+  },
+  "parents": [
+    "volitional"
+  ],
+  "props": {
+    "en": "'should '+verb.en",
+    "jp": null
+  },
+  "virtual": true
+}

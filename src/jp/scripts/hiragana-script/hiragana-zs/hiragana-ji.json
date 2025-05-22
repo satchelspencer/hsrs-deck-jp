@@ -1,0 +1,15 @@
+{
+  "_id": "8lz9i2l9nf3",
+  "name": "hiragana-ji",
+  "params": {
+    "s": "hiragana-shi"
+  },
+  "parents": [
+    "hiragana-zs",
+    "hiragana-iis"
+  ],
+  "props": {
+    "_tl": "ji",
+    "jp": "じ"
+  }
+}

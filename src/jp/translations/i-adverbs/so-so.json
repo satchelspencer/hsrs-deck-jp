@@ -1,0 +1,12 @@
+{
+  "_id": "1wky269jqpn",
+  "name": "so-so",
+  "order": "2",
+  "parents": [
+    "i-adverbs"
+  ],
+  "props": {
+    "en": "so so",
+    "jp": "まあまあ"
+  }
+}

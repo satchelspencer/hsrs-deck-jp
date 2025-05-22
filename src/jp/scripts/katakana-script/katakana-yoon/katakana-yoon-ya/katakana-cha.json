@@ -1,0 +1,13 @@
+{
+  "_id": "7j2nb26nwap",
+  "name": "katakana-cha",
+  "params": {
+    "iis": "katakana-chi"
+  },
+  "parents": [
+    "katakana-yoon-ya"
+  ],
+  "props": {
+    "_tl": "cha"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "xc2k2a5r60i",
+  "name": "heavy-feel-emotion",
+  "params": {
+    "iadj": "heavy",
+    "verb": "feel-emotion"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

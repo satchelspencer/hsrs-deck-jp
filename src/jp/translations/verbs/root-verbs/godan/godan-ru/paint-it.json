@@ -1,0 +1,17 @@
+{
+  "_id": "xuojws7jzo",
+  "name": "paint-it",
+  "order": "3",
+  "parents": [
+    "godan-ru",
+    "people-do",
+    "te-iru-verbs-continuous",
+    "do-to-objects",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "paint it",
+    "jp": "塗る",
+    "tl": "ぬる"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "q4c12940c5o",
+  "name": "i-adjective-tara-negative",
+  "params": {
+    "past": "i-adjective-negative-past"
+  },
+  "parents": [
+    "i-adjective-tara"
+  ],
+  "props": {
+    "en": "past.en|pr('was', 'when')",
+    "jp": "past.jp+'ら'"
+  }
+}

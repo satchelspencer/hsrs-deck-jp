@@ -1,0 +1,14 @@
+{
+  "_id": "wzzieuzfnol",
+  "name": "get-dark",
+  "order": "3",
+  "parents": [
+    "ichidan",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "en": "get dark",
+    "jp": "暮れる",
+    "tl": "くれる"
+  }
+}

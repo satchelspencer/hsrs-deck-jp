@@ -1,0 +1,16 @@
+{
+  "_id": "0a823tcj989j",
+  "name": "return-to-home-country",
+  "order": "2",
+  "parents": [
+    "suru-nouns",
+    "people-do",
+    "te-iru-verbs-continuous",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "en": "return to home country",
+    "jp": "帰国",
+    "tl": "きこく"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "_id": "k2vtx92ugn",
+  "name": "pullonables",
+  "parents": [
+    "clothing"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

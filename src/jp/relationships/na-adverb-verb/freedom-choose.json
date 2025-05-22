@@ -1,0 +1,13 @@
+{
+  "_id": "56ihx3l5dnl",
+  "name": "freedom-choose",
+  "params": {
+    "na": "freedom",
+    "verb": "choose"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

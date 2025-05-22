@@ -1,0 +1,15 @@
+{
+  "_id": "8001zv83qw",
+  "name": "be-transferred",
+  "order": "3",
+  "parents": [
+    "godan-ru",
+    "people-do",
+    "ni-destination-verbs"
+  ],
+  "props": {
+    "en": "be transferred",
+    "jp": "移る",
+    "tl": "うつる"
+  }
+}

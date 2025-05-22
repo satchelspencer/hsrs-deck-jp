@@ -1,0 +1,13 @@
+{
+  "_id": "8nps4n7iy1c",
+  "name": "weather-report",
+  "order": "3",
+  "parents": [
+    "informations"
+  ],
+  "props": {
+    "en": "weather report",
+    "jp": "天気予報",
+    "tl": "てんきよほう"
+  }
+}

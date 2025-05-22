@@ -1,0 +1,14 @@
+{
+  "_id": "trsdkgtm8pa",
+  "name": "counter-kago-4+-ten-thousand",
+  "params": {
+    "number": "ten-thousand"
+  },
+  "parents": [
+    "counter-kago-4+"
+  ],
+  "props": {
+    "tl": ""
+  },
+  "virtual": true
+}

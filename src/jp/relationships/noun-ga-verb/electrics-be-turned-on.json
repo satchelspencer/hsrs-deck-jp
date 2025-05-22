@@ -1,0 +1,13 @@
+{
+  "_id": "z213k1ku14",
+  "name": "electrics-be-turned-on",
+  "params": {
+    "noun": "electrics",
+    "verb": "be-turned-on"
+  },
+  "parents": [
+    "noun-ga-verb"
+  ],
+  "props": {
+  }
+}

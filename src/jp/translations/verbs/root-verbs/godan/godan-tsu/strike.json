@@ -1,0 +1,16 @@
+{
+  "_id": "qnnvpnarxjn",
+  "name": "strike",
+  "order": "3",
+  "parents": [
+    "godan-tsu",
+    "people-do",
+    "te-iru-verbs-continuous",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "strike",
+    "jp": "打つ",
+    "tl": "うつ"
+  }
+}

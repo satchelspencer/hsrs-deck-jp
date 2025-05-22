@@ -1,0 +1,19 @@
+{
+  "_id": "9qy83r49ms",
+  "constraint": "verb",
+  "name": "question-he-towards",
+  "order": "2",
+  "params": {
+    "form": "verb-ka",
+    "qw": "direction-question-words",
+    "verb": "he-related-verbs"
+  },
+  "parents": [
+    "question-clauses"
+  ],
+  "props": {
+    "en": "'towards '+qw.en+' '+form.en",
+    "jp": "qw.jp+'へ'+form.jp",
+    "tl": "qw.tl+'え'+form.tl"
+  }
+}

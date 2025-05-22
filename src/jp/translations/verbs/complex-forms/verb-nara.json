@@ -1,0 +1,17 @@
+{
+  "_id": "1htvkgtgg6l",
+  "constraint": "verb",
+  "name": "verb-nara",
+  "order": "4",
+  "params": {
+    "form": "plain-forms"
+  },
+  "parents": [
+    "complex-forms",
+    "nara-conditional-clauses"
+  ],
+  "props": {
+    "en": "'*if* '+form.en",
+    "jp": "form.jp+'なら'"
+  }
+}

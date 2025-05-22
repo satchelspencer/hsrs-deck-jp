@@ -1,0 +1,13 @@
+{
+  "_id": "le8ylmtb2vo",
+  "name": "a-bit-te-iru-verbs-continuous",
+  "params": {
+    "adv": "a-bit",
+    "verb": "te-iru-verbs-continuous"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

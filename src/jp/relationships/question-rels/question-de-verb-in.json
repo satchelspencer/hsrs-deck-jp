@@ -1,0 +1,13 @@
+{
+  "_id": "dogzb47vt2a",
+  "name": "question-de-verb-in",
+  "params": {
+    "qw": "location-question-words",
+    "verb": "de-location-verbs"
+  },
+  "parents": [
+    "question-rels"
+  ],
+  "props": {
+  }
+}

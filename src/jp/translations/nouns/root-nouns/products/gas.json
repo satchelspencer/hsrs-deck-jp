@@ -1,0 +1,14 @@
+{
+  "_id": "7ih7ao5luxh",
+  "name": "gas",
+  "order": "4",
+  "parents": [
+    "products",
+    "flowing"
+  ],
+  "props": {
+    "en": "gas",
+    "jp": "ガス",
+    "tl": "がす"
+  }
+}

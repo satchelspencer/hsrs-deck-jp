@@ -1,0 +1,16 @@
+{
+  "_id": "gl6xruwqfcp",
+  "mode": "-m",
+  "name": "we-male",
+  "params": {
+    "pronoun": "boku"
+  },
+  "parents": [
+    "first-person-pronouns-plural"
+  ],
+  "props": {
+    "en": "we",
+    "jp": "僕たち",
+    "tl": "ぼくたち"
+  }
+}

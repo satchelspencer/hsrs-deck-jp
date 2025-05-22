@@ -1,0 +1,13 @@
+{
+  "_id": "rk89f5m4fog",
+  "name": "fish-fish",
+  "params": {
+    "noun": "fish",
+    "verb": "fish-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

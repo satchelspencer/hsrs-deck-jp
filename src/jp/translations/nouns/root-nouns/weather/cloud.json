@@ -1,0 +1,13 @@
+{
+  "_id": "4py63lsgorn",
+  "name": "cloud",
+  "order": "3",
+  "parents": [
+    "weather"
+  ],
+  "props": {
+    "en": "cloud",
+    "jp": "雲",
+    "tl": "くも"
+  }
+}

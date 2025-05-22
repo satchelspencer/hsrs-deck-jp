@@ -1,0 +1,13 @@
+{
+  "_id": "8a4981nwebs",
+  "name": "groceries",
+  "order": "3",
+  "parents": [
+    "products"
+  ],
+  "props": {
+    "en": "groceries",
+    "jp": "食料品",
+    "tl": "しょくりょうひん"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "ui269vhnu9e",
+  "name": "twenty",
+  "parents": [
+    "numbers",
+    "month-numbers"
+  ],
+  "props": {
+    "en": "20",
+    "jp": "二十",
+    "tl": "にじゅう"
+  }
+}

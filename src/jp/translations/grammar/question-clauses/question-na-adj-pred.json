@@ -1,0 +1,17 @@
+{
+  "_id": "lkr08elu0lq",
+  "constraint": "na",
+  "name": "question-na-adj-pred",
+  "order": "1",
+  "params": {
+    "naform": "na-adjective-ka",
+    "rel": "na-predicate-question"
+  },
+  "parents": [
+    "question-clauses"
+  ],
+  "props": {
+    "en": "rel.qw.en+' '+naform.en",
+    "jp": "rel.qw.jp+'が'+naform.jp"
+  }
+}

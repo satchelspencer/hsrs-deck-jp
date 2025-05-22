@@ -1,0 +1,17 @@
+{
+  "_id": "swdcnk25gpg",
+  "name": "forget",
+  "order": "3",
+  "parents": [
+    "people-do",
+    "do-to-learnables",
+    "te-iru-verbs-state",
+    "de-location-verbs",
+    "ichidan"
+  ],
+  "props": {
+    "en": "forget",
+    "jp": "忘れる",
+    "tl": "わすれる"
+  }
+}

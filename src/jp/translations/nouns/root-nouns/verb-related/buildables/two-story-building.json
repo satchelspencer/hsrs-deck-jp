@@ -1,0 +1,15 @@
+{
+  "_id": "0f2q4ufhf8a",
+  "name": "two-story-building",
+  "order": "4",
+  "parents": [
+    "buildables",
+    "ken-buildings-countable",
+    "absolute-places"
+  ],
+  "props": {
+    "en": "two story building",
+    "jp": "二階建て",
+    "tl": "にかいだて"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "_id": "w87bvotmtab",
+  "name": "hiragana-sa",
+  "parents": [
+    "hiragana-ss"
+  ],
+  "props": {
+    "_tl": "sa",
+    "jp": "さ"
+  }
+}

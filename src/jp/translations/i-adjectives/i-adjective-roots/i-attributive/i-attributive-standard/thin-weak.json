@@ -1,0 +1,13 @@
+{
+  "_id": "k6ql0hjcwl8",
+  "name": "thin-weak",
+  "order": "3",
+  "parents": [
+    "i-attributive-standard"
+  ],
+  "props": {
+    "en": "thin/weak",
+    "jp": "薄い",
+    "tl": "うすい"
+  }
+}

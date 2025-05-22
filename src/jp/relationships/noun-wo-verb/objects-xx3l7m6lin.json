@@ -1,0 +1,13 @@
+{
+  "_id": "e1j6t938op",
+  "name": "objects-xx3l7m6lin",
+  "params": {
+    "noun": "objects",
+    "verb": "do-to-objects"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

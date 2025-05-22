@@ -1,0 +1,13 @@
+{
+  "_id": "7k9ar8mmw2c",
+  "name": "sweets",
+  "order": "1",
+  "parents": [
+    "foods"
+  ],
+  "props": {
+    "en": "sweets",
+    "jp": "お菓子",
+    "tl": "おかし"
+  }
+}

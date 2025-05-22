@@ -1,0 +1,13 @@
+{
+  "_id": "6ko8zv7n194",
+  "name": "all-good-people",
+  "params": {
+    "na": "all-good",
+    "noun": "people"
+  },
+  "parents": [
+    "na-predonly-noun"
+  ],
+  "props": {
+  }
+}

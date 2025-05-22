@@ -1,0 +1,10 @@
+{
+  "_id": "qhv7xb0wu2f",
+  "name": "health-conditions",
+  "parents": [
+    "people-no"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

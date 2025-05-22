@@ -1,0 +1,16 @@
+{
+  "_id": "qc8t67jlnbc",
+  "name": "be-delighted",
+  "order": "2",
+  "parents": [
+    "godan-bu",
+    "people-do",
+    "te-iru-verbs-state",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "be delighted",
+    "jp": "喜ぶ",
+    "tl": "よろこぶ"
+  }
+}

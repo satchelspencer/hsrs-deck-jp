@@ -1,0 +1,14 @@
+{
+  "_id": "8b7qhtxmpny",
+  "name": "citizen",
+  "order": "3",
+  "parents": [
+    "roles",
+    "country-no"
+  ],
+  "props": {
+    "en": "citizen",
+    "jp": "市民",
+    "tl": "しみん"
+  }
+}

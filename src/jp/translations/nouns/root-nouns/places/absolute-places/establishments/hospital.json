@@ -1,0 +1,14 @@
+{
+  "_id": "8nrfrf8btde",
+  "name": "hospital",
+  "order": "2",
+  "parents": [
+    "establishments",
+    "organizations"
+  ],
+  "props": {
+    "en": "hospital",
+    "jp": "病院",
+    "tl": "びょういん"
+  }
+}

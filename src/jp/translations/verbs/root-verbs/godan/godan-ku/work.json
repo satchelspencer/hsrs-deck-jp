@@ -1,0 +1,16 @@
+{
+  "_id": "bnxwd3hnm69",
+  "name": "work",
+  "order": "1",
+  "parents": [
+    "godan-ku",
+    "people-do",
+    "te-iru-verbs-continuous",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "work",
+    "jp": "働く",
+    "tl": "はたらく"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "_id": "dhdj1fzj2ms",
+  "name": "relative-question-words",
+  "parents": [
+    "question-words"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

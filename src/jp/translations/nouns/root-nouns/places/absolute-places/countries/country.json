@@ -1,0 +1,14 @@
+{
+  "_id": "hr5phmlyga",
+  "name": "country",
+  "order": "1",
+  "parents": [
+    "countries",
+    "kakoku-countable"
+  ],
+  "props": {
+    "en": "country",
+    "jp": "国",
+    "tl": "くに"
+  }
+}

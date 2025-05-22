@@ -1,0 +1,13 @@
+{
+  "_id": "uvt9gs9ssh",
+  "name": "counter-nin-ten",
+  "params": {
+    "number": "ten"
+  },
+  "parents": [
+    "counter-nin"
+  ],
+  "props": {
+    "tl": "じゅう~にん"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "hjvsi2gxsqh",
+  "name": "typhoon",
+  "order": "3",
+  "parents": [
+    "events"
+  ],
+  "props": {
+    "en": "typhoon",
+    "jp": "台風",
+    "tl": "たいふう"
+  }
+}

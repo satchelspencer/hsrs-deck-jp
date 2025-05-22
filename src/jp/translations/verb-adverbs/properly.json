@@ -1,0 +1,12 @@
+{
+  "_id": "ouia7ykeyym",
+  "name": "properly",
+  "order": "3",
+  "parents": [
+    "verb-adverbs"
+  ],
+  "props": {
+    "en": "properly",
+    "jp": "しっかり"
+  }
+}

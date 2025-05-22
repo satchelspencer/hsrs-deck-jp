@@ -1,0 +1,13 @@
+{
+  "_id": "u90hv7hk4kb",
+  "name": "early-sleep",
+  "params": {
+    "iadj": "early",
+    "verb": "go-to-bed"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

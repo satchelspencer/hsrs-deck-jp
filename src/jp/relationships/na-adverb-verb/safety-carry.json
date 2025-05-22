@@ -1,0 +1,13 @@
+{
+  "_id": "ijy62lkcg2",
+  "name": "safety-carry",
+  "params": {
+    "na": "safety",
+    "verb": "carry"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

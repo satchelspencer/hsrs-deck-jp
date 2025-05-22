@@ -1,0 +1,13 @@
+{
+  "_id": "6opcjtrgnhr",
+  "name": "mind",
+  "order": "3",
+  "parents": [
+    "healthfuls"
+  ],
+  "props": {
+    "en": "mind",
+    "jp": "心",
+    "tl": "こころ"
+  }
+}

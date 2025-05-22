@@ -1,0 +1,13 @@
+{
+  "_id": "ufg85hg792r",
+  "name": "counter-root-times",
+  "order": "1",
+  "parents": [
+    "counter-roots-kango-full-k"
+  ],
+  "props": {
+    "en": "times",
+    "jp": "回",
+    "tl": "かい"
+  }
+}

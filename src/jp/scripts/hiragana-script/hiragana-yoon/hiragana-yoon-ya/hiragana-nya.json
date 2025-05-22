@@ -1,0 +1,14 @@
+{
+  "_id": "ixzfyj2m03p",
+  "name": "hiragana-nya",
+  "params": {
+    "iis": "hiragana-ni"
+  },
+  "parents": [
+    "hiragana-yoon-ya"
+  ],
+  "props": {
+    "_tl": "nya",
+    "jp": "iis.jp+'ゃ'"
+  }
+}

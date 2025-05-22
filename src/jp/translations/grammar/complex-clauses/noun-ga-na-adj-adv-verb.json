@@ -1,0 +1,17 @@
+{
+  "_id": "gwah3pgmjuf",
+  "constraint": "verb",
+  "name": "noun-ga-na-adj-adv-verb",
+  "order": "3",
+  "params": {
+    "akvb": "na-adj-adv-verb",
+    "nrel": "noun-ga-verb"
+  },
+  "parents": [
+    "complex-clauses"
+  ],
+  "props": {
+    "en": "nrel.noun.en+' '+akvb.en",
+    "jp": "nrel.noun.jp+'が'+akvb.jp"
+  }
+}

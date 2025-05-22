@@ -1,0 +1,14 @@
+{
+  "_id": "ki0kh1kgur",
+  "name": "command-form-kuru",
+  "params": {
+    "verb": "come"
+  },
+  "parents": [
+    "command-form-plain"
+  ],
+  "props": {
+    "jp": "verb.jp|r('来る', '来い')|r('くる', 'こい')",
+    "tl": "verb.tl|r('くる', 'こい')"
+  }
+}

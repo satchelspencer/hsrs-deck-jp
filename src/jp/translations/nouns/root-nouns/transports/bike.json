@@ -1,0 +1,15 @@
+{
+  "_id": "41nzoct0fyr",
+  "name": "bike",
+  "order": "1",
+  "parents": [
+    "transports",
+    "products",
+    "pushables"
+  ],
+  "props": {
+    "en": "bike",
+    "jp": "自転車",
+    "tl": "じてんしゃ"
+  }
+}

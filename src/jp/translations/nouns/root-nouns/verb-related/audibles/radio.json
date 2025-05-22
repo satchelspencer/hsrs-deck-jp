@@ -1,0 +1,13 @@
+{
+  "_id": "04ximinnu91i",
+  "name": "radio",
+  "order": "2",
+  "parents": [
+    "audibles",
+    "media"
+  ],
+  "props": {
+    "en": "radio",
+    "jp": "ラジオ"
+  }
+}

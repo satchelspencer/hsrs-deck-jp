@@ -1,0 +1,15 @@
+{
+  "_id": "65cl094tuga",
+  "name": "arrangement",
+  "order": "3",
+  "parents": [
+    "suru-nouns",
+    "people-do",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "en": "arrangement",
+    "jp": "準備",
+    "tl": "じゅんび"
+  }
+}

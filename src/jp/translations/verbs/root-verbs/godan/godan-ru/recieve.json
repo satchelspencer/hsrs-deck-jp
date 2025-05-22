@@ -1,0 +1,16 @@
+{
+  "_id": "dhwev71vcra",
+  "name": "recieve",
+  "order": "3",
+  "parents": [
+    "godan-ru",
+    "people-do",
+    "do-to-sendables",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "en": "recieve",
+    "jp": "受け取る",
+    "tl": "うけとる"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "6hjwa57zmtx",
+  "name": "accident",
+  "order": "2",
+  "parents": [
+    "events"
+  ],
+  "props": {
+    "en": "accident",
+    "jp": "事故",
+    "tl": "じこ"
+  }
+}

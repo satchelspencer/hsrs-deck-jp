@@ -1,0 +1,14 @@
+{
+  "_id": "nyskwtyegd",
+  "name": "beer",
+  "order": "2",
+  "parents": [
+    "can-countable",
+    "drinks"
+  ],
+  "props": {
+    "en": "beer",
+    "jp": "ビール",
+    "tl": "びーる"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "yo0lvfgfs4",
+  "name": "counter-jikan-hundred",
+  "params": {
+    "number": "hundred"
+  },
+  "parents": [
+    "counter-jikan"
+  ],
+  "props": {
+    "tl": "ひゃく~じかん"
+  }
+}

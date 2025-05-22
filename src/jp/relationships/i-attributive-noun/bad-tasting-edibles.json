@@ -1,0 +1,13 @@
+{
+  "_id": "54i2zlzjxmu",
+  "name": "bad-tasting-edibles",
+  "params": {
+    "iadj": "bad-tasting",
+    "noun": "edibles"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

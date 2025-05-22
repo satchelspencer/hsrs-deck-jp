@@ -1,0 +1,14 @@
+{
+  "_id": "osp2ydtiuo",
+  "name": "hiragana-myu",
+  "params": {
+    "iis": "hiragana-mi"
+  },
+  "parents": [
+    "hiragana-yoon-yu"
+  ],
+  "props": {
+    "_tl": "myu",
+    "jp": "iis.jp+'ゅ'"
+  }
+}

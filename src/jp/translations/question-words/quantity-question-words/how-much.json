@@ -1,0 +1,12 @@
+{
+  "_id": "tlixd91esm",
+  "name": "how-much",
+  "order": "1",
+  "parents": [
+    "quantity-question-words"
+  ],
+  "props": {
+    "en": "how much",
+    "jp": "いくら"
+  }
+}

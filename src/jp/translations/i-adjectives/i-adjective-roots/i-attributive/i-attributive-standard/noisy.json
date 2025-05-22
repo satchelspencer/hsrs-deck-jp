@@ -1,0 +1,12 @@
+{
+  "_id": "jnu2k154o8",
+  "name": "noisy",
+  "order": "2",
+  "parents": [
+    "i-attributive-standard"
+  ],
+  "props": {
+    "en": "noisy",
+    "jp": "うるさい"
+  }
+}

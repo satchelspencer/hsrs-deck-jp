@@ -1,0 +1,14 @@
+{
+  "_id": "hmvyusrs41b",
+  "name": "scent",
+  "order": "3",
+  "parents": [
+    "edibles-no",
+    "people-no"
+  ],
+  "props": {
+    "en": "scent",
+    "jp": "匂い",
+    "tl": "におい"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "hflwzyjqhgo",
+  "name": "katakana-ga",
+  "params": {
+    "k": "katakana-ka"
+  },
+  "parents": [
+    "katakana-gs"
+  ],
+  "props": {
+    "_tl": "ga",
+    "jp": "ガ"
+  }
+}

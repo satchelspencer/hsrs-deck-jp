@@ -1,0 +1,13 @@
+{
+  "_id": "ixkcdn932rs",
+  "name": "vertical-paths-go-down",
+  "params": {
+    "noun": "climbables",
+    "verb": "go-down"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

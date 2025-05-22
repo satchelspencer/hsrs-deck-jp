@@ -1,0 +1,15 @@
+{
+  "_id": "2ms381elm6s",
+  "mode": "p",
+  "name": "electric-lamp",
+  "order": "4",
+  "parents": [
+    "electrics",
+    "objects"
+  ],
+  "props": {
+    "en": "electric lamp",
+    "jp": "電灯",
+    "tl": "でんとう"
+  }
+}

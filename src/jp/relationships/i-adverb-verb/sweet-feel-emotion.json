@@ -1,0 +1,13 @@
+{
+  "_id": "gvafd8l2vi",
+  "name": "sweet-feel-emotion",
+  "params": {
+    "iadj": "sweet",
+    "verb": "feel-emotion"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

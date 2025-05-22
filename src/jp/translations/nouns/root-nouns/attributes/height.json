@@ -1,0 +1,13 @@
+{
+  "_id": "uzoioly3ns",
+  "name": "height",
+  "order": "3",
+  "parents": [
+    "attributes"
+  ],
+  "props": {
+    "en": "height",
+    "jp": "縦",
+    "tl": "たて"
+  }
+}

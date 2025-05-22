@@ -1,0 +1,13 @@
+{
+  "_id": "kkxoyp5ovr7",
+  "name": "counter-root-bites",
+  "order": "3",
+  "parents": [
+    "counter-roots-kango-4+-only-k"
+  ],
+  "props": {
+    "en": "bites",
+    "jp": "口",
+    "tl": "くち"
+  }
+}

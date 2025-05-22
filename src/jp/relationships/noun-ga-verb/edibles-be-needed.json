@@ -1,0 +1,13 @@
+{
+  "_id": "3kpl0bu9ttt",
+  "name": "edibles-be-needed",
+  "params": {
+    "noun": "edibles",
+    "verb": "be-needed"
+  },
+  "parents": [
+    "noun-ga-verb"
+  ],
+  "props": {
+  }
+}

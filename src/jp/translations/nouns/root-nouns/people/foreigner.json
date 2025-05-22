@@ -1,0 +1,13 @@
+{
+  "_id": "0x5kbgfm9rw8",
+  "name": "foreigner",
+  "order": "1",
+  "parents": [
+    "people"
+  ],
+  "props": {
+    "en": "foreigner",
+    "jp": "外国人",
+    "tl": "がいこくじん"
+  }
+}

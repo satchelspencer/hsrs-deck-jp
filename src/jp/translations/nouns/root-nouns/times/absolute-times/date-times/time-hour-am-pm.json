@@ -1,0 +1,16 @@
+{
+  "_id": "6ajjb7lbb2f",
+  "name": "time-hour-am-pm",
+  "order": "2",
+  "params": {
+    "am": "am-pm",
+    "hour": "counter-ji"
+  },
+  "parents": [
+    "date-times"
+  ],
+  "props": {
+    "en": "hour.en|r(' oclock', ':00')+' '+am.en",
+    "jp": "am.jp+hour.jp"
+  }
+}

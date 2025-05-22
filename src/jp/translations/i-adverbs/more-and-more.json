@@ -1,0 +1,14 @@
+{
+  "_id": "tzsgv4vs09c",
+  "name": "more-and-more",
+  "order": "3",
+  "parents": [
+    "i-adverbs",
+    "na-adverbs",
+    "verb-adverbs"
+  ],
+  "props": {
+    "en": "more and more",
+    "jp": "ますます"
+  }
+}

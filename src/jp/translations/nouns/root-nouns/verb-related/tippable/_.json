@@ -1,0 +1,10 @@
+{
+  "_id": "gphcmqv39j",
+  "name": "tippable",
+  "parents": [
+    "verb-related"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

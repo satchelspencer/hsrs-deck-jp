@@ -1,0 +1,13 @@
+{
+  "_id": "clnso8jkys",
+  "name": "loose",
+  "order": "3",
+  "parents": [
+    "i-attributive-standard"
+  ],
+  "props": {
+    "en": "loose",
+    "jp": "緩い",
+    "tl": "ゆるい"
+  }
+}

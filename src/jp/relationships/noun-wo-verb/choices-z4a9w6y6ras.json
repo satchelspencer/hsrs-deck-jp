@@ -1,0 +1,13 @@
+{
+  "_id": "0fqsacyxe4a4",
+  "name": "choices-z4a9w6y6ras",
+  "params": {
+    "noun": "choosables",
+    "verb": "do-to-choices"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "j9fgj3ezzdc",
+  "name": "novel",
+  "order": "2",
+  "parents": [
+    "writeables",
+    "media"
+  ],
+  "props": {
+    "en": "novel",
+    "jp": "小説",
+    "tl": "しょうせつ"
+  }
+}

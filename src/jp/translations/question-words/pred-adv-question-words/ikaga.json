@@ -1,0 +1,13 @@
+{
+  "_id": "8j60n72ncba",
+  "mode": "p",
+  "name": "ikaga",
+  "order": "3",
+  "parents": [
+    "pred-adv-question-words"
+  ],
+  "props": {
+    "en": "how",
+    "jp": "いかが"
+  }
+}

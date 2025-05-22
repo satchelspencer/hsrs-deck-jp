@@ -1,0 +1,14 @@
+{
+  "_id": "q8bob8bqf2a",
+  "name": "noun-de-verb-means",
+  "params": {
+    "noun": "root-nouns",
+    "verb": "root-verbs"
+  },
+  "parents": [
+    "relationships"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

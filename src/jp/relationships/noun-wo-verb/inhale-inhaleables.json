@@ -1,0 +1,13 @@
+{
+  "_id": "39mhiw84no",
+  "name": "inhale-inhaleables",
+  "params": {
+    "noun": "inhaleables",
+    "verb": "inhale-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

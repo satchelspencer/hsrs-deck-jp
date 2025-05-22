@@ -1,0 +1,14 @@
+{
+  "_id": "w6nrh1gz7aq",
+  "name": "godan-past-su",
+  "params": {
+    "verb": "godan-su"
+  },
+  "parents": [
+    "godan-past"
+  ],
+  "props": {
+    "en": null,
+    "jp": "verb.jp|r('す', 'した')"
+  }
+}

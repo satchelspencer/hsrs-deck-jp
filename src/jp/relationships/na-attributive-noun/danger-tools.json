@@ -1,0 +1,13 @@
+{
+  "_id": "q3av8rpub1i",
+  "name": "danger-tools",
+  "params": {
+    "na": "danger",
+    "noun": "tools"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

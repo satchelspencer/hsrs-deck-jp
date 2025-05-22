@@ -1,0 +1,17 @@
+{
+  "_id": "qlyipvt2vw7",
+  "name": "cooking",
+  "order": "2",
+  "parents": [
+    "foods",
+    "activities",
+    "suru-nouns",
+    "people-do",
+    "do-with-ingredients"
+  ],
+  "props": {
+    "en": "cooking",
+    "jp": "料理",
+    "tl": "りょうり"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "_id": "0fu0c2eys6j",
+  "name": "sciences",
+  "parents": [
+    "root-nouns",
+    "learnables"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

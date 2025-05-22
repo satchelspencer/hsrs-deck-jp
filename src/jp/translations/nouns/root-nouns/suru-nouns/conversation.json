@@ -1,0 +1,16 @@
+{
+  "_id": "jieoqgo36v",
+  "name": "conversation",
+  "order": "3",
+  "parents": [
+    "suru-nouns",
+    "people-do",
+    "do-with-languages",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "en": "conversation",
+    "jp": "会話",
+    "tl": "かいわ"
+  }
+}

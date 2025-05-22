@@ -1,0 +1,13 @@
+{
+  "_id": "kk31zvk0am",
+  "name": "cut-with-cutting-utensils",
+  "params": {
+    "noun": "cutting-utensils",
+    "verb": "cut"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

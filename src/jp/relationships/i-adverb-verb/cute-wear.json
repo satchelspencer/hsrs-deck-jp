@@ -1,0 +1,13 @@
+{
+  "_id": "4pbhffy9l7f",
+  "name": "cute-wear",
+  "params": {
+    "iadj": "cute",
+    "verb": "wear"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

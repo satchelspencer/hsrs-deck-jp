@@ -1,0 +1,13 @@
+{
+  "_id": "tfwenf6o72c",
+  "name": "docchi",
+  "order": "2",
+  "parents": [
+    "direction-question-words",
+    "personal-question-words"
+  ],
+  "props": {
+    "en": "which way",
+    "jp": "どっち"
+  }
+}

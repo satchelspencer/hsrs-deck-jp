@@ -1,0 +1,16 @@
+{
+  "_id": "isk4ekiwvti",
+  "name": "cleaning",
+  "order": "1",
+  "parents": [
+    "suru-nouns",
+    "people-do",
+    "te-iru-verbs-continuous",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "cleaning",
+    "jp": "掃除",
+    "tl": "そうじ"
+  }
+}

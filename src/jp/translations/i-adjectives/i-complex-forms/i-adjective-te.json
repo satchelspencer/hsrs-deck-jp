@@ -1,0 +1,16 @@
+{
+  "_id": "dkul36jwa0v",
+  "constraint": "iadj",
+  "name": "i-adjective-te",
+  "order": "3",
+  "params": {
+    "ku": "i-adjective-ku"
+  },
+  "parents": [
+    "i-complex-forms"
+  ],
+  "props": {
+    "en": "ku.en|r('-ly', ' and')",
+    "jp": "ku.jp|r('く', 'くて')"
+  }
+}

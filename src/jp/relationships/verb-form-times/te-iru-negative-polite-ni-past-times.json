@@ -1,0 +1,13 @@
+{
+  "_id": "b2ud6s9p2va",
+  "name": "te-iru-negative-polite-ni-past-times",
+  "params": {
+    "form": "te-iru-negative-polite",
+    "time": "ni-past-times"
+  },
+  "parents": [
+    "verb-form-times"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "299vlqbiivz",
+  "name": "nature-feel-emotion",
+  "params": {
+    "na": "nature",
+    "verb": "feel-emotion"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

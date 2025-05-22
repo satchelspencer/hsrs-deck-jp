@@ -1,0 +1,16 @@
+{
+  "_id": "j1agag144md",
+  "name": "make-noise",
+  "order": "3",
+  "parents": [
+    "godan-gu",
+    "people-do",
+    "de-location-verbs",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "en": "make noise",
+    "jp": "騒ぐ",
+    "tl": "さわぐ"
+  }
+}

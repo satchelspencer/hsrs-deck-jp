@@ -1,0 +1,13 @@
+{
+  "_id": "n2b8v3plvcj",
+  "name": "table",
+  "order": "1",
+  "parents": [
+    "furniture"
+  ],
+  "props": {
+    "en": "table",
+    "jp": "テーブル",
+    "tl": "てーぶる"
+  }
+}

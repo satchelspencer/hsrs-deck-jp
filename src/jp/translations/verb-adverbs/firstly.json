@@ -1,0 +1,12 @@
+{
+  "_id": "gjgy9ij4i2l",
+  "name": "firstly",
+  "order": "3",
+  "parents": [
+    "verb-adverbs"
+  ],
+  "props": {
+    "en": "firstly",
+    "jp": "まず"
+  }
+}

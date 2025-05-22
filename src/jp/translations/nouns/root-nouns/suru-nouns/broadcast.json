@@ -1,0 +1,15 @@
+{
+  "_id": "c2fa7qcquhe",
+  "name": "broadcast",
+  "order": "3",
+  "parents": [
+    "suru-nouns",
+    "people-do",
+    "do-to-media"
+  ],
+  "props": {
+    "en": "broadcast",
+    "jp": "放送",
+    "tl": "ほうそう"
+  }
+}

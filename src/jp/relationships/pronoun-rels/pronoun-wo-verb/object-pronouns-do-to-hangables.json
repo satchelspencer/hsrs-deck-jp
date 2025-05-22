@@ -1,0 +1,13 @@
+{
+  "_id": "xbggrkyvowo",
+  "name": "object-pronouns-do-to-hangables",
+  "params": {
+    "pn": "object-pronouns",
+    "verb": "do-to-hangables"
+  },
+  "parents": [
+    "pronoun-wo-verb"
+  ],
+  "props": {
+  }
+}

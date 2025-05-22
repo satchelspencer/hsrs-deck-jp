@@ -1,0 +1,13 @@
+{
+  "_id": "leuhbb79hb",
+  "name": "back",
+  "order": "3",
+  "parents": [
+    "body-parts"
+  ],
+  "props": {
+    "en": "back",
+    "jp": "背中",
+    "tl": "せなか"
+  }
+}

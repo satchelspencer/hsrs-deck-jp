@@ -1,0 +1,13 @@
+{
+  "_id": "3l8x8n4jjf1",
+  "name": "cloudy-weather",
+  "order": "1",
+  "parents": [
+    "weather"
+  ],
+  "props": {
+    "en": "cloudy weather",
+    "jp": "曇り",
+    "tl": "くもり"
+  }
+}

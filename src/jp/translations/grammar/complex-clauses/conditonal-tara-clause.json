@@ -1,0 +1,16 @@
+{
+  "_id": "5xe7bjguszq",
+  "name": "conditonal-tara-clause",
+  "order": "5",
+  "params": {
+    "clause": "clauses",
+    "tara": "tara-conditional-clauses"
+  },
+  "parents": [
+    "complex-clauses"
+  ],
+  "props": {
+    "en": "tara.en|pr('when', 'if')+', then '+clause.en",
+    "jp": "'もし'+tara.jp+'、'+clause.jp"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "k57ab4r2zdl",
+  "name": "left",
+  "order": "1",
+  "parents": [
+    "positional-words"
+  ],
+  "props": {
+    "en": "left",
+    "jp": "左",
+    "tl": "ひだり"
+  }
+}

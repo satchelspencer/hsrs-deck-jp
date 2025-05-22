@@ -1,0 +1,13 @@
+{
+  "_id": "7l6sas0v0zv",
+  "name": "automobile",
+  "order": "3",
+  "parents": [
+    "transports"
+  ],
+  "props": {
+    "en": "automobile",
+    "jp": "自動車",
+    "tl": "じどうしゃ"
+  }
+}

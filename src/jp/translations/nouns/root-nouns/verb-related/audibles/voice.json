@@ -1,0 +1,15 @@
+{
+  "_id": "sx2hskk6wd",
+  "name": "voice",
+  "order": "2",
+  "parents": [
+    "audibles",
+    "raisables",
+    "thins"
+  ],
+  "props": {
+    "en": "voice",
+    "jp": "声",
+    "tl": "こえ"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "02o6i54vbbr9",
+  "constraint": "iadj",
+  "name": "i-adjective-yo",
+  "order": "3",
+  "params": {
+    "form": "i-yo-ne-forms"
+  },
+  "parents": [
+    "i-adjective-forms",
+    "i-predicate-forms"
+  ],
+  "props": {
+    "en": "form.en+e(', you know')",
+    "jp": "form.jp+'よ'"
+  }
+}

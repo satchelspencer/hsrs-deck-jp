@@ -1,0 +1,13 @@
+{
+  "_id": "zohnzu48xy",
+  "name": "safety-cross-over",
+  "params": {
+    "na": "safety",
+    "verb": "cross-over"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

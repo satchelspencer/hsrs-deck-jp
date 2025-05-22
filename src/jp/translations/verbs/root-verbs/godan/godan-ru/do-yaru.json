@@ -1,0 +1,16 @@
+{
+  "_id": "xfqkfezfcv",
+  "mode": "---s",
+  "name": "do-yaru",
+  "order": "1",
+  "parents": [
+    "godan-ru",
+    "people-do",
+    "te-iru-verbs-continuous",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "do",
+    "jp": "やる"
+  }
+}

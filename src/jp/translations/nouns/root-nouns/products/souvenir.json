@@ -1,0 +1,13 @@
+{
+  "_id": "p3kt8y6z7j",
+  "name": "souvenir",
+  "order": "3",
+  "parents": [
+    "products"
+  ],
+  "props": {
+    "en": "souvenir",
+    "jp": "お土産",
+    "tl": "おみやげ"
+  }
+}

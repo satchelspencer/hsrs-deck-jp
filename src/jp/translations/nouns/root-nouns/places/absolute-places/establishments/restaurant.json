@@ -1,0 +1,13 @@
+{
+  "_id": "os6fmwip72d",
+  "name": "restaurant",
+  "order": "1",
+  "parents": [
+    "establishments"
+  ],
+  "props": {
+    "en": "restaurant",
+    "jp": "レストラン",
+    "tl": "れすとらん"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "ewtws9ostp",
+  "name": "surface",
+  "order": "3",
+  "parents": [
+    "positional-words"
+  ],
+  "props": {
+    "en": "surface",
+    "jp": "表",
+    "tl": "おもて"
+  }
+}

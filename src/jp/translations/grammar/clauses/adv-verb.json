@@ -1,0 +1,18 @@
+{
+  "_id": "usjvljehnar",
+  "constraint": "adv verb",
+  "name": "adv-verb",
+  "order": "1",
+  "params": {
+    "adv": "verb-adverbs",
+    "form": "verb-forms",
+    "rel": "adverb-verb"
+  },
+  "parents": [
+    "clauses"
+  ],
+  "props": {
+    "en": "adv.en+' '+form.en",
+    "jp": "adv.jp+form.jp"
+  }
+}

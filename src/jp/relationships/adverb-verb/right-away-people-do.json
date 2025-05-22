@@ -1,0 +1,13 @@
+{
+  "_id": "89o7isd3ww8",
+  "name": "right-away-people-do",
+  "params": {
+    "adv": "right-away",
+    "verb": "people-do"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

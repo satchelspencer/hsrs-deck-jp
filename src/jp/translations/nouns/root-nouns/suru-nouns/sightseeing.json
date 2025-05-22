@@ -1,0 +1,16 @@
+{
+  "_id": "z0d3j9xhmq",
+  "name": "sightseeing",
+  "order": "3",
+  "parents": [
+    "suru-nouns",
+    "people-do",
+    "te-iru-verbs-continuous",
+    "do-to-places"
+  ],
+  "props": {
+    "en": "sightseeing",
+    "jp": "見物",
+    "tl": "けんぶつ"
+  }
+}

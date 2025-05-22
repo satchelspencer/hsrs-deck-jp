@@ -1,0 +1,14 @@
+{
+  "_id": "4lb941nk8c",
+  "name": "withdraw",
+  "order": "3",
+  "parents": [
+    "godan-su",
+    "people-do"
+  ],
+  "props": {
+    "en": "withdraw",
+    "jp": "引き出す",
+    "tl": "ひきだす"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "4q1r13wvgf",
+  "name": "question-ni-verb-at",
+  "params": {
+    "qw": "location-question-words",
+    "verb": "ni-at-verbs"
+  },
+  "parents": [
+    "question-rels"
+  ],
+  "props": {
+  }
+}

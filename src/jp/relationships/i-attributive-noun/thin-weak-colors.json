@@ -1,0 +1,13 @@
+{
+  "_id": "w6f4bmj7dhf",
+  "name": "thin-weak-colors",
+  "params": {
+    "iadj": "thin-weak",
+    "noun": "colors"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

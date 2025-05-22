@@ -1,0 +1,17 @@
+{
+  "_id": "tx0gsj9b3x",
+  "name": "bestow-to-me",
+  "order": "3",
+  "parents": [
+    "godan-ru",
+    "people-do",
+    "do-to-edibles",
+    "do-to-products",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "en": "bestow to me",
+    "jp": "下さる",
+    "tl": "くださる"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "wv2d6j6y3am",
+  "name": "sit-sitables",
+  "params": {
+    "noun": "sitables",
+    "verb": "sit"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

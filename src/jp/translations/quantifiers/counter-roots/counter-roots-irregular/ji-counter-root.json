@@ -1,0 +1,13 @@
+{
+  "_id": "dlutxr9ov6s",
+  "name": "ji-counter-root",
+  "order": "1",
+  "parents": [
+    "counter-roots-irregular"
+  ],
+  "props": {
+    "en": "o'clock",
+    "jp": "時",
+    "tl": "じ"
+  }
+}

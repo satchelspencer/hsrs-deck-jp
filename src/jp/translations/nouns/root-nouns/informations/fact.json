@@ -1,0 +1,13 @@
+{
+  "_id": "r4eucmpw3e",
+  "name": "fact",
+  "order": "3",
+  "parents": [
+    "informations"
+  ],
+  "props": {
+    "en": "fact",
+    "jp": "事実",
+    "tl": "じじつ"
+  }
+}

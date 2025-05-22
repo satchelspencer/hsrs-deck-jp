@@ -1,0 +1,13 @@
+{
+  "_id": "qa3xby46bv",
+  "name": "lightweight-eat",
+  "params": {
+    "iadj": "lightweight",
+    "verb": "eat"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

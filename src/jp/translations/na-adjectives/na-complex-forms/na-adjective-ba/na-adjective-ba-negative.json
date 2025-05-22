@@ -1,0 +1,15 @@
+{
+  "_id": "wqs7zhhzsid",
+  "mode": "c",
+  "name": "na-adjective-ba-negative",
+  "params": {
+    "na": "na-attributive"
+  },
+  "parents": [
+    "na-adjective-ba"
+  ],
+  "props": {
+    "en": "'if not '+na.en",
+    "jp": "na.jp+'じゃなければ '"
+  }
+}

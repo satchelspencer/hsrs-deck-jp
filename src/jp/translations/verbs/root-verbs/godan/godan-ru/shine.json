@@ -1,0 +1,14 @@
+{
+  "_id": "zsprtxd42g",
+  "name": "shine",
+  "order": "3",
+  "parents": [
+    "godan-ru",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "en": "shine",
+    "jp": "光る",
+    "tl": "ひかる"
+  }
+}

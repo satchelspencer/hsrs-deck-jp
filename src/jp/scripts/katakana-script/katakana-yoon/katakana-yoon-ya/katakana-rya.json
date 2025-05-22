@@ -1,0 +1,13 @@
+{
+  "_id": "0gkkxk2n61r",
+  "name": "katakana-rya",
+  "params": {
+    "iis": "katakana-ri"
+  },
+  "parents": [
+    "katakana-yoon-ya"
+  ],
+  "props": {
+    "_tl": "rya"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "_id": "ox0e35z7xi",
+  "name": "katakana-chi",
+  "parents": [
+    "katakana-ts",
+    "katakana-iis"
+  ],
+  "props": {
+    "_tl": "chi",
+    "jp": "チ"
+  }
+}

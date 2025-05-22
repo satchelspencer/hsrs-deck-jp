@@ -1,0 +1,14 @@
+{
+  "_id": "lo88wod7ej",
+  "name": "tea",
+  "order": "1",
+  "parents": [
+    "drinks",
+    "heated-edibles"
+  ],
+  "props": {
+    "en": "tea",
+    "jp": "お茶",
+    "tl": "おちゃ"
+  }
+}

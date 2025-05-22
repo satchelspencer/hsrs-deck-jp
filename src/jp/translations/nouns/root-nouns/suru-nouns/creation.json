@@ -1,0 +1,15 @@
+{
+  "_id": "iihaa7kp19g",
+  "name": "creation",
+  "order": "3",
+  "parents": [
+    "suru-nouns",
+    "people-do",
+    "people-no"
+  ],
+  "props": {
+    "en": "creation",
+    "jp": "誕生",
+    "tl": "たんじょう"
+  }
+}

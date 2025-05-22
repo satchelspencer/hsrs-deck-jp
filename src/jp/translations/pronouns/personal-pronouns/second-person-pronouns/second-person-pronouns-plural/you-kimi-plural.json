@@ -1,0 +1,16 @@
+{
+  "_id": "h3e5v7xwgrn",
+  "mode": "--s",
+  "name": "you-kimi-plural",
+  "params": {
+    "pronoun": "you-kimi"
+  },
+  "parents": [
+    "second-person-pronouns-plural"
+  ],
+  "props": {
+    "en": "you all",
+    "jp": "君たち",
+    "tl": "きみたち"
+  }
+}

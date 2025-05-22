@@ -1,0 +1,11 @@
+{
+  "_id": "lbame2mn44",
+  "name": "first-person-pronouns-singular",
+  "order": "",
+  "parents": [
+    "first-person-pronouns"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

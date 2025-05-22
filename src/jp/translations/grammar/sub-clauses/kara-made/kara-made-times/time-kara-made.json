@@ -1,0 +1,16 @@
+{
+  "_id": "sgf5lpsxjl",
+  "name": "time-kara-made",
+  "order": "3",
+  "params": {
+    "kara": "time-kara",
+    "made": "time-made"
+  },
+  "parents": [
+    "kara-made-times"
+  ],
+  "props": {
+    "en": "kara.en+' '+made.en",
+    "jp": "kara.jp+made.jp"
+  }
+}

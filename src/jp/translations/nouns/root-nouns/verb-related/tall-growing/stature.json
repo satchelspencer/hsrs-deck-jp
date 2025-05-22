@@ -1,0 +1,16 @@
+{
+  "_id": "9l99fdhp5em",
+  "name": "stature",
+  "order": "3",
+  "parents": [
+    "tall-growing",
+    "people-no",
+    "high-low",
+    "attributes"
+  ],
+  "props": {
+    "en": "stature",
+    "jp": "背",
+    "tl": "せ"
+  }
+}

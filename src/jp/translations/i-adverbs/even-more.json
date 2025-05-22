@@ -1,0 +1,13 @@
+{
+  "_id": "hj1u2z5l1kb",
+  "name": "even-more",
+  "order": "3",
+  "parents": [
+    "i-adverbs",
+    "na-adverbs"
+  ],
+  "props": {
+    "en": "even more",
+    "jp": "さらに"
+  }
+}

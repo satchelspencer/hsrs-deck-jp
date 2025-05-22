@@ -1,0 +1,13 @@
+{
+  "_id": "2f3hjertrhe",
+  "name": "quiet-walk",
+  "params": {
+    "na": "quiet",
+    "verb": "walk"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

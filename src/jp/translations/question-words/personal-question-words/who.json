@@ -1,0 +1,13 @@
+{
+  "_id": "0pxunhssy28",
+  "name": "who",
+  "order": "1",
+  "parents": [
+    "personal-question-words"
+  ],
+  "props": {
+    "en": "who",
+    "jp": "誰",
+    "tl": "だれ"
+  }
+}

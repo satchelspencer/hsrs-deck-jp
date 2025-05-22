@@ -1,0 +1,14 @@
+{
+  "_id": "3yew802p0o7",
+  "name": "hiragana-pu",
+  "params": {
+    "h": "hiragana-fu"
+  },
+  "parents": [
+    "hiragana-ps"
+  ],
+  "props": {
+    "_tl": "pu",
+    "jp": "ぷ"
+  }
+}

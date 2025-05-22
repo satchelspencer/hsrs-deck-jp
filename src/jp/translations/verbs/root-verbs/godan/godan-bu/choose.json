@@ -1,0 +1,16 @@
+{
+  "_id": "xbevik8wftf",
+  "name": "choose",
+  "order": "2",
+  "parents": [
+    "godan-bu",
+    "people-do",
+    "do-to-choices",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "en": "choose",
+    "jp": "選ぶ",
+    "tl": "えらぶ"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "_id": "c4payupbilf",
+  "name": "ni-at-activities-verbs",
+  "parents": [
+    "ni-related-verbs"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

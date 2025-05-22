@@ -1,0 +1,15 @@
+{
+  "_id": "trj2jd1sstn",
+  "name": "become-tired",
+  "order": "2",
+  "parents": [
+    "people-do",
+    "te-iru-verbs-state",
+    "ichidan"
+  ],
+  "props": {
+    "en": "become tired",
+    "jp": "疲れる",
+    "tl": "つかれる"
+  }
+}

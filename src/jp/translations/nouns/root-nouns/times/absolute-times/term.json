@@ -1,0 +1,14 @@
+{
+  "_id": "k85w40vck4",
+  "name": "term",
+  "order": "3",
+  "parents": [
+    "absolute-times",
+    "ni-any-times"
+  ],
+  "props": {
+    "en": "term",
+    "jp": "期間",
+    "tl": "きかん"
+  }
+}

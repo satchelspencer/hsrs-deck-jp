@@ -1,0 +1,13 @@
+{
+  "_id": "2qopmcntmg7",
+  "name": "old-become",
+  "params": {
+    "iadj": "old",
+    "verb": "become"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "ml71tyhvpc",
+  "name": "noisy-audibles",
+  "params": {
+    "iadj": "noisy",
+    "noun": "audibles"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "_id": "1gdqn2lfge9",
+  "name": "lesson-prep",
+  "order": "3",
+  "parents": [
+    "suru-nouns",
+    "people-do",
+    "people-no"
+  ],
+  "props": {
+    "en": "lesson prep",
+    "jp": "予習",
+    "tl": "よしゅう"
+  }
+}

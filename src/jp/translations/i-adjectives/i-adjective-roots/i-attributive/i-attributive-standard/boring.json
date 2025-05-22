@@ -1,0 +1,13 @@
+{
+  "_id": "ymnhxn5r17",
+  "name": "boring",
+  "order": "2",
+  "parents": [
+    "i-attributive-standard",
+    "i-people"
+  ],
+  "props": {
+    "en": "boring",
+    "jp": "つまらない"
+  }
+}

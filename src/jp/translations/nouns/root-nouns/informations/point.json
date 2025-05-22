@@ -1,0 +1,13 @@
+{
+  "_id": "7hv2vydb6z6",
+  "name": "point",
+  "order": "3",
+  "parents": [
+    "informations"
+  ],
+  "props": {
+    "en": "dot",
+    "jp": "点",
+    "tl": "てん"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "3ilxyhkhosh",
+  "mode": "cf",
+  "name": "we-femme",
+  "params": {
+    "pronoun": "uchi"
+  },
+  "parents": [
+    "first-person-pronouns-plural"
+  ],
+  "props": {
+    "en": "we",
+    "jp": "うちら",
+    "tl": ""
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "jchbotzfd6",
+  "name": "scarf",
+  "order": "2",
+  "parents": [
+    "headgear",
+    "hangables"
+  ],
+  "props": {
+    "en": "scarf",
+    "jp": "マフラー",
+    "tl": "まふらー"
+  }
+}

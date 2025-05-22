@@ -1,0 +1,13 @@
+{
+  "_id": "9kgqdggz16h",
+  "name": "hardship-people",
+  "params": {
+    "na": "hardship",
+    "noun": "people"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

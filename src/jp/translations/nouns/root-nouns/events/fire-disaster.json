@@ -1,0 +1,13 @@
+{
+  "_id": "9lgg5vu8khe",
+  "name": "fire-disaster",
+  "order": "4",
+  "parents": [
+    "events"
+  ],
+  "props": {
+    "en": "fire disaster",
+    "jp": "火事",
+    "tl": "かじ"
+  }
+}

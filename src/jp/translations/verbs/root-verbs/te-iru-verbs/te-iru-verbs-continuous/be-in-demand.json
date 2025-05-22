@@ -1,0 +1,14 @@
+{
+  "_id": "hexbxw5589",
+  "name": "be-in-demand",
+  "order": "3",
+  "parents": [
+    "te-iru-verbs-continuous",
+    "ichidan"
+  ],
+  "props": {
+    "en": "be in demand",
+    "jp": "売れる",
+    "tl": "うれる"
+  }
+}

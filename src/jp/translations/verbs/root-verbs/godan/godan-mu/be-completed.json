@@ -1,0 +1,15 @@
+{
+  "_id": "c2bfkbhg6i",
+  "name": "be-completed",
+  "order": "3",
+  "parents": [
+    "godan-mu",
+    "activities-do",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "en": "be completed",
+    "jp": "済む",
+    "tl": "すむ"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "yeinf5anhc",
+  "name": "flavor-feel",
+  "params": {
+    "noun": "flavor",
+    "verb": "feel-emotion"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

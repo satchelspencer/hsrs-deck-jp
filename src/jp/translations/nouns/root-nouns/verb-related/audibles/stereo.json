@@ -1,0 +1,13 @@
+{
+  "_id": "wadmbrttb4g",
+  "name": "stereo",
+  "order": "3",
+  "parents": [
+    "audibles"
+  ],
+  "props": {
+    "en": "stereo",
+    "jp": "ステレオ",
+    "tl": "すてれお"
+  }
+}

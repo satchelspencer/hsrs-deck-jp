@@ -1,0 +1,14 @@
+{
+  "_id": "laf02nb884b",
+  "name": "godan-negative-su",
+  "params": {
+    "verb": "godan-su"
+  },
+  "parents": [
+    "godan-negative"
+  ],
+  "props": {
+    "en": null,
+    "jp": "verb.jp|r('す', 'さない')"
+  }
+}

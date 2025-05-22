@@ -1,0 +1,13 @@
+{
+  "_id": "867e93qk1x9",
+  "name": "words-standalone",
+  "params": {
+    "noun": "counter-root-words",
+    "root": "counter-root-words"
+  },
+  "parents": [
+    "standalone-counter-roots"
+  ],
+  "props": {
+  }
+}

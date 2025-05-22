@@ -1,0 +1,13 @@
+{
+  "_id": "28if1334n1ki",
+  "name": "nice-explanation",
+  "params": {
+    "iadj": "nice",
+    "verb": "explanation"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

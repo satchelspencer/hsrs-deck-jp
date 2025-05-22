@@ -1,0 +1,13 @@
+{
+  "_id": "qwiz0ey182",
+  "name": "good-examine",
+  "params": {
+    "iadj": "good",
+    "verb": "examine"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

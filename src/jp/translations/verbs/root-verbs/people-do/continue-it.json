@@ -1,0 +1,16 @@
+{
+  "_id": "57w4jlnofes",
+  "name": "continue-it",
+  "order": "2",
+  "parents": [
+    "people-do",
+    "te-iru-verbs-continuous",
+    "de-location-verbs",
+    "ichidan"
+  ],
+  "props": {
+    "en": "continue it",
+    "jp": "続ける",
+    "tl": "つづける"
+  }
+}

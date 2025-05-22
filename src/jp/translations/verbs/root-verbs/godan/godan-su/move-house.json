@@ -1,0 +1,16 @@
+{
+  "_id": "cotsqfg8vcc",
+  "name": "move-house",
+  "order": "3",
+  "parents": [
+    "godan-su",
+    "people-do",
+    "ni-destination-verbs",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "en": "move house",
+    "jp": "引っ越す",
+    "tl": "ひっこす"
+  }
+}

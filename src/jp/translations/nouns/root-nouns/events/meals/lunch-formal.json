@@ -1,0 +1,14 @@
+{
+  "_id": "0tktarcoqbr",
+  "mode": "p",
+  "name": "lunch-formal",
+  "order": "3",
+  "parents": [
+    "meals"
+  ],
+  "props": {
+    "en": "lunch",
+    "jp": "昼食",
+    "tl": "ちゅうしょく"
+  }
+}

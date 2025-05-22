@@ -1,0 +1,14 @@
+{
+  "_id": "qzt1htve5d8",
+  "name": "strict",
+  "order": "3",
+  "parents": [
+    "i-attributive-standard",
+    "i-people"
+  ],
+  "props": {
+    "en": "strict",
+    "jp": "厳しい",
+    "tl": "きびしい"
+  }
+}

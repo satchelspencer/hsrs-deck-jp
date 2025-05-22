@@ -1,0 +1,13 @@
+{
+  "_id": "e9s9oaeoifb",
+  "name": "good-consider",
+  "params": {
+    "iadj": "good",
+    "verb": "consider"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

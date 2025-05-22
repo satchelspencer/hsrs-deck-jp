@@ -1,0 +1,13 @@
+{
+  "_id": "y79tdi2dyi",
+  "name": "succeed-with-effort",
+  "params": {
+    "noun": "effort",
+    "verb": "success"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

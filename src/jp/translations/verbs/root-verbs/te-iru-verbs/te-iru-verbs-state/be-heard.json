@@ -1,0 +1,14 @@
+{
+  "_id": "zzi3170qgao",
+  "name": "be-heard",
+  "order": "2",
+  "parents": [
+    "te-iru-verbs-state",
+    "ichidan"
+  ],
+  "props": {
+    "en": "be heard",
+    "jp": "聞こえる",
+    "tl": "きこえる"
+  }
+}

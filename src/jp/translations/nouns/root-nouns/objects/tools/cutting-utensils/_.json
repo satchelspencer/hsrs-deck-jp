@@ -1,0 +1,12 @@
+{
+  "_id": "9ia0suwbr1t",
+  "name": "cutting-utensils",
+  "parents": [
+    "tools"
+  ],
+  "props": {
+    "en": null,
+    "jp": null
+  },
+  "virtual": true
+}

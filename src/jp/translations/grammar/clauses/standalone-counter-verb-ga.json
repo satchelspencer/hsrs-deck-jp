@@ -1,0 +1,19 @@
+{
+  "_id": "pg8t0up29ad",
+  "constraint": "noun verb root",
+  "name": "standalone-counter-verb-ga",
+  "order": "2",
+  "params": {
+    "counter": "counters",
+    "form": "verb-forms",
+    "stan": "standalone-counter-roots",
+    "vrel": "noun-ga-verb"
+  },
+  "parents": [
+    "clauses"
+  ],
+  "props": {
+    "en": "counter.en+' '+form.en",
+    "jp": "counter.jp+'が'+form.jp"
+  }
+}

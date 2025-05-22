@@ -1,0 +1,18 @@
+{
+  "_id": "zeygjtv8yoa",
+  "name": "examine",
+  "order": "4",
+  "parents": [
+    "people-do",
+    "do-to-objects",
+    "te-iru-verbs-continuous",
+    "ichidan",
+    "do-to-informations",
+    "info-verbs"
+  ],
+  "props": {
+    "en": "examine",
+    "jp": "調べる",
+    "tl": "しらべる"
+  }
+}

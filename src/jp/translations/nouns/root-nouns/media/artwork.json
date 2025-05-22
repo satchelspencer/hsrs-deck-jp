@@ -1,0 +1,13 @@
+{
+  "_id": "607c5900s5c",
+  "name": "artwork",
+  "order": "3",
+  "parents": [
+    "media"
+  ],
+  "props": {
+    "en": "artwork",
+    "jp": "作品",
+    "tl": "さくひん"
+  }
+}

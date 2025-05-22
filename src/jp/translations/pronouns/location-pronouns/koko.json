@@ -1,0 +1,12 @@
+{
+  "_id": "9j79rurxsnl",
+  "name": "koko",
+  "order": "2",
+  "parents": [
+    "location-pronouns"
+  ],
+  "props": {
+    "en": "here",
+    "jp": "ここ"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "haxxtecjh8",
+  "name": "insect",
+  "order": "3",
+  "parents": [
+    "animals"
+  ],
+  "props": {
+    "en": "insect",
+    "jp": "虫",
+    "tl": "むし"
+  }
+}

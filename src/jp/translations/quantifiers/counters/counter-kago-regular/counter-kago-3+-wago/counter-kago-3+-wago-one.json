@@ -1,0 +1,13 @@
+{
+  "_id": "h929vpdy0tc",
+  "name": "counter-kago-3+-wago-one",
+  "params": {
+    "number": "one"
+  },
+  "parents": [
+    "counter-kago-3+-wago"
+  ],
+  "props": {
+    "tl": "'ひと'+root.tl"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "1roh19e7gxo",
+  "name": "kendama",
+  "order": "3",
+  "parents": [
+    "toys"
+  ],
+  "props": {
+    "en": "kendama",
+    "jp": "けん玉",
+    "tl": "けんだま"
+  }
+}

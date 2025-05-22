@@ -1,0 +1,14 @@
+{
+  "_id": "wp6au0n8zq",
+  "name": "tuna",
+  "order": "2",
+  "parents": [
+    "can-countable",
+    "foods"
+  ],
+  "props": {
+    "en": "tuna",
+    "jp": "ツナ",
+    "tl": "つな"
+  }
+}

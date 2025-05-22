@@ -1,0 +1,13 @@
+{
+  "_id": "iiwqxt9qxh",
+  "name": "bitter-medicine",
+  "params": {
+    "iadj": "bitter",
+    "noun": "medicine"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

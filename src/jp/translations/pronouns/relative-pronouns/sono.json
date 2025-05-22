@@ -1,0 +1,15 @@
+{
+  "_id": "zfp5cltjpss",
+  "name": "sono",
+  "order": "2",
+  "params": {
+    "noun": "seeables"
+  },
+  "parents": [
+    "relative-pronouns"
+  ],
+  "props": {
+    "en": "'that '+noun.en",
+    "jp": "'その'+noun.jp"
+  }
+}

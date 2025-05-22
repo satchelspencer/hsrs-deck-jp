@@ -1,0 +1,13 @@
+{
+  "_id": "4nw692k9zbv",
+  "name": "bright-laugh",
+  "params": {
+    "iadj": "bright",
+    "verb": "laugh"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

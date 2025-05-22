@@ -1,0 +1,13 @@
+{
+  "_id": "vg5cy95lugo",
+  "name": "truth-become-tired",
+  "params": {
+    "na": "truth",
+    "verb": "become-tired"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

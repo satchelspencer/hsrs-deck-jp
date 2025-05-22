@@ -1,0 +1,14 @@
+{
+  "_id": "bt6102cc118",
+  "name": "glove",
+  "order": "2",
+  "parents": [
+    "kumi-countable",
+    "clothing"
+  ],
+  "props": {
+    "en": "glove",
+    "jp": "手袋",
+    "tl": "てぶくろ"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "bi3ae425hsd",
+  "name": "old",
+  "order": "2",
+  "parents": [
+    "i-attributive-standard",
+    "i-objects"
+  ],
+  "props": {
+    "en": "old",
+    "jp": "古い",
+    "tl": "ふるい"
+  }
+}

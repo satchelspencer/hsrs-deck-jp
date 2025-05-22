@@ -1,0 +1,13 @@
+{
+  "_id": "jkxk8a53sad",
+  "name": "next-time",
+  "order": "3",
+  "parents": [
+    "relative-time-exprs"
+  ],
+  "props": {
+    "en": "next time",
+    "jp": "今度",
+    "tl": "こんど"
+  }
+}

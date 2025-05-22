@@ -1,0 +1,15 @@
+{
+  "_id": "wm9nvu1oe0l",
+  "name": "be-sharp",
+  "order": "3",
+  "parents": [
+    "people-do",
+    "te-iru-verbs-state",
+    "ichidan"
+  ],
+  "props": {
+    "en": "be sharp",
+    "jp": "切れる",
+    "tl": "きれる"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "t0fgd396ogb",
+  "constraint": "verb",
+  "name": "command-form-plain",
+  "params": {
+    "rel": "verb-people-do",
+    "verb": "root-verbs"
+  },
+  "parents": [
+    "command-form"
+  ],
+  "props": {
+    "en": "verb.en+'!'"
+  },
+  "virtual": true
+}

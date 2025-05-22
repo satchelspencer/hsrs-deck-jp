@@ -1,0 +1,11 @@
+{
+  "_id": "wtyg685k25f",
+  "name": "akeru-shimeru",
+  "parents": [
+    "openables"
+  ],
+  "props": {
+    "jp": null
+  },
+  "virtual": true
+}

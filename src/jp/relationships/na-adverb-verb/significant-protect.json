@@ -1,0 +1,13 @@
+{
+  "_id": "gocw27alf9t",
+  "name": "significant-protect",
+  "params": {
+    "na": "significant",
+    "verb": "protect"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

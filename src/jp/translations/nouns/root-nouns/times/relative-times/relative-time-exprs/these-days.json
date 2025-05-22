@@ -1,0 +1,12 @@
+{
+  "_id": "2d36jhum2w4",
+  "name": "these-days",
+  "order": "3",
+  "parents": [
+    "relative-time-exprs"
+  ],
+  "props": {
+    "en": "these days",
+    "jp": "このごろ"
+  }
+}

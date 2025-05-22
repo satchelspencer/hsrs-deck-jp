@@ -1,0 +1,18 @@
+{
+  "_id": "mqn0gla8km",
+  "constraint": "verb iadj",
+  "name": "i-adverb-ku-verb",
+  "order": "2",
+  "params": {
+    "form": "verb-forms",
+    "ku": "i-adjective-ku",
+    "rel": "i-adverb-verb"
+  },
+  "parents": [
+    "clauses"
+  ],
+  "props": {
+    "en": "ku.en+' '+form.en",
+    "jp": "ku.jp+form.jp"
+  }
+}

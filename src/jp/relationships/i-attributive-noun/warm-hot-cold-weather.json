@@ -1,0 +1,13 @@
+{
+  "_id": "gm6wk8wyc",
+  "name": "warm-hot-cold-weather",
+  "params": {
+    "iadj": "warm",
+    "noun": "hot-cold-weather"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

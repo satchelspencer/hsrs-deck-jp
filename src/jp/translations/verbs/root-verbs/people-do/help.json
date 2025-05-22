@@ -1,0 +1,15 @@
+{
+  "_id": "fgmalw3c2om",
+  "name": "help",
+  "order": "1",
+  "parents": [
+    "people-do",
+    "do-to-animals",
+    "ichidan"
+  ],
+  "props": {
+    "en": "help",
+    "jp": "助ける",
+    "tl": "たすける"
+  }
+}

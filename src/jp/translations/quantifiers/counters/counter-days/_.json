@@ -1,0 +1,17 @@
+{
+  "_id": "cgqx7n6ymlp",
+  "name": "counter-days",
+  "order": "2",
+  "params": {
+    "root": "day-of-the-month"
+  },
+  "parents": [
+    "counters",
+    "time-amounts"
+  ],
+  "props": {
+    "en": "number.en+' days'",
+    "jp": "number.jp+'日'"
+  },
+  "virtual": true
+}

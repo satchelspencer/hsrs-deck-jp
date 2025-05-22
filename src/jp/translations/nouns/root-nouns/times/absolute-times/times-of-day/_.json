@@ -1,0 +1,13 @@
+{
+  "_id": "o3zknxdqdmn",
+  "name": "times-of-day",
+  "order": "",
+  "parents": [
+    "absolute-times",
+    "hot-cold-weather",
+    "ni-any-times"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

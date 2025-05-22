@@ -1,0 +1,15 @@
+{
+  "_id": "967cx53tfv",
+  "name": "sit",
+  "order": "1",
+  "parents": [
+    "godan-ru",
+    "people-do",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "en": "sit",
+    "jp": "座る",
+    "tl": "すわる"
+  }
+}

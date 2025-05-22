@@ -1,0 +1,12 @@
+{
+  "_id": "rz84e18nij",
+  "name": "slowly",
+  "order": "3",
+  "parents": [
+    "verb-adverbs"
+  ],
+  "props": {
+    "en": "slowly",
+    "jp": "ゆっくり"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "m3bwbt69m6i",
+  "name": "straight-sit",
+  "params": {
+    "na": "straight",
+    "verb": "sit"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

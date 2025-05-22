@@ -1,0 +1,13 @@
+{
+  "_id": "wei2o1hcsin",
+  "name": "painful",
+  "order": "2",
+  "parents": [
+    "i-attributive-standard"
+  ],
+  "props": {
+    "en": "painful",
+    "jp": "痛い",
+    "tl": "いたい"
+  }
+}

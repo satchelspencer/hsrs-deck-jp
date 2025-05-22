@@ -1,0 +1,15 @@
+{
+  "_id": "bt94gk961zh",
+  "name": "people",
+  "parents": [
+    "root-nouns",
+    "audibles",
+    "tippable",
+    "seeables",
+    "good-bads",
+    "iruables"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

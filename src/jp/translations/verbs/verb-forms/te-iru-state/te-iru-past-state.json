@@ -1,0 +1,12 @@
+{
+  "_id": "2a3iut2al44",
+  "mode": "c",
+  "name": "te-iru-past-state",
+  "parents": [
+    "te-iru-state"
+  ],
+  "props": {
+    "en": "'was '+te.en|r(' and','')+'-ed'",
+    "jp": "te.jp+'いた'"
+  }
+}

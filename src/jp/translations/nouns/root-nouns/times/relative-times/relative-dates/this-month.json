@@ -1,0 +1,14 @@
+{
+  "_id": "u4p5wd0fx",
+  "name": "this-month",
+  "order": "1",
+  "parents": [
+    "relative-dates",
+    "ni-any-times"
+  ],
+  "props": {
+    "en": "this month",
+    "jp": "今月",
+    "tl": "こんげつ"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "7kkby4melce",
+  "name": "safety-use",
+  "params": {
+    "na": "safety",
+    "verb": "use"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

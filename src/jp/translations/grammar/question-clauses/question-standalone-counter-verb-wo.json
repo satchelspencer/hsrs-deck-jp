@@ -1,0 +1,19 @@
+{
+  "_id": "5pfcfsrdfnf",
+  "constraint": "noun verb root",
+  "name": "question-standalone-counter-verb-wo",
+  "order": "2",
+  "params": {
+    "counter": "counter-questions",
+    "cr": "standalone-counter-roots",
+    "form": "verb-ka",
+    "vrel": "noun-wo-verb"
+  },
+  "parents": [
+    "question-clauses"
+  ],
+  "props": {
+    "en": "form.en+' '+counter.en",
+    "jp": "counter.jp+'を'+form.jp"
+  }
+}

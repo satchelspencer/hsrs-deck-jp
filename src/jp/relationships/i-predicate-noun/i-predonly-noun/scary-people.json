@@ -1,0 +1,13 @@
+{
+  "_id": "n8enbubgvs",
+  "name": "scary-people",
+  "params": {
+    "iadj": "scary",
+    "noun": "people"
+  },
+  "parents": [
+    "i-predonly-noun"
+  ],
+  "props": {
+  }
+}

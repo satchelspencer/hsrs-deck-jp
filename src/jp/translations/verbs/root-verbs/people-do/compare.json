@@ -1,0 +1,15 @@
+{
+  "_id": "8t036sxi4tj",
+  "name": "compare",
+  "order": "2",
+  "parents": [
+    "people-do",
+    "te-iru-verbs-continuous",
+    "ichidan"
+  ],
+  "props": {
+    "en": "compare",
+    "jp": "比べる",
+    "tl": "くらべる"
+  }
+}

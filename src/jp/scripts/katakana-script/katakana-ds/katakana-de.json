@@ -1,0 +1,14 @@
+{
+  "_id": "3sv1kar6kmx",
+  "name": "katakana-de",
+  "params": {
+    "t": "katakana-te"
+  },
+  "parents": [
+    "katakana-ds"
+  ],
+  "props": {
+    "_tl": "de",
+    "jp": "デ"
+  }
+}

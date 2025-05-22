@@ -1,0 +1,14 @@
+{
+  "_id": "0dmn319xlv4u",
+  "name": "be-turned-off",
+  "order": "2",
+  "parents": [
+    "te-iru-verbs-state",
+    "ichidan"
+  ],
+  "props": {
+    "en": "be turned off",
+    "jp": "消える",
+    "tl": "きえる"
+  }
+}

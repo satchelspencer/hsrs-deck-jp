@@ -1,0 +1,13 @@
+{
+  "_id": "iu2z55b70mf",
+  "name": "truth-go",
+  "params": {
+    "na": "truth",
+    "verb": "go"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

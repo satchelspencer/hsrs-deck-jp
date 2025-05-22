@@ -1,0 +1,14 @@
+{
+  "_id": "e64ef6u8p1f",
+  "name": "sometimes",
+  "order": "1",
+  "parents": [
+    "continuing-times",
+    "verb-adverbs"
+  ],
+  "props": {
+    "en": "sometimes",
+    "jp": "時々",
+    "tl": "ときどき"
+  }
+}

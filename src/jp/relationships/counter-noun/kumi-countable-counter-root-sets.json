@@ -1,0 +1,13 @@
+{
+  "_id": "hv1pt0ivj0v",
+  "name": "kumi-countable-counter-root-sets",
+  "params": {
+    "noun": "kumi-countable",
+    "root": "counter-root-sets"
+  },
+  "parents": [
+    "counter-noun"
+  ],
+  "props": {
+  }
+}

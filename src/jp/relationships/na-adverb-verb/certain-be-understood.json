@@ -1,0 +1,13 @@
+{
+  "_id": "hr2a9b75hsl",
+  "name": "certain-be-understood",
+  "params": {
+    "na": "certain",
+    "verb": "be-understood"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

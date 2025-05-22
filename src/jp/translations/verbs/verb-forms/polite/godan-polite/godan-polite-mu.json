@@ -1,0 +1,14 @@
+{
+  "_id": "kfbcdmtyiq9",
+  "name": "godan-polite-mu",
+  "params": {
+    "verb": "godan-mu"
+  },
+  "parents": [
+    "godan-polite"
+  ],
+  "props": {
+    "en": null,
+    "jp": "verb.jp|r('む', 'みます')"
+  }
+}

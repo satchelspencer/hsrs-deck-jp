@@ -1,0 +1,16 @@
+{
+  "_id": "owph587pj8",
+  "name": "arrive",
+  "order": "2",
+  "parents": [
+    "godan-ku",
+    "movers-do",
+    "ni-destination-verbs",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "en": "arrive",
+    "jp": "着く",
+    "tl": "つく"
+  }
+}

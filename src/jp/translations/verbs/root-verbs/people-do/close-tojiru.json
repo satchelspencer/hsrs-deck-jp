@@ -1,0 +1,16 @@
+{
+  "_id": "fp5w5sefc4f",
+  "name": "close-tojiru",
+  "order": "2",
+  "parents": [
+    "people-do",
+    "do-to-hiraku-tojiru",
+    "te-iru-verbs-continuous",
+    "ichidan"
+  ],
+  "props": {
+    "en": "shut it",
+    "jp": "閉じる",
+    "tl": "とじる"
+  }
+}

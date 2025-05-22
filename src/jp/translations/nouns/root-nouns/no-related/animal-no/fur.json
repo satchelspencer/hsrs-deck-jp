@@ -1,0 +1,14 @@
+{
+  "_id": "9tg5nssuxlt",
+  "name": "fur",
+  "order": "3",
+  "parents": [
+    "animal-no",
+    "hard-softs"
+  ],
+  "props": {
+    "en": "fur",
+    "jp": "毛",
+    "tl": "け"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "ge7ov6psjak",
+  "name": "drinks-be-overflowing",
+  "params": {
+    "noun": "drinks",
+    "verb": "be-overflowing"
+  },
+  "parents": [
+    "noun-ga-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "_id": "2b9au29xl3r",
+  "name": "spot",
+  "order": "2",
+  "parents": [
+    "choosables",
+    "kashou-countable",
+    "absolute-places"
+  ],
+  "props": {
+    "en": "spot",
+    "jp": "場所",
+    "tl": "ばしょ"
+  }
+}

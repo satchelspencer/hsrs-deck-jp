@@ -1,0 +1,13 @@
+{
+  "_id": "u5zehhllz8",
+  "name": "hallway",
+  "order": "2",
+  "parents": [
+    "spaces"
+  ],
+  "props": {
+    "en": "hallway",
+    "jp": "廊下",
+    "tl": "ろうか"
+  }
+}

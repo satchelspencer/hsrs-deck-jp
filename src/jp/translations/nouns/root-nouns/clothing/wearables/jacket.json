@@ -1,0 +1,13 @@
+{
+  "_id": "oy5ls0ni3p",
+  "name": "jacket",
+  "order": "2",
+  "parents": [
+    "wearables"
+  ],
+  "props": {
+    "en": "jacket",
+    "jp": "上着",
+    "tl": "うわぎ"
+  }
+}

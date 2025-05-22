@@ -1,0 +1,13 @@
+{
+  "_id": "t6qp18j8d78",
+  "name": "nice-touch",
+  "params": {
+    "iadj": "nice",
+    "verb": "touch"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

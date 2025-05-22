@@ -1,0 +1,16 @@
+{
+  "_id": "xpsc4t918ul",
+  "name": "exercise",
+  "order": "1",
+  "parents": [
+    "suru-nouns",
+    "people-do",
+    "te-iru-verbs-continuous",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "exercise",
+    "jp": "運動",
+    "tl": "うんどう"
+  }
+}

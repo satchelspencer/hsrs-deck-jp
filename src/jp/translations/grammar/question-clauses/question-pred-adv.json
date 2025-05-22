@@ -1,0 +1,17 @@
+{
+  "_id": "92hypw3yf2w",
+  "name": "question-pred-adv",
+  "order": "2",
+  "params": {
+    "ka": "noun-ka",
+    "qw": "pred-adv-question-words"
+  },
+  "parents": [
+    "question-clauses"
+  ],
+  "props": {
+    "en": "qw.en+' '+ka.en",
+    "jp": "ka.jp|rg(ka.form.noun.jp,ka.form.noun.jp+'は'+qw.jp)",
+    "tl": "ka.tl|rg(ka.form.noun.tl,ka.form.noun.tl+'わ'+qw.tl)"
+  }
+}

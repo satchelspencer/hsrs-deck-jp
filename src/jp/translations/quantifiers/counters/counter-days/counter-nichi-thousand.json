@@ -1,0 +1,13 @@
+{
+  "_id": "kzemr32qf6",
+  "name": "counter-nichi-thousand",
+  "params": {
+    "number": "thousand"
+  },
+  "parents": [
+    "counter-days"
+  ],
+  "props": {
+    "tl": "せん~にち"
+  }
+}

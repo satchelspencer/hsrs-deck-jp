@@ -1,0 +1,13 @@
+{
+  "_id": "axx6oqqjqb",
+  "name": "needed-consumables",
+  "params": {
+    "na": "needed",
+    "noun": "quantities"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

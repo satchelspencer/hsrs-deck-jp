@@ -1,0 +1,13 @@
+{
+  "_id": "3jio6ofawli",
+  "name": "katakana-mya",
+  "params": {
+    "iis": "katakana-mi"
+  },
+  "parents": [
+    "katakana-yoon-ya"
+  ],
+  "props": {
+    "_tl": "mya"
+  }
+}

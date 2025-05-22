@@ -1,0 +1,13 @@
+{
+  "_id": "2w63kjf1b5",
+  "name": "fun-eat",
+  "params": {
+    "iadj": "fun",
+    "verb": "eat"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

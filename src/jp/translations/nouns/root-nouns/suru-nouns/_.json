@@ -1,0 +1,14 @@
+{
+  "_id": "shd61rj6iy",
+  "name": "suru-nouns",
+  "parents": [
+    "root-nouns",
+    "root-verbs",
+    "easy-hard"
+  ],
+  "props": {
+    "en": null,
+    "jp": null
+  },
+  "virtual": true
+}

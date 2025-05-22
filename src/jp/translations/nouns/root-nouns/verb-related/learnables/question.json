@@ -1,0 +1,14 @@
+{
+  "_id": "klpdt05k",
+  "name": "question",
+  "order": "2",
+  "parents": [
+    "learnables",
+    "choosables"
+  ],
+  "props": {
+    "en": "question",
+    "jp": "質問",
+    "tl": "しつもん"
+  }
+}

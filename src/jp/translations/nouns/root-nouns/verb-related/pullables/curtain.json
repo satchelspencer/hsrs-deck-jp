@@ -1,0 +1,16 @@
+{
+  "_id": "mj4g5c57qbn",
+  "name": "curtain",
+  "order": "3",
+  "parents": [
+    "pullables",
+    "products",
+    "akeru-shimeru",
+    "hangables"
+  ],
+  "props": {
+    "en": "curtain",
+    "jp": "カーテン",
+    "tl": "かーてん"
+  }
+}

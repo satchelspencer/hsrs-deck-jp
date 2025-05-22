@@ -1,0 +1,14 @@
+{
+  "_id": "wvujt8k5qsj",
+  "name": "godan-polite-tsu",
+  "params": {
+    "verb": "godan-tsu"
+  },
+  "parents": [
+    "godan-polite"
+  ],
+  "props": {
+    "en": null,
+    "jp": "verb.jp|r('つ', 'ちます')"
+  }
+}

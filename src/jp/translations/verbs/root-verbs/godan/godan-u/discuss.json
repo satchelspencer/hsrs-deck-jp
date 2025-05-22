@@ -1,0 +1,19 @@
+{
+  "_id": "1ow3ilbogsa",
+  "name": "discuss",
+  "order": "3",
+  "parents": [
+    "godan-u",
+    "people-do",
+    "do-to-choices",
+    "do-to-learnables",
+    "te-iru-verbs-continuous",
+    "de-location-verbs",
+    "do-with-languages"
+  ],
+  "props": {
+    "en": "discuss",
+    "jp": "話し合う",
+    "tl": "はなしあう"
+  }
+}

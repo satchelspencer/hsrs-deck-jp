@@ -1,0 +1,17 @@
+{
+  "_id": "4u1jsa8853c",
+  "constraint": "verb form",
+  "name": "ni-at-ga",
+  "order": "2",
+  "params": {
+    "ga": "noun-ga-sub",
+    "ni": "noun-ni-at"
+  },
+  "parents": [
+    "clauses"
+  ],
+  "props": {
+    "en": "'at the '+ni.rel.noun.en+', '+ga.en",
+    "jp": "ni.rel.noun.jp+'に'+ga.jp"
+  }
+}

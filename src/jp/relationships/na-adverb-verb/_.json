@@ -1,0 +1,14 @@
+{
+  "_id": "7ndse53ciwr",
+  "name": "na-adverb-verb",
+  "params": {
+    "na": "na-attributive",
+    "verb": "root-verbs"
+  },
+  "parents": [
+    "relationships"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

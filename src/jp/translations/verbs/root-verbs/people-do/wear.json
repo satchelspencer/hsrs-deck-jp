@@ -1,0 +1,17 @@
+{
+  "_id": "qcastx84kf",
+  "name": "wear",
+  "order": "1",
+  "parents": [
+    "people-do",
+    "do-to-clothing",
+    "te-iru-verbs-state",
+    "de-location-verbs",
+    "ichidan"
+  ],
+  "props": {
+    "en": "wear",
+    "jp": "着る",
+    "tl": "きる"
+  }
+}

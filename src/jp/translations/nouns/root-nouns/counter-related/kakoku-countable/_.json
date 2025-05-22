@@ -1,0 +1,10 @@
+{
+  "_id": "qgamst5yh58",
+  "name": "kakoku-countable",
+  "parents": [
+    "counter-related"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "p392g844fkc",
+  "name": "sufficient-studies",
+  "params": {
+    "na": "sufficient",
+    "verb": "studies"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

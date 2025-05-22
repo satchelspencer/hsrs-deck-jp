@@ -1,0 +1,13 @@
+{
+  "_id": "6u9fyz82o8k",
+  "name": "sky-be-cleared-up",
+  "params": {
+    "noun": "sky",
+    "verb": "be-cleared-up"
+  },
+  "parents": [
+    "noun-ga-verb"
+  ],
+  "props": {
+  }
+}

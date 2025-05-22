@@ -1,0 +1,13 @@
+{
+  "_id": "ftjwo58eaxl",
+  "mode": "c",
+  "name": "kocchi",
+  "order": "2",
+  "parents": [
+    "direction-pronouns"
+  ],
+  "props": {
+    "en": "this way",
+    "jp": "こっち"
+  }
+}

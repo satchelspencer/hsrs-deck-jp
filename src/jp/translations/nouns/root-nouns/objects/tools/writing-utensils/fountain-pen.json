@@ -1,0 +1,13 @@
+{
+  "_id": "pl06isrg52l",
+  "name": "fountain-pen",
+  "order": "3",
+  "parents": [
+    "writing-utensils"
+  ],
+  "props": {
+    "en": "fountain pen",
+    "jp": "万年筆",
+    "tl": "まんねんひつ"
+  }
+}

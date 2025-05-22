@@ -1,0 +1,11 @@
+{
+  "_id": "rulvb5ueca",
+  "name": "ingredients",
+  "parents": [
+    "edibles",
+    "divisible"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "suns0erqecg",
+  "name": "godan-polite-ru",
+  "params": {
+    "verb": "godan-ru"
+  },
+  "parents": [
+    "godan-polite"
+  ],
+  "props": {
+    "en": null,
+    "jp": "verb.jp|r('る', 'ります')"
+  }
+}

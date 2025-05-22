@@ -1,0 +1,13 @@
+{
+  "_id": "f4ys49z1hig",
+  "name": "chicken-meat",
+  "order": "2",
+  "parents": [
+    "foods"
+  ],
+  "props": {
+    "en": "chicken meat",
+    "jp": "鶏肉",
+    "tl": "とりにく"
+  }
+}

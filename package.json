@@ -1,0 +1,16 @@
+{
+  "name": "hsrs-deck-jp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/satchelspencer/hsrs-deck-jp.git",
+  "author": "satchelspencer <satchelspencer@gmail.com>",
+  "license": "GPL-3.0-only",
+  "scripts": {
+    "build": "hsrs-export ./dist/jp.decsk.json ./src",
+    "import-deck": "hsrs-import ./src",
+    "postinstall": "yarn build"
+  },
+  "dependencies": {
+    "hsrs-deck-utils": "^1.0.1"
+  }
+}

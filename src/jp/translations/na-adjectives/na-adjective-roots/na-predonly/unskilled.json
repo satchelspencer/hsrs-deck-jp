@@ -1,0 +1,13 @@
+{
+  "_id": "tpjjqycxji",
+  "name": "unskilled",
+  "order": "2",
+  "parents": [
+    "na-predonly"
+  ],
+  "props": {
+    "en": "unskilled",
+    "jp": "下手",
+    "tl": "へた"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "1zjyksqlq3a",
+  "name": "hill",
+  "order": "3",
+  "parents": [
+    "climbables",
+    "ascendables"
+  ],
+  "props": {
+    "en": "hill",
+    "jp": "坂",
+    "tl": "さか"
+  }
+}

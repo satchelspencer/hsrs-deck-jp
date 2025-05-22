@@ -1,0 +1,13 @@
+{
+  "_id": "50mq0qlop5d",
+  "name": "hot-weather",
+  "order": "1",
+  "parents": [
+    "i-attributive-standard"
+  ],
+  "props": {
+    "en": "hot",
+    "jp": "暑い",
+    "tl": "あつい"
+  }
+}

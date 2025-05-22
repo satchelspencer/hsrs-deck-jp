@@ -1,0 +1,18 @@
+{
+  "_id": "m3al4rfd5bl",
+  "mode": "c",
+  "name": "noun-da",
+  "order": "1",
+  "params": {
+    "noun": "root-nouns"
+  },
+  "parents": [
+    "noun-forms",
+    "yo-noun-forms",
+    "conjunctive-noun-forms"
+  ],
+  "props": {
+    "en": "'is '+noun.en",
+    "jp": "noun.jp+'だ'"
+  }
+}

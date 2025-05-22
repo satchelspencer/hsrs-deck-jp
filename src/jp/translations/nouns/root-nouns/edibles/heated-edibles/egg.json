@@ -1,0 +1,15 @@
+{
+  "_id": "aowvms6m4fu",
+  "name": "egg",
+  "order": "2",
+  "parents": [
+    "heated-edibles",
+    "ko-countable",
+    "roastables"
+  ],
+  "props": {
+    "en": "egg",
+    "jp": "卵",
+    "tl": "たまご"
+  }
+}

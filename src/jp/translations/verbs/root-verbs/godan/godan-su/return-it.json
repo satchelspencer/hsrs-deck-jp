@@ -1,0 +1,19 @@
+{
+  "_id": "r0dodufbc7",
+  "name": "return-it",
+  "order": "2",
+  "parents": [
+    "godan-su",
+    "people-do",
+    "do-to-objects",
+    "he-related-verbs",
+    "ni-person-verbs",
+    "te-iru-verbs-state",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "return it",
+    "jp": "返す",
+    "tl": "かえす"
+  }
+}

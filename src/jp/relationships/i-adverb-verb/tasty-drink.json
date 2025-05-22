@@ -1,0 +1,13 @@
+{
+  "_id": "72z0fh1e6ob",
+  "name": "tasty-drink",
+  "params": {
+    "iadj": "tasty",
+    "verb": "drink"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

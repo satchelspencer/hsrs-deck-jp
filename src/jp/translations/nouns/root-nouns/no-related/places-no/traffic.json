@@ -1,0 +1,14 @@
+{
+  "_id": "a67q0u0iyi",
+  "name": "traffic",
+  "order": "3",
+  "parents": [
+    "places-no",
+    "good-bads"
+  ],
+  "props": {
+    "en": "traffic",
+    "jp": "交通",
+    "tl": "こうつう"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "8t1ria2sagc",
+  "name": "camera",
+  "order": "2",
+  "parents": [
+    "electrics"
+  ],
+  "props": {
+    "en": "camera",
+    "jp": "カメラ",
+    "tl": "かめら"
+  }
+}

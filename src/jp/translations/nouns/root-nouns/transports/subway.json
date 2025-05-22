@@ -1,0 +1,13 @@
+{
+  "_id": "9831sevhtt8",
+  "name": "subway",
+  "order": "2",
+  "parents": [
+    "transports"
+  ],
+  "props": {
+    "en": "subway",
+    "jp": "地下鉄",
+    "tl": "ちかてつ"
+  }
+}

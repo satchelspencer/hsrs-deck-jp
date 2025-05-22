@@ -1,0 +1,13 @@
+{
+  "_id": "9m037bnw0g7",
+  "name": "fork",
+  "order": "2",
+  "parents": [
+    "eating-utensils",
+    "products"
+  ],
+  "props": {
+    "en": "fork",
+    "jp": "フォーク"
+  }
+}

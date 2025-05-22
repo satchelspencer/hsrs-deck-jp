@@ -1,0 +1,14 @@
+{
+  "_id": "d1pcm16f7sp",
+  "name": "heating",
+  "order": "3",
+  "parents": [
+    "electrics",
+    "suru-nouns"
+  ],
+  "props": {
+    "en": "heating",
+    "jp": "暖房",
+    "tl": "だんぼう"
+  }
+}

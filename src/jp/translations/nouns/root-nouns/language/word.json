@@ -1,0 +1,14 @@
+{
+  "_id": "lxxiesj06gk",
+  "name": "word",
+  "order": "3",
+  "parents": [
+    "language",
+    "learnables"
+  ],
+  "props": {
+    "en": "word",
+    "jp": "言葉",
+    "tl": "ことば"
+  }
+}

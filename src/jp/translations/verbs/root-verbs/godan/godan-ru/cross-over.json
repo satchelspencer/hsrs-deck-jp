@@ -1,0 +1,17 @@
+{
+  "_id": "h0t9jr9g5v5",
+  "name": "cross-over",
+  "order": "3",
+  "parents": [
+    "godan-ru",
+    "people-do",
+    "do-to-paths",
+    "ni-destination-verbs",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "cross over",
+    "jp": "渡る",
+    "tl": "わたる"
+  }
+}

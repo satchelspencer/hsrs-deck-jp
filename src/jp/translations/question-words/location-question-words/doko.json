@@ -1,0 +1,12 @@
+{
+  "_id": "oorxzowbv8",
+  "name": "doko",
+  "order": "1",
+  "parents": [
+    "location-question-words"
+  ],
+  "props": {
+    "en": "where",
+    "jp": "どこ"
+  }
+}

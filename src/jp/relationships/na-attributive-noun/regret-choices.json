@@ -1,0 +1,13 @@
+{
+  "_id": "jmnssaz8k4m",
+  "name": "regret-choices",
+  "params": {
+    "na": "regret",
+    "noun": "choosables"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

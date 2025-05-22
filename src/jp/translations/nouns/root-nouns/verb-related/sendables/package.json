@@ -1,0 +1,13 @@
+{
+  "_id": "azy2nzqviva",
+  "name": "package",
+  "order": "2",
+  "parents": [
+    "sendables"
+  ],
+  "props": {
+    "en": "package",
+    "jp": "荷物",
+    "tl": "にもつ"
+  }
+}

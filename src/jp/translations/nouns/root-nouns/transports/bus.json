@@ -1,0 +1,12 @@
+{
+  "_id": "0skeggrrn0wa",
+  "name": "bus",
+  "order": "1",
+  "parents": [
+    "transports"
+  ],
+  "props": {
+    "en": "bus",
+    "jp": "バス"
+  }
+}

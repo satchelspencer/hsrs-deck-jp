@@ -1,0 +1,13 @@
+{
+  "_id": "udk98bncmd",
+  "name": "method",
+  "order": "3",
+  "parents": [
+    "choosables"
+  ],
+  "props": {
+    "en": "method",
+    "jp": "方法",
+    "tl": "ほうほう"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "tpyoyslbc1",
+  "name": "fat-body-parts",
+  "params": {
+    "iadj": "fat",
+    "noun": "body-parts"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "2jrrqcecg9m",
+  "name": "kilogram",
+  "order": "3",
+  "parents": [
+    "units"
+  ],
+  "props": {
+    "en": "kilogram",
+    "jp": "キログラム",
+    "tl": "きろぐらむ"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "se379s5smsb",
+  "name": "party",
+  "order": "2",
+  "parents": [
+    "events",
+    "activities"
+  ],
+  "props": {
+    "en": "party",
+    "jp": "パーティー"
+  }
+}

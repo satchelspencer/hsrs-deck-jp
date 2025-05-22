@@ -1,0 +1,17 @@
+{
+  "_id": "zt2nprxg5le",
+  "constraint": "iadj",
+  "name": "pronoun-i-adj-pred",
+  "order": "1",
+  "params": {
+    "iform": "i-predicate-forms",
+    "rel": "i-predicate-pronoun"
+  },
+  "parents": [
+    "pronoun-clauses"
+  ],
+  "props": {
+    "en": "rel.pn.en+' '+iform.en",
+    "jp": "rel.pn.jp+'が'+iform.jp"
+  }
+}

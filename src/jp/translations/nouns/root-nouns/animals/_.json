@@ -1,0 +1,13 @@
+{
+  "_id": "mn0b2nsaog",
+  "name": "animals",
+  "parents": [
+    "root-nouns",
+    "audibles",
+    "seeables",
+    "iruables"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

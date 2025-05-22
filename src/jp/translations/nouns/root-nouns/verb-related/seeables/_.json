@@ -1,0 +1,12 @@
+{
+  "_id": "4hvgkif44vl",
+  "name": "seeables",
+  "parents": [
+    "verb-related"
+  ],
+  "props": {
+    "en": null,
+    "jp": null
+  },
+  "virtual": true
+}

@@ -1,0 +1,12 @@
+{
+  "_id": "jbegyt3cd6",
+  "name": "objects",
+  "parents": [
+    "root-nouns",
+    "hot-cold-touch",
+    "seeables"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

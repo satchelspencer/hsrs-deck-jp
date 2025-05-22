@@ -1,0 +1,13 @@
+{
+  "_id": "yd6rxx0gmf9",
+  "name": "sweater",
+  "order": "1",
+  "parents": [
+    "wearables"
+  ],
+  "props": {
+    "en": "sweater",
+    "jp": "セーター",
+    "tl": "せーたー"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "_id": "wajspiut4j",
+  "name": "pronoun-temporal-verb-clauses",
+  "parents": [
+    "pronoun-clauses"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

@@ -1,0 +1,10 @@
+{
+  "_id": "xqy64k900j",
+  "name": "i-people",
+  "parents": [
+    "i-attributive-standard"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

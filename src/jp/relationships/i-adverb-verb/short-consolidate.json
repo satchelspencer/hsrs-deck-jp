@@ -1,0 +1,13 @@
+{
+  "_id": "lhaqmn2kdae",
+  "name": "short-consolidate",
+  "params": {
+    "iadj": "short",
+    "verb": "consolidate"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

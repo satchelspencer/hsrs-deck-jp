@@ -1,0 +1,13 @@
+{
+  "_id": "w073nfdpmm",
+  "name": "low-see",
+  "params": {
+    "iadj": "low",
+    "verb": "see"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

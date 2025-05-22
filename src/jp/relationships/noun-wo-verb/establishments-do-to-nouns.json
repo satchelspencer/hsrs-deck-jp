@@ -1,0 +1,13 @@
+{
+  "_id": "l8cnw56klbf",
+  "name": "establishments-do-to-nouns",
+  "params": {
+    "noun": "establishments",
+    "verb": "do-to-establishments"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

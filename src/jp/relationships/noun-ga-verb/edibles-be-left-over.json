@@ -1,0 +1,13 @@
+{
+  "_id": "8b7u2x8hfkh",
+  "name": "edibles-be-left-over",
+  "params": {
+    "noun": "edibles",
+    "verb": "be-left-over"
+  },
+  "parents": [
+    "noun-ga-verb"
+  ],
+  "props": {
+  }
+}

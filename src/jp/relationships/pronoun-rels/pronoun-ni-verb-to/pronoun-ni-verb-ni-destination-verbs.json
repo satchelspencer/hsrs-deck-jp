@@ -1,0 +1,13 @@
+{
+  "_id": "p61ge7jkf3",
+  "name": "pronoun-ni-verb-ni-destination-verbs",
+  "params": {
+    "pn": "location-pronouns",
+    "verb": "ni-destination-verbs"
+  },
+  "parents": [
+    "pronoun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

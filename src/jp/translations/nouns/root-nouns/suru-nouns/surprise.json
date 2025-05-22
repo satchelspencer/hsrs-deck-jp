@@ -1,0 +1,13 @@
+{
+  "_id": "egvgkg225oj",
+  "name": "surprise",
+  "order": "3",
+  "parents": [
+    "suru-nouns",
+    "people-do"
+  ],
+  "props": {
+    "en": "surprise",
+    "jp": "びっくり"
+  }
+}

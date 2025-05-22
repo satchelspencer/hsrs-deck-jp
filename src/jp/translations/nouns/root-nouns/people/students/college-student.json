@@ -1,0 +1,13 @@
+{
+  "_id": "rsq2z3wbpll",
+  "name": "college-student",
+  "order": "2",
+  "parents": [
+    "students"
+  ],
+  "props": {
+    "en": "college student",
+    "jp": "大学生",
+    "tl": "だいがくせい"
+  }
+}

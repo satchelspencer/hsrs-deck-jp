@@ -1,0 +1,12 @@
+{
+  "_id": "tm6vwumjipn",
+  "name": "golf",
+  "order": "2",
+  "parents": [
+    "activities"
+  ],
+  "props": {
+    "en": "golf",
+    "jp": "ゴルフ"
+  }
+}

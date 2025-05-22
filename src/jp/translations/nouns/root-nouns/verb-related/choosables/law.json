@@ -1,0 +1,16 @@
+{
+  "_id": "zkpw6v8nyt",
+  "name": "law",
+  "order": "3",
+  "parents": [
+    "choosables",
+    "protectables",
+    "learnables",
+    "writeables"
+  ],
+  "props": {
+    "en": "law",
+    "jp": "法律",
+    "tl": "ほうりつ"
+  }
+}

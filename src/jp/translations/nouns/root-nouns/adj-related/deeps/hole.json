@@ -1,0 +1,13 @@
+{
+  "_id": "i1rk76xzxag",
+  "name": "hole",
+  "order": "3",
+  "parents": [
+    "deeps"
+  ],
+  "props": {
+    "en": "hole",
+    "jp": "穴",
+    "tl": "あな"
+  }
+}

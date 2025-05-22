@@ -1,0 +1,11 @@
+{
+  "_id": "dk6kar0md5p",
+  "name": "activities",
+  "parents": [
+    "root-nouns",
+    "easy-hard"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

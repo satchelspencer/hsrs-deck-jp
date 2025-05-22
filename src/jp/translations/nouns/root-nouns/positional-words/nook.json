@@ -1,0 +1,13 @@
+{
+  "_id": "vfmnvwgq1ye",
+  "name": "nook",
+  "order": "3",
+  "parents": [
+    "positional-words"
+  ],
+  "props": {
+    "en": "nook",
+    "jp": "隅",
+    "tl": "すみ"
+  }
+}

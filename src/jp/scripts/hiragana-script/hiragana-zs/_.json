@@ -1,0 +1,14 @@
+{
+  "_id": "5892emyrli6",
+  "name": "hiragana-zs",
+  "params": {
+    "s": "hiragana-ss"
+  },
+  "parents": [
+    "hiragana-script"
+  ],
+  "props": {
+    "jp": ""
+  },
+  "virtual": true
+}

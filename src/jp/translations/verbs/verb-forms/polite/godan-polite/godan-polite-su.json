@@ -1,0 +1,14 @@
+{
+  "_id": "0fy586z6jk4w",
+  "name": "godan-polite-su",
+  "params": {
+    "verb": "godan-su"
+  },
+  "parents": [
+    "godan-polite"
+  ],
+  "props": {
+    "en": null,
+    "jp": "verb.jp|r('す', 'します')"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "_id": "mxvrhp742un",
+  "name": "replies",
+  "parents": [
+    "translations"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

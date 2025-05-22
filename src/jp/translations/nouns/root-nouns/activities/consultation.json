@@ -1,0 +1,13 @@
+{
+  "_id": "qyt1mbvevt",
+  "name": "consultation",
+  "order": "4",
+  "parents": [
+    "activities"
+  ],
+  "props": {
+    "en": "consultation",
+    "jp": "相談",
+    "tl": "そうだん"
+  }
+}

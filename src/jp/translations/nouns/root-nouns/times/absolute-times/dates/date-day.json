@@ -1,0 +1,19 @@
+{
+  "_id": "ogby18fa409",
+  "constraint": "number",
+  "name": "date-day",
+  "order": "1",
+  "params": {
+    "day": "counter-days",
+    "number": "month-numbers"
+  },
+  "parents": [
+    "dates",
+    "ni-any-times"
+  ],
+  "props": {
+    "en": "day.en|r(' days', 'th day')",
+    "jp": "day.number.en+'日'",
+    "tl": "day.tl|r('いちにち', 'ついたち')"
+  }
+}

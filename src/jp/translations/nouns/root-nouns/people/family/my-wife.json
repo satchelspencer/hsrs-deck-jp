@@ -1,0 +1,13 @@
+{
+  "_id": "exs8oc1di8v",
+  "name": "my-wife",
+  "order": "3",
+  "parents": [
+    "family"
+  ],
+  "props": {
+    "en": "my wife",
+    "jp": "妻",
+    "tl": "つま"
+  }
+}

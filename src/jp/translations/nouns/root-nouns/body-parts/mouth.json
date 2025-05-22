@@ -1,0 +1,14 @@
+{
+  "_id": "9usii8im1s8",
+  "name": "mouth",
+  "order": "1",
+  "parents": [
+    "body-parts",
+    "hiraku-tojiru"
+  ],
+  "props": {
+    "en": "mouth",
+    "jp": "口",
+    "tl": "くち"
+  }
+}

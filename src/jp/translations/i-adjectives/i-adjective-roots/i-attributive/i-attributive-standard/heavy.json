@@ -1,0 +1,14 @@
+{
+  "_id": "4f2eltsngnp",
+  "name": "heavy",
+  "order": "2",
+  "parents": [
+    "i-attributive-standard",
+    "i-objects"
+  ],
+  "props": {
+    "en": "heavy",
+    "jp": "重い",
+    "tl": "おもい"
+  }
+}

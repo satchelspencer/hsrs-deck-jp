@@ -1,0 +1,15 @@
+{
+  "_id": "k2bevsduphs",
+  "name": "stuff",
+  "order": "2",
+  "parents": [
+    "objects",
+    "products",
+    "thing-words"
+  ],
+  "props": {
+    "en": "stuff",
+    "jp": "物",
+    "tl": "もの"
+  }
+}

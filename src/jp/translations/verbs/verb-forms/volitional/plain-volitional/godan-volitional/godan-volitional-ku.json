@@ -1,0 +1,14 @@
+{
+  "_id": "cilkj0jh47e",
+  "name": "godan-volitional-ku",
+  "params": {
+    "verb": "godan-ku"
+  },
+  "parents": [
+    "godan-volitional"
+  ],
+  "props": {
+    "en": null,
+    "jp": "verb.jp|r('く', 'こう')"
+  }
+}

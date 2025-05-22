@@ -1,0 +1,13 @@
+{
+  "_id": "8qod07or4zs",
+  "name": "katakana-nyu",
+  "params": {
+    "iis": "katakana-ni"
+  },
+  "parents": [
+    "katakana-yoon-yu"
+  ],
+  "props": {
+    "_tl": "nyu"
+  }
+}

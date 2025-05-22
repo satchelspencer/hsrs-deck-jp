@@ -1,0 +1,12 @@
+{
+  "_id": "h53xnf37xck",
+  "name": "of-course",
+  "order": "2",
+  "parents": [
+    "clause-adverbs"
+  ],
+  "props": {
+    "en": "of course",
+    "jp": "もちろん"
+  }
+}

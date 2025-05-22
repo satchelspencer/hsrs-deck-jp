@@ -1,0 +1,13 @@
+{
+  "_id": "vexevngltyi",
+  "name": "wear-wearables",
+  "params": {
+    "noun": "wearables",
+    "verb": "wear"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

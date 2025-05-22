@@ -1,0 +1,10 @@
+{
+  "_id": "2hn441ptpzi",
+  "name": "object-no",
+  "parents": [
+    "no-related"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

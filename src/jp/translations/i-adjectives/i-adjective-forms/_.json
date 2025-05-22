@@ -1,0 +1,10 @@
+{
+  "_id": "tswj9aio7no",
+  "name": "i-adjective-forms",
+  "parents": [
+    "i-adjectives"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

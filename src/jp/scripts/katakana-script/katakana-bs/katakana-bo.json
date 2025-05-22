@@ -1,0 +1,14 @@
+{
+  "_id": "oc5xxyfnvg",
+  "name": "katakana-bo",
+  "params": {
+    "h": "katakana-ho"
+  },
+  "parents": [
+    "katakana-bs"
+  ],
+  "props": {
+    "_tl": "bo",
+    "jp": "ボ"
+  }
+}

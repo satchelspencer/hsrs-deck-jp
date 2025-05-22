@@ -1,0 +1,11 @@
+{
+  "_id": "6yg7kq6y04b",
+  "name": "katakana-script",
+  "order": "2",
+  "parents": [
+    "scripts"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

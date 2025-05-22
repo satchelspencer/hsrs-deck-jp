@@ -1,0 +1,13 @@
+{
+  "_id": "xer06jfa6ro",
+  "name": "illness",
+  "order": "2",
+  "parents": [
+    "health-conditions"
+  ],
+  "props": {
+    "en": "illness",
+    "jp": "病気",
+    "tl": "びょうき"
+  }
+}

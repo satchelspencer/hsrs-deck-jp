@@ -1,0 +1,13 @@
+{
+  "_id": "5gn3n2vfmrc",
+  "name": "plain-ni-future-times",
+  "params": {
+    "form": "plain",
+    "time": "ni-future-times"
+  },
+  "parents": [
+    "verb-form-times"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "wtbkloaecz",
+  "constraint": "verb",
+  "mode": "*",
+  "name": "verb-te-form",
+  "order": "2",
+  "params": {
+    "past": "plain-past"
+  },
+  "parents": [
+    "complex-forms"
+  ],
+  "props": {
+    "en": "past.en|pr('did ', '')+' and'",
+    "jp": "past.jp|cr('ただ', 'てで')"
+  }
+}

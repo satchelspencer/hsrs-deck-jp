@@ -1,0 +1,13 @@
+{
+  "_id": "yvzcx8psn7",
+  "name": "germany",
+  "order": "2",
+  "parents": [
+    "countries"
+  ],
+  "props": {
+    "en": "germany",
+    "jp": "ドイツ",
+    "tl": "どいつ"
+  }
+}

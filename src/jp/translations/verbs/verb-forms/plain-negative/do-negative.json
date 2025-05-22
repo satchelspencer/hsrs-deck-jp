@@ -1,0 +1,14 @@
+{
+  "_id": "3qxuagiokpa",
+  "name": "do-negative",
+  "params": {
+    "verb": "do-suru"
+  },
+  "parents": [
+    "plain-negative"
+  ],
+  "props": {
+    "en": null,
+    "jp": "しない"
+  }
+}

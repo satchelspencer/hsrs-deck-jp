@@ -1,0 +1,15 @@
+{
+  "_id": "qx38myuvahf",
+  "name": "get-wet",
+  "order": "3",
+  "parents": [
+    "ichidan",
+    "te-iru-verbs-state",
+    "people-do"
+  ],
+  "props": {
+    "en": "get wet",
+    "jp": "濡れる",
+    "tl": "ぬれる"
+  }
+}

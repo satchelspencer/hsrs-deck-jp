@@ -1,0 +1,13 @@
+{
+  "_id": "e8hbupwxwxq",
+  "name": "significant-convey",
+  "params": {
+    "na": "significant",
+    "verb": "convey"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

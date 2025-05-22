@@ -1,0 +1,17 @@
+{
+  "_id": "zl2z0r6q9h",
+  "name": "get-well",
+  "order": "2",
+  "parents": [
+    "godan-ru",
+    "people-do",
+    "animals-do",
+    "te-iru-verbs-state",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "get well",
+    "jp": "治る",
+    "tl": "なおる"
+  }
+}

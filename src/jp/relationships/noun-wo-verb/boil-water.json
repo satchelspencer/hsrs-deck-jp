@@ -1,0 +1,13 @@
+{
+  "_id": "fsc4ngjvq2a",
+  "name": "boil-water",
+  "params": {
+    "noun": "hot-water",
+    "verb": "boil"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

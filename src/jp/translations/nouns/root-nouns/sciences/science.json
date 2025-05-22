@@ -1,0 +1,13 @@
+{
+  "_id": "tr7vkzs6rv",
+  "name": "science",
+  "order": "3",
+  "parents": [
+    "sciences"
+  ],
+  "props": {
+    "en": "science",
+    "jp": "科学",
+    "tl": "かがく"
+  }
+}

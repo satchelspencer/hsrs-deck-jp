@@ -1,0 +1,18 @@
+{
+  "_id": "rby579smnxp",
+  "constraint": "verb",
+  "name": "pronoun-wo",
+  "order": "1",
+  "params": {
+    "form": "verb-forms",
+    "rel": "pronoun-wo-verb"
+  },
+  "parents": [
+    "pronoun-clauses",
+    "pronoun-temporal-verb-clauses"
+  ],
+  "props": {
+    "en": "form.en+' '+rel.pn.en",
+    "jp": "rel.pn.jp+'を'+form.jp"
+  }
+}

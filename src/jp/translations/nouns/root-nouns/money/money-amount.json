@@ -1,0 +1,18 @@
+{
+  "_id": "aaqnezhxl0a",
+  "constraint": "root",
+  "name": "money-amount",
+  "order": "1",
+  "params": {
+    "counter": "counter-kago-regular",
+    "root": "counter-root-yen"
+  },
+  "parents": [
+    "money",
+    "be-requiredables"
+  ],
+  "props": {
+    "en": "counter.en",
+    "jp": "counter.jp"
+  }
+}

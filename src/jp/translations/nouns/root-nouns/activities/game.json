@@ -1,0 +1,12 @@
+{
+  "_id": "qv7txc5re1j",
+  "name": "game",
+  "order": "1",
+  "parents": [
+    "activities"
+  ],
+  "props": {
+    "en": "game",
+    "jp": "ゲーム"
+  }
+}

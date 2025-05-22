@@ -1,0 +1,13 @@
+{
+  "_id": "ig815m9f3ef",
+  "name": "transports-shake",
+  "params": {
+    "noun": "transports",
+    "verb": "shake"
+  },
+  "parents": [
+    "noun-ga-verb"
+  ],
+  "props": {
+  }
+}

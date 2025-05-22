@@ -1,0 +1,14 @@
+{
+  "_id": "wdutb1077j",
+  "name": "question-wo-verb",
+  "params": {
+    "qw": "question-words",
+    "verb": "root-verbs"
+  },
+  "parents": [
+    "question-rels"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

@@ -1,0 +1,12 @@
+{
+  "_id": "c5ofkrfe93m",
+  "name": "soccer",
+  "order": "2",
+  "parents": [
+    "activities"
+  ],
+  "props": {
+    "en": "soccer",
+    "jp": "サッカー"
+  }
+}

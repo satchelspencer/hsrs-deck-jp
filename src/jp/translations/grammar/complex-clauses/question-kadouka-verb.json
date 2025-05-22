@@ -1,0 +1,16 @@
+{
+  "_id": "d2go9u1p9b8",
+  "name": "question-kadouka-verb",
+  "order": "4",
+  "params": {
+    "form": "info-verb-form",
+    "qu": "embedded-questions"
+  },
+  "parents": [
+    "complex-clauses"
+  ],
+  "props": {
+    "en": "form.en+' whether or not '+qu.en",
+    "jp": "qu.jp+'かどうか'+form.jp"
+  }
+}

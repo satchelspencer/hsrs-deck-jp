@@ -1,0 +1,13 @@
+{
+  "_id": "t7xz1bsx25a",
+  "name": "politics",
+  "order": "4",
+  "parents": [
+    "choosables"
+  ],
+  "props": {
+    "en": "politics",
+    "jp": "政治",
+    "tl": "せいじ"
+  }
+}

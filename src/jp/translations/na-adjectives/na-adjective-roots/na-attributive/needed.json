@@ -1,0 +1,13 @@
+{
+  "_id": "8wbefppc1s2",
+  "name": "needed",
+  "order": "2",
+  "parents": [
+    "na-attributive"
+  ],
+  "props": {
+    "en": "needed",
+    "jp": "必要",
+    "tl": "ひつよう"
+  }
+}

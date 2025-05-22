@@ -1,0 +1,13 @@
+{
+  "_id": "zfrb2ytmon",
+  "name": "drinks-drink",
+  "params": {
+    "noun": "drinks",
+    "verb": "drink"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

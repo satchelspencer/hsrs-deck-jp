@@ -1,0 +1,13 @@
+{
+  "_id": "1uquwh04ifx",
+  "name": "spicy",
+  "order": "2",
+  "parents": [
+    "i-attributive-standard"
+  ],
+  "props": {
+    "en": "spicy",
+    "jp": "辛い",
+    "tl": "からい"
+  }
+}

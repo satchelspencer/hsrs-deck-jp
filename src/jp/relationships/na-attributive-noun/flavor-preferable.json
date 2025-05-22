@@ -1,0 +1,13 @@
+{
+  "_id": "f3wpaq5hhem",
+  "name": "flavor-preferable",
+  "params": {
+    "na": "na-preferables",
+    "noun": "flavor"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

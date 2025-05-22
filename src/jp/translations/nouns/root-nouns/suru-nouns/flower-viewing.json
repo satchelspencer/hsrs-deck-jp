@@ -1,0 +1,15 @@
+{
+  "_id": "27yznp7rm21",
+  "name": "flower-viewing",
+  "order": "3",
+  "parents": [
+    "suru-nouns",
+    "people-do",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "flower viewing",
+    "jp": "花見",
+    "tl": "はなみ"
+  }
+}

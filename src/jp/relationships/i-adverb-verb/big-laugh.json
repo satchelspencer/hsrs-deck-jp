@@ -1,0 +1,13 @@
+{
+  "_id": "i5jn737839",
+  "name": "big-laugh",
+  "params": {
+    "iadj": "big",
+    "verb": "laugh"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

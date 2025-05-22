@@ -1,0 +1,11 @@
+{
+  "_id": "6r70txool8i",
+  "name": "writeables",
+  "parents": [
+    "verb-related",
+    "readables"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

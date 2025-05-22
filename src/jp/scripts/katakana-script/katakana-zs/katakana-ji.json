@@ -1,0 +1,15 @@
+{
+  "_id": "ql2338b66bo",
+  "name": "katakana-ji",
+  "params": {
+    "s": "katakana-shi"
+  },
+  "parents": [
+    "katakana-zs",
+    "katakana-iis"
+  ],
+  "props": {
+    "_tl": "ji",
+    "jp": "ジ"
+  }
+}

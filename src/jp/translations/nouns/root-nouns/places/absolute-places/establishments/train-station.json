@@ -1,0 +1,13 @@
+{
+  "_id": "4f907tkmw34",
+  "name": "train-station",
+  "order": "1",
+  "parents": [
+    "establishments"
+  ],
+  "props": {
+    "en": "train station",
+    "jp": "駅",
+    "tl": "えき"
+  }
+}

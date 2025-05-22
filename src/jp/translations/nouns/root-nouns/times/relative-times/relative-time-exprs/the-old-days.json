@@ -1,0 +1,13 @@
+{
+  "_id": "mrt87nnsstp",
+  "name": "the-old-days",
+  "order": "3",
+  "parents": [
+    "relative-time-exprs"
+  ],
+  "props": {
+    "en": "the old days",
+    "jp": "昔",
+    "tl": "むかし"
+  }
+}

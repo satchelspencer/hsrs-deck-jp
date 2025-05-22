@@ -1,0 +1,10 @@
+{
+  "_id": "4j1qrfnopr",
+  "name": "plants",
+  "parents": [
+    "root-nouns"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

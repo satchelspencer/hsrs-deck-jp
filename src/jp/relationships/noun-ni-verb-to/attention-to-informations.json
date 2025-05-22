@@ -1,0 +1,13 @@
+{
+  "_id": "91esrvg38s8",
+  "name": "attention-to-informations",
+  "params": {
+    "noun": "informations",
+    "verb": "attention"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

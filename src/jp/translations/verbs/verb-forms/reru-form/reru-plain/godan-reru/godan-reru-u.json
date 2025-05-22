@@ -1,0 +1,13 @@
+{
+  "_id": "6dby4noxcct",
+  "name": "godan-reru-u",
+  "params": {
+    "verb": "godan-u"
+  },
+  "parents": [
+    "godan-reru"
+  ],
+  "props": {
+    "jp": "verb.jp|r('う', 'える')"
+  }
+}

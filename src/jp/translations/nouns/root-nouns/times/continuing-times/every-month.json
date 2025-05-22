@@ -1,0 +1,13 @@
+{
+  "_id": "no5oqlrxge",
+  "name": "every-month",
+  "order": "2",
+  "parents": [
+    "continuing-times"
+  ],
+  "props": {
+    "en": "every month",
+    "jp": "毎月",
+    "tl": "まいつき"
+  }
+}

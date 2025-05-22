@@ -1,0 +1,14 @@
+{
+  "_id": "sb0fxbe3ld",
+  "name": "counter-nichi-six",
+  "params": {
+    "number": "six"
+  },
+  "parents": [
+    "counter-days"
+  ],
+  "props": {
+    "jp": "六日",
+    "tl": "むいか"
+  }
+}

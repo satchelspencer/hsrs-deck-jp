@@ -1,0 +1,13 @@
+{
+  "_id": "ilce8ekm1p",
+  "name": "quiet-wait",
+  "params": {
+    "na": "quiet",
+    "verb": "wait"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "nxizxkxw4j",
+  "name": "counter-root-seconds",
+  "order": "2",
+  "parents": [
+    "counter-roots-kango-simple"
+  ],
+  "props": {
+    "en": "seconds",
+    "jp": "秒",
+    "tl": "びょう"
+  }
+}

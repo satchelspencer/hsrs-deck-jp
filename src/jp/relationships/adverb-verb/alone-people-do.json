@@ -1,0 +1,13 @@
+{
+  "_id": "40np58n4jbc",
+  "name": "alone-people-do",
+  "params": {
+    "adv": "alone",
+    "verb": "people-do"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

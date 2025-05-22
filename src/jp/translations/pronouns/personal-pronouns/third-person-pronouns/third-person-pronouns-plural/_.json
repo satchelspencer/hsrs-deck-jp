@@ -1,0 +1,14 @@
+{
+  "_id": "h9x1njb5rbh",
+  "name": "third-person-pronouns-plural",
+  "order": "2",
+  "params": {
+    "pronoun": "third-person-pronouns-singular"
+  },
+  "parents": [
+    "third-person-pronouns"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "kdorje85v9g",
+  "name": "key",
+  "order": "2",
+  "parents": [
+    "fastenables",
+    "ko-countable"
+  ],
+  "props": {
+    "en": "key",
+    "jp": "鍵",
+    "tl": "かぎ"
+  }
+}

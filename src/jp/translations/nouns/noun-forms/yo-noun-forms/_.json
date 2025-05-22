@@ -1,0 +1,10 @@
+{
+  "_id": "ebkjqobme0m",
+  "name": "yo-noun-forms",
+  "parents": [
+    "noun-forms"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

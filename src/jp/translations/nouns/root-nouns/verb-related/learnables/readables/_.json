@@ -1,0 +1,10 @@
+{
+  "_id": "4avlvkr0bki",
+  "name": "readables",
+  "parents": [
+    "learnables"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

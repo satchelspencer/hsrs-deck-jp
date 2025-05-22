@@ -1,0 +1,10 @@
+{
+  "_id": "jo2dtdiwup",
+  "name": "activities-do",
+  "parents": [
+    "root-verbs"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

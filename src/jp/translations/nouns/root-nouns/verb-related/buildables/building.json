@@ -1,0 +1,16 @@
+{
+  "_id": "i762zm55x2d",
+  "name": "building",
+  "order": "2",
+  "parents": [
+    "buildables",
+    "high-low",
+    "ken-buildings-countable",
+    "absolute-places"
+  ],
+  "props": {
+    "en": "building",
+    "jp": "建物",
+    "tl": "たてもの"
+  }
+}

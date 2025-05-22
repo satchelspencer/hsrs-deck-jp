@@ -1,0 +1,13 @@
+{
+  "_id": "vyerxq41nun",
+  "name": "counter-kago-4+-hundred-s",
+  "params": {
+    "root": "counter-roots-kango-4+-s"
+  },
+  "parents": [
+    "counter-kago-4+-hundred"
+  ],
+  "props": {
+    "tl": "$.jp"
+  }
+}

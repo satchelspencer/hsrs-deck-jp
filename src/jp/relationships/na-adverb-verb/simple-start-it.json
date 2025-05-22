@@ -1,0 +1,13 @@
+{
+  "_id": "l7qpqqais6e",
+  "name": "simple-start-it",
+  "params": {
+    "na": "simple",
+    "verb": "start-it"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

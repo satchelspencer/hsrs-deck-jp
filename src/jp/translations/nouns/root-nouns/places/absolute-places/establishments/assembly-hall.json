@@ -1,0 +1,13 @@
+{
+  "_id": "obwcimz53v8",
+  "name": "assembly-hall",
+  "order": "4",
+  "parents": [
+    "establishments"
+  ],
+  "props": {
+    "en": "assembly hall",
+    "jp": "会場",
+    "tl": "かいじょう"
+  }
+}

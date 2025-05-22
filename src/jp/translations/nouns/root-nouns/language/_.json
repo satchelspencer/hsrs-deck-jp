@@ -1,0 +1,10 @@
+{
+  "_id": "5f1imtkumdk",
+  "name": "language",
+  "parents": [
+    "root-nouns"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

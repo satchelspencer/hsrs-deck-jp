@@ -1,0 +1,14 @@
+{
+  "_id": "5hupy7js93h",
+  "name": "katakana-go",
+  "params": {
+    "k": "katakana-ko"
+  },
+  "parents": [
+    "katakana-gs"
+  ],
+  "props": {
+    "_tl": "go",
+    "jp": "ゴ"
+  }
+}

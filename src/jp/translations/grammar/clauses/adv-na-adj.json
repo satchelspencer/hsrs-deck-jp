@@ -1,0 +1,17 @@
+{
+  "_id": "comnmevsg0d",
+  "constraint": "na",
+  "name": "adv-na-adj",
+  "order": "2",
+  "params": {
+    "adv": "na-adverbs",
+    "naform": "na-predicate-forms"
+  },
+  "parents": [
+    "clauses"
+  ],
+  "props": {
+    "en": "(adv.en+' '+naform.en)|mts('was ')|mts('is ')",
+    "jp": "adv.jp+naform.jp"
+  }
+}

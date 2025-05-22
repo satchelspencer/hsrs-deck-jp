@@ -1,0 +1,13 @@
+{
+  "_id": "v100y8qwnrj",
+  "name": "department-store",
+  "order": "2",
+  "parents": [
+    "stores"
+  ],
+  "props": {
+    "en": "department store",
+    "jp": "デパート",
+    "tl": "でぱーと"
+  }
+}

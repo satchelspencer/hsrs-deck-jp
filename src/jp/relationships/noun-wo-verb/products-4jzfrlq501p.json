@@ -1,0 +1,13 @@
+{
+  "_id": "enz18c3yg9s",
+  "name": "products-4jzfrlq501p",
+  "params": {
+    "noun": "products",
+    "verb": "do-to-products"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "6tp3r2xpax",
+  "name": "switch-on-lightables",
+  "params": {
+    "noun": "lightables",
+    "verb": "switch-on"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

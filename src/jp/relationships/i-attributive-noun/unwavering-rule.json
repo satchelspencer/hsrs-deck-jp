@@ -1,0 +1,13 @@
+{
+  "_id": "ffne0xlcrs",
+  "name": "unwavering-rule",
+  "params": {
+    "iadj": "unwavering",
+    "noun": "rule"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "x1dgru166s",
+  "name": "fastenables-fasten",
+  "params": {
+    "noun": "fastenables",
+    "verb": "fasten"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

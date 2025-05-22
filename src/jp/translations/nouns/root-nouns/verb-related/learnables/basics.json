@@ -1,0 +1,13 @@
+{
+  "_id": "mz4znzblum",
+  "name": "basics",
+  "order": "2",
+  "parents": [
+    "learnables"
+  ],
+  "props": {
+    "en": "basics",
+    "jp": "基本",
+    "tl": "きほん"
+  }
+}

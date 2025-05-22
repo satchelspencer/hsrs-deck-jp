@@ -1,0 +1,13 @@
+{
+  "_id": "495nbyyyxhm",
+  "name": "noun-de-verb-loc",
+  "params": {
+    "noun": "places",
+    "verb": "de-location-verbs"
+  },
+  "parents": [
+    "relationships"
+  ],
+  "props": {
+  }
+}

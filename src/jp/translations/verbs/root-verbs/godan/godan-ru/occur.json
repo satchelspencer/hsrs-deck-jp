@@ -1,0 +1,16 @@
+{
+  "_id": "nygjmz1j6fb",
+  "name": "occur",
+  "order": "4",
+  "parents": [
+    "godan-ru",
+    "events-do",
+    "te-iru-verbs-state",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "occur",
+    "jp": "起こる",
+    "tl": "おこる"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "v9tu14jy6w",
+  "name": "doctor",
+  "order": "2",
+  "parents": [
+    "people",
+    "roles"
+  ],
+  "props": {
+    "en": "doctor",
+    "jp": "医者",
+    "tl": "いしゃ"
+  }
+}

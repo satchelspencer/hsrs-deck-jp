@@ -1,0 +1,13 @@
+{
+  "_id": "46podjqx1n5",
+  "name": "counter-nin-thousand",
+  "params": {
+    "number": "thousand"
+  },
+  "parents": [
+    "counter-nin"
+  ],
+  "props": {
+    "tl": "せん~にん"
+  }
+}

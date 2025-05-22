@@ -1,0 +1,13 @@
+{
+  "_id": "bqet1rawdg",
+  "name": "counter-kago-4+-hundred-p",
+  "params": {
+    "root": "counter-roots-kango-4+-p"
+  },
+  "parents": [
+    "counter-kago-4+-hundred"
+  ],
+  "props": {
+    "tl": "'ひゃっ'+root.tl"
+  }
+}

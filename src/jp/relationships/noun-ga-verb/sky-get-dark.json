@@ -1,0 +1,13 @@
+{
+  "_id": "ngj726gti69",
+  "name": "sky-get-dark",
+  "params": {
+    "noun": "sky",
+    "verb": "get-dark"
+  },
+  "parents": [
+    "noun-ga-verb"
+  ],
+  "props": {
+  }
+}

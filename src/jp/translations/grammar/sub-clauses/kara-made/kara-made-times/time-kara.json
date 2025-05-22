@@ -1,0 +1,15 @@
+{
+  "_id": "n7nmv0xkxjh",
+  "name": "time-kara",
+  "order": "2",
+  "params": {
+    "time": "ni-past-times"
+  },
+  "parents": [
+    "kara-made-times"
+  ],
+  "props": {
+    "en": "'from '+time.en",
+    "jp": "time.jp+'から'"
+  }
+}

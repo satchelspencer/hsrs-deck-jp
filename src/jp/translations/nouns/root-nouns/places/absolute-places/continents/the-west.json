@@ -1,0 +1,13 @@
+{
+  "_id": "0uc98dj2u74r",
+  "name": "the-west",
+  "order": "3",
+  "parents": [
+    "continents"
+  ],
+  "props": {
+    "en": "the west",
+    "jp": "西洋",
+    "tl": "せいよう"
+  }
+}

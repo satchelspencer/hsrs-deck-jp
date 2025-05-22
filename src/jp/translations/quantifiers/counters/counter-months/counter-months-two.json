@@ -1,0 +1,14 @@
+{
+  "_id": "snqc2cj7jv9",
+  "name": "counter-months-two",
+  "params": {
+    "number": "two"
+  },
+  "parents": [
+    "counter-months"
+  ],
+  "props": {
+    "en": "february",
+    "tl": "にがつ"
+  }
+}

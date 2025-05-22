@@ -1,0 +1,14 @@
+{
+  "_id": "41hu515mnea",
+  "mode": "p",
+  "name": "high-school-polite",
+  "order": "4",
+  "parents": [
+    "schools"
+  ],
+  "props": {
+    "en": "senior high school",
+    "jp": "高等学校",
+    "tl": "こうとうがっこう"
+  }
+}

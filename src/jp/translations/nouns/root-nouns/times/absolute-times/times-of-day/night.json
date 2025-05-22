@@ -1,0 +1,13 @@
+{
+  "_id": "g5vrnux0c6f",
+  "name": "night",
+  "order": "1",
+  "parents": [
+    "times-of-day"
+  ],
+  "props": {
+    "en": "night",
+    "jp": "夜",
+    "tl": "よる"
+  }
+}

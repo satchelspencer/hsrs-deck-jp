@@ -1,0 +1,12 @@
+{
+  "_id": "b8gcahwqhdv",
+  "name": "before-long",
+  "order": "3",
+  "parents": [
+    "verb-adverbs"
+  ],
+  "props": {
+    "en": "before long",
+    "jp": "そろそろ"
+  }
+}

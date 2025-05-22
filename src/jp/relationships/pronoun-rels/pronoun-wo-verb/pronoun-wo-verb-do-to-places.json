@@ -1,0 +1,13 @@
+{
+  "_id": "q245gmf56ia",
+  "name": "pronoun-wo-verb-do-to-places",
+  "params": {
+    "pn": "location-pronouns",
+    "verb": "do-to-places"
+  },
+  "parents": [
+    "pronoun-wo-verb"
+  ],
+  "props": {
+  }
+}

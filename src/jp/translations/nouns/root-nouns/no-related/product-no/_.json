@@ -1,0 +1,10 @@
+{
+  "_id": "z10gtmmb82",
+  "name": "product-no",
+  "parents": [
+    "no-related"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

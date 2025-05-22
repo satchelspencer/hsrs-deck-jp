@@ -1,0 +1,13 @@
+{
+  "_id": "g827u5ceisi",
+  "name": "envelope",
+  "order": "3",
+  "parents": [
+    "containers"
+  ],
+  "props": {
+    "en": "envelope",
+    "jp": "封筒",
+    "tl": "ふうとう"
+  }
+}

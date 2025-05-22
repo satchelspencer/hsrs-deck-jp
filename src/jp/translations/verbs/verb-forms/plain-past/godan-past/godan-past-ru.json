@@ -1,0 +1,14 @@
+{
+  "_id": "v4msfdqgmt",
+  "name": "godan-past-ru",
+  "params": {
+    "verb": "godan-ru"
+  },
+  "parents": [
+    "godan-past"
+  ],
+  "props": {
+    "en": null,
+    "jp": "verb.jp|r('る', 'った')"
+  }
+}

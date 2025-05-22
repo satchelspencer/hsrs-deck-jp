@@ -1,0 +1,12 @@
+{
+  "_id": "26smexyekak",
+  "name": "buzzer",
+  "order": "3",
+  "parents": [
+    "pushables"
+  ],
+  "props": {
+    "en": "buzzer",
+    "jp": "ブザー"
+  }
+}

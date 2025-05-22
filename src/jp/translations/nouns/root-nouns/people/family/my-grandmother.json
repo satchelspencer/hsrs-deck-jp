@@ -1,0 +1,14 @@
+{
+  "_id": "qfblg5zpk7n",
+  "mode": "p",
+  "name": "my-grandmother",
+  "order": "3",
+  "parents": [
+    "family"
+  ],
+  "props": {
+    "en": "my grandmother",
+    "jp": "祖母",
+    "tl": "そぼ"
+  }
+}

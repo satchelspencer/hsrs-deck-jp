@@ -1,0 +1,14 @@
+{
+  "_id": "8rvtkbiyjc",
+  "name": "production",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "product-no"
+  ],
+  "props": {
+    "en": "production",
+    "jp": "生産",
+    "tl": "せいさん"
+  }
+}

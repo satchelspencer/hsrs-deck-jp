@@ -1,0 +1,15 @@
+{
+  "_id": "0l06o6r6gssp",
+  "name": "godan-past",
+  "params": {
+    "verb": "godan"
+  },
+  "parents": [
+    "plain-past"
+  ],
+  "props": {
+    "en": null,
+    "jp": null
+  },
+  "virtual": true
+}

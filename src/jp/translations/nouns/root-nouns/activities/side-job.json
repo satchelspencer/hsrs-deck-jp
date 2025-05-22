@@ -1,0 +1,13 @@
+{
+  "_id": "q11d5umsu0s",
+  "name": "side-job",
+  "order": "3",
+  "parents": [
+    "activities"
+  ],
+  "props": {
+    "en": "side job",
+    "jp": "アルバイト",
+    "tl": "あるばいと"
+  }
+}

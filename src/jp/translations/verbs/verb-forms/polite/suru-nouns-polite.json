@@ -1,0 +1,14 @@
+{
+  "_id": "r3bychzh6cm",
+  "name": "suru-nouns-polite",
+  "params": {
+    "verb": "suru-nouns"
+  },
+  "parents": [
+    "polite"
+  ],
+  "props": {
+    "en": "'do '+verb.en",
+    "jp": "verb.jp+'します'"
+  }
+}

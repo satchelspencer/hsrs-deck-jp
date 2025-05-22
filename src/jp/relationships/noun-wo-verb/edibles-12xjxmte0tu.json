@@ -1,0 +1,13 @@
+{
+  "_id": "ythf9o8lxvc",
+  "name": "edibles-12xjxmte0tu",
+  "params": {
+    "noun": "edibles",
+    "verb": "do-to-edibles"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

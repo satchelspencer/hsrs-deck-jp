@@ -1,0 +1,15 @@
+{
+  "_id": "c2q7adwh0vf",
+  "name": "counter-nin-how-many",
+  "params": {
+    "root": "people-counter"
+  },
+  "parents": [
+    "counter-questions"
+  ],
+  "props": {
+    "en": "how many people",
+    "jp": "何人",
+    "tl": "なんにん"
+  }
+}

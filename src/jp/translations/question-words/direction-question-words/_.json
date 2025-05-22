@@ -1,0 +1,10 @@
+{
+  "_id": "60ubm2x282j",
+  "name": "direction-question-words",
+  "parents": [
+    "question-words"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

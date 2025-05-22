@@ -1,0 +1,13 @@
+{
+  "_id": "6bw7n7ohet7",
+  "name": "technology-skill",
+  "order": "4",
+  "parents": [
+    "learnables"
+  ],
+  "props": {
+    "en": "technology skills",
+    "jp": "技術",
+    "tl": "ぎじゅつ"
+  }
+}

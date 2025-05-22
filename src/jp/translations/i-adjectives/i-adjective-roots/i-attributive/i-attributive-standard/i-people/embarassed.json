@@ -1,0 +1,13 @@
+{
+  "_id": "mjkbog6gisp",
+  "name": "embarassed",
+  "order": "3",
+  "parents": [
+    "i-people"
+  ],
+  "props": {
+    "en": "embarassed",
+    "jp": "恥ずかしい",
+    "tl": "はずかしい"
+  }
+}

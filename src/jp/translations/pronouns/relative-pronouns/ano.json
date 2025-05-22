@@ -1,0 +1,15 @@
+{
+  "_id": "iujz1lxhwo",
+  "name": "ano",
+  "order": "2",
+  "params": {
+    "noun": "seeables"
+  },
+  "parents": [
+    "relative-pronouns"
+  ],
+  "props": {
+    "en": "'that '+noun.en+' over there'",
+    "jp": "'あの'+noun.jp"
+  }
+}

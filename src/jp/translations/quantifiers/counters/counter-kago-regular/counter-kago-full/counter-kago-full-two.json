@@ -1,0 +1,13 @@
+{
+  "_id": "q0nh75akzqo",
+  "name": "counter-kago-full-two",
+  "params": {
+    "number": "two"
+  },
+  "parents": [
+    "counter-kago-full"
+  ],
+  "props": {
+    "jp": "number.jp+root.jp"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "_id": "pmyqg8s31e",
+  "constraint": "verb",
+  "mode": "p",
+  "name": "polite-volitional",
+  "order": "2",
+  "params": {
+    "polite": "polite",
+    "rel": "verb-people-do"
+  },
+  "parents": [
+    "volitional"
+  ],
+  "props": {
+    "en": "'should '+polite.en",
+    "jp": "polite.jp|r('ます', 'ましょう')"
+  }
+}

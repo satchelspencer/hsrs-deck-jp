@@ -1,0 +1,14 @@
+{
+  "_id": "l6plh7uwgkj",
+  "name": "colors",
+  "order": "3",
+  "parents": [
+    "root-nouns",
+    "light-darks"
+  ],
+  "props": {
+    "en": null,
+    "jp": null
+  },
+  "virtual": true
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "ajhvfpd6vqa",
+  "name": "vegetable",
+  "order": "2",
+  "parents": [
+    "foods"
+  ],
+  "props": {
+    "en": "vegetable",
+    "jp": "野菜",
+    "tl": "やさい"
+  }
+}

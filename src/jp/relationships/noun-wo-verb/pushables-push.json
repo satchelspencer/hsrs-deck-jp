@@ -1,0 +1,13 @@
+{
+  "_id": "iju2upro8fg",
+  "name": "pushables-push",
+  "params": {
+    "noun": "pushables",
+    "verb": "push"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

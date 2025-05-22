@@ -1,0 +1,10 @@
+{
+  "_id": "3y94n2y48us",
+  "name": "shiai-countable",
+  "parents": [
+    "counter-related"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

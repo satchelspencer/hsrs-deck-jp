@@ -1,0 +1,13 @@
+{
+  "_id": "fxhykwfyrz",
+  "name": "countryside",
+  "order": "3",
+  "parents": [
+    "absolute-places"
+  ],
+  "props": {
+    "en": "countryside",
+    "jp": "田舎",
+    "tl": "いなか"
+  }
+}

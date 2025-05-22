@@ -1,0 +1,15 @@
+{
+  "_id": "adj02ya22bs",
+  "name": "jisho",
+  "order": "1",
+  "parents": [
+    "tools",
+    "pullables",
+    "satsu-countable"
+  ],
+  "props": {
+    "en": "dictionary",
+    "jp": "辞書",
+    "tl": "じしょ"
+  }
+}

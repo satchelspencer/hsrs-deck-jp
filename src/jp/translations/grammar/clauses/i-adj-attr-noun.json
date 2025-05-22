@@ -1,0 +1,18 @@
+{
+  "_id": "2stdkdnu7le",
+  "constraint": "iadj noun",
+  "name": "i-adj-attr-noun",
+  "order": "1",
+  "params": {
+    "iform": "i-attributive-forms",
+    "nform": "noun-forms",
+    "rel": "i-attributive-noun"
+  },
+  "parents": [
+    "clauses"
+  ],
+  "props": {
+    "en": "(iform.en+' '+nform.en)|mts('is ')|mts('was ')",
+    "jp": "iform.jp+nform.jp"
+  }
+}

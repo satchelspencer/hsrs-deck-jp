@@ -1,0 +1,19 @@
+{
+  "_id": "drhsb4i220h",
+  "constraint": "verb noun",
+  "name": "noun-de-with",
+  "order": "1",
+  "params": {
+    "form": "verb-forms",
+    "rel": "noun-de-verb-means"
+  },
+  "parents": [
+    "clauses",
+    "const-noun-clauses",
+    "temporal-verb-clauses"
+  ],
+  "props": {
+    "en": "'with '+rel.noun.en+' '+form.en",
+    "jp": "rel.noun.jp+'で'+form.jp"
+  }
+}

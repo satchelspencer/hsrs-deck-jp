@@ -1,0 +1,10 @@
+{
+  "_id": "25h1uucs3bk",
+  "name": "ni-related-verbs",
+  "parents": [
+    "root-verbs"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

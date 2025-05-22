@@ -1,0 +1,12 @@
+{
+  "_id": "lx8fxrwevqa",
+  "name": "drinks",
+  "parents": [
+    "edibles",
+    "products",
+    "hai-countable"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "f1oy8gohcrj",
+  "name": "new-buy",
+  "params": {
+    "iadj": "new",
+    "verb": "buy"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

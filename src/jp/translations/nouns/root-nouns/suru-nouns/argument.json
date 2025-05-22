@@ -1,0 +1,16 @@
+{
+  "_id": "li5qbm6bzyh",
+  "name": "argument",
+  "order": "3",
+  "parents": [
+    "suru-nouns",
+    "people-do",
+    "te-iru-verbs-continuous",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "argument",
+    "jp": "喧嘩",
+    "tl": "けんか"
+  }
+}

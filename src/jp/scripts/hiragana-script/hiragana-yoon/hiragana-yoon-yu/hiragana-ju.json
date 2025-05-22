@@ -1,0 +1,14 @@
+{
+  "_id": "cvl4174xequ",
+  "name": "hiragana-ju",
+  "params": {
+    "iis": "hiragana-ji"
+  },
+  "parents": [
+    "hiragana-yoon-yu"
+  ],
+  "props": {
+    "_tl": "ju",
+    "jp": "iis.jp+'ゅ'"
+  }
+}

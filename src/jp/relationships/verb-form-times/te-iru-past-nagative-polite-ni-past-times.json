@@ -1,0 +1,13 @@
+{
+  "_id": "159h3ix4xvr",
+  "name": "te-iru-past-nagative-polite-ni-past-times",
+  "params": {
+    "form": "te-iru-past-nagative-polite",
+    "time": "ni-past-times"
+  },
+  "parents": [
+    "verb-form-times"
+  ],
+  "props": {
+  }
+}

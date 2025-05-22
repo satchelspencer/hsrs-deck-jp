@@ -1,0 +1,13 @@
+{
+  "_id": "2953srum3d7",
+  "name": "diary",
+  "order": "3",
+  "parents": [
+    "objects"
+  ],
+  "props": {
+    "en": "diary",
+    "jp": "日記",
+    "tl": "にっき"
+  }
+}

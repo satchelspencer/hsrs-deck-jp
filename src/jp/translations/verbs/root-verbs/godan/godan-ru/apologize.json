@@ -1,0 +1,16 @@
+{
+  "_id": "6wnf3ys4o8h",
+  "name": "apologize",
+  "order": "3",
+  "parents": [
+    "godan-ru",
+    "people-do",
+    "ni-person-verbs",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "en": "apologize",
+    "jp": "謝る",
+    "tl": "あやまる"
+  }
+}

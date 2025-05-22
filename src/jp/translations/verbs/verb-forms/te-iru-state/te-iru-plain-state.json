@@ -1,0 +1,13 @@
+{
+  "_id": "gmevv8so4cf",
+  "constraint": "",
+  "mode": "c",
+  "name": "te-iru-plain-state",
+  "parents": [
+    "te-iru-state"
+  ],
+  "props": {
+    "en": "'is '+te.en|r(' and','')+'-ed'",
+    "jp": "te.jp+'いる'"
+  }
+}

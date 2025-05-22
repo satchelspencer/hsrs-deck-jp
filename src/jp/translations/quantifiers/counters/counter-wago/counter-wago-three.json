@@ -1,0 +1,14 @@
+{
+  "_id": "so09cwieep",
+  "name": "counter-wago-three",
+  "params": {
+    "number": "three"
+  },
+  "parents": [
+    "counter-wago"
+  ],
+  "props": {
+    "en": null,
+    "jp": "みっつ"
+  }
+}

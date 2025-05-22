@@ -1,0 +1,14 @@
+{
+  "_id": "pnwqftheamd",
+  "name": "counter-kago-4+-hundred",
+  "params": {
+    "number": "hundred"
+  },
+  "parents": [
+    "counter-kago-4+"
+  ],
+  "props": {
+    "tl": ""
+  },
+  "virtual": true
+}

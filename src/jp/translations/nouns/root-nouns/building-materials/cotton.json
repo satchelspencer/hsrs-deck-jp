@@ -1,0 +1,13 @@
+{
+  "_id": "36g18bwntuh",
+  "name": "cotton",
+  "order": "3",
+  "parents": [
+    "building-materials"
+  ],
+  "props": {
+    "en": "cotton",
+    "jp": "木綿",
+    "tl": "もめん"
+  }
+}

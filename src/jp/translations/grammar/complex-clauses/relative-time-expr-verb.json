@@ -1,0 +1,16 @@
+{
+  "_id": "3f6p9qaxpaz",
+  "name": "relative-time-expr-verb",
+  "order": "3",
+  "params": {
+    "clause": "temporal-verb-clauses",
+    "rt": "relative-time-clauses"
+  },
+  "parents": [
+    "complex-clauses"
+  ],
+  "props": {
+    "en": "rt.en+', '+clause.en",
+    "jp": "rt.jp+clause.jp"
+  }
+}

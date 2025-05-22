@@ -1,0 +1,13 @@
+{
+  "_id": "g200i35xcxd",
+  "name": "fine",
+  "order": "3",
+  "parents": [
+    "i-attributive-standard"
+  ],
+  "props": {
+    "en": "fine",
+    "jp": "細かい",
+    "tl": "こまかい"
+  }
+}

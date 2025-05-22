@@ -1,0 +1,13 @@
+{
+  "_id": "lokkcuzptk",
+  "name": "cute-show",
+  "params": {
+    "iadj": "cute",
+    "verb": "show"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "ewa08kubhto",
+  "name": "hospitalization",
+  "order": "3",
+  "parents": [
+    "suru-nouns",
+    "people-do"
+  ],
+  "props": {
+    "en": "hospitalization",
+    "jp": "入院",
+    "tl": "にゅういん"
+  }
+}

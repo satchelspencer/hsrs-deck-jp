@@ -1,0 +1,12 @@
+{
+  "_id": "qf1ct3967sn",
+  "name": "south",
+  "parents": [
+    "cardinal-directions"
+  ],
+  "props": {
+    "en": "south",
+    "jp": "南",
+    "tl": "みなみ"
+  }
+}

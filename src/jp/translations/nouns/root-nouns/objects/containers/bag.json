@@ -1,0 +1,14 @@
+{
+  "_id": "p2hggawxe4j",
+  "name": "bag",
+  "order": "1",
+  "parents": [
+    "containers",
+    "ko-countable"
+  ],
+  "props": {
+    "en": "bag",
+    "jp": "鞄",
+    "tl": "かばん"
+  }
+}

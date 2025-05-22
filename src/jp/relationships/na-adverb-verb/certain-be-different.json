@@ -1,0 +1,13 @@
+{
+  "_id": "ar18wl2g9jf",
+  "name": "certain-be-different",
+  "params": {
+    "na": "certain",
+    "verb": "be-different"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

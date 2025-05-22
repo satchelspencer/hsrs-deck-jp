@@ -1,0 +1,14 @@
+{
+  "_id": "e6zzsupspnb",
+  "name": "cool-off",
+  "order": "3",
+  "parents": [
+    "ichidan",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "en": "cool off",
+    "jp": "冷める",
+    "tl": "さめる"
+  }
+}

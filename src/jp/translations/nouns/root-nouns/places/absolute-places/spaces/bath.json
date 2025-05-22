@@ -1,0 +1,13 @@
+{
+  "_id": "x86iohacpso",
+  "name": "bath",
+  "order": "1",
+  "parents": [
+    "spaces"
+  ],
+  "props": {
+    "en": "bath",
+    "jp": "風呂",
+    "tl": "ふろ"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "j2jyv9gqbdr",
+  "constraint": "verb",
+  "name": "question-de-in",
+  "order": "1",
+  "params": {
+    "form": "verb-ka",
+    "rel": "question-de-verb-in"
+  },
+  "parents": [
+    "question-clauses"
+  ],
+  "props": {
+    "en": "'in '+rel.qw.en+' '+form.en",
+    "jp": "rel.qw.jp+'で'+form.jp"
+  }
+}

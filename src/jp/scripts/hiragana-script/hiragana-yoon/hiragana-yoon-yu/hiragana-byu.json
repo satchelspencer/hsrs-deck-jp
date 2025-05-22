@@ -1,0 +1,14 @@
+{
+  "_id": "236cpoakrl7",
+  "name": "hiragana-byu",
+  "params": {
+    "iis": "hiragana-bi"
+  },
+  "parents": [
+    "hiragana-yoon-yu"
+  ],
+  "props": {
+    "_tl": "byu",
+    "jp": "iis.jp+'ゅ'"
+  }
+}

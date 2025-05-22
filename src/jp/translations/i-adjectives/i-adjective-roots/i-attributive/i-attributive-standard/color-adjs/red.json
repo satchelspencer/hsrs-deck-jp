@@ -1,0 +1,13 @@
+{
+  "_id": "50upma8swls",
+  "name": "red",
+  "order": "2",
+  "parents": [
+    "color-adjs"
+  ],
+  "props": {
+    "en": "red",
+    "jp": "赤い",
+    "tl": "あかい"
+  }
+}

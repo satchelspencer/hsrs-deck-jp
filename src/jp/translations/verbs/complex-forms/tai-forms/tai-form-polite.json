@@ -1,0 +1,16 @@
+{
+  "_id": "r0sizk0nw2s",
+  "mode": "P",
+  "name": "tai-form-polite",
+  "order": "3",
+  "params": {
+    "tai": "tai-plain-forms"
+  },
+  "parents": [
+    "tai-forms"
+  ],
+  "props": {
+    "en": "tai.en",
+    "jp": "tai.jp+'です'"
+  }
+}

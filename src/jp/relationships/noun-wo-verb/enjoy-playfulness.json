@@ -1,0 +1,13 @@
+{
+  "_id": "3vz23v9ti93",
+  "name": "enjoy-playfulness",
+  "params": {
+    "noun": "playfulness",
+    "verb": "enjoy"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

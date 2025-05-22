@@ -1,0 +1,13 @@
+{
+  "_id": "mj5gtkyy3cj",
+  "name": "post",
+  "order": "3",
+  "parents": [
+    "media"
+  ],
+  "props": {
+    "en": "post",
+    "jp": "ポスト",
+    "tl": "ぽすと"
+  }
+}

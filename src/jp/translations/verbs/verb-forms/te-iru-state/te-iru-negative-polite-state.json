@@ -1,0 +1,12 @@
+{
+  "_id": "dlig43rg8ds",
+  "mode": "p",
+  "name": "te-iru-negative-polite-state",
+  "parents": [
+    "te-iru-state"
+  ],
+  "props": {
+    "en": "'isn\\'t '+te.en|r(' and','')+'-ed'",
+    "jp": "te.jp+'いません'"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "6db9ovdutb7",
+  "name": "high-school",
+  "order": "2",
+  "parents": [
+    "schools"
+  ],
+  "props": {
+    "en": "high school",
+    "jp": "高校",
+    "tl": "こうこう"
+  }
+}

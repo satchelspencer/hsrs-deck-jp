@@ -1,0 +1,13 @@
+{
+  "_id": "2sx0zfuf8d3",
+  "name": "coast",
+  "order": "3",
+  "parents": [
+    "absolute-places"
+  ],
+  "props": {
+    "en": "coast",
+    "jp": "海岸",
+    "tl": "かいがん"
+  }
+}

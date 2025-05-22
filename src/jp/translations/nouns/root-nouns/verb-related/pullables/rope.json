@@ -1,0 +1,14 @@
+{
+  "_id": "v65zfct2bfo",
+  "name": "rope",
+  "order": "3",
+  "parents": [
+    "pullables",
+    "objects",
+    "taba-countable"
+  ],
+  "props": {
+    "en": "rope",
+    "jp": "ロープ"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "coces6jnlya",
+  "name": "question-ni-verb-to-people",
+  "params": {
+    "qw": "personal-question-words",
+    "verb": "ni-person-verbs"
+  },
+  "parents": [
+    "question-ni-verb-to"
+  ],
+  "props": {
+  }
+}

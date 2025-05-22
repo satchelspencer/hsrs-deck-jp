@@ -1,0 +1,14 @@
+{
+  "_id": "szldyrtpdge",
+  "name": "moon",
+  "order": "3",
+  "parents": [
+    "weather",
+    "shiners"
+  ],
+  "props": {
+    "en": "moon",
+    "jp": "月",
+    "tl": "つき"
+  }
+}

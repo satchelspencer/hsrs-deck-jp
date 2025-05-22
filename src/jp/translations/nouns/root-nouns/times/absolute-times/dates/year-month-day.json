@@ -1,0 +1,16 @@
+{
+  "_id": "xfy2ump037",
+  "name": "year-month-day",
+  "order": "3",
+  "params": {
+    "month": "month-day",
+    "year": "date-year"
+  },
+  "parents": [
+    "dates"
+  ],
+  "props": {
+    "en": "month.en+' '+year.en",
+    "jp": "year.jp+month.jp"
+  }
+}

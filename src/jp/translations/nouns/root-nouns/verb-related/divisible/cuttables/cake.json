@@ -1,0 +1,14 @@
+{
+  "_id": "tisbctgngsb",
+  "name": "cake",
+  "order": "1",
+  "parents": [
+    "cuttables",
+    "foods",
+    "roastables"
+  ],
+  "props": {
+    "en": "cake",
+    "jp": "ケーキ"
+  }
+}

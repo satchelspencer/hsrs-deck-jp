@@ -1,0 +1,13 @@
+{
+  "_id": "viojd11xxci",
+  "name": "counter-root-parts",
+  "order": "3",
+  "parents": [
+    "counter-roots-kango-simple"
+  ],
+  "props": {
+    "en": "parts",
+    "jp": "部",
+    "tl": "ぶ"
+  }
+}

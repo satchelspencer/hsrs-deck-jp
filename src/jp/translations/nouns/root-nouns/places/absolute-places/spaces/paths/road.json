@@ -1,0 +1,13 @@
+{
+  "_id": "a1v4kce7l2s",
+  "name": "road",
+  "order": "2",
+  "parents": [
+    "paths"
+  ],
+  "props": {
+    "en": "road",
+    "jp": "道路",
+    "tl": "どうろ"
+  }
+}

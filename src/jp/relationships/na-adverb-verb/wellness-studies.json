@@ -1,0 +1,13 @@
+{
+  "_id": "ota72tp6sxr",
+  "name": "wellness-studies",
+  "params": {
+    "na": "wellness",
+    "verb": "studies"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

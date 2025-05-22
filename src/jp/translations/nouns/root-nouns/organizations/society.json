@@ -1,0 +1,13 @@
+{
+  "_id": "v5x0adic0sb",
+  "name": "society",
+  "order": "3",
+  "parents": [
+    "organizations"
+  ],
+  "props": {
+    "en": "society",
+    "jp": "社会",
+    "tl": "しゃかい"
+  }
+}

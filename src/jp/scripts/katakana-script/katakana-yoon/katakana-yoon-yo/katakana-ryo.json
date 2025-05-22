@@ -1,0 +1,13 @@
+{
+  "_id": "zexhd601z5i",
+  "name": "katakana-ryo",
+  "params": {
+    "iis": "katakana-ri"
+  },
+  "parents": [
+    "katakana-yoon-yo"
+  ],
+  "props": {
+    "_tl": "ryo"
+  }
+}

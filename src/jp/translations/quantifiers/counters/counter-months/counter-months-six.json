@@ -1,0 +1,14 @@
+{
+  "_id": "vun3ez1z0i",
+  "name": "counter-months-six",
+  "params": {
+    "number": "six"
+  },
+  "parents": [
+    "counter-months"
+  ],
+  "props": {
+    "en": "june",
+    "tl": "ろくがつ"
+  }
+}

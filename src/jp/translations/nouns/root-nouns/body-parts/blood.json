@@ -1,0 +1,14 @@
+{
+  "_id": "eq2nsyi1kgn",
+  "name": "blood",
+  "order": "3",
+  "parents": [
+    "body-parts",
+    "flowing"
+  ],
+  "props": {
+    "en": "blood",
+    "jp": "血",
+    "tl": "ち"
+  }
+}

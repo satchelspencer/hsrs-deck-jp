@@ -1,0 +1,13 @@
+{
+  "_id": "z2xwmw8cmim",
+  "name": "properly-people-do",
+  "params": {
+    "adv": "properly",
+    "verb": "people-do"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

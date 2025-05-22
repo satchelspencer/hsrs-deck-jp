@@ -1,0 +1,16 @@
+{
+  "_id": "uhl57djzfp",
+  "name": "forgive",
+  "order": "3",
+  "parents": [
+    "godan-su",
+    "people-do",
+    "do-to-people",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "forgive",
+    "jp": "許す",
+    "tl": "ゆるす"
+  }
+}

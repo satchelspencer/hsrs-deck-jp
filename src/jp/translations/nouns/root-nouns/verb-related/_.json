@@ -1,0 +1,10 @@
+{
+  "_id": "9bkinijgkjd",
+  "name": "verb-related",
+  "parents": [
+    "root-nouns"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "vs4z2u7xrni",
+  "constraint": "noun",
+  "name": "relative-pronoun-noun",
+  "order": "2",
+  "params": {
+    "clause": "const-noun-clauses",
+    "pn": "relative-pronouns"
+  },
+  "parents": [
+    "complex-clauses"
+  ],
+  "props": {
+    "en": "clause.en|rg(pn.noun.en, pn.en)",
+    "jp": "clause.jp|rg(pn.noun.jp, pn.jp)"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "63iwrxe616s",
+  "constraint": "verb",
+  "name": "wo-ga",
+  "order": "2",
+  "params": {
+    "rel": "noun-ga-verb",
+    "wo": "noun-wo-obj"
+  },
+  "parents": [
+    "clauses"
+  ],
+  "props": {
+    "en": "rel.noun.en+' '+wo.en",
+    "jp": "rel.noun.jp+'が'+wo.jp"
+  }
+}

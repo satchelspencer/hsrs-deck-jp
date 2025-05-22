@@ -1,0 +1,16 @@
+{
+  "_id": "1ugs1ealblb",
+  "name": "place-kara-made",
+  "order": "3",
+  "params": {
+    "kara": "place-kara",
+    "made": "place-made"
+  },
+  "parents": [
+    "kara-made-places"
+  ],
+  "props": {
+    "en": "kara.en+' '+made.en",
+    "jp": "kara.jp+made.jp"
+  }
+}

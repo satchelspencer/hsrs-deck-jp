@@ -1,0 +1,13 @@
+{
+  "_id": "do64bltgue7",
+  "name": "lonely",
+  "order": "3",
+  "parents": [
+    "i-people"
+  ],
+  "props": {
+    "en": "lonely",
+    "jp": "寂しい",
+    "tl": "さびしい"
+  }
+}

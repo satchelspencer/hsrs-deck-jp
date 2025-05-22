@@ -1,0 +1,12 @@
+{
+  "_id": "vc3iajs92as",
+  "name": "a-season",
+  "parents": [
+    "seasons"
+  ],
+  "props": {
+    "en": "a season",
+    "jp": "季節",
+    "tl": "きせつ"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "250yidaulbe",
+  "name": "new-make",
+  "params": {
+    "iadj": "new",
+    "verb": "make"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

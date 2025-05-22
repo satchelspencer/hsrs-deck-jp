@@ -1,0 +1,13 @@
+{
+  "_id": "m960z5c1vqk",
+  "name": "counter-root-stores",
+  "order": "3",
+  "parents": [
+    "counter-roots-kango-full-t"
+  ],
+  "props": {
+    "en": "stores",
+    "jp": "店",
+    "tl": "てん"
+  }
+}

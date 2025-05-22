@@ -1,0 +1,16 @@
+{
+  "_id": "gyoku129g3f",
+  "name": "be-defeated",
+  "order": "3",
+  "parents": [
+    "people-do",
+    "ni-person-verbs",
+    "te-iru-verbs-state",
+    "ichidan"
+  ],
+  "props": {
+    "en": "be defeated",
+    "jp": "負ける",
+    "tl": "まける"
+  }
+}

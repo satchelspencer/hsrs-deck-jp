@@ -1,0 +1,19 @@
+{
+  "_id": "5o96x9klyqx",
+  "name": "make",
+  "order": "1",
+  "parents": [
+    "godan-ru",
+    "people-do",
+    "do-to-products",
+    "te-iru-verbs-continuous",
+    "de-location-verbs",
+    "do-with-ingredients",
+    "do-with-building-materials"
+  ],
+  "props": {
+    "en": "make",
+    "jp": "作る",
+    "tl": "つくる"
+  }
+}

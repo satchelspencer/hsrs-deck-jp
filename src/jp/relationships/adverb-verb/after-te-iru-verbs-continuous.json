@@ -1,0 +1,13 @@
+{
+  "_id": "24f3esauri5",
+  "name": "after-te-iru-verbs-continuous",
+  "params": {
+    "adv": "after",
+    "verb": "te-iru-verbs-continuous"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

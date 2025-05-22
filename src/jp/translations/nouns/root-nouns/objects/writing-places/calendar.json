@@ -1,0 +1,13 @@
+{
+  "_id": "l2cjzsinxif",
+  "name": "calendar",
+  "order": "2",
+  "parents": [
+    "writing-places"
+  ],
+  "props": {
+    "en": "calendar",
+    "jp": "カレンダー",
+    "tl": "かれんだー"
+  }
+}

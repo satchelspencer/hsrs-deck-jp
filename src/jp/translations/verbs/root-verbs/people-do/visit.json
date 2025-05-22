@@ -1,0 +1,16 @@
+{
+  "_id": "9ie54edvl",
+  "name": "visit",
+  "order": "2",
+  "parents": [
+    "people-do",
+    "do-to-places",
+    "te-iru-verbs-continuous",
+    "ichidan"
+  ],
+  "props": {
+    "en": "visit",
+    "jp": "訪ねる",
+    "tl": "たずねる"
+  }
+}

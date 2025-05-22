@@ -1,0 +1,13 @@
+{
+  "_id": "11a3h8dxywnj",
+  "name": "nose",
+  "order": "2",
+  "parents": [
+    "body-parts"
+  ],
+  "props": {
+    "en": "nose",
+    "jp": "鼻",
+    "tl": "はな"
+  }
+}

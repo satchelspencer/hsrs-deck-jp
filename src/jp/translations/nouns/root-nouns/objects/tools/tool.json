@@ -1,0 +1,13 @@
+{
+  "_id": "hxxahsrn4ok",
+  "name": "tool",
+  "order": "3",
+  "parents": [
+    "tools"
+  ],
+  "props": {
+    "en": "tool",
+    "jp": "道具",
+    "tl": "どうぐ"
+  }
+}

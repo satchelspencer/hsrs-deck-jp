@@ -1,0 +1,10 @@
+{
+  "_id": "pu3ekijlr1e",
+  "name": "soku-countable",
+  "parents": [
+    "counter-related"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

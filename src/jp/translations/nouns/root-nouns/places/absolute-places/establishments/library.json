@@ -1,0 +1,13 @@
+{
+  "_id": "ah3yih2hcbr",
+  "name": "library",
+  "order": "2",
+  "parents": [
+    "establishments"
+  ],
+  "props": {
+    "en": "library",
+    "jp": "図書館",
+    "tl": "としょかん"
+  }
+}

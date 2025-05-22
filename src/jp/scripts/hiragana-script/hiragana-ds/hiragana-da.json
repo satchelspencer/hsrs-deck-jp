@@ -1,0 +1,14 @@
+{
+  "_id": "ixqywtmbopn",
+  "name": "hiragana-da",
+  "params": {
+    "t": "hiragana-ta"
+  },
+  "parents": [
+    "hiragana-ds"
+  ],
+  "props": {
+    "_tl": "da",
+    "jp": "だ"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "17bgj04tyuf",
+  "name": "be-divided",
+  "order": "2",
+  "parents": [
+    "ichidan"
+  ],
+  "props": {
+    "en": "be divided",
+    "jp": "分かれる",
+    "tl": "わかれる"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "_id": "9u26mwo9bz",
+  "name": "time-hour",
+  "order": "1",
+  "params": {
+    "hour": "counter-ji"
+  },
+  "parents": [
+    "date-times"
+  ],
+  "props": {
+    "en": "hour.en|r(' oclock', ':00')",
+    "jp": "hour.jp"
+  }
+}

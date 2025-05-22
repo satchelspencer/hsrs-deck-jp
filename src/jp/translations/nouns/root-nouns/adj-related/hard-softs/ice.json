@@ -1,0 +1,14 @@
+{
+  "_id": "avulc6mr39",
+  "name": "ice",
+  "order": "2",
+  "parents": [
+    "hard-softs",
+    "ko-countable"
+  ],
+  "props": {
+    "en": "ice",
+    "jp": "氷",
+    "tl": "こおり"
+  }
+}

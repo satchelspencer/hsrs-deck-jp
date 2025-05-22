@@ -1,0 +1,16 @@
+{
+  "_id": "rmik95exyh",
+  "name": "stand",
+  "order": "1",
+  "parents": [
+    "godan-tsu",
+    "people-do",
+    "ni-at-verbs",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "en": "stand",
+    "jp": "立つ",
+    "tl": "たつ"
+  }
+}

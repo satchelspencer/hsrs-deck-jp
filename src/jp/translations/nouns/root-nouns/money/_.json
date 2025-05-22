@@ -1,0 +1,13 @@
+{
+  "_id": "ljzjm0qb9ne",
+  "name": "money",
+  "parents": [
+    "root-nouns",
+    "fines",
+    "paywiths",
+    "be-requiredables"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "paf0brb9uhc",
+  "name": "recent",
+  "order": "2",
+  "parents": [
+    "relative-time-exprs"
+  ],
+  "props": {
+    "en": "recent",
+    "jp": "最近",
+    "tl": "さいきん"
+  }
+}

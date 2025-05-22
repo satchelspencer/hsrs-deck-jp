@@ -1,0 +1,14 @@
+{
+  "_id": "rqwiwjcgku",
+  "name": "pronounciation",
+  "order": "3",
+  "parents": [
+    "suru-nouns",
+    "people-do",
+    "learnables"
+  ],
+  "props": {
+    "en": "pronunciation",
+    "jp": "発音"
+  }
+}

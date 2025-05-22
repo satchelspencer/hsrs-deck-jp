@@ -1,0 +1,15 @@
+{
+  "_id": "zkcuhzchw7n",
+  "name": "newspaper",
+  "order": "1",
+  "parents": [
+    "objects",
+    "products",
+    "media"
+  ],
+  "props": {
+    "en": "newspaper",
+    "jp": "新聞",
+    "tl": "しんぶん"
+  }
+}

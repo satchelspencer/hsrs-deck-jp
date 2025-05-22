@@ -1,0 +1,15 @@
+{
+  "_id": "vbobmpo2pts",
+  "name": "lesson",
+  "order": "1",
+  "parents": [
+    "events",
+    "takeonables",
+    "absolute-places"
+  ],
+  "props": {
+    "en": "lesson",
+    "jp": "授業",
+    "tl": "じゅぎょう"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "2uzivz7xhz9",
+  "name": "numerous",
+  "order": "3",
+  "parents": [
+    "i-predonly"
+  ],
+  "props": {
+    "en": "numerous",
+    "jp": "多い",
+    "tl": "おおい"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "cafhdu7qcgf",
+  "name": "professor",
+  "order": "3",
+  "parents": [
+    "school-no",
+    "people"
+  ],
+  "props": {
+    "en": "professor",
+    "jp": "教授",
+    "tl": "きょうじゅ"
+  }
+}

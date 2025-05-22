@@ -1,0 +1,13 @@
+{
+  "_id": "pnrovght12b",
+  "name": "gentle-studies",
+  "params": {
+    "iadj": "gentle",
+    "verb": "studies"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

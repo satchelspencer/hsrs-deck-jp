@@ -1,0 +1,13 @@
+{
+  "_id": "a7250puc344",
+  "name": "time-standalone",
+  "params": {
+    "noun": "hours",
+    "root": "hours"
+  },
+  "parents": [
+    "standalone-counter-roots"
+  ],
+  "props": {
+  }
+}

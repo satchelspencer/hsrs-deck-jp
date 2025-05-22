@@ -1,0 +1,13 @@
+{
+  "_id": "uccir1nkyke",
+  "name": "skilled-suru-nouns",
+  "params": {
+    "na": "skilled",
+    "noun": "suru-nouns"
+  },
+  "parents": [
+    "na-predonly-noun"
+  ],
+  "props": {
+  }
+}

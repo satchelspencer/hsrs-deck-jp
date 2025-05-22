@@ -1,0 +1,13 @@
+{
+  "_id": "jzj9uexse7n",
+  "name": "notebook",
+  "order": "1",
+  "parents": [
+    "writing-places"
+  ],
+  "props": {
+    "en": "notebook",
+    "jp": "ノート",
+    "tl": "のーと"
+  }
+}

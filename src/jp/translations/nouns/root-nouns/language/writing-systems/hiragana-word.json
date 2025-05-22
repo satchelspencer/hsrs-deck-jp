@@ -1,0 +1,13 @@
+{
+  "_id": "t0qrzm965kr",
+  "name": "hiragana-word",
+  "order": "2",
+  "parents": [
+    "writing-systems"
+  ],
+  "props": {
+    "en": "hiragana",
+    "jp": "平仮名",
+    "tl": "ひらがな"
+  }
+}

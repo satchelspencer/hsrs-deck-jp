@@ -1,0 +1,13 @@
+{
+  "_id": "averedulda",
+  "name": "smoke",
+  "order": "4",
+  "parents": [
+    "inhaleables"
+  ],
+  "props": {
+    "en": "smoke",
+    "jp": "煙",
+    "tl": "けむり"
+  }
+}

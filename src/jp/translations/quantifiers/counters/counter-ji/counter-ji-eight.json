@@ -1,0 +1,13 @@
+{
+  "_id": "exkkaepdwri",
+  "name": "counter-ji-eight",
+  "params": {
+    "number": "eight"
+  },
+  "parents": [
+    "counter-ji"
+  ],
+  "props": {
+    "tl": "はち~じ"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "24seqoe6syk",
+  "name": "do-ba",
+  "params": {
+    "verb": "do-suru"
+  },
+  "parents": [
+    "verb-ba-plain"
+  ],
+  "props": {
+    "jp": "すれば"
+  }
+}

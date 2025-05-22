@@ -1,0 +1,13 @@
+{
+  "_id": "n6whyll4f99",
+  "mode": "c-r",
+  "name": "aitsu",
+  "order": "4",
+  "parents": [
+    "third-person-pronouns-singular"
+  ],
+  "props": {
+    "en": "that person over there",
+    "jp": "あいつ"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "35tarxzl66r",
+  "name": "trip-back",
+  "order": "3",
+  "parents": [
+    "events"
+  ],
+  "props": {
+    "en": "trip back",
+    "jp": "帰り",
+    "tl": "かえり"
+  }
+}

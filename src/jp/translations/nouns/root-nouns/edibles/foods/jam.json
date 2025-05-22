@@ -1,0 +1,14 @@
+{
+  "_id": "2ydsszobcom",
+  "name": "jam",
+  "order": "3",
+  "parents": [
+    "foods",
+    "ingredients"
+  ],
+  "props": {
+    "en": "jam",
+    "jp": "ジャム",
+    "tl": "じゃむ"
+  }
+}

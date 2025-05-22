@@ -1,0 +1,16 @@
+{
+  "_id": "14ja00bg671",
+  "constraint": "na naform",
+  "name": "yori-noun-na-adj-pred",
+  "params": {
+    "alt": "noun-na-adj-pred",
+    "clause": "noun-na-adj-pred"
+  },
+  "parents": [
+    "yori-comparisons"
+  ],
+  "props": {
+    "en": "clause.en+' more than '+alt.rel.noun.en",
+    "jp": "clause.jp|rg(clause.rel.noun.jp+'が', clause.rel.noun.jp+'は'+alt.rel.noun.jp+'より')"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "sgvgk26szpk",
+  "name": "katakana-zs",
+  "params": {
+    "s": "katakana-ss"
+  },
+  "parents": [
+    "katakana-script"
+  ],
+  "props": {
+    "jp": ""
+  },
+  "virtual": true
+}

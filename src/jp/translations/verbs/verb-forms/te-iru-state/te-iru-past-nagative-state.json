@@ -1,0 +1,12 @@
+{
+  "_id": "dlue84zt9eb",
+  "mode": "c",
+  "name": "te-iru-past-nagative-state",
+  "parents": [
+    "te-iru-state"
+  ],
+  "props": {
+    "en": "'wasn\\'t '+te.en|r(' and','')+'-ed'",
+    "jp": "te.jp+'いなかった'"
+  }
+}

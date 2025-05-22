@@ -1,0 +1,12 @@
+{
+  "_id": "qx6sxh6orz",
+  "mode": "p",
+  "name": "te-iru-past-polite-state",
+  "parents": [
+    "te-iru-state"
+  ],
+  "props": {
+    "en": "'was '+te.en|r(' and','')+'-ed'",
+    "jp": "te.jp+'いました'"
+  }
+}

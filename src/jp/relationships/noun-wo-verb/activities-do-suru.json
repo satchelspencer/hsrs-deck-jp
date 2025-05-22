@@ -1,0 +1,13 @@
+{
+  "_id": "daoijt089sc",
+  "name": "activities-do-suru",
+  "params": {
+    "noun": "activities",
+    "verb": "do-suru"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

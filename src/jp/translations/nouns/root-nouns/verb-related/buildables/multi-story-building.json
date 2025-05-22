@@ -1,0 +1,16 @@
+{
+  "_id": "ff20rrylgz9",
+  "name": "multi-story-building",
+  "order": "3",
+  "parents": [
+    "buildables",
+    "high-low",
+    "ken-buildings-countable",
+    "absolute-places"
+  ],
+  "props": {
+    "en": "multi-story building",
+    "jp": "ビル",
+    "tl": "びる"
+  }
+}

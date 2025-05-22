@@ -1,0 +1,13 @@
+{
+  "_id": "7zuhsgtlb5r",
+  "name": "he",
+  "order": "1",
+  "parents": [
+    "third-person-pronouns-singular"
+  ],
+  "props": {
+    "en": "he",
+    "jp": "彼",
+    "tl": "かれ"
+  }
+}

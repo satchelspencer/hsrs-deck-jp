@@ -1,0 +1,12 @@
+{
+  "_id": "yer56lgowz9",
+  "name": "katakana",
+  "order": "2",
+  "parents": [
+    "writing-systems"
+  ],
+  "props": {
+    "en": "katakana",
+    "jp": "カタカナ"
+  }
+}

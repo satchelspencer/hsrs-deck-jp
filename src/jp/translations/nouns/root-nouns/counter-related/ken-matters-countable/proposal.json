@@ -1,0 +1,14 @@
+{
+  "_id": "eqgee55hino",
+  "name": "proposal",
+  "order": "3",
+  "parents": [
+    "ken-matters-countable",
+    "activities"
+  ],
+  "props": {
+    "en": "proposal",
+    "jp": "提案",
+    "tl": "ていあん"
+  }
+}

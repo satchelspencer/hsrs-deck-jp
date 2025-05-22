@@ -1,0 +1,12 @@
+{
+  "_id": "wdzxva51ey",
+  "mode": "p",
+  "name": "te-iru-past-nagative-polite-state",
+  "parents": [
+    "te-iru-state"
+  ],
+  "props": {
+    "en": "'wasn\\'t '+te.en|r(' and','')+'-ed'",
+    "jp": "te.jp+'いませんでした'"
+  }
+}

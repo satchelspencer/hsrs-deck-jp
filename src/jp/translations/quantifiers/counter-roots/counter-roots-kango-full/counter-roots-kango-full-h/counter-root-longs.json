@@ -1,0 +1,13 @@
+{
+  "_id": "05qlbhzacua",
+  "name": "counter-root-longs",
+  "order": "3",
+  "parents": [
+    "counter-roots-kango-full-h"
+  ],
+  "props": {
+    "en": "longs",
+    "jp": "本",
+    "tl": "ほん"
+  }
+}

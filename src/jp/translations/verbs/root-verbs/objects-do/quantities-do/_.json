@@ -1,0 +1,12 @@
+{
+  "_id": "qhww4byd8ql",
+  "name": "quantities-do",
+  "parents": [
+    "objects-do"
+  ],
+  "props": {
+    "en": null,
+    "jp": null
+  },
+  "virtual": true
+}

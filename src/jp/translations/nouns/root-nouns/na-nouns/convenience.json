@@ -1,0 +1,14 @@
+{
+  "_id": "jkkgj2vls1",
+  "name": "convenience",
+  "order": "1",
+  "parents": [
+    "na-nouns",
+    "na-place"
+  ],
+  "props": {
+    "en": "convenience",
+    "jp": "便利",
+    "tl": "べんり"
+  }
+}

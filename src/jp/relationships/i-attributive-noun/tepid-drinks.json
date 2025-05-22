@@ -1,0 +1,13 @@
+{
+  "_id": "5qx0r4e1fmf",
+  "name": "tepid-drinks",
+  "params": {
+    "iadj": "tepid",
+    "noun": "drinks"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

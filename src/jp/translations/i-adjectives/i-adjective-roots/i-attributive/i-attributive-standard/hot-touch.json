@@ -1,0 +1,13 @@
+{
+  "_id": "569iowh27gb",
+  "name": "hot-touch",
+  "order": "2",
+  "parents": [
+    "i-attributive-standard"
+  ],
+  "props": {
+    "en": "hot to the touch",
+    "jp": "熱い",
+    "tl": "あつい"
+  }
+}

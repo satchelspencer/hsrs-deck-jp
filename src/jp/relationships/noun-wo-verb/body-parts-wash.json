@@ -1,0 +1,13 @@
+{
+  "_id": "hgmtszzlobq",
+  "name": "body-parts-wash",
+  "params": {
+    "noun": "body-parts",
+    "verb": "wash"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

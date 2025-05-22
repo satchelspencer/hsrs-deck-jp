@@ -1,0 +1,14 @@
+{
+  "_id": "i0jjzo1ti6i",
+  "name": "in-the-middle-of",
+  "order": "4",
+  "parents": [
+    "noun-no-relative-time-exprs",
+    "teiru-relative-time-exprs"
+  ],
+  "props": {
+    "en": "in the middle of",
+    "jp": "最中に",
+    "tl": "さいちゅうに"
+  }
+}

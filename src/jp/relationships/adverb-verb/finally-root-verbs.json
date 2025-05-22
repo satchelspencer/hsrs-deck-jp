@@ -1,0 +1,13 @@
+{
+  "_id": "kyr6eqx3mmb",
+  "name": "finally-root-verbs",
+  "params": {
+    "adv": "ultimately",
+    "verb": "root-verbs"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

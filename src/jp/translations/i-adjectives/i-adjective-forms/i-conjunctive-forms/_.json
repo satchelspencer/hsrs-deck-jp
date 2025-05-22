@@ -1,0 +1,11 @@
+{
+  "_id": "r28nr7lfvi",
+  "name": "i-conjunctive-forms",
+  "parents": [
+    "i-adjective-forms",
+    "conjuncting-clauses"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

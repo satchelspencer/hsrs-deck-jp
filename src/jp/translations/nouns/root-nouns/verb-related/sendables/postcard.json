@@ -1,0 +1,13 @@
+{
+  "_id": "5rpheej4von",
+  "name": "postcard",
+  "order": "2",
+  "parents": [
+    "sendables"
+  ],
+  "props": {
+    "en": "postcard",
+    "jp": "葉書",
+    "tl": "はがき"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "n9k63dgp35",
+  "name": "attire",
+  "order": "3",
+  "parents": [
+    "choosables"
+  ],
+  "props": {
+    "en": "attire",
+    "jp": "服装",
+    "tl": "ふくそう"
+  }
+}

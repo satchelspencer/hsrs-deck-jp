@@ -1,0 +1,15 @@
+{
+  "_id": "7jiitkhomh4",
+  "name": "convey",
+  "order": "3",
+  "parents": [
+    "people-do",
+    "ni-person-verbs",
+    "ichidan"
+  ],
+  "props": {
+    "en": "convey",
+    "jp": "伝える",
+    "tl": "つたえる"
+  }
+}

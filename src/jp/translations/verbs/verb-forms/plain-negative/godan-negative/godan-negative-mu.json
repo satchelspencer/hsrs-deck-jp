@@ -1,0 +1,14 @@
+{
+  "_id": "zsnj7ewsqfs",
+  "name": "godan-negative-mu",
+  "params": {
+    "verb": "godan-mu"
+  },
+  "parents": [
+    "godan-negative"
+  ],
+  "props": {
+    "en": null,
+    "jp": "verb.jp|r('む', 'まない')"
+  }
+}

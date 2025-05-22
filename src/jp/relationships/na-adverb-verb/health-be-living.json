@@ -1,0 +1,13 @@
+{
+  "_id": "2q7j7d23c1d",
+  "name": "health-be-living",
+  "params": {
+    "na": "health",
+    "verb": "be-living"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

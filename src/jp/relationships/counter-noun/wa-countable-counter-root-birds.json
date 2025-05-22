@@ -1,0 +1,13 @@
+{
+  "_id": "sb49s8wgu4",
+  "name": "wa-countable-counter-root-birds",
+  "params": {
+    "noun": "wa-countable",
+    "root": "counter-root-birds"
+  },
+  "parents": [
+    "counter-noun"
+  ],
+  "props": {
+  }
+}

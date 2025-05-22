@@ -1,0 +1,13 @@
+{
+  "_id": "itpxls8m83",
+  "name": "announcer",
+  "order": "3",
+  "parents": [
+    "roles"
+  ],
+  "props": {
+    "en": "announcer",
+    "jp": "アナウンサー",
+    "tl": "あなうんさー"
+  }
+}

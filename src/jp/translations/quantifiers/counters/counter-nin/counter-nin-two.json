@@ -1,0 +1,14 @@
+{
+  "_id": "h2xhrejln57",
+  "name": "counter-nin-two",
+  "params": {
+    "number": "two"
+  },
+  "parents": [
+    "counter-nin"
+  ],
+  "props": {
+    "jp": "二人",
+    "tl": "ふたり"
+  }
+}

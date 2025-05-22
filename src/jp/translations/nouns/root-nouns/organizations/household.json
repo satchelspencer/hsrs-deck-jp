@@ -1,0 +1,13 @@
+{
+  "_id": "jl28f98r6o",
+  "name": "household",
+  "order": "3",
+  "parents": [
+    "organizations"
+  ],
+  "props": {
+    "en": "household",
+    "jp": "家庭",
+    "tl": "かてい"
+  }
+}

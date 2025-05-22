@@ -1,0 +1,13 @@
+{
+  "_id": "02kmotb2sd72",
+  "name": "terrible",
+  "order": "3",
+  "parents": [
+    "i-attributive-standard"
+  ],
+  "props": {
+    "en": "terrible",
+    "jp": "酷い",
+    "tl": "ひどい"
+  }
+}

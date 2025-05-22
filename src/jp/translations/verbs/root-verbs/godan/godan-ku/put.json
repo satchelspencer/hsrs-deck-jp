@@ -1,0 +1,17 @@
+{
+  "_id": "4gtry0x6vpm",
+  "name": "put",
+  "order": "2",
+  "parents": [
+    "godan-ku",
+    "people-do",
+    "do-to-objects",
+    "ni-destination-verbs",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "en": "put",
+    "jp": "置く",
+    "tl": "おく"
+  }
+}

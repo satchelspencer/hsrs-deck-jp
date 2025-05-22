@@ -1,0 +1,13 @@
+{
+  "_id": "h0joh5jmx8",
+  "name": "be-attached-to-objects",
+  "params": {
+    "noun": "objects",
+    "verb": "be-attached"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

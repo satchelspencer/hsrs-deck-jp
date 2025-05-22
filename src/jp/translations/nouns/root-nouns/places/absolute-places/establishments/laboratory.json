@@ -1,0 +1,13 @@
+{
+  "_id": "f89nle10y3i",
+  "name": "laboratory",
+  "order": "4",
+  "parents": [
+    "establishments"
+  ],
+  "props": {
+    "en": "laboratory",
+    "jp": "研究室",
+    "tl": "けんきゅうしつ"
+  }
+}

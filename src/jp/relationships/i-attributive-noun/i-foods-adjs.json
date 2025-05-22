@@ -1,0 +1,13 @@
+{
+  "_id": "equt9utwyhq",
+  "name": "i-foods-adjs",
+  "params": {
+    "iadj": "i-foods",
+    "noun": "foods"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

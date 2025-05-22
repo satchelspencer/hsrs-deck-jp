@@ -1,0 +1,16 @@
+{
+  "_id": "47atpa6k6ot",
+  "name": "put-in",
+  "order": "1",
+  "parents": [
+    "people-do",
+    "do-to-objects",
+    "te-iru-verbs-state",
+    "ichidan"
+  ],
+  "props": {
+    "en": "put in",
+    "jp": "入れる",
+    "tl": "いれる"
+  }
+}

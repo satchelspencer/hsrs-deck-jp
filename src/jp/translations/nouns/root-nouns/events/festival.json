@@ -1,0 +1,13 @@
+{
+  "_id": "yh8shv50fzl",
+  "name": "festival",
+  "order": "3",
+  "parents": [
+    "events"
+  ],
+  "props": {
+    "en": "festival",
+    "jp": "お祭り",
+    "tl": "おまつり"
+  }
+}

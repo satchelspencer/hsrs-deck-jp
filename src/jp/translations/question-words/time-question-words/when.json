@@ -1,0 +1,12 @@
+{
+  "_id": "u3j1egbq05",
+  "name": "when",
+  "order": "1",
+  "parents": [
+    "time-question-words"
+  ],
+  "props": {
+    "en": "when",
+    "jp": "いつ"
+  }
+}

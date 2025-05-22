@@ -1,0 +1,13 @@
+{
+  "_id": "dkn768odoj7",
+  "name": "amazing",
+  "order": "3",
+  "parents": [
+    "i-people"
+  ],
+  "props": {
+    "en": "amazing",
+    "jp": "凄い",
+    "tl": "すごい"
+  }
+}

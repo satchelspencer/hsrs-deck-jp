@@ -1,0 +1,13 @@
+{
+  "_id": "xr1dq4okfx",
+  "name": "important-to-rear",
+  "params": {
+    "na": "important",
+    "verb": "to-rear"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "_id": "nzms1x3qv5",
+  "name": "be-decreased",
+  "order": "3",
+  "parents": [
+    "godan-ru",
+    "quantities-do",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "en": "be decreased",
+    "jp": "減る",
+    "tl": "へる"
+  }
+}

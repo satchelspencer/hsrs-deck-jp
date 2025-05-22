@@ -1,0 +1,12 @@
+{
+  "_id": "pr4j216gps",
+  "name": "hiraku-tojiru",
+  "parents": [
+    "openables"
+  ],
+  "props": {
+    "en": null,
+    "jp": null
+  },
+  "virtual": true
+}

@@ -1,0 +1,15 @@
+{
+  "_id": "6jgxa0coz3o",
+  "name": "godan-negative",
+  "params": {
+    "verb": "godan"
+  },
+  "parents": [
+    "plain-negative"
+  ],
+  "props": {
+    "en": null,
+    "jp": null
+  },
+  "virtual": true
+}

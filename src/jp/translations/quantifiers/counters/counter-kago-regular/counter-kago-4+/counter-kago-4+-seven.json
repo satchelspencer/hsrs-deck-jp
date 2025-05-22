@@ -1,0 +1,13 @@
+{
+  "_id": "glp77rpi57o",
+  "name": "counter-kago-4+-seven",
+  "params": {
+    "number": "seven"
+  },
+  "parents": [
+    "counter-kago-4+"
+  ],
+  "props": {
+    "tl": "$.jp"
+  }
+}

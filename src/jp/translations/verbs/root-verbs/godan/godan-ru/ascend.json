@@ -1,0 +1,16 @@
+{
+  "_id": "nd4tuyxc2sc",
+  "name": "ascend",
+  "order": "3",
+  "parents": [
+    "godan-ru",
+    "people-do",
+    "he-related-verbs",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "en": "ascend",
+    "jp": "上る",
+    "tl": "のぼる"
+  }
+}

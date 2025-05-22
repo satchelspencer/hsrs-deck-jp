@@ -1,0 +1,15 @@
+{
+  "_id": "v6g8ytl58ua",
+  "name": "start-to-shower-down",
+  "order": "3",
+  "parents": [
+    "godan-su",
+    "te-iru-verbs-continuous",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "start to shower down",
+    "jp": "降り出す",
+    "tl": "ふりだす"
+  }
+}

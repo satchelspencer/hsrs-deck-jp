@@ -1,0 +1,17 @@
+{
+  "_id": "2qqmyfltgrb",
+  "name": "enjoy",
+  "order": "2",
+  "parents": [
+    "godan-mu",
+    "people-do",
+    "do-to-edibles",
+    "te-iru-verbs-continuous",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "enjoy",
+    "jp": "楽しむ",
+    "tl": "たのしむ"
+  }
+}

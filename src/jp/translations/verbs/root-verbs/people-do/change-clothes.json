@@ -1,0 +1,17 @@
+{
+  "_id": "ahvycallvs",
+  "name": "change-clothes",
+  "order": "3",
+  "parents": [
+    "people-do",
+    "do-to-clothing",
+    "te-iru-verbs-continuous",
+    "de-location-verbs",
+    "ichidan"
+  ],
+  "props": {
+    "en": "change clothes",
+    "jp": "着替える",
+    "tl": "きがえる"
+  }
+}

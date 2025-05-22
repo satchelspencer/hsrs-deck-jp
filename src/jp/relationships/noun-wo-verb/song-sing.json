@@ -1,0 +1,13 @@
+{
+  "_id": "bzjl1vq1st",
+  "name": "song-sing",
+  "params": {
+    "noun": "song",
+    "verb": "sing"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

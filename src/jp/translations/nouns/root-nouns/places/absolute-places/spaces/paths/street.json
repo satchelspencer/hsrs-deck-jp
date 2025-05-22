@@ -1,0 +1,13 @@
+{
+  "_id": "eheru1oktcb",
+  "name": "street",
+  "order": "1",
+  "parents": [
+    "paths"
+  ],
+  "props": {
+    "en": "street",
+    "jp": "道",
+    "tl": "みち"
+  }
+}

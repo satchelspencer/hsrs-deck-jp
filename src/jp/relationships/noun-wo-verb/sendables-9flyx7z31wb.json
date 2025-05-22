@@ -1,0 +1,13 @@
+{
+  "_id": "8c6oasphnyg",
+  "name": "sendables-9flyx7z31wb",
+  "params": {
+    "noun": "sendables",
+    "verb": "do-to-sendables"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

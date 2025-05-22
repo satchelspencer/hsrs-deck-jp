@@ -1,0 +1,13 @@
+{
+  "_id": "0gwlp7r0716a",
+  "name": "counter-kago-4+-ten-w",
+  "params": {
+    "root": "counter-roots-kango-4+-w"
+  },
+  "parents": [
+    "counter-kago-4+-ten"
+  ],
+  "props": {
+    "tl": "'じっ'+root.tl|pcr('わ', 'ぱ')"
+  }
+}

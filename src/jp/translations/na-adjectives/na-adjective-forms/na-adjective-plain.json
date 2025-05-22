@@ -1,0 +1,18 @@
+{
+  "_id": "lhscy7c2amd",
+  "name": "na-adjective-plain",
+  "order": "1",
+  "params": {
+    "na": "na-attributive"
+  },
+  "parents": [
+    "na-adjective-forms",
+    "na-desu-forms",
+    "ka-na-forms",
+    "na-plain-forms"
+  ],
+  "props": {
+    "en": "na.en",
+    "jp": "na.jp"
+  }
+}

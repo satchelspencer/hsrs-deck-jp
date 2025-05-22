@@ -1,0 +1,13 @@
+{
+  "_id": "mhv9hohzgls",
+  "name": "counter-nin-seven",
+  "params": {
+    "number": "seven"
+  },
+  "parents": [
+    "counter-nin"
+  ],
+  "props": {
+    "tl": "しち~にん"
+  }
+}

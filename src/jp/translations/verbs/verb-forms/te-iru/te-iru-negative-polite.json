@@ -1,0 +1,13 @@
+{
+  "_id": "pja4d4ae61",
+  "mode": "p",
+  "name": "te-iru-negative-polite",
+  "order": "1",
+  "parents": [
+    "te-iru"
+  ],
+  "props": {
+    "en": "'not '+te.en|r(' and','')+'-ing'",
+    "jp": "te.jp+'いません'"
+  }
+}

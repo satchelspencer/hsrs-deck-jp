@@ -1,0 +1,13 @@
+{
+  "_id": "g5wypm6vpgt",
+  "name": "katakana-chu",
+  "params": {
+    "iis": "katakana-chi"
+  },
+  "parents": [
+    "katakana-yoon-yu"
+  ],
+  "props": {
+    "_tl": "chu"
+  }
+}

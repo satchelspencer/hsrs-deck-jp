@@ -1,0 +1,13 @@
+{
+  "_id": "ju78i8nl1j",
+  "name": "the-other-day",
+  "order": "3",
+  "parents": [
+    "relative-time-exprs"
+  ],
+  "props": {
+    "en": "the other day",
+    "jp": "この間",
+    "tl": "このあいだ"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "1r72500onjk",
+  "name": "white-be-seen",
+  "params": {
+    "iadj": "white",
+    "verb": "be-seen"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

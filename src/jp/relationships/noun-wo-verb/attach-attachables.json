@@ -1,0 +1,13 @@
+{
+  "_id": "i7plotdtq98",
+  "name": "attach-attachables",
+  "params": {
+    "noun": "attachables",
+    "verb": "attach"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

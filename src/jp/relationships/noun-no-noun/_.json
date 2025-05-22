@@ -1,0 +1,14 @@
+{
+  "_id": "evwi6snqw54",
+  "name": "noun-no-noun",
+  "params": {
+    "noun": "root-nouns",
+    "owner": "root-nouns"
+  },
+  "parents": [
+    "relationships"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

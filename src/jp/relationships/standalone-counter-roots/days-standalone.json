@@ -1,0 +1,13 @@
+{
+  "_id": "y5f51s7kono",
+  "name": "days-standalone",
+  "params": {
+    "noun": "day-of-the-month",
+    "root": "day-of-the-month"
+  },
+  "parents": [
+    "standalone-counter-roots"
+  ],
+  "props": {
+  }
+}

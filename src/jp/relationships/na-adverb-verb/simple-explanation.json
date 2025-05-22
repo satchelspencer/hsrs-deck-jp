@@ -1,0 +1,13 @@
+{
+  "_id": "8whsypkfp4h",
+  "name": "simple-explanation",
+  "params": {
+    "na": "simple",
+    "verb": "explanation"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

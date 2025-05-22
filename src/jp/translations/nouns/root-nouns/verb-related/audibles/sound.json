@@ -1,0 +1,14 @@
+{
+  "_id": "kr9cc64xd6g",
+  "name": "sound",
+  "order": "2",
+  "parents": [
+    "audibles",
+    "thins"
+  ],
+  "props": {
+    "en": "sound",
+    "jp": "音",
+    "tl": "おと"
+  }
+}

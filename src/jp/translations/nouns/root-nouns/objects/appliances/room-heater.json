@@ -1,0 +1,13 @@
+{
+  "_id": "ryo3bfbhhmq",
+  "name": "room-heater",
+  "order": "3",
+  "parents": [
+    "appliances"
+  ],
+  "props": {
+    "en": "room heater",
+    "jp": "ストーブ",
+    "tl": "すとーぶ"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "qlgp1pzg3c8",
+  "name": "inhale-deeply",
+  "params": {
+    "iadj": "deep",
+    "verb": "inhale-it"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

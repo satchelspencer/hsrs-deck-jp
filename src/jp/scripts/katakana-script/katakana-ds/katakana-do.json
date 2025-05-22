@@ -1,0 +1,14 @@
+{
+  "_id": "s16s50jnr4m",
+  "name": "katakana-do",
+  "params": {
+    "t": "katakana-to"
+  },
+  "parents": [
+    "katakana-ds"
+  ],
+  "props": {
+    "_tl": "do",
+    "jp": "ド"
+  }
+}

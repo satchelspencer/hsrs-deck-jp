@@ -1,0 +1,13 @@
+{
+  "_id": "3k0uzpwxl1a",
+  "name": "rumor",
+  "order": "3",
+  "parents": [
+    "informations"
+  ],
+  "props": {
+    "en": "rumor",
+    "jp": "噂",
+    "tl": "うわさ"
+  }
+}

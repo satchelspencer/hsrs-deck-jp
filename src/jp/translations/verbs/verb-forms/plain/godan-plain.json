@@ -1,0 +1,13 @@
+{
+  "_id": "6xaqmkjqe8y",
+  "name": "godan-plain",
+  "params": {
+    "verb": "godan"
+  },
+  "parents": [
+    "plain"
+  ],
+  "props": {
+    "tl": "$.jp"
+  }
+}

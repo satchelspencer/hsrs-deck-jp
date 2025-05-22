@@ -1,0 +1,13 @@
+{
+  "_id": "z6lg1d8b7ih",
+  "name": "early-go-home",
+  "params": {
+    "iadj": "early",
+    "verb": "go-home"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

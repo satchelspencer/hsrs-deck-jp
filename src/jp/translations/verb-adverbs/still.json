@@ -1,0 +1,12 @@
+{
+  "_id": "mmom97s7op",
+  "name": "still",
+  "order": "2",
+  "parents": [
+    "verb-adverbs"
+  ],
+  "props": {
+    "en": "still",
+    "jp": "まだ"
+  }
+}

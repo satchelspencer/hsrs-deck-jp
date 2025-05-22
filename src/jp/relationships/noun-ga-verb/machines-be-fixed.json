@@ -1,0 +1,13 @@
+{
+  "_id": "uyo2pekejz",
+  "name": "machines-be-fixed",
+  "params": {
+    "noun": "machines",
+    "verb": "be-fixed"
+  },
+  "parents": [
+    "noun-ga-verb"
+  ],
+  "props": {
+  }
+}

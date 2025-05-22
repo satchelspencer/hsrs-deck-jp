@@ -1,0 +1,16 @@
+{
+  "_id": "hoypk24w6m",
+  "name": "bite",
+  "order": "3",
+  "parents": [
+    "godan-mu",
+    "people-do",
+    "animals-do",
+    "do-to-foods"
+  ],
+  "props": {
+    "en": "bite",
+    "jp": "噛む",
+    "tl": "かむ"
+  }
+}

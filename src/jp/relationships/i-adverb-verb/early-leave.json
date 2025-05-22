@@ -1,0 +1,13 @@
+{
+  "_id": "d4ajegpvx9t",
+  "name": "early-leave",
+  "params": {
+    "iadj": "early",
+    "verb": "leave"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

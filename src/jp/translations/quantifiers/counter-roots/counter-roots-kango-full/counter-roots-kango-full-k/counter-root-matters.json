@@ -1,0 +1,13 @@
+{
+  "_id": "ehlfq0x0t5f",
+  "name": "counter-root-matters",
+  "order": "3",
+  "parents": [
+    "counter-roots-kango-full-k"
+  ],
+  "props": {
+    "en": "matters",
+    "jp": "件",
+    "tl": "けん"
+  }
+}

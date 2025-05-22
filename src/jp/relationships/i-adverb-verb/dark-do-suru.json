@@ -1,0 +1,13 @@
+{
+  "_id": "575ouudfg0i",
+  "name": "dark-do-suru",
+  "params": {
+    "iadj": "dark",
+    "verb": "do-suru"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

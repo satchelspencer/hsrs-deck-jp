@@ -1,0 +1,14 @@
+{
+  "_id": "0328vp1nsjoa",
+  "name": "be-in-time",
+  "order": "3",
+  "parents": [
+    "godan-u",
+    "people-do"
+  ],
+  "props": {
+    "en": "be in time",
+    "jp": "間に合う",
+    "tl": "まにあう"
+  }
+}

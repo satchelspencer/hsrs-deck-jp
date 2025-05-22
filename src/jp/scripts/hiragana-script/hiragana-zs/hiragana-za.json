@@ -1,0 +1,14 @@
+{
+  "_id": "2wf798xgea",
+  "name": "hiragana-za",
+  "params": {
+    "s": "hiragana-sa"
+  },
+  "parents": [
+    "hiragana-zs"
+  ],
+  "props": {
+    "_tl": "za",
+    "jp": "ざ"
+  }
+}

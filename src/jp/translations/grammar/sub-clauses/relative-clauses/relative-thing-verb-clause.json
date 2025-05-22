@@ -1,0 +1,19 @@
+{
+  "_id": "by74sgi3ez4",
+  "constraint": "form noun verb",
+  "name": "relative-thing-verb-clause",
+  "order": "3",
+  "params": {
+    "clause": "noun-wo-obj",
+    "form": "relative-clause-verb-forms",
+    "noun": "thing-words",
+    "rel": "verb-people-do"
+  },
+  "parents": [
+    "relative-clauses"
+  ],
+  "props": {
+    "en": "clause.rel.noun.en+' that i '+clause.form.en",
+    "jp": "clause.form.jp+clause.rel.noun.jp"
+  }
+}

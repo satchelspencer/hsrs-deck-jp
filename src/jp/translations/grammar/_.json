@@ -1,0 +1,12 @@
+{
+  "_id": "1i1csox2sjl",
+  "name": "grammar",
+  "parents": [
+    "translations"
+  ],
+  "props": {
+    "en": "",
+    "tl": ""
+  },
+  "virtual": true
+}

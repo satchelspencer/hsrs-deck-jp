@@ -1,0 +1,12 @@
+{
+  "_id": "m1wao7g9lsq",
+  "name": "grapes",
+  "order": "3",
+  "parents": [
+    "foods"
+  ],
+  "props": {
+    "en": "grapes",
+    "jp": "ぶどう"
+  }
+}

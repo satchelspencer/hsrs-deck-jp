@@ -1,0 +1,13 @@
+{
+  "_id": "4awvpvf41yc",
+  "name": "headgear-wear-head",
+  "params": {
+    "noun": "headgear",
+    "verb": "wear-head"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

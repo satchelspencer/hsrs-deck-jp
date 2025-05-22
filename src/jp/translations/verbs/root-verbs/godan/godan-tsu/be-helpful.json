@@ -1,0 +1,16 @@
+{
+  "_id": "2vhm7pwgnqn",
+  "name": "be-helpful",
+  "order": "3",
+  "parents": [
+    "godan-tsu",
+    "ni-person-verbs",
+    "activities-do",
+    "objects-do"
+  ],
+  "props": {
+    "en": "be helpful",
+    "jp": "役に立つ",
+    "tl": "やくにたつ"
+  }
+}

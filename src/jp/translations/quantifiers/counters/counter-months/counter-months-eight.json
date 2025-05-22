@@ -1,0 +1,14 @@
+{
+  "_id": "j8dq1kejphi",
+  "name": "counter-months-eight",
+  "params": {
+    "number": "eight"
+  },
+  "parents": [
+    "counter-months"
+  ],
+  "props": {
+    "en": "august",
+    "tl": "はちがつ"
+  }
+}

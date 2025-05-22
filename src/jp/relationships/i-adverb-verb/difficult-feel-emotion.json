@@ -1,0 +1,13 @@
+{
+  "_id": "hxqj5rbjytp",
+  "name": "difficult-feel-emotion",
+  "params": {
+    "iadj": "difficult",
+    "verb": "feel-emotion"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "f55o9w2nzi",
+  "name": "objection",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "people-do",
+    "te-iru-verbs-continuous",
+    "ken-matters-countable",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "objection",
+    "jp": "反対",
+    "tl": "はんたい"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "fge5p6ay8x",
+  "name": "first-person-pronoun-tai",
+  "order": "2",
+  "params": {
+    "pn": "first-person-pronouns",
+    "tai": "tai-forms"
+  },
+  "parents": [
+    "pronoun-clauses"
+  ],
+  "props": {
+    "en": "pn.en+' '+tai.en",
+    "jp": "pn.jp+'が'+tai.jp"
+  }
+}

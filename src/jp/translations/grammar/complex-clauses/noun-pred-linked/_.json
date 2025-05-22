@@ -1,0 +1,15 @@
+{
+  "_id": "hxp24tg3kuj",
+  "constraint": "noun",
+  "name": "noun-pred-linked",
+  "order": "3",
+  "params": {
+    "te": "noun-pred-te-forms"
+  },
+  "parents": [
+    "complex-clauses"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

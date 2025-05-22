@@ -1,0 +1,10 @@
+{
+  "_id": "g1qmv6zmu4r",
+  "name": "location-question-words",
+  "parents": [
+    "question-words"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

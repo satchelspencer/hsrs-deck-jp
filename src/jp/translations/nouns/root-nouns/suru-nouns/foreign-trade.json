@@ -1,0 +1,16 @@
+{
+  "_id": "z2mugaubbth",
+  "name": "foreign-trade",
+  "order": "3",
+  "parents": [
+    "suru-nouns",
+    "people-do",
+    "learnables",
+    "industries"
+  ],
+  "props": {
+    "en": "foreign trade",
+    "jp": "貿易",
+    "tl": "ぼうえき"
+  }
+}

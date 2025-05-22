@@ -1,0 +1,13 @@
+{
+  "_id": "eu2gytzqo6g",
+  "name": "excellent-people",
+  "params": {
+    "iadj": "excellent",
+    "noun": "people"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

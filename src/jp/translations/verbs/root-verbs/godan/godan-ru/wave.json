@@ -1,0 +1,15 @@
+{
+  "_id": "lisqn24qt2o",
+  "name": "wave",
+  "order": "4",
+  "parents": [
+    "godan-ru",
+    "te-iru-verbs-continuous",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "wave",
+    "jp": "振る",
+    "tl": "ふる"
+  }
+}

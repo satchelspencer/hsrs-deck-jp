@@ -1,0 +1,13 @@
+{
+  "_id": "9pbg10lk3up",
+  "name": "soy-sauce",
+  "order": "1",
+  "parents": [
+    "ingredients"
+  ],
+  "props": {
+    "en": "soy sauce",
+    "jp": "醬油",
+    "tl": "しょうゆ"
+  }
+}

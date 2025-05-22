@@ -1,0 +1,14 @@
+{
+  "_id": "96lbl6l16x7",
+  "name": "counter-root-seats",
+  "order": "3",
+  "parents": [
+    "counter-roots-kango-3+-only-s",
+    "choosables"
+  ],
+  "props": {
+    "en": "seats",
+    "jp": "席",
+    "tl": "せき"
+  }
+}

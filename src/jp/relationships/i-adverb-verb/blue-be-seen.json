@@ -1,0 +1,13 @@
+{
+  "_id": "sn7r37kat7",
+  "name": "blue-be-seen",
+  "params": {
+    "iadj": "blue",
+    "verb": "be-seen"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

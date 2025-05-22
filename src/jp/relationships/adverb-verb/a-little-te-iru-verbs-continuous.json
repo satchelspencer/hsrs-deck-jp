@@ -1,0 +1,13 @@
+{
+  "_id": "h6cd7wijtaf",
+  "name": "a-little-te-iru-verbs-continuous",
+  "params": {
+    "adv": "a-little",
+    "verb": "te-iru-verbs-continuous"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

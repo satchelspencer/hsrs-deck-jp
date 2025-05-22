@@ -1,0 +1,14 @@
+{
+  "_id": "bkfrpaeslv",
+  "mode": "c",
+  "name": "evening-meal-casual",
+  "order": "3",
+  "parents": [
+    "meals"
+  ],
+  "props": {
+    "en": "evening meal",
+    "jp": "夕飯",
+    "tl": "ゆうはん"
+  }
+}

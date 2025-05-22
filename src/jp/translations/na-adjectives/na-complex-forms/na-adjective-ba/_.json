@@ -1,0 +1,13 @@
+{
+  "_id": "lq30ssuvf7c",
+  "mode": "---w",
+  "name": "na-adjective-ba",
+  "order": "3",
+  "parents": [
+    "na-complex-forms",
+    "ba-conditional-clauses"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

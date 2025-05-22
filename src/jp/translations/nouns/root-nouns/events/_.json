@@ -1,0 +1,11 @@
+{
+  "_id": "ez60jf60p1n",
+  "name": "events",
+  "parents": [
+    "root-nouns",
+    "short-long"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

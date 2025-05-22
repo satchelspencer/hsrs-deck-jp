@@ -1,0 +1,13 @@
+{
+  "_id": "vspj4h0nlz",
+  "name": "art-museum",
+  "order": "3",
+  "parents": [
+    "establishments"
+  ],
+  "props": {
+    "en": "art museum",
+    "jp": "美術館",
+    "tl": "びじゅつかん"
+  }
+}

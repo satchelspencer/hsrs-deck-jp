@@ -1,0 +1,13 @@
+{
+  "_id": "m3bviybg08j",
+  "name": "aunt",
+  "order": "2",
+  "parents": [
+    "family"
+  ],
+  "props": {
+    "en": "aunt",
+    "jp": "伯母さん",
+    "tl": "おばさん"
+  }
+}

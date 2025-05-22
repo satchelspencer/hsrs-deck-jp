@@ -1,0 +1,16 @@
+{
+  "_id": "5ig005umras",
+  "name": "fix",
+  "order": "2",
+  "parents": [
+    "godan-su",
+    "people-do",
+    "te-iru-verbs-continuous",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "fix",
+    "jp": "直す",
+    "tl": "なおす"
+  }
+}

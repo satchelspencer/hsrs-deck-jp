@@ -1,0 +1,12 @@
+{
+  "_id": "d228zdna566",
+  "name": "transports",
+  "parents": [
+    "root-nouns",
+    "audibles",
+    "machines"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

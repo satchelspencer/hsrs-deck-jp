@@ -1,0 +1,13 @@
+{
+  "_id": "tgoivo71zj",
+  "name": "counter-root-schools",
+  "order": "3",
+  "parents": [
+    "counter-roots-kango-full-k"
+  ],
+  "props": {
+    "en": "schools",
+    "jp": "校",
+    "tl": "こう"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "f6tp07cphrj",
+  "name": "favor",
+  "order": "1",
+  "parents": [
+    "suru-nouns",
+    "people-do",
+    "te-iru-verbs-continuous",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "favor",
+    "jp": "お願い",
+    "tl": "おねがい"
+  }
+}

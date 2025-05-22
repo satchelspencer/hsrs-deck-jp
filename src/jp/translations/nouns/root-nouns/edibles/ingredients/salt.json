@@ -1,0 +1,13 @@
+{
+  "_id": "azslhe1fejl",
+  "name": "salt",
+  "order": "1",
+  "parents": [
+    "ingredients"
+  ],
+  "props": {
+    "en": "salt",
+    "jp": "塩",
+    "tl": "しお"
+  }
+}

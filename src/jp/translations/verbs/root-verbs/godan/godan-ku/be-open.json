@@ -1,0 +1,15 @@
+{
+  "_id": "82msw51eok",
+  "name": "be-open",
+  "order": "2",
+  "parents": [
+    "godan-ku",
+    "openables-do",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "en": "be open",
+    "jp": "開く",
+    "tl": "あく"
+  }
+}

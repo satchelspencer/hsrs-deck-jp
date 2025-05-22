@@ -1,0 +1,12 @@
+{
+  "_id": "dbipcfca6n9",
+  "mode": "p",
+  "name": "te-iru-past-nagative-polite",
+  "parents": [
+    "te-iru"
+  ],
+  "props": {
+    "en": "'wasn\\'t '+te.en|r(' and','')+'-ing'",
+    "jp": "te.jp+'いませんでした'"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "kerrcrng2jq",
+  "name": "dark-become",
+  "params": {
+    "iadj": "dark",
+    "verb": "become"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "0y1uc7bqb6ps",
+  "name": "wide",
+  "order": "2",
+  "parents": [
+    "i-attributive-standard"
+  ],
+  "props": {
+    "en": "wide",
+    "jp": "広い",
+    "tl": "ひろい"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "_id": "ay3uilkq7i",
+  "name": "plane",
+  "order": "2",
+  "parents": [
+    "transports",
+    "flying-things",
+    "reservables"
+  ],
+  "props": {
+    "en": "plane",
+    "jp": "飛行機",
+    "tl": "ひこうき"
+  }
+}

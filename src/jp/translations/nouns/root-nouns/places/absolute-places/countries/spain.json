@@ -1,0 +1,13 @@
+{
+  "_id": "54hjeyzn7fj",
+  "name": "spain",
+  "order": "2",
+  "parents": [
+    "countries"
+  ],
+  "props": {
+    "en": "spain",
+    "jp": "スペイン",
+    "tl": "すぺいん"
+  }
+}

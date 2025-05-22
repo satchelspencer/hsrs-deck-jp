@@ -1,0 +1,13 @@
+{
+  "_id": "s98df0ozq2c",
+  "name": "be-in-time-to-events",
+  "params": {
+    "noun": "events",
+    "verb": "be-in-time"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

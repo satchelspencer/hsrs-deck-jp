@@ -1,0 +1,15 @@
+{
+  "_id": "pun2gkfgirr",
+  "name": "turn-back",
+  "order": "2",
+  "parents": [
+    "godan-ru",
+    "movers-do",
+    "he-related-verbs"
+  ],
+  "props": {
+    "en": "turn back",
+    "jp": "戻る",
+    "tl": "もどる"
+  }
+}

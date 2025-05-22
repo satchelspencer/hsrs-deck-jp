@@ -1,0 +1,14 @@
+{
+  "_id": "hwwltynzw6n",
+  "name": "sky",
+  "order": "2",
+  "parents": [
+    "weather",
+    "light-darks"
+  ],
+  "props": {
+    "en": "sky",
+    "jp": "空",
+    "tl": "そら"
+  }
+}

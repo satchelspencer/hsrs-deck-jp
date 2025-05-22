@@ -1,0 +1,14 @@
+{
+  "_id": "f2biexhl21s",
+  "name": "counter-months-twelve",
+  "params": {
+    "number": "twelve"
+  },
+  "parents": [
+    "counter-months"
+  ],
+  "props": {
+    "en": "december",
+    "tl": "じゅうにがつ\t"
+  }
+}

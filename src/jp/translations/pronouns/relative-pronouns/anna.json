@@ -1,0 +1,15 @@
+{
+  "_id": "mes82dx05a",
+  "name": "anna",
+  "order": "3",
+  "params": {
+    "noun": "seeables"
+  },
+  "parents": [
+    "relative-pronouns"
+  ],
+  "props": {
+    "en": "noun.en+' like that over there'",
+    "jp": "'あんな'+noun.jp"
+  }
+}

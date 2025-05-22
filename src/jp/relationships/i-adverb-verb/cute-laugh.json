@@ -1,0 +1,13 @@
+{
+  "_id": "yld2uo0hleg",
+  "name": "cute-laugh",
+  "params": {
+    "iadj": "cute",
+    "verb": "laugh"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

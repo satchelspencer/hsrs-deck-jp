@@ -1,0 +1,14 @@
+{
+  "_id": "yyu8ddrofr",
+  "name": "godan-negative-gu",
+  "params": {
+    "verb": "godan-gu"
+  },
+  "parents": [
+    "godan-negative"
+  ],
+  "props": {
+    "en": null,
+    "jp": "verb.jp|r('ぐ', 'がない')"
+  }
+}

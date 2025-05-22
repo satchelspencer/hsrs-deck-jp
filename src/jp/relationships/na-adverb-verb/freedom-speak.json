@@ -1,0 +1,13 @@
+{
+  "_id": "yhpbxqvf73",
+  "name": "freedom-speak",
+  "params": {
+    "na": "freedom",
+    "verb": "speak"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

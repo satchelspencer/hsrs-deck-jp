@@ -1,0 +1,10 @@
+{
+  "_id": "kw87ate9tt",
+  "name": "noun-no-relative-time-exprs",
+  "parents": [
+    "relative-time-exprs"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "wscaq4dzk1n",
+  "name": "disliked",
+  "order": "2",
+  "parents": [
+    "na-informations",
+    "na-preferables"
+  ],
+  "props": {
+    "en": "disliked",
+    "jp": "嫌い",
+    "tl": "きらい"
+  }
+}

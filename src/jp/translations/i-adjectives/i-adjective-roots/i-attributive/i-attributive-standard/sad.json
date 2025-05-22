@@ -1,0 +1,14 @@
+{
+  "_id": "pqlhjtd2wfn",
+  "name": "sad",
+  "order": "2",
+  "parents": [
+    "i-attributive-standard",
+    "i-people"
+  ],
+  "props": {
+    "en": "sad",
+    "jp": "悲しい",
+    "tl": "かなしい"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "_id": "hjug2qnemuo",
+  "name": "godan",
+  "parents": [
+    "root-verbs"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

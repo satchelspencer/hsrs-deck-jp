@@ -1,0 +1,13 @@
+{
+  "_id": "43eoqqjwyk5",
+  "name": "animal-no-nouns",
+  "params": {
+    "noun": "animal-no",
+    "owner": "animal"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

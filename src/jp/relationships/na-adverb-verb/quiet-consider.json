@@ -1,0 +1,13 @@
+{
+  "_id": "9cr2a3g523c",
+  "name": "quiet-consider",
+  "params": {
+    "na": "quiet",
+    "verb": "consider"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

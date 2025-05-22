@@ -1,0 +1,13 @@
+{
+  "_id": "n3u7fsde1c",
+  "name": "surely-root-verbs",
+  "params": {
+    "adv": "surely",
+    "verb": "root-verbs"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

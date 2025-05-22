@@ -1,0 +1,13 @@
+{
+  "_id": "5odsttn7nof",
+  "name": "sweet",
+  "order": "2",
+  "parents": [
+    "i-attributive-standard"
+  ],
+  "props": {
+    "en": "sweet",
+    "jp": "甘い",
+    "tl": "あまい"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "e98kzmqdoxm",
+  "mode": "c",
+  "name": "everybody",
+  "order": "2",
+  "parents": [
+    "personal-pronouns"
+  ],
+  "props": {
+    "en": "everybody",
+    "jp": "みんな"
+  }
+}

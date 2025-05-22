@@ -1,0 +1,18 @@
+{
+  "_id": "39ygujljivm",
+  "constraint": "verb",
+  "name": "pronoun-de-in",
+  "order": "1",
+  "params": {
+    "form": "verb-forms",
+    "rel": "pronoun-de-verb-in"
+  },
+  "parents": [
+    "pronoun-clauses",
+    "pronoun-temporal-verb-clauses"
+  ],
+  "props": {
+    "en": "rel.pn.en+' '+form.en",
+    "jp": "rel.pn.jp+'で'+form.jp"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "cyzwvsx6yct",
+  "name": "my-younger-brother",
+  "order": "1",
+  "parents": [
+    "family"
+  ],
+  "props": {
+    "en": "my younger brother",
+    "jp": "弟",
+    "tl": "おとうと"
+  }
+}

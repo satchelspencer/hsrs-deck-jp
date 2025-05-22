@@ -1,0 +1,14 @@
+{
+  "_id": "cl7u9cmsne6",
+  "name": "significant",
+  "order": "3",
+  "parents": [
+    "na-informations",
+    "na-seeables"
+  ],
+  "props": {
+    "en": "significant",
+    "jp": "大切",
+    "tl": "たいせつ"
+  }
+}

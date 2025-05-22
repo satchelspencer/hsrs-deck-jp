@@ -1,0 +1,13 @@
+{
+  "_id": "y3o4dy4du9a",
+  "name": "scissors",
+  "order": "2",
+  "parents": [
+    "cutting-utensils",
+    "products"
+  ],
+  "props": {
+    "en": "scissors",
+    "jp": "はさみ"
+  }
+}

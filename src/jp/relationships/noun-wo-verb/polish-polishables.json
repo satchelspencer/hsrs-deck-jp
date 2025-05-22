@@ -1,0 +1,13 @@
+{
+  "_id": "f0br2hmluoq",
+  "name": "polish-polishables",
+  "params": {
+    "noun": "polishables",
+    "verb": "polish"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

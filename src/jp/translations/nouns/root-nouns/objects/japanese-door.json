@@ -1,0 +1,15 @@
+{
+  "_id": "6d8s7z5gsf8",
+  "name": "japanese-door",
+  "order": "2",
+  "parents": [
+    "objects",
+    "akeru-shimeru",
+    "pullables"
+  ],
+  "props": {
+    "en": "japanese door",
+    "jp": "戸",
+    "tl": "と"
+  }
+}

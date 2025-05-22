@@ -1,0 +1,11 @@
+{
+  "_id": "fk6bfompx4l",
+  "name": "footwear",
+  "parents": [
+    "pullonables",
+    "soku-countable"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "wtlysldg2e",
+  "name": "break",
+  "order": "1",
+  "parents": [
+    "events"
+  ],
+  "props": {
+    "en": "break",
+    "jp": "休み",
+    "tl": "やすみ"
+  }
+}

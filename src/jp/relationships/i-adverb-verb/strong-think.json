@@ -1,0 +1,13 @@
+{
+  "_id": "ou1wecj0zaf",
+  "name": "strong-think",
+  "params": {
+    "iadj": "strong",
+    "verb": "think"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

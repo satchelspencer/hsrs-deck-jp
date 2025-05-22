@@ -1,0 +1,13 @@
+{
+  "_id": "93dpi0t6a2",
+  "name": "beautiful-dance",
+  "params": {
+    "iadj": "beautiful",
+    "verb": "dance"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

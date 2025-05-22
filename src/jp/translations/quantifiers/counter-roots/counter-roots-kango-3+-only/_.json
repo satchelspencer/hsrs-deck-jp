@@ -1,0 +1,11 @@
+{
+  "_id": "1t4qwbb2k0a",
+  "name": "counter-roots-kango-3+-only",
+  "parents": [
+    "counter-roots",
+    "counter-roots-wago-2--only"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

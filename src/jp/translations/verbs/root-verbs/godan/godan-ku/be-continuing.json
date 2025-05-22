@@ -1,0 +1,15 @@
+{
+  "_id": "8cu2ym68z2c",
+  "name": "be-continuing",
+  "order": "2",
+  "parents": [
+    "godan-ku",
+    "events-do",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "en": "be continuing",
+    "jp": "続く",
+    "tl": "つづく"
+  }
+}

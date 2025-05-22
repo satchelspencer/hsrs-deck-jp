@@ -1,0 +1,14 @@
+{
+  "_id": "g4kklepsvt",
+  "name": "chopsticks",
+  "order": "1",
+  "parents": [
+    "eating-utensils",
+    "snappers"
+  ],
+  "props": {
+    "en": "chopsticks",
+    "jp": "箸",
+    "tl": "はし"
+  }
+}

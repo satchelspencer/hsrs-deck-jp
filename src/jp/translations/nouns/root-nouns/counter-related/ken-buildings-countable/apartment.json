@@ -1,0 +1,13 @@
+{
+  "_id": "1owf7bfungg",
+  "name": "apartment",
+  "order": "1",
+  "parents": [
+    "ken-buildings-countable"
+  ],
+  "props": {
+    "en": "apartment",
+    "jp": "アパート",
+    "tl": "あぱーと"
+  }
+}

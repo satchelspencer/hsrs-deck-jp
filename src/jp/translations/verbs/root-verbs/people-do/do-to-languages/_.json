@@ -1,0 +1,12 @@
+{
+  "_id": "m36eq3ozty",
+  "name": "do-to-languages",
+  "parents": [
+    "people-do"
+  ],
+  "props": {
+    "en": null,
+    "jp": null
+  },
+  "virtual": true
+}

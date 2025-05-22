@@ -1,0 +1,13 @@
+{
+  "_id": "rdkevsrowh",
+  "name": "shape",
+  "order": "3",
+  "parents": [
+    "attributes"
+  ],
+  "props": {
+    "en": "shape",
+    "jp": "形",
+    "tl": "かたち"
+  }
+}

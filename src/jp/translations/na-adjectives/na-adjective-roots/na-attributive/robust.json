@@ -1,0 +1,14 @@
+{
+  "_id": "t582454yov9",
+  "name": "robust",
+  "order": "3",
+  "parents": [
+    "na-attributive",
+    "na-people"
+  ],
+  "props": {
+    "en": "robust",
+    "jp": "丈夫",
+    "tl": "じょうぶ"
+  }
+}

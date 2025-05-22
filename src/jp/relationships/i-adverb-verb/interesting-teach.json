@@ -1,0 +1,13 @@
+{
+  "_id": "jfstrdteanq",
+  "name": "interesting-teach",
+  "params": {
+    "iadj": "interesting",
+    "verb": "teach"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

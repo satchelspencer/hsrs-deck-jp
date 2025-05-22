@@ -1,0 +1,13 @@
+{
+  "_id": "s7kzon0nv8",
+  "name": "clear-weather",
+  "order": "2",
+  "parents": [
+    "weather"
+  ],
+  "props": {
+    "en": "clear weather",
+    "jp": "晴れ",
+    "tl": "はれ"
+  }
+}

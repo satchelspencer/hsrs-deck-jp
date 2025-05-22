@@ -1,0 +1,13 @@
+{
+  "_id": "3zwnsezs184",
+  "name": "month-of-the-year",
+  "order": "1",
+  "parents": [
+    "counter-roots-irregular"
+  ],
+  "props": {
+    "en": "month of the year",
+    "jp": "月",
+    "tl": "げつ"
+  }
+}

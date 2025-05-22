@@ -1,0 +1,14 @@
+{
+  "_id": "t8tcbt3vl7",
+  "name": "hate",
+  "order": "1",
+  "parents": [
+    "na-informations",
+    "na-preferables"
+  ],
+  "props": {
+    "en": "hate",
+    "jp": "大嫌い",
+    "tl": "だいきらい"
+  }
+}

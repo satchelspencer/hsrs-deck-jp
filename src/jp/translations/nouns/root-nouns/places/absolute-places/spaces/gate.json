@@ -1,0 +1,13 @@
+{
+  "_id": "ah3ecu4gwi5",
+  "name": "gate",
+  "order": "3",
+  "parents": [
+    "spaces"
+  ],
+  "props": {
+    "en": "gate",
+    "jp": "門",
+    "tl": "もん"
+  }
+}

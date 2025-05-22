@@ -1,0 +1,13 @@
+{
+  "_id": "zd2n92aqewp",
+  "name": "dirty-be-seen",
+  "params": {
+    "iadj": "dirty",
+    "verb": "be-seen"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

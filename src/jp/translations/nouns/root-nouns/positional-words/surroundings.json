@@ -1,0 +1,13 @@
+{
+  "_id": "tox0q79oct",
+  "name": "surroundings",
+  "order": "3",
+  "parents": [
+    "positional-words"
+  ],
+  "props": {
+    "en": "surroundings",
+    "jp": "周り",
+    "tl": "まわり"
+  }
+}

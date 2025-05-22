@@ -1,0 +1,13 @@
+{
+  "_id": "bkpkgnz4vj",
+  "name": "tape",
+  "order": "3",
+  "parents": [
+    "tools"
+  ],
+  "props": {
+    "en": "tape",
+    "jp": "テープ",
+    "tl": "てーぷ"
+  }
+}

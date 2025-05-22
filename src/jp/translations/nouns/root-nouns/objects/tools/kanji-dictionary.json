@@ -1,0 +1,16 @@
+{
+  "_id": "sdh7ej5hna",
+  "name": "kanji-dictionary",
+  "order": "4",
+  "parents": [
+    "tools",
+    "pullables",
+    "satsu-countable",
+    "readables"
+  ],
+  "props": {
+    "en": "kanji dictionary",
+    "jp": "字引",
+    "tl": "じびき"
+  }
+}

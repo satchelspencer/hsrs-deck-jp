@@ -1,0 +1,15 @@
+{
+  "_id": "e120fot1c5d",
+  "mode": "c",
+  "name": "noun-ba-negative",
+  "params": {
+    "noun": "root-nouns"
+  },
+  "parents": [
+    "noun-ba"
+  ],
+  "props": {
+    "en": "'if not '+noun.en",
+    "jp": "noun.jp+'じゃなければ'"
+  }
+}

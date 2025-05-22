@@ -1,0 +1,14 @@
+{
+  "_id": "6dl207feji6",
+  "name": "godan-negative-ru",
+  "params": {
+    "verb": "godan-ru"
+  },
+  "parents": [
+    "godan-negative"
+  ],
+  "props": {
+    "en": null,
+    "jp": "verb.jp|r('る', 'らない')"
+  }
+}

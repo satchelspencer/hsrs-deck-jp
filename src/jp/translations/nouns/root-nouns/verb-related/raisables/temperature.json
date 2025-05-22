@@ -1,0 +1,13 @@
+{
+  "_id": "a79ny9g1dx6",
+  "name": "temperature",
+  "order": "3",
+  "parents": [
+    "raisables"
+  ],
+  "props": {
+    "en": "temperature",
+    "jp": "温度",
+    "tl": "おんど"
+  }
+}

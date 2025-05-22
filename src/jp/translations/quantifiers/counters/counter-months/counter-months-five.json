@@ -1,0 +1,14 @@
+{
+  "_id": "aiqnnsm42gv",
+  "name": "counter-months-five",
+  "params": {
+    "number": "five"
+  },
+  "parents": [
+    "counter-months"
+  ],
+  "props": {
+    "en": "may",
+    "tl": "ごがつ"
+  }
+}

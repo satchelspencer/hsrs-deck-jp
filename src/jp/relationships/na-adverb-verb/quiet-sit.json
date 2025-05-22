@@ -1,0 +1,13 @@
+{
+  "_id": "kmyz44xkiim",
+  "name": "quiet-sit",
+  "params": {
+    "na": "quiet",
+    "verb": "sit"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

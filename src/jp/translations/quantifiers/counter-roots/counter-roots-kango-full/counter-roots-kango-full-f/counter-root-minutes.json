@@ -1,0 +1,15 @@
+{
+  "_id": "xzf5h23afrl",
+  "name": "counter-root-minutes",
+  "order": "2",
+  "parents": [
+    "counter-roots-kango-full-f",
+    "units",
+    "be-requiredables"
+  ],
+  "props": {
+    "en": "minutes",
+    "jp": "分",
+    "tl": "ふん"
+  }
+}

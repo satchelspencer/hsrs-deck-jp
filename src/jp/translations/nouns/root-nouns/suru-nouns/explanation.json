@@ -1,0 +1,21 @@
+{
+  "_id": "6ttww6umg4p",
+  "name": "explanation",
+  "order": "3",
+  "parents": [
+    "suru-nouns",
+    "people-do",
+    "writeables",
+    "do-to-choices",
+    "do-to-learnables",
+    "informations",
+    "te-iru-verbs-continuous",
+    "de-location-verbs",
+    "do-with-learnables"
+  ],
+  "props": {
+    "en": "explanation",
+    "jp": "説明",
+    "tl": "せつめい"
+  }
+}

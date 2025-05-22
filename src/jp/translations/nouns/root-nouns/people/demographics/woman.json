@@ -1,0 +1,13 @@
+{
+  "_id": "1iublkyxag9",
+  "name": "woman",
+  "order": "1",
+  "parents": [
+    "demographics"
+  ],
+  "props": {
+    "en": "woman",
+    "jp": "女",
+    "tl": "おんな"
+  }
+}

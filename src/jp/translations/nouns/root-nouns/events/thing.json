@@ -1,0 +1,16 @@
+{
+  "_id": "iptrkc4osq",
+  "name": "thing",
+  "order": "2",
+  "parents": [
+    "events",
+    "informations",
+    "learnables",
+    "thing-words"
+  ],
+  "props": {
+    "en": "thing",
+    "jp": "事",
+    "tl": "こと"
+  }
+}

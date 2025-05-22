@@ -1,0 +1,13 @@
+{
+  "_id": "ltjmnmafzv",
+  "name": "smile-face",
+  "order": "3",
+  "parents": [
+    "naturals"
+  ],
+  "props": {
+    "en": "smile face",
+    "jp": "笑顔",
+    "tl": "えがお"
+  }
+}

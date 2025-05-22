@@ -1,0 +1,12 @@
+{
+  "_id": "gbpyufzpdap",
+  "name": "days-of-week",
+  "order": "1",
+  "parents": [
+    "dates",
+    "ni-any-times"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

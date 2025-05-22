@@ -1,0 +1,13 @@
+{
+  "_id": "nll94w4joar",
+  "name": "home",
+  "order": "1",
+  "parents": [
+    "spaces"
+  ],
+  "props": {
+    "en": "home",
+    "jp": "家",
+    "tl": "うち"
+  }
+}

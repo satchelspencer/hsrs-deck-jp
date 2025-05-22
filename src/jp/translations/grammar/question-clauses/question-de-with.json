@@ -1,0 +1,17 @@
+{
+  "_id": "25sj91oys71",
+  "constraint": "verb",
+  "name": "question-de-with",
+  "order": "1",
+  "params": {
+    "form": "verb-ka",
+    "rel": "question-de-verb-means"
+  },
+  "parents": [
+    "question-clauses"
+  ],
+  "props": {
+    "en": "'with '+rel.qw.en+' '+form.en",
+    "jp": "rel.qw.jp+'で'+form.jp"
+  }
+}

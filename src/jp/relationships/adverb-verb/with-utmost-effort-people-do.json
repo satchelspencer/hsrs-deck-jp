@@ -1,0 +1,13 @@
+{
+  "_id": "fzhhjrmjm7l",
+  "name": "with-utmost-effort-people-do",
+  "params": {
+    "adv": "with-utmost-effort",
+    "verb": "people-do"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

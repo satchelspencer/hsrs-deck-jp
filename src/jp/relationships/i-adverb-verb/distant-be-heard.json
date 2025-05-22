@@ -1,0 +1,13 @@
+{
+  "_id": "yt07lbyropc",
+  "name": "distant-be-heard",
+  "params": {
+    "iadj": "distant",
+    "verb": "be-heard"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "_id": "xlope6msll",
+  "name": "button",
+  "order": "2",
+  "parents": [
+    "pushables"
+  ],
+  "props": {
+    "en": "button",
+    "jp": "ボタン"
+  }
+}

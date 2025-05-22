@@ -1,0 +1,14 @@
+{
+  "_id": "wb0ygdemny",
+  "name": "be-crowded",
+  "order": "3",
+  "parents": [
+    "godan-mu",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "en": "be crowded",
+    "jp": "込む",
+    "tl": "こむ"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "5fg5vz8rd0y",
+  "name": "ichidan-plain",
+  "params": {
+    "verb": "ichidan"
+  },
+  "parents": [
+    "plain"
+  ],
+  "props": {
+    "tl": "$.jp"
+  }
+}

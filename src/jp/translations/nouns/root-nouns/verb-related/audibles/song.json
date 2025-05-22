@@ -1,0 +1,13 @@
+{
+  "_id": "bwc658z9bei",
+  "name": "song",
+  "order": "1",
+  "parents": [
+    "audibles"
+  ],
+  "props": {
+    "en": "song",
+    "jp": "歌",
+    "tl": "うた"
+  }
+}

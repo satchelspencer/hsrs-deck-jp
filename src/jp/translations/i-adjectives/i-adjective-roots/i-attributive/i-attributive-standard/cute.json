@@ -1,0 +1,14 @@
+{
+  "_id": "azz83qhluzh",
+  "name": "cute",
+  "order": "1",
+  "parents": [
+    "i-attributive-standard",
+    "i-people"
+  ],
+  "props": {
+    "en": "cute",
+    "jp": "可愛い",
+    "tl": "かわいい"
+  }
+}

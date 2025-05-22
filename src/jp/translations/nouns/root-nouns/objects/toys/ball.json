@@ -1,0 +1,14 @@
+{
+  "_id": "tap4zkwp3u",
+  "name": "ball",
+  "order": "1",
+  "parents": [
+    "toys",
+    "ko-countable"
+  ],
+  "props": {
+    "en": "ball",
+    "jp": "ボール",
+    "tl": "ぼーる"
+  }
+}

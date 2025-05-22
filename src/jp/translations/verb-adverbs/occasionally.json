@@ -1,0 +1,12 @@
+{
+  "_id": "hd8lgg79s48",
+  "name": "occasionally",
+  "order": "3",
+  "parents": [
+    "verb-adverbs"
+  ],
+  "props": {
+    "en": "occasionally",
+    "jp": "たまに"
+  }
+}

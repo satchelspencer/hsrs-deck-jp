@@ -1,0 +1,15 @@
+{
+  "_id": "2iu3q5ljjfo",
+  "name": "pick-up",
+  "order": "3",
+  "parents": [
+    "godan-u",
+    "people-do",
+    "do-to-objects"
+  ],
+  "props": {
+    "en": "pick up",
+    "jp": "拾う",
+    "tl": "ひろう"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "yxunbahk5z",
+  "name": "plain-past-ni-past-times",
+  "params": {
+    "form": "plain-past",
+    "time": "ni-past-times"
+  },
+  "parents": [
+    "verb-form-times"
+  ],
+  "props": {
+  }
+}

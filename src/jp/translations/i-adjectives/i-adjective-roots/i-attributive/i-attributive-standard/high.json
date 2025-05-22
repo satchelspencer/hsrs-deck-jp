@@ -1,0 +1,13 @@
+{
+  "_id": "qo5zd6b2849",
+  "name": "high",
+  "order": "1",
+  "parents": [
+    "i-attributive-standard"
+  ],
+  "props": {
+    "en": "high",
+    "jp": "高い",
+    "tl": "たかい"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "mzm2hhwonwf",
+  "name": "socks",
+  "order": "2",
+  "parents": [
+    "pullonables",
+    "soku-countable"
+  ],
+  "props": {
+    "en": "socks",
+    "jp": "靴下",
+    "tl": "くつした"
+  }
+}

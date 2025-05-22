@@ -1,0 +1,13 @@
+{
+  "_id": "apsu4xapciv",
+  "name": "fine-examine",
+  "params": {
+    "iadj": "fine",
+    "verb": "examine"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

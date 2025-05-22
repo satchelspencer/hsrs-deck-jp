@@ -1,0 +1,13 @@
+{
+  "_id": "2wubt37wsle",
+  "name": "sufficient",
+  "order": "3",
+  "parents": [
+    "na-attributive"
+  ],
+  "props": {
+    "en": "sufficient",
+    "jp": "十分",
+    "tl": "じゅうぶん"
+  }
+}

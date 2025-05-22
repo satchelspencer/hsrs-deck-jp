@@ -1,0 +1,13 @@
+{
+  "_id": "le4xmdeu97j",
+  "name": "evening",
+  "order": "1",
+  "parents": [
+    "times-of-day"
+  ],
+  "props": {
+    "en": "evening",
+    "jp": "晩",
+    "tl": "ばん"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "l3x36eknfal",
+  "name": "shiai-countable-counter-root-matches",
+  "params": {
+    "noun": "shiai-countable",
+    "root": "counter-root-matches"
+  },
+  "parents": [
+    "counter-noun"
+  ],
+  "props": {
+  }
+}

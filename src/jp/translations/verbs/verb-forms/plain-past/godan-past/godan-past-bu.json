@@ -1,0 +1,14 @@
+{
+  "_id": "zebg5w4yio",
+  "name": "godan-past-bu",
+  "params": {
+    "verb": "godan-bu"
+  },
+  "parents": [
+    "godan-past"
+  ],
+  "props": {
+    "en": null,
+    "jp": "verb.jp|r('ぶ', 'んだ')"
+  }
+}

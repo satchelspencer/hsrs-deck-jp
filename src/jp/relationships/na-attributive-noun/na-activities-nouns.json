@@ -1,0 +1,13 @@
+{
+  "_id": "cf18ba99w34",
+  "name": "na-activities-nouns",
+  "params": {
+    "na": "na-activities-predonly",
+    "noun": "activities"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

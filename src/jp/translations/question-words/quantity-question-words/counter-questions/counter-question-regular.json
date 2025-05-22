@@ -1,0 +1,15 @@
+{
+  "_id": "bfuvb1yg4ct",
+  "name": "counter-question-regular",
+  "params": {
+    "root": "counter-roots"
+  },
+  "parents": [
+    "counter-questions"
+  ],
+  "props": {
+    "en": "'how many '+root.en",
+    "jp": "'何'+root.jp",
+    "tl": "'なん'+root.tl"
+  }
+}

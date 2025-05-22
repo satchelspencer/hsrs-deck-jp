@@ -1,0 +1,13 @@
+{
+  "_id": "k342kqx11mn",
+  "name": "deep-sleep-nemuru",
+  "params": {
+    "iadj": "deep",
+    "verb": "sleep"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

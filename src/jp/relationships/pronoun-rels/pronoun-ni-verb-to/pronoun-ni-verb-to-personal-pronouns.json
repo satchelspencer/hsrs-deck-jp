@@ -1,0 +1,13 @@
+{
+  "_id": "t26fojokflp",
+  "name": "pronoun-ni-verb-to-personal-pronouns",
+  "params": {
+    "pn": "personal-pronouns",
+    "verb": "ni-person-verbs"
+  },
+  "parents": [
+    "pronoun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

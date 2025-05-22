@@ -1,0 +1,17 @@
+{
+  "_id": "dt3uv8bzshw",
+  "constraint": "form verb",
+  "name": "verb-form-conjuncting",
+  "order": "2",
+  "params": {
+    "clause": "temporal-verb-clauses",
+    "form": "ka-verb-forms"
+  },
+  "parents": [
+    "conjuncting-clauses"
+  ],
+  "props": {
+    "en": "clause.en",
+    "jp": "clause.jp"
+  }
+}

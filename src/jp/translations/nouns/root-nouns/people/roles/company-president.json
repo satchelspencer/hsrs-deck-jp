@@ -1,0 +1,13 @@
+{
+  "_id": "3qqdykignqf",
+  "name": "company-president",
+  "order": "4",
+  "parents": [
+    "roles"
+  ],
+  "props": {
+    "en": "company president",
+    "jp": "社長",
+    "tl": "しゃちょう"
+  }
+}

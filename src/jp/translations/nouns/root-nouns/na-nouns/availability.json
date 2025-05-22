@@ -1,0 +1,13 @@
+{
+  "_id": "im79jx2ec97",
+  "name": "availability",
+  "order": "2",
+  "parents": [
+    "na-nouns"
+  ],
+  "props": {
+    "en": "availability",
+    "jp": "暇",
+    "tl": "ひま"
+  }
+}

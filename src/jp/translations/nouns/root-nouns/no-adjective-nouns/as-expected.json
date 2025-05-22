@@ -1,0 +1,12 @@
+{
+  "_id": "880cpx3l6vy",
+  "name": "as-expected",
+  "order": "3",
+  "parents": [
+    "no-adjective-nouns"
+  ],
+  "props": {
+    "en": "as expected",
+    "jp": "さすが"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "_id": "4le9vivabsx",
+  "constraint": "na noun",
+  "name": "noun-na-adj-pred",
+  "order": "1",
+  "params": {
+    "naform": "na-predicate-forms",
+    "nform": "noun-plain",
+    "rel": "na-predicate-noun"
+  },
+  "parents": [
+    "clauses",
+    "topic-clauses"
+  ],
+  "props": {
+    "en": "nform.en+' '+naform.en",
+    "jp": "nform.jp+'が'+naform.jp"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "br5oko168gk",
+  "name": "soku-countable-counter-root-footwear",
+  "params": {
+    "noun": "soku-countable",
+    "root": "counter-root-footwear"
+  },
+  "parents": [
+    "counter-noun"
+  ],
+  "props": {
+  }
+}

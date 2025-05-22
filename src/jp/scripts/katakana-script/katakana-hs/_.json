@@ -1,0 +1,10 @@
+{
+  "_id": "vss7gm404w",
+  "name": "katakana-hs",
+  "parents": [
+    "katakana-script"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

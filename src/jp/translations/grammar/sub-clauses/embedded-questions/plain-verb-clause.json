@@ -1,0 +1,17 @@
+{
+  "_id": "v7hbypcean8",
+  "constraint": "form",
+  "name": "plain-verb-clause",
+  "order": "3",
+  "params": {
+    "clause": "temporal-verb-clauses",
+    "form": "plain-forms"
+  },
+  "parents": [
+    "embedded-questions"
+  ],
+  "props": {
+    "en": "clause.en",
+    "jp": "clause.jp"
+  }
+}

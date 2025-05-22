@@ -1,0 +1,15 @@
+{
+  "_id": "gnhz54wd7vb",
+  "name": "desk",
+  "order": "2",
+  "parents": [
+    "furniture",
+    "high-low",
+    "dai-countable"
+  ],
+  "props": {
+    "en": "desk",
+    "jp": "机",
+    "tl": "つくえ"
+  }
+}

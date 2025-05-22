@@ -1,0 +1,13 @@
+{
+  "_id": "9g6c6v3x9bq",
+  "name": "picture-take-photo",
+  "params": {
+    "noun": "picture",
+    "verb": "take-photo"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

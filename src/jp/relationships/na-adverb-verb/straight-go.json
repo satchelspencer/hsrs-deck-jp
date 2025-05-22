@@ -1,0 +1,13 @@
+{
+  "_id": "scdpbsyvx2q",
+  "name": "straight-go",
+  "params": {
+    "na": "straight",
+    "verb": "go"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

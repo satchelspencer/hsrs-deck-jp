@@ -1,0 +1,15 @@
+{
+  "_id": "025tpri4zv86",
+  "name": "mountain",
+  "order": "1",
+  "parents": [
+    "climbables",
+    "high-low",
+    "absolute-places"
+  ],
+  "props": {
+    "en": "mountain",
+    "jp": "山",
+    "tl": "やま"
+  }
+}

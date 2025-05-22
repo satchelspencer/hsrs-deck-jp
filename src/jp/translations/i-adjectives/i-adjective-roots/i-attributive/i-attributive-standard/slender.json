@@ -1,0 +1,14 @@
+{
+  "_id": "3tfdzn2uhag",
+  "name": "slender",
+  "order": "2",
+  "parents": [
+    "i-attributive-standard",
+    "i-people"
+  ],
+  "props": {
+    "en": "slender",
+    "jp": "細い",
+    "tl": "ほそい"
+  }
+}

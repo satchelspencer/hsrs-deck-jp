@@ -1,0 +1,14 @@
+{
+  "_id": "nge69patysh",
+  "name": "counter-kago-full-one-f",
+  "params": {
+    "number": "",
+    "root": "counter-roots-kango-full-f"
+  },
+  "parents": [
+    "counter-kago-full-one"
+  ],
+  "props": {
+    "tl": "'いっ'+root.tl|pcr('ふ', 'ぷ')"
+  }
+}

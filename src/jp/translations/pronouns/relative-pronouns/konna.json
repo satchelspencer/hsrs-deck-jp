@@ -1,0 +1,15 @@
+{
+  "_id": "xtwayr8phv",
+  "name": "konna",
+  "order": "3",
+  "params": {
+    "noun": "seeables"
+  },
+  "parents": [
+    "relative-pronouns"
+  ],
+  "props": {
+    "en": "noun.en+' like this'",
+    "jp": "'こんな'+noun.jp"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "a5q7dzqlbic",
+  "name": "guidance",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "people-do",
+    "do-to-people",
+    "ni-at-verbs"
+  ],
+  "props": {
+    "en": "guidance",
+    "jp": "案内",
+    "tl": "あんない"
+  }
+}

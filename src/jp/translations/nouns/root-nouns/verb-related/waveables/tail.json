@@ -1,0 +1,13 @@
+{
+  "_id": "zerj3jrjof",
+  "name": "tail",
+  "order": "3",
+  "parents": [
+    "waveables"
+  ],
+  "props": {
+    "en": "tail",
+    "jp": "尻尾",
+    "tl": "しっぽ"
+  }
+}

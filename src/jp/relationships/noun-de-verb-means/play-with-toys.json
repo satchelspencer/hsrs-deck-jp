@@ -1,0 +1,13 @@
+{
+  "_id": "3l0nn9ea64h",
+  "name": "play-with-toys",
+  "params": {
+    "noun": "toys",
+    "verb": "play"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

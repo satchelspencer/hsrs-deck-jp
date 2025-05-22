@@ -1,0 +1,14 @@
+{
+  "_id": "ijy2wu51rw",
+  "name": "cow",
+  "order": "2",
+  "parents": [
+    "tou-countable",
+    "animals"
+  ],
+  "props": {
+    "en": "cow",
+    "jp": "牛",
+    "tl": "うし"
+  }
+}

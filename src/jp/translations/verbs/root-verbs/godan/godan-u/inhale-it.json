@@ -1,0 +1,16 @@
+{
+  "_id": "rsanci998t",
+  "name": "inhale-it",
+  "order": "2",
+  "parents": [
+    "godan-u",
+    "people-do",
+    "te-iru-verbs-continuous",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "inhale",
+    "jp": "吸う",
+    "tl": "すう"
+  }
+}

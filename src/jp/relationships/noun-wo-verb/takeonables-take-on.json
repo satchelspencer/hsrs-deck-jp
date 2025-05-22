@@ -1,0 +1,13 @@
+{
+  "_id": "0qdmx3iriylh",
+  "name": "takeonables-take-on",
+  "params": {
+    "noun": "takeonables",
+    "verb": "take-on"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

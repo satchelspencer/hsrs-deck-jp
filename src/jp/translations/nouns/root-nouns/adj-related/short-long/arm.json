@@ -1,0 +1,15 @@
+{
+  "_id": "2wnf6ui69rj",
+  "name": "arm",
+  "order": "1",
+  "parents": [
+    "short-long",
+    "body-parts",
+    "snappers"
+  ],
+  "props": {
+    "en": "arm",
+    "jp": "腕",
+    "tl": "うで"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "z70atd4zbyk",
+  "name": "counter-nin-five",
+  "params": {
+    "number": "five"
+  },
+  "parents": [
+    "counter-nin"
+  ],
+  "props": {
+    "tl": "ご~にん"
+  }
+}

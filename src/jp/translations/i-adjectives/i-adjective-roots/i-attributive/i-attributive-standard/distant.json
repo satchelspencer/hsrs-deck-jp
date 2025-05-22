@@ -1,0 +1,14 @@
+{
+  "_id": "5ylaz8c0jrg",
+  "name": "distant",
+  "order": "3",
+  "parents": [
+    "i-attributive-standard",
+    "i-places"
+  ],
+  "props": {
+    "en": "distant",
+    "jp": "遠い",
+    "tl": "とおい"
+  }
+}

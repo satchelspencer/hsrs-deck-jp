@@ -1,0 +1,13 @@
+{
+  "_id": "tkm23x24kq",
+  "name": "middle-school",
+  "order": "2",
+  "parents": [
+    "schools"
+  ],
+  "props": {
+    "en": "middle school",
+    "jp": "中学校",
+    "tl": "ちゅうがっこう"
+  }
+}

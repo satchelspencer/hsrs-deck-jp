@@ -1,0 +1,13 @@
+{
+  "_id": "lyz6uia7jlp",
+  "name": "she",
+  "order": "1",
+  "parents": [
+    "third-person-pronouns-singular"
+  ],
+  "props": {
+    "en": "she",
+    "jp": "彼女",
+    "tl": "かのじょ"
+  }
+}

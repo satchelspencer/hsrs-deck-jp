@@ -1,0 +1,13 @@
+{
+  "_id": "l1vt14x5wwa",
+  "name": "good-good-bads",
+  "params": {
+    "iadj": "good",
+    "noun": "good-bads"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}
