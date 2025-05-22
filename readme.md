@@ -1,3 +1,7 @@
+## building
+
+after downloading build the deck into a json file by running `yarn`, output will be at `./dist/jp.deck.json`
+
 ## philosophy
 
 this deck is somewhat opinionated about certain aspects of japanese, and language learning in general. your preferences may differ, so feel free modify it or [make your own](https://github.com/satchelspencer/hsrs/blob/main/docs/deck-creation.md). assumptions include:
