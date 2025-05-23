@@ -1,5 +1,6 @@
 {
   "_id": "jq6dnetj45p",
+  "constraint": "verb",
   "name": "verb-form-times",
   "params": {
     "form": "verb-forms",

@@ -4,7 +4,7 @@
   "name": "standalone-counter-verb-wo",
   "order": "3",
   "params": {
-    "counter": "counter-kago-regular",
+    "counter": "counters",
     "form": "verb-forms",
     "stan": "standalone-counter-roots",
     "vrel": "noun-wo-verb"
