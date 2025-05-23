@@ -6,7 +6,7 @@
   "author": "satchelspencer <satchelspencer@gmail.com>",
   "license": "GPL-3.0-only",
   "scripts": {
-    "build": "hsrs-export ./dist/jp.decsk.json ./src",
+    "build": "hsrs-export ./dist/jp.deck.json ./src",
     "import-deck": "hsrs-import ./src",
     "postinstall": "yarn build"
   },
