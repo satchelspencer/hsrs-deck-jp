@@ -1,5 +1,6 @@
 {
   "_id": "sdf1ecb37xa",
+  "desc": "address, residence, domicile",
   "name": "address",
   "order": "3",
   "parents": [

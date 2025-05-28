@@ -1,5 +1,6 @@
 {
   "_id": "uf5aq362o3",
+  "desc": "counter for pairs of socks, shoes, etc.",
   "name": "counter-root-footwear",
   "order": "3",
   "parents": [

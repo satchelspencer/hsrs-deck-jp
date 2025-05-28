@@ -1,5 +1,6 @@
 {
   "_id": "is50ij9vfge",
+  "desc": "counter for slices, scraps, pieces, etc",
   "name": "counter-root-slices",
   "order": "2",
   "parents": [

@@ -1,5 +1,6 @@
 {
   "_id": "m960z5c1vqk",
+  "desc": "counter for stores",
   "name": "counter-root-stores",
   "order": "3",
   "parents": [

@@ -1,5 +1,6 @@
 {
   "_id": "5nry9dezjjs",
+  "desc": "counter for words",
   "name": "counter-root-words",
   "order": "4",
   "parents": [

@@ -1,5 +1,6 @@
 {
   "_id": "96lbl6l16x7",
+  "desc": "counter for seats",
   "name": "counter-root-seats",
   "order": "3",
   "parents": [

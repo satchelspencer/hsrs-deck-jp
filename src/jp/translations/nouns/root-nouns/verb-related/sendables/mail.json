@@ -1,5 +1,6 @@
 {
   "_id": "hfneoeqdknu",
+  "desc": "mail service, postal service, mail",
   "name": "mail",
   "order": "3",
   "parents": [

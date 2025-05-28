@@ -1,5 +1,6 @@
 {
   "_id": "4356qe2rcnf",
+  "desc": "direction, way, side, area (in a particular direction)",
   "name": "direction",
   "order": "2",
   "parents": [

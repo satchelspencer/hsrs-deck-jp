@@ -1,5 +1,6 @@
 {
   "_id": "3fr4gwwnsyf",
+  "desc": "counter for people (usu. seating, reservations and such)",
   "mode": "p",
   "name": "counter-root-people-formal",
   "order": "4",

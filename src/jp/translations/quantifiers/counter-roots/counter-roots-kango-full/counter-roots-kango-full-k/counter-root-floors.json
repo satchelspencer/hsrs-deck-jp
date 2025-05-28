@@ -1,5 +1,6 @@
 {
   "_id": "yfronuc7o4",
+  "desc": "counter for storeys and floors of a building",
   "name": "counter-root-floors",
   "order": "1",
   "parents": [

@@ -1,5 +1,6 @@
 {
   "_id": "8fijtmieuw6",
+  "desc": "counter for birds or rabbits",
   "name": "counter-root-birds",
   "order": "3",
   "parents": [

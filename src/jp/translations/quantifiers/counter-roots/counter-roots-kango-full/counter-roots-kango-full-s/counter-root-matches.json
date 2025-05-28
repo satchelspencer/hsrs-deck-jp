@@ -1,5 +1,6 @@
 {
   "_id": "tvtajwuhrs",
+  "desc": "counetr for matchs, games",
   "name": "counter-root-matches",
   "order": "4",
   "parents": [

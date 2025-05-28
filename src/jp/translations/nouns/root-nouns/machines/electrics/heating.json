@@ -1,5 +1,6 @@
 {
   "_id": "d1pcm16f7sp",
+  "desc": "(indoor) heating",
   "name": "heating",
   "order": "3",
   "parents": [

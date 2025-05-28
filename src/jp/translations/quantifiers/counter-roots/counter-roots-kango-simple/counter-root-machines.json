@@ -1,5 +1,6 @@
 {
   "_id": "09e9jbb69ces",
+  "desc": "counter for machines and vehicles and furniture",
   "name": "counter-root-machines",
   "order": "2",
   "parents": [

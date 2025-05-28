@@ -1,5 +1,6 @@
 {
   "_id": "64ytw8o1eh",
+  "desc": "number, series of digits",
   "name": "id-number",
   "order": "2",
   "parents": [

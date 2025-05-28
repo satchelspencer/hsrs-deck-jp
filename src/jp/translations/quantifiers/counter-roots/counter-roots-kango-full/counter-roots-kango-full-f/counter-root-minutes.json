@@ -1,5 +1,6 @@
 {
   "_id": "xzf5h23afrl",
+  "desc": "counter for minutes",
   "name": "counter-root-minutes",
   "order": "2",
   "parents": [

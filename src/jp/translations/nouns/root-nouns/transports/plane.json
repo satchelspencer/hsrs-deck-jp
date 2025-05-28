@@ -1,5 +1,6 @@
 {
   "_id": "ay3uilkq7i",
+  "desc": "airplane, aeroplane, plane, aircraft",
   "name": "plane",
   "order": "2",
   "parents": [
@@ -8,7 +9,7 @@
     "reservables"
   ],
   "props": {
-    "en": "plane",
+    "en": "airplane",
     "jp": "飛行機",
     "tl": "ひこうき"
   }

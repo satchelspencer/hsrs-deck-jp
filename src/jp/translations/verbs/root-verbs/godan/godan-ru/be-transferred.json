@@ -1,5 +1,6 @@
 {
   "_id": "8001zv83qw",
+  "desc": "to move (house), to transfer (department)",
   "name": "be-transferred",
   "order": "3",
   "parents": [

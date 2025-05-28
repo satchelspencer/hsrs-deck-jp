@@ -1,5 +1,6 @@
 {
   "_id": "kbilvj4jpyg",
+  "desc": "yen (Japanese monetary unit)",
   "name": "counter-root-yen",
   "order": "1",
   "parents": [

@@ -1,5 +1,6 @@
 {
   "_id": "ewtws9ostp",
+  "desc": "surface, face (i.e. the visible side of an object)",
   "name": "surface",
   "order": "3",
   "parents": [

@@ -1,5 +1,6 @@
 {
   "_id": "ozhkkeum8i8",
+  "desc": "counter for buildings (esp. houses)",
   "name": "counter-root-buildings",
   "order": "2",
   "parents": [

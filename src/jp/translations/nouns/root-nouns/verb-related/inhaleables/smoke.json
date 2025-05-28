@@ -1,5 +1,6 @@
 {
   "_id": "averedulda",
+  "desc": "smoke, fumes",
   "name": "smoke",
   "order": "4",
   "parents": [

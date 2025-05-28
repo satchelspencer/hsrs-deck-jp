@@ -1,5 +1,6 @@
 {
   "_id": "nxizxkxw4j",
+  "desc": "counter for seconds",
   "name": "counter-root-seconds",
   "order": "2",
   "parents": [

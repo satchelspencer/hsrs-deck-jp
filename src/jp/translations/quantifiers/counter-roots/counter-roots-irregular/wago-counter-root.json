@@ -1,5 +1,6 @@
 {
   "_id": "hhzvcxq5rvd",
+  "desc": "counter for things",
   "name": "wago-counter-root",
   "order": "1",
   "parents": [

@@ -1,5 +1,6 @@
 {
   "_id": "adowbq9wlp9",
+  "desc": "counter for people",
   "name": "people-counter",
   "order": "1",
   "parents": [

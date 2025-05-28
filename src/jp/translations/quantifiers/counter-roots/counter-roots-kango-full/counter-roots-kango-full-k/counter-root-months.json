@@ -1,5 +1,6 @@
 {
   "_id": "xewz4ff2ps9",
+  "desc": "counter for months",
   "name": "counter-root-months",
   "order": "2",
   "parents": [

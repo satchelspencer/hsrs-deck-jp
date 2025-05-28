@@ -1,5 +1,6 @@
 {
   "_id": "hmbrlj58wei",
+  "desc": "counter for weeks",
   "name": "counter-root-weeks",
   "order": "3",
   "parents": [

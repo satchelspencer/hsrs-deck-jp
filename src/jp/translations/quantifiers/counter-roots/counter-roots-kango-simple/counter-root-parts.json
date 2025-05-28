@@ -1,5 +1,6 @@
 {
   "_id": "viojd11xxci",
+  "desc": "counter for copies of a newspaper, magazine, book, etc",
   "name": "counter-root-parts",
   "order": "3",
   "parents": [

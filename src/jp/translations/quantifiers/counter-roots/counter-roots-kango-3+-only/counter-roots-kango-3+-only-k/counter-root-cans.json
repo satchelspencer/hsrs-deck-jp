@@ -1,5 +1,6 @@
 {
   "_id": "53jtyylgk04",
+  "desc": "counter for cans",
   "name": "counter-root-cans",
   "order": "3",
   "parents": [

@@ -1,5 +1,6 @@
 {
   "_id": "tgoivo71zj",
+  "desc": "counter for schools",
   "name": "counter-root-schools",
   "order": "3",
   "parents": [

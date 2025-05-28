@@ -1,12 +1,13 @@
 {
   "_id": "1wky269jqpn",
+  "desc": "so-so, passable, not (so) bad",
   "name": "so-so",
   "order": "2",
   "parents": [
     "i-adverbs"
   ],
   "props": {
-    "en": "so so",
+    "en": "so-so",
     "jp": "まあまあ"
   }
 }

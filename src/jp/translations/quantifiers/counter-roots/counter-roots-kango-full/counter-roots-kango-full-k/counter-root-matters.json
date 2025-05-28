@@ -1,5 +1,6 @@
 {
   "_id": "ehlfq0x0t5f",
+  "desc": "counter for matters, accounts (on a website, email service, etc.)",
   "name": "counter-root-matters",
   "order": "3",
   "parents": [

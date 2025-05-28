@@ -1,5 +1,6 @@
 {
   "_id": "yaz2buqfdw",
+  "desc": "counter for laps or circuits",
   "name": "counter-root-circuts",
   "order": "4",
   "parents": [

@@ -1,5 +1,6 @@
 {
   "_id": "xlgw65v34kh",
+  "desc": "counter for large animals (e.g. head of cattle), counter for insects in a collection, counter for helmets, masks, etc.",
   "name": "counter-root-beasts",
   "order": "2",
   "parents": [

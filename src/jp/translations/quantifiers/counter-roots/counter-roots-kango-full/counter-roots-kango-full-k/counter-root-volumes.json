@@ -1,5 +1,6 @@
 {
   "_id": "lzrugow3oyf",
+  "desc": "counter for volume (of book)",
   "name": "counter-root-volumes",
   "order": "3",
   "parents": [

@@ -1,5 +1,6 @@
 {
   "_id": "i8v972av57s",
+  "desc": "counter for companies, shrines, etc.",
   "name": "counter-root-companies",
   "order": "4",
   "parents": [

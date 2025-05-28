@@ -1,5 +1,6 @@
 {
   "_id": "ykw9c6gjf3n",
+  "desc": "leaving hospital, discharge from hospital",
   "name": "hospital-discharge",
   "order": "3",
   "parents": [

@@ -1,5 +1,6 @@
 {
   "_id": "jlnawql0oam",
+  "desc": "counter for books",
   "name": "counter-root-books",
   "order": "1",
   "parents": [

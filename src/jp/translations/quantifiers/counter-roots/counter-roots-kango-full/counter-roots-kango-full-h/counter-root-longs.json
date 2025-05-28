@@ -1,5 +1,6 @@
 {
   "_id": "05qlbhzacua",
+  "desc": "counter for volumes (of a book or series)",
   "name": "counter-root-longs",
   "order": "3",
   "parents": [

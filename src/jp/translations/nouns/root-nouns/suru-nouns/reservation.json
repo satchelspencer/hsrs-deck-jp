@@ -1,5 +1,6 @@
 {
   "_id": "gy1usneym14",
+  "desc": "reservation, appointment, booking, advance order",
   "name": "reservation",
   "order": "3",
   "parents": [

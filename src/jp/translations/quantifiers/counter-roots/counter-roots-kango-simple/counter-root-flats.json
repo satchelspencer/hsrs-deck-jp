@@ -1,5 +1,6 @@
 {
   "_id": "go456zqqxvi",
+  "desc": "counter for thin, flat objects (e.g. sheets of paper, plates, coins)",
   "name": "counter-root-flats",
   "order": "2",
   "parents": [

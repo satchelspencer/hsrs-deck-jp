@@ -1,5 +1,6 @@
 {
   "_id": "qdw47ex6hz8",
+  "desc": "to transfer (trains), to change (bus, train)",
   "name": "transfer-ride",
   "order": "1",
   "parents": [

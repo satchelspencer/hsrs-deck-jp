@@ -1,5 +1,6 @@
 {
   "_id": "h3vp7ylye4q",
+  "desc": "counter for pairs",
   "name": "counter-root-sets",
   "order": "2",
   "parents": [

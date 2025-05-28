@@ -1,5 +1,6 @@
 {
   "_id": "vc3iajs92as",
+  "desc": "season, time of year",
   "name": "a-season",
   "parents": [
     "seasons"
