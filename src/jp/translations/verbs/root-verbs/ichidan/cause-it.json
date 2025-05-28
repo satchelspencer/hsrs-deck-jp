@@ -1,14 +1,14 @@
 {
   "_id": "t7qop025fto",
   "desc": "to produce, to yield, to cause",
-  "name": "cause",
+  "name": "cause-it",
   "order": "3",
   "parents": [
     "ichidan",
     "events-do"
   ],
   "props": {
-    "en": "cause",
+    "en": "cause it",
     "jp": "生じる",
     "tl": "しょうじる"
   }

@@ -7,7 +7,7 @@
     "km": "kara-made-times"
   },
   "parents": [
-    "kara-made"
+    "complex-clauses"
   ],
   "props": {
     "en": "km.en+' '+clause.en",
