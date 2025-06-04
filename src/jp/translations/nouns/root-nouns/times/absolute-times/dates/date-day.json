@@ -13,7 +13,7 @@
   ],
   "props": {
     "en": "day.en|r(' days', 'th day')",
-    "jp": "day.number.en+'日'",
+    "jp": "day.jp",
     "tl": "day.tl|r('いちにち', 'ついたち')"
   }
 }

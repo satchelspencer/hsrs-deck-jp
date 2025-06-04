@@ -11,7 +11,7 @@
   ],
   "props": {
     "en": "'202'+number.en",
-    "jp": "'202'+number.en+year.jp",
-    "tl": "'にせんにじゅう'+number.tl+year.tl"
+    "jp": "('202'+number.en)|a+year.jp",
+    "tl": "('にせんにじゅう'+number.tl)|a+year.tl"
   }
 }
