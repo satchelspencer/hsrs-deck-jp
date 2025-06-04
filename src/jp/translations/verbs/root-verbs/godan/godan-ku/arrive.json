@@ -10,6 +10,7 @@
     "te-iru-verbs-state"
   ],
   "props": {
+    "_st": "arrived",
     "en": "arrive",
     "jp": "着く",
     "tl": "つく"

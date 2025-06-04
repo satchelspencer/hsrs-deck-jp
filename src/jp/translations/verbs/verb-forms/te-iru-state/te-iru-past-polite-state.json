@@ -6,7 +6,7 @@
     "te-iru-state"
   ],
   "props": {
-    "en": "'was '+te.en|r(' and','')+'-ed'",
+    "en": "'was '+verb._st",
     "jp": "te.jp+'いました'"
   }
 }

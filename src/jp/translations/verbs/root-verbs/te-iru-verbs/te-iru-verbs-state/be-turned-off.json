@@ -1,5 +1,6 @@
 {
   "_id": "0dmn319xlv4u",
+  "desc": "",
   "name": "be-turned-off",
   "order": "2",
   "parents": [
@@ -7,7 +8,8 @@
     "ichidan"
   ],
   "props": {
-    "en": "be turned off",
+    "_st": "off",
+    "en": "turn off",
     "jp": "消える",
     "tl": "きえる"
   }

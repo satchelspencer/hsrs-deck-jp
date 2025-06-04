@@ -9,7 +9,8 @@
     "te-iru-verbs-state"
   ],
   "props": {
-    "en": "be closed",
+    "_st": "closed",
+    "en": "close",
     "jp": "閉まる",
     "tl": "しまる"
   }

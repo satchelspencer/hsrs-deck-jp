@@ -4,7 +4,6 @@
   "name": "be-heard",
   "order": "2",
   "parents": [
-    "te-iru-verbs-state",
     "ichidan"
   ],
   "props": {

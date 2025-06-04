@@ -10,6 +10,7 @@
     "de-location-verbs"
   ],
   "props": {
+    "_st": "found",
     "en": "be found",
     "jp": "見つかる",
     "tl": "みつかる"

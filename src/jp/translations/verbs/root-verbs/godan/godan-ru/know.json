@@ -9,11 +9,10 @@
     "do-to-places",
     "do-to-learnables",
     "do-to-people",
-    "te-iru-verbs-state",
     "info-verbs"
   ],
   "props": {
-    "en": "know",
+    "en": "come to know",
     "jp": "知る",
     "tl": "しる"
   }

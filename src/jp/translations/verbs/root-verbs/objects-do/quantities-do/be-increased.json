@@ -8,7 +8,8 @@
     "ichidan"
   ],
   "props": {
-    "en": "be increased",
+    "_st": "increased",
+    "en": "increase",
     "jp": "増える",
     "tl": "ふえる"
   }

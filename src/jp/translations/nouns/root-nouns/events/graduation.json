@@ -9,6 +9,7 @@
     "te-iru-verbs-state"
   ],
   "props": {
+    "_st": "graduated",
     "en": "graduation",
     "jp": "卒業",
     "tl": "そつぎょう"

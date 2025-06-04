@@ -5,8 +5,7 @@
   "order": "3",
   "parents": [
     "godan-ru",
-    "ni-at-verbs",
-    "te-iru-verbs-state"
+    "ni-at-verbs"
   ],
   "props": {
     "en": "be left over",

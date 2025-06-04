@@ -7,7 +7,8 @@
     "te-iru-verbs-state"
   ],
   "props": {
-    "en": "become dry",
+    "_st": "dry",
+    "en": "dry out",
     "jp": "乾く",
     "tl": "かわく"
   }

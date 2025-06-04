@@ -6,8 +6,7 @@
   "parents": [
     "godan-ru",
     "people-do",
-    "do-to-sendables",
-    "te-iru-verbs-state"
+    "do-to-sendables"
   ],
   "props": {
     "en": "recieve",

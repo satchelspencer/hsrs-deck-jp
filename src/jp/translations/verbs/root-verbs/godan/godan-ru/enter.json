@@ -10,6 +10,7 @@
     "te-iru-verbs-state"
   ],
   "props": {
+    "_st": "inside",
     "en": "enter",
     "jp": "入る",
     "tl": "はいる"

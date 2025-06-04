@@ -9,7 +9,8 @@
     "machines-do"
   ],
   "props": {
-    "en": "be broken",
+    "_st": "broken",
+    "en": "break",
     "jp": "壊れる",
     "tl": "こわれる"
   }

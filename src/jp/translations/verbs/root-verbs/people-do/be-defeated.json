@@ -10,7 +10,8 @@
     "ichidan"
   ],
   "props": {
-    "en": "be defeated",
+    "_st": "defeated",
+    "en": "lose",
     "jp": "負ける",
     "tl": "まける"
   }

@@ -10,7 +10,8 @@
     "te-iru-verbs-state"
   ],
   "props": {
-    "en": "be lined up",
+    "_st": "lined up",
+    "en": "line up",
     "jp": "並ぶ",
     "tl": "ならぶ"
   }

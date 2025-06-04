@@ -5,8 +5,7 @@
   "parents": [
     "godan-u",
     "people-do",
-    "ni-destination-verbs",
-    "te-iru-verbs-state"
+    "ni-destination-verbs"
   ],
   "props": {
     "en": "put away",

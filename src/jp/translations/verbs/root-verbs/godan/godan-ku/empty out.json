@@ -8,6 +8,7 @@
     "te-iru-verbs-state"
   ],
   "props": {
+    "_st": "empty",
     "en": "empty out",
     "jp": "空く",
     "tl": "すく"

@@ -11,7 +11,8 @@
     "do-with-transports"
   ],
   "props": {
-    "en": "go home",
+    "_st": "returned home",
+    "en": "return home",
     "jp": "帰る",
     "tl": "かえる"
   }

@@ -4,8 +4,7 @@
   "name": "be-struck",
   "order": "3",
   "parents": [
-    "godan-ru",
-    "te-iru-verbs-state"
+    "godan-ru"
   ],
   "props": {
     "en": "be struck",

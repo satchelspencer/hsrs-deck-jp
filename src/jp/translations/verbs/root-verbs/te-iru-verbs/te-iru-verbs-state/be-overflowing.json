@@ -1,5 +1,6 @@
 {
   "_id": "i2qravksbeg",
+  "desc": "overflow, spill",
   "name": "be-overflowing",
   "order": "3",
   "parents": [
@@ -7,7 +8,7 @@
     "ichidan"
   ],
   "props": {
-    "en": "be overflowing",
+    "en": "spill",
     "jp": "こぼれる"
   }
 }

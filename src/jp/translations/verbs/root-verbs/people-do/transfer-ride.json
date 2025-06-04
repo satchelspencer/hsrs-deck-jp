@@ -6,8 +6,8 @@
   "parents": [
     "people-do",
     "do-to-transports",
-    "te-iru-verbs-state",
-    "ichidan"
+    "ichidan",
+    "te-iru-verbs-continuous"
   ],
   "props": {
     "en": "transfer ride",

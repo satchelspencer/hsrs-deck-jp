@@ -10,6 +10,7 @@
     "te-iru-verbs-state"
   ],
   "props": {
+    "_st": "standing",
     "en": "stand",
     "jp": "立つ",
     "tl": "たつ"

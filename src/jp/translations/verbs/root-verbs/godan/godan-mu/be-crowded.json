@@ -8,7 +8,8 @@
     "te-iru-verbs-state"
   ],
   "props": {
-    "en": "be crowded",
+    "_st": "crowded",
+    "en": "get crowded",
     "jp": "込む",
     "tl": "こむ"
   }

@@ -9,6 +9,7 @@
     "te-iru-verbs-state"
   ],
   "props": {
+    "_st": "different",
     "en": "be different",
     "jp": "違う",
     "tl": "ちがう"

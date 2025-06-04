@@ -10,6 +10,7 @@
     "te-iru-verbs-state"
   ],
   "props": {
+    "_st": "returned to home country",
     "en": "return to home country",
     "jp": "帰国",
     "tl": "きこく"

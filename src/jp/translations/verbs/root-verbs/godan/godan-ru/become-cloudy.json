@@ -8,7 +8,8 @@
     "te-iru-verbs-state"
   ],
   "props": {
-    "en": "become cloudy",
+    "_st": "cloudy",
+    "en": "get cloudy",
     "jp": "曇る",
     "tl": "くもる"
   }

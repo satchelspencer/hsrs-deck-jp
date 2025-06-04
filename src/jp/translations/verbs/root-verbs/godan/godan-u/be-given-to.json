@@ -5,8 +5,7 @@
   "parents": [
     "godan-u",
     "people-do",
-    "do-to-products",
-    "te-iru-verbs-state"
+    "do-to-products"
   ],
   "props": {
     "en": "be given",

@@ -1,6 +1,6 @@
 {
   "_id": "wzzieuzfnol",
-  "desc": "to get dark, to grow dark",
+  "desc": "to get dark, in the sense of the sun setting, natural passage of time",
   "name": "get-dark",
   "order": "3",
   "parents": [
@@ -8,6 +8,7 @@
     "te-iru-verbs-state"
   ],
   "props": {
+    "_st": "dark",
     "en": "get dark",
     "jp": "暮れる",
     "tl": "くれる"

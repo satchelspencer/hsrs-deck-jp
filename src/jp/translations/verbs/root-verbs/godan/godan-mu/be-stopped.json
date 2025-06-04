@@ -9,7 +9,8 @@
     "te-iru-verbs-state"
   ],
   "props": {
-    "en": "be stopped",
+    "_st": "stopped",
+    "en": "stop",
     "jp": "止む",
     "tl": "やむ"
   }

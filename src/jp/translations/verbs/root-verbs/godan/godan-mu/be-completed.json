@@ -9,6 +9,7 @@
     "te-iru-verbs-state"
   ],
   "props": {
+    "_st": "completed",
     "en": "be completed",
     "jp": "済む",
     "tl": "すむ"

@@ -9,7 +9,8 @@
     "ichidan"
   ],
   "props": {
-    "en": "become tired",
+    "_st": "tired",
+    "en": "get tired",
     "jp": "疲れる",
     "tl": "つかれる"
   }

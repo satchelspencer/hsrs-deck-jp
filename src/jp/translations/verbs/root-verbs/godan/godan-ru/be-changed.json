@@ -1,6 +1,6 @@
 {
   "_id": "6afx7dt6576",
-  "desc": "to change, to be transformed, to be altered, to vary",
+  "desc": "to change (by itself), to be transformed, to be altered, to vary",
   "name": "be-changed",
   "order": "1",
   "parents": [
@@ -11,7 +11,8 @@
     "de-location-verbs"
   ],
   "props": {
-    "en": "be changed",
+    "_st": "changed",
+    "en": "change",
     "jp": "変わる",
     "tl": "かわる"
   }

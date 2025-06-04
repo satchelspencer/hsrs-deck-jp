@@ -9,6 +9,7 @@
     "te-iru-verbs-state"
   ],
   "props": {
+    "_st": "decided",
     "en": "be decided",
     "jp": "決まる",
     "tl": "きまる"

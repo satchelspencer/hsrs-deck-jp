@@ -6,7 +6,7 @@
     "te-iru-state"
   ],
   "props": {
-    "en": "'isn\\'t '+te.en|r(' and','')+'-ed'",
+    "en": "'isn\\'t '+verb._st",
     "jp": "te.jp+'いない'"
   }
 }

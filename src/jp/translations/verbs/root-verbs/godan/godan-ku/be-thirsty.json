@@ -9,7 +9,8 @@
     "de-location-verbs"
   ],
   "props": {
-    "en": "be thirsty",
+    "_st": "thirsty",
+    "en": "get thirsty",
     "jp": "渇く",
     "tl": "かわく"
   }

@@ -10,6 +10,7 @@
     "ichidan"
   ],
   "props": {
+    "_st": "awake",
     "en": "get up",
     "jp": "起きる",
     "tl": "おきる"

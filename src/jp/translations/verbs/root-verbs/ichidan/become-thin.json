@@ -9,7 +9,8 @@
     "te-iru-verbs-state"
   ],
   "props": {
-    "en": "become thin",
+    "_st": "thin",
+    "en": "get thin",
     "jp": "痩せる",
     "tl": "やせる"
   }

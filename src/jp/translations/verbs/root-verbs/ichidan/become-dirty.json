@@ -9,7 +9,8 @@
     "te-iru-verbs-state"
   ],
   "props": {
-    "en": "become dirty",
+    "_st": "dirty",
+    "en": "get dirty",
     "jp": "汚れる",
     "tl": "よごれる"
   }

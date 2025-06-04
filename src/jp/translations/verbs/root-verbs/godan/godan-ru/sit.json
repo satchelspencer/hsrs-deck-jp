@@ -9,6 +9,7 @@
     "te-iru-verbs-state"
   ],
   "props": {
+    "_st": "seated",
     "en": "sit",
     "jp": "座る",
     "tl": "すわる"

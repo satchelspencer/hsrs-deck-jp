@@ -5,6 +5,7 @@
     "te-iru-verbs"
   ],
   "props": {
+    "_st": "$.en+'ed'"
   },
   "virtual": true
 }

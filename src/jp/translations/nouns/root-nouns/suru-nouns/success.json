@@ -10,6 +10,7 @@
     "ni-at-activities-verbs"
   ],
   "props": {
+    "_st": "successful",
     "en": "success",
     "jp": "成功",
     "tl": "せいこう"
