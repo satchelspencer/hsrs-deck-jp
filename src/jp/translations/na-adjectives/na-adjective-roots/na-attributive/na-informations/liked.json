@@ -8,6 +8,7 @@
     "na-preferables"
   ],
   "props": {
+    "_ad": "as liked",
     "en": "liked",
     "jp": "好き",
     "tl": "すき"

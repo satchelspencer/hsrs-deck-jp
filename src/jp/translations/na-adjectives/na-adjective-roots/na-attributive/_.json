@@ -5,6 +5,7 @@
     "na-adjective-roots"
   ],
   "props": {
+    "_ad": "$.en+'ly'",
     "en": "",
     "jp": null
   },
