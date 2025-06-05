@@ -8,7 +8,7 @@
     "plain-negative"
   ],
   "props": {
-    "en": "'not do '+verb.en",
+    "en": "'not '+verb._v",
     "jp": "verb.jp+'しない'"
   }
 }

@@ -1,7 +1,7 @@
 {
   "_id": "s4dmic1ta3r",
   "desc": "contacting, (making) contact, getting in touch, communication, correspondence, call, message",
-  "name": "getting-in-touch",
+  "name": "get-in-touch",
   "order": "3",
   "parents": [
     "suru-nouns",
@@ -9,6 +9,7 @@
     "te-iru-verbs-continuous"
   ],
   "props": {
+    "_v": "get in touch",
     "en": "getting in touch",
     "jp": "連絡",
     "tl": "れんらく"

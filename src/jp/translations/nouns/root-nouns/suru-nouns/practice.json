@@ -10,7 +10,8 @@
     "de-location-verbs"
   ],
   "props": {
-    "en": "practice",
+    "_v": "practice",
+    "en": "practicing",
     "jp": "練習",
     "tl": "れんしゅう"
   }

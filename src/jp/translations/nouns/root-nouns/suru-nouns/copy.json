@@ -8,7 +8,8 @@
     "de-location-verbs"
   ],
   "props": {
-    "en": "copy",
+    "_v": "copy it",
+    "en": "a copy",
     "jp": "コピー",
     "tl": "こぴー"
   }

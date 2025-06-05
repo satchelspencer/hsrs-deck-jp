@@ -9,7 +9,8 @@
     "do-to-media"
   ],
   "props": {
-    "en": "broadcast",
+    "_v": "broadcast",
+    "en": "broadcasting",
     "jp": "放送",
     "tl": "ほうそう"
   }

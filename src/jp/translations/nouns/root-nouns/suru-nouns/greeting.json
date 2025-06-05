@@ -9,6 +9,7 @@
     "ni-person-verbs"
   ],
   "props": {
+    "_v": "greet",
     "en": "greeting",
     "jp": "挨拶",
     "tl": "あいさつ"

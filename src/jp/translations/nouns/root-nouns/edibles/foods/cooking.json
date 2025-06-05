@@ -11,7 +11,8 @@
     "do-with-ingredients"
   ],
   "props": {
-    "en": "cooking",
+    "_v": "cook",
+    "en": "cuisine",
     "jp": "料理",
     "tl": "りょうり"
   }

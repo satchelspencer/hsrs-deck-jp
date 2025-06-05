@@ -1,7 +1,7 @@
 {
   "_id": "65cl094tuga",
   "desc": "preparation, arrangements, getting ready, provision, setup, reserving",
-  "name": "arrangement",
+  "name": "preparation",
   "order": "3",
   "parents": [
     "suru-nouns",
@@ -9,7 +9,8 @@
     "te-iru-verbs-continuous"
   ],
   "props": {
-    "en": "arrangement",
+    "_v": "prepare",
+    "en": "preparation",
     "jp": "準備",
     "tl": "じゅんび"
   }

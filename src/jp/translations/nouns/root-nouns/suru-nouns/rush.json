@@ -10,7 +10,8 @@
     "ni-destination-verbs"
   ],
   "props": {
-    "en": "rush",
+    "_v": "rush",
+    "en": "rushing",
     "jp": "急行",
     "tl": "きゅうこう"
   }

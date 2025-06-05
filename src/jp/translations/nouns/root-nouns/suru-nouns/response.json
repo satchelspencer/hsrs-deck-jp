@@ -1,7 +1,7 @@
 {
   "_id": "j1f55n1nqdf",
   "desc": "reply, answer, response",
-  "name": "reply",
+  "name": "response",
   "order": "3",
   "parents": [
     "suru-nouns",
@@ -10,7 +10,8 @@
     "audibles"
   ],
   "props": {
-    "en": "reply",
+    "_v": "respond",
+    "en": "response",
     "jp": "返事",
     "tl": "へんじ"
   }

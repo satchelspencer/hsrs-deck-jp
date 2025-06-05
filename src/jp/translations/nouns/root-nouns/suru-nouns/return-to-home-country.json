@@ -11,7 +11,8 @@
   ],
   "props": {
     "_st": "returned to home country",
-    "en": "return to home country",
+    "_v": "return to home country",
+    "en": "trip back to home country",
     "jp": "帰国",
     "tl": "きこく"
   }

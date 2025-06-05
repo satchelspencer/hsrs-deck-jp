@@ -8,7 +8,7 @@
     "plain"
   ],
   "props": {
-    "en": "'do '+verb.en",
+    "en": "verb._v",
     "jp": "verb.jp+'する'"
   }
 }

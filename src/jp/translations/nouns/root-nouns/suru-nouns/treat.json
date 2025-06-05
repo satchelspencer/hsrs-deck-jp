@@ -1,6 +1,7 @@
 {
   "_id": "s2gp9ofyuw9",
-  "name": "feast",
+  "desc": "in the sense of treating someone to dinner",
+  "name": "treat",
   "order": "3",
   "parents": [
     "suru-nouns",
@@ -8,7 +9,8 @@
     "people-do"
   ],
   "props": {
-    "en": "feast",
+    "_v": "give as a treat",
+    "en": "treat",
     "jp": "ごちそう"
   }
 }

@@ -8,7 +8,8 @@
     "people-do"
   ],
   "props": {
-    "en": "hospital discharge",
+    "_v": "leave the hospital ",
+    "en": "leaving the hospital",
     "jp": "退院",
     "tl": "たいいん"
   }

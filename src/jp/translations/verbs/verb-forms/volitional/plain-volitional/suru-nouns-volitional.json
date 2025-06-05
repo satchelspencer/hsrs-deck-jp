@@ -8,7 +8,7 @@
     "plain-volitional"
   ],
   "props": {
-    "en": "'should do '+verb.en",
+    "en": "'should '+verb._v",
     "jp": "verb.jp+'しよう'"
   }
 }

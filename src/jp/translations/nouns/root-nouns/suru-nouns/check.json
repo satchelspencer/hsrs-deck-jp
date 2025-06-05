@@ -1,5 +1,6 @@
 {
   "_id": "iw84vuqqmqd",
+  "desc": "an inspection, a verification,",
   "name": "check",
   "order": "3",
   "parents": [
@@ -9,7 +10,8 @@
     "do-to-informations"
   ],
   "props": {
-    "en": "check",
+    "_v": "check it",
+    "en": "a check",
     "jp": "チェック",
     "tl": "ちぇっく"
   }

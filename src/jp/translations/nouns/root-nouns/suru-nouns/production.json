@@ -8,6 +8,7 @@
     "product-no"
   ],
   "props": {
+    "_v": "produce",
     "en": "production",
     "jp": "生産",
     "tl": "せいさん"

@@ -1,6 +1,6 @@
 {
   "_id": "h0gm46r2ll",
-  "desc": "life, living. livelihood, (one's) living",
+  "desc": "daily life, living. livelihood, (one's) living",
   "name": "life",
   "order": "2",
   "parents": [
@@ -11,6 +11,7 @@
     "de-location-verbs"
   ],
   "props": {
+    "_v": "live",
     "en": "life",
     "jp": "生活",
     "tl": "せいかつ"

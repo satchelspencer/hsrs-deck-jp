@@ -8,7 +8,7 @@
     "reru-plain"
   ],
   "props": {
-    "en": "'can do '+verb.en",
+    "en": "'can '+verb._v",
     "jp": "verb.jp+'できる'"
   }
 }

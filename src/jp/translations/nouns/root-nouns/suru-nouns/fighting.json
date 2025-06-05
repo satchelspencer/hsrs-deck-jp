@@ -1,7 +1,7 @@
 {
   "_id": "li5qbm6bzyh",
   "desc": "quarrel, brawl, fight, squabble, scuffle, argument",
-  "name": "argument",
+  "name": "fighting",
   "order": "3",
   "parents": [
     "suru-nouns",
@@ -10,7 +10,8 @@
     "de-location-verbs"
   ],
   "props": {
-    "en": "argument",
+    "_v": "fight",
+    "en": "fighting",
     "jp": "喧嘩",
     "tl": "けんか"
   }

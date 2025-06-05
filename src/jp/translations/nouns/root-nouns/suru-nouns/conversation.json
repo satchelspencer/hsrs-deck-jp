@@ -9,6 +9,7 @@
     "te-iru-verbs-continuous"
   ],
   "props": {
+    "_v": "converse",
     "en": "conversation",
     "jp": "会話",
     "tl": "かいわ"

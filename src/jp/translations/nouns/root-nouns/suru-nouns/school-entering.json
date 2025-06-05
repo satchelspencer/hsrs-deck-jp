@@ -8,7 +8,8 @@
     "people-do"
   ],
   "props": {
-    "en": "school entering",
+    "_v": "enter school",
+    "en": "entering school",
     "jp": "入学",
     "tl": "にゅうがく"
   }

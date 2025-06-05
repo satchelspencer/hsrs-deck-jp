@@ -15,6 +15,7 @@
     "do-with-learnables"
   ],
   "props": {
+    "_v": "explain",
     "en": "explanation",
     "jp": "説明",
     "tl": "せつめい"

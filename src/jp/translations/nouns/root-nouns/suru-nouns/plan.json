@@ -11,7 +11,8 @@
     "de-location-verbs"
   ],
   "props": {
-    "en": "plan",
+    "_v": "make a plan",
+    "en": "a plan",
     "jp": "予定",
     "tl": "よてい"
   }

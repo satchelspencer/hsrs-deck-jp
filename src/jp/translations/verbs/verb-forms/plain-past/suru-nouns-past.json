@@ -8,7 +8,7 @@
     "plain-past"
   ],
   "props": {
-    "en": "'did do '+verb.en",
+    "en": "'did '+verb._v",
     "jp": "verb.jp+'した'"
   }
 }

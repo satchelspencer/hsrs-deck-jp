@@ -4,9 +4,7 @@
   "name": "war",
   "order": "3",
   "parents": [
-    "suru-nouns",
-    "people-do",
-    "countries-do"
+    "events"
   ],
   "props": {
     "en": "war",
