@@ -7,7 +7,7 @@
     "te-iru"
   ],
   "props": {
-    "en": "'was '+te.en|r(' and','')+'-ing'",
+    "en": "'was '+verb._pg",
     "jp": "te.jp+'いました'"
   }
 }

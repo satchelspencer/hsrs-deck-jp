@@ -9,6 +9,7 @@
     "de-location-verbs"
   ],
   "props": {
+    "_pg": "dancing",
     "en": "dance",
     "jp": "踊る",
     "tl": "おどる"

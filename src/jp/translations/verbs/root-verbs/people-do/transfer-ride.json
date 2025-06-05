@@ -10,6 +10,7 @@
     "te-iru-verbs-continuous"
   ],
   "props": {
+    "_pg": "transfering ride",
     "en": "transfer ride",
     "jp": "乗り換える",
     "tl": "のりかえる"

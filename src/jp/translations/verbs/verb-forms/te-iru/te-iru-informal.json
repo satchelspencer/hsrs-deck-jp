@@ -6,7 +6,7 @@
     "te-iru"
   ],
   "props": {
-    "en": "te.en|r(' and','')+'-ing'",
+    "en": "'is '+verb._pg",
     "jp": "te.jp+'る'"
   }
 }

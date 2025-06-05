@@ -11,6 +11,7 @@
     "de-location-verbs"
   ],
   "props": {
+    "_pg": "writing",
     "en": "write",
     "jp": "書く",
     "tl": "かく"

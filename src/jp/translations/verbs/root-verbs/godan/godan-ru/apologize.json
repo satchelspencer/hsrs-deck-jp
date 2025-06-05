@@ -9,6 +9,7 @@
     "te-iru-verbs-continuous"
   ],
   "props": {
+    "_pg": "apologizing",
     "en": "apologize",
     "jp": "謝る",
     "tl": "あやまる"

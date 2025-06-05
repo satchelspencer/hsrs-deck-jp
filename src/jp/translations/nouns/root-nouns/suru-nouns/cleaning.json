@@ -9,6 +9,7 @@
     "de-location-verbs"
   ],
   "props": {
+    "_pg": "cleaning",
     "_v": "clean it",
     "en": "cleaning",
     "jp": "掃除",

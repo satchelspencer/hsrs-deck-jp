@@ -9,6 +9,7 @@
     "te-iru-verbs-continuous"
   ],
   "props": {
+    "_pg": "preparing",
     "_v": "prepare",
     "en": "preparation",
     "jp": "準備",

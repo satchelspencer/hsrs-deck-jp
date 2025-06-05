@@ -6,9 +6,10 @@
   "parents": [
     "godan-ru",
     "people-do",
-    "te-iru-verbs-continuous"
+    "te-iru-verbs-state"
   ],
   "props": {
+    "_st": "angry",
     "en": "be angry",
     "jp": "怒る",
     "tl": "おこる"

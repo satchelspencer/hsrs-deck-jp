@@ -9,6 +9,7 @@
     "ichidan"
   ],
   "props": {
+    "_pg": "comparing",
     "en": "compare",
     "jp": "比べる",
     "tl": "くらべる"

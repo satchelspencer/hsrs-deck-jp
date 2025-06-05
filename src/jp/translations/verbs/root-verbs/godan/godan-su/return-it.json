@@ -13,6 +13,7 @@
     "de-location-verbs"
   ],
   "props": {
+    "_pg": "returning it",
     "en": "return it",
     "jp": "返す",
     "tl": "かえす"

@@ -10,6 +10,7 @@
     "de-location-verbs"
   ],
   "props": {
+    "_pg": "striking",
     "en": "strike",
     "jp": "打つ",
     "tl": "うつ"

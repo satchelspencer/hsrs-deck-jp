@@ -12,6 +12,7 @@
     "de-location-verbs"
   ],
   "props": {
+    "_pg": "dropping",
     "en": "drop",
     "jp": "落とす",
     "tl": "おとす"

@@ -10,6 +10,7 @@
     "te-iru-verbs-continuous"
   ],
   "props": {
+    "_pg": "running",
     "en": "run",
     "jp": "走る",
     "tl": "はしる"

@@ -12,6 +12,7 @@
     "info-verbs"
   ],
   "props": {
+    "_pg": "examining",
     "en": "examine",
     "jp": "調べる",
     "tl": "しらべる"

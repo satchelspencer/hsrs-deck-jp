@@ -11,7 +11,8 @@
     "de-location-verbs"
   ],
   "props": {
-    "en": "be moving",
+    "_pg": "moving",
+    "en": "move",
     "jp": "動く",
     "tl": "うごく"
   }

@@ -9,7 +9,8 @@
     "te-iru-verbs-continuous"
   ],
   "props": {
-    "en": "make call",
+    "_pg": "making animal call",
+    "en": "make animal call",
     "jp": "鳴く",
     "tl": "なく"
   }

@@ -8,6 +8,7 @@
     "te-iru-verbs-continuous"
   ],
   "props": {
+    "_pg": "competing",
     "_v": "compete",
     "en": "competition",
     "jp": "競争",

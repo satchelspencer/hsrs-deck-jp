@@ -10,6 +10,7 @@
     "do-to-plants"
   ],
   "props": {
+    "_pg": "planting it",
     "en": "plant it",
     "jp": "植える",
     "tl": "うえる"

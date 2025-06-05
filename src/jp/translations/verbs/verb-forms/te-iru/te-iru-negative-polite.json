@@ -7,7 +7,7 @@
     "te-iru"
   ],
   "props": {
-    "en": "'not '+te.en|r(' and','')+'-ing'",
+    "en": "'not '+verb._pg",
     "jp": "te.jp+'いません'"
   }
 }

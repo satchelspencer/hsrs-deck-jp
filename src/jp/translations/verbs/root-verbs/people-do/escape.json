@@ -11,6 +11,7 @@
     "ichidan"
   ],
   "props": {
+    "_pg": "escaping",
     "en": "escape",
     "jp": "逃げる",
     "tl": "にげる"

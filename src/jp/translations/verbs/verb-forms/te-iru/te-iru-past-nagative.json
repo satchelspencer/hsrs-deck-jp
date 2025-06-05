@@ -7,7 +7,7 @@
     "relative-clause-verb-forms"
   ],
   "props": {
-    "en": "'wasn\\'t '+te.en|r(' and','')+'-ing'",
+    "en": "'wasn\\'t '+verb._pg",
     "jp": "te.jp+'いなかった'"
   }
 }

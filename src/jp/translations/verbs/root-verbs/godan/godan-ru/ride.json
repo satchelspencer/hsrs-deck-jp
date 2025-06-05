@@ -9,6 +9,7 @@
     "te-iru-verbs-continuous"
   ],
   "props": {
+    "_pg": "riding",
     "en": "ride",
     "jp": "乗る",
     "tl": "のる"

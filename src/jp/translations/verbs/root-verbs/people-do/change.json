@@ -10,6 +10,7 @@
     "ichidan"
   ],
   "props": {
+    "_pg": "changing",
     "en": "change",
     "jp": "変える",
     "tl": "かえる"

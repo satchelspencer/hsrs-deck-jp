@@ -11,6 +11,7 @@
     "ikura-verbs"
   ],
   "props": {
+    "_pg": "using",
     "en": "use",
     "jp": "使う",
     "tl": "つかう"

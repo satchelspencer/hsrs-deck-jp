@@ -5,10 +5,11 @@
   "parents": [
     "godan-ru",
     "raisables-do",
-    "te-iru-verbs-continuous",
+    "te-iru-verbs-state",
     "de-location-verbs"
   ],
   "props": {
+    "_st": "raised",
     "en": "be raised",
     "jp": "上がる",
     "tl": "あがる"

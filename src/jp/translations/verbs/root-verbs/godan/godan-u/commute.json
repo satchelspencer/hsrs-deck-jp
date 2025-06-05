@@ -10,6 +10,7 @@
     "te-iru-verbs-continuous"
   ],
   "props": {
+    "_pg": "commuting",
     "en": "commute",
     "jp": "通う",
     "tl": "かよう"

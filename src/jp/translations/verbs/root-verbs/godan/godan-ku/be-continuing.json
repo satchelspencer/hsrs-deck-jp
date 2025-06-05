@@ -9,7 +9,8 @@
     "te-iru-verbs-continuous"
   ],
   "props": {
-    "en": "be continuing",
+    "_pg": "continuing",
+    "en": "continue",
     "jp": "続く",
     "tl": "つづく"
   }

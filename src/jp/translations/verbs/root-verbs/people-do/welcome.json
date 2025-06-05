@@ -10,6 +10,7 @@
     "ichidan"
   ],
   "props": {
+    "_pg": "welcoming",
     "en": "welcome",
     "jp": "迎える",
     "tl": "むかえる"

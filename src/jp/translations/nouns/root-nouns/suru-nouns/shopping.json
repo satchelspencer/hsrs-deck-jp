@@ -10,6 +10,7 @@
     "de-location-verbs"
   ],
   "props": {
+    "_pg": "shopping",
     "_v": "shop",
     "en": "shopping",
     "jp": "買い物",

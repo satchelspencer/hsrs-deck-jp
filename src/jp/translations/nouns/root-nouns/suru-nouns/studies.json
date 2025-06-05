@@ -12,6 +12,7 @@
     "do-with-learnables"
   ],
   "props": {
+    "_pg": "studying",
     "_v": "study",
     "en": "studies",
     "jp": "勉強",

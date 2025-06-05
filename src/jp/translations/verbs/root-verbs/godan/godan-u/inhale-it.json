@@ -10,6 +10,7 @@
     "de-location-verbs"
   ],
   "props": {
+    "_pg": "inhaling",
     "en": "inhale",
     "jp": "吸う",
     "tl": "すう"

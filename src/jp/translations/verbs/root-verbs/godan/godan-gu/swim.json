@@ -9,6 +9,7 @@
     "de-location-verbs"
   ],
   "props": {
+    "_pg": "swimming",
     "en": "swim",
     "jp": "泳ぐ",
     "tl": "およぐ"

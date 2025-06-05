@@ -9,7 +9,8 @@
     "ichidan"
   ],
   "props": {
-    "en": "place on",
+    "_pg": "placing it on",
+    "en": "place it on",
     "jp": "載せる",
     "tl": "のせる"
   }

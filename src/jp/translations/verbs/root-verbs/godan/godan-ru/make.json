@@ -13,6 +13,7 @@
     "do-with-building-materials"
   ],
   "props": {
+    "_pg": "making",
     "en": "make",
     "jp": "作る",
     "tl": "つくる"

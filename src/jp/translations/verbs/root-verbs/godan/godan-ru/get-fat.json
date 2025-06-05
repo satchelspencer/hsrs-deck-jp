@@ -6,9 +6,10 @@
   "parents": [
     "godan-ru",
     "people-do",
-    "te-iru-verbs-continuous"
+    "te-iru-verbs-state"
   ],
   "props": {
+    "_st": "fattened",
     "en": "get fat",
     "jp": "太る",
     "tl": "ふとる"

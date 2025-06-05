@@ -6,8 +6,7 @@
   "parents": [
     "godan-tsu",
     "people-do",
-    "do-to-objects",
-    "te-iru-verbs-continuous"
+    "do-to-objects"
   ],
   "props": {
     "en": "possess",

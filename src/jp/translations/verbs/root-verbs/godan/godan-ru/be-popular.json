@@ -5,9 +5,10 @@
   "order": "2",
   "parents": [
     "godan-ru",
-    "te-iru-verbs-continuous"
+    "te-iru-verbs-state"
   ],
   "props": {
+    "_st": "popular",
     "en": "be popular",
     "jp": "流行る",
     "tl": "はやる"

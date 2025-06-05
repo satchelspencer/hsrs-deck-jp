@@ -10,6 +10,7 @@
     "te-iru-verbs-continuous"
   ],
   "props": {
+    "_pg": "staying overnight",
     "en": "stay overnight",
     "jp": "泊まる",
     "tl": "とまる"

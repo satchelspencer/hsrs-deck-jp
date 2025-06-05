@@ -11,6 +11,7 @@
     "de-location-verbs"
   ],
   "props": {
+    "_pg": "increasing it",
     "en": "increase it",
     "jp": "増やす",
     "tl": "ふやす"

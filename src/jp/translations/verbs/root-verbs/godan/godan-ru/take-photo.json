@@ -10,6 +10,7 @@
     "de-location-verbs"
   ],
   "props": {
+    "_pg": "taking photo",
     "en": "take photo",
     "jp": "撮る",
     "tl": "とる"

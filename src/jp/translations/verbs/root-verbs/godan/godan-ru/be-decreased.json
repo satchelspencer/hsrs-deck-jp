@@ -9,7 +9,8 @@
     "te-iru-verbs-continuous"
   ],
   "props": {
-    "en": "be decreased",
+    "_pg": "decreasing",
+    "en": "decrease",
     "jp": "減る",
     "tl": "へる"
   }

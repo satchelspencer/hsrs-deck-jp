@@ -11,6 +11,7 @@
     "de-location-verbs"
   ],
   "props": {
+    "_pg": "decreasing it",
     "en": "decrease it",
     "jp": "減らす",
     "tl": "へらす"

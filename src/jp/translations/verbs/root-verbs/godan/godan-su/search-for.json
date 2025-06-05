@@ -12,6 +12,7 @@
     "de-location-verbs"
   ],
   "props": {
+    "_pg": "searching for",
     "en": "search for",
     "jp": "探す",
     "tl": "さがす"

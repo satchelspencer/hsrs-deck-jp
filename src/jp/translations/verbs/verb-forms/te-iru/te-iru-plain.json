@@ -12,7 +12,7 @@
     "relative-clause-verb-forms"
   ],
   "props": {
-    "en": "te.en|r(' and','')+'-ing'",
+    "en": "'is '+verb._pg",
     "jp": "te.jp+'いる'"
   }
 }

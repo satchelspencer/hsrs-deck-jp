@@ -4,10 +4,11 @@
   "name": "grow-tall",
   "order": "2",
   "parents": [
-    "te-iru-verbs-continuous",
+    "te-iru-verbs-state",
     "ichidan"
   ],
   "props": {
+    "_st": "stretched",
     "en": "be stretched",
     "jp": "伸びる",
     "tl": "のびる"

@@ -6,11 +6,11 @@
   "parents": [
     "godan-ru",
     "raisables-do",
-    "te-iru-verbs-continuous",
+    "te-iru-verbs-state",
     "de-location-verbs"
   ],
   "props": {
-    "en": "be lowered",
+    "en": "lower",
     "jp": "下がる",
     "tl": "さがる"
   }

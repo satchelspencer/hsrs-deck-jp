@@ -12,6 +12,7 @@
     "de-location-verbs"
   ],
   "props": {
+    "_pg": "moving it",
     "en": "move it",
     "jp": "動かす",
     "tl": "うごかす"

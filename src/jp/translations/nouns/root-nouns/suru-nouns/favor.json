@@ -10,6 +10,7 @@
     "de-location-verbs"
   ],
   "props": {
+    "_pg": "asking a favor",
     "_v": "ask a favor",
     "en": "a favor",
     "jp": "お願い",

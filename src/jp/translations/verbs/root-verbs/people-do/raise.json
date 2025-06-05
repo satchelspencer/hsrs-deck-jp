@@ -11,6 +11,7 @@
     "ichidan"
   ],
   "props": {
+    "_pg": "raising",
     "en": "raise",
     "jp": "上げる",
     "tl": "あげる"

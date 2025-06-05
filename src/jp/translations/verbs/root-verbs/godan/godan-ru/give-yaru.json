@@ -10,6 +10,7 @@
     "ni-person-verbs"
   ],
   "props": {
+    "_pg": "giving",
     "en": "give",
     "jp": "やる"
   }

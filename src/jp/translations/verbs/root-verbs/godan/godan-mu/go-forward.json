@@ -10,6 +10,7 @@
     "te-iru-verbs-continuous"
   ],
   "props": {
+    "_pg": "going forward",
     "en": "go forward",
     "jp": "進む",
     "tl": "すすむ"
