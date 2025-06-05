@@ -1,14 +1,14 @@
 {
   "_id": "9juzhljw21a",
   "desc": "very, greatly, terribly, awfully. immense, enormous, great. serious, grave, dreadful, terrible. difficult, hard, challenging. major incident, disaster",
-  "name": "hardship",
+  "name": "serious",
   "order": "1",
   "parents": [
     "na-attributive",
     "na-people"
   ],
   "props": {
-    "en": "hardship",
+    "en": "serious",
     "jp": "大変",
     "tl": "たいへん"
   }

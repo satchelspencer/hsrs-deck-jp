@@ -1,0 +1,17 @@
+{
+  "_id": "wjrlt753nre",
+  "constraint": "na noun",
+  "name": "plain-na-attr-noun",
+  "order": "1",
+  "params": {
+    "nform": "noun-forms",
+    "rel": "na-attributive-noun"
+  },
+  "parents": [
+    "clauses"
+  ],
+  "props": {
+    "en": "(rel.na.en+' '+nform.en)|mts('is ')|mts('was ')",
+    "jp": "rel.na.jp+'な'+nform.jp"
+  }
+}

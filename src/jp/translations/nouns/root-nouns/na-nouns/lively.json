@@ -1,14 +1,14 @@
 {
   "_id": "jocteupidb",
   "desc": "lively, full of spirit, energetic, vigorous, vital, spirited. healthy, well, fit, in good health",
-  "name": "wellness",
+  "name": "lively",
   "order": "1",
   "parents": [
     "na-nouns",
     "na-place"
   ],
   "props": {
-    "en": "wellness",
+    "en": "lively",
     "jp": "元気",
     "tl": "げんき"
   }

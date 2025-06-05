@@ -1,5 +1,6 @@
 {
   "_id": "iecf4t6t0xf",
+  "mode": "p",
   "name": "danger",
   "order": "2",
   "parents": [
@@ -7,7 +8,7 @@
     "na-place"
   ],
   "props": {
-    "en": "danger",
+    "en": "dangerous",
     "jp": "危険",
     "tl": "きけん"
   }

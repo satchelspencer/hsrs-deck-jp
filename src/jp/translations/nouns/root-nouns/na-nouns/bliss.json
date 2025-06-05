@@ -1,13 +1,13 @@
 {
   "_id": "6ljhpw0b78h",
-  "name": "happiness",
+  "name": "bliss",
   "order": "2",
   "parents": [
     "na-nouns",
     "na-people"
   ],
   "props": {
-    "en": "happiness",
+    "en": "blissful",
     "jp": "幸せ",
     "tl": "しあわせ"
   }
