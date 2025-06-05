@@ -14,7 +14,7 @@
     "i-conjunctive-forms"
   ],
   "props": {
-    "en": "'was '+ku.en|r('-ly', '')",
+    "en": "'was '+ku.iadj.en",
     "jp": "ku.jp|r('く', 'かった')"
   }
 }

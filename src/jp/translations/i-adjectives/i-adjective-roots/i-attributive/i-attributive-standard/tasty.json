@@ -6,6 +6,7 @@
     "i-attributive-standard"
   ],
   "props": {
+    "_ad": "tastily",
     "en": "tasty",
     "jp": "美味しい",
     "tl": "おいしい"

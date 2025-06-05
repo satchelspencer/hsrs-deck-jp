@@ -1,13 +1,13 @@
 {
   "_id": "q14jiuwyhln",
-  "mode": "-m",
-  "name": "good-at",
+  "mode": "cm",
+  "name": "skillfull",
   "order": "3",
   "parents": [
     "i-attributive-standard"
   ],
   "props": {
-    "en": "good at",
+    "en": "skillfull",
     "jp": "うまい"
   }
 }

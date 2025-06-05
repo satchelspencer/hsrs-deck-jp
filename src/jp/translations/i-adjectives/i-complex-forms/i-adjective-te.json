@@ -10,7 +10,7 @@
     "i-complex-forms"
   ],
   "props": {
-    "en": "ku.en|r('-ly', ' and')",
+    "en": "ku.iadj.en+' and'",
     "jp": "ku.jp|r('く', 'くて')"
   }
 }

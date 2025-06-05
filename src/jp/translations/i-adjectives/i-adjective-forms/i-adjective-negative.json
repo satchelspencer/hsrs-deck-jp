@@ -16,7 +16,7 @@
     "i-conjunctive-forms"
   ],
   "props": {
-    "en": "'not '+ku.en|r('-ly', '')",
+    "en": "'not '+ku.iadj.en",
     "jp": "ku.jp|r('く', 'くない')"
   }
 }
