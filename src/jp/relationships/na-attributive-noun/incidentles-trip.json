@@ -1,0 +1,13 @@
+{
+  "_id": "j3w49mc8ap9",
+  "name": "incidentles-trip",
+  "params": {
+    "na": "incidentless",
+    "noun": "trip-back"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "525yzj4c114",
+  "name": "anxious-feeling",
+  "params": {
+    "na": "anxious",
+    "noun": "feeling"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

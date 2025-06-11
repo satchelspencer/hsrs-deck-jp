@@ -1,0 +1,13 @@
+{
+  "_id": "iyfp4mmhzji",
+  "name": "relieve-anxious",
+  "params": {
+    "noun": "relieve-it",
+    "verb": "anxious"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

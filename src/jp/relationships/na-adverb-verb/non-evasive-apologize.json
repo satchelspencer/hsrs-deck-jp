@@ -1,0 +1,13 @@
+{
+  "_id": "02rsqt51r43x",
+  "name": "non-evasive-apologize",
+  "params": {
+    "na": "genuine",
+    "verb": "apologize"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

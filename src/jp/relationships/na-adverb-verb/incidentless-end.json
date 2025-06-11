@@ -1,0 +1,13 @@
+{
+  "_id": "vc34prn8uge",
+  "name": "incidentless-end",
+  "params": {
+    "na": "incidentless",
+    "verb": "end"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

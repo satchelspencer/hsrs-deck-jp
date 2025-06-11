@@ -1,0 +1,13 @@
+{
+  "_id": "w44ckuyo7z",
+  "name": "selfish-people-do",
+  "params": {
+    "na": "selfish",
+    "verb": "people-do"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

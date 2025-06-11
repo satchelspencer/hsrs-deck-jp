@@ -1,0 +1,14 @@
+{
+  "_id": "sit1nk6rjz",
+  "desc": "facial expression, countenance",
+  "name": "facial-expression",
+  "order": "4",
+  "parents": [
+    "people-no"
+  ],
+  "props": {
+    "en": "facial expression",
+    "jp": "表情",
+    "tl": "ひょうじょう"
+  }
+}

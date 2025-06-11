@@ -1,0 +1,13 @@
+{
+  "_id": "92kib5yf4jv",
+  "name": "honest-feeling",
+  "params": {
+    "na": "honest",
+    "noun": "feeling"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

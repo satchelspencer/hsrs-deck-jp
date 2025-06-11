@@ -1,0 +1,13 @@
+{
+  "_id": "x2docwybaud",
+  "name": "honest-say",
+  "params": {
+    "na": "honest",
+    "verb": "say"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

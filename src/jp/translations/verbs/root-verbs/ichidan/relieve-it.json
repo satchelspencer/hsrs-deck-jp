@@ -1,0 +1,15 @@
+{
+  "_id": "ve81wbusyvh",
+  "desc": "to soften, to moderate, to relieve",
+  "name": "relieve-it",
+  "order": "4",
+  "parents": [
+    "ichidan",
+    "people-do"
+  ],
+  "props": {
+    "en": "relieve it",
+    "jp": "和らげる",
+    "tl": "やわらげる"
+  }
+}

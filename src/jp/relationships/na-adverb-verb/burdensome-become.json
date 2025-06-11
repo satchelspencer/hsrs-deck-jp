@@ -1,0 +1,13 @@
+{
+  "_id": "2yio7ya56p9",
+  "name": "burdensome-become",
+  "params": {
+    "na": "burdensome",
+    "verb": "become"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

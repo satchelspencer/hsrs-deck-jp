@@ -1,0 +1,13 @@
+{
+  "_id": "o5t2e4lvesc",
+  "name": "honest-opinion",
+  "params": {
+    "na": "honest",
+    "noun": "opinion"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

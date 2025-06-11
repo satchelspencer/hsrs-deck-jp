@@ -1,0 +1,14 @@
+{
+  "_id": "lhgy6p4akmn",
+  "desc": "seriousness, earnestness, truth, sanctity",
+  "name": "earnest",
+  "order": "4",
+  "parents": [
+    "na-people"
+  ],
+  "props": {
+    "en": "earnest",
+    "jp": "本気",
+    "tl": "ほんき"
+  }
+}

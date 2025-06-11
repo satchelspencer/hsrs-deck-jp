@@ -1,0 +1,13 @@
+{
+  "_id": "cfu3476fwjq",
+  "name": "non-evasive-listen",
+  "params": {
+    "na": "genuine",
+    "verb": "hear"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

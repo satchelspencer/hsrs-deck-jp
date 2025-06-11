@@ -1,0 +1,13 @@
+{
+  "_id": "f1vooo5c0fq",
+  "name": "incidentless-turn-back",
+  "params": {
+    "na": "incidentless",
+    "verb": "turn-back"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

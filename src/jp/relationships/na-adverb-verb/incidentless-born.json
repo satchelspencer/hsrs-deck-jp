@@ -1,0 +1,13 @@
+{
+  "_id": "rgu0c2c2v8q",
+  "name": "incidentless-born",
+  "params": {
+    "na": "incidentless",
+    "verb": "be-born"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

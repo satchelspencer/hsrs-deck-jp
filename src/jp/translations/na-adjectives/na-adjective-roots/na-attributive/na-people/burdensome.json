@@ -1,0 +1,17 @@
+{
+  "_id": "dnwpxfndq3r",
+  "name": "burdensome",
+  "order": "4",
+  "parents": [
+    "na-people",
+    "suru-nouns",
+    "people-do"
+  ],
+  "props": {
+    "_pg": "burdening",
+    "_v": "burden it",
+    "en": "burdensome",
+    "jp": "邪魔",
+    "tl": "じゃま"
+  }
+}

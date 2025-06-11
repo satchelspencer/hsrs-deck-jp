@@ -1,0 +1,13 @@
+{
+  "_id": "iknguahabl",
+  "name": "anxious-expression",
+  "params": {
+    "na": "anxious",
+    "noun": "facial-expression"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "q0jk8bbbx9",
+  "name": "mysterious-places",
+  "params": {
+    "na": "mysterious",
+    "noun": "places"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

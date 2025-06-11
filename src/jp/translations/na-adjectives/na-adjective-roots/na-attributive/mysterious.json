@@ -1,0 +1,14 @@
+{
+  "_id": "8g22vi3dneq",
+  "desc": "wonderful, marvelous, strange, incredible, amazing, curious, miraculous, mysterious",
+  "name": "mysterious",
+  "order": "4",
+  "parents": [
+    "na-attributive"
+  ],
+  "props": {
+    "en": "mysterious",
+    "jp": "不思議",
+    "tl": "ふしぎ"
+  }
+}

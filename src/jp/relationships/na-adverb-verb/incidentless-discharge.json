@@ -1,0 +1,13 @@
+{
+  "_id": "ho290n83b7",
+  "name": "incidentless-discharge",
+  "params": {
+    "na": "incidentless",
+    "verb": "hospital-discharge"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

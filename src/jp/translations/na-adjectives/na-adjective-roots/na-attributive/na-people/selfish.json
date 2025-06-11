@@ -1,0 +1,12 @@
+{
+  "_id": "necgivrwkup",
+  "desc": "one's own convenience, one's way, selfishness",
+  "name": "selfish",
+  "order": "4",
+  "parents": ["na-people"],
+  "props": {
+    "en": "selfish",
+    "jp": "勝手",
+    "tl": "かって"
+  }
+}

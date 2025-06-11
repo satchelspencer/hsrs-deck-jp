@@ -1,0 +1,13 @@
+{
+  "_id": "thiec0185k",
+  "name": "desperate-people-do",
+  "params": {
+    "na": "desperate",
+    "verb": "people-do"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

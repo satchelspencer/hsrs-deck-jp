@@ -1,0 +1,13 @@
+{
+  "_id": "r3fn3hk2vcp",
+  "name": "honest-answer",
+  "params": {
+    "na": "honest",
+    "noun": "answer"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

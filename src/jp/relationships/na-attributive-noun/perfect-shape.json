@@ -1,0 +1,13 @@
+{
+  "_id": "2pwl0jmcgk6",
+  "name": "perfect-shape",
+  "params": {
+    "na": "perfect",
+    "noun": "shape"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

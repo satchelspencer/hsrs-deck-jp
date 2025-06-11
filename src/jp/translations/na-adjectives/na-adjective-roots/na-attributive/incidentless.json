@@ -1,0 +1,15 @@
+{
+  "_id": "j4e17bqql1",
+  "desc": "without incident, unharmed, peace quiet",
+  "name": "incidentless",
+  "order": "4",
+  "parents": [
+    "na-attributive"
+  ],
+  "props": {
+    "_ad": "without incident",
+    "en": "incidentless",
+    "jp": "無事",
+    "tl": "ぶじ"
+  }
+}

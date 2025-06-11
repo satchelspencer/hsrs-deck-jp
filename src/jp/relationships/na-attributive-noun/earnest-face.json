@@ -1,0 +1,13 @@
+{
+  "_id": "km315ch08pb",
+  "name": "earnest-face",
+  "params": {
+    "na": "earnest",
+    "noun": "face"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

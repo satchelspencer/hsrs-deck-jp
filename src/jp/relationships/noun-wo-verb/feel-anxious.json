@@ -1,0 +1,13 @@
+{
+  "_id": "yj0665et3nq",
+  "name": "feel-anxious",
+  "params": {
+    "noun": "anxious",
+    "verb": "feel-emotion"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

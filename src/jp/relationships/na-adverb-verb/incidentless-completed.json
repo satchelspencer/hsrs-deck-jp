@@ -1,0 +1,13 @@
+{
+  "_id": "o1q9e6p0kz",
+  "name": "incidentless-completed",
+  "params": {
+    "na": "incidentless",
+    "verb": "be-completed"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}
