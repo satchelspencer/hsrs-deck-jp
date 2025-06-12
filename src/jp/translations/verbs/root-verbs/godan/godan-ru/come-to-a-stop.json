@@ -10,8 +10,8 @@
     "de-location-verbs"
   ],
   "props": {
-    "_st": "stopped",
-    "en": "stop",
+    "_st": "stopped moving",
+    "en": "stop moving",
     "jp": "止まる",
     "tl": "とまる"
   }

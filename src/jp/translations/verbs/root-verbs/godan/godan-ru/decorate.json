@@ -9,6 +9,7 @@
     "te-iru-verbs-continuous"
   ],
   "props": {
+    "_pg": "decorating",
     "en": "decorate",
     "jp": "飾る",
     "tl": "かざる"

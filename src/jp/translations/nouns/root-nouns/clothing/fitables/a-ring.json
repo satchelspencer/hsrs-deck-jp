@@ -1,13 +1,13 @@
 {
   "_id": "0kgg5ec2dmko",
   "desc": "(finger) ring",
-  "name": "ring",
+  "name": "a-ring",
   "order": "3",
   "parents": [
     "fitables"
   ],
   "props": {
-    "en": "ring",
+    "en": "a ring",
     "jp": "指輪",
     "tl": "ゆびわ"
   }

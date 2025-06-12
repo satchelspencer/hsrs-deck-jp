@@ -11,6 +11,7 @@
     "do-with-languages"
   ],
   "props": {
+    "_pg": "chatting",
     "en": "chat",
     "jp": "しゃべる"
   }
