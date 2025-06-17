@@ -1,0 +1,13 @@
+{
+  "_id": "l8ooxk3xhar",
+  "name": "era-move-it",
+  "params": {
+    "noun": "era",
+    "verb": "move-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

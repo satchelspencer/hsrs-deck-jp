@@ -1,0 +1,17 @@
+{
+  "_id": "76liwj8zfa",
+  "desc": "asessment",
+  "name": "evaluation",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "te-iru-verbs-continuous",
+    "people-do"
+  ],
+  "props": {
+    "_pg": "evaluating",
+    "_v": "evaluate",
+    "en": "evaluation",
+    "jp": "評価"
+  }
+}

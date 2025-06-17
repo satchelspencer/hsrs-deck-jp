@@ -1,0 +1,13 @@
+{
+  "_id": "a12yvym684m",
+  "name": "ability-suffic",
+  "params": {
+    "na": "sufficient",
+    "noun": "ability"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

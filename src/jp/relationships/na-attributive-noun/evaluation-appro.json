@@ -1,0 +1,13 @@
+{
+  "_id": "m3py756kfjr",
+  "name": "evaluation-appro",
+  "params": {
+    "na": "appropriate",
+    "noun": "evaluation"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

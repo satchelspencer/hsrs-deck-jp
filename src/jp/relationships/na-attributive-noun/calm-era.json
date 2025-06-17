@@ -1,0 +1,13 @@
+{
+  "_id": "1pj4znsgknm",
+  "name": "calm-era",
+  "params": {
+    "na": "calm",
+    "noun": "era"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

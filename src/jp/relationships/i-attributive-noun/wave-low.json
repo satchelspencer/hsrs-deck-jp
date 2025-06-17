@@ -1,0 +1,13 @@
+{
+  "_id": "ie029a4ofh",
+  "name": "wave-low",
+  "params": {
+    "iadj": "low",
+    "noun": "wave"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

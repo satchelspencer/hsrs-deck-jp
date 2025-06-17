@@ -1,0 +1,13 @@
+{
+  "_id": "a5u3tt7vw1n",
+  "name": "insuffly-prep",
+  "params": {
+    "na": "insufficient",
+    "verb": "preparation"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "c8nt55bbav4",
+  "name": "waves",
+  "order": "4",
+  "parents": [
+    "nature-related"
+  ],
+  "props": {
+    "en": "waves",
+    "jp": "波",
+    "tl": "なみ"
+  }
+}

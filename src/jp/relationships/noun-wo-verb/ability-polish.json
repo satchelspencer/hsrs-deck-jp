@@ -1,0 +1,13 @@
+{
+  "_id": "9012vx3j7hg",
+  "name": "ability-polish",
+  "params": {
+    "noun": "ability",
+    "verb": "polish"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

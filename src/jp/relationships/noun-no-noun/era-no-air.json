@@ -1,0 +1,13 @@
+{
+  "_id": "w4m252j9e7",
+  "name": "era-no-air",
+  "params": {
+    "noun": "air",
+    "owner": "era"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

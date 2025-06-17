@@ -1,0 +1,13 @@
+{
+  "_id": "rnw4dcabqq",
+  "name": "appropriate-explain",
+  "params": {
+    "na": "appropriate",
+    "verb": "explanation"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

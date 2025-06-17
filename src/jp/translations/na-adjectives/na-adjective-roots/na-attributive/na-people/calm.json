@@ -1,0 +1,14 @@
+{
+  "_id": "q9k32k2fu8",
+  "desc": "composed, level headed",
+  "name": "calm",
+  "order": "4",
+  "parents": [
+    "na-people"
+  ],
+  "props": {
+    "en": "calm",
+    "jp": "冷静",
+    "tl": "れいせい"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "lhny1pxx28c",
+  "name": "evaluate-proposal",
+  "params": {
+    "noun": "proposal",
+    "verb": "evaluation"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

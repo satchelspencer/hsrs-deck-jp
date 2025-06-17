@@ -1,0 +1,13 @@
+{
+  "_id": "zq66rsbgpn",
+  "name": "appropriate-spot",
+  "params": {
+    "na": "appropriate",
+    "noun": "spot"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

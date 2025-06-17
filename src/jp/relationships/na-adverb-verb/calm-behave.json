@@ -1,0 +1,13 @@
+{
+  "_id": "ldqdndtn0s",
+  "name": "calm-behave",
+  "params": {
+    "na": "calm",
+    "verb": "behavior"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

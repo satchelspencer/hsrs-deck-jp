@@ -1,0 +1,13 @@
+{
+  "_id": "t0y88gjwzri",
+  "name": "eval-ability",
+  "params": {
+    "noun": "ability",
+    "verb": "evaluation"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

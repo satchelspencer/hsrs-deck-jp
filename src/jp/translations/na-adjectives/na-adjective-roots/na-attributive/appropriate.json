@@ -1,0 +1,13 @@
+{
+  "_id": "vv0yvgwojhg",
+  "name": "appropriate",
+  "order": "4",
+  "parents": [
+    "na-attributive"
+  ],
+  "props": {
+    "en": "appropriate",
+    "jp": "適切",
+    "tl": "てきせつ"
+  }
+}

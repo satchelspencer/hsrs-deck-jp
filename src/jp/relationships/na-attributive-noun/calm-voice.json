@@ -1,0 +1,13 @@
+{
+  "_id": "gfa6sithcp8",
+  "name": "calm-voice",
+  "params": {
+    "na": "calm",
+    "noun": "voice"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "vbq5wrth1x",
+  "mode": "",
+  "name": "translations-copy",
+  "order": "2",
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+    "en": null,
+    "jp": "",
+    "tl": "$.jp"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "0knv7bjk745",
+  "name": "calm-explanation",
+  "params": {
+    "na": "calm",
+    "noun": "explanation"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "wqx87m7xk1",
+  "name": "insufficient-response",
+  "params": {
+    "na": "insufficient",
+    "noun": "response"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

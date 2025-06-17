@@ -1,0 +1,13 @@
+{
+  "_id": "ih6aio0wdmh",
+  "name": "era-no-wave",
+  "params": {
+    "noun": "wave",
+    "owner": "era"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

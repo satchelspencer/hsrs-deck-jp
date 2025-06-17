@@ -1,0 +1,13 @@
+{
+  "_id": "4mglfg8ts16",
+  "name": "appropriate-reaction",
+  "params": {
+    "na": "appropriate",
+    "noun": "reaction"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

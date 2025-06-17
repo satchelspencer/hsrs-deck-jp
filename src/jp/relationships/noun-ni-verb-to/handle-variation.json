@@ -1,0 +1,13 @@
+{
+  "_id": "dhjj9100j1",
+  "name": "handle-variation",
+  "params": {
+    "noun": "variation",
+    "verb": "handling"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

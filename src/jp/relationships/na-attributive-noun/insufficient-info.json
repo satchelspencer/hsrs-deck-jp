@@ -1,0 +1,13 @@
+{
+  "_id": "4nb81s1mcsw",
+  "name": "insufficient-info",
+  "params": {
+    "na": "insufficient",
+    "noun": "information"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

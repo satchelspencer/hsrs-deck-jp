@@ -1,0 +1,14 @@
+{
+  "_id": "38e7c7x0unu",
+  "desc": "spectator(s)",
+  "name": "audience",
+  "order": "4",
+  "parents": [
+    "people"
+  ],
+  "props": {
+    "en": "audience",
+    "jp": "観客",
+    "tl": "かんきゃく"
+  }
+}

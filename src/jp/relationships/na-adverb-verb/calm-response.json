@@ -1,0 +1,13 @@
+{
+  "_id": "71j6rwtfq2q",
+  "name": "calm-response",
+  "params": {
+    "na": "calm",
+    "verb": "response"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

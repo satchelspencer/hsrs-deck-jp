@@ -1,0 +1,13 @@
+{
+  "_id": "bnjcl4460xf",
+  "name": "variation-take-on",
+  "params": {
+    "noun": "variation",
+    "verb": "take-on"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

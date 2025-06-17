@@ -1,0 +1,13 @@
+{
+  "_id": "ybrlewbdfkb",
+  "name": "evaluate-orgs",
+  "params": {
+    "noun": "organizations",
+    "verb": "evaluation"
+  },
+  "parents": [
+    "noun-ga-verb"
+  ],
+  "props": {
+  }
+}

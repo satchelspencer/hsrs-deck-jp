@@ -1,0 +1,13 @@
+{
+  "_id": "61p78q7loku",
+  "name": "era-old",
+  "params": {
+    "iadj": "old",
+    "noun": "era"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

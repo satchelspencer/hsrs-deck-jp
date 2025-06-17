@@ -1,0 +1,13 @@
+{
+  "_id": "t2m79skemk",
+  "name": "era-change",
+  "params": {
+    "noun": "era",
+    "verb": "change"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

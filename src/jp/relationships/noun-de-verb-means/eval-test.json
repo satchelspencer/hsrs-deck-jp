@@ -1,0 +1,13 @@
+{
+  "_id": "5l1fx8u6cyj",
+  "name": "eval-test",
+  "params": {
+    "noun": "test",
+    "verb": "evaluation"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

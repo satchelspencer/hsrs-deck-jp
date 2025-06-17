@@ -1,0 +1,14 @@
+{
+  "_id": "arrwlrf767b",
+  "name": "era",
+  "order": "4",
+  "parents": [
+    "absolute-times",
+    "events"
+  ],
+  "props": {
+    "en": "era",
+    "jp": "時代",
+    "tl": "じだい"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "aawarmeuhkk",
+  "name": "insufficient-ability",
+  "params": {
+    "na": "insufficient",
+    "noun": "ability"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

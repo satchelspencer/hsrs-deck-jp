@@ -1,0 +1,13 @@
+{
+  "_id": "b8egad9id6s",
+  "name": "ability-suffic-copy",
+  "params": {
+    "na": "appropriate",
+    "noun": "ability"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "936ksfk40fw",
+  "name": "appropriate-handle",
+  "params": {
+    "na": "appropriate",
+    "verb": "handling"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

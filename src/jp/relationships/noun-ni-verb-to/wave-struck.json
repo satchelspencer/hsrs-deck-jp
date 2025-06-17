@@ -1,0 +1,13 @@
+{
+  "_id": "c8kakohwgcc",
+  "name": "wave-struck",
+  "params": {
+    "noun": "wave",
+    "verb": "be-struck"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

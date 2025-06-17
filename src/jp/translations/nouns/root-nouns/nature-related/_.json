@@ -1,0 +1,10 @@
+{
+  "_id": "j5c6incfjb",
+  "name": "nature-related",
+  "parents": [
+    "root-nouns"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

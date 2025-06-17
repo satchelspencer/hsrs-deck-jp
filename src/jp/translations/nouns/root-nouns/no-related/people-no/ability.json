@@ -1,0 +1,14 @@
+{
+  "_id": "i6zt2u25ysr",
+  "desc": "capacity, skill",
+  "name": "ability",
+  "order": "4",
+  "parents": [
+    "people-no"
+  ],
+  "props": {
+    "en": "ability",
+    "jp": "能力",
+    "tl": "のうりょく"
+  }
+}

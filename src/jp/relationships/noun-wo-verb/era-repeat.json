@@ -1,0 +1,13 @@
+{
+  "_id": "ke7lr8l40u",
+  "name": "era-repeat",
+  "params": {
+    "noun": "era",
+    "verb": "repeat"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

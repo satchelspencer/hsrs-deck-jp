@@ -1,8 +1,8 @@
 {
-  "_id": "91esrvg38s8",
-  "name": "attention-to-informations",
+  "_id": "wdntavxzekk",
+  "name": "attention-var",
   "params": {
-    "noun": "informations",
+    "noun": "variation",
     "verb": "attention"
   },
   "parents": [

@@ -1,0 +1,13 @@
+{
+  "_id": "eg62kih2zdn",
+  "name": "era-no-variation",
+  "params": {
+    "noun": "variation",
+    "owner": "era"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

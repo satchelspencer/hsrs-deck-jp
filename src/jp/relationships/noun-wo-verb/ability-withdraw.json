@@ -1,0 +1,13 @@
+{
+  "_id": "iwoc4gxrb3a",
+  "name": "ability-withdraw",
+  "params": {
+    "noun": "ability",
+    "verb": "withdraw"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

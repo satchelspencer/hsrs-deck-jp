@@ -1,20 +1,17 @@
 {
-  "_id": "kx4786hffy",
-  "desc": "attention, notice, heed. care, caution, precaution, looking out (for), watching out (for)",
+  "_id": "nqup5zwu64k",
+  "desc": "like paying attention",
   "name": "attention",
-  "order": "2",
+  "order": "4",
   "parents": [
     "suru-nouns",
-    "people-do",
-    "pullables",
-    "te-iru-verbs-continuous",
-    "de-location-verbs"
+    "people-do"
   ],
   "props": {
     "_pg": "paying attention",
     "_v": "pay attention",
     "en": "attention",
-    "jp": "注意",
-    "tl": "ちゅうい"
+    "jp": "注目",
+    "tl": "ちゅうもく"
   }
 }

@@ -1,0 +1,13 @@
+{
+  "_id": "241oct0hdev",
+  "name": "wave-shape",
+  "params": {
+    "noun": "shape",
+    "owner": "wave"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

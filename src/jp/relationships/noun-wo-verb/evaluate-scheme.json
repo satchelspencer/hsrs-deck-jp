@@ -1,0 +1,13 @@
+{
+  "_id": "zxpt0khe9gq",
+  "name": "evaluate-scheme",
+  "params": {
+    "noun": "scheme",
+    "verb": "evaluation"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

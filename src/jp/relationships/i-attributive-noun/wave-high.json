@@ -1,0 +1,13 @@
+{
+  "_id": "9ms2t1onbrn",
+  "name": "wave-high",
+  "params": {
+    "iadj": "high",
+    "noun": "wave"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "us77sduql4c",
+  "name": "eval-no-proposal",
+  "params": {
+    "noun": "evaluation",
+    "owner": "proposal"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "ul94qimkkgn",
+  "name": "variation-small",
+  "params": {
+    "iadj": "small",
+    "noun": "variation"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

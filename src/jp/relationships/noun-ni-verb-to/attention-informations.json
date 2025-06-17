@@ -1,0 +1,13 @@
+{
+  "_id": "ccf5szmitd",
+  "name": "attention-informations",
+  "params": {
+    "noun": "informations",
+    "verb": "attention"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

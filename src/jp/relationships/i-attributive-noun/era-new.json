@@ -1,0 +1,13 @@
+{
+  "_id": "md3ru92tknf",
+  "name": "era-new",
+  "params": {
+    "iadj": "new",
+    "noun": "era"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

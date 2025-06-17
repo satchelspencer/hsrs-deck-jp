@@ -1,0 +1,13 @@
+{
+  "_id": "737eaprk5n2",
+  "name": "insuffly-resp",
+  "params": {
+    "na": "insufficient",
+    "verb": "response"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

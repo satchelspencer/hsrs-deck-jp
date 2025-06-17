@@ -1,0 +1,13 @@
+{
+  "_id": "sdmtcyo14e",
+  "name": "era-make",
+  "params": {
+    "noun": "era",
+    "verb": "make"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

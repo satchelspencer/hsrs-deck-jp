@@ -1,0 +1,13 @@
+{
+  "_id": "e4trjiks6e6",
+  "name": "era-dark",
+  "params": {
+    "iadj": "dark",
+    "noun": "era"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "7yse6qv8ce6",
+  "name": "insufficient-reason",
+  "params": {
+    "na": "insufficient",
+    "noun": "reason"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

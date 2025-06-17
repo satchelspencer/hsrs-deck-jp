@@ -1,0 +1,13 @@
+{
+  "_id": "0inqfd6zil1",
+  "name": "variation-be-continuing",
+  "params": {
+    "noun": "variation",
+    "verb": "be-continuing"
+  },
+  "parents": [
+    "noun-ga-verb"
+  ],
+  "props": {
+  }
+}

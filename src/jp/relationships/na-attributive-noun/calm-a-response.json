@@ -1,0 +1,13 @@
+{
+  "_id": "yw5u48nan",
+  "name": "calm-a-response",
+  "params": {
+    "na": "calm",
+    "noun": "response"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

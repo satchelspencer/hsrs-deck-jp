@@ -1,0 +1,13 @@
+{
+  "_id": "g69018aja1a",
+  "name": "insuffly-explain",
+  "params": {
+    "na": "insufficient",
+    "verb": "explanation"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

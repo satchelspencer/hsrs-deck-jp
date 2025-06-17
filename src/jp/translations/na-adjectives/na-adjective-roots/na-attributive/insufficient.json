@@ -1,0 +1,13 @@
+{
+  "_id": "bo8jjw2vjma",
+  "name": "insufficient",
+  "order": "4",
+  "parents": [
+    "na-attributive"
+  ],
+  "props": {
+    "en": "insufficient",
+    "jp": "不十分",
+    "tl": "ふじゅうぶん"
+  }
+}

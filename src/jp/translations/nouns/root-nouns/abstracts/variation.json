@@ -1,0 +1,18 @@
+{
+  "_id": "8jhd9cj858i",
+  "desc": "change in state",
+  "name": "variation",
+  "order": "4",
+  "parents": [
+    "abstracts",
+    "suru-nouns",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "varying",
+    "_v": "varies",
+    "en": "variation",
+    "jp": "変化",
+    "tl": "へんか"
+  }
+}

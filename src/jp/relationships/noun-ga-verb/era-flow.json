@@ -1,0 +1,13 @@
+{
+  "_id": "rdv7bgshyld",
+  "name": "era-flow",
+  "params": {
+    "noun": "era",
+    "verb": "flow"
+  },
+  "parents": [
+    "noun-ga-verb"
+  ],
+  "props": {
+  }
+}

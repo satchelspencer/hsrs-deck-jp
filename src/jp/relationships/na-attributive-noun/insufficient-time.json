@@ -1,0 +1,13 @@
+{
+  "_id": "8hay7aazlg3",
+  "name": "insufficient-time",
+  "params": {
+    "na": "insufficient",
+    "noun": "reason"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

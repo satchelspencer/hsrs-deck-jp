@@ -1,0 +1,13 @@
+{
+  "_id": "c1ha2jkzrf",
+  "name": "era-hard",
+  "params": {
+    "iadj": "hard",
+    "noun": "era"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

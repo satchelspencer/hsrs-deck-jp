@@ -1,0 +1,13 @@
+{
+  "_id": "42vtzwovklh",
+  "name": "insufficient-evidence",
+  "params": {
+    "na": "insufficient",
+    "noun": "evidence"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

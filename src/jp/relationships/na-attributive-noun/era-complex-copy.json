@@ -1,0 +1,13 @@
+{
+  "_id": "e4sijiic64t",
+  "name": "era-complex-copy",
+  "params": {
+    "na": "quiet",
+    "noun": "era"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

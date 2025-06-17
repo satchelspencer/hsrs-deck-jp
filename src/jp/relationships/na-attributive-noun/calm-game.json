@@ -1,0 +1,13 @@
+{
+  "_id": "ezduycnkrys",
+  "name": "calm-game",
+  "params": {
+    "na": "calm",
+    "noun": "game"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

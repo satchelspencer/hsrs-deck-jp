@@ -1,0 +1,13 @@
+{
+  "_id": "k5rte0rnms",
+  "name": "era-strict",
+  "params": {
+    "iadj": "strict",
+    "noun": "era"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

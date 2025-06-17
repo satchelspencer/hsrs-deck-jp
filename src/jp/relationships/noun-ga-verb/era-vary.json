@@ -1,0 +1,13 @@
+{
+  "_id": "vmsgkife7m",
+  "name": "era-vary",
+  "params": {
+    "noun": "era",
+    "verb": "variation"
+  },
+  "parents": [
+    "noun-ga-verb"
+  ],
+  "props": {
+  }
+}

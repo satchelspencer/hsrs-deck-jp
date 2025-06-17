@@ -1,0 +1,13 @@
+{
+  "_id": "b70xy6xtwts",
+  "name": "heed-transports",
+  "params": {
+    "noun": "transports",
+    "verb": "heed"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "uw1vx9eiz0h",
+  "name": "calm-think",
+  "params": {
+    "na": "calm",
+    "verb": "consider"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "zlsykp5phia",
+  "name": "variation-big",
+  "params": {
+    "iadj": "big",
+    "noun": "variation"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}
