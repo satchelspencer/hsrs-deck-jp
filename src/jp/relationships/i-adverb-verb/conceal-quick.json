@@ -1,0 +1,13 @@
+{
+  "_id": "ggnhi4hw7o6",
+  "name": "conceal-quick",
+  "params": {
+    "iadj": "fast",
+    "verb": "conceal-it"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "wwujqvrdkzo",
+  "name": "directly-convey",
+  "params": {
+    "adv": "directly",
+    "verb": "convey"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

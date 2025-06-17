@@ -1,0 +1,13 @@
+{
+  "_id": "ey23eaon57",
+  "name": "life-short",
+  "params": {
+    "iadj": "short",
+    "noun": "a-life"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

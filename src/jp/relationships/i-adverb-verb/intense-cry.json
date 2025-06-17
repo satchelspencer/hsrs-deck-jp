@@ -1,0 +1,13 @@
+{
+  "_id": "e3awkcz4ope",
+  "name": "intense-cry",
+  "params": {
+    "iadj": "intense",
+    "verb": "cry"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

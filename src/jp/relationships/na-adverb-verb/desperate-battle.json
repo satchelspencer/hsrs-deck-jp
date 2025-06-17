@@ -1,0 +1,13 @@
+{
+  "_id": "mm1be0higpc",
+  "name": "desperate-battle",
+  "params": {
+    "na": "desperate",
+    "verb": "battle-it"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

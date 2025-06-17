@@ -1,0 +1,13 @@
+{
+  "_id": "kj94oppdat9",
+  "name": "draw-paper",
+  "params": {
+    "noun": "paper",
+    "verb": "draw"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

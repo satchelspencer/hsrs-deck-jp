@@ -1,0 +1,13 @@
+{
+  "_id": "kit804gzxgl",
+  "name": "comprehension-difficult",
+  "params": {
+    "iadj": "difficult",
+    "noun": "comprehension"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

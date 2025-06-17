@@ -1,0 +1,20 @@
+{
+  "_id": "kj24ywk6gh",
+  "desc": "dealing with it",
+  "name": "handling",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "people-do",
+    "te-iru-verbs-continuous",
+    "good-bads",
+    "easy-hard"
+  ],
+  "props": {
+    "_pg": "handling it",
+    "_v": "handle it",
+    "en": "handling",
+    "jp": "対応",
+    "tl": "たいおう"
+  }
+}

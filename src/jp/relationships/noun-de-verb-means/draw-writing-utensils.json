@@ -1,0 +1,13 @@
+{
+  "_id": "5cauoctc5cb",
+  "name": "draw-writing-utensils",
+  "params": {
+    "noun": "writing-utensils",
+    "verb": "draw"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

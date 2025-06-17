@@ -1,0 +1,13 @@
+{
+  "_id": "vj5oi0rz5xf",
+  "name": "confirm-grammar",
+  "params": {
+    "noun": "grammar",
+    "verb": "confirmation"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "bjfb0ju9qxk",
+  "name": "figure-cute",
+  "params": {
+    "iadj": "cute",
+    "noun": "figure"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "t5spt2m96en",
+  "name": "society-feelings",
+  "params": {
+    "noun": "society",
+    "owner": "feelings"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

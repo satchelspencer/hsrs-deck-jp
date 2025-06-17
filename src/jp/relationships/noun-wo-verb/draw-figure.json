@@ -1,0 +1,13 @@
+{
+  "_id": "beq6qhlrttc",
+  "name": "draw-figure",
+  "params": {
+    "noun": "figure",
+    "verb": "draw"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

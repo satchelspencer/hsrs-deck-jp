@@ -1,0 +1,13 @@
+{
+  "_id": "swgs5eev1d",
+  "name": "situation-change",
+  "params": {
+    "noun": "situation",
+    "verb": "change"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

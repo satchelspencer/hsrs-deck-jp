@@ -1,0 +1,13 @@
+{
+  "_id": "x3f09zyy2y",
+  "name": "sutuation-change",
+  "params": {
+    "noun": "situation",
+    "verb": "change"
+  },
+  "parents": [
+    "noun-ga-verb"
+  ],
+  "props": {
+  }
+}

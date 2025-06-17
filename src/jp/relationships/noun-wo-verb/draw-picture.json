@@ -1,0 +1,13 @@
+{
+  "_id": "afy3i49la0n",
+  "name": "draw-picture",
+  "params": {
+    "noun": "picture",
+    "verb": "draw"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

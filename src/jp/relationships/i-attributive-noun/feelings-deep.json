@@ -1,0 +1,13 @@
+{
+  "_id": "6qvg07u624f",
+  "name": "feelings-deep",
+  "params": {
+    "iadj": "deep",
+    "noun": "feelings"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

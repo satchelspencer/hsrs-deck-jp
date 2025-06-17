@@ -1,0 +1,13 @@
+{
+  "_id": "ofqerhzxwr",
+  "name": "comprehend-complete",
+  "params": {
+    "adv": "completely",
+    "verb": "comprehension"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

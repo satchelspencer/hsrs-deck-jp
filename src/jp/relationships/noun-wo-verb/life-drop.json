@@ -1,0 +1,13 @@
+{
+  "_id": "joimoi4dfv9",
+  "name": "life-drop",
+  "params": {
+    "noun": "a-life",
+    "verb": "drop"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

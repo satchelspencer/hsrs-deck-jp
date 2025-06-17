@@ -1,0 +1,13 @@
+{
+  "_id": "edimzxqhpp",
+  "name": "strange-feel",
+  "params": {
+    "na": "strange",
+    "verb": "feel-emotion"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

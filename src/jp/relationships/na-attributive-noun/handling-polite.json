@@ -1,0 +1,13 @@
+{
+  "_id": "7z95ixs038",
+  "name": "handling-polite",
+  "params": {
+    "na": "polite",
+    "noun": "handling"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "9wh11ljfmp6",
+  "name": "all-out-consider",
+  "params": {
+    "na": "all-out",
+    "verb": "consider"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

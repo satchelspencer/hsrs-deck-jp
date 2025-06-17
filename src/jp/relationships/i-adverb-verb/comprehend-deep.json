@@ -1,0 +1,13 @@
+{
+  "_id": "209frfio5cx",
+  "name": "comprehend-deep",
+  "params": {
+    "iadj": "deep",
+    "verb": "comprehension"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "kokhc93bg7",
+  "name": "order-numerous",
+  "params": {
+    "iadj": "numerous",
+    "noun": "order"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

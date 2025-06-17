@@ -1,0 +1,13 @@
+{
+  "_id": "zyyxxmoo2ba",
+  "name": "draw-desk",
+  "params": {
+    "noun": "paper",
+    "verb": "desk"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

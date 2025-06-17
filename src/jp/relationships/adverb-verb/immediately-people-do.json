@@ -1,0 +1,13 @@
+{
+  "_id": "98kq88xm4i8",
+  "name": "immediately-people-do",
+  "params": {
+    "adv": "immediately",
+    "verb": "people-do"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "w237xbh4n6",
+  "name": "strange-seen",
+  "params": {
+    "na": "strange",
+    "verb": "be-seen"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

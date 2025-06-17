@@ -1,0 +1,13 @@
+{
+  "_id": "31fvcj9bvzd",
+  "name": "strange-say",
+  "params": {
+    "na": "strange",
+    "verb": "say"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

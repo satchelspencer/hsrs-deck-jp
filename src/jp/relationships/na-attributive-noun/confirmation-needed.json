@@ -1,0 +1,13 @@
+{
+  "_id": "8rz4mms6afh",
+  "name": "confirmation-needed",
+  "params": {
+    "na": "needed",
+    "noun": "confirmation"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

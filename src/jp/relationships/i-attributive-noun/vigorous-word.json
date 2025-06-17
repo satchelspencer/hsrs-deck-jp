@@ -1,0 +1,13 @@
+{
+  "_id": "nh4ogbae1sc",
+  "name": "vigorous-word",
+  "params": {
+    "iadj": "vigorous",
+    "noun": "word"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

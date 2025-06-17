@@ -1,0 +1,13 @@
+{
+  "_id": "k93m9uh6nqq",
+  "name": "situation-economics",
+  "params": {
+    "noun": "situation",
+    "owner": "economics"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

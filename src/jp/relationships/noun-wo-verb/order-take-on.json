@@ -1,0 +1,13 @@
+{
+  "_id": "4qmv354jfr",
+  "name": "order-take-on",
+  "params": {
+    "noun": "order",
+    "verb": "take-on"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

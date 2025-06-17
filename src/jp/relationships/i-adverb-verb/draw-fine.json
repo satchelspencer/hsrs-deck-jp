@@ -1,0 +1,13 @@
+{
+  "_id": "5332mt902n4",
+  "name": "draw-fine",
+  "params": {
+    "iadj": "fine",
+    "verb": "draw"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

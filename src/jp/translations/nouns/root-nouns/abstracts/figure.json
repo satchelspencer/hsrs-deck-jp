@@ -1,0 +1,14 @@
+{
+  "_id": "gnv7r8zxolv",
+  "desc": "figure, shape, appearence",
+  "name": "figure",
+  "order": "4",
+  "parents": [
+    "abstracts"
+  ],
+  "props": {
+    "en": "figure",
+    "jp": "姿",
+    "tl": "すがた"
+  }
+}

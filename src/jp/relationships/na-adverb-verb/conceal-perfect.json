@@ -1,0 +1,13 @@
+{
+  "_id": "tdqhjro73j",
+  "name": "conceal-perfect",
+  "params": {
+    "na": "perfect",
+    "verb": "conceal-it"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

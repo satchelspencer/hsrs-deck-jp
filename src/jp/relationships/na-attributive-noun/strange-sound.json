@@ -1,0 +1,13 @@
+{
+  "_id": "njwumvxfcm",
+  "name": "strange-sound",
+  "params": {
+    "na": "strange",
+    "noun": "sound"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

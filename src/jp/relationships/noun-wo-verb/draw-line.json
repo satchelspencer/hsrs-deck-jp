@@ -1,0 +1,13 @@
+{
+  "_id": "8an5l7z6hx6",
+  "name": "draw-line",
+  "params": {
+    "noun": "line",
+    "verb": "draw"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

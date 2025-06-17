@@ -1,0 +1,13 @@
+{
+  "_id": "igh8aih6ac",
+  "name": "situation-danger",
+  "params": {
+    "na": "danger",
+    "noun": "situation"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

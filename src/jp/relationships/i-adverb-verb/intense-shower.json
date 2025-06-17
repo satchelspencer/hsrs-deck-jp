@@ -1,0 +1,13 @@
+{
+  "_id": "hhs6baky468",
+  "name": "intense-shower",
+  "params": {
+    "iadj": "intense",
+    "verb": "shower-down"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

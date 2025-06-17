@@ -1,0 +1,13 @@
+{
+  "_id": "v2pcis1lju",
+  "name": "sutuation-be-understood",
+  "params": {
+    "noun": "situation",
+    "verb": "be-understood"
+  },
+  "parents": [
+    "noun-ga-verb"
+  ],
+  "props": {
+  }
+}

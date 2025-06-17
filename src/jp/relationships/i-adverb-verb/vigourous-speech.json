@@ -1,0 +1,13 @@
+{
+  "_id": "xetvh3z1mrn",
+  "name": "vigourous-speech",
+  "params": {
+    "iadj": "vigorous",
+    "verb": "speech"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

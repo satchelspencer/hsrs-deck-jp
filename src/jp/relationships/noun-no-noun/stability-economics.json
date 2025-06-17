@@ -1,0 +1,13 @@
+{
+  "_id": "es99a5gvm3",
+  "name": "stability-economics",
+  "params": {
+    "noun": "stable",
+    "owner": "economics"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

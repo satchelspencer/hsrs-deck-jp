@@ -1,0 +1,13 @@
+{
+  "_id": "0dskc5dph9a",
+  "name": "directly-hear",
+  "params": {
+    "adv": "directly",
+    "verb": "hear"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

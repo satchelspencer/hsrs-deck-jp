@@ -1,0 +1,13 @@
+{
+  "_id": "tzg4i4ixtl",
+  "name": "speech-read",
+  "params": {
+    "noun": "speech",
+    "verb": "read"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

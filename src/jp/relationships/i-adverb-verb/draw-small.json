@@ -1,0 +1,13 @@
+{
+  "_id": "x8jvd7nz9b8",
+  "name": "draw-small",
+  "params": {
+    "iadj": "small",
+    "verb": "draw"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

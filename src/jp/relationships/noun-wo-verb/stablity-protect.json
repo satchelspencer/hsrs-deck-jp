@@ -1,0 +1,13 @@
+{
+  "_id": "r3ugrdcww2e",
+  "name": "stablity-protect",
+  "params": {
+    "noun": "stable",
+    "verb": "protect"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

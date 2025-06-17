@@ -1,0 +1,13 @@
+{
+  "_id": "lrvncb5pgw",
+  "name": "strange-voice",
+  "params": {
+    "na": "strange",
+    "noun": "voice"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

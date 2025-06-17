@@ -1,0 +1,13 @@
+{
+  "_id": "div4lqoufkl",
+  "name": "situation-quiet",
+  "params": {
+    "na": "quiet",
+    "noun": "situation"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

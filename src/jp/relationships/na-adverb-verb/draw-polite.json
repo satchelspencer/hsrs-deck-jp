@@ -1,0 +1,13 @@
+{
+  "_id": "765xqjn54pw",
+  "name": "draw-polite",
+  "params": {
+    "na": "polite",
+    "verb": "draw"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

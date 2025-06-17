@@ -1,0 +1,13 @@
+{
+  "_id": "6lwwpi7px17",
+  "name": "conceal-evidence",
+  "params": {
+    "noun": "evidence",
+    "verb": "conceal-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

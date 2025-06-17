@@ -1,0 +1,13 @@
+{
+  "_id": "z8duixaepi",
+  "name": "conceal-skilled",
+  "params": {
+    "na": "skilled",
+    "verb": "conceal-it"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

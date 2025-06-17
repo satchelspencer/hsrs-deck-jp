@@ -1,0 +1,13 @@
+{
+  "_id": "ro8osfsp7lk",
+  "name": "vigorous-voice",
+  "params": {
+    "iadj": "vigorous",
+    "noun": "voice"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

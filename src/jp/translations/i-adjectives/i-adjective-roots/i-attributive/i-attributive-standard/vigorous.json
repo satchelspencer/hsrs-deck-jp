@@ -1,0 +1,13 @@
+{
+  "_id": "a0y5j3vzsau",
+  "name": "vigorous",
+  "order": "4",
+  "parents": [
+    "i-attributive-standard"
+  ],
+  "props": {
+    "en": "vigorous",
+    "jp": "力強い",
+    "tl": "ちからづよい"
+  }
+}

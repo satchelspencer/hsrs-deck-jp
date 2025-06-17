@@ -1,0 +1,13 @@
+{
+  "_id": "qvhuoy0vbn",
+  "name": "situation-traffic",
+  "params": {
+    "noun": "situation",
+    "owner": "traffic"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

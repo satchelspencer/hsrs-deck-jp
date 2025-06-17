@@ -1,0 +1,13 @@
+{
+  "_id": "l1okhg3n4mk",
+  "name": "situation-strict",
+  "params": {
+    "iadj": "strict",
+    "noun": "situation"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

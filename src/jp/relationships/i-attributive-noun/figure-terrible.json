@@ -1,0 +1,13 @@
+{
+  "_id": "4nwa9l00lbj",
+  "name": "figure-terrible",
+  "params": {
+    "iadj": "terrible",
+    "noun": "figure"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

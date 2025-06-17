@@ -1,0 +1,13 @@
+{
+  "_id": "cvv17utu9i",
+  "name": "directly-speak",
+  "params": {
+    "adv": "directly",
+    "verb": "speak"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

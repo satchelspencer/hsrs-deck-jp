@@ -1,0 +1,13 @@
+{
+  "_id": "p7y8km3rass",
+  "name": "stability-relati",
+  "params": {
+    "noun": "stable",
+    "owner": "relationship"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

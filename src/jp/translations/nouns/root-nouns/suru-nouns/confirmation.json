@@ -1,0 +1,22 @@
+{
+  "_id": "y9u10jngcxs",
+  "desc": "verification, check",
+  "name": "confirmation",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "te-iru-verbs-state",
+    "people-do",
+    "do-to-informations",
+    "ni-person-verbs",
+    "de-location-verbs",
+    "easy-hard"
+  ],
+  "props": {
+    "_st": "confirmed",
+    "_v": "confirm",
+    "en": "comfirmation",
+    "jp": "確認",
+    "tl": "かくにん"
+  }
+}

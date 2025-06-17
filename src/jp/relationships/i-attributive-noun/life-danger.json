@@ -1,0 +1,13 @@
+{
+  "_id": "gv3x33eq3iu",
+  "name": "life-danger",
+  "params": {
+    "iadj": "dangerous",
+    "noun": "a-life"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

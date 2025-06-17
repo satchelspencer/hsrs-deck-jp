@@ -1,0 +1,13 @@
+{
+  "_id": "eiu561hacd5",
+  "name": "conceal-money",
+  "params": {
+    "noun": "money",
+    "verb": "conceal-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

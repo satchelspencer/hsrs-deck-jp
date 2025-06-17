@@ -1,0 +1,13 @@
+{
+  "_id": "r6k2qzpqvqc",
+  "name": "order-put-in",
+  "params": {
+    "noun": "order",
+    "verb": "put-in"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "b7mtfef1vvs",
+  "name": "stability-continue",
+  "params": {
+    "noun": "stable",
+    "verb": "be-continuing"
+  },
+  "parents": [
+    "noun-ga-verb"
+  ],
+  "props": {
+  }
+}

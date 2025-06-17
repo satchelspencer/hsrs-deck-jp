@@ -1,0 +1,13 @@
+{
+  "_id": "782ur4uo4e",
+  "name": "directly-go",
+  "params": {
+    "adv": "directly",
+    "verb": "go"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "t0e6xxapxfg",
+  "name": "comprehend-correct",
+  "params": {
+    "iadj": "correct",
+    "verb": "comprehension"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

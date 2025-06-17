@@ -1,0 +1,13 @@
+{
+  "_id": "yceoruf6zb",
+  "name": "memory-remain",
+  "params": {
+    "noun": "memory",
+    "verb": "be-left-over"
+  },
+  "parents": [
+    "noun-ni-verb-at"
+  ],
+  "props": {
+  }
+}

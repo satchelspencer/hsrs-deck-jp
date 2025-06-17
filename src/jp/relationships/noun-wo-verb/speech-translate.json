@@ -1,0 +1,13 @@
+{
+  "_id": "2v9j938pjba",
+  "name": "speech-translate",
+  "params": {
+    "noun": "speech",
+    "verb": "translation"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

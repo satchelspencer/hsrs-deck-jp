@@ -1,0 +1,13 @@
+{
+  "_id": "2qzg5z9479l",
+  "name": "comprehension-needed",
+  "params": {
+    "na": "needed",
+    "noun": "comprehension"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

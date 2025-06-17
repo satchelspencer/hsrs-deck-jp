@@ -1,0 +1,13 @@
+{
+  "_id": "znizbkwnjkk",
+  "name": "order-take",
+  "params": {
+    "noun": "order",
+    "verb": "take"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

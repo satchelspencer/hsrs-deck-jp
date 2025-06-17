@@ -1,0 +1,13 @@
+{
+  "_id": "h7cwn9y8uk",
+  "name": "strange-expr",
+  "params": {
+    "na": "strange",
+    "noun": "facial-expression"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "54xmzqe2y2x",
+  "name": "figure-child",
+  "params": {
+    "noun": "figure",
+    "owner": "child"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

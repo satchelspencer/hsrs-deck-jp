@@ -1,0 +1,13 @@
+{
+  "_id": "yncmmbjn05n",
+  "name": "feelings-write",
+  "params": {
+    "noun": "feelings",
+    "verb": "write"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

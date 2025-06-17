@@ -1,0 +1,13 @@
+{
+  "_id": "xixfsxpl85m",
+  "name": "situation-comprehen",
+  "params": {
+    "noun": "comprehension",
+    "owner": "situation"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

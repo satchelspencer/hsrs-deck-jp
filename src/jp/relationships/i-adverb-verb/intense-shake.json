@@ -1,0 +1,13 @@
+{
+  "_id": "g7gj6f95ao",
+  "name": "intense-shake",
+  "params": {
+    "iadj": "intense",
+    "verb": "shake"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

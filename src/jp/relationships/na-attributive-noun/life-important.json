@@ -1,0 +1,13 @@
+{
+  "_id": "8cbj5oini8j",
+  "name": "life-important",
+  "params": {
+    "na": "important",
+    "noun": "a-life"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

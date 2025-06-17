@@ -1,0 +1,13 @@
+{
+  "_id": "dtyavvhgkx",
+  "name": "strange-heard",
+  "params": {
+    "na": "strange",
+    "verb": "be-heard"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

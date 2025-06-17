@@ -1,0 +1,13 @@
+{
+  "_id": "r46nk42wdo",
+  "name": "figure-cat",
+  "params": {
+    "noun": "figure",
+    "owner": "cat"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

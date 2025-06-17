@@ -1,0 +1,13 @@
+{
+  "_id": "0uqbl1fh4cw",
+  "name": "intense-music",
+  "params": {
+    "iadj": "intense",
+    "noun": "music"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

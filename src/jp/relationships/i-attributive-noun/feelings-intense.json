@@ -1,0 +1,13 @@
+{
+  "_id": "weamuwqo64",
+  "name": "feelings-intense",
+  "params": {
+    "iadj": "intense",
+    "noun": "feelings"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

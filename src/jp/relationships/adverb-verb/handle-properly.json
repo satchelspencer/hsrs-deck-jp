@@ -1,0 +1,13 @@
+{
+  "_id": "2sbyhj91mo3",
+  "name": "handle-properly",
+  "params": {
+    "adv": "properly",
+    "verb": "handling"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "n1h6fi2ymdc",
+  "name": "life-needed",
+  "params": {
+    "na": "needed",
+    "noun": "a-life"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

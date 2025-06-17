@@ -1,0 +1,13 @@
+{
+  "_id": "gfmzzq7zds",
+  "name": "situation-choose",
+  "params": {
+    "noun": "situation",
+    "verb": "choose"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

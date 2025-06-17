@@ -1,0 +1,13 @@
+{
+  "_id": "jsgtxgyb9ug",
+  "name": "confirm-go",
+  "params": {
+    "noun": "confirmation",
+    "verb": "go"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

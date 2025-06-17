@@ -1,0 +1,13 @@
+{
+  "_id": "6nxrgs43jw6",
+  "name": "draw-wall",
+  "params": {
+    "noun": "paper",
+    "verb": "wall"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

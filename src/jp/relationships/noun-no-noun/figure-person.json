@@ -1,0 +1,13 @@
+{
+  "_id": "69lyf421o1",
+  "name": "figure-person",
+  "params": {
+    "noun": "figure",
+    "owner": "person"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

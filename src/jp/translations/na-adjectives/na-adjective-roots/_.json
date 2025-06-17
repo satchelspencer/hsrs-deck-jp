@@ -5,6 +5,7 @@
     "na-adjectives"
   ],
   "props": {
+    "_ad": "$.en+'ly'"
   },
   "virtual": true
 }

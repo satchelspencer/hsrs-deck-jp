@@ -1,0 +1,13 @@
+{
+  "_id": "9yi25xvh674",
+  "name": "figure-bird",
+  "params": {
+    "noun": "figure",
+    "owner": "man-formal"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

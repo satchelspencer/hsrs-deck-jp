@@ -1,0 +1,13 @@
+{
+  "_id": "m7c69rvztpm",
+  "name": "figure-excellent",
+  "params": {
+    "iadj": "excellent",
+    "noun": "figure"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

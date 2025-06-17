@@ -7,9 +7,9 @@ after downloading build the deck into a json file by running `yarn`, output will
 this deck is somewhat opinionated about certain aspects of japanese, and language learning in general. your preferences may differ, so feel free modify it or [make your own](https://github.com/satchelspencer/hsrs/blob/main/docs/deck-creation.md). assumptions include:
 
 - each card has 3 learnable properties (siblings):
-  - `en` english translation first
   - `jp` written japanese first
   - `tl` phonetic transliteration, used with the [tts-plugin](https://github.com/satchelspencer/hsrs-tts) for listening exercises
+  - `en` english translation first
 - prioritize common grammar constructions over rote phrases, as this benefits much more from hsrs's functionality.
 - hiragana is used for all transliterations, and is the first section of the deck. romaji is only used on hiragana cards.
 - english grammar is often but **not always correct**. for example, transitivity is often different between english and japanese so X が要る is translated as 'X be needed', rather than breaking the whole sentence to make 'need X' fit. this also applies to english adjectives that get translated as japanese verbs, etc.

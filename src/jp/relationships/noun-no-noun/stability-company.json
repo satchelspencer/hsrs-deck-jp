@@ -1,0 +1,13 @@
+{
+  "_id": "h7dxexvo21i",
+  "name": "stability-company",
+  "params": {
+    "noun": "stable",
+    "owner": "company"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

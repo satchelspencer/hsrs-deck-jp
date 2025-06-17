@@ -1,0 +1,13 @@
+{
+  "_id": "js5dlmn5x7",
+  "name": "draw-beautiful",
+  "params": {
+    "iadj": "beautiful",
+    "verb": "draw"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

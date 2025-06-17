@@ -1,0 +1,13 @@
+{
+  "_id": "sf6976wm7o",
+  "name": "strange-figure",
+  "params": {
+    "na": "strange",
+    "noun": "figure"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

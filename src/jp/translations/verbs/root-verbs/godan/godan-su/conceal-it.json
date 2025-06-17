@@ -1,0 +1,18 @@
+{
+  "_id": "3jqv8rrm1w1",
+  "desc": "hide it, keep out of sight",
+  "name": "conceal-it",
+  "order": "4",
+  "parents": [
+    "godan-su",
+    "do-to-informations",
+    "people-do",
+    "ni-person-verbs",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "conceal it",
+    "jp": "隠す",
+    "tl": "かくす"
+  }
+}

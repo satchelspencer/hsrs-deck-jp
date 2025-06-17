@@ -1,0 +1,13 @@
+{
+  "_id": "8hm079iaydx",
+  "name": "confirm-come",
+  "params": {
+    "noun": "confirmation",
+    "verb": "come"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

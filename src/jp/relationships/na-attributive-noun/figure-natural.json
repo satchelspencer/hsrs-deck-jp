@@ -1,0 +1,13 @@
+{
+  "_id": "f3ixdfj8ypq",
+  "name": "figure-natural",
+  "params": {
+    "na": "nature",
+    "noun": "figure"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

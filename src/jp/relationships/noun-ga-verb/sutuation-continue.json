@@ -1,0 +1,13 @@
+{
+  "_id": "7adg26vaqar",
+  "name": "sutuation-continue",
+  "params": {
+    "noun": "situation",
+    "verb": "be-continuing"
+  },
+  "parents": [
+    "noun-ga-verb"
+  ],
+  "props": {
+  }
+}

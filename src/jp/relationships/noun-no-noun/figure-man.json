@@ -1,0 +1,13 @@
+{
+  "_id": "k9ymu69599l",
+  "name": "figure-man",
+  "params": {
+    "noun": "figure",
+    "owner": "man-formal"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

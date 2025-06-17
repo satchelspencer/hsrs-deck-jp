@@ -1,0 +1,15 @@
+{
+  "_id": "bb5x8fj1vpb",
+  "desc": "existence as in is real or not, or just presence",
+  "name": "existence-abstract",
+  "order": "4",
+  "parents": [
+    "abstracts"
+  ],
+  "props": {
+    "_v": "",
+    "en": "existence",
+    "jp": "存在",
+    "tl": "そんざい"
+  }
+}

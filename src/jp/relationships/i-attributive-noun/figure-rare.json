@@ -1,0 +1,13 @@
+{
+  "_id": "tjujq9kkogo",
+  "name": "figure-rare",
+  "params": {
+    "iadj": "rare",
+    "noun": "figure"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

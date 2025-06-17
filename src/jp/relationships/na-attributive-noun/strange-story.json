@@ -1,0 +1,13 @@
+{
+  "_id": "97chbwt6s0i",
+  "name": "strange-story",
+  "params": {
+    "na": "strange",
+    "noun": "story"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

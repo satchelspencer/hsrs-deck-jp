@@ -1,0 +1,13 @@
+{
+  "_id": "5sv98zb3si8",
+  "name": "feelings-convey",
+  "params": {
+    "noun": "feelings",
+    "verb": "convey"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

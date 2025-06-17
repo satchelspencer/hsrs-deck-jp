@@ -1,0 +1,13 @@
+{
+  "_id": "88omvltsr8a",
+  "name": "situation-decide",
+  "params": {
+    "noun": "situation",
+    "verb": "decide-on"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

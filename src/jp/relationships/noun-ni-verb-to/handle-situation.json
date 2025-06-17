@@ -1,0 +1,13 @@
+{
+  "_id": "lhw48h17xm",
+  "name": "handle-situation",
+  "params": {
+    "noun": "situation",
+    "verb": "handling"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "dofe1qia6p4",
+  "name": "stable-politics",
+  "params": {
+    "noun": "politics",
+    "verb": "stable"
+  },
+  "parents": [
+    "noun-ga-verb"
+  ],
+  "props": {
+  }
+}

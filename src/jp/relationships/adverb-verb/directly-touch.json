@@ -1,0 +1,13 @@
+{
+  "_id": "fj7ldufznwl",
+  "name": "directly-touch",
+  "params": {
+    "adv": "directly",
+    "verb": "touch"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "5e54k2bc1x8",
+  "name": "vigourous-move",
+  "params": {
+    "iadj": "vigorous",
+    "verb": "be-moving"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

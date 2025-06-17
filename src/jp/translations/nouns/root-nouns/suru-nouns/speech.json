@@ -1,0 +1,20 @@
+{
+  "_id": "s01y1fj1bi",
+  "desc": "a publich speech, an address",
+  "name": "speech",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "people-do",
+    "people-no",
+    "de-location-verbs",
+    "de-location-verbs"
+  ],
+  "props": {
+    "_pg": "making a speech",
+    "_v": "make a speech",
+    "en": "speech",
+    "jp": "演説",
+    "tl": "えんぜつ"
+  }
+}

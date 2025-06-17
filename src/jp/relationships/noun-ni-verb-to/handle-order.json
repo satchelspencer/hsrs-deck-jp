@@ -1,0 +1,13 @@
+{
+  "_id": "hbbcdnm2jci",
+  "name": "handle-order",
+  "params": {
+    "noun": "order",
+    "verb": "handling"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

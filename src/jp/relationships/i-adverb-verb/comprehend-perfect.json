@@ -1,0 +1,13 @@
+{
+  "_id": "ll2usgggyi",
+  "name": "comprehend-perfect",
+  "params": {
+    "iadj": "perfect",
+    "verb": "comprehension"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

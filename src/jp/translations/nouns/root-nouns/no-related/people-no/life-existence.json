@@ -1,13 +1,13 @@
 {
   "_id": "v0jtfqclrub",
   "desc": "life, existence. (one's) working life, career",
-  "name": "existence",
+  "name": "life-existence",
   "order": "3",
   "parents": [
     "people-no"
   ],
   "props": {
-    "en": "existence",
+    "en": "life existence",
     "jp": "生命",
     "tl": "せいめい"
   }

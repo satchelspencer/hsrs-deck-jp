@@ -1,0 +1,13 @@
+{
+  "_id": "ia3kqewbwj",
+  "name": "situation-strange",
+  "params": {
+    "na": "strange",
+    "noun": "situation"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

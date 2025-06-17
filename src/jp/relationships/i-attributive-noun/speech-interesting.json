@@ -1,0 +1,13 @@
+{
+  "_id": "a0knn94myao",
+  "name": "speech-interesting",
+  "params": {
+    "iadj": "interesting",
+    "noun": "speech"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

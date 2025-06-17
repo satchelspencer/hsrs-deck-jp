@@ -1,0 +1,13 @@
+{
+  "_id": "rl9e13duxbm",
+  "name": "handling-strong",
+  "params": {
+    "iadj": "strong",
+    "noun": "handling"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

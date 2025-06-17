@@ -1,0 +1,13 @@
+{
+  "_id": "oml064mj6z",
+  "name": "vigourous-walk",
+  "params": {
+    "iadj": "vigorous",
+    "verb": "walk"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

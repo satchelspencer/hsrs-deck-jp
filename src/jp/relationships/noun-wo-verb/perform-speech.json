@@ -1,0 +1,13 @@
+{
+  "_id": "p72rw98r3q",
+  "name": "perform-speech",
+  "params": {
+    "noun": "speech",
+    "verb": "perform-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

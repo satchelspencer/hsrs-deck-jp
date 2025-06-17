@@ -1,0 +1,13 @@
+{
+  "_id": "4lvb97ey0zn",
+  "name": "situation-agonizing",
+  "params": {
+    "iadj": "agonizing",
+    "noun": "situation"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

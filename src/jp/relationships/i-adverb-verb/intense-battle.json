@@ -1,0 +1,13 @@
+{
+  "_id": "u7iyvppl2r",
+  "name": "intense-battle",
+  "params": {
+    "iadj": "intense",
+    "verb": "battle-it"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

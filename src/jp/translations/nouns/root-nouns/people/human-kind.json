@@ -1,0 +1,14 @@
+{
+  "_id": "jvd8w4o5ho8",
+  "desc": "human being, mankind",
+  "name": "human-kind",
+  "order": "4",
+  "parents": [
+    "people"
+  ],
+  "props": {
+    "en": "human kind",
+    "jp": "人間",
+    "tl": "にんげん"
+  }
+}

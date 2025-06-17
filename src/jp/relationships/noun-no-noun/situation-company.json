@@ -1,0 +1,13 @@
+{
+  "_id": "ah1rw0gjxip",
+  "name": "situation-company",
+  "params": {
+    "noun": "situation",
+    "owner": "company"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

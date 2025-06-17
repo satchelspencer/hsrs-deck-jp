@@ -1,0 +1,13 @@
+{
+  "_id": "bsdqbyjtb4g",
+  "name": "life-protect",
+  "params": {
+    "noun": "a-life",
+    "verb": "protect"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

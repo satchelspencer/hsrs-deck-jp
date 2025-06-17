@@ -1,0 +1,13 @@
+{
+  "_id": "5qe6iduoxzv",
+  "name": "order-early",
+  "params": {
+    "iadj": "early",
+    "noun": "order"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

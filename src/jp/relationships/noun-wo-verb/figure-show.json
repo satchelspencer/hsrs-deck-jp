@@ -1,0 +1,13 @@
+{
+  "_id": "fpi4sjvrxpb",
+  "name": "figure-show",
+  "params": {
+    "noun": "figure",
+    "verb": "show"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "v3uaas5y91s",
+  "name": "situation-difficult",
+  "params": {
+    "iadj": "difficult",
+    "noun": "situation"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

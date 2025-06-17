@@ -1,0 +1,13 @@
+{
+  "_id": "v5ot2c9tmma",
+  "name": "handle-early",
+  "params": {
+    "iadj": "early",
+    "verb": "handling"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

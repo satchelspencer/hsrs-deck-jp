@@ -1,0 +1,13 @@
+{
+  "_id": "4e8z42s7tbp",
+  "name": "strange-be-moving",
+  "params": {
+    "na": "strange",
+    "verb": "be-moving"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

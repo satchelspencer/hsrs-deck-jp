@@ -1,0 +1,13 @@
+{
+  "_id": "7ceo4wqhc5m",
+  "name": "all-out-listen",
+  "params": {
+    "na": "all-out",
+    "verb": "hear"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

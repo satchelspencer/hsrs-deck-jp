@@ -1,0 +1,13 @@
+{
+  "_id": "qq5bmm5zpr",
+  "name": "battle-with-knife",
+  "params": {
+    "noun": "knife",
+    "verb": "battle-it"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

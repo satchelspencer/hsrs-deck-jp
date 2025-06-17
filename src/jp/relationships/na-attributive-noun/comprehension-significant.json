@@ -1,0 +1,13 @@
+{
+  "_id": "9xalfn8st6m",
+  "name": "comprehension-significant",
+  "params": {
+    "na": "significant",
+    "noun": "comprehension"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

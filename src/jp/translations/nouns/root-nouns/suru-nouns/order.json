@@ -1,0 +1,21 @@
+{
+  "_id": "b1a4hf5zb26",
+  "desc": "for a purchase",
+  "name": "order",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "people-do",
+    "do-to-products",
+    "te-iru-verbs-continuous",
+    "de-location-verbs",
+    "ken-matters-countable"
+  ],
+  "props": {
+    "_pg": "ordering it",
+    "_v": "order it",
+    "en": "order",
+    "jp": "注文",
+    "tl": "ちゅうもん"
+  }
+}

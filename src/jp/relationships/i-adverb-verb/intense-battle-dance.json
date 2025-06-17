@@ -1,0 +1,13 @@
+{
+  "_id": "krj4zcw8zbj",
+  "name": "intense-battle-dance",
+  "params": {
+    "iadj": "intense",
+    "verb": "dance"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

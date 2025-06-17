@@ -1,0 +1,13 @@
+{
+  "_id": "4111lgt4edj",
+  "name": "situation-health",
+  "params": {
+    "noun": "situation",
+    "owner": "weather"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

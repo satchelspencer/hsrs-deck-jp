@@ -1,0 +1,13 @@
+{
+  "_id": "aw402pozef",
+  "name": "order-orgs",
+  "params": {
+    "noun": "organizations",
+    "verb": "order"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

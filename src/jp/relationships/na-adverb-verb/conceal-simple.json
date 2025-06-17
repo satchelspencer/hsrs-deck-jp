@@ -1,0 +1,13 @@
+{
+  "_id": "a5ilrll3wbr",
+  "name": "conceal-simple",
+  "params": {
+    "na": "simple",
+    "verb": "conceal-it"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "6w38swt0b7p",
+  "name": "order-slow",
+  "params": {
+    "iadj": "slow",
+    "noun": "order"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "8321j988br",
+  "name": "figure-see",
+  "params": {
+    "noun": "figure",
+    "verb": "see"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "8wou8i5sfo6",
+  "name": "conceal-containers",
+  "params": {
+    "noun": "containers",
+    "verb": "conceal-it"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

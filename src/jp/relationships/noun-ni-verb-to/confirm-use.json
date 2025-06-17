@@ -1,0 +1,13 @@
+{
+  "_id": "4u03dm6bzkg",
+  "name": "confirm-use",
+  "params": {
+    "noun": "confirmation",
+    "verb": "use"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

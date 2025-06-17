@@ -1,0 +1,13 @@
+{
+  "_id": "wtjkuha6fxr",
+  "name": "stability-continue-copy",
+  "params": {
+    "noun": "stable",
+    "verb": "be-lost"
+  },
+  "parents": [
+    "noun-ga-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "cfzvk39cugp",
+  "desc": "without delay",
+  "name": "immediately",
+  "order": "4",
+  "parents": [
+    "verb-adverbs"
+  ],
+  "props": {
+    "en": "immediately",
+    "jp": "早速",
+    "tl": "さっそく"
+  }
+}

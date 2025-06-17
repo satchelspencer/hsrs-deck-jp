@@ -1,0 +1,13 @@
+{
+  "_id": "vdcjy5m7smf",
+  "name": "situation-explain",
+  "params": {
+    "noun": "situation",
+    "verb": "explanation"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

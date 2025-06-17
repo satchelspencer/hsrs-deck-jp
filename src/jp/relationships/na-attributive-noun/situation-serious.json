@@ -1,0 +1,13 @@
+{
+  "_id": "bbfkzlj6qkg",
+  "name": "situation-serious",
+  "params": {
+    "na": "serious",
+    "noun": "situation"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

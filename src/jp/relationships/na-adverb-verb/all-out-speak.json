@@ -1,0 +1,13 @@
+{
+  "_id": "zgedcx268r",
+  "name": "all-out-speak",
+  "params": {
+    "na": "all-out",
+    "verb": "speak"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

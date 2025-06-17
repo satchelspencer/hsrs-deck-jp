@@ -1,0 +1,13 @@
+{
+  "_id": "goccszjhmq8",
+  "name": "strange-laugh",
+  "params": {
+    "na": "strange",
+    "verb": "laugh"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

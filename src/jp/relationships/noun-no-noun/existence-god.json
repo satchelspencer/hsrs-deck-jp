@@ -1,0 +1,13 @@
+{
+  "_id": "91p670nl449",
+  "name": "existence-god",
+  "params": {
+    "noun": "existence-abstract",
+    "owner": "god"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

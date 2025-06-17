@@ -1,0 +1,13 @@
+{
+  "_id": "mvd18b79ug",
+  "name": "confirm-reservation",
+  "params": {
+    "noun": "reservation",
+    "verb": "confirmation"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

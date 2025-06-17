@@ -1,0 +1,13 @@
+{
+  "_id": "81cufeldzs5",
+  "name": "skilled-draw",
+  "params": {
+    "na": "skilled",
+    "verb": "draw"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

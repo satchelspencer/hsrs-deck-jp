@@ -1,0 +1,13 @@
+{
+  "_id": "8pbqgatpgpw",
+  "name": "situation-discuss",
+  "params": {
+    "noun": "situation",
+    "verb": "discuss"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

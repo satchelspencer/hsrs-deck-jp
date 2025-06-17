@@ -1,0 +1,13 @@
+{
+  "_id": "jfcmykadx6",
+  "name": "confirm-situation",
+  "params": {
+    "noun": "reservation",
+    "verb": "confirmation"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

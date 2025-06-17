@@ -1,0 +1,13 @@
+{
+  "_id": "q4hv2bo3e6",
+  "name": "agonizing-battle-it",
+  "params": {
+    "iadj": "agonizing",
+    "verb": "battle-it"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

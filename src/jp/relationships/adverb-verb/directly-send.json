@@ -1,0 +1,13 @@
+{
+  "_id": "hex7wclib7d",
+  "name": "directly-send",
+  "params": {
+    "adv": "directly",
+    "verb": "send"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

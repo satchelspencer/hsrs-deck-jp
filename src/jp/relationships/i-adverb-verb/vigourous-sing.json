@@ -1,0 +1,13 @@
+{
+  "_id": "sm6x1o3ctt",
+  "name": "vigourous-sing",
+  "params": {
+    "iadj": "vigorous",
+    "verb": "sing"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

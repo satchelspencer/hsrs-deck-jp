@@ -1,0 +1,13 @@
+{
+  "_id": "nk6ztqq2djn",
+  "name": "existence-evidence",
+  "params": {
+    "noun": "existence-abstract",
+    "owner": "evidence"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

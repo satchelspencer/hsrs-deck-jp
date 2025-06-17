@@ -1,0 +1,19 @@
+{
+  "_id": "y021ut43j9l",
+  "name": "stable",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "te-iru-verbs-state",
+    "good-bads",
+    "high-low"
+  ],
+  "props": {
+    "_pg": "",
+    "_st": "is stable",
+    "_v": "stabilise",
+    "en": "stability",
+    "jp": "安定",
+    "tl": "あんてい"
+  }
+}

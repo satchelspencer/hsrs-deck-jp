@@ -1,0 +1,13 @@
+{
+  "_id": "ek09q6hxshi",
+  "name": "order-communication-methods",
+  "params": {
+    "noun": "communication-methods",
+    "verb": "order"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "jw3k0dtn2mb",
+  "desc": "in the sense of physically existing, or fate",
+  "name": "a-life",
+  "order": "4",
+  "parents": [
+    "people-no"
+  ],
+  "props": {
+    "en": "a life",
+    "jp": "命",
+    "tl": "いのち"
+  }
+}

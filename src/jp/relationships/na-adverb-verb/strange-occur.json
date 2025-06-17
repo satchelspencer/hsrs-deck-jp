@@ -1,0 +1,13 @@
+{
+  "_id": "ldh7y37nc",
+  "name": "strange-occur",
+  "params": {
+    "na": "strange",
+    "verb": "occur"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

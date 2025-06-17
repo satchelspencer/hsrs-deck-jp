@@ -2,7 +2,7 @@
   "_id": "rgfoamhzx7h",
   "desc": "counter for battles",
   "name": "counter-root-battles",
-  "order": "5",
+  "order": "4",
   "parents": [
     "counter-roots-kango-full-s"
   ],

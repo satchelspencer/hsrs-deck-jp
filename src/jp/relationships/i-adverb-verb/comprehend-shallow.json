@@ -1,0 +1,13 @@
+{
+  "_id": "7dzajqr408",
+  "name": "comprehend-shallow",
+  "params": {
+    "iadj": "shallow",
+    "verb": "comprehension"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "3lp81tbw2vo",
+  "name": "comprehension-shallow",
+  "params": {
+    "iadj": "shallow",
+    "noun": "comprehension"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

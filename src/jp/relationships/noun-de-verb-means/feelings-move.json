@@ -1,0 +1,13 @@
+{
+  "_id": "7p6tjk98vik",
+  "name": "feelings-move",
+  "params": {
+    "noun": "feelings",
+    "verb": "be-moving"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

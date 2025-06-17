@@ -1,0 +1,13 @@
+{
+  "_id": "y5pkdlo0rdr",
+  "name": "situation-complex",
+  "params": {
+    "na": "complexity",
+    "noun": "situation"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

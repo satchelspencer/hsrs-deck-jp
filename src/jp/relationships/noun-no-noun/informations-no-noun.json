@@ -1,0 +1,13 @@
+{
+  "_id": "qudmeugy2dj",
+  "name": "informations-no-noun",
+  "params": {
+    "noun": "informations-no",
+    "owner": "informations"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

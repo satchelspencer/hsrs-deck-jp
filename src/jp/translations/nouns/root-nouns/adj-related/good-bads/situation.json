@@ -1,0 +1,13 @@
+{
+  "_id": "n3rylc0x6wd",
+  "name": "situation",
+  "order": "4",
+  "parents": [
+    "good-bads"
+  ],
+  "props": {
+    "en": "situation",
+    "jp": "状況",
+    "tl": "じょうきょう"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "6m61qxlztp5",
+  "name": "comprehension-enough",
+  "params": {
+    "na": "sufficient",
+    "noun": "comprehension"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

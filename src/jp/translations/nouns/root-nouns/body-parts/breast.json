@@ -1,0 +1,14 @@
+{
+  "_id": "ik3pamils1",
+  "desc": "chest, breast",
+  "name": "breast",
+  "order": "4",
+  "parents": [
+    "body-parts"
+  ],
+  "props": {
+    "en": "breast",
+    "jp": "胸",
+    "tl": "むね"
+  }
+}

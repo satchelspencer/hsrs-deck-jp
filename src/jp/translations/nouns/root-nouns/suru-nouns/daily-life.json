@@ -1,7 +1,7 @@
 {
   "_id": "h0gm46r2ll",
   "desc": "daily life, living. livelihood, (one's) living",
-  "name": "life",
+  "name": "daily-life",
   "order": "2",
   "parents": [
     "suru-nouns",
@@ -13,7 +13,7 @@
   "props": {
     "_pg": "living",
     "_v": "live",
-    "en": "life",
+    "en": "daily life",
     "jp": "生活",
     "tl": "せいかつ"
   }

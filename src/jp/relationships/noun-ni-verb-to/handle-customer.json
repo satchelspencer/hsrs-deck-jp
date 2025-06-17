@@ -1,0 +1,13 @@
+{
+  "_id": "t8h3lj6mt2",
+  "name": "handle-customer",
+  "params": {
+    "noun": "customer",
+    "verb": "handling"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

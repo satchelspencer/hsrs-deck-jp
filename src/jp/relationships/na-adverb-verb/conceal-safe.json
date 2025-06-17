@@ -1,0 +1,13 @@
+{
+  "_id": "0prcdb7hfsdg",
+  "name": "conceal-safe",
+  "params": {
+    "na": "safety",
+    "verb": "conceal-it"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

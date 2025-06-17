@@ -1,0 +1,13 @@
+{
+  "_id": "qztibfl2psg",
+  "name": "existence-fact",
+  "params": {
+    "noun": "existence-abstract",
+    "owner": "fact"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

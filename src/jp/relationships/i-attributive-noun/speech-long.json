@@ -1,0 +1,13 @@
+{
+  "_id": "6zdx0obvlqd",
+  "name": "speech-long",
+  "params": {
+    "iadj": "long",
+    "noun": "speech"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

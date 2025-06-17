@@ -1,0 +1,13 @@
+{
+  "_id": "v2q939k0o8",
+  "name": "all-out-study",
+  "params": {
+    "na": "all-out",
+    "verb": "studies"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

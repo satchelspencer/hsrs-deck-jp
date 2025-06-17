@@ -1,0 +1,13 @@
+{
+  "_id": "ije4ys9yxvl",
+  "name": "comprehension-deep",
+  "params": {
+    "iadj": "deep",
+    "noun": "comprehension"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "mzrp70bnp7s",
+  "name": "intense-comp",
+  "params": {
+    "iadj": "intense",
+    "noun": "competition"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

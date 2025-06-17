@@ -1,0 +1,16 @@
+{
+  "_id": "aw2ize0lqxn",
+  "desc": "do battle, fight againt",
+  "name": "battle-it",
+  "order": "4",
+  "parents": [
+    "godan-u",
+    "people-do",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "battle it",
+    "jp": "戦う",
+    "tl": "たたかう"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "gbmwn1t9ny8",
+  "name": "speech-listen",
+  "params": {
+    "noun": "speech",
+    "verb": "hear"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

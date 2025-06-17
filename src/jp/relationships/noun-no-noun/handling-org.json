@@ -1,0 +1,13 @@
+{
+  "_id": "rmhijom3bdh",
+  "name": "handling-org",
+  "params": {
+    "noun": "handling",
+    "owner": "organizations"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

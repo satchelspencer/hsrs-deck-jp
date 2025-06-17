@@ -1,0 +1,13 @@
+{
+  "_id": "hvyvr5jsst",
+  "name": "figure-woman",
+  "params": {
+    "noun": "figure",
+    "owner": "woman-formal"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

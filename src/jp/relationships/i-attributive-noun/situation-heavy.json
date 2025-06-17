@@ -1,0 +1,13 @@
+{
+  "_id": "ck3au54q4hm",
+  "name": "situation-heavy",
+  "params": {
+    "iadj": "heavy",
+    "noun": "situation"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "gutla87hwzb",
+  "name": "figure-change",
+  "params": {
+    "noun": "figure",
+    "verb": "change"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

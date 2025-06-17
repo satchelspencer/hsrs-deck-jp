@@ -1,0 +1,13 @@
+{
+  "_id": "p9fy09nw7eo",
+  "name": "confirm-informations",
+  "params": {
+    "noun": "informations",
+    "verb": "confirmation"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

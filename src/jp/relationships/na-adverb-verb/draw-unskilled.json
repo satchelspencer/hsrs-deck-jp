@@ -1,0 +1,13 @@
+{
+  "_id": "cll1x7c0wfn",
+  "name": "draw-unskilled",
+  "params": {
+    "na": "unskilled",
+    "verb": "draw"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

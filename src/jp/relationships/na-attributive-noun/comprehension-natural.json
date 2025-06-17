@@ -1,0 +1,13 @@
+{
+  "_id": "rtwb0lm4du",
+  "name": "comprehension-natural",
+  "params": {
+    "na": "nature",
+    "noun": "comprehension"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

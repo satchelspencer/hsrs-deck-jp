@@ -1,0 +1,13 @@
+{
+  "_id": "wl6kb9uytxl",
+  "name": "confirmation-significant",
+  "params": {
+    "na": "significant",
+    "noun": "confirmation"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

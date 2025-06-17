@@ -1,0 +1,14 @@
+{
+  "_id": "8poqp2g972s",
+  "desc": "odd, peculiar, curious",
+  "name": "strange",
+  "order": "4",
+  "parents": [
+    "na-attributive"
+  ],
+  "props": {
+    "en": "strange",
+    "jp": "奇妙",
+    "tl": "きみょう"
+  }
+}

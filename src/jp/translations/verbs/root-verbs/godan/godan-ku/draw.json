@@ -1,0 +1,17 @@
+{
+  "_id": "a9m2sc6dezf",
+  "desc": "drawing, depicting, painting",
+  "name": "draw",
+  "order": "4",
+  "parents": [
+    "godan-ku",
+    "people-do",
+    "de-location-verbs",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "en": "draw",
+    "jp": "描く",
+    "tl": "えがく"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "kl7spiqdeg",
+  "name": "speech-vigour",
+  "params": {
+    "iadj": "vigorous",
+    "noun": "speech"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

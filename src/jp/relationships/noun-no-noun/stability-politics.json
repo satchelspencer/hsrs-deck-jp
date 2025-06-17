@@ -1,0 +1,13 @@
+{
+  "_id": "czuumbkr1dg",
+  "name": "stability-politics",
+  "params": {
+    "noun": "stable",
+    "owner": "politics"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "_id": "l9m6n9fi9ak",
+  "desc": "memory, remembering iteself",
+  "name": "memory",
+  "order": "4",
+  "parents": [
+    "abstracts",
+    "suru-nouns",
+    "te-iru-verbs-continuous",
+    "people-do",
+    "do-to-informations"
+  ],
+  "props": {
+    "_pg": "remembering",
+    "_v": "remember",
+    "en": "memory",
+    "jp": "記憶",
+    "tl": "きおく"
+  }
+}

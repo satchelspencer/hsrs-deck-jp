@@ -1,0 +1,13 @@
+{
+  "_id": "1gwtumc11ml",
+  "name": "draw-screen",
+  "params": {
+    "noun": "paper",
+    "verb": "screen"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

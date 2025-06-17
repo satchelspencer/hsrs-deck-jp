@@ -1,0 +1,13 @@
+{
+  "_id": "6ovtkcn7rwv",
+  "name": "draw-big",
+  "params": {
+    "iadj": "big",
+    "verb": "draw"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

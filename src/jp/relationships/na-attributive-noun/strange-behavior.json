@@ -1,0 +1,13 @@
+{
+  "_id": "x5e6kfan26",
+  "name": "strange-behavior",
+  "params": {
+    "na": "strange",
+    "noun": "behavior"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

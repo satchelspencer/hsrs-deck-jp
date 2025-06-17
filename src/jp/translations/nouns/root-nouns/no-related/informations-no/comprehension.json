@@ -1,0 +1,22 @@
+{
+  "_id": "gdgblgtw0k",
+  "desc": "understanding",
+  "name": "comprehension",
+  "order": "4",
+  "parents": [
+    "informations-no",
+    "suru-nouns",
+    "people-do",
+    "te-iru-verbs-state",
+    "do-to-informations",
+    "good-bads"
+  ],
+  "props": {
+    "_pg": "",
+    "_st": "comprehended",
+    "_v": "comprehend",
+    "en": "comprehension",
+    "jp": "理解",
+    "tl": "りかい"
+  }
+}

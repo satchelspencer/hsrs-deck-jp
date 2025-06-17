@@ -1,0 +1,13 @@
+{
+  "_id": "56o1q8oxn93",
+  "name": "draw-fast",
+  "params": {
+    "iadj": "fast",
+    "verb": "draw"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

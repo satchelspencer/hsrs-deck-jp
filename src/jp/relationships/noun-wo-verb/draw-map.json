@@ -1,0 +1,13 @@
+{
+  "_id": "j13m32vgf3l",
+  "name": "draw-map",
+  "params": {
+    "noun": "map",
+    "verb": "draw"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

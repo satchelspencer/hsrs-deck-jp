@@ -1,0 +1,13 @@
+{
+  "_id": "wzve68kdje9",
+  "name": "vigorous-flow",
+  "params": {
+    "iadj": "vigorous",
+    "noun": "flow"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

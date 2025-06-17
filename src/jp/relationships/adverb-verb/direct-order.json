@@ -1,0 +1,13 @@
+{
+  "_id": "57xh16bv8dx",
+  "name": "direct-order",
+  "params": {
+    "adv": "directly",
+    "verb": "order"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

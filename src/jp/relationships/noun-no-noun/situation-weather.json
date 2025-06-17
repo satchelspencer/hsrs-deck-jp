@@ -1,0 +1,13 @@
+{
+  "_id": "raz77419egr",
+  "name": "situation-weather",
+  "params": {
+    "noun": "situation",
+    "owner": "weather"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

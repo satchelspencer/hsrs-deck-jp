@@ -1,0 +1,13 @@
+{
+  "_id": "anueq8tmff7",
+  "name": "situation-explanation",
+  "params": {
+    "noun": "explanation",
+    "owner": "situation"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

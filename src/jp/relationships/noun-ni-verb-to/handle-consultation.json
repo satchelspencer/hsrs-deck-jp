@@ -1,0 +1,13 @@
+{
+  "_id": "6if5qxsjksr",
+  "name": "handle-consultation",
+  "params": {
+    "noun": "consultation",
+    "verb": "handling"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

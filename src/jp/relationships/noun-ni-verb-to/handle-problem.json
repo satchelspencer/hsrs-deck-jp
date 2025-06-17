@@ -1,0 +1,13 @@
+{
+  "_id": "rma8bna74d",
+  "name": "handle-problem",
+  "params": {
+    "noun": "problem",
+    "verb": "handling"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

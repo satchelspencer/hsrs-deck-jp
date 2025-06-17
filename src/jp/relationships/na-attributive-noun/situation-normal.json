@@ -1,0 +1,13 @@
+{
+  "_id": "mm15irj3d9p",
+  "name": "situation-normal",
+  "params": {
+    "na": "normal",
+    "noun": "situation"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

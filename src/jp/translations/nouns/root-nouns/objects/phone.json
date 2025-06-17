@@ -7,7 +7,8 @@
     "objects",
     "electrics",
     "audibles",
-    "ringers"
+    "ringers",
+    "communication-methods"
   ],
   "props": {
     "en": "phone",

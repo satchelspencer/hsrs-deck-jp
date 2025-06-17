@@ -1,0 +1,13 @@
+{
+  "_id": "rzbslecb7y",
+  "name": "intense-rain",
+  "params": {
+    "iadj": "intense",
+    "noun": "rain"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}
