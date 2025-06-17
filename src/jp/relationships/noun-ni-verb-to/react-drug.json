@@ -1,0 +1,13 @@
+{
+  "_id": "mx77d1adwt",
+  "name": "react-drug",
+  "params": {
+    "noun": "medicine",
+    "verb": "reaction"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

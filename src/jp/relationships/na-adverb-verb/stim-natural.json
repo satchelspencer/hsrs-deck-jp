@@ -1,0 +1,13 @@
+{
+  "_id": "pumscqytviq",
+  "name": "stim-natural",
+  "params": {
+    "na": "nature",
+    "verb": "stim-natural"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

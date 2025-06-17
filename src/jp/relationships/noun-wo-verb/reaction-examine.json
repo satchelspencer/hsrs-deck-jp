@@ -1,0 +1,13 @@
+{
+  "_id": "icxgzk90j9",
+  "name": "reaction-examine",
+  "params": {
+    "noun": "reaction",
+    "verb": "examine"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

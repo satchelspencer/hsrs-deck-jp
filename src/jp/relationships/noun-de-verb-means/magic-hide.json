@@ -1,0 +1,13 @@
+{
+  "_id": "d8r4qhcczy",
+  "name": "magic-hide",
+  "params": {
+    "noun": "magic",
+    "verb": "hide"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

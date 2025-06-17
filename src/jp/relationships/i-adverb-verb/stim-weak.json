@@ -1,0 +1,13 @@
+{
+  "_id": "82oua34tl0r",
+  "name": "stim-weak",
+  "params": {
+    "iadj": "weak",
+    "verb": "stimulation"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

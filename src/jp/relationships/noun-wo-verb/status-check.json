@@ -1,0 +1,13 @@
+{
+  "_id": "2csbhvvabgk",
+  "name": "status-check",
+  "params": {
+    "noun": "status",
+    "verb": "check"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

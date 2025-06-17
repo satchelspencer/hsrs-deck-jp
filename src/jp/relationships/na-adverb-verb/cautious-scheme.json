@@ -1,0 +1,13 @@
+{
+  "_id": "eu2whb3jeeu",
+  "name": "cautious-scheme",
+  "params": {
+    "na": "cautious",
+    "verb": "scheme"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

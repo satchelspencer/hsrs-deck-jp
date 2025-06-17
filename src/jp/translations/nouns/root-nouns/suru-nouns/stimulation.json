@@ -1,0 +1,17 @@
+{
+  "_id": "hsu7prbqv77",
+  "desc": "stimulation, stimulus, incentive",
+  "name": "stimulation",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "stimulating",
+    "_v": "stimulate",
+    "en": "stimulation",
+    "jp": "刺激",
+    "tl": "しげき"
+  }
+}

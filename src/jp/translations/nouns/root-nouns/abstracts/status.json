@@ -1,0 +1,14 @@
+{
+  "_id": "l1lf2p4luc",
+  "name": "status",
+  "order": "4",
+  "parents": [
+    "abstracts",
+    "good-bads"
+  ],
+  "props": {
+    "en": "status",
+    "jp": "状態",
+    "tl": "じょうたい"
+  }
+}

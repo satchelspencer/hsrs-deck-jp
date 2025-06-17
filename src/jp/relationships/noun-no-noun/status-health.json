@@ -1,0 +1,13 @@
+{
+  "_id": "x28cf5m09ol",
+  "name": "status-health",
+  "params": {
+    "noun": "status",
+    "owner": "health"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

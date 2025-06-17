@@ -1,0 +1,13 @@
+{
+  "_id": "zubl0jpxdu",
+  "name": "cautious-consider",
+  "params": {
+    "na": "cautious",
+    "verb": "consider"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

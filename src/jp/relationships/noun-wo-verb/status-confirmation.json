@@ -1,0 +1,13 @@
+{
+  "_id": "drwobkp7k2l",
+  "name": "status-confirmation",
+  "params": {
+    "noun": "status",
+    "verb": "confirmation"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

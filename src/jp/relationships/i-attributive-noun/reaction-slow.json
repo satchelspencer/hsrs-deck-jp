@@ -1,0 +1,13 @@
+{
+  "_id": "t5o0kdpj97",
+  "name": "reaction-slow",
+  "params": {
+    "iadj": "slow",
+    "noun": "reaction"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

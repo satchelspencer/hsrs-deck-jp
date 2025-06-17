@@ -1,0 +1,13 @@
+{
+  "_id": "jt1s7ooyp",
+  "name": "cautious-explain",
+  "params": {
+    "na": "cautious",
+    "verb": "explanation"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

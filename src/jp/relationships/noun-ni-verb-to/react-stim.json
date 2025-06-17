@@ -1,0 +1,13 @@
+{
+  "_id": "jhwtfltb17f",
+  "name": "react-stim",
+  "params": {
+    "noun": "stimulation",
+    "verb": "reaction"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

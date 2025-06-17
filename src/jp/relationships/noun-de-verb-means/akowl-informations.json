@@ -1,0 +1,13 @@
+{
+  "_id": "v6vl0edg8t",
+  "name": "akowl-informations",
+  "params": {
+    "noun": "informations",
+    "verb": "acquire-knowledge"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

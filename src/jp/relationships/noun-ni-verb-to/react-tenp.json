@@ -1,0 +1,13 @@
+{
+  "_id": "nbsbi3uti4g",
+  "name": "react-tenp",
+  "params": {
+    "noun": "temperature",
+    "verb": "reaction"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "1bhdje9a6uyj",
+  "name": "stim-strong",
+  "params": {
+    "iadj": "strong",
+    "verb": "stimulation"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

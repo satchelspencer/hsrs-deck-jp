@@ -1,0 +1,13 @@
+{
+  "_id": "xmugy6beita",
+  "name": "magic-danger",
+  "params": {
+    "na": "danger",
+    "noun": "magic"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

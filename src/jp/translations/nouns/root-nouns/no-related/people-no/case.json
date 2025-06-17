@@ -1,0 +1,15 @@
+{
+  "_id": "twrxjff8kr",
+  "desc": "situation, occasion, circumstances",
+  "name": "case",
+  "order": "4",
+  "parents": [
+    "people-no",
+    "countables"
+  ],
+  "props": {
+    "en": "case",
+    "jp": "場合",
+    "tl": "ばあい"
+  }
+}

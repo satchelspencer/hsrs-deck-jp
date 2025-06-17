@@ -1,0 +1,13 @@
+{
+  "_id": "5na4fekc9s2",
+  "name": "magic-amazing",
+  "params": {
+    "iadj": "amazing",
+    "noun": "magic"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

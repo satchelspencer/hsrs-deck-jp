@@ -1,0 +1,13 @@
+{
+  "_id": "s5lfd1ezko",
+  "name": "hide-skill",
+  "params": {
+    "na": "skilled",
+    "verb": "hide"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

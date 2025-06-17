@@ -1,0 +1,15 @@
+{
+  "_id": "qzjh9m69up",
+  "desc": "fellow, kinda pejorative",
+  "mode": "c",
+  "name": "chap",
+  "order": "4",
+  "parents": [
+    "people"
+  ],
+  "props": {
+    "en": "chap",
+    "jp": "奴",
+    "tl": "やつ"
+  }
+}

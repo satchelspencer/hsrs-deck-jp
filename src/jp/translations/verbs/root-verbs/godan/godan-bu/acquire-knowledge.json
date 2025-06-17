@@ -1,0 +1,18 @@
+{
+  "_id": "mhofi1mdpv8",
+  "desc": "more literary than 習う",
+  "name": "acquire-knowledge",
+  "order": "4",
+  "parents": [
+    "godan-bu",
+    "people-do",
+    "ni-person-verbs",
+    "do-to-informations",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "en": "acquire knowledge of",
+    "jp": "学ぶ",
+    "tl": "まなぶ"
+  }
+}

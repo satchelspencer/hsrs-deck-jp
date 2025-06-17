@@ -1,0 +1,13 @@
+{
+  "_id": "wo74io1bszn",
+  "name": "stimulate-exer",
+  "params": {
+    "noun": "exercise",
+    "verb": "stimulation"
+  },
+  "parents": [
+    "noun-ga-verb"
+  ],
+  "props": {
+  }
+}

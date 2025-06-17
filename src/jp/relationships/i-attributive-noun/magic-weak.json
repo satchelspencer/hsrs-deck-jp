@@ -1,0 +1,13 @@
+{
+  "_id": "06s4yqu3p8s",
+  "name": "magic-weak",
+  "params": {
+    "iadj": "weak",
+    "noun": "magic"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

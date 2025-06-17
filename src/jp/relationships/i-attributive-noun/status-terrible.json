@@ -1,0 +1,13 @@
+{
+  "_id": "avf6ub3uz5k",
+  "name": "status-terrible",
+  "params": {
+    "iadj": "terrible",
+    "noun": "status"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

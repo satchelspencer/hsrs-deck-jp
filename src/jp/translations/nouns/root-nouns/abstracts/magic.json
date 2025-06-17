@@ -1,0 +1,14 @@
+{
+  "_id": "buuqv33m938",
+  "desc": "like a spell",
+  "name": "magic",
+  "order": "4",
+  "parents": [
+    "abstracts"
+  ],
+  "props": {
+    "en": "magic",
+    "jp": "魔法",
+    "tl": "まほう"
+  }
+}

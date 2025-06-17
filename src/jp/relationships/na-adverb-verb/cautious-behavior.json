@@ -1,0 +1,13 @@
+{
+  "_id": "kmr0ivb51e",
+  "name": "cautious-behavior",
+  "params": {
+    "na": "cautious",
+    "verb": "behavior"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

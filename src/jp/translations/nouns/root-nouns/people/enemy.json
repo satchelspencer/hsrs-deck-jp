@@ -1,0 +1,15 @@
+{
+  "_id": "xrdywej7ksh",
+  "desc": "adversary in conflict, sporting",
+  "name": "enemy",
+  "order": "4",
+  "parents": [
+    "people",
+    "people-no"
+  ],
+  "props": {
+    "en": "enemy",
+    "jp": "敵",
+    "tl": "てき"
+  }
+}

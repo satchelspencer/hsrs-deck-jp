@@ -1,0 +1,13 @@
+{
+  "_id": "wcghr0az5sc",
+  "name": "cautious-handle",
+  "params": {
+    "na": "cautious",
+    "verb": "handling"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "pemhnjmhr9i",
+  "name": "case-complex",
+  "params": {
+    "na": "complexity",
+    "noun": "case"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

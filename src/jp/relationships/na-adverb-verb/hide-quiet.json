@@ -1,0 +1,13 @@
+{
+  "_id": "gtr0trr0dbp",
+  "name": "hide-quiet",
+  "params": {
+    "na": "quiet",
+    "verb": "hide"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

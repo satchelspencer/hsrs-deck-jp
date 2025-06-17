@@ -1,0 +1,18 @@
+{
+  "_id": "mlz2msy7vmj",
+  "desc": "conceal yourself, intransitive",
+  "name": "hide",
+  "order": "4",
+  "parents": [
+    "ichidan",
+    "people-do",
+    "ni-at-verbs",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "_st": "hidden",
+    "en": "hide",
+    "jp": "隠れる",
+    "tl": "かくれる"
+  }
+}

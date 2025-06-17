@@ -1,0 +1,13 @@
+{
+  "_id": "leas09avh3",
+  "name": "magic-strong",
+  "params": {
+    "iadj": "strong",
+    "noun": "magic"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

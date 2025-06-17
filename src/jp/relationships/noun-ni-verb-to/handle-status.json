@@ -1,0 +1,13 @@
+{
+  "_id": "8mcp4vqi0fo",
+  "name": "handle-status",
+  "params": {
+    "noun": "status",
+    "verb": "handling"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

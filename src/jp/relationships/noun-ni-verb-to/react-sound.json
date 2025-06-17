@@ -1,0 +1,13 @@
+{
+  "_id": "ykjw6gz8yxh",
+  "name": "react-sound",
+  "params": {
+    "noun": "sound",
+    "verb": "reaction"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "xxny9viyfzn",
+  "name": "magic-deep",
+  "params": {
+    "iadj": "deep",
+    "noun": "magic"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "h7dukkbs2he",
+  "name": "reaction-early",
+  "params": {
+    "iadj": "early",
+    "noun": "reaction"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

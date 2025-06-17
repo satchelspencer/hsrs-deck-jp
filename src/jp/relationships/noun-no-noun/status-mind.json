@@ -1,0 +1,13 @@
+{
+  "_id": "gwiobbj2ozd",
+  "name": "status-mind",
+  "params": {
+    "noun": "status",
+    "owner": "mind"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

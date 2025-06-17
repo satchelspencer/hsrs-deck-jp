@@ -1,0 +1,13 @@
+{
+  "_id": "k4pqvx64tca",
+  "name": "magic-myster",
+  "params": {
+    "na": "mysterious",
+    "noun": "magic"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

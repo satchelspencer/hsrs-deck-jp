@@ -1,0 +1,13 @@
+{
+  "_id": "7bmx2kyofzi",
+  "name": "react-info",
+  "params": {
+    "noun": "informations",
+    "verb": "reaction"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

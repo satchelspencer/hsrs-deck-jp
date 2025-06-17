@@ -1,0 +1,13 @@
+{
+  "_id": "ew4d8jom6yc",
+  "name": "magic-protect",
+  "params": {
+    "noun": "magic",
+    "verb": "protect"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

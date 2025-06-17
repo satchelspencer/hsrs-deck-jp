@@ -1,0 +1,13 @@
+{
+  "_id": "hq21f3pi9ht",
+  "name": "cautious",
+  "order": "4",
+  "parents": [
+    "na-people"
+  ],
+  "props": {
+    "en": "cautious",
+    "jp": "慎重",
+    "tl": "しんちょう"
+  }
+}

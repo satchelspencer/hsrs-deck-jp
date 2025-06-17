@@ -1,0 +1,13 @@
+{
+  "_id": "dcg1xfvj4qb",
+  "name": "cautious-mf",
+  "params": {
+    "na": "cautious",
+    "verb": "go-forward"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

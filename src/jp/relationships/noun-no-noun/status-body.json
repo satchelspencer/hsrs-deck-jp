@@ -1,0 +1,13 @@
+{
+  "_id": "43nt770k2fd",
+  "name": "status-body",
+  "params": {
+    "noun": "status",
+    "owner": "body"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

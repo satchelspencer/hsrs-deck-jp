@@ -1,0 +1,13 @@
+{
+  "_id": "2son9c707cq",
+  "name": "stimulate-info",
+  "params": {
+    "noun": "informations",
+    "verb": "stimulation"
+  },
+  "parents": [
+    "noun-ga-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "px66i0uht1",
+  "name": "magic-rare",
+  "params": {
+    "iadj": "rare",
+    "noun": "magic"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

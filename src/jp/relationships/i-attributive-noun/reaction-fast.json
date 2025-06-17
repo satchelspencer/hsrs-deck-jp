@@ -1,0 +1,13 @@
+{
+  "_id": "yfz1j0y9hjs",
+  "name": "reaction-fast",
+  "params": {
+    "iadj": "fast",
+    "noun": "reaction"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

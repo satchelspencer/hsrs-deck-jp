@@ -1,0 +1,13 @@
+{
+  "_id": "gs4a21iepld",
+  "name": "magic-ack",
+  "params": {
+    "noun": "magic",
+    "verb": "acquire-knowledge"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

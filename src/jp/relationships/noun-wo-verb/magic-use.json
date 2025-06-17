@@ -1,0 +1,13 @@
+{
+  "_id": "q2qm2jdo01q",
+  "name": "magic-use",
+  "params": {
+    "noun": "magic",
+    "verb": "use"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "so3fz18gxxh",
+  "desc": "behavior response, or chemical ",
+  "name": "reaction",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "people-do",
+    "people-no",
+    "de-location-verbs",
+    "good-bads",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "reacting",
+    "_v": "react",
+    "en": "reaction",
+    "jp": "反応",
+    "tl": "はんのう"
+  }
+}

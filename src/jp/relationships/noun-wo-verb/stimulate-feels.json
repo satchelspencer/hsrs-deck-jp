@@ -1,0 +1,13 @@
+{
+  "_id": "zr3qq3tmcpk",
+  "name": "stimulate-feels",
+  "params": {
+    "noun": "feelings",
+    "verb": "stimulation"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "xuoaykokzim",
+  "name": "cautious-discuss",
+  "params": {
+    "na": "cautious",
+    "verb": "discuss"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

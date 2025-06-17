@@ -1,0 +1,13 @@
+{
+  "_id": "q4s7q5pgl2",
+  "name": "stimulate-news",
+  "params": {
+    "noun": "news",
+    "verb": "stimulation"
+  },
+  "parents": [
+    "noun-ga-verb"
+  ],
+  "props": {
+  }
+}

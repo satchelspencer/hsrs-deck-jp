@@ -1,0 +1,13 @@
+{
+  "_id": "fvg08fzusq7",
+  "name": "react-fast",
+  "params": {
+    "iadj": "fast",
+    "verb": "reaction"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

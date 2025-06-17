@@ -1,0 +1,13 @@
+{
+  "_id": "fxvmdsf2l9i",
+  "name": "react-light",
+  "params": {
+    "noun": "light",
+    "verb": "reaction"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

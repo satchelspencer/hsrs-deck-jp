@@ -1,0 +1,13 @@
+{
+  "_id": "ew9fc4qbetv",
+  "name": "case-explain",
+  "params": {
+    "noun": "case",
+    "verb": "explanation"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

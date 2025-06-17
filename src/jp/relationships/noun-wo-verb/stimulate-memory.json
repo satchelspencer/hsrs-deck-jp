@@ -1,0 +1,13 @@
+{
+  "_id": "t42w7vnum",
+  "name": "stimulate-memory",
+  "params": {
+    "noun": "memory",
+    "verb": "stimulation"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

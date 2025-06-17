@@ -1,0 +1,13 @@
+{
+  "_id": "z0wai94ovpp",
+  "name": "status-weathe",
+  "params": {
+    "noun": "status",
+    "owner": "weather"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "zqz6cup3xu8",
+  "name": "hide-deep-copy",
+  "params": {
+    "iadj": "early",
+    "verb": "hide"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

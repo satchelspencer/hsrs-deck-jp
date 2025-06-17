@@ -1,0 +1,13 @@
+{
+  "_id": "nuzuzuffuio",
+  "name": "cautious-move",
+  "params": {
+    "na": "cautious",
+    "verb": "be-moving"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

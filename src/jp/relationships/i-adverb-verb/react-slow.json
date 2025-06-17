@@ -1,0 +1,13 @@
+{
+  "_id": "q2pconlckzp",
+  "name": "react-slow",
+  "params": {
+    "iadj": "slow",
+    "verb": "reaction"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "k9mokan8vd",
+  "name": "status-system",
+  "params": {
+    "noun": "status",
+    "owner": "system"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

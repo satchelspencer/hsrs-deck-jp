@@ -1,0 +1,13 @@
+{
+  "_id": "qjnt3hdkldq",
+  "name": "stimulate-curio",
+  "params": {
+    "noun": "interest",
+    "verb": "stimulation"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

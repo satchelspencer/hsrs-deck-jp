@@ -1,0 +1,13 @@
+{
+  "_id": "kysf6kvx2h",
+  "name": "cautious-choose",
+  "params": {
+    "na": "cautious",
+    "verb": "choose"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

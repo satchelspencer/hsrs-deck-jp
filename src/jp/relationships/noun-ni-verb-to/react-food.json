@@ -1,0 +1,13 @@
+{
+  "_id": "lhd0dzlh1f8",
+  "name": "react-food",
+  "params": {
+    "noun": "food",
+    "verb": "reaction"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

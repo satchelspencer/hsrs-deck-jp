@@ -1,0 +1,13 @@
+{
+  "_id": "o8le2aplcth",
+  "name": "hide-deep",
+  "params": {
+    "iadj": "deep",
+    "verb": "hide"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

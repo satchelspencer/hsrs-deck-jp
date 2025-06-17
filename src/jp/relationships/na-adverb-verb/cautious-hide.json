@@ -1,0 +1,13 @@
+{
+  "_id": "k53befwa3jl",
+  "name": "cautious-hide",
+  "params": {
+    "na": "cautious",
+    "verb": "hide"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

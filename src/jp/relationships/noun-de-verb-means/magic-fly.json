@@ -1,0 +1,13 @@
+{
+  "_id": "d29znvy94t4",
+  "name": "magic-fly",
+  "params": {
+    "noun": "magic",
+    "verb": "fly"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "ahm9itdt1i",
+  "name": "case-numerous",
+  "params": {
+    "iadj": "numerous",
+    "noun": "case"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}
