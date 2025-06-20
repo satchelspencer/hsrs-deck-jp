@@ -1,0 +1,13 @@
+{
+  "_id": "0w845qnyujms",
+  "name": "degree-know",
+  "params": {
+    "noun": "degree",
+    "verb": "know"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

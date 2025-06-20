@@ -1,0 +1,13 @@
+{
+  "_id": "nsxi8y7yfd7",
+  "name": "hope-for-happ",
+  "params": {
+    "noun": "bliss",
+    "verb": "hope-for"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "fpc6tcbhwng",
+  "name": "imagine-dream",
+  "params": {
+    "noun": "dream",
+    "verb": "imagination"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

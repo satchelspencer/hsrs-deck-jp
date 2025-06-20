@@ -1,0 +1,13 @@
+{
+  "_id": "tauva1eqts",
+  "name": "finish-it-deep",
+  "params": {
+    "iadj": "deep",
+    "verb": "finish-it"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "_id": "0t928pi7hft",
+  "desc": "approval, authorization",
+  "name": "permission",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "people-do",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "permitting",
+    "_v": "permit",
+    "en": "permission",
+    "jp": "許可",
+    "tl": "きょか"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "avhpivcnt2d",
+  "name": "permission-needed",
+  "params": {
+    "na": "needed",
+    "noun": "permission"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "xu4wmnvhcva",
+  "name": "finish-it-perfect",
+  "params": {
+    "na": "perfect",
+    "verb": "finish-it"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

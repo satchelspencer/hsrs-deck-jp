@@ -1,0 +1,14 @@
+{
+  "_id": "bcspqvsewlg",
+  "desc": "door in a formal or metaphorical sense",
+  "name": "portal",
+  "order": "4",
+  "parents": [
+    "akeru-shimeru"
+  ],
+  "props": {
+    "en": "portal",
+    "jp": "扉",
+    "tl": "とびら"
+  }
+}

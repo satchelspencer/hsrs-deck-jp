@@ -1,0 +1,13 @@
+{
+  "_id": "nf7bw9t6rbe",
+  "name": "battle-love",
+  "params": {
+    "noun": "battle",
+    "owner": "love-concept"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

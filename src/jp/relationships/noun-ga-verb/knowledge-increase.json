@@ -1,0 +1,13 @@
+{
+  "_id": "41lqdpddymk",
+  "name": "knowledge-increase",
+  "params": {
+    "noun": "knowledge",
+    "verb": "be-increased"
+  },
+  "parents": [
+    "noun-ga-verb"
+  ],
+  "props": {
+  }
+}

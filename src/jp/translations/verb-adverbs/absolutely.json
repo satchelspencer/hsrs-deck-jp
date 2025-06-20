@@ -1,0 +1,14 @@
+{
+  "_id": "c095ehowgx5",
+  "desc": "definitely",
+  "name": "absolutely",
+  "order": "4",
+  "parents": [
+    "verb-adverbs"
+  ],
+  "props": {
+    "en": "absolutely",
+    "jp": "絶対に",
+    "tl": "ぜったいに"
+  }
+}

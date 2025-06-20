@@ -1,0 +1,20 @@
+{
+  "_id": "ju8d4rrugg",
+  "desc": "move",
+  "name": "relocate",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "te-iru-verbs-state",
+    "movers-do",
+    "ni-at-verbs",
+    "do-with-transports"
+  ],
+  "props": {
+    "_st": "relocated",
+    "_v": "relocate",
+    "en": "reloaction",
+    "jp": "移動",
+    "tl": "いどう"
+  }
+}

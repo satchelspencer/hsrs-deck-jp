@@ -1,0 +1,13 @@
+{
+  "_id": "845f4uvovux",
+  "name": "victory-delight",
+  "params": {
+    "noun": "victory",
+    "verb": "be-delighted"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

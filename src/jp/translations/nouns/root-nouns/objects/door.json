@@ -5,7 +5,8 @@
   "parents": [
     "objects",
     "akeru-shimeru",
-    "pullables"
+    "pullables",
+    "mai-countable"
   ],
   "props": {
     "en": "door",

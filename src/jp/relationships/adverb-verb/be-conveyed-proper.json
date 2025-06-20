@@ -1,0 +1,13 @@
+{
+  "_id": "k6xowmfq09g",
+  "name": "be-conveyed-proper",
+  "params": {
+    "adv": "properly",
+    "verb": "be-conveyed"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

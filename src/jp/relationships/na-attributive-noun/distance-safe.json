@@ -1,0 +1,13 @@
+{
+  "_id": "mcnl5bug7if",
+  "name": "distance-safe",
+  "params": {
+    "na": "sufficient",
+    "noun": "safety"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

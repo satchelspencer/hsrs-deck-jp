@@ -1,0 +1,14 @@
+{
+  "_id": "jb3ljjohbb",
+  "desc": "outcome, consequence",
+  "name": "result",
+  "order": "4",
+  "parents": [
+    "informations"
+  ],
+  "props": {
+    "en": "result",
+    "jp": "結果",
+    "tl": "けっか"
+  }
+}

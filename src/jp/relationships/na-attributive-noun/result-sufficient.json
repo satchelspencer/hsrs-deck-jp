@@ -1,0 +1,13 @@
+{
+  "_id": "e7nuh616n",
+  "name": "result-sufficient",
+  "params": {
+    "na": "sufficient",
+    "noun": "result"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "32c8jbfukr8",
+  "name": "distance-dangerous",
+  "params": {
+    "na": "insufficient",
+    "noun": "danger"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

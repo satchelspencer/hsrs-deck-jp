@@ -1,0 +1,13 @@
+{
+  "_id": "2yboxge2nx8",
+  "name": "report-correct",
+  "params": {
+    "iadj": "correct",
+    "verb": "report"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

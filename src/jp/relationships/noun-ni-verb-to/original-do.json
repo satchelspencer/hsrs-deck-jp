@@ -1,0 +1,13 @@
+{
+  "_id": "679q0677gcf",
+  "name": "original-do",
+  "params": {
+    "noun": "original",
+    "verb": "do-suru"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "g4hijeaby0f",
+  "name": "objective-confirm",
+  "params": {
+    "noun": "objective",
+    "verb": "confirmation"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "05fxqfxlbbke",
+  "name": "part-informations",
+  "params": {
+    "noun": "part",
+    "owner": "informations"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

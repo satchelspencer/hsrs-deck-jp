@@ -1,0 +1,13 @@
+{
+  "_id": "rfuajof42i",
+  "name": "important-pol-evaluate",
+  "params": {
+    "na": "important-polite",
+    "verb": "evaluation"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

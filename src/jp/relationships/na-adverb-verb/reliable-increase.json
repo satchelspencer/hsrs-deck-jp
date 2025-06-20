@@ -1,0 +1,13 @@
+{
+  "_id": "8jdprippema",
+  "name": "reliable-increase",
+  "params": {
+    "na": "reliable",
+    "verb": "be-increased"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

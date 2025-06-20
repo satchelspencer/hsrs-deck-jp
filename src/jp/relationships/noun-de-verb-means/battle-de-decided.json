@@ -1,0 +1,13 @@
+{
+  "_id": "ejv90uevf9d",
+  "name": "battle-de-decided",
+  "params": {
+    "noun": "battle",
+    "verb": "be-decided"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

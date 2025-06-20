@@ -1,0 +1,13 @@
+{
+  "_id": "3rflwde2vxj",
+  "name": "battle-liked",
+  "params": {
+    "na": "liked",
+    "noun": "battle"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

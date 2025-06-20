@@ -1,0 +1,20 @@
+{
+  "_id": "k9rc5r3ws8",
+  "desc": "gratitude, thanks",
+  "name": "appreciation",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "te-iru-verbs-state",
+    "people-do",
+    "ni-person-verbs"
+  ],
+  "props": {
+    "_pg": "",
+    "_st": "appreciative",
+    "_v": "appreciate",
+    "en": "appreciation",
+    "jp": "感謝",
+    "tl": "かんしゃ"
+  }
+}

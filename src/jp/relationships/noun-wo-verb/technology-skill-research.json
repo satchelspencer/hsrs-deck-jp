@@ -1,0 +1,13 @@
+{
+  "_id": "5cf3ty1y4m7",
+  "name": "technology-skill-research",
+  "params": {
+    "noun": "technique",
+    "verb": "research"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

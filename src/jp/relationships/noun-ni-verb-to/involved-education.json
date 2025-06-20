@@ -1,0 +1,13 @@
+{
+  "_id": "zgm3tytqwbk",
+  "name": "involved-education",
+  "params": {
+    "noun": "education",
+    "verb": "be-involved"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "0mi8jd3ly7u",
+  "name": "technique-priduction",
+  "params": {
+    "noun": "technique",
+    "owner": "production"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

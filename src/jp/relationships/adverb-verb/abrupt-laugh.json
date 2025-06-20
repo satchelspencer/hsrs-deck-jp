@@ -1,0 +1,13 @@
+{
+  "_id": "ggm939nittp",
+  "name": "abrupt-laugh",
+  "params": {
+    "adv": "abruptly",
+    "verb": "laugh"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "wqijz3jbsxb",
+  "desc": "opprotunity, place (abstract sense)",
+  "name": "occasion",
+  "order": "4",
+  "parents": [
+    "abstracts"
+  ],
+  "props": {
+    "en": "occasion",
+    "jp": "場",
+    "tl": "ば"
+  }
+}

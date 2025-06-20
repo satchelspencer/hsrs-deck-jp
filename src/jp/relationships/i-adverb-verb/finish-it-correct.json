@@ -1,0 +1,13 @@
+{
+  "_id": "bzvnw2qk8a5",
+  "name": "finish-it-correct",
+  "params": {
+    "iadj": "correct",
+    "verb": "finish-it"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

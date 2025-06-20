@@ -1,0 +1,13 @@
+{
+  "_id": "un68sncmrxr",
+  "name": "victory-clear",
+  "params": {
+    "adv": "clearly",
+    "verb": "victory"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

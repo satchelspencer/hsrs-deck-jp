@@ -1,0 +1,19 @@
+{
+  "_id": "d0r0hdpjivv",
+  "name": "victory",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "people-do",
+    "te-iru-verbs-state",
+    "ni-person-verbs",
+    "de-location-verbs"
+  ],
+  "props": {
+    "_st": "victorious",
+    "_v": "become victorious",
+    "en": "victory",
+    "jp": "勝利",
+    "tl": "しょうり"
+  }
+}

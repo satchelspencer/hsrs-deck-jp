@@ -1,0 +1,13 @@
+{
+  "_id": "nw7jkgfhtw",
+  "name": "be-conveyed-perfect",
+  "params": {
+    "na": "perfect",
+    "verb": "be-conveyed"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

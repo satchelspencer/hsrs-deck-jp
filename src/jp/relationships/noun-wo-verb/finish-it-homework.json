@@ -1,0 +1,13 @@
+{
+  "_id": "ai5mauz5kq",
+  "name": "finish-it-homework",
+  "params": {
+    "noun": "homework",
+    "verb": "finish-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

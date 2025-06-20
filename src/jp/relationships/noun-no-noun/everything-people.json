@@ -1,0 +1,13 @@
+{
+  "_id": "qzfrxvxtc",
+  "name": "everything-people",
+  "params": {
+    "noun": "everything",
+    "owner": "people"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

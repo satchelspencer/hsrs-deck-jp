@@ -1,0 +1,14 @@
+{
+  "_id": "6gp0g1x0uxa",
+  "desc": "interval, spacing, often non physical",
+  "name": "distance",
+  "order": "4",
+  "parents": [
+    "abstracts"
+  ],
+  "props": {
+    "en": "distance",
+    "jp": "距離",
+    "tl": "きょり"
+  }
+}

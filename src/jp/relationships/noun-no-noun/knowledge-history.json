@@ -1,0 +1,13 @@
+{
+  "_id": "ctzy9ohfr67",
+  "name": "knowledge-history",
+  "params": {
+    "noun": "knowledge",
+    "owner": "history"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

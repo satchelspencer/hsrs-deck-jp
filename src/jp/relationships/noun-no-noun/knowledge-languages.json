@@ -1,0 +1,13 @@
+{
+  "_id": "v52ygjd53p",
+  "name": "knowledge-languages",
+  "params": {
+    "noun": "knowledge",
+    "owner": "language"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

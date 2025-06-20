@@ -1,0 +1,15 @@
+{
+  "_id": "ckfqp2sd21",
+  "desc": "certain, sure, reliable",
+  "name": "reliable",
+  "order": "4",
+  "parents": [
+    "na-attributive"
+  ],
+  "props": {
+    "_ad": "reliably",
+    "en": "reliable",
+    "jp": "確実",
+    "tl": "かくじつ"
+  }
+}

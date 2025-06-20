@@ -1,0 +1,13 @@
+{
+  "_id": "snc271xqy8",
+  "name": "battle-intense",
+  "params": {
+    "iadj": "intense",
+    "noun": "battle"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

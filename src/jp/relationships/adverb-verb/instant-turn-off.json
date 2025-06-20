@@ -1,0 +1,13 @@
+{
+  "_id": "1l2js3k2jm",
+  "name": "instant-turn-off",
+  "params": {
+    "adv": "in-an-instant",
+    "verb": "be-turned-off"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

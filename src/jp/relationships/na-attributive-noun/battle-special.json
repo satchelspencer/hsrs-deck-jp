@@ -1,0 +1,13 @@
+{
+  "_id": "hizgo4c3dl4",
+  "name": "battle-special",
+  "params": {
+    "na": "special",
+    "noun": "battle"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

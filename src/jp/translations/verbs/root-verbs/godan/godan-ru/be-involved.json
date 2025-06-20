@@ -1,0 +1,17 @@
+{
+  "_id": "cf0sk324atc",
+  "desc": "concern ones self with, be connected to",
+  "name": "be-involved",
+  "order": "4",
+  "parents": [
+    "godan-ru",
+    "te-iru-verbs-state",
+    "people-do"
+  ],
+  "props": {
+    "_st": "involved",
+    "en": "be involved",
+    "jp": "関わる",
+    "tl": "かかわる"
+  }
+}

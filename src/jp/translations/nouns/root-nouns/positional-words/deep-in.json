@@ -1,0 +1,14 @@
+{
+  "_id": "twmgev1v51",
+  "desc": "back, deep inside",
+  "name": "deep-in",
+  "order": "4",
+  "parents": [
+    "positional-words"
+  ],
+  "props": {
+    "en": "deep in",
+    "jp": "奥",
+    "tl": "おく"
+  }
+}

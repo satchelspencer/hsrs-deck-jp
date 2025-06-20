@@ -1,0 +1,13 @@
+{
+  "_id": "ueri7qrbxb7",
+  "name": "abrupt-deprive",
+  "params": {
+    "adv": "abruptly",
+    "verb": "be-deprived"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

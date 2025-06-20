@@ -1,0 +1,13 @@
+{
+  "_id": "ge0camy53dn",
+  "name": "attack-fast",
+  "params": {
+    "iadj": "fast",
+    "noun": "attack"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

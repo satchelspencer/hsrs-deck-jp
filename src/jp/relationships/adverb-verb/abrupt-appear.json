@@ -1,0 +1,13 @@
+{
+  "_id": "9jb76u3imcs",
+  "name": "abrupt-appear",
+  "params": {
+    "adv": "abruptly",
+    "verb": "appear"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

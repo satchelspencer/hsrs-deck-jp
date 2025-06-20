@@ -1,0 +1,13 @@
+{
+  "_id": "uzdxk51x36h",
+  "name": "deal-with-proper",
+  "params": {
+    "adv": "properly",
+    "verb": "deal-with"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

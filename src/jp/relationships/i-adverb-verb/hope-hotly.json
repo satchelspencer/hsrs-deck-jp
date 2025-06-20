@@ -1,0 +1,13 @@
+{
+  "_id": "rasd61rm7el",
+  "name": "hope-hotly",
+  "params": {
+    "iadj": "hot-touch",
+    "verb": "hope-for"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "ibvce6gx09r",
+  "name": "criminal-search",
+  "params": {
+    "noun": "criminal",
+    "verb": "search-for"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

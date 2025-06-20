@@ -1,0 +1,13 @@
+{
+  "_id": "vt7qx7w49r",
+  "name": "expect-summer-vacay",
+  "params": {
+    "noun": "summer-break",
+    "verb": "expectation"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "511i59x114d",
+  "name": "criminal-escape",
+  "params": {
+    "noun": "criminal",
+    "verb": "escape"
+  },
+  "parents": [
+    "noun-ga-verb"
+  ],
+  "props": {
+  }
+}

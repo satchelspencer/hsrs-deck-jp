@@ -1,0 +1,13 @@
+{
+  "_id": "yiwrekahpfo",
+  "name": "report-comms",
+  "params": {
+    "noun": "communication-methods",
+    "verb": "report"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

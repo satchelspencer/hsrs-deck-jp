@@ -1,0 +1,13 @@
+{
+  "_id": "ke4nvobnqjm",
+  "name": "permission-appropriate",
+  "params": {
+    "na": "appropriate",
+    "noun": "permission"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

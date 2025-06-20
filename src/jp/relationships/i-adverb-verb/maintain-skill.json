@@ -1,0 +1,13 @@
+{
+  "_id": "bojslo0bq3i",
+  "name": "maintain-skill",
+  "params": {
+    "iadj": "skillfull",
+    "verb": "maintain"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

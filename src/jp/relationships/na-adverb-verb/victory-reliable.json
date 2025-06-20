@@ -1,0 +1,13 @@
+{
+  "_id": "io5fn85gdv9",
+  "name": "victory-reliable",
+  "params": {
+    "na": "reliable",
+    "verb": "victory"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "u1xa19k1rpd",
+  "name": "obtain-simple",
+  "params": {
+    "na": "simple",
+    "verb": "obtain"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

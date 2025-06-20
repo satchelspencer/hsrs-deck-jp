@@ -1,0 +1,13 @@
+{
+  "_id": "rpij3h1td9q",
+  "name": "abrupt-stop",
+  "params": {
+    "adv": "abruptly",
+    "verb": "be-stopped"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

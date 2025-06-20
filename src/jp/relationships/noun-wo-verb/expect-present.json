@@ -1,0 +1,13 @@
+{
+  "_id": "zn6gz0fsacn",
+  "name": "expect-present",
+  "params": {
+    "noun": "present",
+    "verb": "expectation"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

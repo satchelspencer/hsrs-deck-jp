@@ -1,0 +1,13 @@
+{
+  "_id": "zkh1j655ql",
+  "name": "be-conveyed-simpl",
+  "params": {
+    "na": "simple",
+    "verb": "be-conveyed"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

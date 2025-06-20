@@ -1,0 +1,13 @@
+{
+  "_id": "890iukwczfb",
+  "name": "abrupt-turn-off",
+  "params": {
+    "adv": "abruptly",
+    "verb": "switch-off"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "9jhykfl0fgi",
+  "name": "degree-evaluate",
+  "params": {
+    "noun": "degree",
+    "verb": "evaluation"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

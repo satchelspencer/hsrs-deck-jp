@@ -1,0 +1,13 @@
+{
+  "_id": "po1012x7t1",
+  "name": "involved-society",
+  "params": {
+    "noun": "society",
+    "verb": "be-involved"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

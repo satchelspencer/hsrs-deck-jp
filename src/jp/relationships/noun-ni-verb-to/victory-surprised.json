@@ -1,0 +1,13 @@
+{
+  "_id": "k66w6r7ntb",
+  "name": "victory-surprised",
+  "params": {
+    "noun": "victory",
+    "verb": "be-surprised"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

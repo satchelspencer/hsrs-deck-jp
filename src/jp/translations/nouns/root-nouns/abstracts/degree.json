@@ -1,0 +1,15 @@
+{
+  "_id": "y7syxm5izvm",
+  "desc": "extent, level",
+  "name": "degree",
+  "order": "4",
+  "parents": [
+    "abstracts",
+    "high-low"
+  ],
+  "props": {
+    "en": "degree",
+    "jp": "程度",
+    "tl": "ていど"
+  }
+}

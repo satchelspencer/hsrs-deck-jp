@@ -1,0 +1,13 @@
+{
+  "_id": "3y644d2avxw",
+  "name": "grasp-unwavering",
+  "params": {
+    "iadj": "unwavering",
+    "verb": "grasp"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

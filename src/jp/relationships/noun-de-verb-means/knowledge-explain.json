@@ -1,0 +1,13 @@
+{
+  "_id": "7fhjle958i3",
+  "name": "knowledge-explain",
+  "params": {
+    "noun": "knowledge",
+    "verb": "explanation"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

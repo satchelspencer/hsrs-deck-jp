@@ -1,0 +1,13 @@
+{
+  "_id": "vc3zd4t9mzp",
+  "name": "technology-skill-use",
+  "params": {
+    "noun": "technique",
+    "verb": "use"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

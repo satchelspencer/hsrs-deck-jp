@@ -1,0 +1,13 @@
+{
+  "_id": "3n1e4o71ff8",
+  "name": "original-turn-back",
+  "params": {
+    "noun": "original",
+    "verb": "turn-back"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

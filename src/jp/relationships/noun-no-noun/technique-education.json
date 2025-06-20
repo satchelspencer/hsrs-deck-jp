@@ -1,0 +1,13 @@
+{
+  "_id": "zp1b0h0sz8q",
+  "name": "technique-education",
+  "params": {
+    "noun": "technique",
+    "owner": "education"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

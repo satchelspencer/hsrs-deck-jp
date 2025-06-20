@@ -1,0 +1,13 @@
+{
+  "_id": "k7fkqcn0naa",
+  "name": "grasp-chopsticks",
+  "params": {
+    "noun": "chopsticks",
+    "verb": "grasp"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

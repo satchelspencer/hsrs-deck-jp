@@ -1,0 +1,13 @@
+{
+  "_id": "22pvebzpdqh",
+  "name": "result-reason",
+  "params": {
+    "noun": "reason",
+    "owner": "result"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

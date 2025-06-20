@@ -1,0 +1,13 @@
+{
+  "_id": "x22nfb6ask",
+  "name": "important-pol-become",
+  "params": {
+    "na": "important-polite",
+    "verb": "become"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

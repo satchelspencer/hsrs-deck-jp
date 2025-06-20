@@ -1,0 +1,13 @@
+{
+  "_id": "yykuxw0d4kf",
+  "name": "occasion-make",
+  "params": {
+    "noun": "opprotunity",
+    "verb": "make"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "23os5vgi481",
+  "name": "involve-wide",
+  "params": {
+    "iadj": "wide",
+    "verb": "be-involved"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

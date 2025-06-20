@@ -1,0 +1,13 @@
+{
+  "_id": "fw7jd5qpnfr",
+  "name": "obtain-perfect",
+  "params": {
+    "na": "perfect",
+    "verb": "obtain"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

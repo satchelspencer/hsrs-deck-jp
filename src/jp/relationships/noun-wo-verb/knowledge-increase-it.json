@@ -1,0 +1,13 @@
+{
+  "_id": "ba1tvo3ch5f",
+  "name": "knowledge-increase-it",
+  "params": {
+    "noun": "knowledge",
+    "verb": "increase-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

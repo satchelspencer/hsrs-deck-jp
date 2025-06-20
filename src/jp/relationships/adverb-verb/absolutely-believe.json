@@ -1,0 +1,13 @@
+{
+  "_id": "p6bez2pwef",
+  "name": "absolutely-believe",
+  "params": {
+    "adv": "absolutely",
+    "verb": "believe"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

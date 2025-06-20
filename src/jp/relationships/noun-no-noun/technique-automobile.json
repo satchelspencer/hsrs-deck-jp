@@ -1,0 +1,13 @@
+{
+  "_id": "bjbrrnzm0i7",
+  "name": "technique-automobile",
+  "params": {
+    "noun": "technique",
+    "owner": "automobile"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

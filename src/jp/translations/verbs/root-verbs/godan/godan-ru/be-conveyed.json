@@ -1,0 +1,15 @@
+{
+  "_id": "1xv3yuz95uek",
+  "desc": "be transmitted",
+  "name": "be-conveyed",
+  "order": "4",
+  "parents": [
+    "godan-ru",
+    "ni-person-verbs"
+  ],
+  "props": {
+    "en": "be conveyed",
+    "jp": "伝わる",
+    "tl": "つたわる"
+  }
+}

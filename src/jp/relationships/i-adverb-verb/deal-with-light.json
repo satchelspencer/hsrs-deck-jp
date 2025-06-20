@@ -1,0 +1,13 @@
+{
+  "_id": "2ddj9xitwr1",
+  "name": "deal-with-light",
+  "params": {
+    "iadj": "lightweight",
+    "noun": "deal-with"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

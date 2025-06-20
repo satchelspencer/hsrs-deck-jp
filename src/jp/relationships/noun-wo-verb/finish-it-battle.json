@@ -1,0 +1,13 @@
+{
+  "_id": "5ba6jc2q9oc",
+  "name": "finish-it-battle",
+  "params": {
+    "noun": "battle",
+    "verb": "finish-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

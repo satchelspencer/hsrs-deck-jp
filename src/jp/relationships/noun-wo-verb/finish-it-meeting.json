@@ -1,0 +1,13 @@
+{
+  "_id": "kn75gruxdqo",
+  "name": "finish-it-meeting",
+  "params": {
+    "noun": "meeting",
+    "verb": "finish-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

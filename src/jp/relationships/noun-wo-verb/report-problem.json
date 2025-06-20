@@ -1,0 +1,13 @@
+{
+  "_id": "s61xb81wh5",
+  "name": "report-problem",
+  "params": {
+    "noun": "problem",
+    "verb": "report"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

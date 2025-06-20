@@ -1,0 +1,13 @@
+{
+  "_id": "isy0n57uwwl",
+  "name": "org-comrade",
+  "params": {
+    "noun": "comrade",
+    "owner": "organizations"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

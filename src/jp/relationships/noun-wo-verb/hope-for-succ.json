@@ -1,0 +1,13 @@
+{
+  "_id": "follf638qbf",
+  "name": "hope-for-succ",
+  "params": {
+    "noun": "success",
+    "verb": "hope-for"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

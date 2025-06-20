@@ -1,0 +1,13 @@
+{
+  "_id": "v69ug047rp",
+  "name": "report-data",
+  "params": {
+    "noun": "data",
+    "verb": "report"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

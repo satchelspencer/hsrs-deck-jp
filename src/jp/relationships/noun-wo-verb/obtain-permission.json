@@ -1,0 +1,13 @@
+{
+  "_id": "q0x6l26235g",
+  "name": "obtain-permission",
+  "params": {
+    "noun": "permission",
+    "verb": "obtain"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

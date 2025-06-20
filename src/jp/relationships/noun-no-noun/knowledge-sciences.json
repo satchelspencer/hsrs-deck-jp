@@ -1,0 +1,13 @@
+{
+  "_id": "rx6xuh3wefc",
+  "name": "knowledge-sciences",
+  "params": {
+    "noun": "knowledge",
+    "owner": "sciences"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

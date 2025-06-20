@@ -1,0 +1,13 @@
+{
+  "_id": "y03k7ouz75",
+  "name": "obtain-reliable",
+  "params": {
+    "na": "reliable",
+    "verb": "obtain"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

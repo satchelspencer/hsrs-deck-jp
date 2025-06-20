@@ -1,0 +1,13 @@
+{
+  "_id": "lykq0g1mnv",
+  "name": "hope-stong",
+  "params": {
+    "iadj": "strong",
+    "verb": "hope-for"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "6ytelhcie5",
+  "name": "obtain-opprotunity",
+  "params": {
+    "noun": "opprotunity",
+    "verb": "obtain"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "z34qf1l1zw",
+  "name": "check-part",
+  "params": {
+    "noun": "part",
+    "verb": "check"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

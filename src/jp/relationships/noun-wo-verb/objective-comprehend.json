@@ -1,0 +1,13 @@
+{
+  "_id": "t6yackb218h",
+  "name": "objective-comprehend",
+  "params": {
+    "noun": "objective",
+    "verb": "comprehension"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

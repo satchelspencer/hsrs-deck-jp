@@ -1,0 +1,13 @@
+{
+  "_id": "0ewd6tvcy11a",
+  "name": "deal-with-cold",
+  "params": {
+    "iadj": "cold-touch",
+    "noun": "deal-with"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "mhj0ziirn7f",
+  "name": "reliable-reciev",
+  "params": {
+    "na": "reliable",
+    "verb": "recieve"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

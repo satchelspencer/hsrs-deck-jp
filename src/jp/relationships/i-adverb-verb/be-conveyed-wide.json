@@ -1,0 +1,13 @@
+{
+  "_id": "vmldelj2fx",
+  "name": "be-conveyed-wide",
+  "params": {
+    "iadj": "wide",
+    "verb": "be-conveyed"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

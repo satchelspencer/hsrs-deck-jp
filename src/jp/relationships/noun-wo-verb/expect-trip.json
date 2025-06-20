@@ -1,0 +1,13 @@
+{
+  "_id": "k1lrlydf7v",
+  "name": "expect-trip",
+  "params": {
+    "noun": "trip",
+    "verb": "expectation"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

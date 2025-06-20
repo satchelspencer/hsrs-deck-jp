@@ -1,0 +1,13 @@
+{
+  "_id": "a8jzwya5rxg",
+  "name": "objective-meeting",
+  "params": {
+    "noun": "objective",
+    "owner": "meeting"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

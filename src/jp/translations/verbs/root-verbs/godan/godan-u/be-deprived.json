@@ -1,0 +1,17 @@
+{
+  "_id": "8ep5vsa2q88",
+  "desc": "lose it, miss it",
+  "name": "be-deprived",
+  "order": "4",
+  "parents": [
+    "godan-u",
+    "people-do",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "_st": "deprived",
+    "en": "become deprived",
+    "jp": "失う",
+    "tl": "うしなう"
+  }
+}

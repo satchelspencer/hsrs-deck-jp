@@ -1,0 +1,19 @@
+{
+  "_id": "do3xn73coz",
+  "desc": "come into sight, become visible",
+  "name": "appear",
+  "order": "4",
+  "parents": [
+    "ichidan",
+    "te-iru-verbs-state",
+    "people-do",
+    "animals-do",
+    "ni-at-verbs"
+  ],
+  "props": {
+    "_st": "appeared",
+    "en": "appear",
+    "jp": "現れる",
+    "tl": "あらわれる"
+  }
+}

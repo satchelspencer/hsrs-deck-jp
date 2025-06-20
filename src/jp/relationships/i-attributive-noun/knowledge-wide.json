@@ -1,0 +1,13 @@
+{
+  "_id": "xp67fgjqwf",
+  "name": "knowledge-wide",
+  "params": {
+    "iadj": "wide",
+    "noun": "knowledge"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

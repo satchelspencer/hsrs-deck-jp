@@ -1,0 +1,13 @@
+{
+  "_id": "bvc3c5tcke7",
+  "name": "result-change",
+  "params": {
+    "noun": "result",
+    "verb": "be-changed"
+  },
+  "parents": [
+    "noun-ga-verb"
+  ],
+  "props": {
+  }
+}

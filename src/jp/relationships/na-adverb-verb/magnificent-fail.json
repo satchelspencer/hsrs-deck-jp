@@ -1,0 +1,13 @@
+{
+  "_id": "13nm2rrz18i",
+  "name": "magnificent-fail",
+  "params": {
+    "na": "magnificent",
+    "verb": "failure"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

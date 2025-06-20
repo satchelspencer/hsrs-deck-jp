@@ -1,0 +1,13 @@
+{
+  "_id": "m6wzq2twehm",
+  "name": "agree-info",
+  "params": {
+    "noun": "informations",
+    "verb": "agreement"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

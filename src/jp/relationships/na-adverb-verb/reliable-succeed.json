@@ -1,0 +1,13 @@
+{
+  "_id": "bwv6kgyu9fa",
+  "name": "reliable-succeed",
+  "params": {
+    "na": "reliable",
+    "verb": "success"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

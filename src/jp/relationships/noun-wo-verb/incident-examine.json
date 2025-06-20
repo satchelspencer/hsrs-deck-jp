@@ -1,0 +1,13 @@
+{
+  "_id": "6375ea5f2sp",
+  "name": "incident-examine",
+  "params": {
+    "noun": "incident",
+    "verb": "examine"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "z2bpojo9tjb",
+  "name": "portal-house",
+  "params": {
+    "noun": "portal",
+    "owner": "house"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

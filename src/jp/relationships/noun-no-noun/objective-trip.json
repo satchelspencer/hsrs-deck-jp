@@ -1,0 +1,13 @@
+{
+  "_id": "th33wd38gwt",
+  "name": "objective-trip",
+  "params": {
+    "noun": "objective",
+    "owner": "trip"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

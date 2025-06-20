@@ -1,0 +1,13 @@
+{
+  "_id": "9fcp7kyw2ma",
+  "name": "suspecious-feel",
+  "params": {
+    "iadj": "laugh",
+    "verb": "feel-emotion"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

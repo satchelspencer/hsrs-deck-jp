@@ -1,0 +1,13 @@
+{
+  "_id": "ar47nkxodc",
+  "name": "deal-with-info",
+  "params": {
+    "noun": "information",
+    "verb": "deal-with"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

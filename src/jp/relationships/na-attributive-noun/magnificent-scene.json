@@ -1,0 +1,13 @@
+{
+  "_id": "teretmpz5hf",
+  "name": "magnificent-scene",
+  "params": {
+    "na": "magnificent",
+    "noun": "scenery"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

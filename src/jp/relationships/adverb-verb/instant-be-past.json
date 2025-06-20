@@ -1,0 +1,13 @@
+{
+  "_id": "ur43l1egygf",
+  "name": "instant-be-past",
+  "params": {
+    "adv": "in-an-instant",
+    "verb": "be-past"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

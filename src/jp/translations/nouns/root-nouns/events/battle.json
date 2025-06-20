@@ -1,0 +1,14 @@
+{
+  "_id": "ows9akvxjy",
+  "desc": "or a fight",
+  "name": "battle",
+  "order": "4",
+  "parents": [
+    "events"
+  ],
+  "props": {
+    "en": "battle",
+    "jp": "戦い",
+    "tl": "たたかい"
+  }
+}

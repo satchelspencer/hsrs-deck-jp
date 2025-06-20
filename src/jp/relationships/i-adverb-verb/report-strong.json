@@ -1,0 +1,13 @@
+{
+  "_id": "hc76je7iasn",
+  "name": "report-strong",
+  "params": {
+    "iadj": "strong",
+    "verb": "report"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

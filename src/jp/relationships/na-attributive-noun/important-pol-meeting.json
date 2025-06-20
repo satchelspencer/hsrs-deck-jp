@@ -1,0 +1,13 @@
+{
+  "_id": "klixwhfrqj",
+  "name": "important-pol-meeting",
+  "params": {
+    "na": "important-polite",
+    "noun": "meeting"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

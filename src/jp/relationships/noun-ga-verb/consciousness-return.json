@@ -1,0 +1,13 @@
+{
+  "_id": "ri7cfe6qcx",
+  "name": "consciousness-return",
+  "params": {
+    "noun": "turn-back",
+    "verb": "consciousness"
+  },
+  "parents": [
+    "noun-ga-verb"
+  ],
+  "props": {
+  }
+}

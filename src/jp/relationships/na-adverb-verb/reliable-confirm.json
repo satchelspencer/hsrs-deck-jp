@@ -1,0 +1,13 @@
+{
+  "_id": "y3a5y7z1gd",
+  "name": "reliable-confirm",
+  "params": {
+    "na": "reliable",
+    "verb": "confirmation"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "rldlhql5tzd",
+  "name": "involved-incident",
+  "params": {
+    "noun": "incident",
+    "verb": "be-involved"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

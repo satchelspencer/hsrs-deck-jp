@@ -1,0 +1,13 @@
+{
+  "_id": "h651vvkks48",
+  "name": "victory-ultimately",
+  "params": {
+    "adv": "ultimately",
+    "verb": "victory"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

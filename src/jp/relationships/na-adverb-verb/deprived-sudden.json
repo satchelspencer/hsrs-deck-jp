@@ -1,0 +1,13 @@
+{
+  "_id": "j2uz1ihvnf",
+  "name": "deprived-sudden",
+  "params": {
+    "na": "sudden",
+    "verb": "be-deprived"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

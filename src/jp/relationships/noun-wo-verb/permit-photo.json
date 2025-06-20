@@ -1,0 +1,13 @@
+{
+  "_id": "ww1bmb83ukr",
+  "name": "permit-photo",
+  "params": {
+    "noun": "photo",
+    "verb": "permission"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

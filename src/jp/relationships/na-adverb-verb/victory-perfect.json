@@ -1,0 +1,13 @@
+{
+  "_id": "g70ka2z5zb6",
+  "name": "victory-perfect",
+  "params": {
+    "na": "perfect",
+    "verb": "victory"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

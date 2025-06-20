@@ -1,0 +1,13 @@
+{
+  "_id": "kjwvtwc6eq8",
+  "name": "involved-resea",
+  "params": {
+    "noun": "research",
+    "verb": "be-involved"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

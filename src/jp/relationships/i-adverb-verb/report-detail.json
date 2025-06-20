@@ -1,0 +1,13 @@
+{
+  "_id": "i5s2qczp5tb",
+  "name": "report-detail",
+  "params": {
+    "iadj": "detailed",
+    "verb": "report"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "9uizvcbbesg",
+  "name": "deprived-perfect",
+  "params": {
+    "na": "perfect",
+    "verb": "be-deprived"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

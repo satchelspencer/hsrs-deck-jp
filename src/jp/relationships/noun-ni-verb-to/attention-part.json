@@ -1,0 +1,13 @@
+{
+  "_id": "9hum0h6ltq",
+  "name": "attention-part",
+  "params": {
+    "noun": "part",
+    "verb": "attention"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

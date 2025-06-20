@@ -1,0 +1,13 @@
+{
+  "_id": "ixo6hzgcrwe",
+  "name": "report-sit",
+  "params": {
+    "noun": "situation",
+    "verb": "report"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

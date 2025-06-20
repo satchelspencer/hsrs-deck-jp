@@ -1,0 +1,13 @@
+{
+  "_id": "spqfs3h9sii",
+  "name": "deprived-consciousness",
+  "params": {
+    "noun": "consciousness",
+    "verb": "be-deprived"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

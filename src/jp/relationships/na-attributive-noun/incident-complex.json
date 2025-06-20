@@ -1,0 +1,13 @@
+{
+  "_id": "4j7wuwzdv4c",
+  "name": "incident-complex",
+  "params": {
+    "na": "complexity",
+    "noun": "incident"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

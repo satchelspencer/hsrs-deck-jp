@@ -1,0 +1,13 @@
+{
+  "_id": "feqckhzi4et",
+  "name": "distance-sufficient",
+  "params": {
+    "na": "sufficient",
+    "noun": "distance"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

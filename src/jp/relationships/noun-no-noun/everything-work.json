@@ -1,0 +1,13 @@
+{
+  "_id": "widpbhvkbxe",
+  "name": "everything-work",
+  "params": {
+    "noun": "everything",
+    "owner": "artwork"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

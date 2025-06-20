@@ -1,0 +1,13 @@
+{
+  "_id": "03ueeti40fys",
+  "name": "involve-strong",
+  "params": {
+    "iadj": "strong",
+    "verb": "be-involved"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

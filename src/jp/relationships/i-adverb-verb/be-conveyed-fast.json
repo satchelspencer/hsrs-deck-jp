@@ -1,0 +1,13 @@
+{
+  "_id": "mrdtwqrz1m",
+  "name": "be-conveyed-fast",
+  "params": {
+    "iadj": "fast",
+    "verb": "be-conveyed"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

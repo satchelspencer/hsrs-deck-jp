@@ -1,0 +1,13 @@
+{
+  "_id": "iwfbkx2gh7",
+  "name": "concious-posess",
+  "params": {
+    "noun": "consciousness",
+    "verb": "possess"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

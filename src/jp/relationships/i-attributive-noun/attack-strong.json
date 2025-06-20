@@ -1,0 +1,13 @@
+{
+  "_id": "jkhcbaxedh",
+  "name": "attack-strong",
+  "params": {
+    "iadj": "strong",
+    "noun": "attack"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

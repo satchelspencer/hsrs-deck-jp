@@ -1,0 +1,14 @@
+{
+  "_id": "fcaolcswbgv",
+  "desc": "usually 7-17 years old",
+  "name": "young-lady",
+  "order": "4",
+  "parents": [
+    "people"
+  ],
+  "props": {
+    "en": "young lady",
+    "jp": "少女",
+    "tl": "しょうじょ"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "15hiinb0v9k",
+  "name": "convey-feeling",
+  "params": {
+    "noun": "feeling",
+    "verb": "convey"
+  },
+  "parents": [
+    "noun-ga-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "rz307i2n5c9",
+  "desc": "suddenly, without warning",
+  "name": "abruptly",
+  "order": "4",
+  "parents": [
+    "verb-adverbs"
+  ],
+  "props": {
+    "en": "abruptly",
+    "jp": "突然",
+    "tl": "とつぜん"
+  }
+}

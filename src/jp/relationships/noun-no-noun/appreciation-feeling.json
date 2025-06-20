@@ -1,0 +1,13 @@
+{
+  "_id": "evhupztl70r",
+  "name": "appreciation-feeling",
+  "params": {
+    "noun": "feeling",
+    "owner": "appreciation"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "ajgyilyi8c7",
+  "name": "finish-it-incidentles",
+  "params": {
+    "na": "incidentless",
+    "verb": "finish-it"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

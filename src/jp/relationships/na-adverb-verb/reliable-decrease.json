@@ -1,0 +1,13 @@
+{
+  "_id": "8gttbz8gdlb",
+  "name": "reliable-decrease",
+  "params": {
+    "na": "reliable",
+    "verb": "be-decreased"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

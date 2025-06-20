@@ -1,0 +1,13 @@
+{
+  "_id": "k5xte8kos8o",
+  "name": "be-conveyed-correct",
+  "params": {
+    "iadj": "correct",
+    "verb": "be-conveyed"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "1wxsa24l2pe",
+  "name": "important-pol-exper",
+  "params": {
+    "na": "important-polite",
+    "noun": "experience"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

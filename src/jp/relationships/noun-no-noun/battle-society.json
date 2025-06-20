@@ -1,0 +1,13 @@
+{
+  "_id": "xrp0mkqp6qa",
+  "name": "battle-society",
+  "params": {
+    "noun": "battle",
+    "owner": "society"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

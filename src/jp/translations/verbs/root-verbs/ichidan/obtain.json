@@ -1,0 +1,15 @@
+{
+  "_id": "yuagcdo0oti",
+  "desc": "acquire, get",
+  "name": "obtain",
+  "order": "4",
+  "parents": [
+    "ichidan",
+    "people-do"
+  ],
+  "props": {
+    "en": "obtain",
+    "jp": "得る",
+    "tl": "える"
+  }
+}

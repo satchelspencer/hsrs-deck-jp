@@ -1,0 +1,13 @@
+{
+  "_id": "7gkpe32ck1g",
+  "name": "result-cause",
+  "params": {
+    "noun": "cause",
+    "owner": "result"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

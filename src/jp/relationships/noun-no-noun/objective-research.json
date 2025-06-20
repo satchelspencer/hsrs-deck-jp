@@ -1,0 +1,13 @@
+{
+  "_id": "1s39dvt40ui",
+  "name": "objective-research",
+  "params": {
+    "noun": "objective",
+    "owner": "research"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

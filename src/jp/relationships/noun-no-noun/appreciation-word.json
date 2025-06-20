@@ -1,0 +1,13 @@
+{
+  "_id": "6zqwkkxhxjd",
+  "name": "appreciation-word",
+  "params": {
+    "noun": "word",
+    "owner": "appreciation"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

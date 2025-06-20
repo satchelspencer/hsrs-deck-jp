@@ -1,0 +1,13 @@
+{
+  "_id": "35owbn3od6j",
+  "name": "technique-handle",
+  "params": {
+    "noun": "technique",
+    "verb": "handling"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

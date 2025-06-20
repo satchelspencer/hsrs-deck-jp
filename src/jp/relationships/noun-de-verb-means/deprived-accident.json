@@ -1,0 +1,13 @@
+{
+  "_id": "c8vdwtoa1fr",
+  "name": "deprived-accident",
+  "params": {
+    "noun": "accident",
+    "verb": "be-deprived"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

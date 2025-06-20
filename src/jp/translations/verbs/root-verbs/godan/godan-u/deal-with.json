@@ -1,0 +1,19 @@
+{
+  "_id": "uk95o3ci7xg",
+  "desc": "handle it, objects, ideas, people",
+  "name": "deal-with",
+  "order": "4",
+  "parents": [
+    "godan-u",
+    "people-do",
+    "te-iru-verbs-continuous",
+    "de-location-verbs",
+    "do-to-people"
+  ],
+  "props": {
+    "_pg": "dealing with",
+    "en": "deal with",
+    "jp": "扱う ",
+    "tl": "あつかう"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "72v6yu87mt6",
+  "name": "involved-economy",
+  "params": {
+    "noun": "finances",
+    "verb": "be-involved"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

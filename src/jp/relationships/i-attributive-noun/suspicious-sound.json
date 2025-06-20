@@ -1,0 +1,14 @@
+{
+  "_id": "hrbbo0btxr7",
+  "name": "suspicious-sound",
+  "order": "",
+  "params": {
+    "iadj": "suspicious",
+    "noun": "sound"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

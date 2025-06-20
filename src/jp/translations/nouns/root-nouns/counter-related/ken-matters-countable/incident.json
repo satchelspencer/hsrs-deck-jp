@@ -1,0 +1,14 @@
+{
+  "_id": "nf3vc029t4",
+  "desc": "like a criminal case",
+  "name": "incident",
+  "order": "4",
+  "parents": [
+    "ken-matters-countable"
+  ],
+  "props": {
+    "en": "incident",
+    "jp": "事件",
+    "tl": "じけん"
+  }
+}

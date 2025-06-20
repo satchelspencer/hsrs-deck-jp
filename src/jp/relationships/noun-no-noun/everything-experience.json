@@ -1,0 +1,13 @@
+{
+  "_id": "nj7ultyguck",
+  "name": "everything-experience",
+  "params": {
+    "noun": "everything",
+    "owner": "experience"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

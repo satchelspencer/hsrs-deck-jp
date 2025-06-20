@@ -1,0 +1,13 @@
+{
+  "_id": "sbs3605137n",
+  "name": "obtain-direct",
+  "params": {
+    "adv": "directly",
+    "verb": "obtain"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

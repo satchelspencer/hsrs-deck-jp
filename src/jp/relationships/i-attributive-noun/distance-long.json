@@ -1,0 +1,13 @@
+{
+  "_id": "kfdt5cki0m",
+  "name": "distance-long",
+  "params": {
+    "iadj": "long",
+    "noun": "distance"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

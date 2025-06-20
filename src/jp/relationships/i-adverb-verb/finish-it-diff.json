@@ -1,0 +1,13 @@
+{
+  "_id": "6mvlr83fkk",
+  "name": "finish-it-diff",
+  "params": {
+    "iadj": "difficult",
+    "verb": "finish-it"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

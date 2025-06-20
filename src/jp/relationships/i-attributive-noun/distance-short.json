@@ -1,0 +1,13 @@
+{
+  "_id": "sm8g60sdezd",
+  "name": "distance-short",
+  "params": {
+    "iadj": "short",
+    "noun": "distance"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

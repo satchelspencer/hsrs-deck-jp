@@ -9,7 +9,8 @@
     "do-to-places",
     "do-to-learnables",
     "do-to-people",
-    "info-verbs"
+    "info-verbs",
+    "do-to-informations"
   ],
   "props": {
     "en": "come to know",

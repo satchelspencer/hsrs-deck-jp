@@ -1,0 +1,13 @@
+{
+  "_id": "2k236y254ot",
+  "name": "consciousness-safety",
+  "params": {
+    "noun": "safety",
+    "verb": "consciousness"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "6ffv12ez4dl",
+  "name": "victory-def",
+  "params": {
+    "adv": "definitely",
+    "verb": "victory"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

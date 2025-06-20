@@ -1,0 +1,13 @@
+{
+  "_id": "utdfsvpajp",
+  "name": "involve-deep",
+  "params": {
+    "iadj": "deep",
+    "verb": "be-involved"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

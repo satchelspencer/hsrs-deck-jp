@@ -1,0 +1,14 @@
+{
+  "_id": "ln89tcgt4lo",
+  "desc": "a bag, super market kind esp",
+  "name": "sack",
+  "order": "4",
+  "parents": [
+    "containers"
+  ],
+  "props": {
+    "en": "sack",
+    "jp": "袋",
+    "tl": "ふくろ"
+  }
+}

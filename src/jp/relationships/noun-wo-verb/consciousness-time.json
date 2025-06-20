@@ -1,0 +1,13 @@
+{
+  "_id": "ud8pl3g488",
+  "name": "consciousness-time",
+  "params": {
+    "noun": "hours",
+    "verb": "consciousness"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

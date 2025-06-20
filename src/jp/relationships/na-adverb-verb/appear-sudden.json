@@ -1,0 +1,13 @@
+{
+  "_id": "5i1sryog9bj",
+  "name": "appear-sudden",
+  "params": {
+    "na": "sudden",
+    "verb": "appear"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

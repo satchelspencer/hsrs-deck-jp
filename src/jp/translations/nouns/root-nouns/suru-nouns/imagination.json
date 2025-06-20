@@ -1,0 +1,17 @@
+{
+  "_id": "trnldggvlr",
+  "desc": "mental image, not real",
+  "name": "imagination",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "people-no",
+    "people-do"
+  ],
+  "props": {
+    "_v": "imagine",
+    "en": "imagination",
+    "jp": "想像",
+    "tl": "そうぞう"
+  }
+}

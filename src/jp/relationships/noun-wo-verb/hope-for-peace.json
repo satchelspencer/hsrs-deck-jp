@@ -1,0 +1,13 @@
+{
+  "_id": "zq441moazz8",
+  "name": "hope-for-peace",
+  "params": {
+    "noun": "peace",
+    "verb": "hope-for"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

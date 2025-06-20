@@ -1,0 +1,13 @@
+{
+  "_id": "v4g979xsm2n",
+  "name": "absolutely-win",
+  "params": {
+    "adv": "absolutely",
+    "verb": "win"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

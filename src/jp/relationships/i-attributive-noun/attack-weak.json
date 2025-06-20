@@ -1,0 +1,13 @@
+{
+  "_id": "6agcf55u2c",
+  "name": "attack-weak",
+  "params": {
+    "iadj": "weak",
+    "noun": "attack"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

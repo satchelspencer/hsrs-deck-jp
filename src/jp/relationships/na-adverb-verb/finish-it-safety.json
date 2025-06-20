@@ -1,0 +1,13 @@
+{
+  "_id": "nnz2nezdcdl",
+  "name": "finish-it-safety",
+  "params": {
+    "na": "safety",
+    "verb": "finish-it"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

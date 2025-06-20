@@ -1,0 +1,16 @@
+{
+  "_id": "izzxi740l",
+  "desc": "end it",
+  "name": "finish-it",
+  "order": "4",
+  "parents": [
+    "ichidan",
+    "people-do",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "finish it",
+    "jp": "終える",
+    "tl": "おえる"
+  }
+}

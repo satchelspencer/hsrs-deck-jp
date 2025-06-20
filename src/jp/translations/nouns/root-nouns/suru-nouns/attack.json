@@ -1,0 +1,20 @@
+{
+  "_id": "o945kgo254",
+  "desc": "assault, offensive",
+  "name": "attack",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "te-iru-verbs-continuous",
+    "people-do",
+    "do-to-people",
+    "de-location-verbs"
+  ],
+  "props": {
+    "_pg": "attacking",
+    "_v": "",
+    "en": "attack",
+    "jp": "攻撃",
+    "tl": "こうげき"
+  }
+}

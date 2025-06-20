@@ -1,0 +1,13 @@
+{
+  "_id": "39uz8kowrv7",
+  "name": "imagine-world",
+  "params": {
+    "noun": "world",
+    "verb": "imagination"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

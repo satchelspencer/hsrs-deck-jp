@@ -1,0 +1,13 @@
+{
+  "_id": "gbkrhal8xbq",
+  "name": "deal-with-appr",
+  "params": {
+    "na": "appropriate",
+    "verb": "deal-with"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

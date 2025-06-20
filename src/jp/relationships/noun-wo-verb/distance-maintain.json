@@ -1,0 +1,13 @@
+{
+  "_id": "h3f6mag0lgi",
+  "name": "distance-maintain",
+  "params": {
+    "noun": "distance",
+    "verb": "maintain"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

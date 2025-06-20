@@ -1,0 +1,13 @@
+{
+  "_id": "sqa3b9rjh9",
+  "name": "appear-tears",
+  "params": {
+    "noun": "tear",
+    "verb": "appear"
+  },
+  "parents": [
+    "noun-ga-verb"
+  ],
+  "props": {
+  }
+}

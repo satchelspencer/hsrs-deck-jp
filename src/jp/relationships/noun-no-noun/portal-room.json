@@ -1,0 +1,13 @@
+{
+  "_id": "nr8j8r8xam",
+  "name": "portal-room",
+  "params": {
+    "noun": "portal",
+    "owner": "room"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

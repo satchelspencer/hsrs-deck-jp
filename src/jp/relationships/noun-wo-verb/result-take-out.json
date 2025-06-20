@@ -1,0 +1,13 @@
+{
+  "_id": "9ydda6axiv",
+  "name": "result-take-out",
+  "params": {
+    "noun": "result",
+    "verb": "take-out"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

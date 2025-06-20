@@ -1,0 +1,13 @@
+{
+  "_id": "fzbcyu9dzuw",
+  "name": "knowledge-exist",
+  "params": {
+    "noun": "knowledge",
+    "verb": "aru"
+  },
+  "parents": [
+    "noun-ga-verb"
+  ],
+  "props": {
+  }
+}

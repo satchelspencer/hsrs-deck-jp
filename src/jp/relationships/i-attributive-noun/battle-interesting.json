@@ -1,0 +1,13 @@
+{
+  "_id": "oo7ievl0zy7",
+  "name": "battle-interesting",
+  "params": {
+    "iadj": "interesting",
+    "noun": "battle"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

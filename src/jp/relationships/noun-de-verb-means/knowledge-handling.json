@@ -1,0 +1,13 @@
+{
+  "_id": "1zfcabvhpvw",
+  "name": "knowledge-handling",
+  "params": {
+    "noun": "knowledge",
+    "verb": "handling"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

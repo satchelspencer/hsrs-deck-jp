@@ -1,0 +1,13 @@
+{
+  "_id": "9dfu0uyr1l",
+  "name": "battle-important",
+  "params": {
+    "na": "important-polite",
+    "noun": "battle"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "ig9c8lrkj8",
+  "name": "appear-natural",
+  "params": {
+    "na": "nature",
+    "verb": "appear"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

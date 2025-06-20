@@ -1,0 +1,19 @@
+{
+  "_id": "3eadq1hb349",
+  "desc": "be caught",
+  "name": "be-caught",
+  "order": "4",
+  "parents": [
+    "godan-ru",
+    "people-do",
+    "te-iru-verbs-state",
+    "animals-do",
+    "de-location-verbs"
+  ],
+  "props": {
+    "_st": "caught",
+    "en": "be caught",
+    "jp": "捕まる",
+    "tl": "捕まる"
+  }
+}

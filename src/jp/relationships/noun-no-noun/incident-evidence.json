@@ -1,0 +1,13 @@
+{
+  "_id": "5b69f4ippga",
+  "name": "incident-evidence",
+  "params": {
+    "noun": "evidence",
+    "owner": "incident"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

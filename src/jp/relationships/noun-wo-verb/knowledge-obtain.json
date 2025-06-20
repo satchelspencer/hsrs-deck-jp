@@ -1,0 +1,13 @@
+{
+  "_id": "zouqbqxjpfg",
+  "name": "knowledge-obtain",
+  "params": {
+    "noun": "knowledge",
+    "verb": "obtain"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

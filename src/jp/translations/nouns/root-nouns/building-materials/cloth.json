@@ -1,0 +1,15 @@
+{
+  "_id": "fuxhhhh45fb",
+  "desc": "fabric, the material",
+  "name": "cloth",
+  "order": "4",
+  "parents": [
+    "building-materials",
+    "mai-countable"
+  ],
+  "props": {
+    "en": "cloth",
+    "jp": "布",
+    "tl": "ぬの"
+  }
+}

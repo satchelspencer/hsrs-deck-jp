@@ -1,0 +1,15 @@
+{
+  "_id": "ocf93x01yt",
+  "desc": "all about",
+  "name": "everything",
+  "order": "4",
+  "parents": [
+    "abstracts",
+    "informations"
+  ],
+  "props": {
+    "en": "everything",
+    "jp": "全て",
+    "tl": "すべて"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "p1fxyhfgse",
+  "name": "technique-old",
+  "params": {
+    "iadj": "old",
+    "noun": "technique"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

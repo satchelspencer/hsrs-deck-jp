@@ -1,0 +1,17 @@
+{
+  "_id": "e4evfm959eb",
+  "desc": "grasp",
+  "name": "grasp",
+  "order": "4",
+  "parents": [
+    "ichidan",
+    "people-do",
+    "te-iru-verbs-continuous",
+    "do-to-objects"
+  ],
+  "props": {
+    "en": "grasp",
+    "jp": "掴む",
+    "tl": "つかむ"
+  }
+}

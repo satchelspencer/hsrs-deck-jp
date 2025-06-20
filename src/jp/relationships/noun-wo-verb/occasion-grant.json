@@ -1,0 +1,13 @@
+{
+  "_id": "c6tomxg71w9",
+  "name": "occasion-grant",
+  "params": {
+    "noun": "opprotunity",
+    "verb": "grant-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

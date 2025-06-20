@@ -1,0 +1,13 @@
+{
+  "_id": "r6u7e48ku8q",
+  "name": "everything-fact",
+  "params": {
+    "noun": "everything",
+    "owner": "fact"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

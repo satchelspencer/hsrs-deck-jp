@@ -1,0 +1,13 @@
+{
+  "_id": "t6tilmp5whb",
+  "name": "reliable-finishit",
+  "params": {
+    "na": "reliable",
+    "verb": "finish-it"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "42obxcpycen",
+  "name": "battle-hot",
+  "params": {
+    "iadj": "hot-touch",
+    "noun": "battle"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

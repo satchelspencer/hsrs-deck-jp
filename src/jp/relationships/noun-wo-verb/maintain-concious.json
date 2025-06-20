@@ -1,0 +1,13 @@
+{
+  "_id": "y99v4b5kx8b",
+  "name": "maintain-concious",
+  "params": {
+    "noun": "consciousness",
+    "verb": "maintain"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

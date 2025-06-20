@@ -1,0 +1,13 @@
+{
+  "_id": "m0o18ot1g8c",
+  "name": "report-result",
+  "params": {
+    "noun": "result",
+    "verb": "report"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "45btchp05km",
+  "name": "battle-no-ending",
+  "params": {
+    "noun": "ending",
+    "owner": "battle"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

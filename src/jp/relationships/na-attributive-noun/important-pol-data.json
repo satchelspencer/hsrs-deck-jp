@@ -1,0 +1,13 @@
+{
+  "_id": "fi5ens3ce8l",
+  "name": "important-pol-data",
+  "params": {
+    "na": "important-polite",
+    "noun": "data"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

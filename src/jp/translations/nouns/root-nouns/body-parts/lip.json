@@ -1,0 +1,14 @@
+{
+  "_id": "32jjllrzyft",
+  "desc": "like the body part",
+  "name": "lip",
+  "order": "4",
+  "parents": [
+    "body-parts"
+  ],
+  "props": {
+    "en": "lip",
+    "jp": "唇",
+    "tl": "くちびる"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "vxcj2e09n2r",
+  "name": "battle-strict",
+  "params": {
+    "iadj": "strict",
+    "noun": "battle"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

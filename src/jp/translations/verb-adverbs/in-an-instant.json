@@ -1,0 +1,14 @@
+{
+  "_id": "pbyq0nwxhu",
+  "desc": "in a flash",
+  "name": "in-an-instant",
+  "order": "4",
+  "parents": [
+    "verb-adverbs"
+  ],
+  "props": {
+    "en": "in an instant",
+    "jp": "一瞬で",
+    "tl": "いっしゅんで"
+  }
+}

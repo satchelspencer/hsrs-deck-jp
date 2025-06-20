@@ -1,0 +1,13 @@
+{
+  "_id": "ohuspbmmqqd",
+  "name": "battle-no-reason",
+  "params": {
+    "noun": "reason",
+    "owner": "battle"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "as4p2iuovvk",
+  "name": "imagine-face",
+  "params": {
+    "noun": "face",
+    "verb": "imagination"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

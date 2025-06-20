@@ -1,0 +1,13 @@
+{
+  "_id": "qtz0kwgjijq",
+  "name": "grasp-strong",
+  "params": {
+    "iadj": "strong",
+    "verb": "grasp"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

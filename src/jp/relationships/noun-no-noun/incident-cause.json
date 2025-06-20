@@ -1,0 +1,13 @@
+{
+  "_id": "arar3nlntl5",
+  "name": "incident-cause",
+  "params": {
+    "noun": "cause",
+    "owner": "incident"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

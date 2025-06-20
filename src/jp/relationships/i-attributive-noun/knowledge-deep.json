@@ -1,0 +1,13 @@
+{
+  "_id": "8ck0e61r8tl",
+  "name": "knowledge-deep",
+  "params": {
+    "iadj": "deep",
+    "noun": "knowledge"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

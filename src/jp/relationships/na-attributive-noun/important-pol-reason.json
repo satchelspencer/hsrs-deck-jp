@@ -1,0 +1,13 @@
+{
+  "_id": "l1zspkk9dc",
+  "name": "important-pol-reason",
+  "params": {
+    "na": "important-polite",
+    "noun": "reason"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

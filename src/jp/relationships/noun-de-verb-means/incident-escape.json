@@ -1,0 +1,13 @@
+{
+  "_id": "8y9jd4diuc",
+  "name": "incident-escape",
+  "params": {
+    "noun": "incident",
+    "verb": "escape"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

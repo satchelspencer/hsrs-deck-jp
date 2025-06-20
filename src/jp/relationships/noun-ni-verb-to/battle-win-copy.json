@@ -1,0 +1,13 @@
+{
+  "_id": "fjr9zo0x94s",
+  "name": "battle-win-copy",
+  "params": {
+    "noun": "battle",
+    "verb": "become-tired"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

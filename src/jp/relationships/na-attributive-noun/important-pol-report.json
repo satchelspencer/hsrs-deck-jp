@@ -1,0 +1,13 @@
+{
+  "_id": "jcchio9c4tk",
+  "name": "important-pol-report",
+  "params": {
+    "na": "important-polite",
+    "noun": "report"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "15h7sgrpadk",
+  "name": "concious-change",
+  "params": {
+    "noun": "consciousness",
+    "verb": "change"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

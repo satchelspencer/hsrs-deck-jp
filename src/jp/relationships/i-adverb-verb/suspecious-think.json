@@ -1,0 +1,13 @@
+{
+  "_id": "vq4x1sdy5",
+  "name": "suspecious-think",
+  "params": {
+    "iadj": "suspicious",
+    "verb": "think"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

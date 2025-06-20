@@ -1,0 +1,13 @@
+{
+  "_id": "3b15524q494",
+  "name": "reliable-preform",
+  "params": {
+    "na": "reliable",
+    "verb": "perform-it"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

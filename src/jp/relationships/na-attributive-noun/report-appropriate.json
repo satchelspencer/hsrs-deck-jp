@@ -1,0 +1,13 @@
+{
+  "_id": "lmlgif3wes",
+  "name": "report-appropriate",
+  "params": {
+    "na": "appropriate",
+    "noun": "report"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

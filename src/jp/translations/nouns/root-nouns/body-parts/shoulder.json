@@ -1,0 +1,13 @@
+{
+  "_id": "ia8lx6q7i1a",
+  "name": "shoulder",
+  "order": "4",
+  "parents": [
+    "body-parts"
+  ],
+  "props": {
+    "en": "shoulder",
+    "jp": "肩",
+    "tl": "かた"
+  }
+}

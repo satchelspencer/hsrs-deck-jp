@@ -1,0 +1,13 @@
+{
+  "_id": "4sp26kqrerq",
+  "name": "technology-skill-evaluate",
+  "params": {
+    "noun": "technique",
+    "verb": "evaluation"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "oxl1ulvxaa",
+  "name": "battle-defea",
+  "params": {
+    "noun": "battle",
+    "verb": "be-defeated"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

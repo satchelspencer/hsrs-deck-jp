@@ -1,0 +1,13 @@
+{
+  "_id": "65df7296x0s",
+  "name": "people-concious",
+  "params": {
+    "noun": "consciousness",
+    "owner": "people"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

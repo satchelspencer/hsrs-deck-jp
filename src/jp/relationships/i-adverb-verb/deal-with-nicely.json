@@ -1,0 +1,13 @@
+{
+  "_id": "rdy63v5lbio",
+  "name": "deal-with-nicely",
+  "params": {
+    "iadj": "nice",
+    "noun": "deal-with"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "42yduuwd30p",
+  "name": "deal-with-polit",
+  "params": {
+    "na": "polite-na",
+    "verb": "deal-with"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

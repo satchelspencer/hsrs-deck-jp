@@ -1,0 +1,13 @@
+{
+  "_id": "mie3dw5bwb",
+  "name": "instant-attack",
+  "params": {
+    "adv": "in-an-instant",
+    "verb": "attack"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

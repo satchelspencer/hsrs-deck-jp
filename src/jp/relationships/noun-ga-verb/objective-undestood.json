@@ -1,0 +1,13 @@
+{
+  "_id": "3v91hyzzw87",
+  "name": "objective-undestood",
+  "params": {
+    "noun": "objective",
+    "verb": "be-understood"
+  },
+  "parents": [
+    "noun-ga-verb"
+  ],
+  "props": {
+  }
+}

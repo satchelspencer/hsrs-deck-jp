@@ -1,0 +1,13 @@
+{
+  "_id": "y3fi11dwzxm",
+  "name": "result-come-out",
+  "params": {
+    "noun": "result",
+    "verb": "leave"
+  },
+  "parents": [
+    "noun-ga-verb"
+  ],
+  "props": {
+  }
+}

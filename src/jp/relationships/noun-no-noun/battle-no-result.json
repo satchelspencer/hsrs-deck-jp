@@ -1,0 +1,13 @@
+{
+  "_id": "v3lmnvret1",
+  "name": "battle-no-result",
+  "params": {
+    "noun": "result",
+    "owner": "battle"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

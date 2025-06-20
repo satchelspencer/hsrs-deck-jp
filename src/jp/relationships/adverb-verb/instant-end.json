@@ -1,0 +1,13 @@
+{
+  "_id": "npewwsvui9r",
+  "name": "instant-end",
+  "params": {
+    "adv": "in-an-instant",
+    "verb": "end"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

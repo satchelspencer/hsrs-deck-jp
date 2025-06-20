@@ -1,0 +1,13 @@
+{
+  "_id": "yd6pdy8n7qa",
+  "name": "imagine-simple",
+  "params": {
+    "na": "simple",
+    "verb": "imagination"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

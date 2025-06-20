@@ -1,0 +1,13 @@
+{
+  "_id": "6j5gpkvz1f2",
+  "name": "instant-understand",
+  "params": {
+    "adv": "in-an-instant",
+    "verb": "be-understood"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

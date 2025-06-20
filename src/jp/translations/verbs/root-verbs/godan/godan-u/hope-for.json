@@ -1,0 +1,16 @@
+{
+  "_id": "zqv80cdan",
+  "name": "hope-for",
+  "order": "4",
+  "parents": [
+    "godan-u",
+    "people-do",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "hoping for",
+    "en": "hope for",
+    "jp": "願う",
+    "tl": "ねがう"
+  }
+}

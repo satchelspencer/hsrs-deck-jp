@@ -1,0 +1,13 @@
+{
+  "_id": "v2j2wwiuze",
+  "name": "absolutely-victory",
+  "params": {
+    "adv": "absolutely",
+    "verb": "victory"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

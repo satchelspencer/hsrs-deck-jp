@@ -1,0 +1,13 @@
+{
+  "_id": "z6owxswdup",
+  "name": "battle-stop",
+  "params": {
+    "noun": "battle",
+    "verb": "stop-it-moving"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

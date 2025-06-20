@@ -1,0 +1,13 @@
+{
+  "_id": "3n30pn3y2yw",
+  "name": "hope-for-victory",
+  "params": {
+    "noun": "victory",
+    "verb": "hope-for"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

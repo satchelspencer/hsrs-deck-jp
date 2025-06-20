@@ -1,0 +1,13 @@
+{
+  "_id": "64fkgbrs8vs",
+  "name": "objective-work",
+  "params": {
+    "noun": "objective",
+    "owner": "work"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

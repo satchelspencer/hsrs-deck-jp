@@ -1,0 +1,13 @@
+{
+  "_id": "gmlpszcwfyt",
+  "name": "knowledge-narrow",
+  "params": {
+    "iadj": "cramped",
+    "noun": "knowledge"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

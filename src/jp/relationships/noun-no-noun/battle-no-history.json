@@ -1,0 +1,13 @@
+{
+  "_id": "o073ep9dndr",
+  "name": "battle-no-history",
+  "params": {
+    "noun": "history",
+    "owner": "battle"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "y1ropob5vts",
+  "name": "battle-painful",
+  "params": {
+    "iadj": "painful",
+    "noun": "battle"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

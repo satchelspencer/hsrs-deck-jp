@@ -1,0 +1,13 @@
+{
+  "_id": "2k0lhwyf439",
+  "name": "convey-voice",
+  "params": {
+    "noun": "voice",
+    "verb": "convey"
+  },
+  "parents": [
+    "noun-ga-verb"
+  ],
+  "props": {
+  }
+}

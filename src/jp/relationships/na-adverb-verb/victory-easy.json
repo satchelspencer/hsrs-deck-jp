@@ -1,0 +1,13 @@
+{
+  "_id": "z72gqj1tgy",
+  "name": "victory-easy",
+  "params": {
+    "na": "simple",
+    "verb": "victory"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

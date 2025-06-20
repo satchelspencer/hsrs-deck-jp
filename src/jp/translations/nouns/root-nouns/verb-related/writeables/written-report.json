@@ -1,0 +1,15 @@
+{
+  "_id": "cupcw8ys7p",
+  "desc": "like a paper",
+  "name": "written-report",
+  "order": "3",
+  "parents": [
+    "writeables",
+    "readables"
+  ],
+  "props": {
+    "en": "written report",
+    "jp": "レポート",
+    "tl": "れぽーと"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "xvfogl0n6cn",
+  "name": "all-members",
+  "order": "4",
+  "parents": [
+    "personal-pronouns"
+  ],
+  "props": {
+    "en": "all members",
+    "jp": "全員",
+    "tl": "ぜんいん"
+  }
+}

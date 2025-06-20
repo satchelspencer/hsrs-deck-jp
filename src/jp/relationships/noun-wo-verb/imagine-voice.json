@@ -1,0 +1,13 @@
+{
+  "_id": "qplipbmw05",
+  "name": "imagine-voice",
+  "params": {
+    "noun": "voice",
+    "verb": "imagination"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

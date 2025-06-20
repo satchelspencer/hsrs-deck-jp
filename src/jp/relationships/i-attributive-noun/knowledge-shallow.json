@@ -1,0 +1,13 @@
+{
+  "_id": "0fwtxdej8ie",
+  "name": "knowledge-shallow",
+  "params": {
+    "iadj": "shallow",
+    "noun": "knowledge"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

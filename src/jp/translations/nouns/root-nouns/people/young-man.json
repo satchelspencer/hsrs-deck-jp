@@ -1,0 +1,14 @@
+{
+  "_id": "v10bjlctmj",
+  "desc": "older than a 男の子",
+  "name": "young-man",
+  "order": "4",
+  "parents": [
+    "people"
+  ],
+  "props": {
+    "en": "young man",
+    "jp": "少年",
+    "tl": "しょうねん"
+  }
+}

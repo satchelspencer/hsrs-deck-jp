@@ -1,0 +1,13 @@
+{
+  "_id": "lnh7alj75g",
+  "name": "imagine-future",
+  "params": {
+    "noun": "future",
+    "verb": "imagination"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

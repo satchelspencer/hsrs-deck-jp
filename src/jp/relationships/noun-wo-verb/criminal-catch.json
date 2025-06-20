@@ -1,0 +1,13 @@
+{
+  "_id": "uwbj376x0lj",
+  "name": "criminal-catch",
+  "params": {
+    "noun": "criminal",
+    "verb": "capture"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

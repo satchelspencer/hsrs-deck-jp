@@ -1,0 +1,13 @@
+{
+  "_id": "hj4cyyoy62j",
+  "name": "deprived-fire-disaster",
+  "params": {
+    "noun": "fire-disaster",
+    "verb": "be-deprived"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

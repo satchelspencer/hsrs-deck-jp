@@ -1,0 +1,13 @@
+{
+  "_id": "z48876flx1q",
+  "name": "reliable-reach",
+  "params": {
+    "na": "reliable",
+    "verb": "reach"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

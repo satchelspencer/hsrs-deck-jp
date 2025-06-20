@@ -1,0 +1,13 @@
+{
+  "_id": "ktm1jbezx5j",
+  "name": "everything-life",
+  "params": {
+    "noun": "everything",
+    "owner": "daily-life"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

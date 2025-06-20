@@ -1,0 +1,13 @@
+{
+  "_id": "kl4i9niq92c",
+  "name": "report-polite",
+  "params": {
+    "na": "polite",
+    "verb": "report"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

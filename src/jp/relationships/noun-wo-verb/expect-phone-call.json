@@ -1,0 +1,13 @@
+{
+  "_id": "sgmod3ggp4q",
+  "name": "expect-phone-call",
+  "params": {
+    "noun": "phone-call",
+    "verb": "expectation"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "knjc2bzplkp",
+  "name": "maintain-long",
+  "params": {
+    "iadj": "long",
+    "verb": "maintain"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "ybuo4p3xem",
+  "name": "deal-with-significant",
+  "params": {
+    "na": "significant",
+    "verb": "deal-with"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

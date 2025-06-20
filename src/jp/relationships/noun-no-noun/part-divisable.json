@@ -1,0 +1,13 @@
+{
+  "_id": "et05eunidpe",
+  "name": "part-divisable",
+  "params": {
+    "noun": "part",
+    "owner": "divisible"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

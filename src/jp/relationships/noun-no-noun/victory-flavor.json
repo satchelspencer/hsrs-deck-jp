@@ -1,0 +1,13 @@
+{
+  "_id": "1w5n3m6hf65",
+  "name": "victory-flavor",
+  "params": {
+    "noun": "flavor",
+    "owner": "victory"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

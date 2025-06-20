@@ -1,0 +1,13 @@
+{
+  "_id": "98opts57dx",
+  "name": "consciousness-low",
+  "params": {
+    "iadj": "low",
+    "noun": "consciousness"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

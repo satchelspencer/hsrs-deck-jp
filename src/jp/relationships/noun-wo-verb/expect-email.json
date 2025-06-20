@@ -1,0 +1,13 @@
+{
+  "_id": "461781hrwa1",
+  "name": "expect-email",
+  "params": {
+    "noun": "email",
+    "verb": "expectation"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

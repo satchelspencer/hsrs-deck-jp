@@ -1,0 +1,13 @@
+{
+  "_id": "tl3ip8g4qg",
+  "name": "knowledge-convey",
+  "params": {
+    "noun": "knowledge",
+    "verb": "convey"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

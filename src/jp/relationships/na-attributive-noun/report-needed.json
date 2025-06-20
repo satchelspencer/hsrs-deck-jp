@@ -1,0 +1,13 @@
+{
+  "_id": "r69k21gipu",
+  "name": "report-needed",
+  "params": {
+    "na": "needed",
+    "noun": "report"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

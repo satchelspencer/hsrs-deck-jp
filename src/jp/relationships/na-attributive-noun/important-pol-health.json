@@ -1,0 +1,13 @@
+{
+  "_id": "0f5yv362tq6",
+  "name": "important-pol-health",
+  "params": {
+    "na": "important-polite",
+    "noun": "health"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

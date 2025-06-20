@@ -1,0 +1,13 @@
+{
+  "_id": "7d6pxbldiqi",
+  "name": "magnificent-succeed",
+  "params": {
+    "na": "magnificent",
+    "verb": "success"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

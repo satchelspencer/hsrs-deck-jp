@@ -1,0 +1,13 @@
+{
+  "_id": "ws2987fng5",
+  "name": "report-sufficient",
+  "params": {
+    "na": "sufficient",
+    "noun": "report"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

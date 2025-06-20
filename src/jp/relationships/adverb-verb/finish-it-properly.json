@@ -1,0 +1,13 @@
+{
+  "_id": "nv1y0kyyrs",
+  "name": "finish-it-properly",
+  "params": {
+    "adv": "properly",
+    "verb": "finish-it"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "w875yvkhyio",
+  "name": "absolutely-go",
+  "params": {
+    "adv": "absolutely",
+    "verb": "go"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

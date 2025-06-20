@@ -1,0 +1,13 @@
+{
+  "_id": "vpvvwgoiza",
+  "name": "deal-with-data",
+  "params": {
+    "noun": "data",
+    "verb": "deal-with"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

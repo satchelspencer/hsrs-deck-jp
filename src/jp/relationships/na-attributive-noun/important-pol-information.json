@@ -1,0 +1,13 @@
+{
+  "_id": "td0f72ajav",
+  "name": "important-pol-information",
+  "params": {
+    "na": "important-polite",
+    "noun": "information"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

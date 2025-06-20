@@ -1,0 +1,13 @@
+{
+  "_id": "wmofcnz049",
+  "name": "abrupt-start",
+  "params": {
+    "adv": "abruptly",
+    "verb": "be-started"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

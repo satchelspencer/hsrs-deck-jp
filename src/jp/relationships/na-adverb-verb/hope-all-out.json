@@ -1,0 +1,13 @@
+{
+  "_id": "on3vq67rkqs",
+  "name": "hope-all-out",
+  "params": {
+    "na": "all-out",
+    "verb": "hope-for"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

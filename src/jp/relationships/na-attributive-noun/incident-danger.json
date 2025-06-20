@@ -1,0 +1,13 @@
+{
+  "_id": "qsa8dfruj7",
+  "name": "incident-danger",
+  "params": {
+    "na": "danger",
+    "noun": "incident"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

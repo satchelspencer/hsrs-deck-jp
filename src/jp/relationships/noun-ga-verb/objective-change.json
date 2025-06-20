@@ -1,0 +1,13 @@
+{
+  "_id": "rao95lo32",
+  "name": "objective-change",
+  "params": {
+    "noun": "objective",
+    "verb": "be-changed"
+  },
+  "parents": [
+    "noun-ga-verb"
+  ],
+  "props": {
+  }
+}

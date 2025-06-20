@@ -1,0 +1,13 @@
+{
+  "_id": "fi1icuy2aka",
+  "name": "portal-store",
+  "params": {
+    "noun": "portal",
+    "owner": "store"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

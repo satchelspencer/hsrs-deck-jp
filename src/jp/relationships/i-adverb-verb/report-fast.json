@@ -1,0 +1,13 @@
+{
+  "_id": "d67xx5huytj",
+  "name": "report-fast",
+  "params": {
+    "iadj": "fast",
+    "verb": "report"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

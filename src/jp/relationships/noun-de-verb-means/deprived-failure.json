@@ -1,0 +1,13 @@
+{
+  "_id": "d1y49lz9b38",
+  "name": "deprived-failure",
+  "params": {
+    "noun": "failure",
+    "verb": "be-deprived"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

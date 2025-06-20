@@ -1,0 +1,13 @@
+{
+  "_id": "zyl44ttgkcp",
+  "name": "report-accident",
+  "params": {
+    "noun": "accident",
+    "verb": "report"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

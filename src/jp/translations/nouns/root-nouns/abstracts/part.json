@@ -1,0 +1,14 @@
+{
+  "_id": "4eee5b2tgiy",
+  "desc": "portion, section",
+  "name": "part",
+  "order": "4",
+  "parents": [
+    "abstracts"
+  ],
+  "props": {
+    "en": "part",
+    "jp": "部分",
+    "tl": "ぶぶん"
+  }
+}

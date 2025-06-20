@@ -1,0 +1,13 @@
+{
+  "_id": "9izwdvv3rq8",
+  "name": "objective-scheme",
+  "params": {
+    "noun": "objective",
+    "owner": "scheme"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

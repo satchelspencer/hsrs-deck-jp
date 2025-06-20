@@ -1,0 +1,13 @@
+{
+  "_id": "hi3pr7k9q9t",
+  "name": "finish-it-approp",
+  "params": {
+    "na": "appropriate",
+    "verb": "finish-it"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

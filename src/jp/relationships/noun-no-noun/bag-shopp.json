@@ -1,0 +1,13 @@
+{
+  "_id": "kz4iyq8nr9j",
+  "name": "bag-shopp",
+  "params": {
+    "noun": "bag",
+    "owner": "shopping"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

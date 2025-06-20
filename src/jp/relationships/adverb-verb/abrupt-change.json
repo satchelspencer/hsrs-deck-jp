@@ -1,0 +1,13 @@
+{
+  "_id": "xi2t4t8z49m",
+  "name": "abrupt-change",
+  "params": {
+    "adv": "abruptly",
+    "verb": "change"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

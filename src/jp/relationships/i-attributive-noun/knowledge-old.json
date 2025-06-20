@@ -1,0 +1,13 @@
+{
+  "_id": "z67ulimwe3e",
+  "name": "knowledge-old",
+  "params": {
+    "iadj": "old",
+    "noun": "knowledge"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

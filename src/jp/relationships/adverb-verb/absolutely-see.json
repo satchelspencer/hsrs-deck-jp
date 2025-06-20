@@ -1,0 +1,13 @@
+{
+  "_id": "4t4o5eruogu",
+  "name": "absolutely-see",
+  "params": {
+    "adv": "absolutely",
+    "verb": "see"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

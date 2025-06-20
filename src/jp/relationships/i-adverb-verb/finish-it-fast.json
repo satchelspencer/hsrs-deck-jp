@@ -1,0 +1,13 @@
+{
+  "_id": "lc1uuxbfg8",
+  "name": "finish-it-fast",
+  "params": {
+    "iadj": "fast",
+    "verb": "finish-it"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

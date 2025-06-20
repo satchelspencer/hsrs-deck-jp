@@ -1,0 +1,13 @@
+{
+  "_id": "v4t9cjs6qvb",
+  "name": "important-polite",
+  "order": "4",
+  "parents": [
+    "na-attributive"
+  ],
+  "props": {
+    "en": "important",
+    "jp": "重要",
+    "tl": "じゅうよう"
+  }
+}

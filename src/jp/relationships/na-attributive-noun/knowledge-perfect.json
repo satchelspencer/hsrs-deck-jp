@@ -1,0 +1,13 @@
+{
+  "_id": "6h22857mx2m",
+  "name": "knowledge-perfect",
+  "params": {
+    "na": "perfect",
+    "noun": "knowledge"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "0yp6ri19fy5p",
+  "name": "maintain-peace",
+  "params": {
+    "noun": "peace",
+    "verb": "maintain"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

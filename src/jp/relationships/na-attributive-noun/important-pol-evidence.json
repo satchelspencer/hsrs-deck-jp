@@ -1,0 +1,13 @@
+{
+  "_id": "o4r9ds32j3",
+  "name": "important-pol-evidence",
+  "params": {
+    "na": "important-polite",
+    "noun": "evidence"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

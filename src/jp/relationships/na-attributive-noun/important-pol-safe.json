@@ -1,0 +1,13 @@
+{
+  "_id": "i284d7qi15",
+  "name": "important-pol-safe",
+  "params": {
+    "na": "important-polite",
+    "noun": "safety"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

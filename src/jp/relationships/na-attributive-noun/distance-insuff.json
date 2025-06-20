@@ -1,0 +1,13 @@
+{
+  "_id": "ggpy5kyttd",
+  "name": "distance-insuff",
+  "params": {
+    "na": "insufficient",
+    "noun": "safety"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

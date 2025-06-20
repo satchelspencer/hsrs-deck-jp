@@ -1,0 +1,13 @@
+{
+  "_id": "ibaeb5al75g",
+  "name": "abrupt-ring",
+  "params": {
+    "adv": "abruptly",
+    "verb": "be-rung"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "k2w4nmpfhcd",
+  "name": "be-conveyed-natu",
+  "params": {
+    "na": "nature",
+    "verb": "be-conveyed"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

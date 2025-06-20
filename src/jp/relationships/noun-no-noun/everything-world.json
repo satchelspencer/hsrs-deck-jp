@@ -1,0 +1,13 @@
+{
+  "_id": "sz420g4f8t",
+  "name": "everything-world",
+  "params": {
+    "noun": "everything",
+    "owner": "world"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

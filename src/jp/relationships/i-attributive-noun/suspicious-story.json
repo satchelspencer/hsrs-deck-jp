@@ -1,0 +1,14 @@
+{
+  "_id": "yt1c2hkq7rr",
+  "name": "suspicious-story",
+  "order": "",
+  "params": {
+    "iadj": "suspicious",
+    "noun": "story"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

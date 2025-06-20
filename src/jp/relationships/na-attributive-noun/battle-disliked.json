@@ -1,0 +1,13 @@
+{
+  "_id": "lrh25phdwuf",
+  "name": "battle-disliked",
+  "params": {
+    "na": "disliked",
+    "noun": "battle"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

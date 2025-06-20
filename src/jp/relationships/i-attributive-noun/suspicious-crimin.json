@@ -1,0 +1,14 @@
+{
+  "_id": "9cqbukwyz9g",
+  "name": "suspicious-crimin",
+  "order": "",
+  "params": {
+    "iadj": "suspicious",
+    "noun": "criminal"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

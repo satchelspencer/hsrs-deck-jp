@@ -1,0 +1,13 @@
+{
+  "_id": "aci7hu5peq",
+  "name": "finish-it-report",
+  "params": {
+    "noun": "written-report",
+    "verb": "finish-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

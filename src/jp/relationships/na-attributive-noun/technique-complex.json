@@ -1,0 +1,13 @@
+{
+  "_id": "buxcpypivkp",
+  "name": "technique-complex",
+  "params": {
+    "na": "complexity",
+    "noun": "technique"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

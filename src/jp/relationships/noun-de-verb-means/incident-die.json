@@ -1,0 +1,13 @@
+{
+  "_id": "kfk8rwss2ij",
+  "name": "incident-die",
+  "params": {
+    "noun": "incident",
+    "verb": "die"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

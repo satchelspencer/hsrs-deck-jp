@@ -1,0 +1,13 @@
+{
+  "_id": "46p07lvlv2f",
+  "name": "expect-match",
+  "params": {
+    "noun": "match",
+    "verb": "expectation"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

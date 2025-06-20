@@ -1,0 +1,18 @@
+{
+  "_id": "f8ucwy1n6d5",
+  "desc": "awareness, being aware",
+  "name": "consciousness",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "people-do",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "_st": "concious",
+    "_v": "become concious",
+    "en": "consciousness",
+    "jp": "意識",
+    "tl": "いしき"
+  }
+}

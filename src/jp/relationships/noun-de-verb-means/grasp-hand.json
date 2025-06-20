@@ -1,0 +1,13 @@
+{
+  "_id": "mbvgbsl8fj",
+  "name": "grasp-hand",
+  "params": {
+    "noun": "hand",
+    "verb": "grasp"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

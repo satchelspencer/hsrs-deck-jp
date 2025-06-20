@@ -1,0 +1,13 @@
+{
+  "_id": "5fdew9lt6h8",
+  "name": "maintain-relationship",
+  "params": {
+    "noun": "relationship",
+    "verb": "maintain"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

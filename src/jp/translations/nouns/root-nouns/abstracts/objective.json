@@ -1,0 +1,14 @@
+{
+  "_id": "e3v61w8fzol",
+  "desc": "purpose, objective, goal",
+  "name": "objective",
+  "order": "4",
+  "parents": [
+    "abstracts"
+  ],
+  "props": {
+    "en": "objective",
+    "jp": "目的",
+    "tl": "もくてき"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "uitsyrw7lsk",
+  "name": "instant-seen",
+  "params": {
+    "adv": "in-an-instant",
+    "verb": "be-seen"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

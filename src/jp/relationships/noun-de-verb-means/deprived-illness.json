@@ -1,0 +1,13 @@
+{
+  "_id": "3bdgf1t0kfv",
+  "name": "deprived-illness",
+  "params": {
+    "noun": "illness",
+    "verb": "be-deprived"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

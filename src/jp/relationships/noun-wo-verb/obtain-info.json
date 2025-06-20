@@ -1,0 +1,13 @@
+{
+  "_id": "06cy18utakef",
+  "name": "obtain-info",
+  "params": {
+    "noun": "information",
+    "verb": "obtain"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

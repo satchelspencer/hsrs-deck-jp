@@ -1,0 +1,13 @@
+{
+  "_id": "22on4r69boh",
+  "name": "imagine-fast",
+  "params": {
+    "iadj": "fast",
+    "verb": "imagination"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "aqbos6euo9k",
+  "name": "report-method",
+  "params": {
+    "noun": "method",
+    "owner": "report"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

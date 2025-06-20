@@ -1,0 +1,13 @@
+{
+  "_id": "i74xk9jo66",
+  "name": "finish-it-beaut",
+  "params": {
+    "iadj": "beautiful",
+    "verb": "finish-it"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

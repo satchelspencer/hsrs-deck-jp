@@ -1,0 +1,16 @@
+{
+  "_id": "czwjkkpy2xn",
+  "desc": "keep, preserve",
+  "name": "maintain",
+  "order": "4",
+  "parents": [
+    "godan-tsu",
+    "people-do",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "en": "maintain",
+    "jp": "保つ",
+    "tl": "たもつ"
+  }
+}

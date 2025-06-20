@@ -1,0 +1,13 @@
+{
+  "_id": "kc7im8ac37b",
+  "name": "direct-involve",
+  "params": {
+    "adv": "directly",
+    "verb": "be-involved"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

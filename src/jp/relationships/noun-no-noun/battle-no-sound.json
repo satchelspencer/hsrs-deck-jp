@@ -1,0 +1,13 @@
+{
+  "_id": "i0dskhdcs1",
+  "name": "battle-no-sound",
+  "params": {
+    "noun": "sound",
+    "owner": "battle"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

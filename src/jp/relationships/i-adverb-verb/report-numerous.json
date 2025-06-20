@@ -1,0 +1,13 @@
+{
+  "_id": "6yzhv4iza6q",
+  "name": "report-numerous",
+  "params": {
+    "iadj": "numerous",
+    "verb": "report"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "fxibkpy6ena",
+  "name": "imagine-sad",
+  "params": {
+    "iadj": "sad",
+    "verb": "imagination"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

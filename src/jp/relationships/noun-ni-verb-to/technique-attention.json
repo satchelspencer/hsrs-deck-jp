@@ -1,0 +1,13 @@
+{
+  "_id": "5hpjxj9d0gt",
+  "name": "technique-attention",
+  "params": {
+    "noun": "technique",
+    "verb": "attention"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

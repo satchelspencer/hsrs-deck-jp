@@ -1,0 +1,13 @@
+{
+  "_id": "zvfo6o02vjm",
+  "name": "deal-with-strict",
+  "params": {
+    "iadj": "strict",
+    "noun": "deal-with"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

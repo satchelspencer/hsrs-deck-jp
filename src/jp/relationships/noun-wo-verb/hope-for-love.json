@@ -1,0 +1,13 @@
+{
+  "_id": "ww2m4o6ra88",
+  "name": "hope-for-love",
+  "params": {
+    "noun": "love-concept",
+    "verb": "hope-for"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

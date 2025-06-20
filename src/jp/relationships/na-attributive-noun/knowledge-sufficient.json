@@ -1,0 +1,13 @@
+{
+  "_id": "9x1s27o1gnn",
+  "name": "knowledge-sufficient",
+  "params": {
+    "na": "sufficient",
+    "noun": "knowledge"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "spt424plsl",
+  "desc": "telling someone",
+  "name": "report",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "people-do",
+    "ni-person-verbs",
+    "ken-matters-countable",
+    "de-location-verbs",
+    "informations"
+  ],
+  "props": {
+    "_pg": "reporting it",
+    "_v": "report it",
+    "en": "report",
+    "jp": "報告",
+    "tl": "ほうこく"
+  }
+}

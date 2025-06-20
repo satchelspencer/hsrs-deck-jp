@@ -1,0 +1,13 @@
+{
+  "_id": "97jd33uwtne",
+  "name": "distance-feel",
+  "params": {
+    "noun": "distance",
+    "verb": "feel-emotion"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

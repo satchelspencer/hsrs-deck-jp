@@ -1,0 +1,19 @@
+{
+  "_id": "v4v3538c6g",
+  "name": "grant-it",
+  "order": "4",
+  "parents": [
+    "ichidan",
+    "people-do",
+    "ni-person-verbs",
+    "do-to-edibles",
+    "do-to-products",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "granting",
+    "en": "grant",
+    "jp": "与える",
+    "tl": "あたえる"
+  }
+}

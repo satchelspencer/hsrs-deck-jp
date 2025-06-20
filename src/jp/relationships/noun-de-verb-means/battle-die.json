@@ -1,0 +1,13 @@
+{
+  "_id": "1rdpev51z3kj",
+  "name": "battle-die",
+  "params": {
+    "noun": "battle",
+    "verb": "die"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

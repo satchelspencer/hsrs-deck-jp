@@ -1,0 +1,13 @@
+{
+  "_id": "7sj4oxutu1",
+  "name": "obtain-victory",
+  "params": {
+    "noun": "victory",
+    "verb": "obtain"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

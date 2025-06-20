@@ -1,0 +1,13 @@
+{
+  "_id": "q8hylo2cqm",
+  "name": "appreciation-letter",
+  "params": {
+    "noun": "word",
+    "owner": "appreciation"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

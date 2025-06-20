@@ -1,0 +1,14 @@
+{
+  "_id": "pfgdbkux9tm",
+  "name": "suspicious-bag",
+  "order": "",
+  "params": {
+    "iadj": "suspicious",
+    "noun": "sack"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

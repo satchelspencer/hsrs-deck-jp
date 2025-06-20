@@ -1,0 +1,13 @@
+{
+  "_id": "75pkhmdc4z6",
+  "name": "important-pol-goal",
+  "params": {
+    "na": "important-polite",
+    "noun": "goal"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

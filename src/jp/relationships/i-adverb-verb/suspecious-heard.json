@@ -1,0 +1,13 @@
+{
+  "_id": "z54tms6xrzf",
+  "name": "suspecious-heard",
+  "params": {
+    "iadj": "laugh",
+    "verb": "be-heard"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "9bx0yrlyior",
+  "name": "imagine-quiet",
+  "params": {
+    "na": "quiet",
+    "verb": "imagination"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

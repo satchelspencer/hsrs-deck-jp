@@ -1,0 +1,13 @@
+{
+  "_id": "bh7jh0xlnj",
+  "name": "attack-knife",
+  "params": {
+    "noun": "knife",
+    "verb": "attack"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

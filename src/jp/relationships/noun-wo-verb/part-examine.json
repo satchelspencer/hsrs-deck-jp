@@ -1,0 +1,13 @@
+{
+  "_id": "8p2ulps53ar",
+  "name": "part-examine",
+  "params": {
+    "noun": "part",
+    "verb": "examine"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

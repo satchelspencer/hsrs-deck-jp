@@ -1,0 +1,13 @@
+{
+  "_id": "2hr7490owjf",
+  "name": "technique-sufficient",
+  "params": {
+    "na": "sufficient",
+    "noun": "technique"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

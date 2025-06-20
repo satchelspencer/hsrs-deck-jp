@@ -1,0 +1,13 @@
+{
+  "_id": "vkteivebf7p",
+  "name": "objective-significant",
+  "params": {
+    "na": "significant",
+    "noun": "objective"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

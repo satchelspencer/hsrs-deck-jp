@@ -1,0 +1,16 @@
+{
+  "_id": "xs16zm7gtnl",
+  "desc": "pass a point, especially of time",
+  "name": "be-past",
+  "order": "4",
+  "parents": [
+    "ichidan",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "_st": "passed",
+    "en": "be past",
+    "jp": "過ぎる",
+    "tl": "すぎる"
+  }
+}

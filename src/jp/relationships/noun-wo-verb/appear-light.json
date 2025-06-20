@@ -1,0 +1,13 @@
+{
+  "_id": "d5dfbyproyl",
+  "name": "appear-light",
+  "params": {
+    "noun": "light",
+    "verb": "appear"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

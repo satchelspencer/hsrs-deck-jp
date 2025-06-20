@@ -1,0 +1,13 @@
+{
+  "_id": "7k5zh6nvdid",
+  "name": "battle-agon",
+  "params": {
+    "iadj": "agonizing",
+    "noun": "battle"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "6bw7n7ohet7",
+  "desc": "technology, technique, skill. art, craft",
+  "name": "technique",
+  "order": "4",
+  "parents": [
+    "learnables"
+  ],
+  "props": {
+    "en": "technique",
+    "jp": "技術",
+    "tl": "ぎじゅつ"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "0gxfx3coef57",
+  "name": "criminal-attack",
+  "params": {
+    "noun": "criminal",
+    "verb": "attack"
+  },
+  "parents": [
+    "noun-ga-verb"
+  ],
+  "props": {
+  }
+}

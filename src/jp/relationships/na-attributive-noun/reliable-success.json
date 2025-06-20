@@ -1,0 +1,13 @@
+{
+  "_id": "1pocmojryvzg",
+  "name": "reliable-success",
+  "params": {
+    "na": "reliable",
+    "noun": "success"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

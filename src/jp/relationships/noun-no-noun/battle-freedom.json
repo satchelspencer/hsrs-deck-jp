@@ -1,0 +1,13 @@
+{
+  "_id": "ntyim250nqo",
+  "name": "battle-freedom",
+  "params": {
+    "noun": "battle",
+    "owner": "freedom"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

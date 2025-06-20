@@ -1,0 +1,13 @@
+{
+  "_id": "om3d5x3aj99",
+  "name": "deprived-work",
+  "params": {
+    "noun": "job",
+    "verb": "be-deprived"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

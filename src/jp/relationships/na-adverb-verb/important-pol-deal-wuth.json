@@ -1,0 +1,13 @@
+{
+  "_id": "kpp2js79mtk",
+  "name": "important-pol-deal-wuth",
+  "params": {
+    "na": "important-polite",
+    "verb": "deal-with"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "c95zc4iqrh",
+  "name": "hope-for-safetey",
+  "params": {
+    "noun": "safety",
+    "verb": "hope-for"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

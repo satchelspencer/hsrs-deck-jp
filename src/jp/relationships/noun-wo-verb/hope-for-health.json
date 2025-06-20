@@ -1,0 +1,13 @@
+{
+  "_id": "1s1hx3wsn9x",
+  "name": "hope-for-health",
+  "params": {
+    "noun": "health",
+    "verb": "hope-for"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

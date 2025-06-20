@@ -1,0 +1,13 @@
+{
+  "_id": "2ch9cryjakt",
+  "name": "be-conveyed-sufficient",
+  "params": {
+    "na": "sufficient",
+    "verb": "be-conveyed"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

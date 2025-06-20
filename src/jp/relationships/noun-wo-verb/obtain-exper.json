@@ -1,0 +1,13 @@
+{
+  "_id": "u36f4yl817",
+  "name": "obtain-exper",
+  "params": {
+    "noun": "experience",
+    "verb": "obtain"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

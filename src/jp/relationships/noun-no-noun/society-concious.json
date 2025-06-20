@@ -1,0 +1,13 @@
+{
+  "_id": "g2o3y43ufwp",
+  "name": "society-concious",
+  "params": {
+    "noun": "consciousness",
+    "owner": "society"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

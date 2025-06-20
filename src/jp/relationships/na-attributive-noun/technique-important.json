@@ -1,0 +1,13 @@
+{
+  "_id": "rjgel5eb6h",
+  "name": "technique-important",
+  "params": {
+    "na": "important-polite",
+    "noun": "technique"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

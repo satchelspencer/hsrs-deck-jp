@@ -1,0 +1,13 @@
+{
+  "_id": "1r8aik1cpca",
+  "name": "report-few",
+  "params": {
+    "iadj": "few",
+    "noun": "report"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

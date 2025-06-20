@@ -1,0 +1,13 @@
+{
+  "_id": "gg3c7ode32j",
+  "name": "grasp-properly",
+  "params": {
+    "adv": "properly",
+    "verb": "grasp"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

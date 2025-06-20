@@ -1,0 +1,13 @@
+{
+  "_id": "yvm1metczc",
+  "name": "battle-simple",
+  "params": {
+    "na": "simple",
+    "noun": "battle"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

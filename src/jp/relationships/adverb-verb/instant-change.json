@@ -1,0 +1,13 @@
+{
+  "_id": "umwjp0ozy8b",
+  "name": "instant-change",
+  "params": {
+    "adv": "in-an-instant",
+    "verb": "be-changed"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

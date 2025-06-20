@@ -1,0 +1,13 @@
+{
+  "_id": "w2nm4rj7fxd",
+  "name": "technique-infor",
+  "params": {
+    "noun": "technique",
+    "owner": "information"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "e52wddbylod",
+  "name": "attack-words",
+  "params": {
+    "noun": "word",
+    "verb": "attack"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

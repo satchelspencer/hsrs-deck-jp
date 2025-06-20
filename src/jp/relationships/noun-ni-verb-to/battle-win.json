@@ -1,0 +1,13 @@
+{
+  "_id": "11e6kzgurgyf",
+  "name": "battle-win",
+  "params": {
+    "noun": "battle",
+    "verb": "win"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

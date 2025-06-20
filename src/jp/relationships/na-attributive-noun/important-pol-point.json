@@ -1,0 +1,13 @@
+{
+  "_id": "m8c5z4kp2sh",
+  "name": "important-pol-point",
+  "params": {
+    "na": "important-polite",
+    "noun": "point"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

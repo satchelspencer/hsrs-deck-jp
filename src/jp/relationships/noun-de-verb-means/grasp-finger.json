@@ -1,0 +1,13 @@
+{
+  "_id": "8zd3i7esz1t",
+  "name": "grasp-finger",
+  "params": {
+    "noun": "finger",
+    "verb": "grasp"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "dbt4j23wgef",
+  "name": "important-pol-compreh",
+  "params": {
+    "na": "important-polite",
+    "noun": "comprehension"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

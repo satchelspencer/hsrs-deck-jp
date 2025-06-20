@@ -1,0 +1,13 @@
+{
+  "_id": "krvcaqj47h",
+  "name": "suspecious-seen",
+  "params": {
+    "iadj": "suspicious",
+    "verb": "be-seen"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

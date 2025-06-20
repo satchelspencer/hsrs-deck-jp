@@ -1,0 +1,13 @@
+{
+  "_id": "vtvrohig",
+  "name": "finish-it-polite",
+  "params": {
+    "na": "polite",
+    "verb": "finish-it"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

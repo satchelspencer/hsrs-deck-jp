@@ -1,0 +1,13 @@
+{
+  "_id": "gmopb30g6b6",
+  "name": "battle-wi-de",
+  "params": {
+    "noun": "battle",
+    "verb": "win"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

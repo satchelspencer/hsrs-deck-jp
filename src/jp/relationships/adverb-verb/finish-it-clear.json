@@ -1,0 +1,13 @@
+{
+  "_id": "mawzssi92bn",
+  "name": "finish-it-clear",
+  "params": {
+    "adv": "clearly",
+    "verb": "finish-it"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

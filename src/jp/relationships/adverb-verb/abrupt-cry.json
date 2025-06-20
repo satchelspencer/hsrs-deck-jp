@@ -1,0 +1,13 @@
+{
+  "_id": "27e0fc9kp5g",
+  "name": "abrupt-cry",
+  "params": {
+    "adv": "abruptly",
+    "verb": "cry"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

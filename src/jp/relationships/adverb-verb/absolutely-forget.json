@@ -1,0 +1,13 @@
+{
+  "_id": "35uji3j4tyu",
+  "name": "absolutely-forget",
+  "params": {
+    "adv": "absolutely",
+    "verb": "forget"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

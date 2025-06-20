@@ -1,0 +1,13 @@
+{
+  "_id": "x65tvysyyxb",
+  "name": "battle-fact",
+  "params": {
+    "noun": "battle",
+    "owner": "fact"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

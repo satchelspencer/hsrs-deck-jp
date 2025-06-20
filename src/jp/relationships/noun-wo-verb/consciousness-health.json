@@ -1,0 +1,13 @@
+{
+  "_id": "ghjph33z2v",
+  "name": "consciousness-health",
+  "params": {
+    "noun": "health",
+    "verb": "consciousness"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

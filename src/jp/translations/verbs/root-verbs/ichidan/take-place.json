@@ -1,0 +1,17 @@
+{
+  "_id": "w3szpi06luj",
+  "desc": "occur, espcially negative incidents",
+  "name": "take-place",
+  "order": "4",
+  "parents": [
+    "ichidan",
+    "de-location-verbs",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "taking place",
+    "en": "take place",
+    "jp": "起きる",
+    "tl": "おきる"
+  }
+}

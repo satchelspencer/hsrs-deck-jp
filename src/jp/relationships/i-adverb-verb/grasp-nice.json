@@ -1,0 +1,13 @@
+{
+  "_id": "3lb4atkay6a",
+  "name": "grasp-nice",
+  "params": {
+    "iadj": "nice",
+    "verb": "grasp"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

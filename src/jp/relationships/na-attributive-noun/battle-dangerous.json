@@ -1,0 +1,13 @@
+{
+  "_id": "bhftcp55b89",
+  "name": "battle-dangerous",
+  "params": {
+    "na": "dangerous",
+    "noun": "battle"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "cwf0rgnfnyg",
+  "name": "deal-with-kind",
+  "params": {
+    "na": "kindness",
+    "verb": "deal-with"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

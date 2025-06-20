@@ -1,0 +1,14 @@
+{
+  "_id": "8ukzq84irmp",
+  "desc": "dubious, questionable",
+  "name": "suspicious",
+  "order": "4",
+  "parents": [
+    "i-people"
+  ],
+  "props": {
+    "en": "suspicious",
+    "jp": "怪しい",
+    "tl": "あやしい"
+  }
+}

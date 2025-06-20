@@ -1,0 +1,20 @@
+{
+  "_id": "a2msbeoo2h",
+  "desc": "anticipation or hope",
+  "name": "expectation",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "people-do",
+    "te-iru-verbs-continuous",
+    "people-no",
+    "ni-person-verbs"
+  ],
+  "props": {
+    "_pg": "expecting",
+    "_v": "expect",
+    "en": "expectation",
+    "jp": "期待",
+    "tl": "きたい"
+  }
+}

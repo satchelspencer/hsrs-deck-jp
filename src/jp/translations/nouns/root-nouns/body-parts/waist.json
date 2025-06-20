@@ -1,0 +1,14 @@
+{
+  "_id": "8bjb53xtsbn",
+  "desc": "or lower back",
+  "name": "waist",
+  "order": "4",
+  "parents": [
+    "body-parts"
+  ],
+  "props": {
+    "en": "waist",
+    "jp": "腰",
+    "tl": "こし"
+  }
+}

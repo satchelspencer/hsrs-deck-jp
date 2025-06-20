@@ -1,0 +1,13 @@
+{
+  "_id": "rk62v2naisn",
+  "name": "battle-significant",
+  "params": {
+    "na": "significant",
+    "noun": "battle"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

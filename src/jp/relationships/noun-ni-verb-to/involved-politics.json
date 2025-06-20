@@ -1,0 +1,13 @@
+{
+  "_id": "7s941ubwvbh",
+  "name": "involved-politics",
+  "params": {
+    "noun": "politics",
+    "verb": "be-involved"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

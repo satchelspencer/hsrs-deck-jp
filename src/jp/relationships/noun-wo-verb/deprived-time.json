@@ -1,0 +1,13 @@
+{
+  "_id": "rb338nsoazl",
+  "name": "deprived-time",
+  "params": {
+    "noun": "hours",
+    "verb": "be-deprived"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "53fbeh8wpai",
+  "name": "take-place-accid",
+  "params": {
+    "noun": "accident",
+    "verb": "take-place"
+  },
+  "parents": [
+    "noun-ga-verb"
+  ],
+  "props": {
+  }
+}

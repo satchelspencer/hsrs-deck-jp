@@ -1,0 +1,13 @@
+{
+  "_id": "pufl4rbiwsh",
+  "name": "battle-life",
+  "params": {
+    "noun": "battle",
+    "owner": "human-life"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

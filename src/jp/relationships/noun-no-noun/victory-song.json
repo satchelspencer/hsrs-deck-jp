@@ -1,0 +1,13 @@
+{
+  "_id": "aq4wp63xdyi",
+  "name": "victory-song",
+  "params": {
+    "noun": "song",
+    "owner": "victory"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "ey0pbfgh57w",
+  "name": "absolutely-come",
+  "params": {
+    "adv": "absolutely",
+    "verb": "come"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

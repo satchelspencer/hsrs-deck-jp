@@ -1,0 +1,13 @@
+{
+  "_id": "6byalu0pszw",
+  "name": "permission-safe",
+  "params": {
+    "na": "safety",
+    "noun": "permission"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

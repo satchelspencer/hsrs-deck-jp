@@ -1,0 +1,13 @@
+{
+  "_id": "3znhs37fc2j",
+  "name": "deprived-money",
+  "params": {
+    "noun": "money",
+    "verb": "be-deprived"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

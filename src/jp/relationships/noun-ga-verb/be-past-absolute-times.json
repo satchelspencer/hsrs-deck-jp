@@ -1,0 +1,13 @@
+{
+  "_id": "sqr1ct060y",
+  "name": "be-past-absolute-times",
+  "params": {
+    "noun": "absolute-times",
+    "verb": "be-past"
+  },
+  "parents": [
+    "noun-ga-verb"
+  ],
+  "props": {
+  }
+}

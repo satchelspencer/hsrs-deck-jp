@@ -1,0 +1,13 @@
+{
+  "_id": "f9t7cjy5m69",
+  "name": "objective-scheme-copy",
+  "params": {
+    "noun": "objective",
+    "owner": "lesson"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

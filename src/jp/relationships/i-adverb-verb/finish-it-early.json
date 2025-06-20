@@ -1,0 +1,13 @@
+{
+  "_id": "1rn5ghjacxq",
+  "name": "finish-it-early",
+  "params": {
+    "iadj": "early",
+    "verb": "finish-it"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

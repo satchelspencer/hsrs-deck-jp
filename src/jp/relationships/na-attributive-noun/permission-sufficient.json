@@ -1,0 +1,13 @@
+{
+  "_id": "aevt0v9xlb9",
+  "name": "permission-sufficient",
+  "params": {
+    "na": "sufficient",
+    "noun": "permission"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

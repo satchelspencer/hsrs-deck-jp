@@ -1,0 +1,13 @@
+{
+  "_id": "xput026pss",
+  "name": "deprived-popularity",
+  "params": {
+    "noun": "popularity",
+    "verb": "be-deprived"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

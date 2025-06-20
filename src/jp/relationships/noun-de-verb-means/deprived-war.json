@@ -1,0 +1,13 @@
+{
+  "_id": "tu3oib9yb8",
+  "name": "deprived-war",
+  "params": {
+    "noun": "war",
+    "verb": "be-deprived"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

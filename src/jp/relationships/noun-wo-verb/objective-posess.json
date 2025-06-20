@@ -1,0 +1,13 @@
+{
+  "_id": "xufopkw5de",
+  "name": "objective-posess",
+  "params": {
+    "noun": "objective",
+    "verb": "possess"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

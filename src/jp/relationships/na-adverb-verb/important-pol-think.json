@@ -1,0 +1,13 @@
+{
+  "_id": "hhgprux7cm",
+  "name": "important-pol-think",
+  "params": {
+    "na": "important-polite",
+    "verb": "think"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

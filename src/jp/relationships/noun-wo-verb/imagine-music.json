@@ -1,0 +1,13 @@
+{
+  "_id": "huzklv6g1q",
+  "name": "imagine-music",
+  "params": {
+    "noun": "music",
+    "verb": "imagination"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

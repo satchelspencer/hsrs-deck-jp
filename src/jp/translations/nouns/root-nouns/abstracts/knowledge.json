@@ -1,0 +1,14 @@
+{
+  "_id": "ijdf707xg9",
+  "desc": "unsderstanding gained",
+  "name": "knowledge",
+  "order": "4",
+  "parents": [
+    "abstracts"
+  ],
+  "props": {
+    "en": "knowledge",
+    "jp": "知識",
+    "tl": "ちしき"
+  }
+}

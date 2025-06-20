@@ -1,0 +1,19 @@
+{
+  "_id": "xk2f1tie3jm",
+  "desc": "agreement",
+  "name": "agreement",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "people-do",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "_pg": "",
+    "_st": "in agreement",
+    "_v": "agree",
+    "en": "agreement",
+    "jp": "納得",
+    "tl": "なっとく"
+  }
+}

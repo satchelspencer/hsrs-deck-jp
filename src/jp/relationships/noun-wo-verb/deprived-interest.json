@@ -1,0 +1,13 @@
+{
+  "_id": "el71642j4yg",
+  "name": "deprived-interest",
+  "params": {
+    "noun": "interest",
+    "verb": "be-deprived"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

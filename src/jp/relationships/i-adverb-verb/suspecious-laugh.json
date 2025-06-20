@@ -1,0 +1,13 @@
+{
+  "_id": "062i2ug0183q",
+  "name": "suspecious-laugh",
+  "params": {
+    "iadj": "laugh",
+    "verb": "be-seen"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

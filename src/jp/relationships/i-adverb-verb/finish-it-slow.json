@@ -1,0 +1,13 @@
+{
+  "_id": "8h70dt2z0jv",
+  "name": "finish-it-slow",
+  "params": {
+    "iadj": "slow",
+    "verb": "finish-it"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}
