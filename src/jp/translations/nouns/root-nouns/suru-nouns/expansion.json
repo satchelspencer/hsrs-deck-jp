@@ -1,0 +1,16 @@
+{
+  "_id": "ej95vbqum6l",
+  "desc": "development, unfolding",
+  "name": "expansion",
+  "order": "4",
+  "parents": [
+    "suru-nouns"
+  ],
+  "props": {
+    "_pg": "expanding",
+    "_v": "expand",
+    "en": "expansion",
+    "jp": "展開",
+    "tl": "てんかい"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "ey6ovo6ol75",
+  "desc": "restoration",
+  "name": "recovery",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "_st": "recovered",
+    "_v": "recover",
+    "en": "recovery",
+    "jp": "回復",
+    "tl": "かいふく"
+  }
+}

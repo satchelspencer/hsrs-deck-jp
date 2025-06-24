@@ -1,0 +1,14 @@
+{
+  "_id": "377t99qlkb7",
+  "desc": "share, part",
+  "name": "share",
+  "order": "4",
+  "parents": [
+    "people-no"
+  ],
+  "props": {
+    "en": "share",
+    "jp": "分",
+    "tl": "ぶん"
+  }
+}

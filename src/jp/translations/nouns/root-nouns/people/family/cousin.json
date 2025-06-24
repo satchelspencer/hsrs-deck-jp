@@ -1,0 +1,12 @@
+{
+  "_id": "1anwkhbb285",
+  "name": "cousin",
+  "order": "4",
+  "parents": [
+    "family"
+  ],
+  "props": {
+    "en": "cousin",
+    "jp": "いとこ"
+  }
+}

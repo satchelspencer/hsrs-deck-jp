@@ -1,0 +1,17 @@
+{
+  "_id": "k2v8wn19yw",
+  "name": "cooperation",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "people-do",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "cooperating",
+    "_v": "cooperate",
+    "en": "cooperation",
+    "jp": "協力",
+    "tl": "きょうりょく"
+  }
+}

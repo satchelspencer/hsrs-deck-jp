@@ -1,0 +1,14 @@
+{
+  "_id": "xusiteuuvh",
+  "desc": "condition, performance",
+  "name": "tune",
+  "order": "4",
+  "parents": [
+    "abstracts"
+  ],
+  "props": {
+    "en": "tune",
+    "jp": "調子",
+    "tl": "ちょうし"
+  }
+}

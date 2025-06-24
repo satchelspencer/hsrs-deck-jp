@@ -1,0 +1,13 @@
+{
+  "_id": "burrohbj9am",
+  "name": "tongue",
+  "order": "4",
+  "parents": [
+    "body-parts"
+  ],
+  "props": {
+    "en": "tongue",
+    "jp": "舌",
+    "tl": "した"
+  }
+}

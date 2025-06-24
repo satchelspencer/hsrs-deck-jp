@@ -1,0 +1,14 @@
+{
+  "_id": "x0518bfc0dh",
+  "desc": "charachter or nature",
+  "name": "personality",
+  "order": "4",
+  "parents": [
+    "people-no"
+  ],
+  "props": {
+    "en": "personality",
+    "jp": "性格",
+    "tl": "せいかく"
+  }
+}

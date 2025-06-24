@@ -1,0 +1,14 @@
+{
+  "_id": "80z8elhh25e",
+  "desc": "manner, approach",
+  "name": "attitude",
+  "order": "4",
+  "parents": [
+    "people-no"
+  ],
+  "props": {
+    "en": "attitude",
+    "jp": "態度",
+    "tl": "たいど"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "_id": "e5fzzdz0xte",
+  "desc": "tension",
+  "name": "nervousness",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "people-do",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "_st": "nervous",
+    "_v": "get nervous",
+    "en": "nervousness",
+    "jp": "緊張",
+    "tl": "きんちょう"
+  }
+}

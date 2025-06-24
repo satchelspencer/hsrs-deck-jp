@@ -1,0 +1,14 @@
+{
+  "_id": "4ei3xwzhilz",
+  "desc": "of a fire",
+  "name": "flame",
+  "order": "4",
+  "parents": [
+    "seeables"
+  ],
+  "props": {
+    "en": "flame",
+    "jp": "炎",
+    "tl": "ほのお"
+  }
+}

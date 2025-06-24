@@ -1,0 +1,14 @@
+{
+  "_id": "wicjq0yzyu9",
+  "desc": "army, troops",
+  "name": "military",
+  "order": "4",
+  "parents": [
+    "organizations"
+  ],
+  "props": {
+    "en": "military",
+    "jp": "軍",
+    "tl": "ぐん"
+  }
+}

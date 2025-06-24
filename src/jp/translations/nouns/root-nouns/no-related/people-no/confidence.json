@@ -1,0 +1,14 @@
+{
+  "_id": "1olu1ejahk2",
+  "desc": "belief in yourself",
+  "name": "confidence",
+  "order": "4",
+  "parents": [
+    "people-no"
+  ],
+  "props": {
+    "en": "confidence",
+    "jp": "自信",
+    "tl": "じしん"
+  }
+}

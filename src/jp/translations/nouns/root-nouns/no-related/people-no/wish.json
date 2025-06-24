@@ -1,0 +1,14 @@
+{
+  "_id": "7hhw8t60qsw",
+  "desc": "a wish",
+  "name": "wish",
+  "order": "4",
+  "parents": [
+    "people-no"
+  ],
+  "props": {
+    "en": "wish",
+    "jp": "希望",
+    "tl": "きぼう"
+  }
+}

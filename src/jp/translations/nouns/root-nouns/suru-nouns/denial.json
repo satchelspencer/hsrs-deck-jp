@@ -1,0 +1,16 @@
+{
+  "_id": "qw4gnaf8vq",
+  "desc": "refusing",
+  "name": "denial",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "people-do"
+  ],
+  "props": {
+    "_v": "deny",
+    "en": "denial",
+    "jp": "否定",
+    "tl": "ひてい"
+  }
+}

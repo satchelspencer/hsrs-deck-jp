@@ -1,0 +1,14 @@
+{
+  "_id": "d96277rn8hb",
+  "desc": "like a group, a bunch of people",
+  "name": "bunch",
+  "order": "4",
+  "parents": [
+    "people"
+  ],
+  "props": {
+    "en": "bunch",
+    "jp": "連中",
+    "tl": "れんちゅう"
+  }
+}

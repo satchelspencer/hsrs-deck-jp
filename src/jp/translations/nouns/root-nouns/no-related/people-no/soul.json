@@ -1,0 +1,14 @@
+{
+  "_id": "cf7qpn0blva",
+  "desc": "spirit",
+  "name": "soul",
+  "order": "4",
+  "parents": [
+    "people-no"
+  ],
+  "props": {
+    "en": "soul",
+    "jp": "魂",
+    "tl": "たましい"
+  }
+}

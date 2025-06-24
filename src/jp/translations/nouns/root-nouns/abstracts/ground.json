@@ -1,0 +1,14 @@
+{
+  "_id": "z2p33tkvrl",
+  "desc": "earth, earths surface",
+  "name": "ground",
+  "order": "4",
+  "parents": [
+    "abstracts"
+  ],
+  "props": {
+    "en": "ground",
+    "jp": "地面",
+    "tl": "じめん"
+  }
+}

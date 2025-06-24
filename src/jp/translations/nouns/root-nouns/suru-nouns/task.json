@@ -1,0 +1,18 @@
+{
+  "_id": "lh4l2juwjo",
+  "desc": "work, operation",
+  "name": "task",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "people-do",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "doing a task",
+    "_v": "do a task",
+    "en": "task",
+    "jp": "作業",
+    "tl": "さぎょう"
+  }
+}

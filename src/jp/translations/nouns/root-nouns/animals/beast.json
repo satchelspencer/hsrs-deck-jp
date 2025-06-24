@@ -1,0 +1,14 @@
+{
+  "_id": "koadybcifz",
+  "desc": "wild animal",
+  "name": "beast",
+  "order": "4",
+  "parents": [
+    "animals"
+  ],
+  "props": {
+    "en": "beast",
+    "jp": "獣",
+    "tl": "けもの"
+  }
+}

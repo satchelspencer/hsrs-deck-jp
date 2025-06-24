@@ -1,0 +1,19 @@
+{
+  "_id": "5byw573yj29",
+  "desc": "development",
+  "name": "growth",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "te-iru-verbs-continuous",
+    "de-location-verbs",
+    "people-do"
+  ],
+  "props": {
+    "_pg": "growing",
+    "_v": "grow",
+    "en": "growth",
+    "jp": "成長",
+    "tl": "せいちょう"
+  }
+}

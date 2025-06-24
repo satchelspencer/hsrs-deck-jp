@@ -1,0 +1,18 @@
+{
+  "_id": "b39r1fuwsbn",
+  "desc": "joining",
+  "name": "participation",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "people-do",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "participating",
+    "_v": "participate",
+    "en": "participation",
+    "jp": "参加",
+    "tl": "さんか"
+  }
+}

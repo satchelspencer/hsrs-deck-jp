@@ -1,0 +1,17 @@
+{
+  "_id": "tent5ajzmhc",
+  "desc": "a match, a game",
+  "name": "contest",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "te-iru-verbs-continuous",
+    "de-location-verbs",
+    "people-do"
+  ],
+  "props": {
+    "en": "a contest",
+    "jp": "勝負",
+    "tl": "しょうぶ"
+  }
+}

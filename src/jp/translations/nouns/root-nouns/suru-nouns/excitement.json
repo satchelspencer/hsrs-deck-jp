@@ -1,0 +1,18 @@
+{
+  "_id": "r1vmt3ewzwl",
+  "desc": "arousal, stimulation",
+  "name": "excitement",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "people-do",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "_st": "excited",
+    "_v": "get excited",
+    "en": "excitement",
+    "jp": "興奮",
+    "tl": "こうふん"
+  }
+}

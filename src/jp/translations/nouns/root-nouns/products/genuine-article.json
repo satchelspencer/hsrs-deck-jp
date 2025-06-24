@@ -1,0 +1,14 @@
+{
+  "_id": "fsjvae8szy",
+  "desc": "the real thing",
+  "name": "genuine-article",
+  "order": "4",
+  "parents": [
+    "products"
+  ],
+  "props": {
+    "en": "genuine article",
+    "jp": "本物",
+    "tl": "ほんもの"
+  }
+}

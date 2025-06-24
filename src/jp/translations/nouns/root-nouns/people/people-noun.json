@@ -1,0 +1,14 @@
+{
+  "_id": "k7vsym45xvd",
+  "desc": "multiple of them",
+  "name": "people-noun",
+  "order": "4",
+  "parents": [
+    "people"
+  ],
+  "props": {
+    "en": "people",
+    "jp": "人々",
+    "tl": "ひとびと"
+  }
+}

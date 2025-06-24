@@ -1,0 +1,14 @@
+{
+  "_id": "nh20fb1gve",
+  "desc": "a short remark",
+  "name": "brief-word",
+  "order": "4",
+  "parents": [
+    "writeables"
+  ],
+  "props": {
+    "en": "brief word",
+    "jp": "一言",
+    "tl": "ひとこと"
+  }
+}

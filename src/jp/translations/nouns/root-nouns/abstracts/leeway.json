@@ -1,0 +1,14 @@
+{
+  "_id": "xd8q0n3lg3o",
+  "desc": "margin, surplus extra time, space etc",
+  "name": "leeway",
+  "order": "4",
+  "parents": [
+    "abstracts"
+  ],
+  "props": {
+    "en": "leeway",
+    "jp": "余裕",
+    "tl": "よゆう"
+  }
+}

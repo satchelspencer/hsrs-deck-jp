@@ -1,0 +1,14 @@
+{
+  "_id": "nhsh2sk18m",
+  "desc": "like efficacy",
+  "name": "effect",
+  "order": "4",
+  "parents": [
+    "abstracts"
+  ],
+  "props": {
+    "en": "effect",
+    "jp": "効果",
+    "tl": "こうか"
+  }
+}

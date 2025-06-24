@@ -1,0 +1,18 @@
+{
+  "_id": "qm8hey52hn",
+  "desc": "asessing, deciding",
+  "name": "judgement",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "people-do",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "judging",
+    "_v": "judge",
+    "en": "judgement",
+    "jp": "判断",
+    "tl": "はんだん"
+  }
+}

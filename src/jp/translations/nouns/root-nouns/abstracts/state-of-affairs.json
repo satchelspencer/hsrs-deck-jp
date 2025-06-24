@@ -1,0 +1,14 @@
+{
+  "_id": "wnnzvgf5yd9",
+  "desc": "often urgent",
+  "name": "state-of-affairs",
+  "order": "4",
+  "parents": [
+    "abstracts"
+  ],
+  "props": {
+    "en": "state of affairs",
+    "jp": "事態",
+    "tl": "じたい"
+  }
+}

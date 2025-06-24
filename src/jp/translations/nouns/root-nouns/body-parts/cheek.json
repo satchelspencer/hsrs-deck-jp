@@ -1,0 +1,14 @@
+{
+  "_id": "jvbn4ix40ta",
+  "desc": "on your face",
+  "name": "cheek",
+  "order": "4",
+  "parents": [
+    "body-parts"
+  ],
+  "props": {
+    "en": "cheek",
+    "jp": "頬",
+    "tl": "ほお"
+  }
+}

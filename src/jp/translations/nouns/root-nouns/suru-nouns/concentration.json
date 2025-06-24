@@ -1,0 +1,18 @@
+{
+  "_id": "urbylgdpgfj",
+  "desc": "focusing attention",
+  "name": "concentration",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "people-do",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "concentrating",
+    "_v": "concentrate",
+    "en": "concentration",
+    "jp": "集中",
+    "tl": "しゅうちゅう"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "_id": "fvy6mgws3zv",
+  "desc": "mental readiness",
+  "name": "resolve",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "people-do",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "_st": "resolved",
+    "_v": "be resolved",
+    "en": "resolve",
+    "jp": "覚悟",
+    "tl": "かくご"
+  }
+}

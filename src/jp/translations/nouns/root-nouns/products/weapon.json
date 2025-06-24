@@ -1,0 +1,14 @@
+{
+  "_id": "e2cc1jt6vmt",
+  "desc": "arms",
+  "name": "weapon",
+  "order": "4",
+  "parents": [
+    "products"
+  ],
+  "props": {
+    "en": "weapon",
+    "jp": "武器",
+    "tl": "ぶき"
+  }
+}

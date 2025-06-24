@@ -1,0 +1,14 @@
+{
+  "_id": "imvcvwytje8",
+  "desc": "vigour",
+  "name": "force",
+  "order": "4",
+  "parents": [
+    "abstracts"
+  ],
+  "props": {
+    "en": "force, momentum",
+    "jp": "勢い",
+    "tl": "いきおい"
+  }
+}

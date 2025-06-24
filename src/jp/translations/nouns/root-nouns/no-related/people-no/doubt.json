@@ -1,0 +1,14 @@
+{
+  "_id": "alvhcfy9zyk",
+  "desc": "question, suspicion",
+  "name": "doubt",
+  "order": "4",
+  "parents": [
+    "people-no"
+  ],
+  "props": {
+    "en": "doubt",
+    "jp": "疑問",
+    "tl": "ぎもん"
+  }
+}

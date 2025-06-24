@@ -1,0 +1,14 @@
+{
+  "_id": "a4ga8sqsw3r",
+  "desc": "military kind ",
+  "name": "combat",
+  "order": "4",
+  "parents": [
+    "events"
+  ],
+  "props": {
+    "en": "combat",
+    "jp": "戦闘",
+    "tl": "せんとう"
+  }
+}

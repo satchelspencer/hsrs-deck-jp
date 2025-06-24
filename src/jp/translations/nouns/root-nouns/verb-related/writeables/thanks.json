@@ -1,0 +1,14 @@
+{
+  "_id": "nnqqd2ykrlp",
+  "desc": "not \"thank you\" but the thanks themselves",
+  "name": "thanks",
+  "order": "4",
+  "parents": [
+    "writeables"
+  ],
+  "props": {
+    "en": "thanks",
+    "jp": "お礼",
+    "tl": "おれい"
+  }
+}

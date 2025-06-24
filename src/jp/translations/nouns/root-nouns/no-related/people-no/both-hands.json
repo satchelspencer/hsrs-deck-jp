@@ -1,0 +1,14 @@
+{
+  "_id": "2gi5eayim7s",
+  "desc": "state of using both hands or both hands themselves",
+  "name": "both-hands",
+  "order": "4",
+  "parents": [
+    "people-no"
+  ],
+  "props": {
+    "en": "both hands",
+    "jp": "両手",
+    "tl": "りょうて"
+  }
+}

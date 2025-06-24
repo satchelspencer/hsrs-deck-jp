@@ -1,0 +1,14 @@
+{
+  "_id": "xyuqntkwdr",
+  "desc": "direction, way",
+  "name": "orientation",
+  "order": "4",
+  "parents": [
+    "absolute-places"
+  ],
+  "props": {
+    "en": "orientation",
+    "jp": "方向",
+    "tl": "ほうこう"
+  }
+}

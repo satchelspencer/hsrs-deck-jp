@@ -1,0 +1,18 @@
+{
+  "_id": "4z8wzlnex4l",
+  "desc": "direction, order",
+  "name": "instruction",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "people-do",
+    "ni-person-verbs"
+  ],
+  "props": {
+    "_pg": "instructing",
+    "_v": "instruct",
+    "en": "instruction",
+    "jp": "指示",
+    "tl": "しじ"
+  }
+}

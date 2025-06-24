@@ -1,0 +1,18 @@
+{
+  "_id": "qqn33li3mei",
+  "desc": "caution, wariness",
+  "name": "vigilance",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "people-do",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "_st": "vigilant",
+    "_v": "be vigilant",
+    "en": "vigilance",
+    "jp": "警戒",
+    "tl": "けいかい"
+  }
+}

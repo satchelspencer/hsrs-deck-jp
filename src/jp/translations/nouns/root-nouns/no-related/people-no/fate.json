@@ -1,0 +1,14 @@
+{
+  "_id": "b0ko6ko9d6",
+  "desc": "destiny",
+  "name": "fate",
+  "order": "4",
+  "parents": [
+    "people-no"
+  ],
+  "props": {
+    "en": "fate",
+    "jp": "運命",
+    "tl": "うんめい"
+  }
+}

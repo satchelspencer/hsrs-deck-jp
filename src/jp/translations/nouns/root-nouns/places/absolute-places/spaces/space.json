@@ -1,0 +1,15 @@
+{
+  "_id": "ibpda3xyix",
+  "desc": "space, room",
+  "name": "space",
+  "order": "4",
+  "parents": [
+    "spaces",
+    "quantities"
+  ],
+  "props": {
+    "en": "space",
+    "jp": "空間",
+    "tl": "くうかん"
+  }
+}

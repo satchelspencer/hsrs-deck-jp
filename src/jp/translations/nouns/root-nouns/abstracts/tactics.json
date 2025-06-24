@@ -1,0 +1,14 @@
+{
+  "_id": "lhpbqnrr4mf",
+  "desc": "strategy, operation ",
+  "name": "tactics",
+  "order": "4",
+  "parents": [
+    "abstracts"
+  ],
+  "props": {
+    "en": "tactics",
+    "jp": "作戦",
+    "tl": "さくせん"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "gvlyc3xtjzn",
+  "desc": "hard facts",
+  "name": "reality",
+  "order": "4",
+  "parents": [
+    "abstracts"
+  ],
+  "props": {
+    "en": "reality",
+    "jp": "現実",
+    "tl": "げんじつ"
+  }
+}

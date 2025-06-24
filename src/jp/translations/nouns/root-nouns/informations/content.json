@@ -1,0 +1,14 @@
+{
+  "_id": "f6nu43e2j98",
+  "desc": "informational contents",
+  "name": "content",
+  "order": "4",
+  "parents": [
+    "informations"
+  ],
+  "props": {
+    "en": "content",
+    "jp": "内容",
+    "tl": "ないよう"
+  }
+}

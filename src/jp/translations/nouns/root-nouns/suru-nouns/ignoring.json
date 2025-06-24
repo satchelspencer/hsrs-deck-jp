@@ -1,0 +1,19 @@
+{
+  "_id": "p533m289as",
+  "desc": "disregard",
+  "name": "ignoring",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "people-do",
+    "te-iru-verbs-continuous",
+    "do-to-informations"
+  ],
+  "props": {
+    "_pg": "ignoring it",
+    "_v": "ignore",
+    "en": "ignoring",
+    "jp": "無視",
+    "tl": "むし"
+  }
+}

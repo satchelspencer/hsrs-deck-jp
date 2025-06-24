@@ -1,0 +1,14 @@
+{
+  "_id": "4u2h5011zj",
+  "desc": "like an indication, a hint",
+  "name": "a-sign",
+  "order": "4",
+  "parents": [
+    "abstracts"
+  ],
+  "props": {
+    "en": "a sign",
+    "jp": "気配",
+    "tl": "けはい"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "90nopzwxn2",
+  "desc": "a jolt, impact",
+  "name": "shock",
+  "order": "4",
+  "parents": [
+    "abstracts"
+  ],
+  "props": {
+    "en": "shock",
+    "jp": "衝撃",
+    "tl": "しょうげき"
+  }
+}

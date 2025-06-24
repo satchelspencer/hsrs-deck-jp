@@ -1,0 +1,14 @@
+{
+  "_id": "qlyxfz7ji9",
+  "desc": "not the verb, a jest, funny story",
+  "name": "joke",
+  "order": "4",
+  "parents": [
+    "abstracts"
+  ],
+  "props": {
+    "en": "a joke",
+    "jp": "冗談",
+    "tl": "じょうだん"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "lmh96ol8mq",
+  "desc": "not graduation, the starting",
+  "name": "commencement",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "_st": "commenced",
+    "_v": "commence",
+    "en": "commencement",
+    "jp": "開始",
+    "tl": "かいし"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "_id": "l0q6p2kyeb",
+  "desc": "an order",
+  "name": "command",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "te-iru-verbs-continuous",
+    "people-do"
+  ],
+  "props": {
+    "_pg": "commanding",
+    "_v": "command",
+    "en": "a command",
+    "jp": "命令",
+    "tl": "めいれい"
+  }
+}

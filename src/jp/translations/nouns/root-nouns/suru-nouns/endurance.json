@@ -1,0 +1,18 @@
+{
+  "_id": "lzyjmecgx9o",
+  "desc": "patience, self control",
+  "name": "endurance",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "people-do",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "enduring",
+    "_v": "endure",
+    "en": "endurance",
+    "jp": "我慢",
+    "tl": "がまん"
+  }
+}

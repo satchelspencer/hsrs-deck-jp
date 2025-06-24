@@ -1,0 +1,15 @@
+{
+  "_id": "s0t0gp73u2p",
+  "desc": "historic, or noble house",
+  "name": "mansion",
+  "order": "4",
+  "parents": [
+    "buildables",
+    "spaces"
+  ],
+  "props": {
+    "en": "mansion",
+    "jp": "屋敷",
+    "tl": "やしき"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "_id": "takldvgtsm9",
+  "desc": "demolition, ruin",
+  "name": "destruction",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "people-do",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "destroying",
+    "_v": "destroy",
+    "en": "destruction",
+    "jp": "破壊",
+    "tl": "はかい"
+  }
+}

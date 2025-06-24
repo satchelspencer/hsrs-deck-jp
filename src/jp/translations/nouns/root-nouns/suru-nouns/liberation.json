@@ -1,0 +1,17 @@
+{
+  "_id": "v1glcc7j32",
+  "desc": "release",
+  "name": "liberation",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "people-do",
+    "do-to-people"
+  ],
+  "props": {
+    "_v": "liberate",
+    "en": "liberation",
+    "jp": "解放",
+    "tl": "かいほう"
+  }
+}

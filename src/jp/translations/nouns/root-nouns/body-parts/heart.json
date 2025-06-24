@@ -1,0 +1,14 @@
+{
+  "_id": "df7ip51a73s",
+  "desc": "the organ",
+  "name": "heart",
+  "order": "4",
+  "parents": [
+    "body-parts"
+  ],
+  "props": {
+    "en": "heart",
+    "jp": "心臓",
+    "tl": "しんぞう"
+  }
+}

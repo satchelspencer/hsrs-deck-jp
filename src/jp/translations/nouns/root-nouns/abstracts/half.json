@@ -1,0 +1,14 @@
+{
+  "_id": "qvy8l9udjl",
+  "desc": "",
+  "name": "half",
+  "order": "4",
+  "parents": [
+    "abstracts"
+  ],
+  "props": {
+    "en": "half",
+    "jp": "半分",
+    "tl": "はんぶん"
+  }
+}

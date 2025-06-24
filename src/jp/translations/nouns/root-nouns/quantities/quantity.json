@@ -1,0 +1,14 @@
+{
+  "_id": "6jejgx76o2h",
+  "desc": "amount, volume",
+  "name": "quantity",
+  "order": "4",
+  "parents": [
+    "quantities"
+  ],
+  "props": {
+    "en": "quantity",
+    "jp": "量",
+    "tl": "りょう"
+  }
+}

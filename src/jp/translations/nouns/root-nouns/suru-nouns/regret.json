@@ -1,0 +1,19 @@
+{
+  "_id": "a6dy80m0a9r",
+  "desc": "",
+  "name": "regret",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "people-do",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "_pg": "",
+    "_st": "regretful",
+    "_v": "regret",
+    "en": "feeling of regret",
+    "jp": "後悔",
+    "tl": "こうかい"
+  }
+}

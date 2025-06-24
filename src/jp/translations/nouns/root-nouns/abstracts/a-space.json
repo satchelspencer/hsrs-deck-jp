@@ -1,0 +1,13 @@
+{
+  "_id": "34q46ekaus3",
+  "desc": "like a parking space or space between words",
+  "name": "a-space",
+  "order": "3",
+  "parents": [
+    "abstracts"
+  ],
+  "props": {
+    "en": "a space",
+    "jp": "スペース"
+  }
+}

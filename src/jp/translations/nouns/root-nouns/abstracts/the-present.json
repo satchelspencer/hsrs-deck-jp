@@ -1,0 +1,14 @@
+{
+  "_id": "nlpol80jip",
+  "desc": "presnt time",
+  "name": "the-present",
+  "order": "4",
+  "parents": [
+    "abstracts"
+  ],
+  "props": {
+    "en": "the present",
+    "jp": "現在",
+    "tl": "げんざい"
+  }
+}

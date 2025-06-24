@@ -1,0 +1,14 @@
+{
+  "_id": "1ibezdjgel4",
+  "name": "ally",
+  "order": "4",
+  "parents": [
+    "people-no",
+    "people"
+  ],
+  "props": {
+    "en": "ally",
+    "jp": "味方",
+    "tl": "みかた"
+  }
+}

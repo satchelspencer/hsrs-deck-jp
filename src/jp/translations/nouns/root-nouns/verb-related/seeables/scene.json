@@ -1,0 +1,14 @@
+{
+  "_id": "03bjitzxs5wk",
+  "desc": "sight, spectacle",
+  "name": "scene",
+  "order": "4",
+  "parents": [
+    "seeables"
+  ],
+  "props": {
+    "en": "scene",
+    "jp": "光景",
+    "tl": "こうけい"
+  }
+}

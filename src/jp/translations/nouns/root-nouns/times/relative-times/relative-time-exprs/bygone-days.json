@@ -1,0 +1,14 @@
+{
+  "_id": "tujom7jsj2a",
+  "desc": "everything that has happened up to the present",
+  "name": "bygone-days",
+  "order": "4",
+  "parents": [
+    "relative-time-exprs"
+  ],
+  "props": {
+    "en": "bygone days",
+    "jp": "過去",
+    "tl": "かこ"
+  }
+}

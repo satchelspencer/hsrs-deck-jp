@@ -1,0 +1,15 @@
+{
+  "_id": "7xx8zmpztjv",
+  "name": "discovery",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "people-do"
+  ],
+  "props": {
+    "_v": "discover",
+    "en": "discovery",
+    "jp": "発見",
+    "tl": "はっけん"
+  }
+}

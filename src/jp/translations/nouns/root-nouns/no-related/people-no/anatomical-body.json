@@ -1,0 +1,14 @@
+{
+  "_id": "mklnxa683e",
+  "desc": "physical system of the body",
+  "name": "anatomical-body",
+  "order": "4",
+  "parents": [
+    "people-no"
+  ],
+  "props": {
+    "en": "anatomical body",
+    "jp": "身体",
+    "tl": "しんたい"
+  }
+}

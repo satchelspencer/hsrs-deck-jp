@@ -1,0 +1,14 @@
+{
+  "_id": "5jl5kzsassi",
+  "desc": "characher (in a story or history)",
+  "name": "personage",
+  "order": "4",
+  "parents": [
+    "abstracts"
+  ],
+  "props": {
+    "en": "personage",
+    "jp": "人物",
+    "tl": "じんぶつ"
+  }
+}

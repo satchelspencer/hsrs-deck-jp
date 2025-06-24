@@ -1,0 +1,14 @@
+{
+  "_id": "jzeq2o5dbs",
+  "desc": "said person, that person themselves",
+  "name": "person-in-question",
+  "order": "4",
+  "parents": [
+    "people"
+  ],
+  "props": {
+    "en": "the person in question",
+    "jp": "本人",
+    "tl": "ほんにん"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "peq8sfwyahq",
+  "desc": "an injury, a cut",
+  "name": "wound",
+  "order": "4",
+  "parents": [
+    "abstracts"
+  ],
+  "props": {
+    "en": "wound",
+    "jp": "傷",
+    "tl": "きず"
+  }
+}

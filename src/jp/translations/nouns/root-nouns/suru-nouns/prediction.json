@@ -1,0 +1,14 @@
+{
+  "_id": "fdegcke267m",
+  "name": "prediction",
+  "order": "4",
+  "parents": [
+    "suru-nouns"
+  ],
+  "props": {
+    "_v": "predict",
+    "en": "prediction",
+    "jp": "予想",
+    "tl": "よそう"
+  }
+}

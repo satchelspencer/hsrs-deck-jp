@@ -1,0 +1,14 @@
+{
+  "_id": "ho5s5uasfye",
+  "desc": "boundary, maximum",
+  "name": "limit",
+  "order": "4",
+  "parents": [
+    "abstracts"
+  ],
+  "props": {
+    "en": "limit",
+    "jp": "限界",
+    "tl": "げんかい"
+  }
+}

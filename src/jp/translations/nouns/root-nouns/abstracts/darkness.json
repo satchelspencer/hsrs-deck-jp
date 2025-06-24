@@ -1,0 +1,14 @@
+{
+  "_id": "e0rzbads7z",
+  "desc": "the dark",
+  "name": "darkness",
+  "order": "4",
+  "parents": [
+    "abstracts"
+  ],
+  "props": {
+    "en": "darkness",
+    "jp": "闇",
+    "tl": "やみ"
+  }
+}

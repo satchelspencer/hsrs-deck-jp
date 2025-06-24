@@ -1,0 +1,14 @@
+{
+  "_id": "6ssvb5a6dsq",
+  "desc": "circumstances, situation",
+  "name": "conditions",
+  "order": "4",
+  "parents": [
+    "abstracts"
+  ],
+  "props": {
+    "en": "conditions",
+    "jp": "事情",
+    "tl": "じじょう"
+  }
+}

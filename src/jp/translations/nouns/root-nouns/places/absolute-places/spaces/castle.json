@@ -1,0 +1,14 @@
+{
+  "_id": "coxera1vvza",
+  "name": "castle",
+  "order": "4",
+  "parents": [
+    "spaces",
+    "buildables"
+  ],
+  "props": {
+    "en": "castle",
+    "jp": "城",
+    "tl": "しろ"
+  }
+}

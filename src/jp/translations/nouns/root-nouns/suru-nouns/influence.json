@@ -1,0 +1,16 @@
+{
+  "_id": "c0s6o4ujq8",
+  "desc": "effect",
+  "name": "influence",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "quantities"
+  ],
+  "props": {
+    "_v": "influence it",
+    "en": "influence",
+    "jp": "影響",
+    "tl": "えいきょう"
+  }
+}

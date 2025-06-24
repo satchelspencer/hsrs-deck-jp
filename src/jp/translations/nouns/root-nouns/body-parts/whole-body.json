@@ -1,0 +1,14 @@
+{
+  "_id": "1t4d8gt68pm",
+  "desc": "the body as a whole",
+  "name": "whole-body",
+  "order": "4",
+  "parents": [
+    "body-parts"
+  ],
+  "props": {
+    "en": "whole body",
+    "jp": "全身",
+    "tl": "ぜんしん"
+  }
+}

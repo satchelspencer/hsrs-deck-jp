@@ -1,0 +1,14 @@
+{
+  "_id": "9s6yur1k7z",
+  "desc": "sense of fear",
+  "name": "fear",
+  "order": "4",
+  "parents": [
+    "abstracts"
+  ],
+  "props": {
+    "en": "fear",
+    "jp": "恐怖",
+    "tl": "きょうふ"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "uvo1oxfkjtc",
+  "desc": "shade",
+  "name": "shadow",
+  "order": "4",
+  "parents": [
+    "seeables"
+  ],
+  "props": {
+    "en": "shadow",
+    "jp": "影",
+    "tl": "かげ"
+  }
+}

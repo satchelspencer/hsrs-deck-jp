@@ -1,0 +1,13 @@
+{
+  "_id": "pv6h2fmfz0b",
+  "name": "death",
+  "order": "4",
+  "parents": [
+    "people-no"
+  ],
+  "props": {
+    "en": "death",
+    "jp": "死",
+    "tl": "し"
+  }
+}

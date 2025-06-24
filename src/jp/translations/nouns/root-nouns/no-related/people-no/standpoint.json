@@ -1,0 +1,14 @@
+{
+  "_id": "tcrba2axueq",
+  "desc": "position on a topic",
+  "name": "standpoint",
+  "order": "4",
+  "parents": [
+    "people-no"
+  ],
+  "props": {
+    "en": "standpoint",
+    "jp": "立場",
+    "tl": "たちば"
+  }
+}
