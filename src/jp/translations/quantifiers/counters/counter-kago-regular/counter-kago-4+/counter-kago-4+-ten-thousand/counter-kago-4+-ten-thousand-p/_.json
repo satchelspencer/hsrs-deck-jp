@@ -1,5 +1,6 @@
 {
   "_id": "zk41nlvsedl",
+  "desc": "unused",
   "name": "counter-kago-4+-ten-thousand-p",
   "params": {
     "root": "counter-roots-kango-4+-p"
@@ -9,5 +10,6 @@
   ],
   "props": {
     "tl": "$.jp"
-  }
+  },
+  "virtual": true
 }

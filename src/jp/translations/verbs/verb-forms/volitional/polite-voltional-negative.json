@@ -1,6 +1,7 @@
 {
   "_id": "qnm5wb2jyza",
   "constraint": "verb",
+  "mode": "----nn",
   "name": "polite-voltional-negative",
   "order": "4",
   "params": {

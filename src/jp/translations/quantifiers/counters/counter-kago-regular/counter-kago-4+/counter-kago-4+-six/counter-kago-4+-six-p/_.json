@@ -1,5 +1,6 @@
 {
   "_id": "v7dqhof1b6q",
+  "desc": "unused",
   "name": "counter-kago-4+-six-p",
   "params": {
     "root": "counter-roots-kango-4+-p"
@@ -9,5 +10,6 @@
   ],
   "props": {
     "tl": "'ろっ'+root.tl"
-  }
+  },
+  "virtual": true
 }

@@ -1,7 +1,7 @@
 {
   "_id": "t65jpb5zqbm",
   "constraint": "verb",
-  "mode": "c",
+  "mode": "c---Nn",
   "name": "reru-negative",
   "params": {
     "reru": "reru-plain"

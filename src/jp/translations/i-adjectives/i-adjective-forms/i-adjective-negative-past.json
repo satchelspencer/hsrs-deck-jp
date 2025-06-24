@@ -1,6 +1,7 @@
 {
   "_id": "aq17rzu4b4k",
   "constraint": "iadj",
+  "mode": "----np",
   "name": "i-adjective-negative-past",
   "order": "3",
   "params": {

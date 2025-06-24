@@ -1,5 +1,6 @@
 {
   "_id": "4spi96v0rix",
+  "desc": "unused",
   "name": "counter-kago-full-one-p",
   "params": {
     "number": "",
@@ -10,5 +11,6 @@
   ],
   "props": {
     "tl": "'いっ'+root.tl"
-  }
+  },
+  "virtual": true
 }

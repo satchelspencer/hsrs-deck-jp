@@ -1,7 +1,7 @@
 {
   "_id": "pr62kavn3n",
   "constraint": "verb",
-  "mode": "P",
+  "mode": "P---NP",
   "name": "reru-polite-negative-past",
   "params": {
     "reru": "reru-plain"

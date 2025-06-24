@@ -1,6 +1,7 @@
 {
   "_id": "w9m1pxexau",
   "constraint": "verb",
+  "mode": "c-s-N",
   "name": "command-form-negative",
   "params": {
     "form": "plain",

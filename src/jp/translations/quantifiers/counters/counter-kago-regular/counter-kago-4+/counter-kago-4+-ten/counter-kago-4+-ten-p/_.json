@@ -1,5 +1,6 @@
 {
   "_id": "stcxc5k0uu",
+  "desc": "unused",
   "name": "counter-kago-4+-ten-p",
   "params": {
     "root": "counter-roots-kango-4+-p"
@@ -9,5 +10,6 @@
   ],
   "props": {
     "tl": "'じっ'+root.tl"
-  }
+  },
+  "virtual": true
 }

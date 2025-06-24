@@ -1,5 +1,6 @@
 {
   "_id": "yp87xk4teas",
+  "desc": "unused",
   "name": "counter-kago-4+-thousand-p",
   "params": {
     "root": "counter-roots-kango-4+-p"
@@ -9,5 +10,6 @@
   ],
   "props": {
     "tl": "$.jp"
-  }
+  },
+  "virtual": true
 }

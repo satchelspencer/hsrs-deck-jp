@@ -1,5 +1,6 @@
 {
   "_id": "vt6l9uzfcm",
+  "desc": "unused",
   "name": "counter-kago-3+three-p",
   "params": {
     "root": "counter-roots-kango-3+-p"
@@ -9,5 +10,6 @@
   ],
   "props": {
     "tl": "$.jp"
-  }
+  },
+  "virtual": true
 }

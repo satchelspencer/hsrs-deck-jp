@@ -1,6 +1,7 @@
 {
   "_id": "1htvkgtgg6l",
   "constraint": "verb",
+  "mode": "----**",
   "name": "verb-nara",
   "order": "4",
   "params": {

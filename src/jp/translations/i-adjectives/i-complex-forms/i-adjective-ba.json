@@ -1,7 +1,7 @@
 {
   "_id": "ungzvtah3nb",
   "constraint": "iadj",
-  "mode": "---w",
+  "mode": "---w**",
   "name": "i-adjective-ba",
   "order": "3",
   "params": {

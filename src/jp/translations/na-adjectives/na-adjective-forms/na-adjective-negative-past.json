@@ -1,6 +1,6 @@
 {
   "_id": "1iotdeo6ynh",
-  "mode": "c",
+  "mode": "c---np",
   "name": "na-adjective-negative-past",
   "order": "2",
   "params": {
@@ -8,7 +8,6 @@
   },
   "parents": [
     "na-adjective-forms",
-    "na-desu-forms",
     "ka-na-forms",
     "nda-na-forms",
     "yo-ne-na-forms",

@@ -1,6 +1,7 @@
 {
   "_id": "dh3ywea2p76",
   "constraint": "verb",
+  "mode": "----**",
   "name": "verb-tara",
   "order": "4",
   "params": {

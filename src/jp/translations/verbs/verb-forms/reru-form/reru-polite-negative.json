@@ -1,7 +1,7 @@
 {
   "_id": "2acqstatcmm",
   "constraint": "verb",
-  "mode": "P",
+  "mode": "P---Nn",
   "name": "reru-polite-negative",
   "params": {
     "reru": "reru-plain"

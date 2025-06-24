@@ -1,6 +1,7 @@
 {
   "_id": "25exd2gpetd",
   "constraint": "iadj",
+  "mode": "----ap",
   "name": "i-adjective-past",
   "order": "2",
   "params": {

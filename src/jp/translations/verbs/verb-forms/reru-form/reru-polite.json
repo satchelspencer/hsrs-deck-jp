@@ -1,7 +1,7 @@
 {
   "_id": "ogcqe0qj1wh",
   "constraint": "verb",
-  "mode": "P",
+  "mode": "P---an",
   "name": "reru-polite",
   "params": {
     "reru": "reru-plain"

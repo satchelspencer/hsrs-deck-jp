@@ -1,6 +1,7 @@
 {
   "_id": "y4zh2z3chjk",
   "constraint": "verb",
+  "mode": "----NP",
   "name": "tai-form-past-negative",
   "order": "3",
   "params": {
