@@ -1,0 +1,17 @@
+{
+  "_id": "yxu8u8p632",
+  "desc": "guard",
+  "name": "watch-over",
+  "order": "4",
+  "parents": [
+    "godan-ru",
+    "people-do",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "watching over",
+    "en": "watch over",
+    "jp": "見守る",
+    "tl": "みまもる"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "nzqaopfv23r",
+  "name": "be-wrong",
+  "order": "4",
+  "parents": [
+    "godan-u",
+    "people-do",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "_st": "wrong",
+    "en": "be wrong",
+    "jp": "間違う",
+    "tl": "まちがう"
+  }
+}

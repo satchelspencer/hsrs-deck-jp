@@ -1,0 +1,15 @@
+{
+  "_id": "ofggvoq7zu",
+  "desc": "drift through the air",
+  "name": "waft",
+  "order": "4",
+  "parents": [
+    "godan-u",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "en": "waft",
+    "jp": "漂う",
+    "tl": "ただよう"
+  }
+}

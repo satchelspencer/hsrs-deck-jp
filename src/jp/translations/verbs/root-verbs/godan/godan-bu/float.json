@@ -1,0 +1,16 @@
+{
+  "_id": "i5cbkjjpp7",
+  "desc": "like on water, to drift",
+  "name": "float",
+  "order": "4",
+  "parents": [
+    "godan-bu",
+    "objects-do",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "en": "float",
+    "jp": "浮かぶ",
+    "tl": "うかぶ"
+  }
+}

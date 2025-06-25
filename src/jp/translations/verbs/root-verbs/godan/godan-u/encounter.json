@@ -1,0 +1,19 @@
+{
+  "_id": "xl09ubqf66q",
+  "desc": "to meet",
+  "name": "encounter",
+  "order": "4",
+  "parents": [
+    "godan-u",
+    "people-do",
+    "ni-person-verbs",
+    "te-iru-verbs-state",
+    "de-location-verbs"
+  ],
+  "props": {
+    "_st": "have encountered",
+    "en": "encounter",
+    "jp": "出会う",
+    "tl": "であう"
+  }
+}

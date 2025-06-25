@@ -1,0 +1,18 @@
+{
+  "_id": "1l2kl3cjeo1",
+  "desc": "come together, assemble",
+  "name": "gather-together",
+  "order": "4",
+  "parents": [
+    "godan-u",
+    "people-do",
+    "ni-at-verbs",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "_st": "gathered together",
+    "en": "gather together",
+    "jp": "揃う",
+    "tl": "そろう"
+  }
+}

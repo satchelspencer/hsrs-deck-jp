@@ -1,0 +1,17 @@
+{
+  "_id": "6es170x4tls",
+  "desc": "i.e a group or parts",
+  "name": "assemble",
+  "order": "4",
+  "parents": [
+    "godan-mu",
+    "people-do",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "assembling",
+    "en": "assemble",
+    "jp": "組む",
+    "tl": "くむ"
+  }
+}

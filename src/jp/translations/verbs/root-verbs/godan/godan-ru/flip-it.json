@@ -1,0 +1,17 @@
+{
+  "_id": "irnmeanskk",
+  "desc": "turn it over, peel it off",
+  "name": "flip-it",
+  "order": "4",
+  "parents": [
+    "godan-ru",
+    "people-do",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "flipping it",
+    "en": "flip it",
+    "jp": "捲る",
+    "tl": "めくる"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "p34kawy4bo",
+  "desc": "include",
+  "name": "contain",
+  "order": "4",
+  "parents": [
+    "godan-mu"
+  ],
+  "props": {
+    "en": "contain",
+    "jp": "含む",
+    "tl": "ふくむ"
+  }
+}

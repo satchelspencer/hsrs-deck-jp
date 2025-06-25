@@ -1,0 +1,16 @@
+{
+  "_id": "sw3672hzrfq",
+  "desc": "approach, like in time",
+  "name": "draw-near",
+  "order": "4",
+  "parents": [
+    "godan-ru",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "drawing near",
+    "en": "draw near",
+    "jp": "迫る",
+    "tl": "せまる"
+  }
+}

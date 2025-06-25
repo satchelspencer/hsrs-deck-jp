@@ -1,0 +1,17 @@
+{
+  "_id": "vkhg7mcr83m",
+  "desc": "or settle in",
+  "name": "calm-down",
+  "order": "4",
+  "parents": [
+    "godan-ku",
+    "people-do",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "_st": "calmed down",
+    "en": "calm down",
+    "jp": "落ち着く",
+    "tl": "おちつく"
+  }
+}

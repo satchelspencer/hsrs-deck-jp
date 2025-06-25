@@ -1,0 +1,18 @@
+{
+  "_id": "5h7qj29s2sv",
+  "desc": "nod your head, in agreement",
+  "name": "nod",
+  "order": "4",
+  "parents": [
+    "godan-ku",
+    "people-do",
+    "ni-person-verbs",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "nodding",
+    "en": "nod",
+    "jp": "頷く",
+    "tl": "うなずく"
+  }
+}

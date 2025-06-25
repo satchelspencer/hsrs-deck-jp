@@ -1,0 +1,16 @@
+{
+  "_id": "f17mf9tggp",
+  "desc": "hide, conceal",
+  "name": "cover-it",
+  "order": "4",
+  "parents": [
+    "godan-u",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "_st": "covering",
+    "en": "cover it",
+    "jp": "覆う",
+    "tl": "おおう"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "nls512o43u",
+  "desc": "carry on your back",
+  "name": "carry-on-shoulders",
+  "order": "4",
+  "parents": [
+    "godan-u",
+    "people-do",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "carrying on shoulders",
+    "en": "carry on shoulders",
+    "jp": "背負う",
+    "tl": "せおう"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "lm7hz3mbjl9",
+  "desc": "reach in an abstract sense",
+  "name": "lead-to",
+  "order": "4",
+  "parents": [
+    "godan-ru"
+  ],
+  "props": {
+    "en": "lead to",
+    "jp": "至る",
+    "tl": "いたる"
+  }
+}

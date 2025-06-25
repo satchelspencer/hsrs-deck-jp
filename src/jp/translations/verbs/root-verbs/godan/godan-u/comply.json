@@ -1,0 +1,17 @@
+{
+  "_id": "87xbfhn0syb",
+  "desc": "obey, abide by",
+  "name": "comply",
+  "order": "4",
+  "parents": [
+    "godan-u",
+    "people-do",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "_st": "compliant",
+    "en": "comply",
+    "jp": "従う",
+    "tl": "したがう"
+  }
+}

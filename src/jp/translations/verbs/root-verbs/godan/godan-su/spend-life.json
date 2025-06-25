@@ -1,0 +1,18 @@
+{
+  "_id": "5c35n6jjhg5",
+  "desc": "live, reside, make a living",
+  "name": "spend-life",
+  "order": "4",
+  "parents": [
+    "godan-su",
+    "people-do",
+    "ni-at-verbs",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "spending life",
+    "en": "spend life",
+    "jp": "暮らす",
+    "tl": "くらす"
+  }
+}

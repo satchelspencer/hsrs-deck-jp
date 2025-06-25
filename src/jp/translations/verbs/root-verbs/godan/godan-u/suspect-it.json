@@ -1,0 +1,19 @@
+{
+  "_id": "kqawwicjvx",
+  "desc": "to doubt",
+  "name": "suspect-it",
+  "order": "4",
+  "parents": [
+    "godan-u",
+    "people-do",
+    "do-to-people",
+    "do-to-informations",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "suspecting it",
+    "en": "suspect it",
+    "jp": "疑う",
+    "tl": "うたがう"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "q0ycnvibevb",
+  "desc": "extract something",
+  "name": "pull-out",
+  "order": "4",
+  "parents": [
+    "godan-ku",
+    "people-do",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "pulling out",
+    "en": "pull out",
+    "jp": "抜く",
+    "tl": "ぬく"
+  }
+}

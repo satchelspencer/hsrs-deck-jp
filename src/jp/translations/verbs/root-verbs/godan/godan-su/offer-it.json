@@ -1,0 +1,19 @@
+{
+  "_id": "uojjvosvnd",
+  "desc": "hand over, present, submit",
+  "name": "offer-it",
+  "order": "4",
+  "parents": [
+    "godan-su",
+    "people-do",
+    "ni-person-verbs",
+    "de-location-verbs",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "offering it",
+    "en": "offer it",
+    "jp": "差し出す",
+    "tl": "さしだす"
+  }
+}

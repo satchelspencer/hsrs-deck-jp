@@ -1,0 +1,17 @@
+{
+  "_id": "hdc8ew5xdit",
+  "desc": "worry about, agonize over",
+  "name": "be-troubled",
+  "order": "4",
+  "parents": [
+    "godan-mu",
+    "people-do",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "_st": "troubled",
+    "en": "be troubled",
+    "jp": "悩む",
+    "tl": "なやむ"
+  }
+}

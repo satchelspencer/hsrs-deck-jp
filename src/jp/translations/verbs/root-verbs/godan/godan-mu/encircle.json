@@ -1,0 +1,16 @@
+{
+  "_id": "kcpdmnnct7k",
+  "desc": "surround, enclose",
+  "name": "encircle",
+  "order": "4",
+  "parents": [
+    "godan-mu",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "_st": "encircled",
+    "en": "encircle",
+    "jp": "囲む",
+    "tl": "かこむ"
+  }
+}

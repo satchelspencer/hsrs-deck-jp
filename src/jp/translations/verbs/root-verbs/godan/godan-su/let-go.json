@@ -1,0 +1,17 @@
+{
+  "_id": "hngvrdjmy5t",
+  "desc": "release, separate",
+  "name": "let-go",
+  "order": "4",
+  "parents": [
+    "godan-su",
+    "people-do",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "letting go",
+    "en": "let go",
+    "jp": "離す",
+    "tl": "はなす"
+  }
+}

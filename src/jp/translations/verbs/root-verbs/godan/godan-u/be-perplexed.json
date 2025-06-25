@@ -1,0 +1,17 @@
+{
+  "_id": "brj7e4u8odf",
+  "desc": "be bewildered, at a loss",
+  "name": "be-perplexed",
+  "order": "4",
+  "parents": [
+    "godan-u",
+    "people-do",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "_st": "perplexed",
+    "en": "be perplexed",
+    "jp": "戸惑う",
+    "tl": "とまどう"
+  }
+}

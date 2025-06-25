@@ -1,0 +1,17 @@
+{
+  "_id": "svmujaohs9",
+  "desc": "flatten, smash",
+  "name": "crush",
+  "order": "4",
+  "parents": [
+    "godan-su",
+    "people-do",
+    "de-location-verbs",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "en": "crush",
+    "jp": "潰す",
+    "tl": "つぶす"
+  }
+}

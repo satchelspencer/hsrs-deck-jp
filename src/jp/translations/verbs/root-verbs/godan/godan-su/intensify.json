@@ -1,0 +1,16 @@
+{
+  "_id": "ha9xhw4i60p",
+  "desc": "increase, grow",
+  "name": "intensify",
+  "order": "4",
+  "parents": [
+    "godan-su",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "_st": "intensified",
+    "en": "intensify",
+    "jp": "増す",
+    "tl": "ます"
+  }
+}

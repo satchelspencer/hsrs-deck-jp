@@ -1,0 +1,18 @@
+{
+  "_id": "jrpiofhpidr",
+  "desc": "make it fly",
+  "name": "launch-it",
+  "order": "4",
+  "parents": [
+    "godan-su",
+    "people-do",
+    "de-location-verbs",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "launching it",
+    "en": "launch it",
+    "jp": "飛ばす",
+    "tl": "とばす"
+  }
+}

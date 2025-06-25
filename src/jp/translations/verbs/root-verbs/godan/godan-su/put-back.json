@@ -1,0 +1,18 @@
+{
+  "_id": "bpj80kbn7tv",
+  "desc": "return it, restore its place",
+  "name": "put-back",
+  "order": "4",
+  "parents": [
+    "godan-su",
+    "people-do",
+    "do-to-objects",
+    "ni-destination-verbs",
+    "ni-person-verbs"
+  ],
+  "props": {
+    "en": "put back",
+    "jp": "戻す",
+    "tl": "もどす"
+  }
+}

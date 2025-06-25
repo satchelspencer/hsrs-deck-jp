@@ -1,0 +1,17 @@
+{
+  "_id": "gdblvv6uyi8",
+  "desc": "rob, sieze, deprive",
+  "name": "snatch",
+  "order": "4",
+  "parents": [
+    "godan-u",
+    "people-do",
+    "do-to-products",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "snatch",
+    "jp": "奪う",
+    "tl": "うばう"
+  }
+}

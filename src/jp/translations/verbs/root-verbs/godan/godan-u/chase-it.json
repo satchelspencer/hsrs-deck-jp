@@ -1,0 +1,21 @@
+{
+  "_id": "7mjsedvmajc",
+  "desc": "pursue",
+  "name": "chase-it",
+  "order": "4",
+  "parents": [
+    "godan-u",
+    "people-do",
+    "do-to-people",
+    "do-to-animals",
+    "animals-do",
+    "te-iru-verbs-continuous",
+    "de-location-verbs"
+  ],
+  "props": {
+    "_pg": "chasing it",
+    "en": "chase it",
+    "jp": "追う",
+    "tl": "おう"
+  }
+}

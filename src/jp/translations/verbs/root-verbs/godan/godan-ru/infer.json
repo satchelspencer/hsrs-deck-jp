@@ -1,0 +1,15 @@
+{
+  "_id": "khhsjshjnke",
+  "desc": "guess by context",
+  "name": "infer",
+  "order": "4",
+  "parents": [
+    "godan-ru",
+    "people-do"
+  ],
+  "props": {
+    "en": "infer",
+    "jp": "察する",
+    "tl": "さっする"
+  }
+}

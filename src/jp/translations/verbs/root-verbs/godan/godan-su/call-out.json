@@ -1,0 +1,19 @@
+{
+  "_id": "0uexm3yt36k",
+  "desc": "summon, invoke",
+  "name": "call-out",
+  "order": "4",
+  "parents": [
+    "godan-su",
+    "people-do",
+    "do-to-people",
+    "ni-destination-verbs",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "calling out",
+    "en": "call out",
+    "jp": "呼び出す",
+    "tl": "よびだす"
+  }
+}

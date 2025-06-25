@@ -1,0 +1,16 @@
+{
+  "_id": "a1ppbgxwuz4",
+  "desc": "drain, flow",
+  "name": "pour",
+  "order": "4",
+  "parents": [
+    "godan-su",
+    "de-location-verbs",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "en": "pour",
+    "jp": "流す",
+    "tl": "ながす"
+  }
+}

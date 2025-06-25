@@ -1,0 +1,16 @@
+{
+  "_id": "iqhfm4qz5fi",
+  "desc": "face towards",
+  "name": "turn-toward",
+  "order": "4",
+  "parents": [
+    "godan-ku",
+    "ni-destination-verbs",
+    "people-do"
+  ],
+  "props": {
+    "en": "turn toward",
+    "jp": "向く",
+    "tl": "むく"
+  }
+}

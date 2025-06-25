@@ -1,0 +1,18 @@
+{
+  "_id": "png3ckyjmli",
+  "desc": "projectile launching",
+  "name": "shoot",
+  "order": "4",
+  "parents": [
+    "godan-tsu",
+    "people-do",
+    "do-to-animals",
+    "de-location-verbs",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "en": "shoot",
+    "jp": "撃つ",
+    "tl": "うつ"
+  }
+}

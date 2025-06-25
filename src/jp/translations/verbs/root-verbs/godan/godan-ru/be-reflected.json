@@ -1,0 +1,17 @@
+{
+  "_id": "6wyys1fochq",
+  "desc": "or appear, like on a screen",
+  "name": "be-reflected",
+  "order": "4",
+  "parents": [
+    "godan-ru",
+    "seeables-do",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "_st": "reflected",
+    "en": "be reflected",
+    "jp": "映る",
+    "tl": "うつる"
+  }
+}

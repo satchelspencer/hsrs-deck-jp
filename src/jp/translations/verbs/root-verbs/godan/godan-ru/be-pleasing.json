@@ -1,0 +1,17 @@
+{
+  "_id": "3cu011ez8e4",
+  "desc": "like, find it agreeable",
+  "name": "be-pleasing",
+  "order": "4",
+  "parents": [
+    "godan-ru",
+    "te-iru-verbs-state",
+    "objects-do"
+  ],
+  "props": {
+    "_st": "pleasing",
+    "en": "be pleasing",
+    "jp": "気に入る",
+    "tl": "きにいる"
+  }
+}

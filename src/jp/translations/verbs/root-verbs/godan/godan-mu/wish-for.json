@@ -1,0 +1,15 @@
+{
+  "_id": "37r0xu9t71",
+  "desc": "hope for",
+  "name": "wish-for",
+  "order": "4",
+  "parents": [
+    "godan-mu",
+    "people-do"
+  ],
+  "props": {
+    "en": "wish for",
+    "jp": "望む",
+    "tl": "のぞむ"
+  }
+}

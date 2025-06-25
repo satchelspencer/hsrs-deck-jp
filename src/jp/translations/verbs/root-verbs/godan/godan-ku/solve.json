@@ -1,0 +1,18 @@
+{
+  "_id": "092xwtyj920k",
+  "desc": "solve it, work it out",
+  "name": "solve",
+  "order": "4",
+  "parents": [
+    "godan-ku",
+    "people-do",
+    "de-location-verbs",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "solving",
+    "en": "solve",
+    "jp": "解く",
+    "tl": "とく"
+  }
+}

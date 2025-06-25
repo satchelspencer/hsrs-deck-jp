@@ -1,0 +1,17 @@
+{
+  "_id": "xp7ciat2dlb",
+  "desc": "bind, connect",
+  "name": "tie-it",
+  "order": "4",
+  "parents": [
+    "godan-bu",
+    "people-do",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "tying it",
+    "en": "tie it",
+    "jp": "結ぶ",
+    "tl": "むすぶ"
+  }
+}

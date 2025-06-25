@@ -1,0 +1,17 @@
+{
+  "_id": "fuoevea7kip",
+  "desc": "expand, widen",
+  "name": "spread-out",
+  "order": "4",
+  "parents": [
+    "godan-ru",
+    "ni-destination-verbs",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "spreading out",
+    "en": "spread out",
+    "jp": "広がる",
+    "tl": "ひろがる"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "5z89ahiiur",
+  "desc": "work well, take effect",
+  "name": "be-effective",
+  "order": "4",
+  "parents": [
+    "godan-ku",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "_st": "effective",
+    "en": "be effective",
+    "jp": "効く",
+    "tl": "きく"
+  }
+}

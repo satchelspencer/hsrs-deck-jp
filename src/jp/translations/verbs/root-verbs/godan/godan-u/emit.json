@@ -1,0 +1,16 @@
+{
+  "_id": "dx41tylwdkl",
+  "desc": "emit",
+  "name": "emit",
+  "order": "4",
+  "parents": [
+    "godan-u",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "emitting",
+    "en": "emit",
+    "jp": "放つ",
+    "tl": "はなつ"
+  }
+}

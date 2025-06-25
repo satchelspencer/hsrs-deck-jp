@@ -1,0 +1,19 @@
+{
+  "_id": "z0zxijfti4a",
+  "desc": "break out",
+  "name": "break-out",
+  "order": "4",
+  "parents": [
+    "godan-su",
+    "animals-do",
+    "people-do",
+    "ni-destination-verbs",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "breaking out",
+    "en": "break out",
+    "jp": "逃げ出す",
+    "tl": "にげだす"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "v2wn1y0wplf",
+  "desc": "grasp",
+  "name": "hold",
+  "order": "4",
+  "parents": [
+    "godan-ru",
+    "people-do",
+    "do-to-objects"
+  ],
+  "props": {
+    "en": "hold",
+    "jp": "握る",
+    "tl": "にぎる"
+  }
+}

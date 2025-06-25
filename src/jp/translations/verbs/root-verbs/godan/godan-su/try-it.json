@@ -1,0 +1,18 @@
+{
+  "_id": "pm6qp4ef5r",
+  "desc": "attempt",
+  "name": "try-it",
+  "order": "4",
+  "parents": [
+    "godan-su",
+    "people-do",
+    "de-location-verbs",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "trying it",
+    "en": "try it",
+    "jp": "試す",
+    "tl": "ためす"
+  }
+}

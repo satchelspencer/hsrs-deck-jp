@@ -1,0 +1,17 @@
+{
+  "_id": "82ec4gnvyh5",
+  "desc": "rotate it",
+  "name": "spin-it",
+  "order": "4",
+  "parents": [
+    "godan-su",
+    "people-do",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "spinning it",
+    "en": "spin it",
+    "jp": "回す",
+    "tl": "まわす"
+  }
+}

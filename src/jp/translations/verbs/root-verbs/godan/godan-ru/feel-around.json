@@ -1,0 +1,17 @@
+{
+  "_id": "xpqu4fljb5j",
+  "desc": "like looking for something in the dark",
+  "name": "feel-around",
+  "order": "4",
+  "parents": [
+    "godan-ru",
+    "people-do",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "feeling around",
+    "en": "feel around",
+    "jp": "探る",
+    "tl": "さぐる"
+  }
+}

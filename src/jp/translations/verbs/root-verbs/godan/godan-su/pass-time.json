@@ -1,0 +1,18 @@
+{
+  "_id": "1cbsi8lclsaj",
+  "desc": "spending time",
+  "name": "pass-time",
+  "order": "4",
+  "parents": [
+    "godan-su",
+    "de-location-verbs",
+    "people-do",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "passing the time",
+    "en": "pass the time",
+    "jp": "過ごす",
+    "tl": "すごす"
+  }
+}

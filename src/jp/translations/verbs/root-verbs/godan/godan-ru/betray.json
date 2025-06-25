@@ -1,0 +1,18 @@
+{
+  "_id": "fspm59wf7qm",
+  "desc": "double cross",
+  "name": "betray",
+  "order": "4",
+  "parents": [
+    "godan-ru",
+    "people-do",
+    "do-to-people",
+    "de-location-verbs",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "en": "betray",
+    "jp": "裏切る",
+    "tl": "うらぎる"
+  }
+}

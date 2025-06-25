@@ -1,0 +1,16 @@
+{
+  "_id": "sdv59zarqu",
+  "desc": "transmit, conduct",
+  "name": "let-through",
+  "order": "4",
+  "parents": [
+    "godan-su",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "letting through",
+    "en": "let through",
+    "jp": "通す",
+    "tl": "とおす"
+  }
+}

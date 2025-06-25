@@ -1,0 +1,16 @@
+{
+  "_id": "4fx8ui51fgh",
+  "desc": "ask someone to join",
+  "name": "invite",
+  "order": "4",
+  "parents": [
+    "godan-u",
+    "people-do",
+    "do-to-people"
+  ],
+  "props": {
+    "en": "invite",
+    "jp": "誘う",
+    "tl": "さそう"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "s0eu4o4fm5",
+  "desc": "aim at, have your signts on",
+  "name": "aim-for",
+  "order": "4",
+  "parents": [
+    "godan-su",
+    "people-do",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "aiming for",
+    "en": "aim for",
+    "jp": "目指す",
+    "tl": "めざす"
+  }
+}

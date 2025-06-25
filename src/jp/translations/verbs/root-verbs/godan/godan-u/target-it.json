@@ -1,0 +1,17 @@
+{
+  "_id": "2fejj9a645u",
+  "desc": "aim at",
+  "name": "target-it",
+  "order": "4",
+  "parents": [
+    "godan-u",
+    "people-do",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "targeting it",
+    "en": "target it",
+    "jp": "狙う",
+    "tl": "ねらう"
+  }
+}

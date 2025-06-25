@@ -1,0 +1,17 @@
+{
+  "_id": "6a85pnvntzn",
+  "desc": "dive into, plunge",
+  "name": "dive-in",
+  "order": "4",
+  "parents": [
+    "godan-mu",
+    "people-do",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "diving in",
+    "en": "dive in",
+    "jp": "飛び込む",
+    "tl": "とびこむ"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "_id": "azqkc63desf",
+  "desc": "strike it, hit it",
+  "name": "punch",
+  "order": "4",
+  "parents": [
+    "godan-ru",
+    "people-do",
+    "do-to-people",
+    "de-location-verbs",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "en": "punch",
+    "jp": "殴る",
+    "tl": "なぐる"
+  }
+}

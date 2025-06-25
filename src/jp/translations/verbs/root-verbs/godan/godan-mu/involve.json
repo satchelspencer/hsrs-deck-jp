@@ -1,0 +1,18 @@
+{
+  "_id": "lbxjnxkkrh9",
+  "desc": "drag into",
+  "name": "involve",
+  "order": "4",
+  "parents": [
+    "godan-mu",
+    "people-do",
+    "do-to-people",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "involving",
+    "en": "involve",
+    "jp": "巻き込む",
+    "tl": "まきこむ"
+  }
+}

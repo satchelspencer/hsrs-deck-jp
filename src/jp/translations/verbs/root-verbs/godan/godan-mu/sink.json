@@ -1,0 +1,15 @@
+{
+  "_id": "g0s6xcygmkp",
+  "desc": "submerge",
+  "name": "sink",
+  "order": "4",
+  "parents": [
+    "godan-mu",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "en": "sink",
+    "jp": "沈む",
+    "tl": "しずむ"
+  }
+}

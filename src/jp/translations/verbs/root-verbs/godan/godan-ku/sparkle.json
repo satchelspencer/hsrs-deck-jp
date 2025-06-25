@@ -1,0 +1,16 @@
+{
+  "_id": "uixcwobf0uc",
+  "desc": "to shine, glitter",
+  "name": "sparkle",
+  "order": "4",
+  "parents": [
+    "godan-ku",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "_st": "sparkling",
+    "en": "sparkle",
+    "jp": "輝く",
+    "tl": "かがやく"
+  }
+}

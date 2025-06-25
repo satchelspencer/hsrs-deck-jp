@@ -1,0 +1,17 @@
+{
+  "_id": "5hav2ijx47q",
+  "desc": "eat",
+  "mode": "cmr",
+  "name": "devour",
+  "order": "4",
+  "parents": [
+    "godan-u",
+    "people-do",
+    "do-to-edibles"
+  ],
+  "props": {
+    "en": "devour",
+    "jp": "食う",
+    "tl": "くう"
+  }
+}

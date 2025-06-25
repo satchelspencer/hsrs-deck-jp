@@ -1,0 +1,17 @@
+{
+  "_id": "3r6f9b213qs",
+  "desc": "pull on, stretch",
+  "name": "drag",
+  "order": "4",
+  "parents": [
+    "godan-ru",
+    "people-do",
+    "animals-do",
+    "ni-destination-verbs"
+  ],
+  "props": {
+    "en": "drag",
+    "jp": "引っ張る",
+    "tl": "ひっぱる"
+  }
+}

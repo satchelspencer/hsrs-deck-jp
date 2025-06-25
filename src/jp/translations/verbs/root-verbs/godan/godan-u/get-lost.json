@@ -1,0 +1,18 @@
+{
+  "_id": "693ctco2iof",
+  "desc": "loose ones way",
+  "name": "get-lost",
+  "order": "4",
+  "parents": [
+    "godan-u",
+    "people-do",
+    "ni-at-verbs",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "_st": "lost",
+    "en": "get lost",
+    "jp": "迷う",
+    "tl": "まよう"
+  }
+}

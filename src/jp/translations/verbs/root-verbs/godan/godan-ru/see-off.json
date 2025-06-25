@@ -1,0 +1,19 @@
+{
+  "_id": "j36oowlr1wp",
+  "desc": "see someone off",
+  "name": "see-off",
+  "order": "4",
+  "parents": [
+    "godan-ru",
+    "do-to-people",
+    "people-do",
+    "de-location-verbs",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "seeing off",
+    "en": "see off",
+    "jp": "見送る",
+    "tl": "みおくる"
+  }
+}

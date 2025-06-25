@@ -1,0 +1,17 @@
+{
+  "_id": "y6kpmz12s7b",
+  "desc": "like a date",
+  "name": "go-out-with",
+  "order": "4",
+  "parents": [
+    "godan-u",
+    "people-do",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "going out with",
+    "en": "go out with",
+    "jp": "付き合う",
+    "tl": "つきあう"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "19c0c76lt0t",
+  "desc": "stretch, strain",
+  "name": "tighten",
+  "order": "4",
+  "parents": [
+    "godan-ru",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "tightening",
+    "en": "tighten",
+    "jp": "張る",
+    "tl": "はる"
+  }
+}

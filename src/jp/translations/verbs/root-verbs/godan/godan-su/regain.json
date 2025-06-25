@@ -1,0 +1,16 @@
+{
+  "_id": "w32dkyrsjl",
+  "desc": "take back, recover",
+  "name": "regain",
+  "order": "4",
+  "parents": [
+    "godan-su",
+    "people-do",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "en": "regain",
+    "jp": "取り戻す",
+    "tl": "とりもどす"
+  }
+}

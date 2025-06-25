@@ -1,0 +1,15 @@
+{
+  "_id": "abvhq99rp0d",
+  "desc": "fulfill, carry out",
+  "name": "accomplish",
+  "order": "4",
+  "parents": [
+    "godan-su",
+    "people-do"
+  ],
+  "props": {
+    "en": "accomplish",
+    "jp": "果たす",
+    "tl": "はたす"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "os4m988chzq",
+  "desc": "echo",
+  "name": "reverberate",
+  "order": "4",
+  "parents": [
+    "godan-ku",
+    "ni-at-verbs",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "reverberating",
+    "en": "reverberate",
+    "jp": "響く",
+    "tl": "ひびく"
+  }
+}

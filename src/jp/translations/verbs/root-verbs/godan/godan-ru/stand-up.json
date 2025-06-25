@@ -1,0 +1,18 @@
+{
+  "_id": "yf5x4a4sjt",
+  "desc": "rise",
+  "name": "stand-up",
+  "order": "4",
+  "parents": [
+    "godan-ru",
+    "people-do",
+    "animals-do",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "_st": "standing up",
+    "en": "stand up",
+    "jp": "立ち上がる",
+    "tl": "たちあがる"
+  }
+}

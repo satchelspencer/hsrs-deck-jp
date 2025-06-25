@@ -1,0 +1,16 @@
+{
+  "_id": "hr8zvww1ka",
+  "desc": "decline, reject",
+  "name": "refuse",
+  "order": "4",
+  "parents": [
+    "godan-ru",
+    "people-do",
+    "ni-person-verbs"
+  ],
+  "props": {
+    "en": "refuse",
+    "jp": "断る",
+    "tl": "ことわる"
+  }
+}

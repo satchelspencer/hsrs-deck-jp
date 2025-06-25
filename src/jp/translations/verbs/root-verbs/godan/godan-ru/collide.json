@@ -1,0 +1,16 @@
+{
+  "_id": "87wmkvr1tw3",
+  "desc": "bumping into",
+  "name": "collide",
+  "order": "4",
+  "parents": [
+    "godan-ru",
+    "movers-do",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "colliding",
+    "en": "collide",
+    "jp": "ぶつかる"
+  }
+}

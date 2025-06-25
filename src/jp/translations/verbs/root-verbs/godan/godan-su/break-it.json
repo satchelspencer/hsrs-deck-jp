@@ -1,0 +1,19 @@
+{
+  "_id": "j65257jkez",
+  "desc": "destroy, smash",
+  "name": "break-it",
+  "order": "4",
+  "parents": [
+    "godan-su",
+    "people-do",
+    "do-to-objects",
+    "animals-do",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "breaking it",
+    "en": "break it",
+    "jp": "壊す",
+    "tl": "こわす"
+  }
+}

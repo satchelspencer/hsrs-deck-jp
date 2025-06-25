@@ -1,0 +1,18 @@
+{
+  "_id": "p2e179l8g6",
+  "desc": "as in defeat, knock down",
+  "name": "topple",
+  "order": "4",
+  "parents": [
+    "godan-su",
+    "people-do",
+    "do-to-people",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "toppling",
+    "en": "topple",
+    "jp": "倒す",
+    "tl": "たおす"
+  }
+}

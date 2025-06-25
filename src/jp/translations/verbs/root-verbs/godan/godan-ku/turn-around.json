@@ -1,0 +1,20 @@
+{
+  "_id": "r5qgihshig",
+  "desc": "look back",
+  "name": "turn-around",
+  "order": "4",
+  "parents": [
+    "godan-ku",
+    "people-do",
+    "animals-do",
+    "ni-destination-verbs",
+    "ni-person-verbs",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "_st": "turned around",
+    "en": "turn around",
+    "jp": "振り向く",
+    "tl": "ふりむく"
+  }
+}

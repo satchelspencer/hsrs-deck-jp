@@ -1,0 +1,16 @@
+{
+  "_id": "ancihecnfq",
+  "desc": "depend on",
+  "name": "rely-on",
+  "order": "4",
+  "parents": [
+    "godan-ru",
+    "people-do",
+    "ni-person-verbs"
+  ],
+  "props": {
+    "en": "rely on",
+    "jp": "頼る",
+    "tl": "たよる"
+  }
+}

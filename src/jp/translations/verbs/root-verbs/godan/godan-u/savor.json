@@ -1,0 +1,18 @@
+{
+  "_id": "85eo3x9roe2",
+  "desc": "taste, enjoy",
+  "name": "savor",
+  "order": "4",
+  "parents": [
+    "godan-u",
+    "people-do",
+    "do-to-edibles",
+    "de-location-verbs",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "en": "savor",
+    "jp": "味わう",
+    "tl": "あじわう"
+  }
+}

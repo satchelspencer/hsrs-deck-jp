@@ -1,0 +1,18 @@
+{
+  "_id": "2ikxcdt3zj7",
+  "desc": "be quiet",
+  "name": "fall-silent",
+  "order": "4",
+  "parents": [
+    "godan-ru",
+    "people-do",
+    "te-iru-verbs-state",
+    "animals-do"
+  ],
+  "props": {
+    "_st": "silent",
+    "en": "fall silent",
+    "jp": "黙る",
+    "tl": "だまる"
+  }
+}

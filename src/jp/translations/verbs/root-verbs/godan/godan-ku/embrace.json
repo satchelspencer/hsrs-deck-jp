@@ -1,0 +1,19 @@
+{
+  "_id": "pufk1p2cpy9",
+  "desc": "hold in your arms",
+  "name": "embrace",
+  "order": "4",
+  "parents": [
+    "godan-ku",
+    "people-do",
+    "do-to-people",
+    "de-location-verbs",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "embracing",
+    "en": "embrace",
+    "jp": "抱く",
+    "tl": "だく"
+  }
+}

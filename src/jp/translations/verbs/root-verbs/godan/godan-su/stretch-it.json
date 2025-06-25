@@ -1,0 +1,18 @@
+{
+  "_id": "n2t13hrnd2",
+  "desc": "extend it, lengthen it",
+  "name": "stretch-it",
+  "order": "4",
+  "parents": [
+    "godan-su",
+    "people-do",
+    "ni-destination-verbs",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "stretching it",
+    "en": "stretch it",
+    "jp": "伸ばす",
+    "tl": "のばす"
+  }
+}

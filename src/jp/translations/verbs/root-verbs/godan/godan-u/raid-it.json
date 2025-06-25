@@ -1,0 +1,18 @@
+{
+  "_id": "zf7bgv824y9",
+  "desc": "attack it, strike it",
+  "name": "raid-it",
+  "order": "4",
+  "parents": [
+    "godan-u",
+    "people-do",
+    "de-location-verbs",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "raiding it",
+    "en": "raid it",
+    "jp": "襲う",
+    "tl": "おそう"
+  }
+}

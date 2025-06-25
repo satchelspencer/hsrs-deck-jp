@@ -1,0 +1,18 @@
+{
+  "_id": "jwaxozs1hje",
+  "desc": "leave, go away",
+  "name": "depart",
+  "order": "4",
+  "parents": [
+    "godan-ru",
+    "people-do",
+    "do-to-places",
+    "do-with-transports",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "en": "depart",
+    "jp": "去る",
+    "tl": "さる"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "y1c70vj97ph",
+  "desc": "to suit (someone)",
+  "name": "look-good-on",
+  "order": "4",
+  "parents": [
+    "godan-u",
+    "ni-person-verbs",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "_st": "good looking on",
+    "en": "look good on",
+    "jp": "似合う",
+    "tl": "にあう"
+  }
+}

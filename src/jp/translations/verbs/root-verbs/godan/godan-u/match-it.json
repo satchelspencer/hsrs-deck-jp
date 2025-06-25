@@ -1,0 +1,16 @@
+{
+  "_id": "0w2wkzt4gmqf",
+  "desc": "suit it, fit it",
+  "name": "match-it",
+  "order": "4",
+  "parents": [
+    "godan-u",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "_st": "matched",
+    "en": "match it",
+    "jp": "合う",
+    "tl": "あう"
+  }
+}

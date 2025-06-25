@@ -1,0 +1,18 @@
+{
+  "_id": "w2n08clincd",
+  "desc": "exclaim, shout",
+  "name": "cry-out",
+  "order": "4",
+  "parents": [
+    "godan-bu",
+    "people-do",
+    "ni-person-verbs",
+    "de-location-verbs",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "en": "cry out",
+    "jp": "叫ぶ",
+    "tl": "さけぶ"
+  }
+}
