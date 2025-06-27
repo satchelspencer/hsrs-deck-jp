@@ -1,0 +1,13 @@
+{
+  "_id": "wrtbcp5gf9",
+  "name": "lightly-forgive",
+  "params": {
+    "adv": "lightly",
+    "verb": "forgive"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

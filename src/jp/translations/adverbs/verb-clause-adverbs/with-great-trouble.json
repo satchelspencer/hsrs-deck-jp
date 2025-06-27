@@ -1,0 +1,13 @@
+{
+  "_id": "tr0st833bum",
+  "desc": "at great pains, especially",
+  "name": "with-great-trouble",
+  "order": "4",
+  "parents": [
+    "verb-clause-adverbs"
+  ],
+  "props": {
+    "en": "with great trouble",
+    "jp": "せっかく"
+  }
+}

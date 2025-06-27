@@ -1,0 +1,12 @@
+{
+  "_id": "2q5zqzryuqg",
+  "name": "continuously",
+  "order": "4",
+  "parents": [
+    "any-verb-adverbs"
+  ],
+  "props": {
+    "en": "continuously",
+    "jp": "ずっと"
+  }
+}

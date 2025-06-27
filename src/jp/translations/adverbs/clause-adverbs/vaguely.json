@@ -1,0 +1,14 @@
+{
+  "_id": "qi5j6kx4dz7",
+  "desc": "for some reason, idk why",
+  "name": "vaguely",
+  "order": "4",
+  "parents": [
+    "clause-adverbs"
+  ],
+  "props": {
+    "en": "vaguely",
+    "jp": "何となく",
+    "tl": "なんとなく"
+  }
+}

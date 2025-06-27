@@ -1,0 +1,13 @@
+{
+  "_id": "dflao9vr3n",
+  "name": "lightly-loose",
+  "params": {
+    "adv": "lightly",
+    "verb": "be-defeated"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

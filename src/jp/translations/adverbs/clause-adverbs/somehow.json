@@ -1,0 +1,13 @@
+{
+  "_id": "qedw7z8za2m",
+  "name": "somehow",
+  "order": "4",
+  "parents": [
+    "clause-adverbs"
+  ],
+  "props": {
+    "en": "somehow",
+    "jp": "何だか",
+    "tl": "なんだか"
+  }
+}

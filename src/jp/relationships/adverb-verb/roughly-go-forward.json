@@ -1,0 +1,13 @@
+{
+  "_id": "wz9ckaucw2",
+  "name": "roughly-go-forward",
+  "params": {
+    "adv": "roughly",
+    "verb": "go-forward"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

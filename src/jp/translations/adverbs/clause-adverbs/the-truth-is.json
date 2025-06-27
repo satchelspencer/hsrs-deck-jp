@@ -1,0 +1,14 @@
+{
+  "_id": "juu8rf0bw8",
+  "desc": "actually",
+  "name": "the-truth-is",
+  "order": "4",
+  "parents": [
+    "clause-adverbs"
+  ],
+  "props": {
+    "en": "the truth is",
+    "jp": "実は",
+    "tl": "じつは"
+  }
+}

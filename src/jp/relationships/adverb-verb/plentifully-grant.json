@@ -1,0 +1,13 @@
+{
+  "_id": "qqchg4bfybs",
+  "name": "plentifully-grant",
+  "params": {
+    "adv": "plentifully",
+    "verb": "grant-it"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

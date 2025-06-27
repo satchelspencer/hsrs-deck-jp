@@ -1,0 +1,13 @@
+{
+  "_id": "d4pzk043gfl",
+  "name": "lightly-break-up",
+  "params": {
+    "adv": "lightly",
+    "verb": "break-up"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

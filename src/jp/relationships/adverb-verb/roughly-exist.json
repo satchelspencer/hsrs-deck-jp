@@ -1,0 +1,13 @@
+{
+  "_id": "vmdq4nqg7x",
+  "name": "roughly-exist",
+  "params": {
+    "adv": "roughly",
+    "verb": "exit"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

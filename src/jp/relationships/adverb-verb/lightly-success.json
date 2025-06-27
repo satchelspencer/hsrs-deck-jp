@@ -1,0 +1,13 @@
+{
+  "_id": "pujo65zh6r",
+  "name": "lightly-success",
+  "params": {
+    "adv": "lightly",
+    "verb": "success"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

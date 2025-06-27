@@ -1,0 +1,13 @@
+{
+  "_id": "t78coz1b347",
+  "name": "lightly-end",
+  "params": {
+    "adv": "lightly",
+    "verb": "end"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

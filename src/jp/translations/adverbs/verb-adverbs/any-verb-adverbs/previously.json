@@ -1,0 +1,14 @@
+{
+  "_id": "j5o3515sit",
+  "mode": "----ap",
+  "name": "previously",
+  "order": "4",
+  "parents": [
+    "any-verb-adverbs"
+  ],
+  "props": {
+    "en": "previously",
+    "jp": "既に",
+    "tl": "すでに"
+  }
+}

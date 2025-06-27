@@ -1,0 +1,14 @@
+{
+  "_id": "1wyntcwt63",
+  "desc": "finally, at last",
+  "mode": "-----p",
+  "name": "after-all-that",
+  "order": "4",
+  "parents": [
+    "verb-clause-adverbs"
+  ],
+  "props": {
+    "en": "after all that",
+    "jp": "ようやく"
+  }
+}

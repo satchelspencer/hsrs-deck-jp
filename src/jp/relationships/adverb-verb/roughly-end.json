@@ -1,0 +1,13 @@
+{
+  "_id": "u9fjhaj8hm",
+  "name": "roughly-end",
+  "params": {
+    "adv": "roughly",
+    "verb": "end"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

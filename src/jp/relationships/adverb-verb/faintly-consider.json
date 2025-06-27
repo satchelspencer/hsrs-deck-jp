@@ -1,0 +1,13 @@
+{
+  "_id": "tgmhdicco5d",
+  "name": "faintly-consider",
+  "params": {
+    "adv": "faintly",
+    "verb": "consider"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

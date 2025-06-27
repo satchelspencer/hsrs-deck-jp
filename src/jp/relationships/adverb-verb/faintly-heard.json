@@ -1,0 +1,13 @@
+{
+  "_id": "3ae3yjd3ze4",
+  "name": "faintly-heard",
+  "params": {
+    "adv": "faintly",
+    "verb": "be-heard"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

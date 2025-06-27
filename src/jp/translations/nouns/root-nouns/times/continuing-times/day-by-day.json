@@ -1,0 +1,14 @@
+{
+  "_id": "ji3046plj5h",
+  "mode": "p",
+  "name": "day-by-day",
+  "order": "4",
+  "parents": [
+    "continuing-times"
+  ],
+  "props": {
+    "en": "day by day",
+    "jp": "日々",
+    "tl": "ひび"
+  }
+}

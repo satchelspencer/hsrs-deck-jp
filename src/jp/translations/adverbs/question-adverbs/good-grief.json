@@ -1,0 +1,14 @@
+{
+  "_id": "y08k5zv5gf",
+  "name": "good-grief",
+  "order": "4",
+  "parents": [
+    "question-adverbs",
+    "clause-adverbs"
+  ],
+  "props": {
+    "en": "good grief",
+    "jp": "全く",
+    "tl": "まったく"
+  }
+}

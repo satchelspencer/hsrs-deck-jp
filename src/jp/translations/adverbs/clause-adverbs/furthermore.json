@@ -1,0 +1,13 @@
+{
+  "_id": "sfuk8l9prk",
+  "desc": "more and more, even more",
+  "name": "furthermore",
+  "order": "4",
+  "parents": [
+    "clause-adverbs"
+  ],
+  "props": {
+    "en": "furthermore",
+    "jp": "さらに"
+  }
+}

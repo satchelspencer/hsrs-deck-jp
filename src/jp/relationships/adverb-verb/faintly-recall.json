@@ -1,0 +1,13 @@
+{
+  "_id": "j2fra3imdhs",
+  "name": "faintly-recall",
+  "params": {
+    "adv": "faintly",
+    "verb": "recall"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

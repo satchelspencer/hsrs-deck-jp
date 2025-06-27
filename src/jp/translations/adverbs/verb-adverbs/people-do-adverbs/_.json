@@ -1,0 +1,10 @@
+{
+  "_id": "iq43r8f9j9o",
+  "name": "people-do-adverbs",
+  "parents": [
+    "verb-adverbs"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

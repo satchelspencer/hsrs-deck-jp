@@ -1,0 +1,13 @@
+{
+  "_id": "bw3p6veiei",
+  "name": "faintly-shine",
+  "params": {
+    "adv": "faintly",
+    "verb": "shine"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

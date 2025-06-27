@@ -1,0 +1,14 @@
+{
+  "_id": "cfje0ai7gnq",
+  "desc": "not anymore",
+  "mode": "----nn",
+  "name": "too-late",
+  "order": "4",
+  "parents": [
+    "clause-adverbs"
+  ],
+  "props": {
+    "en": "too late",
+    "jp": "もはや"
+  }
+}

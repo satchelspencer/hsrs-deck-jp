@@ -1,0 +1,13 @@
+{
+  "_id": "jgjk674boi",
+  "name": "plentifully-sleep",
+  "params": {
+    "adv": "plentifully",
+    "verb": "sleep"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

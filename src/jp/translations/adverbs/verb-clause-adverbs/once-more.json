@@ -1,0 +1,14 @@
+{
+  "_id": "72ozvq4rpm5",
+  "desc": "again, a second time",
+  "name": "once-more",
+  "order": "4",
+  "parents": [
+    "verb-clause-adverbs"
+  ],
+  "props": {
+    "en": "once more",
+    "jp": "再び",
+    "tl": "ふたたび"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "lm6krfxxgqf",
+  "desc": "for instance",
+  "name": "for-example",
+  "order": "4",
+  "parents": [
+    "clause-adverbs"
+  ],
+  "props": {
+    "en": "for example",
+    "jp": "例えば",
+    "tl": "たとえば"
+  }
+}

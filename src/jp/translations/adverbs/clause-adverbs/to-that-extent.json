@@ -1,0 +1,13 @@
+{
+  "_id": "v3c7blr0tx",
+  "desc": "such, that much",
+  "name": "to-that-extent",
+  "order": "4",
+  "parents": [
+    "clause-adverbs"
+  ],
+  "props": {
+    "en": "to that extent",
+    "jp": "あんなに"
+  }
+}

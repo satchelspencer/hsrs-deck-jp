@@ -1,0 +1,14 @@
+{
+  "_id": "g82yxfrtmvs",
+  "desc": "above all",
+  "name": "more-than-anything",
+  "order": "4",
+  "parents": [
+    "clause-adverbs"
+  ],
+  "props": {
+    "en": "more than anything",
+    "jp": "何より",
+    "tl": "なにより"
+  }
+}

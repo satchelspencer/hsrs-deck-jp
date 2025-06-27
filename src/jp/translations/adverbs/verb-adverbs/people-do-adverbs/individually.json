@@ -1,0 +1,13 @@
+{
+  "_id": "dw1mpf6k6hu",
+  "desc": "each",
+  "name": "individually",
+  "order": "4",
+  "parents": [
+    "people-do-adverbs"
+  ],
+  "props": {
+    "en": "individually",
+    "jp": "それぞれ"
+  }
+}

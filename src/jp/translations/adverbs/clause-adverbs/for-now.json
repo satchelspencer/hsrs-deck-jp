@@ -1,0 +1,12 @@
+{
+  "_id": "fnzn2hegf1o",
+  "name": "for-now",
+  "order": "4",
+  "parents": [
+    "clause-adverbs"
+  ],
+  "props": {
+    "en": "for now",
+    "jp": "とりあえず"
+  }
+}

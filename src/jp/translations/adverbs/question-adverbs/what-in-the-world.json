@@ -1,0 +1,14 @@
+{
+  "_id": "7jw5yr5duit",
+  "desc": "used with questions",
+  "name": "what-in-the-world",
+  "order": "4",
+  "parents": [
+    "question-adverbs"
+  ],
+  "props": {
+    "en": "what in the world",
+    "jp": "一体",
+    "tl": "いったい"
+  }
+}

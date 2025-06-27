@@ -1,0 +1,14 @@
+{
+  "_id": "bdza0wgekl",
+  "desc": "almost, nearly",
+  "mode": "-----p",
+  "name": "roughly",
+  "order": "4",
+  "parents": [
+    "verb-adverbs"
+  ],
+  "props": {
+    "en": "roughly",
+    "jp": "ほぼ"
+  }
+}

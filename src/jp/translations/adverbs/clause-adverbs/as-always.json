@@ -1,0 +1,14 @@
+{
+  "_id": "vrfpux3fcc9",
+  "desc": "as ever, still",
+  "name": "as-always",
+  "order": "4",
+  "parents": [
+    "clause-adverbs"
+  ],
+  "props": {
+    "en": "as always",
+    "jp": "相変わらず",
+    "tl": "あいかわらず"
+  }
+}

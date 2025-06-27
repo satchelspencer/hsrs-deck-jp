@@ -1,0 +1,13 @@
+{
+  "_id": "ijl2lvgszg",
+  "name": "plentifully-savor",
+  "params": {
+    "adv": "plentifully",
+    "verb": "savor"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

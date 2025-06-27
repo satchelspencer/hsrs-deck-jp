@@ -1,0 +1,14 @@
+{
+  "_id": "9q3d4si4krr",
+  "desc": "no less than",
+  "name": "at-the-very-least",
+  "order": "4",
+  "parents": [
+    "clause-adverbs"
+  ],
+  "props": {
+    "en": "at the very least",
+    "jp": "少なくとも",
+    "tl": "すくなくとも"
+  }
+}

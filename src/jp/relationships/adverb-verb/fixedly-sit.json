@@ -1,0 +1,13 @@
+{
+  "_id": "w2wt9k231ha",
+  "name": "fixedly-sit",
+  "params": {
+    "adv": "motionlessly",
+    "verb": "sit"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "_id": "ppyrshjq4v",
+  "desc": "in the first place, to begin with",
+  "mode": "-----p",
+  "name": "originally",
+  "order": "4",
+  "parents": [
+    "question-adverbs",
+    "clause-adverbs"
+  ],
+  "props": {
+    "en": "originally",
+    "jp": "そもそも"
+  }
+}

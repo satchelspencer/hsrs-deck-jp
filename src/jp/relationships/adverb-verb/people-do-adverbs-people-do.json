@@ -1,0 +1,13 @@
+{
+  "_id": "9bc4wd0vopu",
+  "name": "people-do-adverbs-people-do",
+  "params": {
+    "adv": "people-do-adverbs",
+    "verb": "people-do"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

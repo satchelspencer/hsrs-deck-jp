@@ -1,0 +1,14 @@
+{
+  "_id": "hi1pbgjjybu",
+  "desc": "preciesly, truely",
+  "name": "exactly",
+  "order": "4",
+  "parents": [
+    "clause-adverbs"
+  ],
+  "props": {
+    "en": "exactly",
+    "jp": "正に",
+    "tl": "まさに"
+  }
+}

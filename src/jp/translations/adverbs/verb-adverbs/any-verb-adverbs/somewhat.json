@@ -1,0 +1,16 @@
+{
+  "_id": "hkcuc6q59ep",
+  "desc": "to some extent",
+  "name": "somewhat",
+  "order": "4",
+  "parents": [
+    "any-verb-adverbs",
+    "i-adverbs",
+    "na-adverbs"
+  ],
+  "props": {
+    "en": "somewhat",
+    "jp": "多少",
+    "tl": "たしょう"
+  }
+}

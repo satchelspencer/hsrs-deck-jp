@@ -1,0 +1,13 @@
+{
+  "_id": "k955lfblper",
+  "name": "plentifully-drink",
+  "params": {
+    "adv": "plentifully",
+    "verb": "drink"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

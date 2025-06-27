@@ -1,0 +1,13 @@
+{
+  "_id": "wd1mdpw7ken",
+  "desc": "somehow, for an unknown reason",
+  "name": "for-some-reason",
+  "order": "4",
+  "parents": [
+    "clause-adverbs"
+  ],
+  "props": {
+    "en": "for some reason",
+    "jp": "なぜか"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "1c2s1sqykxo",
+  "desc": "easly",
+  "name": "lightly",
+  "order": "4",
+  "parents": [
+    "verb-adverbs"
+  ],
+  "props": {
+    "en": "lightly",
+    "jp": "あっさり"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "fiq72zlc3vo",
+  "name": "faintly-understood",
+  "params": {
+    "adv": "faintly",
+    "verb": "be-understood"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

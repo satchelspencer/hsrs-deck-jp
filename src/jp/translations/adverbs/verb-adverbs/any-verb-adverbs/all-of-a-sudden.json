@@ -1,0 +1,14 @@
+{
+  "_id": "wg7r6ic7qd",
+  "desc": "without warning",
+  "mode": "c",
+  "name": "all-of-a-sudden",
+  "order": "4",
+  "parents": [
+    "any-verb-adverbs"
+  ],
+  "props": {
+    "en": "all of a sudden",
+    "jp": "いきなり"
+  }
+}

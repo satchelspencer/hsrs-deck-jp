@@ -1,0 +1,14 @@
+{
+  "_id": "kqo27tl8qep",
+  "desc": "after that",
+  "mode": "-----p",
+  "name": "and-then",
+  "order": "4",
+  "parents": [
+    "clause-adverbs"
+  ],
+  "props": {
+    "en": "and then",
+    "jp": "そして"
+  }
+}

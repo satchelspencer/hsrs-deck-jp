@@ -1,0 +1,13 @@
+{
+  "_id": "gy1nlawcca5",
+  "name": "faintly-remain",
+  "params": {
+    "adv": "faintly",
+    "verb": "be-left-over"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

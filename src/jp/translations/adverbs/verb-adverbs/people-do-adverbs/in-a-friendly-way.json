@@ -1,0 +1,13 @@
+{
+  "_id": "80f5uf0v4w5",
+  "name": "in-a-friendly-way",
+  "order": "4",
+  "parents": [
+    "people-do-adverbs"
+  ],
+  "props": {
+    "en": "in a friendly way",
+    "jp": "仲良く",
+    "tl": "なかよく"
+  }
+}

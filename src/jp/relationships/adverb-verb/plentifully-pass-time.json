@@ -1,0 +1,13 @@
+{
+  "_id": "ksw675yyonn",
+  "name": "plentifully-pass-time",
+  "params": {
+    "adv": "plentifully",
+    "verb": "pass-time"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

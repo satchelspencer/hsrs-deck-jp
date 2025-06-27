@@ -1,0 +1,14 @@
+{
+  "_id": "4e49odn8jpr",
+  "desc": "indeed, really",
+  "name": "truly",
+  "order": "4",
+  "parents": [
+    "i-adverbs"
+  ],
+  "props": {
+    "en": "truly",
+    "jp": "実に",
+    "tl": "じつに"
+  }
+}

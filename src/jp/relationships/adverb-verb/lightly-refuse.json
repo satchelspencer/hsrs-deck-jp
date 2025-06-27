@@ -1,0 +1,13 @@
+{
+  "_id": "vsth7gi54z",
+  "name": "lightly-refuse",
+  "params": {
+    "adv": "lightly",
+    "verb": "refuse"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

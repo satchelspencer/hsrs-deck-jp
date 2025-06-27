@@ -10,7 +10,7 @@
     "complex-clauses"
   ],
   "props": {
-    "en": "adv.en+' '+clause.en",
+    "en": "adv.en+', '+clause.en",
     "jp": "adv.jp+clause.jp"
   }
 }

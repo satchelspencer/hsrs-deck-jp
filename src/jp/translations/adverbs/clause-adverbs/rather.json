@@ -1,0 +1,13 @@
+{
+  "_id": "rjbwzojmuv",
+  "desc": "instead",
+  "name": "rather",
+  "order": "4",
+  "parents": [
+    "clause-adverbs"
+  ],
+  "props": {
+    "en": "rather",
+    "jp": "むしろ"
+  }
+}

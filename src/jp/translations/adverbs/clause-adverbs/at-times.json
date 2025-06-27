@@ -1,0 +1,14 @@
+{
+  "_id": "cc0y02ecp7",
+  "desc": "occasionally",
+  "name": "at-times",
+  "order": "4",
+  "parents": [
+    "clause-adverbs"
+  ],
+  "props": {
+    "en": "at times",
+    "jp": "時には",
+    "tl": "ときには"
+  }
+}

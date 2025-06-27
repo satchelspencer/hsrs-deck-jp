@@ -1,0 +1,13 @@
+{
+  "_id": "n26taduu3wr",
+  "name": "faintly-visible",
+  "params": {
+    "adv": "faintly",
+    "verb": "be-seen"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

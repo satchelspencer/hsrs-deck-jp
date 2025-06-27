@@ -1,0 +1,13 @@
+{
+  "_id": "qjqevel2x2d",
+  "desc": "someday",
+  "name": "someday",
+  "order": "4",
+  "parents": [
+    "verb-clause-adverbs"
+  ],
+  "props": {
+    "en": "someday",
+    "jp": "いつか"
+  }
+}

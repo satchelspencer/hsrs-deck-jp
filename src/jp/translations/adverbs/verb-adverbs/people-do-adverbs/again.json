@@ -1,0 +1,14 @@
+{
+  "_id": "5oafhih22g6",
+  "desc": "once more",
+  "name": "again",
+  "order": "4",
+  "parents": [
+    "people-do-adverbs"
+  ],
+  "props": {
+    "en": "again",
+    "jp": "改めて",
+    "tl": "あらためて"
+  }
+}

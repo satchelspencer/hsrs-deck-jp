@@ -1,0 +1,13 @@
+{
+  "_id": "al3wo17u88",
+  "desc": "gently",
+  "name": "softly",
+  "order": "4",
+  "parents": [
+    "people-do-adverbs"
+  ],
+  "props": {
+    "en": "softly",
+    "jp": "そっと"
+  }
+}

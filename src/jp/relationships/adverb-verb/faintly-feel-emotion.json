@@ -1,0 +1,13 @@
+{
+  "_id": "h728aqsdq3",
+  "name": "faintly-feel-emotion",
+  "params": {
+    "adv": "faintly",
+    "verb": "feel-emotion"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

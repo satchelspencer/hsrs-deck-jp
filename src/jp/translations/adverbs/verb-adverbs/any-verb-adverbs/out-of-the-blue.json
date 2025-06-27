@@ -1,0 +1,15 @@
+{
+  "_id": "846prr5vbm3",
+  "desc": "suddenly",
+  "mode": "-----p",
+  "name": "out-of-the-blue",
+  "order": "4",
+  "parents": [
+    "any-verb-adverbs"
+  ],
+  "props": {
+    "en": "out of the blue",
+    "jp": "不意に",
+    "tl": "ふいに"
+  }
+}

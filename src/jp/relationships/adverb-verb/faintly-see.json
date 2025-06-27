@@ -1,0 +1,13 @@
+{
+  "_id": "z5p3hgldquj",
+  "name": "faintly-see",
+  "params": {
+    "adv": "faintly",
+    "verb": "see"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

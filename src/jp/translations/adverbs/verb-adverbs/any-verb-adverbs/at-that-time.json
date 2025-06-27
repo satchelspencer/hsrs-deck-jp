@@ -1,0 +1,13 @@
+{
+  "_id": "2do1yflz8b",
+  "name": "at-that-time",
+  "order": "4",
+  "parents": [
+    "any-verb-adverbs"
+  ],
+  "props": {
+    "en": "at that time",
+    "jp": "当時",
+    "tl": "とうじ"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "_id": "eapk25q3yqf",
+  "desc": "just now",
+  "mode": "-----p",
+  "name": "a-moment-ago",
+  "order": "4",
+  "parents": [
+    "verb-clause-adverbs"
+  ],
+  "props": {
+    "en": "a moment ago",
+    "jp": "先ほど",
+    "tl": "さきほど"
+  }
+}

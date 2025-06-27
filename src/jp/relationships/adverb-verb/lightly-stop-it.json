@@ -1,0 +1,13 @@
+{
+  "_id": "ahu1b9yprk",
+  "name": "lightly-stop-it",
+  "params": {
+    "adv": "lightly",
+    "verb": "stop-it"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

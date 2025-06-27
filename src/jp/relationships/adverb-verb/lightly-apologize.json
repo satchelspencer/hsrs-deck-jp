@@ -1,0 +1,13 @@
+{
+  "_id": "xsoqzwj4zyk",
+  "name": "lightly-apologize",
+  "params": {
+    "adv": "lightly",
+    "verb": "apologize"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

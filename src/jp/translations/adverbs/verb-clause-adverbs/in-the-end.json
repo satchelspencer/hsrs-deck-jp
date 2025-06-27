@@ -1,0 +1,14 @@
+{
+  "_id": "mg33or1ru1",
+  "desc": "eventually in the past",
+  "mode": "-----p",
+  "name": "in-the-end",
+  "order": "4",
+  "parents": [
+    "verb-clause-adverbs"
+  ],
+  "props": {
+    "en": "in the end",
+    "jp": "ついに"
+  }
+}

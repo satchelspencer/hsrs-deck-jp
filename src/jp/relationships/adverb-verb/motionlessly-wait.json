@@ -1,0 +1,13 @@
+{
+  "_id": "xqcx27lk5cr",
+  "name": "motionlessly-wait",
+  "params": {
+    "adv": "motionlessly",
+    "verb": "wait"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

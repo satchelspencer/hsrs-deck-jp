@@ -1,0 +1,16 @@
+{
+  "_id": "gdk73dh35x6",
+  "name": "question-clause-adverb-clause",
+  "order": "4",
+  "params": {
+    "adv": "question-adverbs",
+    "clause": "question-clauses"
+  },
+  "parents": [
+    "complex-clauses"
+  ],
+  "props": {
+    "en": "adv.en+', '+clause.en",
+    "jp": "adv.jp+clause.jp"
+  }
+}

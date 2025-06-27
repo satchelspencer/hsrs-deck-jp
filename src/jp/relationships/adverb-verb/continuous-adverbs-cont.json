@@ -1,0 +1,13 @@
+{
+  "_id": "puee4zm0gia",
+  "name": "continuous-adverbs-cont",
+  "params": {
+    "adv": "continuous-adverbs",
+    "verb": "te-iru-verbs-continuous"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

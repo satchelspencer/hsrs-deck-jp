@@ -1,0 +1,13 @@
+{
+  "_id": "uduhfnaohd",
+  "desc": "simply, only",
+  "name": "just",
+  "order": "4",
+  "parents": [
+    "clause-adverbs"
+  ],
+  "props": {
+    "en": "just",
+    "jp": "ただ"
+  }
+}

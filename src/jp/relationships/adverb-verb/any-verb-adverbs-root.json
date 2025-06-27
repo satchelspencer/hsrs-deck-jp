@@ -1,0 +1,13 @@
+{
+  "_id": "3n9le03t12t",
+  "name": "any-verb-adverbs-root",
+  "params": {
+    "adv": "any-verb-adverbs",
+    "verb": "root-verbs"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

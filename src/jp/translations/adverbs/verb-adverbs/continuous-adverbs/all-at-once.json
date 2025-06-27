@@ -1,0 +1,14 @@
+{
+  "_id": "w0j4jk1bvr",
+  "desc": "in one go, suddenly",
+  "name": "all-at-once",
+  "order": "4",
+  "parents": [
+    "continuous-adverbs"
+  ],
+  "props": {
+    "en": "all at once",
+    "jp": "一気",
+    "tl": "いっきに"
+  }
+}

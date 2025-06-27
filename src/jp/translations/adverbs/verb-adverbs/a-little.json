@@ -1,0 +1,17 @@
+{
+  "_id": "20s7qtawgvm",
+  "desc": "a little, a bit, a small amount, a few, some, slightly, somewhat",
+  "mode": "c",
+  "name": "a-little",
+  "order": "2",
+  "parents": [
+    "verb-adverbs",
+    "i-adverbs",
+    "na-adverbs"
+  ],
+  "props": {
+    "en": "a little",
+    "jp": "少し",
+    "tl": "すこし"
+  }
+}

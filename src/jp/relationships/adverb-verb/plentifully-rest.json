@@ -1,0 +1,13 @@
+{
+  "_id": "ezhmsyd5vse",
+  "name": "plentifully-rest",
+  "params": {
+    "adv": "plentifully",
+    "verb": "rest"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "9t9nyvn8rog",
+  "desc": "always, constantly, by habit",
+  "name": "at-all-times",
+  "order": "4",
+  "parents": [
+    "clause-adverbs"
+  ],
+  "props": {
+    "en": "at all times",
+    "jp": "常に",
+    "tl": "つねに"
+  }
+}

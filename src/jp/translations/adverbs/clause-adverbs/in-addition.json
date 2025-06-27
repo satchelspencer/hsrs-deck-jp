@@ -1,0 +1,13 @@
+{
+  "_id": "oxq9iksl23g",
+  "desc": "moreover",
+  "name": "in-addition",
+  "order": "4",
+  "parents": [
+    "clause-adverbs"
+  ],
+  "props": {
+    "en": "in addition",
+    "jp": "それに"
+  }
+}

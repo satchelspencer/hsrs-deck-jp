@@ -1,0 +1,16 @@
+{
+  "_id": "mp5xxqltdn",
+  "name": "verb-clause-adverb-clause",
+  "order": "4",
+  "params": {
+    "adv": "verb-clause-adverbs",
+    "clause": "temporal-verb-clauses"
+  },
+  "parents": [
+    "complex-clauses"
+  ],
+  "props": {
+    "en": "clause.en+' '+adv.en",
+    "jp": "adv.jp+clause.jp"
+  }
+}

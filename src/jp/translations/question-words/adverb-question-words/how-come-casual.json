@@ -1,0 +1,13 @@
+{
+  "_id": "5lqpliwiux",
+  "mode": "c",
+  "name": "how-come-casual",
+  "order": "2",
+  "parents": [
+    "adverb-question-words"
+  ],
+  "props": {
+    "en": "how come",
+    "jp": "何で"
+  }
+}

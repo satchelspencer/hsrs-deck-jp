@@ -1,0 +1,15 @@
+{
+  "_id": "hweqaejukx7",
+  "desc": "(not) ever again",
+  "mode": "----n",
+  "name": "ever-again",
+  "order": "4",
+  "parents": [
+    "any-verb-adverbs"
+  ],
+  "props": {
+    "en": "ever again",
+    "jp": "二度と",
+    "tl": "にどと"
+  }
+}

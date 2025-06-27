@@ -1,0 +1,13 @@
+{
+  "_id": "s18ao1xbkil",
+  "name": "lightly-forget",
+  "params": {
+    "adv": "lightly",
+    "verb": "forget"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

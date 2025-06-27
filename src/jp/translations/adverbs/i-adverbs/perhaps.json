@@ -1,0 +1,15 @@
+{
+  "_id": "gxuv6b2ssk6",
+  "desc": "likely",
+  "name": "perhaps",
+  "order": "3",
+  "parents": [
+    "i-adverbs",
+    "clause-adverbs"
+  ],
+  "props": {
+    "en": "perhaps",
+    "jp": "恐らく",
+    "tl": "おそらく"
+  }
+}

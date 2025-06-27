@@ -1,0 +1,14 @@
+{
+  "_id": "3h0csn5bsnl",
+  "desc": "from here forward...",
+  "mode": "-----n",
+  "name": "from-now-on",
+  "order": "4",
+  "parents": [
+    "any-verb-adverbs"
+  ],
+  "props": {
+    "en": "from now on",
+    "jp": "これから"
+  }
+}

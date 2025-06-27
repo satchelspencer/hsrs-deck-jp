@@ -1,0 +1,13 @@
+{
+  "_id": "4kf1lokqnqf",
+  "desc": "by any means",
+  "name": "no-matter-what",
+  "order": "4",
+  "parents": [
+    "verb-clause-adverbs"
+  ],
+  "props": {
+    "en": "no matter what",
+    "jp": "どうしても"
+  }
+}

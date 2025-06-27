@@ -1,0 +1,13 @@
+{
+  "_id": "klyklcsy8z",
+  "desc": "so, therefore",
+  "name": "and-so",
+  "order": "4",
+  "parents": [
+    "clause-adverbs"
+  ],
+  "props": {
+    "en": "and so",
+    "jp": "それで"
+  }
+}

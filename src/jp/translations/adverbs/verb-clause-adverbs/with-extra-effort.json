@@ -1,0 +1,13 @@
+{
+  "_id": "ed1imq0cuge",
+  "desc": "going out of your way",
+  "name": "with-extra-effort",
+  "order": "4",
+  "parents": [
+    "verb-clause-adverbs"
+  ],
+  "props": {
+    "en": "with extra effort",
+    "jp": "わざわざ"
+  }
+}

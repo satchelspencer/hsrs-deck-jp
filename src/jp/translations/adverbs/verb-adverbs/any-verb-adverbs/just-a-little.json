@@ -1,0 +1,16 @@
+{
+  "_id": "ivw3mzbabte",
+  "desc": "just a moment",
+  "mode": "c",
+  "name": "just-a-little",
+  "order": "4",
+  "parents": [
+    "any-verb-adverbs",
+    "i-adverbs"
+  ],
+  "props": {
+    "en": "just a little",
+    "jp": "少々",
+    "tl": "すこし"
+  }
+}

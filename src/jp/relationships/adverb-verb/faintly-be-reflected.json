@@ -1,0 +1,13 @@
+{
+  "_id": "g285useu6k5",
+  "name": "faintly-be-reflected",
+  "params": {
+    "adv": "faintly",
+    "verb": "be-reflected"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

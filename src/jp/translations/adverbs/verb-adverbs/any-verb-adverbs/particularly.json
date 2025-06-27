@@ -1,0 +1,17 @@
+{
+  "_id": "xwccpaucxu",
+  "desc": "(not) particularly",
+  "mode": "----n",
+  "name": "particularly",
+  "order": "4",
+  "parents": [
+    "any-verb-adverbs",
+    "i-adverbs",
+    "na-adverbs"
+  ],
+  "props": {
+    "en": "particularly",
+    "jp": "別に",
+    "tl": "べつに"
+  }
+}

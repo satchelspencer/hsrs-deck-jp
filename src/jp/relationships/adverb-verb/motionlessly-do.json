@@ -1,0 +1,13 @@
+{
+  "_id": "idlnk63fybf",
+  "name": "motionlessly-do",
+  "params": {
+    "adv": "motionlessly",
+    "verb": "do-suru"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

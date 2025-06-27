@@ -1,0 +1,13 @@
+{
+  "_id": "5sxppnlpz2",
+  "name": "plentifully-eat",
+  "params": {
+    "adv": "plentifully",
+    "verb": "eat"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

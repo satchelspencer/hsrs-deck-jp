@@ -1,6 +1,9 @@
 {
   "_id": "9u6xsjuby0f",
   "name": "question-rels",
+  "params": {
+    "qw": "question-words"
+  },
   "parents": [
     "relationships"
   ],

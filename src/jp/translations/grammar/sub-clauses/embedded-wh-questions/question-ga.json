@@ -1,0 +1,18 @@
+{
+  "_id": "1j8w0p9omi7",
+  "constraint": "verb",
+  "name": "question-ga",
+  "order": "1",
+  "params": {
+    "form": "verb-ka",
+    "rel": "question-ga-verb"
+  },
+  "parents": [
+    "embedded-wh-questions",
+    "question-clauses"
+  ],
+  "props": {
+    "en": "rel.qw.en+' '+form.en",
+    "jp": "rel.qw.jp+'が'+form.jp"
+  }
+}

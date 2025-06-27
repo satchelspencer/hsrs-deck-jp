@@ -1,0 +1,13 @@
+{
+  "_id": "qtiqmbkj49b",
+  "name": "for-the-time-being",
+  "order": "4",
+  "parents": [
+    "clause-adverbs"
+  ],
+  "props": {
+    "en": "for the time being",
+    "jp": "一応",
+    "tl": "いちおう"
+  }
+}

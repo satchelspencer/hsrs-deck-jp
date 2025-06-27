@@ -1,0 +1,13 @@
+{
+  "_id": "rrhhmqy86kk",
+  "desc": "for some time",
+  "name": "for-a-while",
+  "order": "4",
+  "parents": [
+    "continuous-adverbs"
+  ],
+  "props": {
+    "en": "for a while",
+    "jp": "しばらく"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "4ifp4aghxrq",
+  "name": "roughly-left-over",
+  "params": {
+    "adv": "roughly",
+    "verb": "be-left-over"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

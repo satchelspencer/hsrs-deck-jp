@@ -1,0 +1,12 @@
+{
+  "_id": "vwpsz1wtrz",
+  "name": "forever",
+  "order": "4",
+  "parents": [
+    "continuous-adverbs"
+  ],
+  "props": {
+    "en": "forever",
+    "jp": "いつまでも"
+  }
+}

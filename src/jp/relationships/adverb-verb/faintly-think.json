@@ -1,0 +1,13 @@
+{
+  "_id": "rzm624mdpft",
+  "name": "faintly-think",
+  "params": {
+    "adv": "faintly",
+    "verb": "think"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

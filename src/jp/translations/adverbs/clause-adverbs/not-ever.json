@@ -1,0 +1,15 @@
+{
+  "_id": "hkzvklymcru",
+  "desc": "never",
+  "mode": "----n",
+  "name": "not-ever",
+  "order": "4",
+  "parents": [
+    "clause-adverbs"
+  ],
+  "props": {
+    "en": "not ever",
+    "jp": "決して",
+    "tl": "けっして"
+  }
+}

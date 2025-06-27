@@ -1,0 +1,13 @@
+{
+  "_id": "wfvn8pwkdem",
+  "name": "roughly-be-understood",
+  "params": {
+    "adv": "roughly",
+    "verb": "be-understood"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

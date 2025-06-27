@@ -1,0 +1,14 @@
+{
+  "_id": "7mfl4slb7h5",
+  "desc": "pessimistic, like its not gonna happen regardless",
+  "mode": "----n",
+  "name": "in-any-case",
+  "order": "4",
+  "parents": [
+    "clause-adverbs"
+  ],
+  "props": {
+    "en": "in any case",
+    "jp": "どうせ"
+  }
+}

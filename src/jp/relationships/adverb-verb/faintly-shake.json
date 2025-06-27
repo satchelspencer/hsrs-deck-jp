@@ -1,0 +1,13 @@
+{
+  "_id": "t5s2a07lpq",
+  "name": "faintly-shake",
+  "params": {
+    "adv": "faintly",
+    "verb": "shake"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

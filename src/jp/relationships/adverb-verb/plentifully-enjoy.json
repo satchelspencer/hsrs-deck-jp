@@ -1,0 +1,13 @@
+{
+  "_id": "j6d1gl6we2r",
+  "name": "plentifully-enjoy",
+  "params": {
+    "adv": "plentifully",
+    "verb": "enjoy"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}
