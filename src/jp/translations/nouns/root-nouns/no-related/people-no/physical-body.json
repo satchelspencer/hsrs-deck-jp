@@ -1,0 +1,14 @@
+{
+  "_id": "wdb1qn2kwk",
+  "desc": "flesh and blood",
+  "name": "physical-body",
+  "order": "4",
+  "parents": [
+    "people-no"
+  ],
+  "props": {
+    "en": "physical body",
+    "jp": "肉体",
+    "tl": "にくたい"
+  }
+}

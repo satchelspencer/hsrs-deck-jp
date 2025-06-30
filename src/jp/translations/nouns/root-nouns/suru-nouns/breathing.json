@@ -1,0 +1,18 @@
+{
+  "_id": "7g97jsax4nw",
+  "name": "breathing",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "people-no",
+    "people-do",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "breathing",
+    "_v": "breathe",
+    "en": "respiration",
+    "jp": "呼吸",
+    "tl": "こきゅう"
+  }
+}

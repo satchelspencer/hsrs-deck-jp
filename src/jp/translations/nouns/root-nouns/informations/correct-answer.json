@@ -1,0 +1,14 @@
+{
+  "_id": "5irsgho4j7k",
+  "desc": "the right solution",
+  "name": "correct-answer",
+  "order": "4",
+  "parents": [
+    "informations"
+  ],
+  "props": {
+    "en": "correct answer",
+    "jp": "正解",
+    "tl": "せいかい"
+  }
+}

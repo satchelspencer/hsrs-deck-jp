@@ -1,0 +1,14 @@
+{
+  "_id": "rbyovfgl6o",
+  "desc": "toxin",
+  "name": "poison",
+  "order": "4",
+  "parents": [
+    "drinks"
+  ],
+  "props": {
+    "en": "poison",
+    "jp": "毒",
+    "tl": "どく"
+  }
+}

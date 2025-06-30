@@ -1,0 +1,14 @@
+{
+  "_id": "kdhaszmh9hk",
+  "desc": "an event",
+  "name": "happening",
+  "order": "4",
+  "parents": [
+    "events"
+  ],
+  "props": {
+    "en": "happening",
+    "jp": "出来事",
+    "tl": "できごと"
+  }
+}

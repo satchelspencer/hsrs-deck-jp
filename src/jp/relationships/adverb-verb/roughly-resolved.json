@@ -1,0 +1,13 @@
+{
+  "_id": "keqqox5uwdl",
+  "name": "roughly-resolved",
+  "params": {
+    "adv": "roughly",
+    "verb": "resolution"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

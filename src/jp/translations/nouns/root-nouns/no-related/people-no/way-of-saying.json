@@ -1,0 +1,14 @@
+{
+  "_id": "a61znk86dim",
+  "desc": "expression, wording",
+  "name": "way-of-saying",
+  "order": "4",
+  "parents": [
+    "people-no"
+  ],
+  "props": {
+    "en": "way of saying",
+    "jp": "言い方",
+    "tl": "いいかた"
+  }
+}

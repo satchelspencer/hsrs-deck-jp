@@ -1,0 +1,15 @@
+{
+  "_id": "aqvg5l8cvjl",
+  "desc": "shriek",
+  "name": "a-scream",
+  "order": "4",
+  "parents": [
+    "people-no",
+    "audibles"
+  ],
+  "props": {
+    "en": "a scream",
+    "jp": "悲鳴",
+    "tl": "ひめい"
+  }
+}

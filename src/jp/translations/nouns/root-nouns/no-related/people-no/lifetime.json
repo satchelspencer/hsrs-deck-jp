@@ -1,0 +1,14 @@
+{
+  "_id": "kfwm14dvk9e",
+  "desc": "ones whole life",
+  "name": "lifetime",
+  "order": "4",
+  "parents": [
+    "people-no"
+  ],
+  "props": {
+    "en": "lifetime",
+    "jp": "一生",
+    "tl": "いっしょう"
+  }
+}

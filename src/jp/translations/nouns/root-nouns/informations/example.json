@@ -1,0 +1,14 @@
+{
+  "_id": "itzblaoyufn",
+  "desc": "instance, case",
+  "name": "example",
+  "order": "4",
+  "parents": [
+    "informations"
+  ],
+  "props": {
+    "en": "example",
+    "jp": "例",
+    "tl": "れい"
+  }
+}

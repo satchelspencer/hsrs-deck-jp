@@ -1,0 +1,14 @@
+{
+  "_id": "n98wmiw3q1e",
+  "desc": "like willpower",
+  "name": "will",
+  "order": "4",
+  "parents": [
+    "people-no"
+  ],
+  "props": {
+    "en": "will",
+    "jp": "意志",
+    "tl": "いし"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "1kaswsxgxfh",
+  "name": "kingdom",
+  "order": "4",
+  "parents": [
+    "countries"
+  ],
+  "props": {
+    "en": "kingdom",
+    "jp": "王国",
+    "tl": "おうこく"
+  }
+}

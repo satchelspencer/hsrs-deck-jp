@@ -1,0 +1,14 @@
+{
+  "_id": "b26r33cny8",
+  "desc": "like a flat surface, or aspect of something",
+  "name": "facet",
+  "order": "4",
+  "parents": [
+    "object-no"
+  ],
+  "props": {
+    "en": "facet",
+    "jp": "面",
+    "tl": "めん"
+  }
+}

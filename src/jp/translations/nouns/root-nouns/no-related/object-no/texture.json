@@ -1,0 +1,14 @@
+{
+  "_id": "crvejme5n1h",
+  "desc": "feeling of touching",
+  "name": "texture",
+  "order": "4",
+  "parents": [
+    "object-no"
+  ],
+  "props": {
+    "en": "texture",
+    "jp": "感触",
+    "tl": "かんしょく"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "_id": "1rdeku6efkd",
+  "desc": "the whole, overall",
+  "name": "the-entirety",
+  "order": "4",
+  "parents": [
+    "informations",
+    "seeables"
+  ],
+  "props": {
+    "en": "the entirety",
+    "jp": "全体",
+    "tl": "ぜんたい"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "js9ts2weowr",
+  "desc": "focal point, center",
+  "name": "core",
+  "order": "4",
+  "parents": [
+    "positional-words"
+  ],
+  "props": {
+    "en": "core",
+    "jp": "中心",
+    "tl": "ちゅうしん"
+  }
+}

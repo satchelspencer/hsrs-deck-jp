@@ -1,14 +1,13 @@
 {
-  "_id": "j2y1bw6mnwj",
-  "desc": "variety, kind, type, category",
+  "_id": "4ta8x0i6f14",
   "name": "type",
-  "order": "3",
+  "order": "4",
   "parents": [
     "object-no"
   ],
   "props": {
     "en": "type",
-    "jp": "種類",
-    "tl": "しゅるい"
+    "jp": "型",
+    "tl": "かた"
   }
 }

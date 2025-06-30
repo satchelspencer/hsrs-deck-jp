@@ -1,0 +1,14 @@
+{
+  "_id": "rm3qt6poego",
+  "desc": "like the bottom of something",
+  "name": "bottom",
+  "order": "4",
+  "parents": [
+    "positional-words"
+  ],
+  "props": {
+    "en": "bottom",
+    "jp": "底",
+    "tl": "そこ"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "nckbbydbok",
+  "desc": "perspiration itself",
+  "name": "sweat",
+  "order": "4",
+  "parents": [
+    "abstracts"
+  ],
+  "props": {
+    "en": "sweat",
+    "jp": "汗",
+    "tl": "あせ"
+  }
+}

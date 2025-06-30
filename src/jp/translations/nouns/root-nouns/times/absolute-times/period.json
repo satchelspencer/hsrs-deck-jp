@@ -1,0 +1,14 @@
+{
+  "_id": "uc39o83arwc",
+  "desc": "time when something occurs",
+  "name": "period",
+  "order": "4",
+  "parents": [
+    "absolute-times"
+  ],
+  "props": {
+    "en": "period",
+    "jp": "時期",
+    "tl": "じき"
+  }
+}

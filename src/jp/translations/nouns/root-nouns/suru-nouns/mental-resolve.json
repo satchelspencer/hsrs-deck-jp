@@ -1,7 +1,7 @@
 {
   "_id": "fvy6mgws3zv",
   "desc": "mental readiness",
-  "name": "resolve",
+  "name": "mental-resolve",
   "order": "4",
   "parents": [
     "suru-nouns",
@@ -11,7 +11,7 @@
   "props": {
     "_st": "resolved",
     "_v": "be resolved",
-    "en": "resolve",
+    "en": "mental resolve",
     "jp": "覚悟",
     "tl": "かくご"
   }

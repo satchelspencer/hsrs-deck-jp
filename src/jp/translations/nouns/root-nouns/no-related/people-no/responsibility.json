@@ -1,0 +1,14 @@
+{
+  "_id": "t8f041a0tno",
+  "desc": "accountability",
+  "name": "responsibility",
+  "order": "4",
+  "parents": [
+    "people-no"
+  ],
+  "props": {
+    "en": "responsibility",
+    "jp": "責任",
+    "tl": "せきにん"
+  }
+}

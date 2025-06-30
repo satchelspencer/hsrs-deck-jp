@@ -1,0 +1,14 @@
+{
+  "_id": "epvfu7dirgf",
+  "desc": "narrative",
+  "name": "tale",
+  "order": "4",
+  "parents": [
+    "readables"
+  ],
+  "props": {
+    "en": "tale",
+    "jp": "物語",
+    "tl": "ものがたり"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "jdllwngnznc",
+  "desc": "real form",
+  "name": "true-identity",
+  "order": "4",
+  "parents": [
+    "people-no"
+  ],
+  "props": {
+    "en": "true identity ",
+    "jp": "正体",
+    "tl": "しょうたい"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "_id": "qewe65tuor",
+  "desc": "investigation, research",
+  "name": "survey",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "people-do",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "surveying it",
+    "_v": "survey it",
+    "en": "survey",
+    "jp": "調査",
+    "tl": "ちょうさ"
+  }
+}

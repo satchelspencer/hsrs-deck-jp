@@ -1,0 +1,19 @@
+{
+  "_id": "ii9uziq4sc",
+  "desc": "being impressed",
+  "name": "admiration",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "people-do",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "_pg": "",
+    "_st": "admiring",
+    "_v": "admire",
+    "en": "being impressed",
+    "jp": "感心",
+    "tl": "かんしん"
+  }
+}

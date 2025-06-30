@@ -1,0 +1,19 @@
+{
+  "_id": "qxjr7ixkol",
+  "desc": "demonstrate",
+  "name": "proof",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "people-do",
+    "te-iru-verbs-continuous",
+    "do-to-informations"
+  ],
+  "props": {
+    "_pg": "proving it",
+    "_v": "prove it",
+    "en": "proof",
+    "jp": "証明",
+    "tl": "しょうめい"
+  }
+}

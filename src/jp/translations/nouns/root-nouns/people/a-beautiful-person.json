@@ -1,0 +1,14 @@
+{
+  "_id": "iu06zpi6eh",
+  "desc": "a beautiful woman",
+  "name": "a-beautiful-person",
+  "order": "4",
+  "parents": [
+    "people"
+  ],
+  "props": {
+    "en": "a beautiful woman",
+    "jp": "美人",
+    "tl": "びじん"
+  }
+}

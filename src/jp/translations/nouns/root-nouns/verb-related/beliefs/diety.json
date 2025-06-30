@@ -1,0 +1,14 @@
+{
+  "_id": "kgegp7bmxmc",
+  "desc": "",
+  "name": "diety",
+  "order": "4",
+  "parents": [
+    "beliefs"
+  ],
+  "props": {
+    "en": "diety",
+    "jp": "神様",
+    "tl": "かみさま"
+  }
+}

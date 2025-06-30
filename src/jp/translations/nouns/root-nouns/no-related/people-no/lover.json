@@ -1,0 +1,15 @@
+{
+  "_id": "gdtea16zwve",
+  "desc": "boyfriend/girlfriend",
+  "name": "lover",
+  "order": "4",
+  "parents": [
+    "people-no",
+    "people"
+  ],
+  "props": {
+    "en": "lover",
+    "jp": "恋人",
+    "tl": "こいびと"
+  }
+}

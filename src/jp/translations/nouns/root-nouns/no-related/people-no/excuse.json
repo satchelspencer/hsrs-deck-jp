@@ -1,0 +1,19 @@
+{
+  "_id": "zmgtndvq1l",
+  "desc": "justification",
+  "name": "excuse",
+  "order": "4",
+  "parents": [
+    "people-no",
+    "suru-nouns",
+    "people-do",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "making an excuse",
+    "_v": "make an excuse",
+    "en": "excuse",
+    "jp": "言い訳",
+    "tl": "いいわけ"
+  }
+}

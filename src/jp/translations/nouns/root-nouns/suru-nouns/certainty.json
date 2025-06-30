@@ -1,0 +1,19 @@
+{
+  "_id": "8g32lejhn7",
+  "desc": "firm belief",
+  "name": "certainty",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "te-iru-verbs-state",
+    "people-do",
+    "do-to-informations"
+  ],
+  "props": {
+    "_st": "certain of",
+    "_v": "be certain of",
+    "en": "certainty",
+    "jp": "確信",
+    "tl": "かくしん"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "izp1oliwbpe",
+  "name": "support",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "people-no",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "supporting it",
+    "_v": "support it",
+    "en": "support",
+    "jp": "応援",
+    "tl": "おうえん"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "btme58s3zk",
+  "name": "forehead",
+  "order": "4",
+  "parents": [
+    "body-parts"
+  ],
+  "props": {
+    "en": "forehead",
+    "jp": "額",
+    "tl": "ひたい"
+  }
+}

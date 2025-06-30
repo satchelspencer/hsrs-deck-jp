@@ -1,0 +1,17 @@
+{
+  "_id": "3pphrynorjg",
+  "desc": "resolve, decision",
+  "name": "determination",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "people-no"
+  ],
+  "props": {
+    "_pg": "",
+    "_v": "be determined to",
+    "en": "determination",
+    "jp": "決意",
+    "tl": "けつい"
+  }
+}

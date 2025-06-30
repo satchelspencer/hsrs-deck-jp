@@ -1,0 +1,14 @@
+{
+  "_id": "bgtdv5ywn0b",
+  "desc": "devil",
+  "name": "demon",
+  "order": "4",
+  "parents": [
+    "animals"
+  ],
+  "props": {
+    "en": "demon",
+    "jp": "悪魔",
+    "tl": "あくま"
+  }
+}

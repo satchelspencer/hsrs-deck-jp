@@ -1,0 +1,19 @@
+{
+  "_id": "x2e657abz7r",
+  "desc": "quietness",
+  "name": "silence",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "people-do",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "_pg": "",
+    "_st": "silent",
+    "_v": "be silent",
+    "en": "silence",
+    "jp": "沈黙",
+    "tl": "ちんもく"
+  }
+}

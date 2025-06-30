@@ -1,0 +1,15 @@
+{
+  "_id": "jekte18dx38",
+  "desc": "choce",
+  "name": "selection",
+  "order": "4",
+  "parents": [
+    "suru-nouns"
+  ],
+  "props": {
+    "_v": "select it",
+    "en": "selection",
+    "jp": "選択",
+    "tl": "せんたく"
+  }
+}

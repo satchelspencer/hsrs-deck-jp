@@ -1,0 +1,14 @@
+{
+  "_id": "ou6v0on5p4r",
+  "desc": "act of thinking",
+  "name": "thinking-process",
+  "order": "4",
+  "parents": [
+    "abstracts"
+  ],
+  "props": {
+    "en": "thinking process",
+    "jp": "思考",
+    "tl": "しこう"
+  }
+}

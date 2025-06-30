@@ -1,0 +1,14 @@
+{
+  "_id": "xm1z3yky2e9",
+  "desc": "for a school, company etc",
+  "name": "uniform",
+  "order": "4",
+  "parents": [
+    "wearables"
+  ],
+  "props": {
+    "en": "uniform",
+    "jp": "爆発",
+    "tl": "せいふく"
+  }
+}

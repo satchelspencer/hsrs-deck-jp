@@ -1,0 +1,14 @@
+{
+  "_id": "euelx3bayti",
+  "desc": "ritual",
+  "name": "ceremony",
+  "order": "4",
+  "parents": [
+    "events"
+  ],
+  "props": {
+    "en": "ceremony",
+    "jp": "式",
+    "tl": "しき"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "nyx7d9gbree",
+  "desc": "from japanese folklore",
+  "name": "ogre",
+  "order": "4",
+  "parents": [
+    "animals"
+  ],
+  "props": {
+    "en": "ogre",
+    "jp": "鬼",
+    "tl": "おに"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "j2y1bw6mnwj",
+  "desc": "variety, type, category",
+  "name": "category",
+  "order": "3",
+  "parents": [
+    "object-no"
+  ],
+  "props": {
+    "en": "category",
+    "jp": "種類",
+    "tl": "しゅるい"
+  }
+}

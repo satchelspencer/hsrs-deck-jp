@@ -1,0 +1,18 @@
+{
+  "_id": "n2yqch7knwl",
+  "desc": "trouble, difficulty",
+  "name": "hardship",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "people-do",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "going through hardship",
+    "_v": "go through hardship",
+    "en": "hardship",
+    "jp": "苦労",
+    "tl": "くろう"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "lsos5f7psy8",
+  "desc": "like the sky",
+  "name": "heaven",
+  "order": "4",
+  "parents": [
+    "abstracts"
+  ],
+  "props": {
+    "en": "heaven",
+    "jp": "天",
+    "tl": "てん"
+  }
+}

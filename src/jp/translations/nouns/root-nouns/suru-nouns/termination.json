@@ -1,0 +1,18 @@
+{
+  "_id": "yo9s74kumo",
+  "desc": "ending",
+  "name": "termination",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "_pg": "",
+    "_st": "terminated",
+    "_v": "terminate",
+    "en": "termination",
+    "jp": "終了",
+    "tl": "しゅうりょう"
+  }
+}

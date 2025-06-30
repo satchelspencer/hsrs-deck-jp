@@ -1,0 +1,14 @@
+{
+  "_id": "dg36l4c6li9",
+  "desc": "full power",
+  "name": "utmost-strength",
+  "order": "4",
+  "parents": [
+    "people-no"
+  ],
+  "props": {
+    "en": "utmost strength",
+    "jp": "全力",
+    "tl": "ぜんりょく"
+  }
+}

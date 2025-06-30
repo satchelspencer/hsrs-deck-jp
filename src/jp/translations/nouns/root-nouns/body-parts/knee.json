@@ -1,0 +1,13 @@
+{
+  "_id": "3j12offuadt",
+  "name": "knee",
+  "order": "4",
+  "parents": [
+    "body-parts"
+  ],
+  "props": {
+    "en": "knee",
+    "jp": "膝",
+    "tl": "ひざ"
+  }
+}

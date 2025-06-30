@@ -1,0 +1,14 @@
+{
+  "_id": "l1ole47ekfs",
+  "desc": "technique",
+  "name": "skill",
+  "order": "4",
+  "parents": [
+    "learnables"
+  ],
+  "props": {
+    "en": "skill",
+    "jp": "技",
+    "tl": "ぎ"
+  }
+}

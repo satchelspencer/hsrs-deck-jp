@@ -1,0 +1,20 @@
+{
+  "_id": "5u29g8dyo3o",
+  "desc": "utterance",
+  "name": "statement",
+  "order": "4",
+  "parents": [
+    "people-no",
+    "suru-nouns",
+    "people-do",
+    "do-to-informations",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "stating it",
+    "_v": "state it",
+    "en": "statement",
+    "jp": "発言",
+    "tl": "はつげん"
+  }
+}

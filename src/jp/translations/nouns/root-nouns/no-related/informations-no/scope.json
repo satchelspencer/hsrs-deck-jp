@@ -1,0 +1,14 @@
+{
+  "_id": "r1etpbrgoe9",
+  "desc": "range",
+  "name": "scope",
+  "order": "4",
+  "parents": [
+    "informations-no"
+  ],
+  "props": {
+    "en": "scope",
+    "jp": "範囲",
+    "tl": "はんい"
+  }
+}

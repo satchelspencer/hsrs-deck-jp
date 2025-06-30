@@ -1,0 +1,14 @@
+{
+  "_id": "osq9a0zd9e9",
+  "desc": "physical strength",
+  "name": "stamina",
+  "order": "4",
+  "parents": [
+    "people-no"
+  ],
+  "props": {
+    "en": "stamina",
+    "jp": "体力",
+    "tl": "たいりょく"
+  }
+}

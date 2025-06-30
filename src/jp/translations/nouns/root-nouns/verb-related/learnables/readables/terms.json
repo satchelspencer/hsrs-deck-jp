@@ -1,0 +1,14 @@
+{
+  "_id": "bi6n8ukm3l",
+  "desc": "like terms and conditions",
+  "name": "terms",
+  "order": "4",
+  "parents": [
+    "readables"
+  ],
+  "props": {
+    "en": "terms",
+    "jp": "条件",
+    "tl": "じょうけん"
+  }
+}

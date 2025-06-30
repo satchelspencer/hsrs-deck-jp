@@ -1,0 +1,16 @@
+{
+  "_id": "pqd8c16856k",
+  "desc": "systematic practice",
+  "name": "training",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "de-location-verbs",
+    "people-do",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "en": "training",
+    "jp": "訓練"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "vfw6zertvsm",
+  "desc": "like in a movie",
+  "name": "role",
+  "order": "4",
+  "parents": [
+    "abstracts"
+  ],
+  "props": {
+    "en": "role",
+    "jp": "役",
+    "tl": "やく"
+  }
+}

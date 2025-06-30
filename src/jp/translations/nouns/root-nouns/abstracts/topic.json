@@ -1,0 +1,15 @@
+{
+  "_id": "dyyujtdbjii",
+  "desc": "subject",
+  "name": "topic",
+  "order": "4",
+  "parents": [
+    "abstracts",
+    "informations-no"
+  ],
+  "props": {
+    "en": "topic",
+    "jp": "話題",
+    "tl": "わだい"
+  }
+}

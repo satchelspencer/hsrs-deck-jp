@@ -1,0 +1,20 @@
+{
+  "_id": "jgf0j4ek9ge",
+  "desc": "emphasis on the final arrival, not the process",
+  "name": "arrival-written",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "te-iru-verbs-state",
+    "movers-do",
+    "ni-destination-verbs"
+  ],
+  "props": {
+    "_pg": "",
+    "_st": "arrived",
+    "_v": "make an arrival",
+    "en": "arrival",
+    "jp": "到着",
+    "tl": "とうちゃく"
+  }
+}

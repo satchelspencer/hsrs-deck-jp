@@ -1,0 +1,14 @@
+{
+  "_id": "ugmxpw80zwm",
+  "desc": "actual capacity",
+  "name": "real-ability",
+  "order": "4",
+  "parents": [
+    "abstracts"
+  ],
+  "props": {
+    "en": "real ability",
+    "jp": "実力",
+    "tl": "じつりょく"
+  }
+}

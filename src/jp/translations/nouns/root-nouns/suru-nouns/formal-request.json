@@ -1,0 +1,19 @@
+{
+  "_id": "c9pjpgdttlr",
+  "desc": "entrusting, comossion",
+  "name": "formal-request",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "people-do",
+    "te-iru-verbs-continuous",
+    "ni-person-verbs"
+  ],
+  "props": {
+    "_pg": "making a formal request",
+    "_v": "make a formal request",
+    "en": "formal request",
+    "jp": "依頼",
+    "tl": "いらい"
+  }
+}

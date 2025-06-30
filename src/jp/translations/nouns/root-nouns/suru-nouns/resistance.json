@@ -1,0 +1,18 @@
+{
+  "_id": "t8lh8tucx3",
+  "desc": "opposition",
+  "name": "resistance",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "people-do",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "resisting",
+    "_v": "resist",
+    "en": "resistance",
+    "jp": "抵抗",
+    "tl": "ていこう"
+  }
+}

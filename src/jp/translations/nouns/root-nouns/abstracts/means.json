@@ -1,0 +1,14 @@
+{
+  "_id": "8jfl1e6oxiq",
+  "desc": "method, way",
+  "name": "means",
+  "order": "4",
+  "parents": [
+    "abstracts"
+  ],
+  "props": {
+    "en": "means",
+    "jp": "手段",
+    "tl": "しゅだん"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "kphll4n1d9e",
+  "name": "velocity",
+  "order": "4",
+  "parents": [
+    "quantities"
+  ],
+  "props": {
+    "en": "velocity",
+    "jp": "速度",
+    "tl": "そくど"
+  }
+}

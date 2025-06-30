@@ -1,0 +1,13 @@
+{
+  "_id": "7jwer51z8fm",
+  "name": "contract",
+  "order": "4",
+  "parents": [
+    "abstracts"
+  ],
+  "props": {
+    "en": "contract",
+    "jp": "契約",
+    "tl": "けいやく"
+  }
+}

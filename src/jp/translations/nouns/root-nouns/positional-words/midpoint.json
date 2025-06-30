@@ -1,0 +1,14 @@
+{
+  "_id": "5hd4z3ahrtg",
+  "desc": "exact center",
+  "name": "midpoint",
+  "order": "4",
+  "parents": [
+    "positional-words"
+  ],
+  "props": {
+    "en": "midpoint",
+    "jp": "中央",
+    "tl": "ちゅうおう"
+  }
+}

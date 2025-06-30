@@ -1,0 +1,14 @@
+{
+  "_id": "eoxlkox2kgr",
+  "desc": "bravery",
+  "name": "courage",
+  "order": "4",
+  "parents": [
+    "people-no"
+  ],
+  "props": {
+    "en": "courage",
+    "jp": "勇気",
+    "tl": "ゆうき"
+  }
+}

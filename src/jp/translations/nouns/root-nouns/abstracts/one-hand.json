@@ -1,0 +1,14 @@
+{
+  "_id": "8lmvh7cuyg7",
+  "desc": "just one",
+  "name": "one-hand",
+  "order": "4",
+  "parents": [
+    "abstracts"
+  ],
+  "props": {
+    "en": "one hand",
+    "jp": "片手",
+    "tl": "かたて"
+  }
+}

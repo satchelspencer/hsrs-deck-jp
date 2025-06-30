@@ -1,0 +1,18 @@
+{
+  "_id": "5ktronu6jad",
+  "name": "confession",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "people-do",
+    "de-location-verbs",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "_st": "confessed",
+    "_v": "confess",
+    "en": "confession",
+    "jp": "告白",
+    "tl": "こくはく"
+  }
+}

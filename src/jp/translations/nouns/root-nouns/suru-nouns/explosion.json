@@ -1,0 +1,17 @@
+{
+  "_id": "bnmjy9z7sk",
+  "desc": "physical explosion, blast",
+  "name": "explosion",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "_st": "exploded",
+    "_v": "explode",
+    "en": "explosion",
+    "jp": "爆発",
+    "tl": "ばくはつ"
+  }
+}

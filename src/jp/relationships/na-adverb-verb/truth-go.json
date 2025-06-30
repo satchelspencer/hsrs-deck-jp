@@ -2,7 +2,7 @@
   "_id": "iu2z55b70mf",
   "name": "truth-go",
   "params": {
-    "na": "truth",
+    "na": "true",
     "verb": "go"
   },
   "parents": [

@@ -1,0 +1,14 @@
+{
+  "_id": "isbcpqafnur",
+  "desc": "like in a room",
+  "name": "ceiling",
+  "order": "4",
+  "parents": [
+    "high-low"
+  ],
+  "props": {
+    "en": "ceiling",
+    "jp": "天井",
+    "tl": "てんじょう"
+  }
+}

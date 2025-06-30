@@ -1,0 +1,14 @@
+{
+  "_id": "tubnyak7lp",
+  "desc": "school campus, often private",
+  "name": "campus",
+  "order": "4",
+  "parents": [
+    "establishments"
+  ],
+  "props": {
+    "en": "campus",
+    "jp": "学園",
+    "tl": "がくえん"
+  }
+}

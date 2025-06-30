@@ -1,0 +1,14 @@
+{
+  "_id": "5v5qli6oyxl",
+  "desc": "by ones feet",
+  "name": "footing",
+  "order": "4",
+  "parents": [
+    "abstracts"
+  ],
+  "props": {
+    "en": "footing",
+    "jp": "足元",
+    "tl": "あしもと"
+  }
+}

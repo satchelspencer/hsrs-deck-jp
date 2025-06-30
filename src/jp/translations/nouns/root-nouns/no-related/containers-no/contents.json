@@ -1,0 +1,14 @@
+{
+  "_id": "7dyajg6wxrn",
+  "desc": "whats inside",
+  "name": "contents",
+  "order": "4",
+  "parents": [
+    "containers-no"
+  ],
+  "props": {
+    "en": "contents",
+    "jp": "中身",
+    "tl": "なかみ"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "pcrmw5ox1w8",
+  "desc": "spirit, mental state",
+  "name": "psyche",
+  "order": "4",
+  "parents": [
+    "people-no"
+  ],
+  "props": {
+    "en": "psyche",
+    "jp": "精神",
+    "tl": "せいしん"
+  }
+}

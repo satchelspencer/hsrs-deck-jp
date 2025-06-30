@@ -1,0 +1,13 @@
+{
+  "_id": "0ix27shvu1m6",
+  "name": "contract-terms",
+  "params": {
+    "noun": "terms",
+    "owner": "contract"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

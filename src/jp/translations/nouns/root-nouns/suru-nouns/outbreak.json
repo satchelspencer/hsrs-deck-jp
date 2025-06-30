@@ -1,0 +1,16 @@
+{
+  "_id": "wa680ghcnfq",
+  "name": "outbreak",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "breaking out",
+    "_v": "break out",
+    "en": "outbreak",
+    "jp": "発生",
+    "tl": "はっせい"
+  }
+}

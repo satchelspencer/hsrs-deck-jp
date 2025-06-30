@@ -1,0 +1,13 @@
+{
+  "_id": "z8otxz8zrw",
+  "name": "corpse",
+  "order": "4",
+  "parents": [
+    "objects"
+  ],
+  "props": {
+    "en": "corpse",
+    "jp": "死体",
+    "tl": "したい"
+  }
+}

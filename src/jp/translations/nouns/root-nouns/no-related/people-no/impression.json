@@ -1,0 +1,15 @@
+{
+  "_id": "16emn9icmj9",
+  "desc": "as in a first impression",
+  "name": "impression",
+  "order": "4",
+  "parents": [
+    "people-no",
+    "good-bads"
+  ],
+  "props": {
+    "en": "impression",
+    "jp": "印象",
+    "tl": "いんしょう"
+  }
+}

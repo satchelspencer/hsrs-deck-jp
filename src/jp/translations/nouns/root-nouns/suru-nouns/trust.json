@@ -1,0 +1,17 @@
+{
+  "_id": "cxh2kskrh0p",
+  "desc": "confidence in",
+  "name": "trust",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "people-do",
+    "do-to-people"
+  ],
+  "props": {
+    "_v": "be trusting",
+    "en": "trust",
+    "jp": "信用",
+    "tl": "しんよう"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "yafpdxord3",
+  "desc": "resolving it, finding the solution",
+  "name": "resolution",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "_st": "resolved",
+    "_v": "get resolved",
+    "en": "resolution",
+    "jp": "解決",
+    "tl": "かいけつ"
+  }
+}

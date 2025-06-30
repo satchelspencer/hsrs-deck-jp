@@ -1,0 +1,14 @@
+{
+  "_id": "gndi0757smr",
+  "desc": "the other day",
+  "name": "recently",
+  "order": "4",
+  "parents": [
+    "relative-time-exprs"
+  ],
+  "props": {
+    "en": "recently",
+    "jp": "先日",
+    "tl": "せんじつ"
+  }
+}

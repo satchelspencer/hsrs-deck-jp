@@ -1,0 +1,16 @@
+{
+  "_id": "ebqczjrkfs",
+  "desc": "self awareness, ralization",
+  "name": "awareness",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "people-do"
+  ],
+  "props": {
+    "_v": "be aware of",
+    "en": "awareness",
+    "jp": "自覚",
+    "tl": "じかく"
+  }
+}

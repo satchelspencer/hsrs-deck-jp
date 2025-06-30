@@ -1,0 +1,13 @@
+{
+  "_id": "dirdynjiu2n",
+  "name": "orgs-do-orgs",
+  "params": {
+    "noun": "organizations",
+    "verb": "organizations-do"
+  },
+  "parents": [
+    "noun-ga-verb"
+  ],
+  "props": {
+  }
+}

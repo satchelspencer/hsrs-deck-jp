@@ -1,0 +1,18 @@
+{
+  "_id": "1298btpse5jl",
+  "desc": "not like surgery, like operating machinery",
+  "name": "operation",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "people-do",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "operating",
+    "_v": "operate",
+    "en": "operation",
+    "jp": "利用",
+    "tl": "しよう"
+  }
+}

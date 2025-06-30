@@ -1,0 +1,14 @@
+{
+  "_id": "09ydm808u3xw",
+  "desc": "worth, significance",
+  "name": "value",
+  "order": "4",
+  "parents": [
+    "product-no"
+  ],
+  "props": {
+    "en": "value",
+    "jp": "価値",
+    "tl": "かち"
+  }
+}

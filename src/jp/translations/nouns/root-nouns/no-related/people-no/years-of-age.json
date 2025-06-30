@@ -1,0 +1,15 @@
+{
+  "_id": "ytvd2mw31sg",
+  "desc": "age",
+  "name": "years-of-age",
+  "order": "4",
+  "parents": [
+    "people-no",
+    "quantities"
+  ],
+  "props": {
+    "en": "years of age",
+    "jp": "年齢",
+    "tl": "ねんれい"
+  }
+}

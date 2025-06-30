@@ -1,0 +1,16 @@
+{
+  "_id": "qug4je812kn",
+  "desc": "moment of completion",
+  "name": "completion",
+  "order": "4",
+  "parents": [
+    "suru-nouns"
+  ],
+  "props": {
+    "_pg": "completed",
+    "_v": "complete",
+    "en": "completion",
+    "jp": "完成",
+    "tl": "かんせい"
+  }
+}

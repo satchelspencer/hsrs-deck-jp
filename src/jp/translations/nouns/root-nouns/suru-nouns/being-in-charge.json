@@ -1,0 +1,20 @@
+{
+  "_id": "xgoraemwj",
+  "desc": "charge, duty",
+  "name": "being-in-charge",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "people-do",
+    "te-iru-verbs-state",
+    "de-location-verbs"
+  ],
+  "props": {
+    "_pg": "",
+    "_st": "in charge of",
+    "_v": "be in charge of",
+    "en": "being in charge",
+    "jp": "担当",
+    "tl": "たんとう"
+  }
+}

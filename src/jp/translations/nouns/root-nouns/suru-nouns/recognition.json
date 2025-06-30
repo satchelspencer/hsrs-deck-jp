@@ -1,0 +1,17 @@
+{
+  "_id": "142xdbglntu",
+  "desc": "awareness",
+  "name": "recognition",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "people-do",
+    "ni-person-verbs"
+  ],
+  "props": {
+    "_v": "recognize",
+    "en": "recognition",
+    "jp": "認識",
+    "tl": "にんしき"
+  }
+}

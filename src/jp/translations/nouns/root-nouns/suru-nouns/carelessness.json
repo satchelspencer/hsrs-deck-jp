@@ -1,0 +1,18 @@
+{
+  "_id": "e0u8q89zucs",
+  "desc": "inattention",
+  "name": "carelessness",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "te-iru-verbs-state",
+    "people-do"
+  ],
+  "props": {
+    "_st": "careless",
+    "_v": "be carelessness",
+    "en": "carelessness",
+    "jp": "油断",
+    "tl": "ゆだん"
+  }
+}

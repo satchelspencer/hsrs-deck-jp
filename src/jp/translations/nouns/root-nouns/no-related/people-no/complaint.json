@@ -1,0 +1,14 @@
+{
+  "_id": "5b69hue3kjw",
+  "desc": "grievance",
+  "name": "complaint",
+  "order": "4",
+  "parents": [
+    "people-no"
+  ],
+  "props": {
+    "en": "complaint",
+    "jp": "文句",
+    "tl": "もんく"
+  }
+}

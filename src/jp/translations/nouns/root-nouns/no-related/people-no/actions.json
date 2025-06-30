@@ -1,0 +1,14 @@
+{
+  "_id": "8bmo3iewtd8",
+  "desc": "deed, behavior",
+  "name": "actions",
+  "order": "4",
+  "parents": [
+    "people-no"
+  ],
+  "props": {
+    "en": "actions",
+    "jp": "行為",
+    "tl": "こうい"
+  }
+}

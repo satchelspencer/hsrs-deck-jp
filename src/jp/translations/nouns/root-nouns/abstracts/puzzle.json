@@ -1,0 +1,14 @@
+{
+  "_id": "3ibtop1jzrf",
+  "desc": "like a mystery",
+  "name": "puzzle",
+  "order": "4",
+  "parents": [
+    "abstracts"
+  ],
+  "props": {
+    "en": "puzzle",
+    "jp": "謎",
+    "tl": "なぞ"
+  }
+}

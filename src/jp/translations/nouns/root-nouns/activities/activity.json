@@ -1,0 +1,18 @@
+{
+  "_id": "n8irl5z4eis",
+  "name": "activity",
+  "order": "4",
+  "parents": [
+    "activities",
+    "suru-nouns",
+    "people-do",
+    "continuous-adverbs"
+  ],
+  "props": {
+    "_pg": "engaging in activity",
+    "_v": "engage in activity",
+    "en": "activity",
+    "jp": "活動",
+    "tl": "かつどう"
+  }
+}

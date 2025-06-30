@@ -1,13 +1,13 @@
 {
   "_id": "ycq2y11woq",
   "desc": "shape, form, figure, posture, pose. appearance, style",
-  "name": "appearance",
+  "name": "looks",
   "order": "3",
   "parents": [
     "people-no"
   ],
   "props": {
-    "en": "appearance",
+    "en": "looks",
     "jp": "格好",
     "tl": "かっこう"
   }

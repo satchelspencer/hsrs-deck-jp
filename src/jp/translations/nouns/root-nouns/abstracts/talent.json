@@ -1,0 +1,14 @@
+{
+  "_id": "g8454fcr7z8",
+  "desc": "natural gift",
+  "name": "talent",
+  "order": "4",
+  "parents": [
+    "abstracts"
+  ],
+  "props": {
+    "en": "talent",
+    "jp": "才能",
+    "tl": "さいのう"
+  }
+}

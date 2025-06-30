@@ -1,0 +1,19 @@
+{
+  "_id": "eppp6g1mih9",
+  "desc": "a misunderstanding",
+  "name": "mistaken-belief",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "people-do",
+    "te-iru-verbs-continuous",
+    "people-no"
+  ],
+  "props": {
+    "_pg": "believing mistakenly",
+    "_v": "believe mistakenly",
+    "en": "mistaken belief",
+    "jp": "勘違い",
+    "tl": "かんちがい"
+  }
+}

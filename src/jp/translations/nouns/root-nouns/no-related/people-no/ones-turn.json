@@ -1,0 +1,14 @@
+{
+  "_id": "anzkcqz2bhk",
+  "desc": "like its your turn now",
+  "name": "ones-turn",
+  "order": "4",
+  "parents": [
+    "people-no"
+  ],
+  "props": {
+    "en": "turn",
+    "jp": "番",
+    "tl": "ばん"
+  }
+}

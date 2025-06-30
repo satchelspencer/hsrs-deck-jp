@@ -1,0 +1,14 @@
+{
+  "_id": "m0q2scy85s",
+  "desc": "",
+  "name": "hell",
+  "order": "4",
+  "parents": [
+    "absolute-places"
+  ],
+  "props": {
+    "en": "hell",
+    "jp": "地獄",
+    "tl": "じごく"
+  }
+}

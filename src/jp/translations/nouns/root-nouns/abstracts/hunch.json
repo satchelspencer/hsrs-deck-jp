@@ -1,0 +1,14 @@
+{
+  "_id": "yca15r62kwd",
+  "desc": "a premonition",
+  "name": "hunch",
+  "order": "4",
+  "parents": [
+    "abstracts"
+  ],
+  "props": {
+    "en": "hunch",
+    "jp": "予感",
+    "tl": "よかん"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "tqb8mq8mi6",
+  "desc": "proclamation",
+  "name": "declaration",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "organizations-do"
+  ],
+  "props": {
+    "_pg": "declaring",
+    "_v": "declare",
+    "en": "declaration",
+    "jp": "宣言",
+    "tl": "せんげん"
+  }
+}

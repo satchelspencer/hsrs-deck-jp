@@ -1,0 +1,14 @@
+{
+  "_id": "66o0zunm2su",
+  "desc": "crime",
+  "name": "sin",
+  "order": "4",
+  "parents": [
+    "people-no"
+  ],
+  "props": {
+    "en": "sin",
+    "jp": "罪",
+    "tl": "つみ"
+  }
+}

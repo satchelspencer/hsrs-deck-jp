@@ -1,0 +1,14 @@
+{
+  "_id": "5l79f2bmj7",
+  "desc": "trust (in something)",
+  "name": "reliance",
+  "order": "4",
+  "parents": [
+    "people-no"
+  ],
+  "props": {
+    "en": "reliance",
+    "jp": "信頼",
+    "tl": "しんらい"
+  }
+}

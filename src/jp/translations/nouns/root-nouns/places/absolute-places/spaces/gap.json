@@ -1,0 +1,14 @@
+{
+  "_id": "4r14d254jzj",
+  "desc": "crack, crevice",
+  "name": "gap",
+  "order": "4",
+  "parents": [
+    "spaces"
+  ],
+  "props": {
+    "en": "gap",
+    "jp": "隙間",
+    "tl": "すきま"
+  }
+}

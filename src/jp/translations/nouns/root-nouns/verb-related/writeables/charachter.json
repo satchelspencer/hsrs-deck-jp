@@ -1,0 +1,14 @@
+{
+  "_id": "4tq538j86o",
+  "desc": "unit of text",
+  "name": "charachter",
+  "order": "4",
+  "parents": [
+    "writeables"
+  ],
+  "props": {
+    "en": "charachter",
+    "jp": "文字",
+    "tl": "もじ"
+  }
+}

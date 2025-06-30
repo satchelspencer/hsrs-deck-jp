@@ -1,0 +1,18 @@
+{
+  "_id": "3ym5p23oozu",
+  "desc": "mental confusion",
+  "name": "confusion",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "people-do",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "_st": "confused",
+    "_v": "get confused",
+    "en": "confusion",
+    "jp": "混乱",
+    "tl": "こんらん"
+  }
+}

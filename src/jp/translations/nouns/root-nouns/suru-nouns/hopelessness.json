@@ -1,0 +1,18 @@
+{
+  "_id": "rlma6erbsp",
+  "desc": "loss of hope, despair",
+  "name": "hopelessness",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "people-do",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "_st": "hopeless",
+    "_v": "become hopeless",
+    "en": "hopelessness",
+    "jp": "絶望",
+    "tl": "ぜつぼう"
+  }
+}

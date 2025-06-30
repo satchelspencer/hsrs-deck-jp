@@ -1,0 +1,14 @@
+{
+  "_id": "3m7w2k6c0ej",
+  "desc": "subject (of), object (of) something",
+  "name": "subject",
+  "order": "4",
+  "parents": [
+    "abstracts"
+  ],
+  "props": {
+    "en": "subject",
+    "jp": "対象",
+    "tl": "たいしょう"
+  }
+}

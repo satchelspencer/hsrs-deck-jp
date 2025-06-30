@@ -1,0 +1,14 @@
+{
+  "_id": "waum7ys02t",
+  "desc": "memory",
+  "name": "recollection",
+  "order": "4",
+  "parents": [
+    "abstracts"
+  ],
+  "props": {
+    "en": "recollection",
+    "jp": "思い出",
+    "tl": "おもいで"
+  }
+}

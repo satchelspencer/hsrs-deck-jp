@@ -1,6 +1,6 @@
 {
-  "_id": "m7lbukq872",
-  "desc": "formal friend",
+  "_id": "7mv64h74mv8",
+  "desc": "not a close friend",
   "name": "acquaintance",
   "order": "4",
   "parents": [
@@ -8,7 +8,7 @@
   ],
   "props": {
     "en": "acquaintance",
-    "jp": "友人",
-    "tl": "ゆうじん"
+    "jp": "知り合い",
+    "tl": "しりあい"
   }
 }

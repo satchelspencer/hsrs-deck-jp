@@ -1,0 +1,14 @@
+{
+  "_id": "tgz77uwm4un",
+  "desc": "for objects",
+  "name": "appearance",
+  "order": "4",
+  "parents": [
+    "attributes"
+  ],
+  "props": {
+    "en": "appearance",
+    "jp": "見た目",
+    "tl": "みため"
+  }
+}

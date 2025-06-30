@@ -1,0 +1,16 @@
+{
+  "_id": "52sllmwncjh",
+  "desc": "emotionally shaken",
+  "name": "agitation",
+  "order": "4",
+  "parents": [
+    "suru-nouns"
+  ],
+  "props": {
+    "_pg": "agitated",
+    "_v": "get agitated",
+    "en": "agitation",
+    "jp": "動揺",
+    "tl": "どうよう"
+  }
+}

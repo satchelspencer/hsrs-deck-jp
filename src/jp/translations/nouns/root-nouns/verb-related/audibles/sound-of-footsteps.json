@@ -1,0 +1,13 @@
+{
+  "_id": "uh5w2r7o2lh",
+  "name": "sound-of-footsteps",
+  "order": "4",
+  "parents": [
+    "audibles"
+  ],
+  "props": {
+    "en": "sound of footsteps",
+    "jp": "足音",
+    "tl": "あしおと"
+  }
+}

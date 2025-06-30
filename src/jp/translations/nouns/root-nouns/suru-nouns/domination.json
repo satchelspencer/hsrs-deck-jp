@@ -1,0 +1,18 @@
+{
+  "_id": "uofymckehfc",
+  "desc": "ruling, like a king, control",
+  "name": "domination",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "people-do",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "dominating",
+    "_v": "dominate",
+    "en": "domination",
+    "jp": "支配",
+    "tl": "しはい"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "_id": "faeb808dub",
+  "desc": "strengthening",
+  "name": "reinforcement",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "people-do",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "reinforcing",
+    "_v": "reinforce",
+    "en": "reinforcement",
+    "jp": "強化",
+    "tl": "きょうか"
+  }
+}

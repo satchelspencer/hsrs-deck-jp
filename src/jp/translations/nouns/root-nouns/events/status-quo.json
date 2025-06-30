@@ -1,0 +1,14 @@
+{
+  "_id": "fc5x79nercr",
+  "desc": "current situation",
+  "name": "status-quo",
+  "order": "4",
+  "parents": [
+    "events"
+  ],
+  "props": {
+    "en": "status quo",
+    "jp": "維持",
+    "tl": "げんじょう"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "wbp12eczqu",
+  "desc": "trip, travel",
+  "name": "journey",
+  "order": "4",
+  "parents": [
+    "events"
+  ],
+  "props": {
+    "en": "journey",
+    "jp": "旅",
+    "tl": "たび"
+  }
+}

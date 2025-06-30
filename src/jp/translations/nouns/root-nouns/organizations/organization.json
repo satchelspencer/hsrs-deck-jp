@@ -1,0 +1,14 @@
+{
+  "_id": "ar25biw4t5p",
+  "desc": "structure of people or things",
+  "name": "organization",
+  "order": "4",
+  "parents": [
+    "organizations"
+  ],
+  "props": {
+    "en": "organization",
+    "jp": "組織",
+    "tl": "そしき"
+  }
+}

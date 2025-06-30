@@ -1,19 +1,17 @@
 {
-  "_id": "eppp6g1mih9",
-  "desc": "a misunderstanding",
+  "_id": "e7n9pb8huue",
   "name": "misunderstanding",
   "order": "4",
   "parents": [
     "suru-nouns",
-    "people-do",
-    "te-iru-verbs-continuous",
-    "people-no"
+    "people-no",
+    "te-iru-verbs-state"
   ],
   "props": {
-    "_pg": "misunderstanding",
+    "_st": "under a misunderstanding",
     "_v": "misunderstand",
-    "en": "mistaken belief",
-    "jp": "勘違い",
-    "tl": "かんちがい"
+    "en": "misunderstanding",
+    "jp": "誤解",
+    "tl": "ごかい"
   }
 }
