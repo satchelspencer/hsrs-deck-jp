@@ -1,0 +1,17 @@
+{
+  "_id": "b8i60jdnk9q",
+  "name": "catch",
+  "order": "4",
+  "parents": [
+    "ichidan",
+    "people-do",
+    "do-to-objects",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "catching",
+    "en": "catch",
+    "jp": "受け止める",
+    "tl": "うけとめる"
+  }
+}

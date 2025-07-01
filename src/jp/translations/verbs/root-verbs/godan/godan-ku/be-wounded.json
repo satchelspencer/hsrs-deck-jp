@@ -1,0 +1,19 @@
+{
+  "_id": "3hli2o33k1d",
+  "desc": "get hurt",
+  "name": "be-wounded",
+  "order": "4",
+  "parents": [
+    "godan-ku",
+    "people-do",
+    "animals-do",
+    "te-iru-verbs-state",
+    "de-location-verbs"
+  ],
+  "props": {
+    "_st": "wounded",
+    "en": "be wounded",
+    "jp": "傷つく",
+    "tl": "きずつく"
+  }
+}

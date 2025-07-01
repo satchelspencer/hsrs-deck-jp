@@ -1,0 +1,16 @@
+{
+  "_id": "9gzvnhfgwph",
+  "desc": "be dyed, tained",
+  "name": "be-stained",
+  "order": "4",
+  "parents": [
+    "godan-ru",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "_st": "stained",
+    "en": "be stained",
+    "jp": "染まる",
+    "tl": "そまる"
+  }
+}

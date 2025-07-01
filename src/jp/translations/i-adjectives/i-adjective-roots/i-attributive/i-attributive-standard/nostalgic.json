@@ -1,0 +1,14 @@
+{
+  "_id": "4wdtshwq7f",
+  "desc": "fondly remembered",
+  "name": "nostalgic",
+  "order": "4",
+  "parents": [
+    "i-attributive-standard"
+  ],
+  "props": {
+    "en": "nostalgic",
+    "jp": "懐かしい",
+    "tl": "なつかしい"
+  }
+}

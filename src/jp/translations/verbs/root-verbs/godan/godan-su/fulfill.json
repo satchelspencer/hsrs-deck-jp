@@ -1,0 +1,16 @@
+{
+  "_id": "o8bit5f9n4o",
+  "desc": "satisfy, meet",
+  "name": "fulfill",
+  "order": "4",
+  "parents": [
+    "godan-su",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "fulfilling",
+    "en": "fulfill",
+    "jp": "満たす",
+    "tl": "みたす"
+  }
+}

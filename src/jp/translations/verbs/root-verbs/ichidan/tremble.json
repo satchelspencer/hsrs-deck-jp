@@ -1,0 +1,17 @@
+{
+  "_id": "2ha360e8iek",
+  "desc": "shake",
+  "name": "tremble",
+  "order": "4",
+  "parents": [
+    "ichidan",
+    "people-do",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "trembling",
+    "en": "tremble",
+    "jp": "震える",
+    "tl": "ふるえる"
+  }
+}

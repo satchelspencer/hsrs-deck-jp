@@ -1,0 +1,17 @@
+{
+  "_id": "oo7kgjqicko",
+  "desc": "grow distant, pull away",
+  "name": "move-apart",
+  "order": "4",
+  "parents": [
+    "ichidan",
+    "movers-do",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "_st": "moved apart",
+    "en": "move apart",
+    "jp": "離れる",
+    "tl": "はなれる"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "2e0zcsm8c2b",
+  "desc": "comfortable",
+  "name": "relaxing",
+  "order": "4",
+  "parents": [
+    "na-attributive"
+  ],
+  "props": {
+    "en": "relaxing",
+    "jp": "楽",
+    "tl": "らく"
+  }
+}

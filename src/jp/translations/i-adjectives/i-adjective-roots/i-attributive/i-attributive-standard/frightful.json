@@ -1,0 +1,13 @@
+{
+  "_id": "f5za6ongi5t",
+  "name": "frightful",
+  "order": "4",
+  "parents": [
+    "i-attributive-standard"
+  ],
+  "props": {
+    "en": "frightful",
+    "jp": "恐ろしい",
+    "tl": "おそろしい"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "m4f2lhaazds",
+  "name": "motionlessly-gaze",
+  "params": {
+    "adv": "motionlessly",
+    "verb": "gaze-at"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

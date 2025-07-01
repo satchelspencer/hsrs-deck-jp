@@ -1,0 +1,15 @@
+{
+  "_id": "1o18i36sr",
+  "desc": "unnecessary",
+  "name": "excessive",
+  "order": "4",
+  "parents": [
+    "na-attributive"
+  ],
+  "props": {
+    "_ad": "excessively",
+    "en": "excessive",
+    "jp": "余計",
+    "tl": "よけい"
+  }
+}

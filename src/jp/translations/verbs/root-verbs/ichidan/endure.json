@@ -1,0 +1,17 @@
+{
+  "_id": "j2fsxuncsiq",
+  "desc": "bear, withstand",
+  "name": "endure",
+  "order": "4",
+  "parents": [
+    "ichidan",
+    "people-do",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "enduring",
+    "en": "endure",
+    "jp": "耐える",
+    "tl": "たえる"
+  }
+}

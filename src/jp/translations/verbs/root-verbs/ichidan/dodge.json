@@ -1,0 +1,14 @@
+{
+  "_id": "enppjx8o5t8",
+  "desc": "avoid, keep away from",
+  "name": "dodge",
+  "order": "4",
+  "parents": [
+    "ichidan"
+  ],
+  "props": {
+    "en": "dodge",
+    "jp": "避ける",
+    "tl": "さける"
+  }
+}

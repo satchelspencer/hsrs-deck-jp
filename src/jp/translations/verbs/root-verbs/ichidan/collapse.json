@@ -1,0 +1,16 @@
+{
+  "_id": "1yz14oxc4yw",
+  "desc": "crumble, break down",
+  "name": "collapse",
+  "order": "4",
+  "parents": [
+    "ichidan",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "_st": "collapsed",
+    "en": "collapse",
+    "jp": "崩れる",
+    "tl": "くずれる"
+  }
+}

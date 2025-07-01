@@ -1,0 +1,19 @@
+{
+  "_id": "5esnv9yinu8",
+  "desc": "open your mouth to speak",
+  "name": "start-to-speak",
+  "order": "4",
+  "parents": [
+    "godan-su",
+    "people-do",
+    "ni-person-verbs",
+    "de-location-verbs",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "starting to speak",
+    "en": "start to speak",
+    "jp": "言い出す",
+    "tl": "いいだす"
+  }
+}

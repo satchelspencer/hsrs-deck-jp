@@ -1,0 +1,16 @@
+{
+  "_id": "2bn8phbj0ww",
+  "desc": "add, include",
+  "name": "append",
+  "order": "4",
+  "parents": [
+    "ichidan",
+    "people-do",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "en": "append",
+    "jp": "加える",
+    "tl": "くわえる"
+  }
+}

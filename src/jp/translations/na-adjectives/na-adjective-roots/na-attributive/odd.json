@@ -1,0 +1,14 @@
+{
+  "_id": "n2wnv5a2jgh",
+  "desc": "strange",
+  "name": "odd",
+  "order": "4",
+  "parents": [
+    "na-attributive"
+  ],
+  "props": {
+    "en": "odd",
+    "jp": "妙",
+    "tl": "みょう"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "xvyoe8frfgo",
+  "desc": "take advantage of, fawn on",
+  "name": "seek-pampering",
+  "order": "4",
+  "parents": [
+    "ichidan",
+    "people-do",
+    "ni-person-verbs"
+  ],
+  "props": {
+    "en": "seek pampering",
+    "jp": "甘える",
+    "tl": "あまえる"
+  }
+}

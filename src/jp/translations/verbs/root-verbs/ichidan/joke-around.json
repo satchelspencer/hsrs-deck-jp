@@ -1,0 +1,17 @@
+{
+  "_id": "keztzk4suu",
+  "desc": "fool around",
+  "name": "joke-around",
+  "order": "4",
+  "parents": [
+    "ichidan",
+    "people-do",
+    "te-iru-verbs-continuous",
+    "de-location-verbs"
+  ],
+  "props": {
+    "_pg": "joking around",
+    "en": "joke around",
+    "jp": "ふざける"
+  }
+}

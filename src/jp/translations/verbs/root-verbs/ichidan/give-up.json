@@ -1,0 +1,17 @@
+{
+  "_id": "q4abhqhty8f",
+  "desc": "abandon, resign yourself to",
+  "name": "give-up",
+  "order": "4",
+  "parents": [
+    "ichidan",
+    "people-do",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "_st": "given up",
+    "en": "give up",
+    "jp": "諦める",
+    "tl": "あきらめる"
+  }
+}

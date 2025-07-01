@@ -1,0 +1,14 @@
+{
+  "_id": "jk992q2p04",
+  "desc": "forceful, overbearing",
+  "name": "pushy",
+  "order": "4",
+  "parents": [
+    "na-people"
+  ],
+  "props": {
+    "en": "pushy",
+    "jp": "強引",
+    "tl": "ごういん"
+  }
+}

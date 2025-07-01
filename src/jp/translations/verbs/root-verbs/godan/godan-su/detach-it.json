@@ -1,7 +1,7 @@
 {
   "_id": "rp26wxvwe5i",
   "desc": "to remove, to take off, to detach, to unfasten, to undo",
-  "name": "detach",
+  "name": "detach-it",
   "order": "3",
   "parents": [
     "godan-su",
@@ -10,7 +10,7 @@
     "de-location-verbs"
   ],
   "props": {
-    "en": "detach",
+    "en": "detach it",
     "jp": "外す",
     "tl": "はずす"
   }

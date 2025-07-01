@@ -1,0 +1,15 @@
+{
+  "_id": "1utictzqw2f",
+  "desc": "put in order",
+  "name": "arrange",
+  "order": "4",
+  "parents": [
+    "ichidan",
+    "people-do"
+  ],
+  "props": {
+    "en": "arrange",
+    "jp": "整える",
+    "tl": "ととのえる"
+  }
+}

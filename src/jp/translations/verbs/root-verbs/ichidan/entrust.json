@@ -1,0 +1,16 @@
+{
+  "_id": "2gciiqneeps",
+  "desc": "leave it to beaver",
+  "name": "entrust",
+  "order": "4",
+  "parents": [
+    "ichidan",
+    "people-do",
+    "ni-person-verbs"
+  ],
+  "props": {
+    "en": "entrust",
+    "jp": "任せる",
+    "tl": "まかせる"
+  }
+}

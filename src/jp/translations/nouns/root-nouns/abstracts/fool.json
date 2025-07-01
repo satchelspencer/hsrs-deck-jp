@@ -1,0 +1,14 @@
+{
+  "_id": "9vjlix7x0j9",
+  "desc": "idiot",
+  "name": "fool",
+  "order": "4",
+  "parents": [
+    "abstracts"
+  ],
+  "props": {
+    "en": "fool",
+    "jp": "馬鹿",
+    "tl": "ばか"
+  }
+}

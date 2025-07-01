@@ -1,0 +1,17 @@
+{
+  "_id": "4tpjj03e9ho",
+  "desc": "adjust, match",
+  "name": "align",
+  "order": "4",
+  "parents": [
+    "ichidan",
+    "people-do",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "",
+    "en": "align",
+    "jp": "合わせる",
+    "tl": "あわせる"
+  }
+}

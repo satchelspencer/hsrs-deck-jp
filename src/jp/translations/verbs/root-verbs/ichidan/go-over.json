@@ -1,0 +1,18 @@
+{
+  "_id": "aoeek9kwtd",
+  "desc": "exceed, go past",
+  "name": "go-over",
+  "order": "4",
+  "parents": [
+    "ichidan",
+    "people-do",
+    "do-with-transports",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "going over",
+    "en": "go over",
+    "jp": "越える",
+    "tl": "こえる"
+  }
+}

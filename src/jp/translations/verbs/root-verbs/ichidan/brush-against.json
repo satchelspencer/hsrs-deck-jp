@@ -1,0 +1,16 @@
+{
+  "_id": "jiqzpalohl",
+  "desc": "lightly come into contact with",
+  "name": "brush-against",
+  "order": "4",
+  "parents": [
+    "ichidan",
+    "movers-do",
+    "de-location-verbs"
+  ],
+  "props": {
+    "en": "brush against",
+    "jp": "触れる",
+    "tl": "ふれる"
+  }
+}

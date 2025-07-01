@@ -1,0 +1,14 @@
+{
+  "_id": "ps3stpsfvmm",
+  "desc": "serious",
+  "name": "dilligent",
+  "order": "4",
+  "parents": [
+    "na-people"
+  ],
+  "props": {
+    "en": "dilligent",
+    "jp": "真面目",
+    "tl": "まじめ"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "_id": "t56icw9ah4e",
+  "desc": "annoying",
+  "name": "troublesome",
+  "order": "4",
+  "parents": [
+    "na-attributive"
+  ],
+  "props": {
+    "_ad": "troublesomely",
+    "en": "troublesome",
+    "jp": "面倒",
+    "tl": "めんどう"
+  }
+}

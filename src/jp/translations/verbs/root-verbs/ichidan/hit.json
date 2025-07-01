@@ -1,0 +1,16 @@
+{
+  "_id": "iv7hd1wa8c",
+  "desc": "strike, shoot",
+  "name": "hit",
+  "order": "4",
+  "parents": [
+    "ichidan",
+    "people-do",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "hitting",
+    "en": "hit",
+    "jp": "あてる"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "_id": "skciorx4l2",
+  "desc": "tase by licking",
+  "name": "lick",
+  "order": "4",
+  "parents": [
+    "ichidan",
+    "people-do",
+    "animals-do",
+    "do-to-foods",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "en": "lick",
+    "jp": "舐める",
+    "tl": "なめる"
+  }
+}

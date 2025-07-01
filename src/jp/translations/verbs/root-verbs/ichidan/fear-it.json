@@ -1,0 +1,15 @@
+{
+  "_id": "xdrc26ctj8",
+  "desc": "be afraid of",
+  "name": "fear-it",
+  "order": "4",
+  "parents": [
+    "ichidan",
+    "people-do"
+  ],
+  "props": {
+    "en": "fear it",
+    "jp": "恐れる",
+    "tl": "おそれる"
+  }
+}

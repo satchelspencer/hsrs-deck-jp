@@ -1,0 +1,14 @@
+{
+  "_id": "5srslywk2k4",
+  "desc": "unique, only",
+  "name": "sole",
+  "order": "4",
+  "parents": [
+    "na-seeables"
+  ],
+  "props": {
+    "en": "sole",
+    "jp": "唯一",
+    "tl": "ゆいいつ"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "t8o3o08vv1",
+  "desc": "stop a bad thing from happening",
+  "name": "prevent-it",
+  "order": "4",
+  "parents": [
+    "godan-gu",
+    "people-do",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "preventing it",
+    "en": "prevent it",
+    "jp": "防ぐ",
+    "tl": "ふせぐ"
+  }
+}

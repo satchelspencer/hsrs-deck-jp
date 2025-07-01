@@ -1,0 +1,14 @@
+{
+  "_id": "rrpy3y9b6y",
+  "desc": "outstanding",
+  "name": "superior",
+  "order": "4",
+  "parents": [
+    "na-people"
+  ],
+  "props": {
+    "en": "superior",
+    "jp": "優秀",
+    "tl": "ゆうしゅう"
+  }
+}

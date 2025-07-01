@@ -1,0 +1,13 @@
+{
+  "_id": "q0wxbm9t48",
+  "name": "sharpened",
+  "order": "4",
+  "parents": [
+    "i-attributive-standard"
+  ],
+  "props": {
+    "en": "sharpened",
+    "jp": "鋭い",
+    "tl": "するどい"
+  }
+}

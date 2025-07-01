@@ -1,0 +1,15 @@
+{
+  "_id": "bzh788lih34",
+  "desc": "(idea) gotten across",
+  "name": "be-communicated",
+  "order": "4",
+  "parents": [
+    "ichidan",
+    "ni-person-verbs"
+  ],
+  "props": {
+    "en": "be communicated",
+    "jp": "通じる",
+    "tl": "つうじる"
+  }
+}

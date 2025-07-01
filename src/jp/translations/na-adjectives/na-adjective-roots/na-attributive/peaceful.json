@@ -1,0 +1,13 @@
+{
+  "_id": "50npn7bcs1f",
+  "name": "peaceful",
+  "order": "4",
+  "parents": [
+    "na-attributive"
+  ],
+  "props": {
+    "en": "peaceful",
+    "jp": "穏やか",
+    "tl": "おだやか"
+  }
+}

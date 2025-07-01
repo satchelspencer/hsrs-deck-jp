@@ -1,0 +1,14 @@
+{
+  "_id": "c6sbdlskre",
+  "desc": "overflow, be full",
+  "name": "overflow",
+  "order": "4",
+  "parents": [
+    "ichidan"
+  ],
+  "props": {
+    "en": "overflow",
+    "jp": "溢れる",
+    "tl": "あふれる"
+  }
+}

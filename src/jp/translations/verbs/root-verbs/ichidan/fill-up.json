@@ -1,0 +1,16 @@
+{
+  "_id": "av6i2nus0tt",
+  "desc": "become full",
+  "name": "fill-up",
+  "order": "4",
+  "parents": [
+    "ichidan",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "_st": "filled up",
+    "en": "fill up",
+    "jp": "満ちる",
+    "tl": "みちる"
+  }
+}

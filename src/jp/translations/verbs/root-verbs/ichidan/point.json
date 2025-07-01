@@ -1,0 +1,18 @@
+{
+  "_id": "ip8qws5vbl",
+  "desc": "point towards",
+  "name": "point",
+  "order": "4",
+  "parents": [
+    "ichidan",
+    "people-do",
+    "ni-destination-verbs",
+    "ni-person-verbs",
+    "do-to-objects"
+  ],
+  "props": {
+    "en": "point",
+    "jp": "向ける",
+    "tl": "むける"
+  }
+}

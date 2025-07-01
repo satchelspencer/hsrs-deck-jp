@@ -1,0 +1,18 @@
+{
+  "_id": "fx2rafsk8uu",
+  "desc": "act violent",
+  "name": "rampage",
+  "order": "4",
+  "parents": [
+    "ichidan",
+    "people-do",
+    "de-location-verbs",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "rampaging",
+    "en": "rampage",
+    "jp": "暴れる",
+    "tl": "あばれる"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "_id": "f0zvjbd8z5m",
+  "desc": "entrust it to physically",
+  "name": "leave-in-care",
+  "order": "4",
+  "parents": [
+    "ichidan",
+    "people-do",
+    "do-to-objects",
+    "do-to-products",
+    "ni-person-verbs"
+  ],
+  "props": {
+    "en": "leave it in care",
+    "jp": "預ける",
+    "tl": "あずける"
+  }
+}

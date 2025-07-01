@@ -1,0 +1,14 @@
+{
+  "_id": "9mjn38i7exp",
+  "desc": "useless, futile",
+  "name": "wasteful",
+  "order": "4",
+  "parents": [
+    "na-attributive"
+  ],
+  "props": {
+    "en": "wasteful",
+    "jp": "無駄",
+    "tl": "むだ"
+  }
+}

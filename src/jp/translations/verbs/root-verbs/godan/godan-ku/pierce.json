@@ -1,0 +1,16 @@
+{
+  "_id": "ljmduhlogd",
+  "desc": "go straight through",
+  "name": "pierce",
+  "order": "4",
+  "parents": [
+    "godan-ku",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "piercing",
+    "en": "pierce",
+    "jp": "貫く",
+    "tl": "つらぬく"
+  }
+}

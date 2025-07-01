@@ -1,0 +1,20 @@
+{
+  "_id": "tf06krsjzj8",
+  "desc": "stare at",
+  "name": "gaze-at",
+  "order": "4",
+  "parents": [
+    "ichidan",
+    "people-do",
+    "animals-do",
+    "do-to-seeables",
+    "de-location-verbs",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "gazing at",
+    "en": "gaze at",
+    "jp": "見つめる",
+    "tl": "みつめる"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "_id": "6o90r53y0n9",
+  "desc": "be flustered",
+  "name": "panic",
+  "order": "4",
+  "parents": [
+    "ichidan",
+    "people-do",
+    "de-location-verbs",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "panicking",
+    "en": "panic",
+    "jp": "慌てる",
+    "tl": "あわてる"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "_id": "7byug5a7fhw",
+  "desc": "great, remarkable",
+  "name": "admirable",
+  "order": "4",
+  "parents": [
+    "i-people"
+  ],
+  "props": {
+    "_ad": "admirably",
+    "en": "admirable",
+    "jp": "偉い",
+    "tl": "えらい"
+  }
+}

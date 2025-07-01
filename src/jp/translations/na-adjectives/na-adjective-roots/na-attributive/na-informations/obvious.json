@@ -1,0 +1,14 @@
+{
+  "_id": "ibfy5kq08x",
+  "desc": "evident",
+  "name": "obvious",
+  "order": "4",
+  "parents": [
+    "na-informations"
+  ],
+  "props": {
+    "en": "obvious",
+    "jp": "明らか",
+    "tl": "あきらか"
+  }
+}

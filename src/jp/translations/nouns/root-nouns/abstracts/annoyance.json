@@ -1,0 +1,14 @@
+{
+  "_id": "n6xky5o33fd",
+  "desc": "nuisance",
+  "name": "annoyance",
+  "order": "4",
+  "parents": [
+    "abstracts"
+  ],
+  "props": {
+    "en": "annoyance",
+    "jp": "迷惑",
+    "tl": "めいわく"
+  }
+}

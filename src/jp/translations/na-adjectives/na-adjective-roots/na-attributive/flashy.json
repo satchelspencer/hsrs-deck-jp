@@ -1,0 +1,14 @@
+{
+  "_id": "uqfhoxzb5ag",
+  "desc": "showy",
+  "name": "flashy",
+  "order": "4",
+  "parents": [
+    "na-attributive"
+  ],
+  "props": {
+    "en": "flashy",
+    "jp": "派手",
+    "tl": "はで"
+  }
+}

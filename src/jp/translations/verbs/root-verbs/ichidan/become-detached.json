@@ -1,0 +1,16 @@
+{
+  "_id": "ifgpsdl7ns",
+  "desc": "come off",
+  "name": "become-detached",
+  "order": "4",
+  "parents": [
+    "ichidan",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "_st": "detached",
+    "en": "become detached",
+    "jp": "外れる",
+    "tl": "はずれる"
+  }
+}

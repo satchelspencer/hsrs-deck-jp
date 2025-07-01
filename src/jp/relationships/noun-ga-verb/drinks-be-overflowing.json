@@ -3,7 +3,7 @@
   "name": "drinks-be-overflowing",
   "params": {
     "noun": "drinks",
-    "verb": "be-overflowing"
+    "verb": "spill"
   },
   "parents": [
     "noun-ga-verb"

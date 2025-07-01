@@ -1,0 +1,16 @@
+{
+  "_id": "nya9geok3e",
+  "desc": "come loose",
+  "name": "fall-out",
+  "order": "4",
+  "parents": [
+    "ichidan",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "_st": "fallen out",
+    "en": "fall out",
+    "jp": "抜ける",
+    "tl": "ぬける"
+  }
+}

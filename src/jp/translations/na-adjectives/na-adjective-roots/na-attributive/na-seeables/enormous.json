@@ -1,0 +1,14 @@
+{
+  "_id": "4lhlngynndm",
+  "desc": "gigantic",
+  "name": "enormous",
+  "order": "4",
+  "parents": [
+    "na-seeables"
+  ],
+  "props": {
+    "en": "enormous",
+    "jp": "巨大",
+    "tl": "きょだい"
+  }
+}

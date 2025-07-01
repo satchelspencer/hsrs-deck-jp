@@ -1,0 +1,15 @@
+{
+  "_id": "dscuv5lqyc",
+  "desc": "hit with force",
+  "name": "bump",
+  "order": "4",
+  "parents": [
+    "ichidan",
+    "people-do",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "en": "bump",
+    "jp": "ぶつける"
+  }
+}

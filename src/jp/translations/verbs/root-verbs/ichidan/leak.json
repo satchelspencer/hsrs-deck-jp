@@ -1,0 +1,16 @@
+{
+  "_id": "f467s82vc5l",
+  "desc": "it leaks",
+  "name": "leak",
+  "order": "4",
+  "parents": [
+    "ichidan",
+    "de-location-verbs",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "en": "leak",
+    "jp": "漏れる",
+    "tl": "もれる"
+  }
+}

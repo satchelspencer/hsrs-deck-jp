@@ -1,7 +1,7 @@
 {
   "_id": "i2qravksbeg",
   "desc": "overflow, spill",
-  "name": "be-overflowing",
+  "name": "spill",
   "order": "3",
   "parents": [
     "te-iru-verbs-state",

@@ -1,0 +1,14 @@
+{
+  "_id": "khjmztszg5n",
+  "desc": "precise",
+  "name": "accurate",
+  "order": "4",
+  "parents": [
+    "na-informations"
+  ],
+  "props": {
+    "en": "accurate",
+    "jp": "正確",
+    "tl": "せいかく"
+  }
+}

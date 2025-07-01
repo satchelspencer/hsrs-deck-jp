@@ -1,0 +1,18 @@
+{
+  "_id": "a5rhcgp6wqh",
+  "desc": "bear",
+  "name": "carry-underarm",
+  "order": "4",
+  "parents": [
+    "ichidan",
+    "people-do",
+    "do-to-objects",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "carrying underarm",
+    "en": "carry underarm",
+    "jp": "抱える",
+    "tl": "かかえる"
+  }
+}

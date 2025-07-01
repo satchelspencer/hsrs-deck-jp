@@ -1,0 +1,14 @@
+{
+  "_id": "yfiqj0pufc",
+  "desc": "greatest amount",
+  "name": "maximum",
+  "order": "4",
+  "parents": [
+    "abstracts"
+  ],
+  "props": {
+    "en": "maximum",
+    "jp": "最大",
+    "tl": "さいだい"
+  }
+}

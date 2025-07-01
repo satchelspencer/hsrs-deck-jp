@@ -1,0 +1,18 @@
+{
+  "_id": "85choa01b0p",
+  "desc": "pile it up",
+  "name": "stack it",
+  "order": "4",
+  "parents": [
+    "ichidan",
+    "people-do",
+    "do-to-objects",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "stacking it",
+    "en": "stack it",
+    "jp": "重ねる",
+    "tl": "かさねる"
+  }
+}

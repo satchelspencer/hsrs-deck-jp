@@ -1,0 +1,15 @@
+{
+  "_id": "6k4wu1ky5h3",
+  "desc": "unusual",
+  "name": "abnormal",
+  "order": "4",
+  "parents": [
+    "na-seeables"
+  ],
+  "props": {
+    "_ad": "",
+    "en": "abnormal",
+    "jp": "異常",
+    "tl": "いじょう"
+  }
+}

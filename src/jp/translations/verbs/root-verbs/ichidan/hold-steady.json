@@ -1,0 +1,18 @@
+{
+  "_id": "mp9v7xc4od",
+  "desc": "hold in place, secure it",
+  "name": "hold-steady",
+  "order": "4",
+  "parents": [
+    "ichidan",
+    "people-do",
+    "do-to-objects",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "holding it steady",
+    "en": "hold it steady",
+    "jp": "押さえる",
+    "tl": "おさえる"
+  }
+}

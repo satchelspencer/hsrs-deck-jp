@@ -1,0 +1,18 @@
+{
+  "_id": "s980huxfy9a",
+  "desc": "pursue",
+  "name": "seek",
+  "order": "4",
+  "parents": [
+    "ichidan",
+    "people-do",
+    "ni-person-verbs",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "seeking",
+    "en": "seek",
+    "jp": "求める",
+    "tl": "もとめる"
+  }
+}

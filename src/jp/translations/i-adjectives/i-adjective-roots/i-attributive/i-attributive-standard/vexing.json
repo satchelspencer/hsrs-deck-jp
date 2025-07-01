@@ -1,0 +1,14 @@
+{
+  "_id": "60l7kygggey",
+  "desc": "frustrating",
+  "name": "vexing",
+  "order": "4",
+  "parents": [
+    "i-attributive-standard"
+  ],
+  "props": {
+    "en": "vexing",
+    "jp": "悔しい",
+    "tl": "くやしい"
+  }
+}

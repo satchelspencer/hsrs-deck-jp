@@ -1,0 +1,15 @@
+{
+  "_id": "w0r3u506teo",
+  "desc": "be on fire",
+  "name": "burn",
+  "order": "4",
+  "parents": [
+    "ichidan",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "en": "burn",
+    "jp": "燃える",
+    "tl": "もえる"
+  }
+}

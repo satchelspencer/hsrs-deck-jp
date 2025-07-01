@@ -1,0 +1,17 @@
+{
+  "_id": "pb35j5mugsl",
+  "name": "satisfaction",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "people-do",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "_st": "satisfied",
+    "_v": "be satisfied",
+    "en": "satisfaction",
+    "jp": "満足",
+    "tl": "まんぞく"
+  }
+}

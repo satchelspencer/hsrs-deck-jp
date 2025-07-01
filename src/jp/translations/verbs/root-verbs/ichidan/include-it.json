@@ -1,0 +1,17 @@
+{
+  "_id": "sw9bn6kmuyn",
+  "desc": "in a list, cost etc",
+  "name": "include-it",
+  "order": "4",
+  "parents": [
+    "ichidan",
+    "people-do",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "including",
+    "en": "include",
+    "jp": "含める",
+    "tl": "ふくめる"
+  }
+}

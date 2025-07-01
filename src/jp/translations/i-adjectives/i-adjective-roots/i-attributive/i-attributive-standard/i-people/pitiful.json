@@ -1,0 +1,14 @@
+{
+  "_id": "0sfa2ga6587m",
+  "desc": "pathetic",
+  "name": "pitiful",
+  "order": "4",
+  "parents": [
+    "i-people"
+  ],
+  "props": {
+    "en": "pitiful",
+    "jp": "情けない",
+    "tl": "なさけない"
+  }
+}

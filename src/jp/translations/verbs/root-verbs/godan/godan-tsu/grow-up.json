@@ -1,0 +1,19 @@
+{
+  "_id": "o6bgo3th05f",
+  "desc": "be raised",
+  "name": "grow-up",
+  "order": "4",
+  "parents": [
+    "godan-tsu",
+    "people-do",
+    "animals-do",
+    "de-location-verbs",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "_st": "grown up",
+    "en": "grow up",
+    "jp": "育つ",
+    "tl": "そだつ"
+  }
+}

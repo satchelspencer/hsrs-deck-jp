@@ -1,0 +1,14 @@
+{
+  "_id": "eejtjivgyo4",
+  "desc": "pure deep red",
+  "name": "bright-red",
+  "order": "4",
+  "parents": [
+    "colors"
+  ],
+  "props": {
+    "en": "bright red",
+    "jp": "真っ赤",
+    "tl": "まっか"
+  }
+}

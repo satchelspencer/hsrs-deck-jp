@@ -1,0 +1,17 @@
+{
+  "_id": "eybpbxb5mr",
+  "desc": "be detached, be removed",
+  "name": "come-off",
+  "order": "4",
+  "parents": [
+    "ichidan",
+    "objects-do",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "_st": "taken off",
+    "en": "come off",
+    "jp": "取れる",
+    "tl": "とれる"
+  }
+}

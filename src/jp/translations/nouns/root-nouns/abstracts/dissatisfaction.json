@@ -1,0 +1,14 @@
+{
+  "_id": "170axo3h29t",
+  "desc": "discontent",
+  "name": "dissatisfaction",
+  "order": "4",
+  "parents": [
+    "abstracts"
+  ],
+  "props": {
+    "en": "dissatisfaction",
+    "jp": "不満",
+    "tl": "ふまん"
+  }
+}

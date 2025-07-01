@@ -1,0 +1,19 @@
+{
+  "_id": "7avsx5s32dg",
+  "desc": "confirm",
+  "name": "make-sure-of",
+  "order": "4",
+  "parents": [
+    "ichidan",
+    "people-do",
+    "do-to-informations",
+    "de-location-verbs",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "making sure of",
+    "en": "make sure of",
+    "jp": "確かめる",
+    "tl": "たしかめる"
+  }
+}

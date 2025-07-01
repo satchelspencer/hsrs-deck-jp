@@ -1,0 +1,19 @@
+{
+  "_id": "mnqgouoz8zr",
+  "desc": "notify, tell",
+  "name": "inform",
+  "order": "4",
+  "parents": [
+    "ichidan",
+    "people-do",
+    "do-to-informations",
+    "ni-person-verbs",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "",
+    "en": "inform",
+    "jp": "告げる",
+    "tl": "つげる"
+  }
+}

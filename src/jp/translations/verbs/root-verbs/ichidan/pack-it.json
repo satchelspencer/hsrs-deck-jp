@@ -1,0 +1,19 @@
+{
+  "_id": "ln815f6r2i",
+  "desc": "load into",
+  "name": "pack-it",
+  "order": "4",
+  "parents": [
+    "ichidan",
+    "people-do",
+    "do-to-objects",
+    "do-to-foods",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "packing it",
+    "en": "pack it",
+    "jp": "込める",
+    "tl": "こめる"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "_id": "78zvynxvpo",
+  "desc": "recognize, admit, accept",
+  "name": "recognize",
+  "order": "4",
+  "parents": [
+    "ichidan",
+    "people-do"
+  ],
+  "props": {
+    "en": "recognize",
+    "jp": "認める",
+    "tl": "みとめる"
+  }
+}

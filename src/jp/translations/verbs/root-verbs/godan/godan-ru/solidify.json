@@ -1,0 +1,15 @@
+{
+  "_id": "be4dtti8en9",
+  "desc": "harden, congeal",
+  "name": "solidify",
+  "order": "4",
+  "parents": [
+    "godan-ru",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "en": "solidify",
+    "jp": "固まる",
+    "tl": "かたまる"
+  }
+}

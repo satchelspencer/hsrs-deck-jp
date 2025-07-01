@@ -3,7 +3,7 @@
   "name": "important-pol-point",
   "params": {
     "na": "important-polite",
-    "noun": "point"
+    "noun": "dot"
   },
   "parents": [
     "na-attributive-noun"

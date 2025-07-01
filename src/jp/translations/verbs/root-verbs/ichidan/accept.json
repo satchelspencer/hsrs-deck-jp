@@ -1,0 +1,15 @@
+{
+  "_id": "jl9gozny7ul",
+  "desc": "embrace, approve",
+  "name": "accept",
+  "order": "4",
+  "parents": [
+    "ichidan",
+    "people-do"
+  ],
+  "props": {
+    "en": "accept",
+    "jp": "受け入れる",
+    "tl": "うけいれる"
+  }
+}

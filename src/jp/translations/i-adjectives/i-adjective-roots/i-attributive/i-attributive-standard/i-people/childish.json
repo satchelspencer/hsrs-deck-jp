@@ -1,0 +1,14 @@
+{
+  "_id": "bi5j3flse7c",
+  "desc": "very young",
+  "name": "childish",
+  "order": "4",
+  "parents": [
+    "i-people"
+  ],
+  "props": {
+    "en": "childish",
+    "jp": "幼い",
+    "tl": "おさない"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "_id": "dj6dnxd552",
+  "desc": "pile up",
+  "name": "accumulate",
+  "order": "4",
+  "parents": [
+    "godan-ru",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "_st": "accumulated",
+    "en": "accumulate",
+    "jp": "たまる"
+  }
+}

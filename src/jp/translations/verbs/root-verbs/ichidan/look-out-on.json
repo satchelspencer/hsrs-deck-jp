@@ -1,0 +1,18 @@
+{
+  "_id": "lr4zrchgc2",
+  "desc": "gaze on",
+  "name": "look-out-on",
+  "order": "4",
+  "parents": [
+    "ichidan",
+    "people-do",
+    "te-iru-verbs-continuous",
+    "do-to-seeables"
+  ],
+  "props": {
+    "_pg": "looking out on",
+    "en": "look out on",
+    "jp": "眺める",
+    "tl": "ながめる"
+  }
+}

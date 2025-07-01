@@ -1,6 +1,7 @@
 {
   "_id": "sr4xjwdkj5",
   "name": "blue-color",
+  "order": "3",
   "parents": [
     "colors"
   ],

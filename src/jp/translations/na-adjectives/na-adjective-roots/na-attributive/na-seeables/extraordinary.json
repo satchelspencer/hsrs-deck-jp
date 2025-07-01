@@ -1,0 +1,14 @@
+{
+  "_id": "zta487s2io",
+  "desc": "special, unique",
+  "name": "extraordinary",
+  "order": "4",
+  "parents": [
+    "na-seeables"
+  ],
+  "props": {
+    "en": "extraordinary",
+    "jp": "特殊",
+    "tl": "とくしゅ"
+  }
+}

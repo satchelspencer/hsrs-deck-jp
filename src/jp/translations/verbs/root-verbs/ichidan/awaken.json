@@ -1,0 +1,16 @@
+{
+  "_id": "vnvxom9iz7c",
+  "desc": "",
+  "name": "awaken",
+  "order": "4",
+  "parents": [
+    "ichidan",
+    "people-do",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "en": "awaken",
+    "jp": "目覚める",
+    "tl": "めざめる"
+  }
+}

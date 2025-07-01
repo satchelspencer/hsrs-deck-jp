@@ -1,0 +1,15 @@
+{
+  "_id": "ok960s6ob1g",
+  "desc": "weakness inducing",
+  "name": "weak-skilled",
+  "order": "4",
+  "parents": [
+    "na-attributive"
+  ],
+  "props": {
+    "_ad": "",
+    "en": "weak skilled",
+    "jp": "苦手",
+    "tl": "にがて"
+  }
+}

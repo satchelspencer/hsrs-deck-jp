@@ -1,0 +1,18 @@
+{
+  "_id": "udr7almlt8",
+  "desc": "support, sustain, hold up",
+  "name": "propping-up",
+  "order": "4",
+  "parents": [
+    "ichidan",
+    "people-do",
+    "do-to-people",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "propping up",
+    "en": "prop up",
+    "jp": "支える",
+    "tl": "ささえる"
+  }
+}
