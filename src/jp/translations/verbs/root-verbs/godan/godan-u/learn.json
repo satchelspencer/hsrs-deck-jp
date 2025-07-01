@@ -4,11 +4,11 @@
   "order": "2",
   "parents": [
     "godan-u",
-    "people-do",
     "do-to-learnables",
     "te-iru-verbs-continuous",
     "ni-person-verbs",
-    "de-location-verbs"
+    "de-location-verbs",
+    "people-do-volitional"
   ],
   "props": {
     "en": "learn",

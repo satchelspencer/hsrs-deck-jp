@@ -6,9 +6,9 @@
   "parents": [
     "godan-ru",
     "do-to-people",
-    "people-do",
     "de-location-verbs",
-    "te-iru-verbs-continuous"
+    "te-iru-verbs-continuous",
+    "people-do-volitional"
   ],
   "props": {
     "_pg": "seeing off",

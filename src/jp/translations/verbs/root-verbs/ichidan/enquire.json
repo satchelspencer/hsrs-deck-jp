@@ -5,9 +5,9 @@
   "order": "3",
   "parents": [
     "ichidan",
-    "people-do",
     "ni-person-verbs",
-    "do-to-informations"
+    "do-to-informations",
+    "people-do-volitional"
   ],
   "props": {
     "en": "enquire",

@@ -1,0 +1,16 @@
+{
+  "_id": "4dl7ac69zmj",
+  "desc": "to answer, to reply",
+  "name": "give-answer",
+  "order": "3",
+  "parents": [
+    "de-location-verbs",
+    "ichidan",
+    "people-do-volitional"
+  ],
+  "props": {
+    "en": "give answer",
+    "jp": "答える",
+    "tl": "こたえる"
+  }
+}

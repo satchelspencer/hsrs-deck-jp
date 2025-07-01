@@ -5,10 +5,10 @@
   "order": "3",
   "parents": [
     "ichidan",
-    "people-do",
     "do-to-sendables",
     "ni-person-verbs",
-    "ni-destination-verbs"
+    "ni-destination-verbs",
+    "people-do-volitional"
   ],
   "props": {
     "en": "deliver",

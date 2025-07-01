@@ -1,0 +1,21 @@
+{
+  "_id": "rsrtrti0zv",
+  "mode": "c---pn",
+  "name": "plain",
+  "order": "1",
+  "params": {
+    "verb": "root-verbs"
+  },
+  "parents": [
+    "plain-forms",
+    "nda-verb-forms",
+    "yo-ne-verb-forms",
+    "relative-clause-verb-forms",
+    "non-past-dict-forms"
+  ],
+  "props": {
+    "en": "verb.en",
+    "jp": "verb.jp"
+  },
+  "virtual": true
+}

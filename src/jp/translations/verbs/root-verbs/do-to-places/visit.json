@@ -1,0 +1,17 @@
+{
+  "_id": "9ie54edvl",
+  "desc": "to visit, to call on, to pay a visit to",
+  "name": "visit",
+  "order": "2",
+  "parents": [
+    "do-to-places",
+    "te-iru-verbs-continuous",
+    "ichidan",
+    "people-do-volitional"
+  ],
+  "props": {
+    "en": "visit",
+    "jp": "訪ねる",
+    "tl": "たずねる"
+  }
+}

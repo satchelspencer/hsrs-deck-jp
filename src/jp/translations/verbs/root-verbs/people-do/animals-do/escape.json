@@ -1,0 +1,19 @@
+{
+  "_id": "0al49zas38jh",
+  "desc": "to run away, to flee, to get away (e.g. from danger), to escape, to break out",
+  "name": "escape",
+  "order": "3",
+  "parents": [
+    "animals-do",
+    "he-related-verbs",
+    "te-iru-verbs-continuous",
+    "ichidan",
+    "people-do-volitional"
+  ],
+  "props": {
+    "_pg": "escaping",
+    "en": "escape",
+    "jp": "逃げる",
+    "tl": "にげる"
+  }
+}

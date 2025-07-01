@@ -5,7 +5,7 @@
   "name": "command-form-negative",
   "params": {
     "form": "plain",
-    "rel": "verb-people-do"
+    "rel": "verb-people-do-volitional"
   },
   "parents": [
     "command-form"

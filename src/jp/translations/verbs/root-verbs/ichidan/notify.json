@@ -6,8 +6,8 @@
   "parents": [
     "ichidan",
     "do-to-informations",
-    "people-do",
-    "ni-person-verbs"
+    "ni-person-verbs",
+    "people-do-volitional"
   ],
   "props": {
     "en": "notify",

@@ -5,9 +5,9 @@
   "order": "4",
   "parents": [
     "godan-mu",
-    "people-do",
     "do-to-people",
-    "de-location-verbs"
+    "de-location-verbs",
+    "people-do-volitional"
   ],
   "props": {
     "en": "give birth",

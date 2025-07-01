@@ -4,8 +4,8 @@
   "order": "2",
   "parents": [
     "godan-u",
-    "people-do",
-    "ni-destination-verbs"
+    "ni-destination-verbs",
+    "people-do-volitional"
   ],
   "props": {
     "en": "put away",

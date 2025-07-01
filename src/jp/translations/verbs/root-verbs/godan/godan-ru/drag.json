@@ -5,9 +5,9 @@
   "order": "4",
   "parents": [
     "godan-ru",
-    "people-do",
     "animals-do",
-    "ni-destination-verbs"
+    "ni-destination-verbs",
+    "people-do-volitional"
   ],
   "props": {
     "en": "drag",

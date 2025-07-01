@@ -3,7 +3,7 @@
   "name": "faintly-remain",
   "params": {
     "adv": "faintly",
-    "verb": "be-left-over"
+    "verb": "remain"
   },
   "parents": [
     "adverb-verb"

@@ -5,8 +5,8 @@
   "order": "4",
   "parents": [
     "ichidan",
-    "people-do",
-    "de-location-verbs"
+    "de-location-verbs",
+    "people-do-volitional"
   ],
   "props": {
     "en": "finish it",

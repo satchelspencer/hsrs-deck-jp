@@ -5,10 +5,10 @@
   "order": "4",
   "parents": [
     "godan-bu",
-    "people-do",
     "ni-person-verbs",
     "do-to-informations",
-    "te-iru-verbs-continuous"
+    "te-iru-verbs-continuous",
+    "people-do-volitional"
   ],
   "props": {
     "_pg": "acquiring knowledge of",

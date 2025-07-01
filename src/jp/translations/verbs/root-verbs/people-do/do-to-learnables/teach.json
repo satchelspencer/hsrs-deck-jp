@@ -1,0 +1,19 @@
+{
+  "_id": "9mfxfv5oeh7",
+  "desc": "to teach, to instruct. to tell, to inform, to show. to preach",
+  "name": "teach",
+  "order": "1",
+  "parents": [
+    "do-to-learnables",
+    "ni-person-verbs",
+    "te-iru-verbs-continuous",
+    "de-location-verbs",
+    "ichidan",
+    "people-do-volitional"
+  ],
+  "props": {
+    "en": "teach",
+    "jp": "教える",
+    "tl": "おしえる"
+  }
+}

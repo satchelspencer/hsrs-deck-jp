@@ -4,8 +4,8 @@
   "order": "3",
   "parents": [
     "godan-mu",
-    "people-do",
-    "do-to-products"
+    "do-to-products",
+    "people-do-volitional"
   ],
   "props": {
     "en": "steal",

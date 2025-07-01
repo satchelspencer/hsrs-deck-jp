@@ -5,9 +5,9 @@
   "order": "4",
   "parents": [
     "godan-u",
-    "people-do",
     "do-to-products",
-    "de-location-verbs"
+    "de-location-verbs",
+    "people-do-volitional"
   ],
   "props": {
     "en": "snatch",

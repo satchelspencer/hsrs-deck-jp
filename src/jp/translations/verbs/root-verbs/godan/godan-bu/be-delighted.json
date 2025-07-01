@@ -5,9 +5,9 @@
   "order": "2",
   "parents": [
     "godan-bu",
-    "people-do",
     "te-iru-verbs-state",
-    "de-location-verbs"
+    "de-location-verbs",
+    "people-do-volitional"
   ],
   "props": {
     "_st": "delighted",

@@ -5,9 +5,9 @@
   "order": "2",
   "parents": [
     "godan-ru",
-    "people-do",
     "ni-at-verbs",
-    "te-iru-verbs-continuous"
+    "te-iru-verbs-continuous",
+    "people-do-volitional"
   ],
   "props": {
     "_pg": "staying overnight",

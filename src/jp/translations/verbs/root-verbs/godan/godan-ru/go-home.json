@@ -5,10 +5,10 @@
   "order": "2",
   "parents": [
     "godan-ru",
-    "people-do",
     "he-related-verbs",
     "te-iru-verbs-state",
-    "do-with-transports"
+    "do-with-transports",
+    "people-do-volitional"
   ],
   "props": {
     "_st": "returned home",

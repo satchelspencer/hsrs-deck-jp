@@ -13,7 +13,7 @@
     "clauses"
   ],
   "props": {
-    "en": "form.en+' '+counter.en",
+    "en": "form.en|rg(' it', '')+' '+counter.en",
     "jp": "counter.jp+'を'+form.jp"
   }
 }

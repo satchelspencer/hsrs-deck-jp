@@ -1,0 +1,19 @@
+{
+  "_id": "dboa48r3izp",
+  "constraint": "verb",
+  "mode": "c---an",
+  "name": "plain-volitional",
+  "order": "3",
+  "params": {
+    "rel": "verb-people-do-volitional",
+    "verb": "root-verbs"
+  },
+  "parents": [
+    "volitional"
+  ],
+  "props": {
+    "en": "'let\\'s '+verb.en",
+    "jp": null
+  },
+  "virtual": true
+}

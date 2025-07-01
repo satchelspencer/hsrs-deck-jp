@@ -5,11 +5,11 @@
   "order": "2",
   "parents": [
     "godan-ru",
-    "people-do",
     "do-to-sendables",
     "he-related-verbs",
     "ni-person-verbs",
-    "te-iru-verbs-continuous"
+    "te-iru-verbs-continuous",
+    "people-do-volitional"
   ],
   "props": {
     "en": "send",

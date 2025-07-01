@@ -5,10 +5,10 @@
   "order": "2",
   "parents": [
     "suru-nouns",
-    "people-do",
     "choosables",
     "te-iru-verbs-continuous",
-    "de-location-verbs"
+    "de-location-verbs",
+    "people-do-volitional"
   ],
   "props": {
     "_pg": "making a plan",

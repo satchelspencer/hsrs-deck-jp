@@ -5,12 +5,12 @@
   "order": "4",
   "parents": [
     "godan-u",
-    "people-do",
     "do-to-people",
     "do-to-animals",
     "animals-do",
     "te-iru-verbs-continuous",
-    "de-location-verbs"
+    "de-location-verbs",
+    "people-do-volitional"
   ],
   "props": {
     "_pg": "chasing it",

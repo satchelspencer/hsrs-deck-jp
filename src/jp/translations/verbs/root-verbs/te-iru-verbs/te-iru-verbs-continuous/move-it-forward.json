@@ -1,0 +1,18 @@
+{
+  "_id": "054s7hmhvwwg",
+  "desc": "to advance, to move forward, to carry forward (plans, work, etc.), to proceed with",
+  "name": "move-it-forward",
+  "order": "2",
+  "parents": [
+    "te-iru-verbs-continuous",
+    "de-location-verbs",
+    "ichidan",
+    "people-do-volitional"
+  ],
+  "props": {
+    "_pg": "moving it forward",
+    "en": "move it forward",
+    "jp": "進める",
+    "tl": "すすめる"
+  }
+}

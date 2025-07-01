@@ -5,9 +5,9 @@
   "order": "3",
   "parents": [
     "godan-mu",
-    "people-do",
     "animals-do",
-    "do-to-foods"
+    "do-to-foods",
+    "people-do-volitional"
   ],
   "props": {
     "en": "bite",

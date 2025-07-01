@@ -4,9 +4,9 @@
   "order": "3",
   "parents": [
     "suru-nouns",
-    "people-do",
     "do-with-languages",
-    "te-iru-verbs-continuous"
+    "te-iru-verbs-continuous",
+    "people-do-volitional"
   ],
   "props": {
     "_pg": "conversing",

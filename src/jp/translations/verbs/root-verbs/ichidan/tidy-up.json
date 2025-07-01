@@ -5,9 +5,9 @@
   "order": "3",
   "parents": [
     "ichidan",
-    "people-do",
     "do-to-places",
-    "do-to-objects"
+    "do-to-objects",
+    "people-do-volitional"
   ],
   "props": {
     "en": "tidy up",

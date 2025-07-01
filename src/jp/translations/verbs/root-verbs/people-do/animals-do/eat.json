@@ -1,0 +1,19 @@
+{
+  "_id": "fhxwczqk4vg",
+  "name": "eat",
+  "order": "1",
+  "parents": [
+    "animals-do",
+    "te-iru-verbs-continuous",
+    "de-location-verbs",
+    "ikura-verbs",
+    "ichidan",
+    "do-to-foods",
+    "people-do-volitional"
+  ],
+  "props": {
+    "en": "eat",
+    "jp": "食べる",
+    "tl": "たべる"
+  }
+}

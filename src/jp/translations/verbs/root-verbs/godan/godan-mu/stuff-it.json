@@ -5,9 +5,9 @@
   "order": "4",
   "parents": [
     "godan-mu",
-    "people-do",
     "te-iru-verbs-continuous",
-    "do-to-objects"
+    "do-to-objects",
+    "people-do-volitional"
   ],
   "props": {
     "_pg": "stuffing it",

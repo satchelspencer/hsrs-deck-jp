@@ -5,8 +5,8 @@
   "order": "3",
   "parents": [
     "godan-su",
-    "people-do",
-    "de-location-verbs"
+    "de-location-verbs",
+    "people-do-volitional"
   ],
   "props": {
     "en": "leave behind",

@@ -5,11 +5,11 @@
   "order": "4",
   "parents": [
     "godan-u",
-    "people-do",
     "do-to-informations",
     "ni-person-verbs",
     "de-location-verbs",
-    "te-iru-verbs-continuous"
+    "te-iru-verbs-continuous",
+    "people-do-volitional"
   ],
   "props": {
     "_pg": "questioning it",

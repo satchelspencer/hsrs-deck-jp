@@ -1,0 +1,18 @@
+{
+  "_id": "qdw47ex6hz8",
+  "desc": "to transfer (trains), to change (bus, train)",
+  "name": "transfer-ride",
+  "order": "1",
+  "parents": [
+    "do-to-transports",
+    "ichidan",
+    "te-iru-verbs-continuous",
+    "people-do-volitional"
+  ],
+  "props": {
+    "_pg": "transfering ride",
+    "en": "transfer ride",
+    "jp": "乗り換える",
+    "tl": "のりかえる"
+  }
+}

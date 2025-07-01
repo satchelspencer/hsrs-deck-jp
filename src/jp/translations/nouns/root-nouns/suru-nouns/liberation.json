@@ -5,8 +5,8 @@
   "order": "4",
   "parents": [
     "suru-nouns",
-    "people-do",
-    "do-to-people"
+    "do-to-people",
+    "people-do-volitional"
   ],
   "props": {
     "_v": "liberate",

@@ -5,10 +5,10 @@
   "order": "3",
   "parents": [
     "ichidan",
-    "people-do",
     "do-to-objects",
     "ni-destination-verbs",
-    "te-iru-verbs-continuous"
+    "te-iru-verbs-continuous",
+    "people-do-volitional"
   ],
   "props": {
     "en": "throw",

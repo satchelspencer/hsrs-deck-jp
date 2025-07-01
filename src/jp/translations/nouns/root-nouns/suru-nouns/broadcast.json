@@ -5,8 +5,8 @@
   "order": "3",
   "parents": [
     "suru-nouns",
-    "people-do",
-    "do-to-media"
+    "do-to-media",
+    "people-do-volitional"
   ],
   "props": {
     "_v": "broadcast",

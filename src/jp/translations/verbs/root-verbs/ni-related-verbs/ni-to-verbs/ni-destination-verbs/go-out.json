@@ -1,0 +1,18 @@
+{
+  "_id": "gr9er8depe4",
+  "desc": "to go out (e.g. on an excursion or outing)",
+  "name": "go-out",
+  "order": "1",
+  "parents": [
+    "ni-destination-verbs",
+    "te-iru-verbs-state",
+    "ichidan",
+    "people-do-volitional"
+  ],
+  "props": {
+    "_st": "out",
+    "en": "go out",
+    "jp": "出かける",
+    "tl": "でかける"
+  }
+}

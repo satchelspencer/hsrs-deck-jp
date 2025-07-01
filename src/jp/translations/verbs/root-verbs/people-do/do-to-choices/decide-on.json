@@ -1,0 +1,17 @@
+{
+  "_id": "ugb2zbows1",
+  "desc": "to decide, to choose, to determine, to make up one's mind",
+  "name": "decide-on",
+  "order": "3",
+  "parents": [
+    "do-to-choices",
+    "ichidan",
+    "info-verbs",
+    "people-do-volitional"
+  ],
+  "props": {
+    "en": "decide on",
+    "jp": "決める",
+    "tl": "きめる"
+  }
+}

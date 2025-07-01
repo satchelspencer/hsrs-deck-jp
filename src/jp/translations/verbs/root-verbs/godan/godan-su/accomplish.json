@@ -5,7 +5,7 @@
   "order": "4",
   "parents": [
     "godan-su",
-    "people-do"
+    "people-do-volitional"
   ],
   "props": {
     "en": "accomplish",

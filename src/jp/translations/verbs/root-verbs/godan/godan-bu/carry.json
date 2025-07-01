@@ -5,11 +5,11 @@
   "order": "3",
   "parents": [
     "godan-bu",
-    "people-do",
     "do-to-objects",
     "ni-destination-verbs",
     "te-iru-verbs-continuous",
-    "do-with-transports"
+    "do-with-transports",
+    "people-do-volitional"
   ],
   "props": {
     "en": "carry",

@@ -5,7 +5,7 @@
   "order": "3",
   "parents": [
     "godan-ru",
-    "people-do"
+    "people-do-volitional"
   ],
   "props": {
     "en": "snap it",

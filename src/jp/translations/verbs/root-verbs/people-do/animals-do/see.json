@@ -1,0 +1,18 @@
+{
+  "_id": "5llpxdutdqf",
+  "name": "see",
+  "order": "1",
+  "parents": [
+    "animals-do",
+    "do-to-seeables",
+    "te-iru-verbs-continuous",
+    "de-location-verbs",
+    "ichidan",
+    "people-do-volitional"
+  ],
+  "props": {
+    "en": "see",
+    "jp": "見る",
+    "tl": "みる"
+  }
+}

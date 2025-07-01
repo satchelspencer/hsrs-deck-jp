@@ -1,0 +1,10 @@
+{
+  "_id": "19t1ls0kxvu",
+  "name": "people-do-volitional",
+  "parents": [
+    "people-do"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

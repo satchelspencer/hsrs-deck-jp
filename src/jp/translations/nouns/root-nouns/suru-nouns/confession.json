@@ -4,9 +4,9 @@
   "order": "4",
   "parents": [
     "suru-nouns",
-    "people-do",
     "de-location-verbs",
-    "te-iru-verbs-state"
+    "te-iru-verbs-state",
+    "people-do-volitional"
   ],
   "props": {
     "_st": "confessed",

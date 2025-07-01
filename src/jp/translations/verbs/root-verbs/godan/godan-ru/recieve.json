@@ -5,8 +5,8 @@
   "order": "3",
   "parents": [
     "godan-ru",
-    "people-do",
-    "do-to-sendables"
+    "do-to-sendables",
+    "people-do-volitional"
   ],
   "props": {
     "en": "recieve",

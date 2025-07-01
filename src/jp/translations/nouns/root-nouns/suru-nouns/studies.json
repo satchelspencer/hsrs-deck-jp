@@ -5,11 +5,11 @@
   "order": "1",
   "parents": [
     "suru-nouns",
-    "people-do",
     "do-to-learnables",
     "te-iru-verbs-continuous",
     "de-location-verbs",
-    "do-with-learnables"
+    "do-with-learnables",
+    "people-do-volitional"
   ],
   "props": {
     "_pg": "studying",

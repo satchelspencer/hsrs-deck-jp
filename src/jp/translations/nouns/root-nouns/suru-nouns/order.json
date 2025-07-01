@@ -5,11 +5,11 @@
   "order": "4",
   "parents": [
     "suru-nouns",
-    "people-do",
     "do-to-products",
     "te-iru-verbs-continuous",
     "de-location-verbs",
-    "ken-matters-countable"
+    "ken-matters-countable",
+    "people-do-volitional"
   ],
   "props": {
     "_pg": "ordering it",

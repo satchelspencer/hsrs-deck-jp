@@ -1,0 +1,18 @@
+{
+  "_id": "6h9og0nqont",
+  "desc": "to get up, to rise",
+  "name": "get-up",
+  "order": "1",
+  "parents": [
+    "animals-do",
+    "te-iru-verbs-state",
+    "ichidan",
+    "people-do-volitional"
+  ],
+  "props": {
+    "_st": "awake",
+    "en": "get up",
+    "jp": "起きる",
+    "tl": "おきる"
+  }
+}

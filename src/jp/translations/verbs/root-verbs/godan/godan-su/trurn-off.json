@@ -1,0 +1,17 @@
+{
+  "_id": "0dnjrhg92b4s",
+  "desc": "to switch off, to extinguish (a fire, candle, etc.), to erase",
+  "name": "trurn-off",
+  "order": "1",
+  "parents": [
+    "godan-su",
+    "do-to-electrics",
+    "de-location-verbs",
+    "people-do-volitional"
+  ],
+  "props": {
+    "en": "turn it off",
+    "jp": "消す",
+    "tl": "けす"
+  }
+}

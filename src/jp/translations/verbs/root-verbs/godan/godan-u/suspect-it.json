@@ -5,10 +5,10 @@
   "order": "4",
   "parents": [
     "godan-u",
-    "people-do",
     "do-to-people",
     "do-to-informations",
-    "te-iru-verbs-continuous"
+    "te-iru-verbs-continuous",
+    "people-do-volitional"
   ],
   "props": {
     "_pg": "suspecting it",

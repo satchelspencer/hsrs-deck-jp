@@ -5,9 +5,9 @@
   "order": "2",
   "parents": [
     "suru-nouns",
-    "people-do",
     "te-iru-verbs-continuous",
-    "de-location-verbs"
+    "de-location-verbs",
+    "people-do-volitional"
   ],
   "props": {
     "_pg": "celebrating",

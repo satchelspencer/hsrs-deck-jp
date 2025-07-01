@@ -5,11 +5,11 @@
   "order": "1",
   "parents": [
     "godan-su",
-    "people-do",
     "do-to-objects",
     "do-to-products",
     "te-iru-verbs-continuous",
-    "de-location-verbs"
+    "de-location-verbs",
+    "people-do-volitional"
   ],
   "props": {
     "_pg": "searching for",

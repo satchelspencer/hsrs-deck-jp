@@ -5,8 +5,8 @@
   "order": "3",
   "parents": [
     "godan-mu",
-    "people-do",
-    "do-to-objects"
+    "do-to-objects",
+    "people-do-volitional"
   ],
   "props": {
     "en": "wrap it",

@@ -1,0 +1,18 @@
+{
+  "_id": "eebpyu98ubk",
+  "desc": "to go out to meet, to receive, to welcome, to greet, to salute, to hail",
+  "name": "welcome",
+  "order": "3",
+  "parents": [
+    "do-to-people",
+    "te-iru-verbs-continuous",
+    "ichidan",
+    "people-do-volitional"
+  ],
+  "props": {
+    "_pg": "welcoming",
+    "en": "welcome",
+    "jp": "迎える",
+    "tl": "むかえる"
+  }
+}

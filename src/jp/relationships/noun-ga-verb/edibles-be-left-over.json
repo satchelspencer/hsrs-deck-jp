@@ -3,7 +3,7 @@
   "name": "edibles-be-left-over",
   "params": {
     "noun": "edibles",
-    "verb": "be-left-over"
+    "verb": "remain"
   },
   "parents": [
     "noun-ga-verb"

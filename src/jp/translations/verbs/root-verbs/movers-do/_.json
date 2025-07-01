@@ -3,7 +3,7 @@
   "name": "movers-do",
   "parents": [
     "root-verbs",
-    "people-do"
+    "people-do-volitional"
   ],
   "props": {
     "jp": null

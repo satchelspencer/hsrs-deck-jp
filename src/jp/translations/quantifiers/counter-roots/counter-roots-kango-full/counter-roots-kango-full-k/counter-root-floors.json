@@ -4,8 +4,7 @@
   "name": "counter-root-floors",
   "order": "1",
   "parents": [
-    "counter-roots-kango-full-k",
-    "absolute-places"
+    "counter-roots-kango-full-k"
   ],
   "props": {
     "en": "building floor",

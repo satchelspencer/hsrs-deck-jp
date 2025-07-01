@@ -5,10 +5,10 @@
   "order": "2",
   "parents": [
     "godan-u",
-    "people-do",
     "movers-do",
     "he-related-verbs",
-    "te-iru-verbs-continuous"
+    "te-iru-verbs-continuous",
+    "people-do-volitional"
   ],
   "props": {
     "_pg": "heading toward",

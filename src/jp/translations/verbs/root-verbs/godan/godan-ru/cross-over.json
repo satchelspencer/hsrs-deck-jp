@@ -5,10 +5,10 @@
   "order": "3",
   "parents": [
     "godan-ru",
-    "people-do",
     "do-to-paths",
     "ni-destination-verbs",
-    "de-location-verbs"
+    "de-location-verbs",
+    "people-do-volitional"
   ],
   "props": {
     "en": "cross over",

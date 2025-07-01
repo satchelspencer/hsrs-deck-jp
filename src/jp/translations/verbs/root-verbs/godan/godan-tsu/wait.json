@@ -5,10 +5,10 @@
   "order": "1",
   "parents": [
     "godan-tsu",
-    "people-do",
     "do-to-transports",
     "te-iru-verbs-continuous",
-    "de-location-verbs"
+    "de-location-verbs",
+    "people-do-volitional"
   ],
   "props": {
     "en": "wait",

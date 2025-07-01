@@ -1,0 +1,15 @@
+{
+  "_id": "47atpa6k6ot",
+  "name": "put-in",
+  "order": "1",
+  "parents": [
+    "do-to-objects",
+    "ichidan",
+    "people-do-volitional"
+  ],
+  "props": {
+    "en": "put in",
+    "jp": "入れる",
+    "tl": "いれる"
+  }
+}

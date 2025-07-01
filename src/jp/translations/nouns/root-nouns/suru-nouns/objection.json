@@ -5,10 +5,10 @@
   "order": "4",
   "parents": [
     "suru-nouns",
-    "people-do",
     "te-iru-verbs-continuous",
     "ken-matters-countable",
-    "de-location-verbs"
+    "de-location-verbs",
+    "people-do-volitional"
   ],
   "props": {
     "_pg": "objecting to it",

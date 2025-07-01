@@ -1,0 +1,18 @@
+{
+  "_id": "uwynh20dcf",
+  "name": "give-ageru",
+  "order": "1",
+  "parents": [
+    "do-to-edibles",
+    "do-to-products",
+    "ni-person-verbs",
+    "te-iru-verbs-state",
+    "ichidan",
+    "people-do-volitional"
+  ],
+  "props": {
+    "_st": "given",
+    "en": "give",
+    "jp": "あげる"
+  }
+}

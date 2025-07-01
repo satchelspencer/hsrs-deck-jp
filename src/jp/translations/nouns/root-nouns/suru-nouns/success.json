@@ -4,9 +4,9 @@
   "order": "2",
   "parents": [
     "suru-nouns",
-    "people-do",
     "te-iru-verbs-state",
-    "ni-at-activities-verbs"
+    "ni-at-activities-verbs",
+    "people-do-volitional"
   ],
   "props": {
     "_st": "successful",

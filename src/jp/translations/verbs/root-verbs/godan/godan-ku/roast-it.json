@@ -5,7 +5,7 @@
   "order": "3",
   "parents": [
     "godan-ku",
-    "people-do"
+    "people-do-volitional"
   ],
   "props": {
     "en": "roast it",

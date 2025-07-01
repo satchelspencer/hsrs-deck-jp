@@ -1,0 +1,18 @@
+{
+  "_id": "w62ghgy6rps",
+  "constraint": "verb",
+  "mode": "p---aP",
+  "name": "polite-past",
+  "order": "2",
+  "params": {
+    "polite": "polite"
+  },
+  "parents": [
+    "polite-forms",
+    "yo-ne-verb-forms"
+  ],
+  "props": {
+    "en": "'did '+polite.en",
+    "jp": "polite.jp|r('ます', 'ました')"
+  }
+}

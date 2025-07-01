@@ -5,9 +5,9 @@
   "order": "1",
   "parents": [
     "godan-ru",
-    "people-do",
     "te-iru-verbs-continuous",
-    "de-location-verbs"
+    "de-location-verbs",
+    "people-do-volitional"
   ],
   "props": {
     "en": "do",

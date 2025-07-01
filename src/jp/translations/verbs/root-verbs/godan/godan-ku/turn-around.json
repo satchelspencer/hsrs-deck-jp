@@ -5,11 +5,11 @@
   "order": "4",
   "parents": [
     "godan-ku",
-    "people-do",
     "animals-do",
     "ni-destination-verbs",
     "ni-person-verbs",
-    "te-iru-verbs-state"
+    "te-iru-verbs-state",
+    "people-do-volitional"
   ],
   "props": {
     "_st": "turned around",

@@ -5,10 +5,10 @@
   "order": "3",
   "parents": [
     "godan-bu",
-    "people-do",
     "do-to-people",
     "te-iru-verbs-continuous",
-    "de-location-verbs"
+    "de-location-verbs",
+    "people-do-volitional"
   ],
   "props": {
     "en": "call",

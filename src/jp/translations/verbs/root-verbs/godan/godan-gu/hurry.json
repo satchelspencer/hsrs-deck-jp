@@ -5,8 +5,8 @@
   "order": "2",
   "parents": [
     "godan-gu",
-    "people-do",
-    "te-iru-verbs-continuous"
+    "te-iru-verbs-continuous",
+    "people-do-volitional"
   ],
   "props": {
     "en": "hurry",

@@ -5,9 +5,9 @@
   "order": "3",
   "parents": [
     "ichidan",
-    "people-do",
     "te-iru-verbs-continuous",
-    "do-to-plants"
+    "do-to-plants",
+    "people-do-volitional"
   ],
   "props": {
     "_pg": "planting it",

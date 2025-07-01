@@ -1,0 +1,17 @@
+{
+  "_id": "sqc871wkjim",
+  "desc": "to remain, to be left",
+  "name": "remain",
+  "order": "3",
+  "parents": [
+    "godan-ru",
+    "ni-at-verbs",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "_st": "remaining",
+    "en": "remain",
+    "jp": "残る",
+    "tl": "のこる"
+  }
+}

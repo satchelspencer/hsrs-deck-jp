@@ -1,0 +1,16 @@
+{
+  "_id": "ckwz8gc3h1",
+  "desc": "to alight (e.g. from bus), to get off, to disembark, to dismount",
+  "name": "disembark",
+  "order": "3",
+  "parents": [
+    "do-to-transports",
+    "ichidan",
+    "people-do-volitional"
+  ],
+  "props": {
+    "en": "disembark",
+    "jp": "降りる",
+    "tl": "おりる"
+  }
+}

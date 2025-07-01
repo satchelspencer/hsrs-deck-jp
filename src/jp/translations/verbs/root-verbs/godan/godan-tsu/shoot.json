@@ -5,10 +5,10 @@
   "order": "4",
   "parents": [
     "godan-tsu",
-    "people-do",
     "do-to-animals",
     "de-location-verbs",
-    "te-iru-verbs-continuous"
+    "te-iru-verbs-continuous",
+    "people-do-volitional"
   ],
   "props": {
     "en": "shoot",

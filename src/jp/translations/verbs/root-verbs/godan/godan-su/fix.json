@@ -5,11 +5,12 @@
   "order": "2",
   "parents": [
     "godan-su",
-    "people-do",
     "te-iru-verbs-continuous",
-    "de-location-verbs"
+    "de-location-verbs",
+    "people-do-volitional"
   ],
   "props": {
+    "_pg": "fixing it",
     "en": "fix it",
     "jp": "直す",
     "tl": "なおす"

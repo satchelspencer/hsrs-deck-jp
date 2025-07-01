@@ -4,9 +4,9 @@
   "order": "4",
   "parents": [
     "godan-su",
-    "people-do",
     "te-iru-verbs-continuous",
-    "de-location-verbs"
+    "de-location-verbs",
+    "people-do-volitional"
   ],
   "props": {
     "en": "humbly do",

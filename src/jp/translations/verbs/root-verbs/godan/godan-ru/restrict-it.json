@@ -5,10 +5,10 @@
   "order": "4",
   "parents": [
     "godan-ru",
-    "people-do",
     "organizations-do",
     "do-to-quantities",
-    "te-iru-verbs-continuous"
+    "te-iru-verbs-continuous",
+    "people-do-volitional"
   ],
   "props": {
     "_pg": "restricting it",

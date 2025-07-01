@@ -3,7 +3,8 @@
   "name": "plain-forms",
   "parents": [
     "verb-forms",
-    "embedded-questions"
+    "embedded-questions",
+    "ka-verb-forms"
   ],
   "props": {
   },

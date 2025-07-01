@@ -5,10 +5,10 @@
   "order": "4",
   "parents": [
     "suru-nouns",
-    "people-do",
     "te-iru-verbs-continuous",
     "good-bads",
-    "easy-hard"
+    "easy-hard",
+    "people-do-volitional"
   ],
   "props": {
     "_pg": "handling it",

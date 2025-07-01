@@ -5,10 +5,10 @@
   "order": "3",
   "parents": [
     "suru-nouns",
-    "people-do",
     "te-iru-verbs-continuous",
     "de-location-verbs",
-    "takeonables"
+    "takeonables",
+    "people-do-volitional"
   ],
   "props": {
     "en": "surgery",

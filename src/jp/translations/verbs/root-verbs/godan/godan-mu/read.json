@@ -4,10 +4,10 @@
   "order": "1",
   "parents": [
     "godan-mu",
-    "people-do",
     "do-to-writeables",
     "te-iru-verbs-continuous",
-    "de-location-verbs"
+    "de-location-verbs",
+    "people-do-volitional"
   ],
   "props": {
     "en": "read",

@@ -6,7 +6,7 @@
   "order": "1",
   "params": {
     "polite": "polite",
-    "rel": "verb-people-do"
+    "rel": "verb-people-do-volitional"
   },
   "parents": [
     "tai-plain-forms"

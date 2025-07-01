@@ -1,0 +1,17 @@
+{
+  "_id": "br7u6kmk8a",
+  "desc": "to raise, to rear, to bring up",
+  "name": "to-rear",
+  "order": "3",
+  "parents": [
+    "do-to-living-things",
+    "te-iru-verbs-continuous",
+    "ichidan",
+    "people-do-volitional"
+  ],
+  "props": {
+    "en": "rear",
+    "jp": "育てる",
+    "tl": "そだてる"
+  }
+}

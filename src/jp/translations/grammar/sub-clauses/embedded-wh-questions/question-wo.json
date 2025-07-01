@@ -12,7 +12,7 @@
     "question-clauses"
   ],
   "props": {
-    "en": "form.en+' '+rel.qw.en",
+    "en": "form.en|rg(' it', '')+' '+rel.qw.en",
     "jp": "rel.qw.jp+'を'+form.jp"
   }
 }

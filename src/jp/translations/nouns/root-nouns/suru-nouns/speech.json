@@ -5,10 +5,9 @@
   "order": "4",
   "parents": [
     "suru-nouns",
-    "people-do",
     "people-no",
     "de-location-verbs",
-    "de-location-verbs"
+    "people-do-volitional"
   ],
   "props": {
     "_pg": "making a speech",

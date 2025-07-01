@@ -5,8 +5,8 @@
   "order": "4",
   "parents": [
     "godan-ru",
-    "people-do",
-    "do-to-objects"
+    "do-to-objects",
+    "people-do-volitional"
   ],
   "props": {
     "en": "hold",

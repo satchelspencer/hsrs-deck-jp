@@ -4,9 +4,9 @@
   "order": "2",
   "parents": [
     "godan-ku",
-    "people-do",
     "do-to-places",
-    "te-iru-verbs-continuous"
+    "te-iru-verbs-continuous",
+    "people-do-volitional"
   ],
   "props": {
     "en": "walk",

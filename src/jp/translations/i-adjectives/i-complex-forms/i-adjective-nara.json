@@ -3,7 +3,7 @@
   "constraint": "iadj",
   "mode": "----**",
   "name": "i-adjective-nara",
-  "order": "4",
+  "order": "3",
   "params": {
     "form": "i-desu-forms"
   },

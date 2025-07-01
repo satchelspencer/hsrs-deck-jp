@@ -1,0 +1,18 @@
+{
+  "_id": "gvm40so197u",
+  "desc": "to borrow, to rent",
+  "name": "borrow",
+  "order": "2",
+  "parents": [
+    "do-to-objects",
+    "ni-person-verbs",
+    "ikura-verbs",
+    "ichidan",
+    "people-do-volitional"
+  ],
+  "props": {
+    "en": "borrow",
+    "jp": "借りる",
+    "tl": "かりる"
+  }
+}

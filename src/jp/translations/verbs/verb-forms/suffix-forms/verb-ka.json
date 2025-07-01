@@ -1,0 +1,16 @@
+{
+  "_id": "uxx5bm2re0b",
+  "constraint": "verb form",
+  "name": "verb-ka",
+  "order": "1",
+  "params": {
+    "ka": "ka-verb-forms"
+  },
+  "parents": [
+    "suffix-forms"
+  ],
+  "props": {
+    "en": "ka.en+e('?')",
+    "jp": "ka.jp+'か'"
+  }
+}

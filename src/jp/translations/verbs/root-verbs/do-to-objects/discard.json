@@ -1,0 +1,17 @@
+{
+  "_id": "7iwy4qwb8nk",
+  "desc": "to throw away, to cast away, to dump, to discard. to abandon, to desert, to leave",
+  "name": "discard",
+  "order": "3",
+  "parents": [
+    "do-to-objects",
+    "ni-destination-verbs",
+    "ichidan",
+    "people-do-volitional"
+  ],
+  "props": {
+    "en": "discard",
+    "jp": "捨てる",
+    "tl": "すてる"
+  }
+}

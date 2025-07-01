@@ -1,0 +1,18 @@
+{
+  "_id": "3org3b8r9e2",
+  "desc": "to stop (an activity), to cease, to discontinue, to end, to quit",
+  "name": "stop-it",
+  "order": "1",
+  "parents": [
+    "do-to-people",
+    "de-location-verbs",
+    "ichidan",
+    "do-to-activities",
+    "people-do-volitional"
+  ],
+  "props": {
+    "en": "stop it",
+    "jp": "止める",
+    "tl": "やめる"
+  }
+}

@@ -5,10 +5,10 @@
   "order": "3",
   "parents": [
     "suru-nouns",
-    "people-do",
     "te-iru-verbs-continuous",
     "people-no",
-    "good-bads"
+    "good-bads",
+    "people-do-volitional"
   ],
   "props": {
     "en": "research",

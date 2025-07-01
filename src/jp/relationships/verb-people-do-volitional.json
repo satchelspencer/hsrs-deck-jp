@@ -1,0 +1,12 @@
+{
+  "_id": "a1i93ql62ze",
+  "name": "verb-people-do-volitional",
+  "params": {
+    "verb": "people-do-volitional"
+  },
+  "parents": [
+    "relationships"
+  ],
+  "props": {
+  }
+}

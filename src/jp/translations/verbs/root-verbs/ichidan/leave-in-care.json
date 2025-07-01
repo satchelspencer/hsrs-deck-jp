@@ -5,10 +5,10 @@
   "order": "4",
   "parents": [
     "ichidan",
-    "people-do",
     "do-to-objects",
     "do-to-products",
-    "ni-person-verbs"
+    "ni-person-verbs",
+    "people-do-volitional"
   ],
   "props": {
     "en": "leave it in care",

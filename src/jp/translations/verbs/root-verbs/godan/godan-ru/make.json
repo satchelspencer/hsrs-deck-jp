@@ -5,12 +5,12 @@
   "order": "1",
   "parents": [
     "godan-ru",
-    "people-do",
     "do-to-products",
     "te-iru-verbs-continuous",
     "de-location-verbs",
     "do-with-ingredients",
-    "do-with-building-materials"
+    "do-with-building-materials",
+    "people-do-volitional"
   ],
   "props": {
     "_pg": "making",

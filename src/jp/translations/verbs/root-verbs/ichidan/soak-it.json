@@ -6,8 +6,8 @@
   "parents": [
     "ichidan",
     "do-to-foods",
-    "people-do",
-    "te-iru-verbs-continuous"
+    "te-iru-verbs-continuous",
+    "people-do-volitional"
   ],
   "props": {
     "_pg": "soaking it",

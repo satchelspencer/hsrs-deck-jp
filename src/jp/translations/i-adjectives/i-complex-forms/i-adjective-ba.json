@@ -3,7 +3,7 @@
   "constraint": "iadj",
   "mode": "---w**",
   "name": "i-adjective-ba",
-  "order": "3",
+  "order": "4",
   "params": {
     "form": "i-attributive-forms"
   },

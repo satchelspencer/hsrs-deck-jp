@@ -5,8 +5,8 @@
   "order": "3",
   "parents": [
     "suru-nouns",
-    "people-do",
-    "ni-person-verbs"
+    "ni-person-verbs",
+    "people-do-volitional"
   ],
   "props": {
     "_v": "greet",

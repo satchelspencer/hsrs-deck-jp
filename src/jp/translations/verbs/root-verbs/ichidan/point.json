@@ -5,10 +5,10 @@
   "order": "4",
   "parents": [
     "ichidan",
-    "people-do",
     "ni-destination-verbs",
     "ni-person-verbs",
-    "do-to-objects"
+    "do-to-objects",
+    "people-do-volitional"
   ],
   "props": {
     "en": "point",

@@ -5,8 +5,8 @@
   "order": "4",
   "parents": [
     "ichidan",
-    "people-do",
-    "te-iru-verbs-state"
+    "te-iru-verbs-state",
+    "people-do-volitional"
   ],
   "props": {
     "en": "awaken",

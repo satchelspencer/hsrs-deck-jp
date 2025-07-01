@@ -6,8 +6,8 @@
   "parents": [
     "suru-nouns",
     "de-location-verbs",
-    "people-do",
-    "te-iru-verbs-continuous"
+    "te-iru-verbs-continuous",
+    "people-do-volitional"
   ],
   "props": {
     "en": "training",

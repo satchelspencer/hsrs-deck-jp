@@ -5,8 +5,8 @@
   "order": "3",
   "parents": [
     "godan-ru",
-    "people-do",
-    "te-iru-verbs-state"
+    "te-iru-verbs-state",
+    "people-do-volitional"
   ],
   "props": {
     "_st": "fattened",

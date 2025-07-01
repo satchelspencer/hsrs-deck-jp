@@ -1,0 +1,17 @@
+{
+  "_id": "6d8s7z5gsf8",
+  "desc": "door (esp. Japanese-style), shutter",
+  "mode": "p",
+  "name": "sliding-door",
+  "order": "2",
+  "parents": [
+    "objects",
+    "akeru-shimeru",
+    "pullables"
+  ],
+  "props": {
+    "en": "sliding door",
+    "jp": "戸",
+    "tl": "と"
+  }
+}

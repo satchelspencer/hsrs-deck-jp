@@ -1,0 +1,14 @@
+{
+  "_id": "svexzq39lsd",
+  "name": "go-down",
+  "order": "2",
+  "parents": [
+    "ichidan",
+    "people-do-volitional"
+  ],
+  "props": {
+    "en": "go down",
+    "jp": "下りる",
+    "tl": "おりる"
+  }
+}

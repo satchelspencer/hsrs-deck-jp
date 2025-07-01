@@ -5,7 +5,7 @@
   "order": "3",
   "parents": [
     "suru-nouns",
-    "people-do"
+    "people-do-volitional"
   ],
   "props": {
     "_v": "leave the hospital ",

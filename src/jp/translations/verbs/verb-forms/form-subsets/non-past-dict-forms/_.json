@@ -1,0 +1,11 @@
+{
+  "_id": "av9vbljd9os",
+  "constraint": "",
+  "name": "non-past-dict-forms",
+  "parents": [
+    "form-subsets"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

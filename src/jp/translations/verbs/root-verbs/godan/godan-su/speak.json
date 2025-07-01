@@ -5,11 +5,11 @@
   "order": "1",
   "parents": [
     "godan-su",
-    "people-do",
     "do-to-languages",
     "te-iru-verbs-continuous",
     "de-location-verbs",
-    "do-with-languages"
+    "do-with-languages",
+    "people-do-volitional"
   ],
   "props": {
     "en": "speak",

@@ -5,9 +5,9 @@
   "order": "3",
   "parents": [
     "godan-u",
-    "people-do",
     "do-to-activities",
-    "te-iru-verbs-continuous"
+    "te-iru-verbs-continuous",
+    "people-do-volitional"
   ],
   "props": {
     "_pg": "performing it",

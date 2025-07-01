@@ -5,9 +5,9 @@
   "order": "3",
   "parents": [
     "suru-nouns",
-    "people-do",
     "te-iru-verbs-continuous",
-    "do-to-places"
+    "do-to-places",
+    "people-do-volitional"
   ],
   "props": {
     "_pg": "going sightseeing",

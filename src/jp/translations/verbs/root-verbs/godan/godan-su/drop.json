@@ -5,15 +5,15 @@
   "order": "2",
   "parents": [
     "godan-su",
-    "people-do",
     "do-to-objects",
     "ni-destination-verbs",
     "te-iru-verbs-continuous",
-    "de-location-verbs"
+    "de-location-verbs",
+    "people-do-volitional"
   ],
   "props": {
-    "_pg": "dropping",
-    "en": "drop",
+    "_pg": "dropping it",
+    "en": "drop it",
     "jp": "落とす",
     "tl": "おとす"
   }

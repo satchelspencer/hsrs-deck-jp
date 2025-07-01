@@ -5,10 +5,10 @@
   "order": "3",
   "parents": [
     "suru-nouns",
-    "people-do",
     "do-to-learnables",
     "te-iru-verbs-continuous",
-    "de-location-verbs"
+    "de-location-verbs",
+    "people-do-volitional"
   ],
   "props": {
     "en": "review",

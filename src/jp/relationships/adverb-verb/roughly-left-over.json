@@ -3,7 +3,7 @@
   "name": "roughly-left-over",
   "params": {
     "adv": "roughly",
-    "verb": "be-left-over"
+    "verb": "remain"
   },
   "parents": [
     "adverb-verb"

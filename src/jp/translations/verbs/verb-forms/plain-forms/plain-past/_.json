@@ -1,0 +1,20 @@
+{
+  "_id": "koysbf6c33",
+  "mode": "c---ap",
+  "name": "plain-past",
+  "order": "2",
+  "params": {
+    "verb": "root-verbs"
+  },
+  "parents": [
+    "plain-forms",
+    "nda-verb-forms",
+    "yo-ne-verb-forms",
+    "relative-clause-verb-forms"
+  ],
+  "props": {
+    "en": "'did '+verb.en",
+    "jp": null
+  },
+  "virtual": true
+}

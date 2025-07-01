@@ -5,10 +5,10 @@
   "order": "2",
   "parents": [
     "godan-ru",
-    "people-do",
     "animals-do",
     "ni-at-verbs",
-    "te-iru-verbs-state"
+    "te-iru-verbs-state",
+    "people-do-volitional"
   ],
   "props": {
     "en": "gather",

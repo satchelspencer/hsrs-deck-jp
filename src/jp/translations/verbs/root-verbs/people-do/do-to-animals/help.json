@@ -1,0 +1,16 @@
+{
+  "_id": "fgmalw3c2om",
+  "desc": "to save, to rescue, to spare. to help, to assist",
+  "name": "help",
+  "order": "1",
+  "parents": [
+    "do-to-animals",
+    "ichidan",
+    "people-do-volitional"
+  ],
+  "props": {
+    "en": "help",
+    "jp": "助ける",
+    "tl": "たすける"
+  }
+}

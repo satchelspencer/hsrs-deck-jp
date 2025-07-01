@@ -5,10 +5,10 @@
   "order": "3",
   "parents": [
     "godan-ru",
-    "people-do",
     "te-iru-verbs-continuous",
     "do-to-objects",
-    "de-location-verbs"
+    "de-location-verbs",
+    "people-do-volitional"
   ],
   "props": {
     "_pg": "painting it",

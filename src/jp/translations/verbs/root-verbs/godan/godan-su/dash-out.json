@@ -6,9 +6,9 @@
   "parents": [
     "godan-su",
     "do-to-places",
-    "people-do",
     "animals-do",
-    "te-iru-verbs-continuous"
+    "te-iru-verbs-continuous",
+    "people-do-volitional"
   ],
   "props": {
     "_pg": "dashing out",

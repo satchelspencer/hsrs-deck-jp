@@ -6,9 +6,9 @@
   "parents": [
     "godan-su",
     "animals-do",
-    "people-do",
     "ni-destination-verbs",
-    "te-iru-verbs-continuous"
+    "te-iru-verbs-continuous",
+    "people-do-volitional"
   ],
   "props": {
     "_pg": "breaking out",

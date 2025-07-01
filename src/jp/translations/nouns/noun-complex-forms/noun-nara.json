@@ -3,7 +3,7 @@
   "constraint": "noun",
   "mode": "----**",
   "name": "noun-nara",
-  "order": "4",
+  "order": "3",
   "params": {
     "form": "noun-plain-forms"
   },

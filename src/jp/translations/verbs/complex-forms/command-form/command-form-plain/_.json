@@ -4,7 +4,7 @@
   "mode": "c-s-a",
   "name": "command-form-plain",
   "params": {
-    "rel": "verb-people-do",
+    "rel": "verb-people-do-volitional",
     "verb": "root-verbs"
   },
   "parents": [

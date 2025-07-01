@@ -1,0 +1,17 @@
+{
+  "_id": "mbtnjxwa3in",
+  "desc": "to stand up, to put up, to set up, to erect, to raise",
+  "name": "stand-it-up",
+  "order": "3",
+  "parents": [
+    "te-iru-verbs-continuous",
+    "ichidan",
+    "people-do-volitional"
+  ],
+  "props": {
+    "_pg": "standing it up",
+    "en": "stand it up",
+    "jp": "立てる",
+    "tl": "たてる"
+  }
+}

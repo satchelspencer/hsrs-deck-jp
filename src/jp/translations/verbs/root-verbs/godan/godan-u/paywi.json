@@ -5,10 +5,10 @@
   "order": "2",
   "parents": [
     "godan-u",
-    "people-do",
     "de-location-verbs",
     "do-with-money",
-    "ikura-verbs"
+    "ikura-verbs",
+    "people-do-volitional"
   ],
   "props": {
     "en": "pay",

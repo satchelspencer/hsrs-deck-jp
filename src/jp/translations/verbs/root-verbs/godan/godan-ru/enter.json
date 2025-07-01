@@ -5,9 +5,9 @@
   "order": "1",
   "parents": [
     "godan-ru",
-    "people-do",
     "ni-destination-verbs",
-    "te-iru-verbs-state"
+    "te-iru-verbs-state",
+    "people-do-volitional"
   ],
   "props": {
     "en": "enter",

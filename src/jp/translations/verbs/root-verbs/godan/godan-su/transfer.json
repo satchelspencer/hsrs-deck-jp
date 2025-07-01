@@ -5,11 +5,11 @@
   "order": "4",
   "parents": [
     "godan-su",
-    "people-do",
     "do-to-people",
     "ni-destination-verbs",
     "te-iru-verbs-continuous",
-    "de-location-verbs"
+    "de-location-verbs",
+    "people-do-volitional"
   ],
   "props": {
     "en": "transfer it",

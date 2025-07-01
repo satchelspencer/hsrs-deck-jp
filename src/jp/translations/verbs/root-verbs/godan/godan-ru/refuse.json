@@ -5,8 +5,8 @@
   "order": "4",
   "parents": [
     "godan-ru",
-    "people-do",
-    "ni-person-verbs"
+    "ni-person-verbs",
+    "people-do-volitional"
   ],
   "props": {
     "en": "refuse",

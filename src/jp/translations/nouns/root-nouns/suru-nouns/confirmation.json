@@ -6,11 +6,11 @@
   "parents": [
     "suru-nouns",
     "te-iru-verbs-state",
-    "people-do",
     "do-to-informations",
     "ni-person-verbs",
     "de-location-verbs",
-    "easy-hard"
+    "easy-hard",
+    "people-do-volitional"
   ],
   "props": {
     "_st": "confirmed",

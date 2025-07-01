@@ -5,10 +5,10 @@
   "order": "2",
   "parents": [
     "godan-su",
-    "people-do",
     "do-to-animals",
     "te-iru-verbs-continuous",
-    "de-location-verbs"
+    "de-location-verbs",
+    "people-do-volitional"
   ],
   "props": {
     "_pg": "waking it up",

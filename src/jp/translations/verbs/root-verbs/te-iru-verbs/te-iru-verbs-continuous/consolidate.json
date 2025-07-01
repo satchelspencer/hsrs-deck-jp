@@ -1,0 +1,15 @@
+{
+  "_id": "mnk1ztowd3a",
+  "name": "consolidate",
+  "order": "3",
+  "parents": [
+    "te-iru-verbs-continuous",
+    "ichidan",
+    "people-do-volitional"
+  ],
+  "props": {
+    "_pg": "consolidating",
+    "en": "consolidate",
+    "jp": "まとめる"
+  }
+}

@@ -6,9 +6,9 @@
   "parents": [
     "suru-nouns",
     "te-iru-verbs-continuous",
-    "people-do",
     "do-to-people",
-    "de-location-verbs"
+    "de-location-verbs",
+    "people-do-volitional"
   ],
   "props": {
     "_pg": "attacking",

@@ -1,0 +1,16 @@
+{
+  "_id": "dik9z72txan",
+  "constraint": "verb form",
+  "name": "verb-yo",
+  "order": "3",
+  "params": {
+    "yo": "yo-ne-verb-forms"
+  },
+  "parents": [
+    "suffix-forms"
+  ],
+  "props": {
+    "en": "yo.en+e(', you know')",
+    "jp": "yo.jp+'よ'"
+  }
+}

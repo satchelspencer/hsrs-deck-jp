@@ -1,0 +1,18 @@
+{
+  "_id": "qcastx84kf",
+  "desc": "to wear (from the shoulders down), to put on",
+  "name": "wear",
+  "order": "1",
+  "parents": [
+    "do-to-clothing",
+    "te-iru-verbs-continuous",
+    "de-location-verbs",
+    "ichidan",
+    "people-do-volitional"
+  ],
+  "props": {
+    "en": "wear",
+    "jp": "着る",
+    "tl": "きる"
+  }
+}

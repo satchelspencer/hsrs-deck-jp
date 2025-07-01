@@ -5,9 +5,9 @@
   "order": "3",
   "parents": [
     "godan-bu",
-    "people-do",
     "ni-at-verbs",
-    "te-iru-verbs-state"
+    "te-iru-verbs-state",
+    "people-do-volitional"
   ],
   "props": {
     "_st": "lined up",

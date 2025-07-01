@@ -5,8 +5,8 @@
   "order": "3",
   "parents": [
     "ichidan",
-    "people-do",
-    "do-to-people"
+    "do-to-people",
+    "people-do-volitional"
   ],
   "props": {
     "en": "take along",

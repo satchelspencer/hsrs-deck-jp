@@ -5,9 +5,9 @@
   "order": "4",
   "parents": [
     "ichidan",
-    "people-do",
     "do-to-seeables",
-    "te-iru-verbs-continuous"
+    "te-iru-verbs-continuous",
+    "people-do-volitional"
   ],
   "props": {
     "_pg": "looking up",

@@ -4,8 +4,8 @@
   "order": "3",
   "parents": [
     "ichidan",
-    "people-do",
-    "do-to-transports"
+    "do-to-transports",
+    "people-do-volitional"
   ],
   "props": {
     "en": "stop it moving",

@@ -1,0 +1,16 @@
+{
+  "_id": "55aywvc3npb",
+  "name": "collect",
+  "order": "2",
+  "parents": [
+    "do-to-objects",
+    "te-iru-verbs-continuous",
+    "ichidan",
+    "people-do-volitional"
+  ],
+  "props": {
+    "en": "collect",
+    "jp": "集める",
+    "tl": "あつめる"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "2wbwoyrmwkh",
+  "constraint": "verb form",
+  "name": "verb-ne",
+  "order": "2",
+  "params": {
+    "yo": "yo-ne-verb-forms"
+  },
+  "parents": [
+    "suffix-forms"
+  ],
+  "props": {
+    "en": "yo.en+e(', right?')",
+    "jp": "yo.jp+'ね'"
+  }
+}

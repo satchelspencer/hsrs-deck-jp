@@ -4,8 +4,8 @@
   "order": "3",
   "parents": [
     "suru-nouns",
-    "people-do",
-    "learnables"
+    "learnables",
+    "people-do-volitional"
   ],
   "props": {
     "_v": "pronounce",

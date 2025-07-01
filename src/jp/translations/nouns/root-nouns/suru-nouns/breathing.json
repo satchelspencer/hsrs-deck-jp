@@ -5,8 +5,8 @@
   "parents": [
     "suru-nouns",
     "people-no",
-    "people-do",
-    "te-iru-verbs-continuous"
+    "te-iru-verbs-continuous",
+    "people-do-volitional"
   ],
   "props": {
     "_pg": "breathing",

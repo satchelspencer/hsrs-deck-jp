@@ -5,10 +5,10 @@
   "parents": [
     "ichidan",
     "do-to-people",
-    "people-do",
     "te-iru-verbs-continuous",
     "de-location-verbs",
-    "do-to-animals"
+    "do-to-animals",
+    "people-do-volitional"
   ],
   "props": {
     "_pg": "teasing",

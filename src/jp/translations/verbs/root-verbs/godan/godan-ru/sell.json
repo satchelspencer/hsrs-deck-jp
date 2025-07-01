@@ -4,10 +4,10 @@
   "order": "2",
   "parents": [
     "godan-ru",
-    "people-do",
     "do-to-products",
     "de-location-verbs",
-    "do-with-money"
+    "do-with-money",
+    "people-do-volitional"
   ],
   "props": {
     "en": "sell",

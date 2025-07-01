@@ -5,8 +5,8 @@
   "order": "3",
   "parents": [
     "godan-ru",
-    "people-do",
-    "te-iru-verbs-continuous"
+    "te-iru-verbs-continuous",
+    "people-do-volitional"
   ],
   "props": {
     "_pg": "decorating",

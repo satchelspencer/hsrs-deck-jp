@@ -3,7 +3,7 @@
   "name": "switch-off-lightables",
   "params": {
     "noun": "lightables",
-    "verb": "switch-off"
+    "verb": "trurn-off"
   },
   "parents": [
     "noun-wo-verb"

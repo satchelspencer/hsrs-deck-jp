@@ -6,9 +6,9 @@
   "parents": [
     "godan-su",
     "do-to-informations",
-    "people-do",
     "ni-person-verbs",
-    "de-location-verbs"
+    "de-location-verbs",
+    "people-do-volitional"
   ],
   "props": {
     "en": "conceal it",

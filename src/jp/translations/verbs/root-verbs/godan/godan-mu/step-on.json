@@ -6,8 +6,8 @@
   "parents": [
     "godan-mu",
     "animals-do",
-    "people-do",
-    "do-to-objects"
+    "do-to-objects",
+    "people-do-volitional"
   ],
   "props": {
     "en": "step on",

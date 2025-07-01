@@ -5,9 +5,9 @@
   "order": "3",
   "parents": [
     "godan-tsu",
-    "people-do",
     "te-iru-verbs-continuous",
-    "de-location-verbs"
+    "de-location-verbs",
+    "people-do-volitional"
   ],
   "props": {
     "_pg": "striking",

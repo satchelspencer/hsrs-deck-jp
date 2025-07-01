@@ -1,0 +1,17 @@
+{
+  "_id": "ggn7cl43hoe",
+  "constraint": "verb",
+  "mode": "p---NP",
+  "name": "polite-negative-past",
+  "order": "2",
+  "params": {
+    "polite": "polite"
+  },
+  "parents": [
+    "polite-forms"
+  ],
+  "props": {
+    "en": "'didn\\'t '+polite.en",
+    "jp": "polite.jp|r('ます', 'ませんでした')"
+  }
+}

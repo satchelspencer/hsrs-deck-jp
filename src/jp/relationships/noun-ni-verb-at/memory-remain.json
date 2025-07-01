@@ -3,7 +3,7 @@
   "name": "memory-remain",
   "params": {
     "noun": "memory",
-    "verb": "be-left-over"
+    "verb": "remain"
   },
   "parents": [
     "noun-ni-verb-at"

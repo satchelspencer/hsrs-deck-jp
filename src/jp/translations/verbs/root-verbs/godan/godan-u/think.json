@@ -4,9 +4,9 @@
   "order": "1",
   "parents": [
     "godan-u",
-    "people-do",
     "te-iru-verbs-continuous",
-    "info-verbs"
+    "info-verbs",
+    "people-do-volitional"
   ],
   "props": {
     "en": "think",

@@ -4,9 +4,9 @@
   "order": "3",
   "parents": [
     "godan-u",
-    "people-do",
     "do-to-people",
-    "do-to-activities"
+    "do-to-activities",
+    "people-do-volitional"
   ],
   "props": {
     "en": "assist",

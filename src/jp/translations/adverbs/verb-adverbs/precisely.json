@@ -1,0 +1,14 @@
+{
+  "_id": "9ihlh16mwtp",
+  "desc": "exactly, precisely, just, right, opportunely, fortunately",
+  "name": "precisely",
+  "order": "2",
+  "parents": [
+    "verb-adverbs"
+  ],
+  "props": {
+    "en": "precisely",
+    "jp": "丁度",
+    "tl": "ちょうど"
+  }
+}

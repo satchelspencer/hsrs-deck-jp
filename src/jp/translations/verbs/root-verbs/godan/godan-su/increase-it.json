@@ -5,10 +5,10 @@
   "order": "3",
   "parents": [
     "godan-su",
-    "people-do",
     "do-to-quantities",
     "te-iru-verbs-continuous",
-    "de-location-verbs"
+    "de-location-verbs",
+    "people-do-volitional"
   ],
   "props": {
     "_pg": "increasing it",

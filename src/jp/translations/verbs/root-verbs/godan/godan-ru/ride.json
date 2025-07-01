@@ -4,9 +4,9 @@
   "order": "1",
   "parents": [
     "godan-ru",
-    "people-do",
     "do-to-transports",
-    "te-iru-verbs-continuous"
+    "te-iru-verbs-continuous",
+    "people-do-volitional"
   ],
   "props": {
     "_pg": "riding",

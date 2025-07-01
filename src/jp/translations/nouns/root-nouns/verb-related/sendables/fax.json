@@ -5,8 +5,8 @@
   "parents": [
     "sendables",
     "suru-nouns",
-    "people-do",
-    "communication-methods"
+    "communication-methods",
+    "people-do-volitional"
   ],
   "props": {
     "_v": "fax it",

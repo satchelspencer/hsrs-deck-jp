@@ -5,9 +5,9 @@
   "order": "4",
   "parents": [
     "suru-nouns",
-    "people-do",
     "do-to-people",
-    "ni-at-verbs"
+    "ni-at-verbs",
+    "people-do-volitional"
   ],
   "props": {
     "_v": "guide",

@@ -1,0 +1,15 @@
+{
+  "_id": "qzudwl6167h",
+  "desc": "to divide (into), to split (into), to part, to separate",
+  "name": "divide",
+  "order": "3",
+  "parents": [
+    "ichidan",
+    "people-do-volitional"
+  ],
+  "props": {
+    "en": "divide",
+    "jp": "分ける",
+    "tl": "わける"
+  }
+}

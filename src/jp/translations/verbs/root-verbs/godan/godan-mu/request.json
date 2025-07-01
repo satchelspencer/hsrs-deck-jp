@@ -5,10 +5,10 @@
   "order": "2",
   "parents": [
     "godan-mu",
-    "people-do",
     "do-to-edibles",
     "ni-person-verbs",
-    "te-iru-verbs-continuous"
+    "te-iru-verbs-continuous",
+    "people-do-volitional"
   ],
   "props": {
     "en": "request",

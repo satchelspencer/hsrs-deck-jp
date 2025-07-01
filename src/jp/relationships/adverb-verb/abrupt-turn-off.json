@@ -3,7 +3,7 @@
   "name": "abrupt-turn-off",
   "params": {
     "adv": "abruptly",
-    "verb": "switch-off"
+    "verb": "trurn-off"
   },
   "parents": [
     "adverb-verb"

@@ -4,8 +4,8 @@
   "order": "3",
   "parents": [
     "suru-nouns",
-    "people-do",
-    "te-iru-verbs-continuous"
+    "te-iru-verbs-continuous",
+    "people-do-volitional"
   ],
   "props": {
     "_pg": "competing",

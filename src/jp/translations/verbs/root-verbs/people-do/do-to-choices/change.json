@@ -1,0 +1,18 @@
+{
+  "_id": "dm89wm1zdh4",
+  "desc": "to change, to alter, to transform, to convert, to turn, to vary",
+  "name": "change",
+  "order": "1",
+  "parents": [
+    "do-to-choices",
+    "te-iru-verbs-continuous",
+    "ichidan",
+    "people-do-volitional"
+  ],
+  "props": {
+    "_pg": "changing",
+    "en": "change it",
+    "jp": "変える",
+    "tl": "かえる"
+  }
+}

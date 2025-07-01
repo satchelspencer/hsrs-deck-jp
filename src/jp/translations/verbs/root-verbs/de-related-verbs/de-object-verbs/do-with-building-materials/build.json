@@ -1,0 +1,16 @@
+{
+  "_id": "bbbl2xpxmj",
+  "desc": "to build, to construct",
+  "name": "build",
+  "order": "2",
+  "parents": [
+    "do-with-building-materials",
+    "ichidan",
+    "people-do-volitional"
+  ],
+  "props": {
+    "en": "build",
+    "jp": "建てる",
+    "tl": "たてる"
+  }
+}

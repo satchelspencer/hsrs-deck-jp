@@ -5,7 +5,7 @@
   "order": "4",
   "parents": [
     "godan-mu",
-    "people-do"
+    "people-do-volitional"
   ],
   "props": {
     "en": "wish for",

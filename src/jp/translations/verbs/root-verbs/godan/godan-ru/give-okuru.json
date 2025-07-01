@@ -5,9 +5,9 @@
   "order": "4",
   "parents": [
     "godan-ru",
-    "people-do",
     "do-to-products",
-    "te-iru-verbs-continuous"
+    "te-iru-verbs-continuous",
+    "people-do-volitional"
   ],
   "props": {
     "_pg": "giving as a gift",

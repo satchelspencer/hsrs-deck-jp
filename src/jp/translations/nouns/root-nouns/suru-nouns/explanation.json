@@ -5,14 +5,14 @@
   "order": "3",
   "parents": [
     "suru-nouns",
-    "people-do",
     "writeables",
     "do-to-choices",
     "do-to-learnables",
     "informations",
     "te-iru-verbs-continuous",
     "de-location-verbs",
-    "do-with-learnables"
+    "do-with-learnables",
+    "people-do-volitional"
   ],
   "props": {
     "_pg": "explaining",

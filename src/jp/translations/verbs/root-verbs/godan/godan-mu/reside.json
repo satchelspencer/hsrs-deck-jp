@@ -5,9 +5,9 @@
   "order": "1",
   "parents": [
     "godan-mu",
-    "people-do",
     "ni-at-verbs",
-    "te-iru-verbs-continuous"
+    "te-iru-verbs-continuous",
+    "people-do-volitional"
   ],
   "props": {
     "_pg": "residing",

@@ -5,9 +5,9 @@
   "order": "4",
   "parents": [
     "suru-nouns",
-    "people-do",
     "te-iru-verbs-continuous",
-    "do-to-informations"
+    "do-to-informations",
+    "people-do-volitional"
   ],
   "props": {
     "_pg": "proving it",

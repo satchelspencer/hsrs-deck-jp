@@ -5,10 +5,10 @@
   "order": "4",
   "parents": [
     "godan-ru",
-    "people-do",
     "do-to-places",
     "do-with-transports",
-    "te-iru-verbs-state"
+    "te-iru-verbs-state",
+    "people-do-volitional"
   ],
   "props": {
     "en": "depart",

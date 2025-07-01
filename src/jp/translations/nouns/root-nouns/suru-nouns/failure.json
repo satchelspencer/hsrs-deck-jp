@@ -5,9 +5,9 @@
   "order": "3",
   "parents": [
     "suru-nouns",
-    "people-do",
     "te-iru-verbs-continuous",
-    "ni-at-activities-verbs"
+    "ni-at-activities-verbs",
+    "people-do-volitional"
   ],
   "props": {
     "_pg": "failing",

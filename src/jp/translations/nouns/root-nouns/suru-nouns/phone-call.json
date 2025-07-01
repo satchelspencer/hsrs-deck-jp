@@ -5,10 +5,10 @@
   "parents": [
     "suru-nouns",
     "events",
-    "people-do",
     "ni-person-verbs",
     "te-iru-verbs-continuous",
-    "de-location-verbs"
+    "de-location-verbs",
+    "people-do-volitional"
   ],
   "props": {
     "_pg": "making a phone call",

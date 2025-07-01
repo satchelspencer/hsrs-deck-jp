@@ -4,8 +4,8 @@
   "order": "3",
   "parents": [
     "suru-nouns",
-    "people-do",
-    "people-no"
+    "people-no",
+    "people-do-volitional"
   ],
   "props": {
     "en": "lesson prep",

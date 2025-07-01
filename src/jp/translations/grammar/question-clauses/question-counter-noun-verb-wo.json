@@ -13,7 +13,7 @@
     "question-clauses"
   ],
   "props": {
-    "en": "form.en+' '+counter.en+' of '+crel.noun.en",
+    "en": "form.en|rg(' it', '')+' '+counter.en+' of '+crel.noun.en",
     "jp": "crel.noun.jp+'を'+counter.jp+form.jp"
   }
 }

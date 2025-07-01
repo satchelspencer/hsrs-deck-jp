@@ -1,0 +1,17 @@
+{
+  "_id": "ycnwz6ii6y",
+  "name": "give-to-me",
+  "order": "2",
+  "parents": [
+    "people-do-volitional",
+    "do-to-edibles",
+    "do-to-products",
+    "te-iru-verbs-continuous",
+    "ichidan"
+  ],
+  "props": {
+    "_pg": "giving to me",
+    "en": "give to me",
+    "jp": "くれる"
+  }
+}

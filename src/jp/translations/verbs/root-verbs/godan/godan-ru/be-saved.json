@@ -6,8 +6,8 @@
   "parents": [
     "godan-ru",
     "de-location-verbs",
-    "people-do",
-    "te-iru-verbs-state"
+    "te-iru-verbs-state",
+    "people-do"
   ],
   "props": {
     "_st": "saved",

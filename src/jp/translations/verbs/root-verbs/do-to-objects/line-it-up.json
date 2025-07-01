@@ -1,0 +1,19 @@
+{
+  "_id": "cvtjit6l545",
+  "desc": "to line up, to set up, to arrange in a line",
+  "name": "line-it-up",
+  "order": "3",
+  "parents": [
+    "do-to-objects",
+    "ni-destination-verbs",
+    "te-iru-verbs-continuous",
+    "ichidan",
+    "people-do-volitional"
+  ],
+  "props": {
+    "_pg": "lineing it up",
+    "en": "line it up",
+    "jp": "並べる",
+    "tl": "ならべる"
+  }
+}

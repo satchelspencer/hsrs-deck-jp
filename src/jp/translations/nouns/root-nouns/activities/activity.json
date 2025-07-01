@@ -5,8 +5,8 @@
   "parents": [
     "activities",
     "suru-nouns",
-    "people-do",
-    "continuous-adverbs"
+    "continuous-adverbs",
+    "people-do-volitional"
   ],
   "props": {
     "_pg": "engaging in activity",

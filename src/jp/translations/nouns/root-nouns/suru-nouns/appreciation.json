@@ -6,8 +6,8 @@
   "parents": [
     "suru-nouns",
     "te-iru-verbs-state",
-    "people-do",
-    "ni-person-verbs"
+    "ni-person-verbs",
+    "people-do-volitional"
   ],
   "props": {
     "_pg": "",

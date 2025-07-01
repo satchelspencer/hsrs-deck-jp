@@ -5,9 +5,9 @@
   "order": "2",
   "parents": [
     "godan-ku",
-    "people-do",
     "do-to-objects",
-    "ni-destination-verbs"
+    "ni-destination-verbs",
+    "people-do-volitional"
   ],
   "props": {
     "en": "put",
