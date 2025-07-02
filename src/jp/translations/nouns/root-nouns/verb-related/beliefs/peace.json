@@ -9,7 +9,8 @@
     "na-place"
   ],
   "props": {
-    "en": "peaceful",
+    "_at": "peaceful",
+    "en": "peace",
     "jp": "平和",
     "tl": "へいわ"
   }

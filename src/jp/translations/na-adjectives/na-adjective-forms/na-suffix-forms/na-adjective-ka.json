@@ -1,0 +1,17 @@
+{
+  "_id": "90iby7nfps9",
+  "constraint": "na",
+  "name": "na-adjective-ka",
+  "order": "1",
+  "params": {
+    "form": "ka-na-forms"
+  },
+  "parents": [
+    "na-suffix-forms",
+    "na-predicate-forms"
+  ],
+  "props": {
+    "en": "form.en+e('?')",
+    "jp": "form.jp+'か'"
+  }
+}

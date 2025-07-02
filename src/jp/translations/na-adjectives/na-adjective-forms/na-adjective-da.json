@@ -13,7 +13,7 @@
     "conjunctive-na-forms"
   ],
   "props": {
-    "en": "'is '+na.en",
+    "en": "'is '+na._at",
     "jp": "na.jp+'だ'"
   }
 }

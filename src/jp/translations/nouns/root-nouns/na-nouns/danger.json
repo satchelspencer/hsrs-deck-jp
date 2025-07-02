@@ -8,7 +8,8 @@
     "na-place"
   ],
   "props": {
-    "en": "dangerous",
+    "_at": "dangerous",
+    "en": "danger",
     "jp": "危険",
     "tl": "きけん"
   }

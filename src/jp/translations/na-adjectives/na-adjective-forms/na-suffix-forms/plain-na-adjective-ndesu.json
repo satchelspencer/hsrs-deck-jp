@@ -1,0 +1,16 @@
+{
+  "_id": "yssyukh3jf",
+  "mode": "p---an",
+  "name": "plain-na-adjective-ndesu",
+  "order": "3",
+  "params": {
+    "na": "na-attributive"
+  },
+  "parents": [
+    "na-suffix-forms"
+  ],
+  "props": {
+    "en": "na.en+e(', thats why')",
+    "jp": "na.jp+'なんです'"
+  }
+}

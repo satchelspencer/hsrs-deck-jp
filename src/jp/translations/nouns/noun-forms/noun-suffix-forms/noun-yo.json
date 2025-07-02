@@ -1,0 +1,16 @@
+{
+  "_id": "gpkfjz5wy3r",
+  "constraint": "noun",
+  "name": "noun-yo",
+  "order": "3",
+  "params": {
+    "form": "yo-noun-forms"
+  },
+  "parents": [
+    "noun-suffix-forms"
+  ],
+  "props": {
+    "en": "form.en+e(', you know')",
+    "jp": "form.jp+'よ'"
+  }
+}

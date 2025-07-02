@@ -15,7 +15,7 @@
     "na-plain-forms"
   ],
   "props": {
-    "en": "'not '+na.en",
+    "en": "'not '+na._at",
     "jp": "na.jp+'じゃない'"
   }
 }

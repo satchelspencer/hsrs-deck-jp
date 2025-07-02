@@ -1,0 +1,10 @@
+{
+  "_id": "3padcdyevb",
+  "name": "noun-plain-forms",
+  "parents": [
+    "noun-form-subsets"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

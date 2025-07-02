@@ -16,7 +16,7 @@
     "na-plain-forms"
   ],
   "props": {
-    "en": "'was '+na.en",
+    "en": "'was '+na._at",
     "jp": "na.jp+'だった'"
   }
 }

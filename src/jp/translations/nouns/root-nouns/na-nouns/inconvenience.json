@@ -7,7 +7,8 @@
     "na-place"
   ],
   "props": {
-    "en": "inconvenient",
+    "_at": "inconvenient",
+    "en": "inconvenience",
     "jp": "不便",
     "tl": "ふべん"
   }

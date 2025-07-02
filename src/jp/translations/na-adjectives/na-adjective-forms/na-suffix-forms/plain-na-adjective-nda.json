@@ -1,0 +1,16 @@
+{
+  "_id": "cvtztwlyxrb",
+  "mode": "c---an",
+  "name": "plain-na-adjective-nda",
+  "order": "3",
+  "params": {
+    "na": "na-attributive"
+  },
+  "parents": [
+    "na-suffix-forms"
+  ],
+  "props": {
+    "en": "na.en+e(', thats why')",
+    "jp": "na.jp+'なんだ'"
+  }
+}

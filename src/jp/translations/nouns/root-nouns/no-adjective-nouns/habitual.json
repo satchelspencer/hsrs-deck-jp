@@ -1,0 +1,14 @@
+{
+  "_id": "ctwt8lz7zfr",
+  "desc": "usually",
+  "name": "habitual",
+  "order": "4",
+  "parents": [
+    "no-adjective-nouns"
+  ],
+  "props": {
+    "en": "habitual",
+    "jp": "普段",
+    "tl": "ふだん"
+  }
+}

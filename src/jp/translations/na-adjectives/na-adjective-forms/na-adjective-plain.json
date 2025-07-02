@@ -1,6 +1,6 @@
 {
   "_id": "lhscy7c2amd",
-  "mode": "----an",
+  "mode": "c---an",
   "name": "na-adjective-plain",
   "order": "1",
   "params": {
@@ -13,7 +13,7 @@
     "na-plain-forms"
   ],
   "props": {
-    "en": "na.en",
+    "en": "na._at",
     "jp": "na.jp"
   }
 }

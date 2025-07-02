@@ -1,0 +1,11 @@
+{
+  "_id": "2rc7domqcg2",
+  "name": "conjunctive-na-forms",
+  "parents": [
+    "na-form-subsets",
+    "conjuncting-clauses"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

@@ -6,7 +6,8 @@
     "na-nouns"
   ],
   "props": {
-    "en": "complex",
+    "_at": "complex",
+    "en": "complexity",
     "jp": "複雑",
     "tl": "ふくざつ"
   }

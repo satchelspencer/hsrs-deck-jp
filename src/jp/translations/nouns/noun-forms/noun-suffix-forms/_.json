@@ -1,0 +1,10 @@
+{
+  "_id": "zzwehs8bex",
+  "name": "noun-suffix-forms",
+  "parents": [
+    "noun-forms"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

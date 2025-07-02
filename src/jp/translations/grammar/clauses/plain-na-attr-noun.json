@@ -11,7 +11,7 @@
     "clauses"
   ],
   "props": {
-    "en": "(rel.na.en+' '+nform.en)|mts('is ')|mts('was ')",
+    "en": "(rel.na._at+' '+nform.en)|mts('is ')|mts('was ')",
     "jp": "rel.na.jp+'な'+nform.jp"
   }
 }

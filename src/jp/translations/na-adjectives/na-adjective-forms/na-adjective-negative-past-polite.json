@@ -14,7 +14,7 @@
     "yo-ne-na-forms"
   ],
   "props": {
-    "en": "'was not '+na.en",
+    "en": "'was not '+na._at",
     "jp": "na.jp+'ではなかった'",
     "tl": "na.tl+'でわなかった'"
   }

@@ -12,7 +12,7 @@
     "complex-clauses"
   ],
   "props": {
-    "en": "'in '+amount.en+' '+clause.en",
+    "en": "clause.en+' within '+amount.en",
     "jp": "amount.jp+'で'+clause.jp"
   }
 }

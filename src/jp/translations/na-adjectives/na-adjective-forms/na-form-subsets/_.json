@@ -1,0 +1,10 @@
+{
+  "_id": "1pd8136pt8d",
+  "name": "na-form-subsets",
+  "parents": [
+    "na-adjective-forms"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

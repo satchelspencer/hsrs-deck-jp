@@ -1,0 +1,11 @@
+{
+  "_id": "w41qgg8y689",
+  "name": "conjunctive-noun-forms",
+  "parents": [
+    "noun-form-subsets",
+    "conjuncting-clauses"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

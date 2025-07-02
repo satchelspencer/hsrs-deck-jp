@@ -6,7 +6,9 @@
     "na-nouns"
   ],
   "props": {
-    "en": "available",
+    "_ad": "",
+    "_at": "available",
+    "en": "availability",
     "jp": "暇",
     "tl": "ひま"
   }

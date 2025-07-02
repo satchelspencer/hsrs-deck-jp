@@ -1,0 +1,14 @@
+{
+  "_id": "l8xhabcddif",
+  "name": "ka-noun-forms",
+  "params": {
+    "noun": "root-nouns"
+  },
+  "parents": [
+    "noun-form-subsets",
+    "const-noun-clauses"
+  ],
+  "props": {
+  },
+  "virtual": true
+}
