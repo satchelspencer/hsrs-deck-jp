@@ -1,0 +1,13 @@
+{
+  "_id": "z4swjaqvdv",
+  "name": "battle-decided",
+  "params": {
+    "noun": "battle",
+    "verb": "be-decided"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

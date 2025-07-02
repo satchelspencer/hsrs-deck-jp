@@ -1,0 +1,10 @@
+{
+  "_id": "epnl0i0e4lu",
+  "name": "noun-ga-verb-transitive",
+  "parents": [
+    "noun-ga-verb"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

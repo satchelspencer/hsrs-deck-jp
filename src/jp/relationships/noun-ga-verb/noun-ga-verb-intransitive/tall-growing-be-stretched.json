@@ -1,0 +1,13 @@
+{
+  "_id": "shc28kst03p",
+  "name": "tall-growing-be-stretched",
+  "params": {
+    "noun": "tall-growing",
+    "verb": "grow-tall"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

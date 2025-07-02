@@ -1,0 +1,13 @@
+{
+  "_id": "d9xk0qeryrl",
+  "name": "time-amounts-elapse",
+  "params": {
+    "noun": "time-amounts",
+    "verb": "elapse"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

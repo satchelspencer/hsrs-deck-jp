@@ -1,0 +1,13 @@
+{
+  "_id": "5nlmj9ourg8",
+  "name": "seeables-bcppar6oge",
+  "params": {
+    "noun": "seeables",
+    "verb": "seeables-do"
+  },
+  "parents": [
+    "noun-ga-verb-transitive"
+  ],
+  "props": {
+  }
+}

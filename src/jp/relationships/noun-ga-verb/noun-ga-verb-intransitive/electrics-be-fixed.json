@@ -1,0 +1,13 @@
+{
+  "_id": "etcxzqjigk",
+  "name": "electrics-be-fixed",
+  "params": {
+    "noun": "electrics",
+    "verb": "be-fixed"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

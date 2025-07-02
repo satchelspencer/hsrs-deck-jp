@@ -4,7 +4,7 @@
   "name": "wo-ga",
   "order": "2",
   "params": {
-    "rel": "noun-ga-verb",
+    "rel": "noun-ga-verb-transitive",
     "wo": "noun-wo-obj"
   },
   "parents": [

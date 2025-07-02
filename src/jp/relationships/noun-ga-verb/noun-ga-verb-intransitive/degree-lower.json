@@ -1,0 +1,13 @@
+{
+  "_id": "lpbf1ijshmi",
+  "name": "degree-lower",
+  "params": {
+    "noun": "degree",
+    "verb": "be-lowered"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

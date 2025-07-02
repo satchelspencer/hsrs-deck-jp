@@ -1,0 +1,13 @@
+{
+  "_id": "xtfrgxouyw",
+  "name": "bulding-mat-get-wet",
+  "params": {
+    "noun": "building-materials",
+    "verb": "get-wet"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

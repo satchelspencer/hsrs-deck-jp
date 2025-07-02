@@ -1,0 +1,13 @@
+{
+  "_id": "6y0duwh7wjf",
+  "name": "establishments-be-closed",
+  "params": {
+    "noun": "establishments",
+    "verb": "be-closed"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

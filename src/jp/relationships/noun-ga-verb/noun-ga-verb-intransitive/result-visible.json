@@ -1,0 +1,13 @@
+{
+  "_id": "89vsznvnuhp",
+  "name": "result-visible",
+  "params": {
+    "noun": "result",
+    "verb": "be-seen"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

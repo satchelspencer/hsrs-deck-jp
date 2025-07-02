@@ -1,0 +1,13 @@
+{
+  "_id": "vk1pg5ngebm",
+  "name": "degree-differ",
+  "params": {
+    "noun": "degree",
+    "verb": "be-different"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

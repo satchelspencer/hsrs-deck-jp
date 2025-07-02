@@ -1,0 +1,13 @@
+{
+  "_id": "r4x2f0v3n3k",
+  "name": "waves-occur",
+  "params": {
+    "noun": "waves",
+    "verb": "occur"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

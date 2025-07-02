@@ -1,0 +1,13 @@
+{
+  "_id": "jsk5lmoi1oi",
+  "name": "stimulate-light",
+  "params": {
+    "noun": "light",
+    "verb": "stimulation"
+  },
+  "parents": [
+    "noun-ga-verb-transitive"
+  ],
+  "props": {
+  }
+}

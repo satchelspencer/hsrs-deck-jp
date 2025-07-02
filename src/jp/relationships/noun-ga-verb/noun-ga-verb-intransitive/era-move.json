@@ -1,0 +1,13 @@
+{
+  "_id": "f92rbwtiipr",
+  "name": "era-move",
+  "params": {
+    "noun": "era",
+    "verb": "be-moving"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

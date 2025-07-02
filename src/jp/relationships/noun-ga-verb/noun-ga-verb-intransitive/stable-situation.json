@@ -1,0 +1,13 @@
+{
+  "_id": "dyevmbidj",
+  "name": "stable-situation",
+  "params": {
+    "noun": "economics",
+    "verb": "stable"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

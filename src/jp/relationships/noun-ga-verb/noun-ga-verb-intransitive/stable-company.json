@@ -1,0 +1,13 @@
+{
+  "_id": "hfcuwg19sra",
+  "name": "stable-company",
+  "params": {
+    "noun": "company",
+    "verb": "stable"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

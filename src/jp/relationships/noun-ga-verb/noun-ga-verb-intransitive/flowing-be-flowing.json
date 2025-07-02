@@ -1,0 +1,13 @@
+{
+  "_id": "68h1b2bhpg3",
+  "name": "flowing-be-flowing",
+  "params": {
+    "noun": "flowing",
+    "verb": "flow"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

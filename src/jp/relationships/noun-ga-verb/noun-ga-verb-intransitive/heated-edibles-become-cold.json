@@ -1,0 +1,13 @@
+{
+  "_id": "xyiilt9k5bs",
+  "name": "heated-edibles-become-cold",
+  "params": {
+    "noun": "heated-edibles",
+    "verb": "cool-off"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

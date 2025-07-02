@@ -1,0 +1,13 @@
+{
+  "_id": "0hpq41dcx4y",
+  "name": "wind-blow",
+  "params": {
+    "noun": "wind",
+    "verb": "blow"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

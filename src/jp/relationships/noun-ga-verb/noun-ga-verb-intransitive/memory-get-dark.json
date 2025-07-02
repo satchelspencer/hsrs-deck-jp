@@ -1,0 +1,13 @@
+{
+  "_id": "brnovha2l7b",
+  "name": "memory-get-dark",
+  "params": {
+    "noun": "memory",
+    "verb": "get-dark"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "hywa26syqh",
+  "name": "stimulate-flavor",
+  "params": {
+    "noun": "flavor",
+    "verb": "stimulation"
+  },
+  "parents": [
+    "noun-ga-verb-transitive"
+  ],
+  "props": {
+  }
+}

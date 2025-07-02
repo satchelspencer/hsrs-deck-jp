@@ -1,0 +1,13 @@
+{
+  "_id": "wtjkuha6fxr",
+  "name": "stability-lost",
+  "params": {
+    "noun": "stable",
+    "verb": "be-lost"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

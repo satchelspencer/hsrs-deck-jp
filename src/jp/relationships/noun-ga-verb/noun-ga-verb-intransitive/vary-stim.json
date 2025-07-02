@@ -1,0 +1,13 @@
+{
+  "_id": "6752lkik8l6",
+  "name": "vary-stim",
+  "params": {
+    "noun": "stimulation",
+    "verb": "variation"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

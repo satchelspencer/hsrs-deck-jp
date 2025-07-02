@@ -1,0 +1,13 @@
+{
+  "_id": "ktwls4a9dz",
+  "name": "transports-come-to-a-stop",
+  "params": {
+    "noun": "transports",
+    "verb": "come-to-a-stop"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

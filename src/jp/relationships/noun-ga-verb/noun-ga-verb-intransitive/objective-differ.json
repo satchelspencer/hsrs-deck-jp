@@ -1,0 +1,13 @@
+{
+  "_id": "vgteueh9r6s",
+  "name": "objective-differ",
+  "params": {
+    "noun": "objective",
+    "verb": "be-different"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

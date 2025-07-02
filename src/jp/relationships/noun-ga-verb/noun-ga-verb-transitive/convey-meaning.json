@@ -1,0 +1,13 @@
+{
+  "_id": "765f11y43p",
+  "name": "convey-meaning",
+  "params": {
+    "noun": "meaning",
+    "verb": "convey"
+  },
+  "parents": [
+    "noun-ga-verb-transitive"
+  ],
+  "props": {
+  }
+}

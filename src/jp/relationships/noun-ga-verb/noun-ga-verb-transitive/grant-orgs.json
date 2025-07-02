@@ -1,0 +1,13 @@
+{
+  "_id": "20z0qxzyiu8",
+  "name": "grant-orgs",
+  "params": {
+    "noun": "organizations",
+    "verb": "grant-it"
+  },
+  "parents": [
+    "noun-ga-verb-transitive"
+  ],
+  "props": {
+  }
+}

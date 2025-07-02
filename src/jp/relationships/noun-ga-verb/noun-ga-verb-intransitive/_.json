@@ -1,0 +1,10 @@
+{
+  "_id": "nk30kau27wh",
+  "name": "noun-ga-verb-intransitive",
+  "parents": [
+    "noun-ga-verb"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

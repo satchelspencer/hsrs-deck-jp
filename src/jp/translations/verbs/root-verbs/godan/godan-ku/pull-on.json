@@ -5,7 +5,6 @@
   "order": "3",
   "parents": [
     "godan-ku",
-    "te-iru-verbs-state",
     "de-location-verbs",
     "people-do-volitional"
   ],

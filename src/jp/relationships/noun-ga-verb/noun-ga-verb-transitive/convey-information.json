@@ -1,0 +1,13 @@
+{
+  "_id": "9zf5kvu60gp",
+  "name": "convey-information",
+  "params": {
+    "noun": "information",
+    "verb": "convey"
+  },
+  "parents": [
+    "noun-ga-verb-transitive"
+  ],
+  "props": {
+  }
+}

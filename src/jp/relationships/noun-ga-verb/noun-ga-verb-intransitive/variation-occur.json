@@ -1,0 +1,13 @@
+{
+  "_id": "mehmf55nrjc",
+  "name": "variation-occur",
+  "params": {
+    "noun": "variation",
+    "verb": "occur"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

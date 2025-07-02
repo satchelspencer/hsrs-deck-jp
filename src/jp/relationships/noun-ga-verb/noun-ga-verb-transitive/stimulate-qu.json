@@ -1,0 +1,13 @@
+{
+  "_id": "5hxovueukgn",
+  "name": "stimulate-qu",
+  "params": {
+    "noun": "question",
+    "verb": "stimulation"
+  },
+  "parents": [
+    "noun-ga-verb-transitive"
+  ],
+  "props": {
+  }
+}

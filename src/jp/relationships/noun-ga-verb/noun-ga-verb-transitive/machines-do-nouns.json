@@ -1,0 +1,13 @@
+{
+  "_id": "bselyg2wew",
+  "name": "machines-do-nouns",
+  "params": {
+    "noun": "machines",
+    "verb": "machines-do"
+  },
+  "parents": [
+    "noun-ga-verb-transitive"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "tkypp3o6g7d",
+  "name": "take-place-war",
+  "params": {
+    "noun": "war",
+    "verb": "take-place"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "bl5f6lfl5vk",
+  "name": "objective-exist",
+  "params": {
+    "noun": "objective",
+    "verb": "aru"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

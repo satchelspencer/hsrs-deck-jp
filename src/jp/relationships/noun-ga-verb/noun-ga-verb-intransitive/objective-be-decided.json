@@ -1,0 +1,13 @@
+{
+  "_id": "c8glyj9p24h",
+  "name": "objective-be-decided",
+  "params": {
+    "noun": "objective",
+    "verb": "be-decided"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

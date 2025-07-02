@@ -1,0 +1,13 @@
+{
+  "_id": "2tj6e3llt2c",
+  "name": "degree-underst",
+  "params": {
+    "noun": "degree",
+    "verb": "be-understood"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

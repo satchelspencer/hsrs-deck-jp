@@ -1,0 +1,13 @@
+{
+  "_id": "xx7hf4aiws",
+  "name": "objects-get-dirty",
+  "params": {
+    "noun": "objects",
+    "verb": "become-dirty"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

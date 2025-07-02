@@ -1,0 +1,13 @@
+{
+  "_id": "fu7nhaec99r",
+  "name": "life-continue",
+  "params": {
+    "noun": "a-life",
+    "verb": "be-continuing"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

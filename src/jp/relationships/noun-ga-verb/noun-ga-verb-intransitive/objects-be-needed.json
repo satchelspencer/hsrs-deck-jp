@@ -1,0 +1,13 @@
+{
+  "_id": "x9axjqbd628",
+  "name": "objects-be-needed",
+  "params": {
+    "noun": "objects",
+    "verb": "be-needed"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

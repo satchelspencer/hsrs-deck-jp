@@ -5,10 +5,10 @@
   "order": "4",
   "parents": [
     "godan-u",
-    "te-iru-verbs-state"
+    "te-iru-verbs-continuous"
   ],
   "props": {
-    "_st": "covering",
+    "_pg": "covering",
     "en": "cover it",
     "jp": "覆う",
     "tl": "おおう"

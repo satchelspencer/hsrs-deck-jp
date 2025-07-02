@@ -1,0 +1,13 @@
+{
+  "_id": "wphbsw66lob",
+  "name": "vary-society",
+  "params": {
+    "noun": "society",
+    "verb": "variation"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

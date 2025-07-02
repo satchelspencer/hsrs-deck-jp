@@ -1,0 +1,13 @@
+{
+  "_id": "v85f0k866z",
+  "name": "order-enter",
+  "params": {
+    "noun": "order",
+    "verb": "enter"
+  },
+  "parents": [
+    "noun-ga-verb-transitive"
+  ],
+  "props": {
+  }
+}

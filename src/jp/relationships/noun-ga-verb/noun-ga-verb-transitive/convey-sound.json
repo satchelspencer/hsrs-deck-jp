@@ -1,0 +1,13 @@
+{
+  "_id": "c9on7e3zzu",
+  "name": "convey-sound",
+  "params": {
+    "noun": "sound",
+    "verb": "convey"
+  },
+  "parents": [
+    "noun-ga-verb-transitive"
+  ],
+  "props": {
+  }
+}

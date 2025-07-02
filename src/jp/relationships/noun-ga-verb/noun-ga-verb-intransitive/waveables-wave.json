@@ -1,0 +1,13 @@
+{
+  "_id": "swtttpcwpp",
+  "name": "waveables-wave",
+  "params": {
+    "noun": "waveables",
+    "verb": "wave"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

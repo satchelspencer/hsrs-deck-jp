@@ -1,0 +1,13 @@
+{
+  "_id": "ad6s8cypdtd",
+  "name": "opponent-attack",
+  "params": {
+    "noun": "opponent",
+    "verb": "attack"
+  },
+  "parents": [
+    "noun-ga-verb-transitive"
+  ],
+  "props": {
+  }
+}

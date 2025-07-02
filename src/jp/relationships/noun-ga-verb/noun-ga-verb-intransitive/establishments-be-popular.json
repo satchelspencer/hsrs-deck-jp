@@ -1,0 +1,13 @@
+{
+  "_id": "bvq576h1vlr",
+  "name": "establishments-be-popular",
+  "params": {
+    "noun": "establishments",
+    "verb": "be-popular"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

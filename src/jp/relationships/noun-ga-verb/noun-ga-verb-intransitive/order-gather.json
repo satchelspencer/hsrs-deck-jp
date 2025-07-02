@@ -1,0 +1,13 @@
+{
+  "_id": "vpen4h5i3ve",
+  "name": "order-gather",
+  "params": {
+    "noun": "order",
+    "verb": "be-gathered"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

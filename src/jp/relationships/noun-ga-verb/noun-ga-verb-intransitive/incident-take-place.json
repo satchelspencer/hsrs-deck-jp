@@ -1,0 +1,13 @@
+{
+  "_id": "zn4clv5y7c",
+  "name": "incident-take-place",
+  "params": {
+    "noun": "incident",
+    "verb": "take-place"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

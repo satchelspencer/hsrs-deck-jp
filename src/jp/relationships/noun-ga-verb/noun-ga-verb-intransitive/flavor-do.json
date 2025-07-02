@@ -1,0 +1,13 @@
+{
+  "_id": "islgjkm3p6m",
+  "name": "flavor-do",
+  "params": {
+    "noun": "flavor",
+    "verb": "do-suru"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

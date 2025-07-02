@@ -1,0 +1,13 @@
+{
+  "_id": "unk2rknmb",
+  "name": "be-past-time-amounts",
+  "params": {
+    "noun": "time-amounts",
+    "verb": "be-past"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

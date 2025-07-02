@@ -1,0 +1,13 @@
+{
+  "_id": "zztewyipn8b",
+  "name": "era-be-changed",
+  "params": {
+    "noun": "era",
+    "verb": "be-changed"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

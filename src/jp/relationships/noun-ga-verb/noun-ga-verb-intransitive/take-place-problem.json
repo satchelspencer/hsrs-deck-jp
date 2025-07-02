@@ -1,0 +1,13 @@
+{
+  "_id": "v4huja0w70i",
+  "name": "take-place-problem",
+  "params": {
+    "noun": "problem",
+    "verb": "take-place"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

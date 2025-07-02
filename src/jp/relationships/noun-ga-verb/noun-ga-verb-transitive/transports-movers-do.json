@@ -1,0 +1,13 @@
+{
+  "_id": "bgjqjyegybm",
+  "name": "transports-movers-do",
+  "params": {
+    "noun": "transports",
+    "verb": "movers-do"
+  },
+  "parents": [
+    "noun-ga-verb-transitive"
+  ],
+  "props": {
+  }
+}

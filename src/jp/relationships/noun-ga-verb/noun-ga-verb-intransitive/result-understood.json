@@ -1,0 +1,13 @@
+{
+  "_id": "ndfd732iwjs",
+  "name": "result-understood",
+  "params": {
+    "noun": "result",
+    "verb": "be-understood"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

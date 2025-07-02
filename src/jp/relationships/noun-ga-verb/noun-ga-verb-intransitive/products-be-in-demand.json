@@ -1,0 +1,13 @@
+{
+  "_id": "2vlz2r25pvw",
+  "name": "products-be-in-demand",
+  "params": {
+    "noun": "products",
+    "verb": "be-in-demand"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "a5laujn8cu9",
+  "name": "do-to-paths-paths",
+  "params": {
+    "noun": "paths",
+    "verb": "do-to-paths"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

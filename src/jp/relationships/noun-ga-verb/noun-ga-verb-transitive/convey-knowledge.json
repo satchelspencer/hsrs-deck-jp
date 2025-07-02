@@ -1,0 +1,13 @@
+{
+  "_id": "5jwvtw70bxc",
+  "name": "convey-knowledge",
+  "params": {
+    "noun": "knowledge",
+    "verb": "convey"
+  },
+  "parents": [
+    "noun-ga-verb-transitive"
+  ],
+  "props": {
+  }
+}

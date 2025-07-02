@@ -1,0 +1,13 @@
+{
+  "_id": "og1kelkm3ka",
+  "name": "cutting-utensils-be-sharp",
+  "params": {
+    "noun": "cutting-utensils",
+    "verb": "be-sharp"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

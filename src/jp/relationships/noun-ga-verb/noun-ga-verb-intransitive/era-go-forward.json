@@ -1,0 +1,13 @@
+{
+  "_id": "0nj40d56syc",
+  "name": "era-go-forward",
+  "params": {
+    "noun": "era",
+    "verb": "go-forward"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "p633igf8dmo",
+  "name": "lightables-be-turned-off",
+  "params": {
+    "noun": "lightables",
+    "verb": "be-turned-off"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

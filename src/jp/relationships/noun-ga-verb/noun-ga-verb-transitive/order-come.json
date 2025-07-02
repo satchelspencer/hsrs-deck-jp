@@ -1,0 +1,13 @@
+{
+  "_id": "m9ykebfr1z",
+  "name": "order-come",
+  "params": {
+    "noun": "order",
+    "verb": "come"
+  },
+  "parents": [
+    "noun-ga-verb-transitive"
+  ],
+  "props": {
+  }
+}

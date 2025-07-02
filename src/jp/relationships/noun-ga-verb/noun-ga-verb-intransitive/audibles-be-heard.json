@@ -1,0 +1,13 @@
+{
+  "_id": "vf1gopn5n5",
+  "name": "audibles-be-heard",
+  "params": {
+    "noun": "audibles",
+    "verb": "be-heard"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

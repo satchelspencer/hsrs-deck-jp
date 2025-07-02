@@ -1,0 +1,13 @@
+{
+  "_id": "0pfh9hiktp2a",
+  "name": "tippable-fall-over",
+  "params": {
+    "noun": "tippable",
+    "verb": "fall-over"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

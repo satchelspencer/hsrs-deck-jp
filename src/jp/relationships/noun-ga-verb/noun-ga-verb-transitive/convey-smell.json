@@ -1,0 +1,13 @@
+{
+  "_id": "h9hc7iz9dyt",
+  "name": "convey-smell",
+  "params": {
+    "noun": "scent",
+    "verb": "convey"
+  },
+  "parents": [
+    "noun-ga-verb-transitive"
+  ],
+  "props": {
+  }
+}

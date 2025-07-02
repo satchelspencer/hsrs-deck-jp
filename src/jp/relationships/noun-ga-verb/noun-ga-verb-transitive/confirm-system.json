@@ -1,0 +1,13 @@
+{
+  "_id": "16fesbzuybj",
+  "name": "confirm-system",
+  "params": {
+    "noun": "system",
+    "verb": "confirmation"
+  },
+  "parents": [
+    "noun-ga-verb-transitive"
+  ],
+  "props": {
+  }
+}
