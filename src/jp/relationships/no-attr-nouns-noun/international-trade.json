@@ -4,7 +4,7 @@
   "order": "",
   "params": {
     "no": "international",
-    "noun": "foreign-trade"
+    "noun": "trade"
   },
   "parents": [
     "no-attr-nouns-noun"

@@ -4,9 +4,12 @@
   "order": "3",
   "parents": [
     "objects",
-    "activities"
+    "suru-nouns",
+    "people-do"
   ],
   "props": {
+    "_pg": "losing a thing",
+    "_v": "lose a thing",
     "en": "lost thing",
     "jp": "忘れ物",
     "tl": "わすれもの"

@@ -1,0 +1,15 @@
+{
+  "_id": "sm58iiu4jb",
+  "desc": "direction, way. person, lady, gentleman",
+  "mode": "p",
+  "name": "person-polite",
+  "order": "2",
+  "parents": [
+    "people"
+  ],
+  "props": {
+    "en": "person",
+    "jp": "方",
+    "tl": "かた"
+  }
+}

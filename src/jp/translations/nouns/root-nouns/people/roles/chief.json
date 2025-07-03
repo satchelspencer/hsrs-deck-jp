@@ -1,0 +1,14 @@
+{
+  "_id": "lf6o8e7nfc9",
+  "desc": "leader of an org",
+  "name": "chief",
+  "order": "4",
+  "parents": [
+    "roles"
+  ],
+  "props": {
+    "en": "chief",
+    "jp": "長",
+    "tl": "ちょう"
+  }
+}

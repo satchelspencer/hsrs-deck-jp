@@ -1,0 +1,14 @@
+{
+  "_id": "pyuelnmfc6s",
+  "desc": "guest, visitor. customer, client, shopper, spectator, audience, tourist, sightseer, passenger",
+  "name": "customer",
+  "order": "3",
+  "parents": [
+    "roles"
+  ],
+  "props": {
+    "en": "customer",
+    "jp": "客",
+    "tl": "きゃく"
+  }
+}

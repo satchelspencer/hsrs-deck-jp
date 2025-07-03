@@ -1,6 +1,6 @@
 {
   "_id": "qhkdscr1fqo",
-  "mode": "--r",
+  "mode": "p-r",
   "name": "you-plural",
   "params": {
     "pronoun": "you"

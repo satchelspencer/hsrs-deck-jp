@@ -4,7 +4,7 @@
   "order": "2",
   "parents": [
     "people",
-    "roles,non-unique"
+    "roles"
   ],
   "props": {
     "en": "doctor",

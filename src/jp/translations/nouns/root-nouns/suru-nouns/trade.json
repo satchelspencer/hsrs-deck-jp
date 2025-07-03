@@ -1,0 +1,17 @@
+{
+  "_id": "z2mugaubbth",
+  "desc": "often foreign trade",
+  "name": "trade",
+  "order": "3",
+  "parents": [
+    "suru-nouns",
+    "learnables",
+    "industries",
+    "people-do-volitional"
+  ],
+  "props": {
+    "en": "trade",
+    "jp": "貿易",
+    "tl": "ぼうえき"
+  }
+}

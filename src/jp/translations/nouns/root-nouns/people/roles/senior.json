@@ -1,0 +1,14 @@
+{
+  "_id": "5ps3wuo85i4",
+  "desc": "senior (at work or school), superior, elder, older graduate, progenitor, old-timer",
+  "name": "senior",
+  "order": "4",
+  "parents": [
+    "roles"
+  ],
+  "props": {
+    "en": "senior",
+    "jp": "先輩",
+    "tl": "せんぱい"
+  }
+}

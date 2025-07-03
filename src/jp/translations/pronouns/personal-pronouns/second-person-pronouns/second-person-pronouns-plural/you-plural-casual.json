@@ -1,6 +1,6 @@
 {
   "_id": "rs98tnapep",
-  "mode": "--r",
+  "mode": "c-r",
   "name": "you-plural-casual",
   "params": {
     "pronoun": "you"

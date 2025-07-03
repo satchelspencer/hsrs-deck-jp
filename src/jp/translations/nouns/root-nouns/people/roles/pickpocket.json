@@ -1,0 +1,12 @@
+{
+  "_id": "kklllxnpie",
+  "name": "pickpocket",
+  "order": "3",
+  "parents": [
+    "roles"
+  ],
+  "props": {
+    "en": "pickpocket",
+    "jp": "すり"
+  }
+}

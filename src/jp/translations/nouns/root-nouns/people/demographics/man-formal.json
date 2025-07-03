@@ -1,0 +1,14 @@
+{
+  "_id": "s645h4fvfrc",
+  "mode": "p",
+  "name": "man-formal",
+  "order": "3",
+  "parents": [
+    "demographics"
+  ],
+  "props": {
+    "en": "man",
+    "jp": "男性",
+    "tl": "だんせい"
+  }
+}

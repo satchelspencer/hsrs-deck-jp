@@ -1,0 +1,15 @@
+{
+  "_id": "7ykq1qfnop9",
+  "desc": "lower rank people",
+  "name": "subbordinate",
+  "order": "4",
+  "parents": [
+    "roles",
+    "people-no"
+  ],
+  "props": {
+    "en": "subordinate",
+    "jp": "部下",
+    "tl": "ぶか"
+  }
+}
