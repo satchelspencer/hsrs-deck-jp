@@ -1,0 +1,13 @@
+{
+  "_id": "0vhtey95vqhb",
+  "name": "just-after",
+  "order": "4",
+  "parents": [
+    "absolute-times"
+  ],
+  "props": {
+    "en": "just after",
+    "jp": "直後",
+    "tl": "ちょくご"
+  }
+}

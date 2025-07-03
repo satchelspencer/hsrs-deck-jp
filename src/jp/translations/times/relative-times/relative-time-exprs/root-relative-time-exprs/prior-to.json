@@ -1,0 +1,14 @@
+{
+  "_id": "g56ws2uckfg",
+  "desc": "before",
+  "name": "prior-to",
+  "order": "4",
+  "parents": [
+    "root-relative-time-exprs"
+  ],
+  "props": {
+    "en": "prior to",
+    "jp": "以前に",
+    "tl": "いぜんに"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "_id": "jfgbdev98k",
+  "desc": "about, approx",
+  "name": "around-when",
+  "order": "3",
+  "parents": [
+    "root-relative-time-exprs",
+    "past-relative-time-exprs"
+  ],
+  "props": {
+    "en": "around when",
+    "jp": "頃",
+    "tl": "ごろ"
+  }
+}

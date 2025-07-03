@@ -2,14 +2,14 @@
   "_id": "yyq15wiweyq",
   "desc": "in case of, at that time, at this time",
   "mode": "p",
-  "name": "when-formal",
+  "name": "at-the-time-of",
   "order": "4",
   "parents": [
     "noun-no-relative-time-exprs",
     "root-relative-time-exprs"
   ],
   "props": {
-    "en": "when",
+    "en": "at the time of",
     "jp": "際に",
     "tl": "さいに"
   }

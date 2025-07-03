@@ -1,0 +1,13 @@
+{
+  "_id": "n1mwauqm3tf",
+  "name": "since",
+  "order": "4",
+  "parents": [
+    "te-relative-time-exprs"
+  ],
+  "props": {
+    "en": "since",
+    "jp": "以来",
+    "tl": "いらい"
+  }
+}

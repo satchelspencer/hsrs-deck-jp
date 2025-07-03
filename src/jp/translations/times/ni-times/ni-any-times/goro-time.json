@@ -1,0 +1,17 @@
+{
+  "_id": "2v50gc76vk3",
+  "desc": "about this time",
+  "name": "goro-time",
+  "order": "4",
+  "params": {
+    "ar": "around-when",
+    "time": "absolute-times"
+  },
+  "parents": [
+    "ni-any-times"
+  ],
+  "props": {
+    "en": "'around '+time.en",
+    "jp": "time.jp+ar.jp"
+  }
+}

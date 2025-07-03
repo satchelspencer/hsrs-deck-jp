@@ -1,5 +1,6 @@
 {
   "_id": "bns0b9oblwv",
+  "mode": "*",
   "name": "teiru-verb-relative-time",
   "params": {
     "expr": "teiru-relative-time-exprs",

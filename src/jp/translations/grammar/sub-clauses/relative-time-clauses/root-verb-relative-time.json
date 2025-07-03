@@ -1,5 +1,6 @@
 {
   "_id": "lzxu0ejtje",
+  "mode": "*",
   "name": "root-verb-relative-time",
   "order": "",
   "params": {
@@ -10,7 +11,7 @@
     "relative-time-clauses"
   ],
   "props": {
-    "en": "expr.en+' '+root.en",
+    "en": "expr.en+' '+(root.verb._pg||root.en)",
     "jp": "root.jp+expr.jp"
   }
 }

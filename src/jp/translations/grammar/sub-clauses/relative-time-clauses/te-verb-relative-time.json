@@ -1,0 +1,16 @@
+{
+  "_id": "b5dcj34xxqc",
+  "name": "te-verb-relative-time",
+  "order": "",
+  "params": {
+    "expr": "te-relative-time-exprs",
+    "root": "verb-te-form"
+  },
+  "parents": [
+    "relative-time-clauses"
+  ],
+  "props": {
+    "en": "expr.en+' '+(root.past.verb._pg||root.en|r(' and', ''))",
+    "jp": "root.jp+expr.jp"
+  }
+}

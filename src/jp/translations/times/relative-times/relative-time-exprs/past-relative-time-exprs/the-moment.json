@@ -1,0 +1,14 @@
+{
+  "_id": "zatkg0ithw",
+  "desc": "right when, the instant...",
+  "name": "the-moment",
+  "order": "4",
+  "parents": [
+    "past-relative-time-exprs"
+  ],
+  "props": {
+    "en": "the moment",
+    "jp": "瞬間に",
+    "tl": "しゅんかんに"
+  }
+}
