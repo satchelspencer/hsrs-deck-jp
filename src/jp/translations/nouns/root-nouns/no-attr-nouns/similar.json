@@ -1,0 +1,14 @@
+{
+  "_id": "g2y1kzqc51v",
+  "name": "similar",
+  "order": "4",
+  "parents": [
+    "no-attr-nouns"
+  ],
+  "props": {
+    "_at": "",
+    "en": "similar",
+    "jp": "同様",
+    "tl": "どうよう"
+  }
+}

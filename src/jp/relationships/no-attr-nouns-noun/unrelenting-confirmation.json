@@ -1,0 +1,13 @@
+{
+  "_id": "o4jwri275ac",
+  "name": "unrelenting-confirmation",
+  "params": {
+    "no": "unrelenting",
+    "noun": "confirmation"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

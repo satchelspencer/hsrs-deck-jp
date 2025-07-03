@@ -1,0 +1,13 @@
+{
+  "_id": "s6z5vtj1r8",
+  "name": "another",
+  "order": "3",
+  "parents": [
+    "no-attr-nouns"
+  ],
+  "props": {
+    "en": "another",
+    "jp": "別",
+    "tl": "べつ"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "xun8mok9l3",
+  "name": "coincidental-result",
+  "params": {
+    "no": "coincidental",
+    "noun": "result"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

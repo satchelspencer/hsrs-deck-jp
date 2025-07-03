@@ -1,0 +1,13 @@
+{
+  "_id": "k88oagmozn",
+  "name": "next-opprotunity",
+  "params": {
+    "no": "next",
+    "noun": "opprotunity"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

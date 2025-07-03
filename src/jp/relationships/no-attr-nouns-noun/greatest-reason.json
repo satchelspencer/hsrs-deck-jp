@@ -1,0 +1,13 @@
+{
+  "_id": "4o29rbmgr6f",
+  "name": "greatest-reason",
+  "params": {
+    "no": "greatest",
+    "noun": "reason"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

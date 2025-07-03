@@ -1,0 +1,13 @@
+{
+  "_id": "00218v4i65nhm",
+  "name": "former-love",
+  "params": {
+    "no": "former",
+    "noun": "love-concept"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

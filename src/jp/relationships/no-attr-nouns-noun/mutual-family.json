@@ -1,0 +1,13 @@
+{
+  "_id": "qf8widnd6qg",
+  "name": "mutual-family",
+  "params": {
+    "no": "mutual",
+    "noun": "family"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

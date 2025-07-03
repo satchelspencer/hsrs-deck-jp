@@ -1,0 +1,13 @@
+{
+  "_id": "ek7bijv6dlr",
+  "name": "primary-perception",
+  "params": {
+    "no": "primary",
+    "noun": "perception"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

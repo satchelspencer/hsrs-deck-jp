@@ -5,7 +5,8 @@
   "parents": [
     "short-long",
     "body-parts",
-    "snappers"
+    "snappers",
+    "symmetric-body-parts"
   ],
   "props": {
     "en": "arm",

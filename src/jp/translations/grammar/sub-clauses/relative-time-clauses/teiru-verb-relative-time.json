@@ -9,7 +9,7 @@
     "relative-time-clauses"
   ],
   "props": {
-    "en": "expr.en+' '+root.en",
+    "en": "expr.en+' '+root.en|pr('is ', '')",
     "jp": "root.jp+expr.jp"
   }
 }

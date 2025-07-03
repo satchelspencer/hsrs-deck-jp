@@ -1,0 +1,16 @@
+{
+  "_id": "e64ef6u8p1f",
+  "desc": "sometimes, occasionally, at times, from time to time, now and then, once in a while, at intervals",
+  "name": "sometimes",
+  "order": "1",
+  "parents": [
+    "continuing-times",
+    "verb-adverbs"
+  ],
+  "props": {
+    "_at": "occasional",
+    "en": "sometimes",
+    "jp": "時々",
+    "tl": "ときどき"
+  }
+}

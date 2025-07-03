@@ -1,0 +1,13 @@
+{
+  "_id": "o79rup2gr0o",
+  "name": "surrounding-animal",
+  "params": {
+    "no": "surrounding",
+    "noun": "animal"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

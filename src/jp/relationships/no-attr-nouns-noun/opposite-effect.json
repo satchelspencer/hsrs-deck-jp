@@ -1,0 +1,13 @@
+{
+  "_id": "6ql8uoilq22",
+  "name": "opposite-effect",
+  "params": {
+    "no": "opposite",
+    "noun": "effect"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

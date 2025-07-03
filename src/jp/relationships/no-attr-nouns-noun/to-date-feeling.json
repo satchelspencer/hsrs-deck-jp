@@ -1,0 +1,13 @@
+{
+  "_id": "ubq1kg8ikwg",
+  "name": "to-date-feeling",
+  "params": {
+    "no": "to-date",
+    "noun": "feeling"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "fzwg4nzepys",
+  "name": "no-colors-objects",
+  "params": {
+    "no": "colors",
+    "noun": "objects"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

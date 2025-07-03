@@ -1,0 +1,13 @@
+{
+  "_id": "hxpv3no92a5",
+  "name": "knowledge-basics",
+  "params": {
+    "no": "basics",
+    "noun": "knowledge"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

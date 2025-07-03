@@ -3,7 +3,7 @@
   "name": "complex-feelings",
   "params": {
     "na": "complexity",
-    "noun": "feelings"
+    "noun": "emotions"
   },
   "parents": [
     "na-attributive-noun"

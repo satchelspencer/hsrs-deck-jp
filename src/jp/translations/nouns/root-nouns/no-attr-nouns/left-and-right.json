@@ -1,0 +1,13 @@
+{
+  "_id": "2dycd2wx8er",
+  "name": "left-and-right",
+  "order": "3",
+  "parents": [
+    "no-attr-nouns"
+  ],
+  "props": {
+    "en": "left and right",
+    "jp": "左右",
+    "tl": "さゆう"
+  }
+}

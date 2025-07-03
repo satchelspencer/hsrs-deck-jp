@@ -1,0 +1,14 @@
+{
+  "_id": "fc8mg5gix6e",
+  "name": "raw-raws",
+  "order": "",
+  "params": {
+    "no": "raw",
+    "noun": "raws"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

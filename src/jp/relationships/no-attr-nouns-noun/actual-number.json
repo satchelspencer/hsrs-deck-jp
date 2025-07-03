@@ -1,0 +1,13 @@
+{
+  "_id": "1qum0ifyny4",
+  "name": "actual-number",
+  "params": {
+    "no": "actual",
+    "noun": "number-of"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

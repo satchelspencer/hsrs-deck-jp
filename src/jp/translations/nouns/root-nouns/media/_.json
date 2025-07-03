@@ -2,7 +2,8 @@
   "_id": "jbldo5rjhls",
   "name": "media",
   "parents": [
-    "root-nouns"
+    "root-nouns",
+    "non-unique"
   ],
   "props": {
   },

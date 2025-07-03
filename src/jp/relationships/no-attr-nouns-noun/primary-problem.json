@@ -1,0 +1,13 @@
+{
+  "_id": "9le21hu60kp",
+  "name": "primary-problem",
+  "params": {
+    "no": "primary",
+    "noun": "problem"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

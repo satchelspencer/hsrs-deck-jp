@@ -1,0 +1,13 @@
+{
+  "_id": "sjsrdu5jfh",
+  "name": "opposite-conclusion",
+  "params": {
+    "no": "opposite",
+    "noun": "conclusion"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

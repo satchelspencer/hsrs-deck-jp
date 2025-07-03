@@ -1,0 +1,13 @@
+{
+  "_id": "2tjpk250ily",
+  "name": "primary-part",
+  "params": {
+    "no": "primary",
+    "noun": "part"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

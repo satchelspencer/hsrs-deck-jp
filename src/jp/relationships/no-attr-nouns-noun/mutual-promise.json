@@ -1,0 +1,13 @@
+{
+  "_id": "y0ijxhz3ur8",
+  "name": "mutual-promise",
+  "params": {
+    "no": "mutual",
+    "noun": "promise"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

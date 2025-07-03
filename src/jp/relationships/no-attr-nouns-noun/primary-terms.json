@@ -1,0 +1,13 @@
+{
+  "_id": "qybaygm8lwk",
+  "name": "primary-terms",
+  "params": {
+    "no": "primary",
+    "noun": "terms"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

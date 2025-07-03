@@ -1,0 +1,14 @@
+{
+  "_id": "duh6syhof8",
+  "name": "international-trade",
+  "order": "",
+  "params": {
+    "no": "international",
+    "noun": "foreign-trade"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

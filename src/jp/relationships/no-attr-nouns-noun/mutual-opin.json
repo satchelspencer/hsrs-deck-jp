@@ -1,0 +1,13 @@
+{
+  "_id": "w0mmfy8jod",
+  "name": "mutual-opin",
+  "params": {
+    "no": "mutual",
+    "noun": "opinion"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

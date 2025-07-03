@@ -1,0 +1,14 @@
+{
+  "_id": "qy53lsz1x49",
+  "name": "habitual-practice",
+  "order": "",
+  "params": {
+    "no": "habitual",
+    "noun": "practice"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

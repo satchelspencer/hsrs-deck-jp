@@ -1,0 +1,14 @@
+{
+  "_id": "wpwl497f3k",
+  "desc": "each other",
+  "name": "mutual",
+  "order": "4",
+  "parents": [
+    "no-attr-nouns"
+  ],
+  "props": {
+    "en": "mutual",
+    "jp": "お互い",
+    "tl": "おたがい"
+  }
+}

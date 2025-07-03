@@ -1,0 +1,14 @@
+{
+  "_id": "zorblkeskd",
+  "desc": "natural, obvious",
+  "name": "proper",
+  "order": "4",
+  "parents": [
+    "no-attr-nouns"
+  ],
+  "props": {
+    "en": "proper",
+    "jp": "当然",
+    "tl": "とうぜん"
+  }
+}

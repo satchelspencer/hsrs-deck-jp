@@ -1,0 +1,14 @@
+{
+  "_id": "1iublkyxag9",
+  "desc": "woman, female. female lover, girlfriend, mistress, (someone's) woman",
+  "name": "woman",
+  "order": "1",
+  "parents": [
+    "demographics,non-unique"
+  ],
+  "props": {
+    "en": "woman",
+    "jp": "女",
+    "tl": "おんな"
+  }
+}

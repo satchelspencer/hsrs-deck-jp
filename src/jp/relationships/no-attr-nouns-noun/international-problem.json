@@ -1,0 +1,14 @@
+{
+  "_id": "rixotxudut",
+  "name": "international-problem",
+  "order": "",
+  "params": {
+    "no": "international",
+    "noun": "problem"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

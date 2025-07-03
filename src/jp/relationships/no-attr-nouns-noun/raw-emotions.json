@@ -1,0 +1,14 @@
+{
+  "_id": "997168bswq",
+  "name": "raw-emotions",
+  "order": "",
+  "params": {
+    "no": "raw",
+    "noun": "emotions"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

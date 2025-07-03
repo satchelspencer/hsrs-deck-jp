@@ -1,0 +1,14 @@
+{
+  "_id": "6s5um9davsn",
+  "desc": "former, source",
+  "name": "original",
+  "order": "4",
+  "parents": [
+    "no-attr-nouns"
+  ],
+  "props": {
+    "en": "original",
+    "jp": "元",
+    "tl": "もと"
+  }
+}

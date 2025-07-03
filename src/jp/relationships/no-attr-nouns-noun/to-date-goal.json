@@ -1,0 +1,13 @@
+{
+  "_id": "jem49xao4z",
+  "name": "to-date-goal",
+  "params": {
+    "no": "to-date",
+    "noun": "goal"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

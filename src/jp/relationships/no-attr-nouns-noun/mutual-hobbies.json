@@ -1,0 +1,13 @@
+{
+  "_id": "ncox9t6sv5r",
+  "name": "mutual-hobbies",
+  "params": {
+    "no": "mutual",
+    "noun": "hobby"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

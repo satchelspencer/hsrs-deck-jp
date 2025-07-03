@@ -2,7 +2,8 @@
   "_id": "gyh47md2mvp",
   "name": "thing-words",
   "parents": [
-    "root-nouns"
+    "root-nouns",
+    "non-unique"
   ],
   "props": {
   },

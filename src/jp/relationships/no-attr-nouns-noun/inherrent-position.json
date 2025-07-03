@@ -1,0 +1,13 @@
+{
+  "_id": "bncg1ct48or",
+  "name": "inherrent-position",
+  "params": {
+    "no": "inherrent",
+    "noun": "position"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

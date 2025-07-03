@@ -1,0 +1,14 @@
+{
+  "_id": "ccd2kief8dc",
+  "name": "raw-voice",
+  "order": "",
+  "params": {
+    "no": "raw",
+    "noun": "voice"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

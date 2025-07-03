@@ -1,0 +1,13 @@
+{
+  "_id": "apqw1ztrg2e",
+  "name": "former-spot",
+  "params": {
+    "no": "former",
+    "noun": "spot"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

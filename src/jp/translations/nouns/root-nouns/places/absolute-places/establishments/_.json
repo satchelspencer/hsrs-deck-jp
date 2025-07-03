@@ -2,7 +2,8 @@
   "_id": "d39mrossg9",
   "name": "establishments",
   "parents": [
-    "absolute-places"
+    "absolute-places",
+    "non-unique"
   ],
   "props": {
   },

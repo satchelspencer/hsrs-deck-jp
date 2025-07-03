@@ -1,0 +1,13 @@
+{
+  "_id": "n2dodna3uta",
+  "name": "monthly-report",
+  "params": {
+    "no": "every-month",
+    "noun": "report"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

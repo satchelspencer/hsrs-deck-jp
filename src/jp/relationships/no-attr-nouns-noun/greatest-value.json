@@ -1,0 +1,13 @@
+{
+  "_id": "uxlm3mxq2b",
+  "name": "greatest-value",
+  "params": {
+    "no": "greatest",
+    "noun": "value"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

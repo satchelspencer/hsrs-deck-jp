@@ -3,7 +3,7 @@
   "name": "feelings-intense",
   "params": {
     "iadj": "intense",
-    "noun": "feelings"
+    "noun": "emotions"
   },
   "parents": [
     "i-attributive-noun"

@@ -6,7 +6,8 @@
   "parents": [
     "body-parts",
     "waveables",
-    "raisables"
+    "raisables",
+    "symmetric-body-parts"
   ],
   "props": {
     "en": "hand",

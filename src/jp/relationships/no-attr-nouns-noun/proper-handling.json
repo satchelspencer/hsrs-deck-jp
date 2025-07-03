@@ -1,0 +1,13 @@
+{
+  "_id": "gk6duzihwpu",
+  "name": "proper-handling",
+  "params": {
+    "no": "proper",
+    "noun": "handling"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

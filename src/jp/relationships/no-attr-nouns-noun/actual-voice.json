@@ -1,0 +1,13 @@
+{
+  "_id": "ka8rivrmcjk",
+  "name": "actual-voice",
+  "params": {
+    "no": "actual",
+    "noun": "voice"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "078cvpvmmaqr",
+  "name": "inherrent-shape",
+  "params": {
+    "no": "inherrent",
+    "noun": "shape"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

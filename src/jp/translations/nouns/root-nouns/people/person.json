@@ -3,7 +3,8 @@
   "name": "person",
   "order": "1",
   "parents": [
-    "people"
+    "people",
+    "non-unique"
   ],
   "props": {
     "en": "person",

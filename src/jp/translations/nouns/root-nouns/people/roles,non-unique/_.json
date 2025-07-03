@@ -1,0 +1,10 @@
+{
+  "_id": "l8igcnmgypa",
+  "name": "roles,non-unique",
+  "parents": [
+    "people"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

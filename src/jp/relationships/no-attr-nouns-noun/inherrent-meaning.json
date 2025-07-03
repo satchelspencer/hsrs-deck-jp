@@ -1,0 +1,13 @@
+{
+  "_id": "o5fp9ri9xy",
+  "name": "inherrent-meaning",
+  "params": {
+    "no": "inherrent",
+    "noun": "meaning"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

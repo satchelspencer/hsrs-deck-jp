@@ -1,0 +1,10 @@
+{
+  "_id": "dmt22rbf3um",
+  "name": "symmetric-body-parts",
+  "parents": [
+    "body-parts"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

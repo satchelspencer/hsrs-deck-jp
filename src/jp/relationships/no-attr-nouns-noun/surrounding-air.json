@@ -1,0 +1,13 @@
+{
+  "_id": "x9hrrrgs47d",
+  "name": "surrounding-air",
+  "params": {
+    "no": "surrounding",
+    "noun": "air"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "egyolk0sqmg",
+  "name": "raw-power",
+  "order": "",
+  "params": {
+    "no": "raw",
+    "noun": "power"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

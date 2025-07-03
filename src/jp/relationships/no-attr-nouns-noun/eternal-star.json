@@ -1,0 +1,13 @@
+{
+  "_id": "y8quyvo6nu",
+  "name": "eternal-star",
+  "params": {
+    "no": "eternal",
+    "noun": "star"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

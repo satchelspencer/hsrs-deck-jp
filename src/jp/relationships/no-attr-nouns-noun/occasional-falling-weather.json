@@ -1,0 +1,13 @@
+{
+  "_id": "yeg90xzl93",
+  "name": "occasional-falling-weather",
+  "params": {
+    "no": "sometimes",
+    "noun": "falling-weather"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

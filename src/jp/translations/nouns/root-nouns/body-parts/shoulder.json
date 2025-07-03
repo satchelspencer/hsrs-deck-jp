@@ -3,7 +3,8 @@
   "name": "shoulder",
   "order": "4",
   "parents": [
-    "body-parts"
+    "body-parts",
+    "symmetric-body-parts"
   ],
   "props": {
     "en": "shoulder",

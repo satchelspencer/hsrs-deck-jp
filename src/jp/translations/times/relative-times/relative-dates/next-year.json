@@ -1,0 +1,14 @@
+{
+  "_id": "x31u61tgkck",
+  "name": "next-year",
+  "order": "1",
+  "parents": [
+    "relative-dates",
+    "ni-future-only-times"
+  ],
+  "props": {
+    "en": "next year",
+    "jp": "来年",
+    "tl": "らいねん"
+  }
+}

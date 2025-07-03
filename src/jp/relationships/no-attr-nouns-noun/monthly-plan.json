@@ -1,0 +1,13 @@
+{
+  "_id": "g78w1fxxg29",
+  "name": "monthly-plan",
+  "params": {
+    "no": "every-month",
+    "noun": "plan"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

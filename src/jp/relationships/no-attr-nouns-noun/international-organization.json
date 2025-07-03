@@ -1,0 +1,14 @@
+{
+  "_id": "4me4set7eh2",
+  "name": "international-organization",
+  "order": "",
+  "params": {
+    "no": "international",
+    "noun": "organization"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

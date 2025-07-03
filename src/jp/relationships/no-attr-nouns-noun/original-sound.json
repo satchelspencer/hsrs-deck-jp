@@ -1,0 +1,13 @@
+{
+  "_id": "ycw2b40qbqj",
+  "name": "original-sound",
+  "params": {
+    "no": "original",
+    "noun": "sound"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

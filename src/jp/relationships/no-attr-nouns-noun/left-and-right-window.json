@@ -1,0 +1,13 @@
+{
+  "_id": "s55beo52qzk",
+  "name": "left-and-right-window",
+  "params": {
+    "no": "left-and-right",
+    "noun": "window"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

@@ -4,7 +4,8 @@
   "name": "rice-grain",
   "order": "3",
   "parents": [
-    "foods"
+    "foods",
+    "raws"
   ],
   "props": {
     "en": "rice grain",

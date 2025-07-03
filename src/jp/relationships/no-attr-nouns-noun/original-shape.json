@@ -1,0 +1,13 @@
+{
+  "_id": "n6czjogdmfp",
+  "name": "original-shape",
+  "params": {
+    "no": "original",
+    "noun": "shape"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "1fesuxrlxu5",
+  "name": "garbage-bag",
+  "params": {
+    "no": "trash",
+    "noun": "bag"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

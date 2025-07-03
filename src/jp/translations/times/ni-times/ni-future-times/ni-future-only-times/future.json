@@ -1,0 +1,14 @@
+{
+  "_id": "gm69ovlposa",
+  "desc": "future, (future) prospects",
+  "name": "future",
+  "order": "3",
+  "parents": [
+    "ni-future-only-times"
+  ],
+  "props": {
+    "en": "future",
+    "jp": "将来",
+    "tl": "しょうらい"
+  }
+}

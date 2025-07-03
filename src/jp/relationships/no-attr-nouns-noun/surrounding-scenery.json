@@ -1,0 +1,13 @@
+{
+  "_id": "v0ppnlmv9oh",
+  "name": "surrounding-scenery",
+  "params": {
+    "no": "surrounding",
+    "noun": "scenery"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

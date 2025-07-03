@@ -1,0 +1,13 @@
+{
+  "_id": "cxs26olwnep",
+  "name": "actual-data",
+  "params": {
+    "no": "actual",
+    "noun": "data"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

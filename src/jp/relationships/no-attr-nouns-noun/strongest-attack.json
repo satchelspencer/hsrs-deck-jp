@@ -1,0 +1,13 @@
+{
+  "_id": "8i357bf391",
+  "name": "strongest-attack",
+  "params": {
+    "no": "strongest",
+    "noun": "attack"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

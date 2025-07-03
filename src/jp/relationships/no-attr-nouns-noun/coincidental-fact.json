@@ -1,0 +1,13 @@
+{
+  "_id": "f4y011t2w2n",
+  "name": "coincidental-fact",
+  "params": {
+    "no": "coincidental",
+    "noun": "fact"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

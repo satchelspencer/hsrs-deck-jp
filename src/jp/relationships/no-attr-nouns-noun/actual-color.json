@@ -1,0 +1,13 @@
+{
+  "_id": "wgvhcivuyg",
+  "name": "actual-color",
+  "params": {
+    "no": "actual",
+    "noun": "color"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

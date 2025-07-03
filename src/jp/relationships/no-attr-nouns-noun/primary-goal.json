@@ -1,0 +1,13 @@
+{
+  "_id": "im8d171hlcl",
+  "name": "primary-goal",
+  "params": {
+    "no": "primary",
+    "noun": "goal"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

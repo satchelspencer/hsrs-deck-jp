@@ -1,0 +1,13 @@
+{
+  "_id": "dhoz4ntixkw",
+  "name": "surrounding-building",
+  "params": {
+    "no": "surrounding",
+    "noun": "building"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

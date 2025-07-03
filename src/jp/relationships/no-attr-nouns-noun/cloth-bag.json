@@ -1,0 +1,13 @@
+{
+  "_id": "njqrijnwx2",
+  "name": "cloth-bag",
+  "params": {
+    "no": "cloth",
+    "noun": "bag"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

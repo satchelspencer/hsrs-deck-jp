@@ -1,0 +1,13 @@
+{
+  "_id": "j7ktz5o5j7o",
+  "name": "female-nurse",
+  "order": "4",
+  "parents": [
+    "roles,non-unique"
+  ],
+  "props": {
+    "en": "female nurse",
+    "jp": "看護婦",
+    "tl": "かんごふ"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "2hpiy48804y",
+  "name": "primary-objective",
+  "params": {
+    "no": "primary",
+    "noun": "objective"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

@@ -4,7 +4,8 @@
   "order": "2",
   "parents": [
     "body-parts",
-    "polishables"
+    "polishables",
+    "symmetric-body-parts"
   ],
   "props": {
     "en": "tooth",

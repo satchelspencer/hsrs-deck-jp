@@ -1,0 +1,13 @@
+{
+  "_id": "i64soau66gq",
+  "name": "taken-for-granted-reason",
+  "params": {
+    "no": "taken-for-granted",
+    "noun": "reason"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

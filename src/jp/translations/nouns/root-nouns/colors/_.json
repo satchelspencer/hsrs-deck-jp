@@ -4,9 +4,11 @@
   "order": "",
   "parents": [
     "root-nouns",
-    "light-darks"
+    "light-darks",
+    "no-attr-nouns"
   ],
   "props": {
+    "_at": "$.en+'ed'",
     "en": null,
     "jp": null
   },

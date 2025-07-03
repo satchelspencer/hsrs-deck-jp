@@ -1,0 +1,13 @@
+{
+  "_id": "gjdn41ri1ov",
+  "name": "international-news",
+  "params": {
+    "no": "international",
+    "noun": "news"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

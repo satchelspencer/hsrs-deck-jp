@@ -1,0 +1,14 @@
+{
+  "_id": "jofs5z85dv",
+  "desc": "number one, foremoest",
+  "name": "primary",
+  "order": "4",
+  "parents": [
+    "no-attr-nouns"
+  ],
+  "props": {
+    "en": "primary",
+    "jp": "第一",
+    "tl": "だいいち"
+  }
+}

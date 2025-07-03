@@ -1,0 +1,13 @@
+{
+  "_id": "tduw8fc3bij",
+  "name": "actual-life",
+  "params": {
+    "no": "actual",
+    "noun": "daily-life"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

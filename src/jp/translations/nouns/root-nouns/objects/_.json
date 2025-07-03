@@ -4,7 +4,8 @@
   "parents": [
     "root-nouns",
     "hot-cold-touch",
-    "seeables"
+    "seeables",
+    "non-unique"
   ],
   "props": {
   },

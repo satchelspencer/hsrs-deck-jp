@@ -1,0 +1,13 @@
+{
+  "_id": "8lngxxcdbjd",
+  "name": "next-goal",
+  "params": {
+    "no": "next",
+    "noun": "goal"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "ejmsgr2yo6",
+  "name": "left-and-right-orientation",
+  "params": {
+    "no": "left-and-right",
+    "noun": "orientation"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

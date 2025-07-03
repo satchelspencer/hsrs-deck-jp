@@ -1,0 +1,13 @@
+{
+  "_id": "59n9d1os0kr",
+  "name": "girl",
+  "order": "1",
+  "parents": [
+    "demographics,non-unique"
+  ],
+  "props": {
+    "en": "girl",
+    "jp": "女の子",
+    "tl": "おんなのこ"
+  }
+}

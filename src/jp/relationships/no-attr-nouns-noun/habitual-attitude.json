@@ -1,0 +1,14 @@
+{
+  "_id": "yqd66oxf0g",
+  "name": "habitual-attitude",
+  "order": "",
+  "params": {
+    "no": "habitual",
+    "noun": "attitude"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

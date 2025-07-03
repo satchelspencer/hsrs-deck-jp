@@ -1,0 +1,13 @@
+{
+  "_id": "4fhccnpst1g",
+  "name": "eternal-light",
+  "params": {
+    "no": "eternal",
+    "noun": "light"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

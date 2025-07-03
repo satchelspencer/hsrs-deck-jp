@@ -1,0 +1,14 @@
+{
+  "_id": "jip0uqf7w9",
+  "desc": "a large quantity",
+  "name": "large-amount-of",
+  "order": "4",
+  "parents": [
+    "no-attr-nouns"
+  ],
+  "props": {
+    "en": "large amount of",
+    "jp": "大量",
+    "tl": "たいりょう"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "2u2kr5voijm",
+  "name": "every-day-exercise",
+  "params": {
+    "no": "every-day",
+    "noun": "exercise"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

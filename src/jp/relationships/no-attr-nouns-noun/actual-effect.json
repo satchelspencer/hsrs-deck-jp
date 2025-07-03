@@ -1,0 +1,13 @@
+{
+  "_id": "rhtoyp6ij3",
+  "name": "actual-effect",
+  "params": {
+    "no": "actual",
+    "noun": "effect"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

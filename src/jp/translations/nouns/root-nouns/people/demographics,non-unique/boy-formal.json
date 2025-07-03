@@ -1,0 +1,15 @@
+{
+  "_id": "k02nnloy5p",
+  "desc": "",
+  "mode": "p",
+  "name": "boy-formal",
+  "order": "4",
+  "parents": [
+    "demographics,non-unique"
+  ],
+  "props": {
+    "en": "boy",
+    "jp": "男子",
+    "tl": "だんし"
+  }
+}

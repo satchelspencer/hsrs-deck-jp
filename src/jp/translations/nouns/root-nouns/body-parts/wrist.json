@@ -1,0 +1,14 @@
+{
+  "_id": "rif5k1i97zq",
+  "name": "wrist",
+  "order": "4",
+  "parents": [
+    "body-parts",
+    "symmetric-body-parts"
+  ],
+  "props": {
+    "en": "wrist",
+    "jp": "手首",
+    "tl": "てくび"
+  }
+}

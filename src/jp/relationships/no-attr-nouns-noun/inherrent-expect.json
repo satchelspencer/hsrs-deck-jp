@@ -1,0 +1,13 @@
+{
+  "_id": "punqvorfqq",
+  "name": "inherrent-expect",
+  "params": {
+    "no": "inherrent",
+    "noun": "expectation"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

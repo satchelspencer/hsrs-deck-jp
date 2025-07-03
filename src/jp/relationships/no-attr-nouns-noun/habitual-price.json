@@ -1,0 +1,14 @@
+{
+  "_id": "ii99fykierj",
+  "name": "habitual-price",
+  "order": "",
+  "params": {
+    "no": "habitual",
+    "noun": "price"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

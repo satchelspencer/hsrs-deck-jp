@@ -1,0 +1,14 @@
+{
+  "_id": "bs789a5dkdp",
+  "name": "international-finances",
+  "order": "",
+  "params": {
+    "no": "international",
+    "noun": "finances"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

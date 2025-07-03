@@ -1,0 +1,13 @@
+{
+  "_id": "o08pkz8rcgi",
+  "name": "greatest-confidence",
+  "params": {
+    "no": "greatest",
+    "noun": "confidence"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "8ck23k3kwis",
+  "name": "eternal-love",
+  "params": {
+    "no": "eternal",
+    "noun": "love-concept"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

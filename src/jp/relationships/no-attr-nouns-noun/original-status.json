@@ -1,0 +1,13 @@
+{
+  "_id": "51jfepc5wvo",
+  "name": "original-status",
+  "params": {
+    "no": "original",
+    "noun": "status"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

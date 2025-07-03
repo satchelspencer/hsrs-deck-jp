@@ -1,0 +1,13 @@
+{
+  "_id": "hd6mjeea0e8",
+  "name": "magic-water",
+  "params": {
+    "no": "water",
+    "noun": "magic"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

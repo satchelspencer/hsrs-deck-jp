@@ -1,0 +1,14 @@
+{
+  "_id": "le0trcaepqd",
+  "desc": "feelings, sentiment",
+  "name": "emotions",
+  "order": "4",
+  "parents": [
+    "people-no"
+  ],
+  "props": {
+    "en": "emotions",
+    "jp": "感情",
+    "tl": "かんじょう"
+  }
+}

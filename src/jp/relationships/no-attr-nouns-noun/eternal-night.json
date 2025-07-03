@@ -1,0 +1,13 @@
+{
+  "_id": "20hhipifp9f",
+  "name": "eternal-night",
+  "params": {
+    "no": "eternal",
+    "noun": "night"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

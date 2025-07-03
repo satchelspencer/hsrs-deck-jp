@@ -3,7 +3,8 @@
   "name": "products",
   "parents": [
     "root-nouns",
-    "people-no"
+    "people-no",
+    "non-unique"
   ],
   "props": {
   },

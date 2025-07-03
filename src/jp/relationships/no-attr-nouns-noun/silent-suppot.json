@@ -1,0 +1,13 @@
+{
+  "_id": "rlhj3l8jbfd",
+  "name": "silent-suppot",
+  "params": {
+    "no": "silent",
+    "noun": "support"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

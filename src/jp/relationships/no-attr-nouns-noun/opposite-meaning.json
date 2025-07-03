@@ -1,0 +1,13 @@
+{
+  "_id": "mutrob6m8wm",
+  "name": "opposite-meaning",
+  "params": {
+    "no": "opposite",
+    "noun": "meaning"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

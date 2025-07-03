@@ -1,0 +1,13 @@
+{
+  "_id": "5qrlxj7cvqn",
+  "name": "every-day-times-of-day",
+  "params": {
+    "no": "every-day",
+    "noun": "times-of-day"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

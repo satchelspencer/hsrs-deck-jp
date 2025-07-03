@@ -1,0 +1,13 @@
+{
+  "_id": "wfhjeqfjyf",
+  "name": "proper-reason",
+  "params": {
+    "no": "proper",
+    "noun": "reason"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

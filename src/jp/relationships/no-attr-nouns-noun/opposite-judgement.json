@@ -1,0 +1,13 @@
+{
+  "_id": "7yzstfsl0ua",
+  "name": "opposite-judgement",
+  "params": {
+    "no": "opposite",
+    "noun": "judgement"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

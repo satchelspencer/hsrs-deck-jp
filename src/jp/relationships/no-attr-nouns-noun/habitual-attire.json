@@ -1,0 +1,14 @@
+{
+  "_id": "xnou62a96uf",
+  "name": "habitual-attire",
+  "order": "",
+  "params": {
+    "no": "habitual",
+    "noun": "attire"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

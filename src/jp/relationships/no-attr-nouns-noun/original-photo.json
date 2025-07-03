@@ -1,0 +1,13 @@
+{
+  "_id": "2gk06s65199",
+  "name": "original-photo",
+  "params": {
+    "no": "original",
+    "noun": "photo"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

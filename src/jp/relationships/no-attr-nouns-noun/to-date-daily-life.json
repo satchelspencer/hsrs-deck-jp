@@ -1,0 +1,13 @@
+{
+  "_id": "nfgdxd5uk19",
+  "name": "to-date-daily-life",
+  "params": {
+    "no": "to-date",
+    "noun": "daily-life"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

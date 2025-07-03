@@ -1,0 +1,13 @@
+{
+  "_id": "tdnwgty7fmh",
+  "name": "surrounding-people",
+  "params": {
+    "no": "surrounding",
+    "noun": "person"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

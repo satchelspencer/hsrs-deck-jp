@@ -1,0 +1,13 @@
+{
+  "_id": "7ole19kfkox",
+  "name": "inherrent-objective",
+  "params": {
+    "no": "inherrent",
+    "noun": "objective"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

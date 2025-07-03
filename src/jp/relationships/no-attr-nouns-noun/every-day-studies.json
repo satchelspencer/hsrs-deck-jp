@@ -1,0 +1,13 @@
+{
+  "_id": "a7vw15z0bet",
+  "name": "every-day-studies",
+  "params": {
+    "no": "every-day",
+    "noun": "studies"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

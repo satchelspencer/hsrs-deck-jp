@@ -1,0 +1,13 @@
+{
+  "_id": "ykmsb90tdke",
+  "name": "proper-judgement",
+  "params": {
+    "no": "proper",
+    "noun": "judgement"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

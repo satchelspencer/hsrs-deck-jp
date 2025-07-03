@@ -1,0 +1,13 @@
+{
+  "_id": "oz46efu78qs",
+  "name": "primary-reason",
+  "params": {
+    "no": "primary",
+    "noun": "reason"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "fcs0kvfhzhp",
+  "name": "unrelenting-effort",
+  "params": {
+    "no": "unrelenting",
+    "noun": "effort"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

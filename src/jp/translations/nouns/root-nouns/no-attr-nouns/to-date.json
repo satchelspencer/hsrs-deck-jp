@@ -1,0 +1,13 @@
+{
+  "_id": "2kwe7d4lmgc",
+  "desc": "so far",
+  "name": "to-date",
+  "order": "4",
+  "parents": [
+    "no-attr-nouns"
+  ],
+  "props": {
+    "en": "to-date",
+    "jp": "これまで"
+  }
+}

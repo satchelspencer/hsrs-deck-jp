@@ -1,0 +1,13 @@
+{
+  "_id": "3x2mcpmydma",
+  "name": "magic-ice",
+  "params": {
+    "no": "ice",
+    "noun": "magic"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

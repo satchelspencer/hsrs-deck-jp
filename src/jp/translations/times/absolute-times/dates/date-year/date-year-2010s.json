@@ -1,0 +1,18 @@
+{
+  "_id": "vxpbx8qcvhi",
+  "name": "date-year-2010s",
+  "params": {
+    "ten": "ten",
+    "thousand": "thousand",
+    "two": "two"
+  },
+  "parents": [
+    "date-year",
+    "ni-past-only-times"
+  ],
+  "props": {
+    "en": "'201'+number.en",
+    "jp": "('201'+number.en)|a+year.jp",
+    "tl": "('にせんじゅう'+number.tl)|a+year.tl"
+  }
+}

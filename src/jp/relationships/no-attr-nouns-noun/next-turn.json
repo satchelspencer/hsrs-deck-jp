@@ -1,0 +1,13 @@
+{
+  "_id": "lkdrb7vu2fk",
+  "name": "next-turn",
+  "params": {
+    "no": "next",
+    "noun": "ones-turn"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

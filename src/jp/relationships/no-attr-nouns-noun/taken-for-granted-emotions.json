@@ -1,0 +1,13 @@
+{
+  "_id": "6u7jg2a0evj",
+  "name": "taken-for-granted-emotions",
+  "params": {
+    "no": "taken-for-granted",
+    "noun": "emotions"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

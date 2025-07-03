@@ -1,0 +1,13 @@
+{
+  "_id": "y0dcclvz07",
+  "name": "barber",
+  "order": "3",
+  "parents": [
+    "roles,non-unique"
+  ],
+  "props": {
+    "en": "barber",
+    "jp": "床屋",
+    "tl": "とこや"
+  }
+}

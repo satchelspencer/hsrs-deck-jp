@@ -1,0 +1,14 @@
+{
+  "_id": "12vps9i0obpe",
+  "name": "habitual-convers",
+  "order": "",
+  "params": {
+    "no": "habitual",
+    "noun": "conversation"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

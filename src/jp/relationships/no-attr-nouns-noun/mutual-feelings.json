@@ -1,0 +1,13 @@
+{
+  "_id": "m2rlt8gmgkn",
+  "name": "mutual-feelings",
+  "params": {
+    "no": "mutual",
+    "noun": "feeling"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

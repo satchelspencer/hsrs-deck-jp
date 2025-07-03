@@ -1,0 +1,14 @@
+{
+  "_id": "1a9mu5cexv",
+  "desc": "reality",
+  "name": "actual",
+  "order": "3",
+  "parents": [
+    "no-attr-nouns"
+  ],
+  "props": {
+    "en": "actual",
+    "jp": "実際",
+    "tl": "じっさい"
+  }
+}

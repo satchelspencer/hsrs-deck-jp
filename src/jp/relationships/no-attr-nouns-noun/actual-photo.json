@@ -1,0 +1,13 @@
+{
+  "_id": "wsontl5o9re",
+  "name": "actual-photo",
+  "params": {
+    "no": "actual",
+    "noun": "photo"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

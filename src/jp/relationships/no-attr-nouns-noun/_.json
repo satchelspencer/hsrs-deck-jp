@@ -1,0 +1,14 @@
+{
+  "_id": "s9i60kjme5p",
+  "name": "no-attr-nouns-noun",
+  "params": {
+    "no": "no-attr-nouns",
+    "noun": "nouns"
+  },
+  "parents": [
+    "relationships"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

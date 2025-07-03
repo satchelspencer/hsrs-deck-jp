@@ -1,0 +1,13 @@
+{
+  "_id": "01m9dvny5qes",
+  "name": "proper-responsibility",
+  "params": {
+    "no": "proper",
+    "noun": "responsibility"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

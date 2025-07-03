@@ -1,0 +1,13 @@
+{
+  "_id": "qmirw3dq2pi",
+  "name": "primary-experience",
+  "params": {
+    "no": "primary",
+    "noun": "experience"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

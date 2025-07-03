@@ -3,7 +3,8 @@
   "name": "milk",
   "order": "2",
   "parents": [
-    "drinks"
+    "drinks",
+    "raws"
   ],
   "props": {
     "en": "milk",

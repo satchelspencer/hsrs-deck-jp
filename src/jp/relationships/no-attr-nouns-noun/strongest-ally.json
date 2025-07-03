@@ -1,0 +1,13 @@
+{
+  "_id": "hypuctvlbfj",
+  "name": "strongest-ally",
+  "params": {
+    "no": "strongest",
+    "noun": "ally"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

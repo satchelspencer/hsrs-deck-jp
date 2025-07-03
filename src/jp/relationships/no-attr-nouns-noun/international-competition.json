@@ -1,0 +1,14 @@
+{
+  "_id": "h4d1ecd02t6",
+  "name": "international-competition",
+  "order": "",
+  "params": {
+    "no": "international",
+    "noun": "competition"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

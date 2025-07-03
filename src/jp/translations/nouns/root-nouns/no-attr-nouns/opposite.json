@@ -1,0 +1,14 @@
+{
+  "_id": "ddjjpqbq3ww",
+  "desc": "reverse, contrary",
+  "name": "opposite",
+  "order": "3",
+  "parents": [
+    "no-attr-nouns"
+  ],
+  "props": {
+    "en": "opposite",
+    "jp": "逆",
+    "tl": "ぎゃく"
+  }
+}

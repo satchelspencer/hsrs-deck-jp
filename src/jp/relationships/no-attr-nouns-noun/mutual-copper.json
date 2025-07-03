@@ -1,0 +1,13 @@
+{
+  "_id": "vk5izjgpdfp",
+  "name": "mutual-copper",
+  "params": {
+    "no": "mutual",
+    "noun": "cooperation"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

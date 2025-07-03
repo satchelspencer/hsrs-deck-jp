@@ -1,0 +1,13 @@
+{
+  "_id": "ok24uu1k85",
+  "name": "other",
+  "order": "4",
+  "parents": [
+    "no-attr-nouns"
+  ],
+  "props": {
+    "en": "other",
+    "jp": "他",
+    "tl": "ほか"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "9l72eq9fl",
+  "name": "former-company",
+  "params": {
+    "no": "former",
+    "noun": "company"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

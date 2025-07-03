@@ -3,7 +3,7 @@
   "name": "society-feelings",
   "params": {
     "noun": "society",
-    "owner": "feelings"
+    "owner": "emotions"
   },
   "parents": [
     "noun-no-noun"

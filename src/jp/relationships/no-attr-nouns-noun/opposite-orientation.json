@@ -1,0 +1,13 @@
+{
+  "_id": "5qd3fm0f4r3",
+  "name": "opposite-orientation",
+  "params": {
+    "no": "opposite",
+    "noun": "orientation"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

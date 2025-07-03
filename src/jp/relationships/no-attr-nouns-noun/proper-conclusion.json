@@ -1,0 +1,13 @@
+{
+  "_id": "uzpqu9spsen",
+  "name": "proper-conclusion",
+  "params": {
+    "no": "proper",
+    "noun": "conclusion"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

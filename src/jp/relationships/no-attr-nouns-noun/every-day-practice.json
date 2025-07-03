@@ -1,0 +1,13 @@
+{
+  "_id": "wyual7gvzr",
+  "name": "every-day-practice",
+  "params": {
+    "no": "every-day",
+    "noun": "practice"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

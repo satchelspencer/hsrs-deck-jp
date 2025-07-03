@@ -1,0 +1,13 @@
+{
+  "_id": "85puspd1sc",
+  "name": "similar-non-uniq",
+  "params": {
+    "no": "similar",
+    "noun": "non-unique"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

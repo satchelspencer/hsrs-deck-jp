@@ -1,0 +1,13 @@
+{
+  "_id": "bmfd5f3b8w7",
+  "name": "proper-result",
+  "params": {
+    "no": "proper",
+    "noun": "result"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "ig6h56b4mio",
+  "name": "habitual-habits",
+  "order": "",
+  "params": {
+    "no": "habitual",
+    "noun": "habits"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

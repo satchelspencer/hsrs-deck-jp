@@ -1,0 +1,13 @@
+{
+  "_id": "ms76brtv46h",
+  "name": "former-home",
+  "params": {
+    "no": "former",
+    "noun": "home"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "77cpwq9kxd9",
+  "name": "opposite-cside",
+  "params": {
+    "no": "opposite",
+    "noun": "beside"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

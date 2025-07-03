@@ -1,0 +1,14 @@
+{
+  "_id": "8klvb4jfra3",
+  "desc": "all around, periphery",
+  "name": "surrounding",
+  "order": "4",
+  "parents": [
+    "no-attr-nouns"
+  ],
+  "props": {
+    "en": "surrounding",
+    "jp": "周囲",
+    "tl": "しゅうい"
+  }
+}

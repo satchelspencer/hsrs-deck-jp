@@ -2,7 +2,8 @@
   "_id": "4j1qrfnopr",
   "name": "plants",
   "parents": [
-    "root-nouns"
+    "root-nouns",
+    "non-unique"
   ],
   "props": {
   },

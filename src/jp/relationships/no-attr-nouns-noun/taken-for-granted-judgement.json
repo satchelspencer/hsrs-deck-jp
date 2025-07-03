@@ -1,0 +1,13 @@
+{
+  "_id": "8us8b55wxar",
+  "name": "taken-for-granted-judgement",
+  "params": {
+    "no": "taken-for-granted",
+    "noun": "judgement"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

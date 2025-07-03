@@ -1,0 +1,13 @@
+{
+  "_id": "zr75m7jitz",
+  "name": "silent",
+  "order": "4",
+  "parents": [
+    "no-attr-nouns"
+  ],
+  "props": {
+    "en": "silent",
+    "jp": "無言",
+    "tl": "むごん"
+  }
+}

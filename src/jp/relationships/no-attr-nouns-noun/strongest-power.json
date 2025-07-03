@@ -1,0 +1,13 @@
+{
+  "_id": "3m8t8opp9le",
+  "name": "strongest-power",
+  "params": {
+    "no": "strongest",
+    "noun": "power"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

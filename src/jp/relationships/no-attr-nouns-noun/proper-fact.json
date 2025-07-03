@@ -1,0 +1,13 @@
+{
+  "_id": "1vdzcv8zlns",
+  "name": "proper-fact",
+  "params": {
+    "no": "proper",
+    "noun": "fact"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

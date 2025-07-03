@@ -1,0 +1,13 @@
+{
+  "_id": "1qkijlvj9x7",
+  "name": "former-school",
+  "params": {
+    "no": "former",
+    "noun": "school"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

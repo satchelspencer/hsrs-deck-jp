@@ -1,0 +1,13 @@
+{
+  "_id": "cy671u29mj4",
+  "name": "eternal-fact",
+  "params": {
+    "no": "eternal",
+    "noun": "fact"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

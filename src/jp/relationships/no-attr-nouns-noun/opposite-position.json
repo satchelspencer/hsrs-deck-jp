@@ -1,0 +1,13 @@
+{
+  "_id": "768ixa6vfjb",
+  "name": "opposite-position",
+  "params": {
+    "no": "opposite",
+    "noun": "position"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

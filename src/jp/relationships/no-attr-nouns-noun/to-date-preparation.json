@@ -1,0 +1,13 @@
+{
+  "_id": "mz60zv0flj",
+  "name": "to-date-preparation",
+  "params": {
+    "no": "to-date",
+    "noun": "preparation"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

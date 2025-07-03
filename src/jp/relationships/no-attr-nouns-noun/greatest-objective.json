@@ -1,0 +1,13 @@
+{
+  "_id": "tcza9hqpy4f",
+  "name": "greatest-objective",
+  "params": {
+    "no": "greatest",
+    "noun": "objective"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "rkzojox3dic",
+  "desc": "2019-present",
+  "name": "reiwa-era",
+  "order": "2",
+  "parents": [
+    "eras"
+  ],
+  "props": {
+    "en": "reiwa era",
+    "jp": "令和",
+    "tl": "れいわ"
+  }
+}

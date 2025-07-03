@@ -1,0 +1,14 @@
+{
+  "_id": "xfen5q8n86i",
+  "name": "international-conference",
+  "order": "",
+  "params": {
+    "no": "international",
+    "noun": "meeting"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

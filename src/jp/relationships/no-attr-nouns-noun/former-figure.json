@@ -1,0 +1,13 @@
+{
+  "_id": "3kbyikgru6n",
+  "name": "former-figure",
+  "params": {
+    "no": "former",
+    "noun": "figure"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

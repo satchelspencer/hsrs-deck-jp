@@ -1,0 +1,13 @@
+{
+  "_id": "rn1dsj9vmzh",
+  "name": "to-date-experience",
+  "params": {
+    "no": "to-date",
+    "noun": "experience"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

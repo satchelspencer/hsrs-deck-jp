@@ -1,0 +1,13 @@
+{
+  "_id": "0i378nddr3e",
+  "name": "surrounding-situation",
+  "params": {
+    "no": "surrounding",
+    "noun": "situation"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

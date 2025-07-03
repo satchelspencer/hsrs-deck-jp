@@ -1,0 +1,13 @@
+{
+  "_id": "9eu5fra10uf",
+  "name": "former-teacher",
+  "params": {
+    "no": "former",
+    "noun": "teacher"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

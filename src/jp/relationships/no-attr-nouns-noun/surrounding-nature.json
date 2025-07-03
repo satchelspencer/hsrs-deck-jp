@@ -1,0 +1,13 @@
+{
+  "_id": "lg9zec6oizp",
+  "name": "surrounding-nature",
+  "params": {
+    "no": "surrounding",
+    "noun": "nature"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

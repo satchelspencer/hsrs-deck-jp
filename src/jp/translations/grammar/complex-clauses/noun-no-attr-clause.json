@@ -1,0 +1,17 @@
+{
+  "_id": "908jsi6hpxu",
+  "constraint": "noun",
+  "name": "noun-no-attr-clause",
+  "order": "3",
+  "params": {
+    "clause": "const-noun-clauses",
+    "rel": "no-attr-nouns-noun"
+  },
+  "parents": [
+    "complex-clauses"
+  ],
+  "props": {
+    "en": "clause.en|rg(rel.noun.en, (rel.no._at||rel.no.en)+' '+rel.noun.en)",
+    "jp": "clause.jp|rg(rel.noun.jp, rel.no.jp+'の'+rel.noun.jp)"
+  }
+}

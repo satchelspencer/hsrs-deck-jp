@@ -1,0 +1,14 @@
+{
+  "_id": "sujqm9o80io",
+  "name": "raw-feeling",
+  "order": "",
+  "params": {
+    "no": "raw",
+    "noun": "feeling"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

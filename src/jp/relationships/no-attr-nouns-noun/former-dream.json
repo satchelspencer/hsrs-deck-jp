@@ -1,0 +1,13 @@
+{
+  "_id": "7gxbhyirunu",
+  "name": "former-dream",
+  "params": {
+    "no": "former",
+    "noun": "dream"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

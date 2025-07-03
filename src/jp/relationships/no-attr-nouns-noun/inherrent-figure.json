@@ -1,0 +1,13 @@
+{
+  "_id": "d9rf3ec5smh",
+  "name": "inherrent-figure",
+  "params": {
+    "no": "inherrent",
+    "noun": "figure"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

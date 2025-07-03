@@ -1,0 +1,13 @@
+{
+  "_id": "zo7yxesqjhq",
+  "name": "taken-for-granted-result",
+  "params": {
+    "no": "taken-for-granted",
+    "noun": "result"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

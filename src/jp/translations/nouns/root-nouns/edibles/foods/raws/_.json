@@ -1,0 +1,10 @@
+{
+  "_id": "nwj6drwdjt",
+  "name": "raws",
+  "parents": [
+    "foods"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "ld5d4tiywt9",
+  "name": "greatest-evidence",
+  "params": {
+    "no": "greatest",
+    "noun": "evidence"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

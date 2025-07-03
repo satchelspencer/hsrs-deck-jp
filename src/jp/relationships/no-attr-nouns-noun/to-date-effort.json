@@ -1,0 +1,13 @@
+{
+  "_id": "wbvfv9qgkj",
+  "name": "to-date-effort",
+  "params": {
+    "no": "to-date",
+    "noun": "effort"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "1gy1k5otakgi",
+  "name": "original-color",
+  "params": {
+    "no": "original",
+    "noun": "color"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

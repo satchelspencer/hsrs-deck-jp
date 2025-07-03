@@ -1,0 +1,13 @@
+{
+  "_id": "kshlhkrra08",
+  "name": "original-position",
+  "params": {
+    "no": "original",
+    "noun": "position"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

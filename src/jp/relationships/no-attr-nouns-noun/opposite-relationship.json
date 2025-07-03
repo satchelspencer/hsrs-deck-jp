@@ -1,0 +1,13 @@
+{
+  "_id": "s3hlmkk5sxj",
+  "name": "opposite-relationship",
+  "params": {
+    "no": "opposite",
+    "noun": "relationship"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

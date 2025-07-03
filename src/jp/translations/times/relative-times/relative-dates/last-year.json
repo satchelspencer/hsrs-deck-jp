@@ -1,0 +1,14 @@
+{
+  "_id": "zpsvikipwi",
+  "name": "last-year",
+  "order": "1",
+  "parents": [
+    "relative-dates",
+    "ni-past-only-times"
+  ],
+  "props": {
+    "en": "last year",
+    "jp": "去年",
+    "tl": "きょねん"
+  }
+}

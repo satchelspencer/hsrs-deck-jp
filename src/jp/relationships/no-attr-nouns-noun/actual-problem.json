@@ -1,0 +1,13 @@
+{
+  "_id": "kdpslhwdu8j",
+  "name": "actual-problem",
+  "params": {
+    "no": "actual",
+    "noun": "problem"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

@@ -2,7 +2,8 @@
   "_id": "oidsjsvuo3a",
   "name": "abstracts",
   "parents": [
-    "root-nouns"
+    "root-nouns",
+    "non-unique"
   ],
   "props": {
   },

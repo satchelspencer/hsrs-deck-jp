@@ -1,0 +1,13 @@
+{
+  "_id": "p5if1d3tqee",
+  "name": "actual-result",
+  "params": {
+    "no": "actual",
+    "noun": "result"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

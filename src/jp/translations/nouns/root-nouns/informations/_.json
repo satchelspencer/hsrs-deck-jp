@@ -3,7 +3,8 @@
   "name": "informations",
   "parents": [
     "root-nouns",
-    "fines"
+    "fines",
+    "non-unique"
   ],
   "props": {
   },

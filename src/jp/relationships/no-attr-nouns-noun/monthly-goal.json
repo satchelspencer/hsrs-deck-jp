@@ -1,0 +1,13 @@
+{
+  "_id": "sp5j4pcpqi9",
+  "name": "monthly-goal",
+  "params": {
+    "no": "every-month",
+    "noun": "goal"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

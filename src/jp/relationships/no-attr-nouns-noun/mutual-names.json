@@ -1,0 +1,13 @@
+{
+  "_id": "igu3aintg59",
+  "name": "mutual-names",
+  "params": {
+    "no": "mutual",
+    "noun": "name"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

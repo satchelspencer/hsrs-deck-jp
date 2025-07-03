@@ -1,0 +1,13 @@
+{
+  "_id": "7f3zbrbsq65",
+  "name": "to-date-story",
+  "params": {
+    "no": "to-date",
+    "noun": "story"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "t1heykw2sx",
+  "name": "actual-situation",
+  "params": {
+    "no": "actual",
+    "noun": "situation"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "cxzyrw4j9nj",
+  "name": "occasional-break",
+  "params": {
+    "no": "sometimes",
+    "noun": "break"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

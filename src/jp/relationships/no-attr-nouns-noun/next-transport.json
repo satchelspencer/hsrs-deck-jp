@@ -1,0 +1,13 @@
+{
+  "_id": "jbwox6r9i6c",
+  "name": "next-transport",
+  "params": {
+    "no": "next",
+    "noun": "transports"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "5aaq2gva45l",
+  "name": "habitual-exercise",
+  "order": "",
+  "params": {
+    "no": "habitual",
+    "noun": "exercise"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

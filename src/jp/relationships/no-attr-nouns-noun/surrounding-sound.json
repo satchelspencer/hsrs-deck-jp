@@ -1,0 +1,13 @@
+{
+  "_id": "bgzkt5rokto",
+  "name": "surrounding-sound",
+  "params": {
+    "no": "surrounding",
+    "noun": "sound"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

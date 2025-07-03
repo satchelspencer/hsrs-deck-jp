@@ -1,0 +1,14 @@
+{
+  "_id": "g4942rwdugo",
+  "name": "year-after-next",
+  "order": "2",
+  "parents": [
+    "relative-dates",
+    "ni-future-only-times"
+  ],
+  "props": {
+    "en": "year after next",
+    "jp": "再来年",
+    "tl": "さらいねん"
+  }
+}

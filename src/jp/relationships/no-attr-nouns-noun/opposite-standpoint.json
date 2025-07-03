@@ -1,0 +1,13 @@
+{
+  "_id": "d2tu3s59kr",
+  "name": "opposite-standpoint",
+  "params": {
+    "no": "opposite",
+    "noun": "standpoint"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

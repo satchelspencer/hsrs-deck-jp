@@ -1,0 +1,13 @@
+{
+  "_id": "3yho7xk0nw3",
+  "name": "primary-responsibility",
+  "params": {
+    "no": "primary",
+    "noun": "responsibility"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

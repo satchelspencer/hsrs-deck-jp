@@ -1,0 +1,13 @@
+{
+  "_id": "phz8stvrow",
+  "name": "another-non-unique",
+  "params": {
+    "no": "another",
+    "noun": "non-unique"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

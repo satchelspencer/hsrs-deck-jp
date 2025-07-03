@@ -1,0 +1,13 @@
+{
+  "_id": "quxzhtjxc5",
+  "name": "every-day-shopping",
+  "params": {
+    "no": "every-day",
+    "noun": "shopping"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

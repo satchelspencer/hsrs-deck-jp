@@ -1,0 +1,16 @@
+{
+  "_id": "27tfdhiuplz",
+  "name": "pure-color",
+  "order": "4",
+  "params": {
+    "color": "colors"
+  },
+  "parents": [
+    "na-objects"
+  ],
+  "props": {
+    "en": "'pure '+color.en|r(' color', '')",
+    "jp": "'真っ'+color.jp",
+    "tl": "'まっ'+color.tl"
+  }
+}

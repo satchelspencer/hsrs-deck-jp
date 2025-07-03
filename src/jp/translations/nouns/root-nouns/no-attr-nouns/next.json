@@ -1,0 +1,13 @@
+{
+  "_id": "icn5fle6qg",
+  "name": "next",
+  "order": "3",
+  "parents": [
+    "no-attr-nouns"
+  ],
+  "props": {
+    "en": "next",
+    "jp": "次",
+    "tl": "つぎ"
+  }
+}

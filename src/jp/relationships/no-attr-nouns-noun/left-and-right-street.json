@@ -1,0 +1,13 @@
+{
+  "_id": "ui1ps9d2yp8",
+  "name": "left-and-right-street",
+  "params": {
+    "no": "left-and-right",
+    "noun": "street"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

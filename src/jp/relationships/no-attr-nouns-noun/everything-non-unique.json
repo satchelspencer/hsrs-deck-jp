@@ -1,0 +1,13 @@
+{
+  "_id": "wcj1ipsm1rn",
+  "name": "everything-non-unique",
+  "params": {
+    "no": "everything",
+    "noun": "non-unique"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "j87r3im5jz8",
+  "name": "yellow-color",
+  "order": "3",
+  "parents": [
+    "colors"
+  ],
+  "props": {
+    "en": "yellow color",
+    "jp": "黄色",
+    "tl": "きいろ"
+  }
+}

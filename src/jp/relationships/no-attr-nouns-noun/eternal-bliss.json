@@ -1,0 +1,13 @@
+{
+  "_id": "67qd4muvktk",
+  "name": "eternal-bliss",
+  "params": {
+    "no": "eternal",
+    "noun": "bliss"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "x0r4nnjow3j",
+  "desc": "(hospital) nurse, registered nurse, RN",
+  "name": "nurse",
+  "order": "3",
+  "parents": [
+    "roles,non-unique"
+  ],
+  "props": {
+    "en": "nurse",
+    "jp": "看護師",
+    "tl": "かんごし"
+  }
+}

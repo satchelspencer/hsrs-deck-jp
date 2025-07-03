@@ -1,0 +1,14 @@
+{
+  "_id": "84vcd9nqced",
+  "name": "international-cooperation",
+  "order": "",
+  "params": {
+    "no": "international",
+    "noun": "cooperation"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

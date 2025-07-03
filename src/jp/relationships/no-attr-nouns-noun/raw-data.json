@@ -1,0 +1,14 @@
+{
+  "_id": "ajvvn55lkq6",
+  "name": "raw-data",
+  "order": "",
+  "params": {
+    "no": "raw",
+    "noun": "data"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

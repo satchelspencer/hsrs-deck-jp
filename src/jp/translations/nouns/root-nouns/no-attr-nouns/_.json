@@ -1,0 +1,12 @@
+{
+  "_id": "3l7kcjpuats",
+  "name": "no-attr-nouns",
+  "parents": [
+    "root-nouns",
+    "translations"
+  ],
+  "props": {
+    "_at": "$.en"
+  },
+  "virtual": true
+}

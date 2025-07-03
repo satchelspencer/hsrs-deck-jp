@@ -5,7 +5,8 @@
   "parents": [
     "animals",
     "hiki-countable",
-    "foods"
+    "foods",
+    "raws"
   ],
   "props": {
     "en": "fish",

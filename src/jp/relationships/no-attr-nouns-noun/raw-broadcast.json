@@ -1,0 +1,14 @@
+{
+  "_id": "xfgydc2vil",
+  "name": "raw-broadcast",
+  "order": "",
+  "params": {
+    "no": "raw",
+    "noun": "broadcast"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

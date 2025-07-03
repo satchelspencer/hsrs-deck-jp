@@ -1,0 +1,14 @@
+{
+  "_id": "n2x18cn23c",
+  "name": "habitual-speed",
+  "order": "",
+  "params": {
+    "no": "habitual",
+    "noun": "velocity"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

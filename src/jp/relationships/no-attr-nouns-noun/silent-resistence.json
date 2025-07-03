@@ -1,0 +1,13 @@
+{
+  "_id": "3vdqs0gxnnt",
+  "name": "silent-resistence",
+  "params": {
+    "no": "silent",
+    "noun": "resistance"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

@@ -3,7 +3,8 @@
   "name": "ear",
   "order": "1",
   "parents": [
-    "body-parts"
+    "body-parts",
+    "symmetric-body-parts"
   ],
   "props": {
     "en": "ear",

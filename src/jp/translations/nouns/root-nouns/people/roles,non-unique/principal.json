@@ -1,0 +1,14 @@
+{
+  "_id": "l7y18zd9cga",
+  "desc": "principal, head teacher, headmaster, headmistress",
+  "name": "principal",
+  "order": "3",
+  "parents": [
+    "roles,non-unique"
+  ],
+  "props": {
+    "en": "principal",
+    "jp": "校長",
+    "tl": "こうちょう"
+  }
+}

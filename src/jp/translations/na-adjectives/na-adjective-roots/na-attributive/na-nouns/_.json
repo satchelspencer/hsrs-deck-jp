@@ -1,0 +1,10 @@
+{
+  "_id": "gwolk0s15cu",
+  "name": "na-nouns",
+  "parents": [
+    "na-attributive"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "4khkjr0o4un",
+  "name": "next-events",
+  "params": {
+    "no": "next",
+    "noun": "events"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

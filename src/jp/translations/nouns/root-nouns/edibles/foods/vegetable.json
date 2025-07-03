@@ -3,7 +3,8 @@
   "name": "vegetable",
   "order": "2",
   "parents": [
-    "foods"
+    "foods",
+    "raws"
   ],
   "props": {
     "en": "vegetable",

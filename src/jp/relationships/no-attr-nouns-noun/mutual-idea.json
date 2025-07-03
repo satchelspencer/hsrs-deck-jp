@@ -1,0 +1,13 @@
+{
+  "_id": "02oa930kdufw",
+  "name": "mutual-idea",
+  "params": {
+    "no": "mutual",
+    "noun": "idea"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

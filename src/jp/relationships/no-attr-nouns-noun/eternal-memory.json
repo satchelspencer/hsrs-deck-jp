@@ -1,0 +1,13 @@
+{
+  "_id": "obn61h22eq",
+  "name": "eternal-memory",
+  "params": {
+    "no": "eternal",
+    "noun": "memory"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "fvz56p2dgoc",
+  "name": "surrounding-house",
+  "params": {
+    "no": "surrounding",
+    "noun": "house"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

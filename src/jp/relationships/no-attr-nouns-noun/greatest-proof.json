@@ -1,0 +1,13 @@
+{
+  "_id": "jn5wyc4d4ke",
+  "name": "greatest-proof",
+  "params": {
+    "no": "greatest",
+    "noun": "proof"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

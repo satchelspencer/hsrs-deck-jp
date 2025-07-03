@@ -1,0 +1,13 @@
+{
+  "_id": "vyfgfgp0uml",
+  "name": "inherrent-status",
+  "params": {
+    "no": "inherrent",
+    "noun": "status"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

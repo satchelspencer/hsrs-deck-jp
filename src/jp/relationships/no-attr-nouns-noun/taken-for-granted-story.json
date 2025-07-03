@@ -1,0 +1,13 @@
+{
+  "_id": "c02rio5s33g",
+  "name": "taken-for-granted-story",
+  "params": {
+    "no": "taken-for-granted",
+    "noun": "story"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

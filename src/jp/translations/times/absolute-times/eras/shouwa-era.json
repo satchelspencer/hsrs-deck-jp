@@ -1,0 +1,15 @@
+{
+  "_id": "r5up302ja",
+  "desc": "1926–1989",
+  "name": "shouwa-era",
+  "order": "3",
+  "parents": [
+    "eras",
+    "ni-past-only-times"
+  ],
+  "props": {
+    "en": "shouwa era",
+    "jp": "昭和",
+    "tl": "しょうわ"
+  }
+}

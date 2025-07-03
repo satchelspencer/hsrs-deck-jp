@@ -1,0 +1,13 @@
+{
+  "_id": "bjderon6x1e",
+  "name": "monthly-magazine",
+  "params": {
+    "no": "every-month",
+    "noun": "magazine"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

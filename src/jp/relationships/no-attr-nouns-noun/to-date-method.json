@@ -1,0 +1,13 @@
+{
+  "_id": "mb1477hnv6b",
+  "name": "to-date-method",
+  "params": {
+    "no": "to-date",
+    "noun": "method"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

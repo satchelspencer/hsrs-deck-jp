@@ -1,0 +1,13 @@
+{
+  "_id": "4q9mmehq04",
+  "name": "eternal-peace",
+  "params": {
+    "no": "eternal",
+    "noun": "peace"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

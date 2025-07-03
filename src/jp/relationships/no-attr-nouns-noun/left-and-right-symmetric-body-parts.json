@@ -1,0 +1,13 @@
+{
+  "_id": "wfr4isfo2oq",
+  "name": "left-and-right-symmetric-body-parts",
+  "params": {
+    "no": "left-and-right",
+    "noun": "symmetric-body-parts"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

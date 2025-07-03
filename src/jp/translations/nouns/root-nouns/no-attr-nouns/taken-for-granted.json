@@ -1,0 +1,14 @@
+{
+  "_id": "utsi2j0nfmn",
+  "desc": "obvious",
+  "name": "taken-for-granted",
+  "order": "4",
+  "parents": [
+    "no-attr-nouns"
+  ],
+  "props": {
+    "en": "taken for granted",
+    "jp": "当たり前",
+    "tl": "あたりまえ"
+  }
+}

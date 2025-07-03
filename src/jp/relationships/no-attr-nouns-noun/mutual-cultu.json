@@ -1,0 +1,13 @@
+{
+  "_id": "709wicxnidh",
+  "name": "mutual-cultu",
+  "params": {
+    "no": "mutual",
+    "noun": "culture"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

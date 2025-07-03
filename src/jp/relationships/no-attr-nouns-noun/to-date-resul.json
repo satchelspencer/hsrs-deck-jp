@@ -1,0 +1,13 @@
+{
+  "_id": "7k2hcdgsrir",
+  "name": "to-date-resul",
+  "params": {
+    "no": "to-date",
+    "noun": "result"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

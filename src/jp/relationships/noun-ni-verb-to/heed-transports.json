@@ -3,7 +3,7 @@
   "name": "heed-transports",
   "params": {
     "noun": "transports",
-    "verb": "heed"
+    "verb": "caution"
   },
   "parents": [
     "noun-ni-verb-to"

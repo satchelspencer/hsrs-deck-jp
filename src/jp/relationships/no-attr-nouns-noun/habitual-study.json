@@ -1,0 +1,14 @@
+{
+  "_id": "uwnd0hr6rto",
+  "name": "habitual-study",
+  "order": "",
+  "params": {
+    "no": "habitual",
+    "noun": "studies"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

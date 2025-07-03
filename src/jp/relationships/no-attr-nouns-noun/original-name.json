@@ -1,0 +1,13 @@
+{
+  "_id": "hy8ei17u4n",
+  "name": "original-name",
+  "params": {
+    "no": "original",
+    "noun": "name"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

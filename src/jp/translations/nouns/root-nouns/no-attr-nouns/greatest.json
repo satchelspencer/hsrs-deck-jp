@@ -1,0 +1,14 @@
+{
+  "_id": "3hvvo22hkd8",
+  "desc": "more than anything",
+  "name": "greatest",
+  "order": "4",
+  "parents": [
+    "no-attr-nouns"
+  ],
+  "props": {
+    "en": "greatest",
+    "jp": "何より",
+    "tl": "なにより"
+  }
+}

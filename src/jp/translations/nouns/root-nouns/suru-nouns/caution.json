@@ -1,0 +1,20 @@
+{
+  "_id": "kx4786hffy",
+  "desc": "attention, notice, heed. care, caution, precaution, looking out (for), watching out (for)",
+  "name": "caution",
+  "order": "2",
+  "parents": [
+    "suru-nouns",
+    "pullables",
+    "te-iru-verbs-continuous",
+    "de-location-verbs",
+    "people-do-volitional"
+  ],
+  "props": {
+    "_pg": "using attention",
+    "_v": "use caution",
+    "en": "caution",
+    "jp": "注意",
+    "tl": "ちゅうい"
+  }
+}

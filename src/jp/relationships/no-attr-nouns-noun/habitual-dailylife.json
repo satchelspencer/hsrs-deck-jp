@@ -1,0 +1,14 @@
+{
+  "_id": "dy1e7yupbd7",
+  "name": "habitual-dailylife",
+  "order": "",
+  "params": {
+    "no": "habitual",
+    "noun": "daily-life"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

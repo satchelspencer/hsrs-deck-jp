@@ -1,0 +1,13 @@
+{
+  "_id": "4yqxkedmlsf",
+  "name": "to-date-knowledge",
+  "params": {
+    "no": "to-date",
+    "noun": "knowledge"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

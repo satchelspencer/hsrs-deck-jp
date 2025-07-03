@@ -1,0 +1,13 @@
+{
+  "_id": "mzpfuxcz2w",
+  "name": "section-manager",
+  "order": "4",
+  "parents": [
+    "roles,non-unique"
+  ],
+  "props": {
+    "en": "section-manager",
+    "jp": "課長",
+    "tl": "かちょう"
+  }
+}

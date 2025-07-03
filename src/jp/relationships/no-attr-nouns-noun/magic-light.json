@@ -1,0 +1,13 @@
+{
+  "_id": "3rx4e6tjahx",
+  "name": "magic-light",
+  "params": {
+    "no": "light",
+    "noun": "magic"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

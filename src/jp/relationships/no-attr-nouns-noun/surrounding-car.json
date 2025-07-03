@@ -1,0 +1,13 @@
+{
+  "_id": "s0v17yreola",
+  "name": "surrounding-car",
+  "params": {
+    "no": "surrounding",
+    "noun": "car"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

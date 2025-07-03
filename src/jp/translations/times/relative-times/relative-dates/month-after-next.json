@@ -1,0 +1,14 @@
+{
+  "_id": "3qccv1aqjo7",
+  "name": "month-after-next",
+  "order": "2",
+  "parents": [
+    "relative-dates",
+    "ni-future-only-times"
+  ],
+  "props": {
+    "en": "month after next",
+    "jp": "再来月",
+    "tl": "さらいげつ"
+  }
+}

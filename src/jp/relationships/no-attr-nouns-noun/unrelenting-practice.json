@@ -1,0 +1,13 @@
+{
+  "_id": "0x1mdj8q1wr",
+  "name": "unrelenting-practice",
+  "params": {
+    "no": "unrelenting",
+    "noun": "practice"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "cmvyq3opyop",
+  "name": "former-job",
+  "params": {
+    "no": "former",
+    "noun": "job"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

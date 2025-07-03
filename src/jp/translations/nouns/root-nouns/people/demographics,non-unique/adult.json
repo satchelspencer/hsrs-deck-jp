@@ -1,0 +1,13 @@
+{
+  "_id": "l7x59imaaw",
+  "name": "adult",
+  "order": "2",
+  "parents": [
+    "demographics,non-unique"
+  ],
+  "props": {
+    "en": "adult",
+    "jp": "大人",
+    "tl": "おとな"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "zv36w610c7d",
+  "name": "actual-spot",
+  "params": {
+    "no": "actual",
+    "noun": "spot"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

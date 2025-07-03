@@ -3,7 +3,8 @@
   "name": "events",
   "parents": [
     "root-nouns",
-    "short-long"
+    "short-long",
+    "non-unique"
   ],
   "props": {
   },

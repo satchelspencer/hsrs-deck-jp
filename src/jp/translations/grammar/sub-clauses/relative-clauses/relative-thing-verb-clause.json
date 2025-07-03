@@ -13,7 +13,7 @@
     "relative-clauses"
   ],
   "props": {
-    "en": "clause.rel.noun.en+' that i '+clause.form.en",
+    "en": "clause.rel.noun.en+' that I '+clause.form.en",
     "jp": "clause.form.jp+clause.rel.noun.jp"
   }
 }

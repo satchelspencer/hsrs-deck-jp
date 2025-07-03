@@ -1,0 +1,13 @@
+{
+  "_id": "wfbmn3jf347",
+  "name": "every-day-meal",
+  "params": {
+    "no": "every-day",
+    "noun": "meal"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

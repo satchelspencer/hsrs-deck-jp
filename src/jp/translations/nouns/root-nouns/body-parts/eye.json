@@ -4,7 +4,8 @@
   "order": "1",
   "parents": [
     "body-parts",
-    "hiraku-tojiru"
+    "hiraku-tojiru",
+    "symmetric-body-parts"
   ],
   "props": {
     "en": "eye",

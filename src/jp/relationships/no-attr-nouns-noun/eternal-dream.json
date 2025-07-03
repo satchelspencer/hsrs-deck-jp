@@ -1,0 +1,13 @@
+{
+  "_id": "jvrdfy1h1c",
+  "name": "eternal-dream",
+  "params": {
+    "no": "eternal",
+    "noun": "dream"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

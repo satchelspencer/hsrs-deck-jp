@@ -1,0 +1,13 @@
+{
+  "_id": "0i1hczy6n4pu",
+  "name": "opposite-reaction",
+  "params": {
+    "no": "opposite",
+    "noun": "reaction"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

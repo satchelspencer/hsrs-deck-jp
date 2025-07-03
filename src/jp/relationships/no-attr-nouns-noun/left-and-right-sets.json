@@ -1,0 +1,13 @@
+{
+  "_id": "88j5ucix96q",
+  "name": "left-and-right-sets",
+  "params": {
+    "no": "left-and-right",
+    "noun": "kumi-countable"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "ffcf1xxjg3",
+  "name": "every-day-job",
+  "params": {
+    "no": "every-day",
+    "noun": "job"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

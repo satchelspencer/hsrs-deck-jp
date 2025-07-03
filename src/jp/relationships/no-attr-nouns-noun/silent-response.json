@@ -1,0 +1,13 @@
+{
+  "_id": "nc7padp09m",
+  "name": "silent-response",
+  "params": {
+    "no": "silent",
+    "noun": "response"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

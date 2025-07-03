@@ -1,0 +1,13 @@
+{
+  "_id": "z2gsvxf8jt",
+  "name": "left-and-right-stairs",
+  "params": {
+    "no": "left-and-right",
+    "noun": "stairs"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

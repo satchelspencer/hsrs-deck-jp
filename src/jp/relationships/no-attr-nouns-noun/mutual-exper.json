@@ -1,0 +1,13 @@
+{
+  "_id": "z665ue31bsi",
+  "name": "mutual-exper",
+  "params": {
+    "no": "mutual",
+    "noun": "experience"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

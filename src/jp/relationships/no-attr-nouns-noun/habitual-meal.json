@@ -1,0 +1,14 @@
+{
+  "_id": "4a84asy1nr4",
+  "name": "habitual-meal",
+  "order": "",
+  "params": {
+    "no": "habitual",
+    "noun": "meal"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

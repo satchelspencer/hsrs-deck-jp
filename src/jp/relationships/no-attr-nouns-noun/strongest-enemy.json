@@ -1,0 +1,13 @@
+{
+  "_id": "zxzzuxuwbln",
+  "name": "strongest-enemy",
+  "params": {
+    "no": "strongest",
+    "noun": "enemy"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

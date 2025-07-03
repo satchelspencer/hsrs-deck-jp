@@ -1,0 +1,13 @@
+{
+  "_id": "krbzv2k15",
+  "name": "original-price",
+  "params": {
+    "no": "original",
+    "noun": "price"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

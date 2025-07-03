@@ -1,0 +1,13 @@
+{
+  "_id": "miycvcpas7",
+  "name": "na-objects-objects",
+  "params": {
+    "na": "na-objects",
+    "noun": "objects"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

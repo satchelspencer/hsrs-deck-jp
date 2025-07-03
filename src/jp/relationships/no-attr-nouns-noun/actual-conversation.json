@@ -1,0 +1,13 @@
+{
+  "_id": "9frly37f6a4",
+  "name": "actual-conversation",
+  "params": {
+    "no": "actual",
+    "noun": "conversation"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "0kr7eehd0ckd",
+  "name": "habitual-behavior",
+  "order": "",
+  "params": {
+    "no": "habitual",
+    "noun": "behavior"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

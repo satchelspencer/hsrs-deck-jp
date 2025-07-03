@@ -1,0 +1,13 @@
+{
+  "_id": "iiyrlj0973k",
+  "name": "large-amount-of-non-uniq",
+  "params": {
+    "no": "large-amount-of",
+    "noun": "non-unique"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

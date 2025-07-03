@@ -1,0 +1,13 @@
+{
+  "_id": "6jmxlivpdf",
+  "name": "proper-expectation",
+  "params": {
+    "no": "proper",
+    "noun": "expectation"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

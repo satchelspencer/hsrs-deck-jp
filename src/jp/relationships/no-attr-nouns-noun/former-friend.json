@@ -1,0 +1,13 @@
+{
+  "_id": "mxk6ciuou9",
+  "name": "former-friend",
+  "params": {
+    "no": "former",
+    "noun": "friend"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

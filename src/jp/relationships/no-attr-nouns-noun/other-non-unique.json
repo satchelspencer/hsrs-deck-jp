@@ -1,0 +1,13 @@
+{
+  "_id": "pl383uivgi",
+  "name": "other-non-unique",
+  "params": {
+    "no": "other",
+    "noun": "non-unique"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

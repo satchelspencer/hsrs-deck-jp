@@ -1,0 +1,13 @@
+{
+  "_id": "5malgyu9rzb",
+  "name": "mutual-know",
+  "params": {
+    "no": "mutual",
+    "noun": "knowledge"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

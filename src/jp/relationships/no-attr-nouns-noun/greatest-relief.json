@@ -1,0 +1,13 @@
+{
+  "_id": "70i4zovngr5",
+  "name": "greatest-relief",
+  "params": {
+    "no": "greatest",
+    "noun": "relief"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

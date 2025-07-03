@@ -1,0 +1,13 @@
+{
+  "_id": "x6huua1rfp8",
+  "name": "opposite-method",
+  "params": {
+    "no": "opposite",
+    "noun": "method"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "29ng64atask",
+  "name": "shopping-bag",
+  "params": {
+    "no": "shopping",
+    "noun": "bag"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

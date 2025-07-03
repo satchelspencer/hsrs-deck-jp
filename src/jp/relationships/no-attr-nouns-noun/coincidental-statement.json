@@ -1,0 +1,13 @@
+{
+  "_id": "cpqj97h8c0w",
+  "name": "coincidental-statement",
+  "params": {
+    "no": "coincidental",
+    "noun": "statement"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

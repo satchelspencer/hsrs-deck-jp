@@ -1,0 +1,13 @@
+{
+  "_id": "2chmmm3u8og",
+  "name": "unrelenting-opionion",
+  "params": {
+    "no": "unrelenting",
+    "noun": "opinion"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "y3eep9f9rvb",
+  "name": "man",
+  "order": "1",
+  "parents": [
+    "demographics,non-unique"
+  ],
+  "props": {
+    "en": "man",
+    "jp": "男",
+    "tl": "おとこ"
+  }
+}

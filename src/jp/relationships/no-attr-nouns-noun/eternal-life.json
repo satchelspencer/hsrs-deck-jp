@@ -1,0 +1,13 @@
+{
+  "_id": "teyizwky2b",
+  "name": "eternal-life",
+  "params": {
+    "no": "eternal",
+    "noun": "life-existence"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

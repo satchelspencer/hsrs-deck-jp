@@ -1,0 +1,13 @@
+{
+  "_id": "26h3eurkt78",
+  "name": "next-person",
+  "params": {
+    "no": "next",
+    "noun": "people"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

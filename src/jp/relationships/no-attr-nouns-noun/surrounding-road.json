@@ -1,0 +1,13 @@
+{
+  "_id": "ber6dd6cvn",
+  "name": "surrounding-road",
+  "params": {
+    "no": "surrounding",
+    "noun": "road"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

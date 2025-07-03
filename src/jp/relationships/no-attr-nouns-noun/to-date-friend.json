@@ -1,0 +1,13 @@
+{
+  "_id": "9dek8pux7tc",
+  "name": "to-date-friend",
+  "params": {
+    "no": "to-date",
+    "noun": "friend"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

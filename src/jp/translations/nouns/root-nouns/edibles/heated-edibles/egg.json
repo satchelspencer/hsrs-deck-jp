@@ -5,7 +5,8 @@
   "parents": [
     "heated-edibles",
     "ko-countable",
-    "roastables"
+    "roastables",
+    "raws"
   ],
   "props": {
     "en": "egg",

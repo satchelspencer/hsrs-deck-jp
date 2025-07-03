@@ -1,0 +1,13 @@
+{
+  "_id": "l9xnq00gxb",
+  "name": "unrelenting-proposal",
+  "params": {
+    "no": "unrelenting",
+    "noun": "proposal"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

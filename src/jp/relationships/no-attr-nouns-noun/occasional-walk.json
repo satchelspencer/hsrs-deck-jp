@@ -1,0 +1,13 @@
+{
+  "_id": "ilofhrlh2j",
+  "name": "occasional-walk",
+  "params": {
+    "no": "sometimes",
+    "noun": "a-walk"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}
