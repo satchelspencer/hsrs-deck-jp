@@ -1,0 +1,14 @@
+{
+  "_id": "fjipvycihuj",
+  "desc": "I'm sorry, beg your pardon",
+  "mode": "p",
+  "name": "excuse-me",
+  "order": "1",
+  "parents": [
+    "fixed-phrases"
+  ],
+  "props": {
+    "en": "excuse me",
+    "jp": "すみません"
+  }
+}

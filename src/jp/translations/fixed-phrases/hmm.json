@@ -1,0 +1,13 @@
+{
+  "_id": "ku26x74rtvj",
+  "desc": "well, hesitation, who knows?",
+  "name": "hmm",
+  "order": "3",
+  "parents": [
+    "fixed-phrases"
+  ],
+  "props": {
+    "en": "hmm...",
+    "jp": "さあ"
+  }
+}

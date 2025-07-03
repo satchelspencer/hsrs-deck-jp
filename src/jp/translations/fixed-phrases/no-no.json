@@ -1,0 +1,13 @@
+{
+  "_id": "dighrjirplu",
+  "mode": "c",
+  "name": "no-no",
+  "order": "3",
+  "parents": [
+    "fixed-phrases"
+  ],
+  "props": {
+    "en": "no, no",
+    "jp": "いやいや"
+  }
+}

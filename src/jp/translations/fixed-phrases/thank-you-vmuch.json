@@ -1,0 +1,13 @@
+{
+  "_id": "tdkl36d8wol",
+  "mode": "p",
+  "name": "thank-you-vmuch",
+  "order": "1",
+  "parents": [
+    "fixed-phrases"
+  ],
+  "props": {
+    "en": "thank you very much",
+    "jp": "ありがとうございます"
+  }
+}

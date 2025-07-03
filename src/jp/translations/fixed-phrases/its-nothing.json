@@ -1,0 +1,15 @@
+{
+  "_id": "h0wq7f5i2b",
+  "desc": "never mind",
+  "mode": "c",
+  "name": "its-nothing",
+  "order": "3",
+  "parents": [
+    "fixed-phrases"
+  ],
+  "props": {
+    "en": "it's nothing",
+    "jp": "何でもない",
+    "tl": "なんでもない"
+  }
+}

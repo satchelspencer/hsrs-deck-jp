@@ -4,9 +4,14 @@
   "name": "love-concept",
   "order": "2",
   "parents": [
-    "beliefs"
+    "beliefs",
+    "suru-nouns",
+    "people-do",
+    "do-to-people",
+    "do-to-places"
   ],
   "props": {
+    "_v": "love it",
     "en": "idea of love",
     "jp": "愛",
     "tl": "あい"

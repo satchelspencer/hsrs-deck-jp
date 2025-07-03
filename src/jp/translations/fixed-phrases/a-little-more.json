@@ -1,0 +1,13 @@
+{
+  "_id": "6yefnbofvak",
+  "desc": "a bit longer",
+  "name": "a-little-more",
+  "order": "2",
+  "parents": [
+    "fixed-phrases"
+  ],
+  "props": {
+    "en": "a little more",
+    "jp": "もう少し"
+  }
+}

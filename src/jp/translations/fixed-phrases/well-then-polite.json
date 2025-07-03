@@ -1,0 +1,14 @@
+{
+  "_id": "z7a6toilxt",
+  "desc": "changing the topic, or wrapping up",
+  "mode": "p",
+  "name": "well-then-polite",
+  "order": "3",
+  "parents": [
+    "fixed-phrases"
+  ],
+  "props": {
+    "en": "well then",
+    "jp": "では"
+  }
+}

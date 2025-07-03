@@ -1,0 +1,13 @@
+{
+  "_id": "xdqudd8s41d",
+  "mode": "p",
+  "name": "sorry-polite",
+  "order": "1",
+  "parents": [
+    "fixed-phrases"
+  ],
+  "props": {
+    "en": "sorry",
+    "jp": "ごめんなさい"
+  }
+}

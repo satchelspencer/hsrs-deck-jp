@@ -1,0 +1,14 @@
+{
+  "_id": "z90e2j2p12f",
+  "desc": "often when wrapping up a convo",
+  "mode": "c",
+  "name": "well-then",
+  "order": "2",
+  "parents": [
+    "fixed-phrases"
+  ],
+  "props": {
+    "en": "well then",
+    "jp": "じゃ"
+  }
+}

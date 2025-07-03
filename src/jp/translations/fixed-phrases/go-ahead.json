@@ -1,0 +1,13 @@
+{
+  "_id": "fs5c3uftk7u",
+  "desc": "by all means, here you are",
+  "name": "go-ahead",
+  "order": "1",
+  "parents": [
+    "fixed-phrases"
+  ],
+  "props": {
+    "en": "go ahead",
+    "jp": "どうぞ"
+  }
+}

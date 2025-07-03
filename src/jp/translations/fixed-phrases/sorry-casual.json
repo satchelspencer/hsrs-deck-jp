@@ -1,0 +1,13 @@
+{
+  "_id": "k6uxj7ym9aj",
+  "mode": "c",
+  "name": "sorry-casual",
+  "order": "2",
+  "parents": [
+    "fixed-phrases"
+  ],
+  "props": {
+    "en": "sorry",
+    "jp": "ごめん"
+  }
+}

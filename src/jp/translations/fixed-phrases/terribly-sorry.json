@@ -1,0 +1,15 @@
+{
+  "_id": "969hx82bdt",
+  "desc": "stronger apology",
+  "mode": "p",
+  "name": "terribly-sorry",
+  "order": "3",
+  "parents": [
+    "fixed-phrases"
+  ],
+  "props": {
+    "en": "terribly sorry",
+    "jp": "申し訳ない",
+    "tl": "もうしわけない"
+  }
+}

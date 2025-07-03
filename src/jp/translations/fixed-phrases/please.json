@@ -1,0 +1,14 @@
+{
+  "_id": "gmcg3ug0car",
+  "desc": "I ask a favor",
+  "mode": "p",
+  "name": "please",
+  "order": "1",
+  "parents": [
+    "fixed-phrases"
+  ],
+  "props": {
+    "en": "please",
+    "jp": "お願いします"
+  }
+}

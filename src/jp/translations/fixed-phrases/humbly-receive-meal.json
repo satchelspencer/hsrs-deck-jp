@@ -1,0 +1,14 @@
+{
+  "_id": "j74ip7oc0kk",
+  "desc": "said before eating, lets eat",
+  "mode": "p",
+  "name": "humbly-receive-meal",
+  "order": "2",
+  "parents": [
+    "fixed-phrases"
+  ],
+  "props": {
+    "en": "I receive this meal",
+    "jp": "いただきます"
+  }
+}

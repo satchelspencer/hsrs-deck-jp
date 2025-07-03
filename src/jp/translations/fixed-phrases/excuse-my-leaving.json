@@ -1,0 +1,15 @@
+{
+  "_id": "f8d5hqqhafl",
+  "desc": "pardon me, used when deaving",
+  "mode": "p",
+  "name": "excuse-my-leaving",
+  "order": "2",
+  "parents": [
+    "fixed-phrases"
+  ],
+  "props": {
+    "en": "excuse my leaving",
+    "jp": "失礼します",
+    "tl": "しつれいします"
+  }
+}

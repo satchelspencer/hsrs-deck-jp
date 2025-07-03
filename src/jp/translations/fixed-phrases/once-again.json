@@ -1,0 +1,14 @@
+{
+  "_id": "havqvflsyn",
+  "desc": "requesting a repeat",
+  "name": "once-again",
+  "order": "2",
+  "parents": [
+    "fixed-phrases"
+  ],
+  "props": {
+    "en": "once again",
+    "jp": "もう一度",
+    "tl": "もういちど"
+  }
+}

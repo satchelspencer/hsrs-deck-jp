@@ -1,0 +1,12 @@
+{
+  "_id": "epd74ic8u5",
+  "name": "im-home",
+  "order": "2",
+  "parents": [
+    "fixed-phrases"
+  ],
+  "props": {
+    "en": "I'm home",
+    "jp": "ただいま"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "_id": "zzs6x5ww39",
+  "name": "fixed-phrases",
+  "parents": [
+    "translations"
+  ],
+  "props": {
+  },
+  "virtual": true
+}
