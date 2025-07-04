@@ -1,0 +1,13 @@
+{
+  "_id": "3yaz0llyy0y",
+  "name": "movement-intense",
+  "params": {
+    "iadj": "intense",
+    "noun": "movement"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

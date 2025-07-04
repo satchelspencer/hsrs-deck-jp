@@ -1,6 +1,6 @@
 {
-  "_id": "3z557fsbh1j",
-  "desc": "gap, margin",
+  "_id": "0jb2pnlerje",
+  "desc": "disctinction",
   "name": "difference",
   "order": "4",
   "parents": [
@@ -8,7 +8,7 @@
   ],
   "props": {
     "en": "difference",
-    "jp": "差",
-    "tl": "さ"
+    "jp": "違い",
+    "tl": "ちがい"
   }
 }

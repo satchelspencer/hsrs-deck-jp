@@ -1,0 +1,13 @@
+{
+  "_id": "0vkiqrq8a6oo",
+  "name": "movement-recognize",
+  "params": {
+    "noun": "movement",
+    "verb": "recognize"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

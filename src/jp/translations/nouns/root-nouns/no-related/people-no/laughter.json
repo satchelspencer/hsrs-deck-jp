@@ -1,0 +1,13 @@
+{
+  "_id": "l7lyo052vtq",
+  "name": "laughter",
+  "order": "4",
+  "parents": [
+    "people-no"
+  ],
+  "props": {
+    "en": "laughter",
+    "jp": "笑い",
+    "tl": "わらい"
+  }
+}

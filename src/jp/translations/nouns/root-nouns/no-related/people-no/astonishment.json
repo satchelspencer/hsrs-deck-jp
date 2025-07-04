@@ -1,0 +1,13 @@
+{
+  "_id": "b9utz9t1728",
+  "name": "astonishment",
+  "order": "4",
+  "parents": [
+    "people-no"
+  ],
+  "props": {
+    "en": "astonishment",
+    "jp": "驚き",
+    "tl": "おどろき"
+  }
+}

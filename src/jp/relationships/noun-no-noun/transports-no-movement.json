@@ -1,0 +1,13 @@
+{
+  "_id": "ckz5h52wud",
+  "name": "transports-no-movement",
+  "params": {
+    "noun": "movement",
+    "owner": "transports"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

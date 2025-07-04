@@ -1,0 +1,13 @@
+{
+  "_id": "xr3gqdasnj",
+  "name": "movement-attent",
+  "params": {
+    "noun": "movement",
+    "verb": "attention"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "3z557fsbh1j",
+  "desc": "gap, difference",
+  "name": "margin",
+  "order": "4",
+  "parents": [
+    "abstracts"
+  ],
+  "props": {
+    "en": "margin",
+    "jp": "差",
+    "tl": "さ"
+  }
+}

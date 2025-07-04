@@ -5,6 +5,7 @@
   "order": "2",
   "params": {
     "clause": "const-noun-clauses",
+    "noun": "non-unique",
     "pn": "relative-pronouns"
   },
   "parents": [

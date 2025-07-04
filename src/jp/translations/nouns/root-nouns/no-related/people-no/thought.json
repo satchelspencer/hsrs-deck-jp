@@ -1,0 +1,13 @@
+{
+  "_id": "3mxm8rf5ghg",
+  "name": "thought",
+  "order": "4",
+  "parents": [
+    "people-no"
+  ],
+  "props": {
+    "en": "thought",
+    "jp": "思い",
+    "tl": "おもい"
+  }
+}

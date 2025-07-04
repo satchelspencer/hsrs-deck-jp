@@ -1,0 +1,14 @@
+{
+  "_id": "36l4w7xweim",
+  "desc": "an error",
+  "name": "mistake",
+  "order": "4",
+  "parents": [
+    "abstracts"
+  ],
+  "props": {
+    "en": "mistake",
+    "jp": "間違い",
+    "tl": "まちがい"
+  }
+}

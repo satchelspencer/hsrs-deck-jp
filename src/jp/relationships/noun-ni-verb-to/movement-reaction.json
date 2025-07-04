@@ -1,0 +1,13 @@
+{
+  "_id": "uywf2igaq5p",
+  "name": "movement-reaction",
+  "params": {
+    "noun": "movement",
+    "verb": "reaction"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

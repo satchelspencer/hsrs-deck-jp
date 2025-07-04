@@ -1,0 +1,13 @@
+{
+  "_id": "5jb9p7hjsnp",
+  "name": "movement-notice",
+  "params": {
+    "noun": "movement",
+    "verb": "notice"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

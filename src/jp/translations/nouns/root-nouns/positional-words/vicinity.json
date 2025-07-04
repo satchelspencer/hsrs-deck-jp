@@ -1,0 +1,14 @@
+{
+  "_id": "khbcxiw9ewp",
+  "desc": "surrounding",
+  "name": "vicinity",
+  "order": "4",
+  "parents": [
+    "positional-words"
+  ],
+  "props": {
+    "en": "vicinity",
+    "jp": "辺り",
+    "tl": "あたり"
+  }
+}

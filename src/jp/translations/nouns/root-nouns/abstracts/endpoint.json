@@ -1,0 +1,14 @@
+{
+  "_id": "uuj530a3ou",
+  "desc": "place to stop, limit, boundary",
+  "name": "endpoint",
+  "order": "4",
+  "parents": [
+    "abstracts"
+  ],
+  "props": {
+    "en": "endpoint",
+    "jp": "切り",
+    "tl": "きり"
+  }
+}

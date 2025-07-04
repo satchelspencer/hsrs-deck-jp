@@ -1,0 +1,13 @@
+{
+  "_id": "2pe7nddszzo",
+  "name": "pain",
+  "order": "4",
+  "parents": [
+    "people-no"
+  ],
+  "props": {
+    "en": "pain",
+    "jp": "痛み",
+    "tl": "いたみ"
+  }
+}

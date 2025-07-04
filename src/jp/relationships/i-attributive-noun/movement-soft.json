@@ -1,0 +1,13 @@
+{
+  "_id": "bz92utvmwzf",
+  "name": "movement-soft",
+  "params": {
+    "iadj": "soft",
+    "noun": "movement"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

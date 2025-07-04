@@ -1,0 +1,13 @@
+{
+  "_id": "irnc9m4ntbi",
+  "name": "animal-no-movement",
+  "params": {
+    "noun": "movement",
+    "owner": "animals"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

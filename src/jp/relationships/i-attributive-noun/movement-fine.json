@@ -1,0 +1,13 @@
+{
+  "_id": "7kytaqrn12f",
+  "name": "movement-fine",
+  "params": {
+    "iadj": "fine",
+    "noun": "movement"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

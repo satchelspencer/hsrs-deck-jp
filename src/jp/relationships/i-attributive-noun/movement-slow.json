@@ -1,0 +1,13 @@
+{
+  "_id": "i315zxw9me9",
+  "name": "movement-slow",
+  "params": {
+    "iadj": "slow",
+    "noun": "movement"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

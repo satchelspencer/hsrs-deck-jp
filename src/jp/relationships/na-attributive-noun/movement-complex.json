@@ -1,0 +1,13 @@
+{
+  "_id": "8r1teqkyxha",
+  "name": "movement-complex",
+  "params": {
+    "na": "complexity",
+    "noun": "movement"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

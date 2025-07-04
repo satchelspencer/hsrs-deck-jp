@@ -1,0 +1,14 @@
+{
+  "_id": "u999hzno16f",
+  "desc": "scent",
+  "name": "fragrance",
+  "order": "4",
+  "parents": [
+    "abstracts"
+  ],
+  "props": {
+    "en": "fragrance",
+    "jp": "香り",
+    "tl": "かおり"
+  }
+}

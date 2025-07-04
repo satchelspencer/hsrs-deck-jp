@@ -1,0 +1,13 @@
+{
+  "_id": "12ta6onty9h",
+  "name": "curse",
+  "order": "4",
+  "parents": [
+    "abstracts"
+  ],
+  "props": {
+    "en": "curse",
+    "jp": "呪い",
+    "tl": "のろい"
+  }
+}

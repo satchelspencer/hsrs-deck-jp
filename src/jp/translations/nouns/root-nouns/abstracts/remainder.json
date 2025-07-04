@@ -1,0 +1,14 @@
+{
+  "_id": "akhicmdlrsd",
+  "desc": "leftover",
+  "name": "remainder",
+  "order": "4",
+  "parents": [
+    "abstracts"
+  ],
+  "props": {
+    "en": "remainder",
+    "jp": "残り",
+    "tl": "のこり"
+  }
+}

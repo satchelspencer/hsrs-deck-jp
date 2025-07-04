@@ -1,0 +1,13 @@
+{
+  "_id": "uxkkexrybwr",
+  "name": "movement",
+  "order": "3",
+  "parents": [
+    "abstracts"
+  ],
+  "props": {
+    "en": "movement",
+    "jp": "動き",
+    "tl": "うごき"
+  }
+}

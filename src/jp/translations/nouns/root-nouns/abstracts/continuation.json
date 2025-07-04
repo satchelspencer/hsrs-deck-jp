@@ -1,0 +1,14 @@
+{
+  "_id": "f0100bc62sd",
+  "desc": "sequel, whats next",
+  "name": "continuation",
+  "order": "4",
+  "parents": [
+    "abstracts"
+  ],
+  "props": {
+    "en": "continuation",
+    "jp": "続き",
+    "tl": "つづき"
+  }
+}

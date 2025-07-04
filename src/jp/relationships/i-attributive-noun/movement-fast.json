@@ -1,0 +1,13 @@
+{
+  "_id": "yf3mbnuixm",
+  "name": "movement-fast",
+  "params": {
+    "iadj": "fast",
+    "noun": "movement"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

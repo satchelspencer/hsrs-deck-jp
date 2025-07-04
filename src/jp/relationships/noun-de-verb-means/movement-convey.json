@@ -1,0 +1,13 @@
+{
+  "_id": "pi8ikjpdi0c",
+  "name": "movement-convey",
+  "params": {
+    "noun": "movement",
+    "verb": "convey"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

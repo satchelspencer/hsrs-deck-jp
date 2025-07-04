@@ -1,0 +1,14 @@
+{
+  "_id": "9ubtww18lbm",
+  "desc": "the start",
+  "name": "outset",
+  "order": "4",
+  "parents": [
+    "abstracts"
+  ],
+  "props": {
+    "en": "outset",
+    "jp": "始め",
+    "tl": "はじめ"
+  }
+}

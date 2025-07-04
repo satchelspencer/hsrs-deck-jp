@@ -1,0 +1,13 @@
+{
+  "_id": "gmbu8dbpibv",
+  "name": "anger",
+  "order": "4",
+  "parents": [
+    "people-no"
+  ],
+  "props": {
+    "en": "anger",
+    "jp": "怒り",
+    "tl": "いかり"
+  }
+}
