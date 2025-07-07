@@ -3,7 +3,7 @@
   "name": "donna",
   "order": "3",
   "params": {
-    "noun": "seeables"
+    "noun": "non-unique"
   },
   "parents": [
     "relative-question-words"

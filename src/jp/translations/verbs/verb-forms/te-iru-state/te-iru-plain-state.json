@@ -3,6 +3,7 @@
   "constraint": "",
   "mode": "c---an",
   "name": "te-iru-plain-state",
+  "order": "0",
   "parents": [
     "te-iru-state"
   ],

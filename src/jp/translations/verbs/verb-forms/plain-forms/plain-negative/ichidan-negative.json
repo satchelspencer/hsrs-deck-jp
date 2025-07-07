@@ -1,6 +1,7 @@
 {
   "_id": "nglxe0hy6qf",
   "name": "ichidan-negative",
+  "order": "0",
   "params": {
     "verb": "ichidan"
   },

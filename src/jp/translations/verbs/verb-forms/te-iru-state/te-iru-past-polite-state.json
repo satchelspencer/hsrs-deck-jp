@@ -2,6 +2,7 @@
   "_id": "qx6sxh6orz",
   "mode": "p---ap",
   "name": "te-iru-past-polite-state",
+  "order": "5",
   "parents": [
     "te-iru-state"
   ],

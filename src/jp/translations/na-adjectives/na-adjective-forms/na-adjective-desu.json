@@ -3,7 +3,7 @@
   "constraint": "na",
   "mode": "P",
   "name": "na-adjective-desu",
-  "order": "1",
+  "order": "1.0",
   "params": {
     "form": "na-desu-forms"
   },

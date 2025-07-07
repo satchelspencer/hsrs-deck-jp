@@ -2,6 +2,7 @@
   "_id": "e120fot1c5d",
   "mode": "c",
   "name": "noun-ba-negative",
+  "order": "4",
   "params": {
     "noun": "root-nouns"
   },

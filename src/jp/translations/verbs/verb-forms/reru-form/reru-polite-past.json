@@ -3,6 +3,7 @@
   "constraint": "verb",
   "mode": "P---aP",
   "name": "reru-polite-past",
+  "order": "9",
   "params": {
     "reru": "reru-plain"
   },

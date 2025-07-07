@@ -3,7 +3,7 @@
   "name": "dono",
   "order": "2",
   "params": {
-    "noun": "seeables"
+    "noun": "non-unique"
   },
   "parents": [
     "relative-question-words"

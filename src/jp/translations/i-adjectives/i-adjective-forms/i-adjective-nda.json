@@ -3,7 +3,7 @@
   "constraint": "iadj",
   "mode": "c",
   "name": "i-adjective-nda",
-  "order": "3",
+  "order": "3.0",
   "params": {
     "form": "i-nda-forms"
   },

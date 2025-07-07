@@ -1,6 +1,7 @@
 {
   "_id": "ui269vhnu9e",
   "name": "twenty",
+  "order": "7",
   "parents": [
     "numbers",
     "month-numbers"
