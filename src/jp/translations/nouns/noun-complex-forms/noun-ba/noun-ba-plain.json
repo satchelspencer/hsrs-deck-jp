@@ -9,7 +9,7 @@
     "noun-ba"
   ],
   "props": {
-    "en": "'generally when '+noun.en",
+    "en": "'generally if '+noun.en",
     "jp": "noun.jp+'ならば'"
   }
 }

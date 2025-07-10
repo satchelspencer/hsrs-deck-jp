@@ -12,7 +12,7 @@
     "ba-conditional-clauses"
   ],
   "props": {
-    "en": "'generally when '+form.en",
+    "en": "'generally if '+form.en",
     "jp": "form.jp|r('いい', 'よい')|r('い', 'ければ')"
   }
 }

@@ -9,7 +9,7 @@
     "verb-ba"
   ],
   "props": {
-    "en": "'generally when '+form.en",
+    "en": "'generally if '+form.en",
     "jp": "form.jp|r('ない', 'なければ')"
   }
 }
