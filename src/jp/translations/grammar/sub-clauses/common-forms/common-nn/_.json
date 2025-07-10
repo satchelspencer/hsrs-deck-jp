@@ -1,0 +1,11 @@
+{
+  "_id": "s3znl51umk",
+  "desc": "ん with だ or です makes it sound like you're explaining why something is the case",
+  "name": "common-nn",
+  "parents": [
+    "common-forms"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

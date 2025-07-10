@@ -1,0 +1,11 @@
+{
+  "_id": "d5o7boa7x54",
+  "desc": "same as だ but past tense",
+  "name": "common-datta",
+  "parents": [
+    "common-forms"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

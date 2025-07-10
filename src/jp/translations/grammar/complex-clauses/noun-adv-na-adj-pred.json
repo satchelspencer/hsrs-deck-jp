@@ -9,7 +9,8 @@
     "rel": "na-predicate-noun"
   },
   "parents": [
-    "complex-clauses"
+    "complex-clauses",
+    "common-ga-sub"
   ],
   "props": {
     "en": "nform.en+' '+clause.en",

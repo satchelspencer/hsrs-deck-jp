@@ -8,7 +8,8 @@
     "ga": "noun-ga-sub"
   },
   "parents": [
-    "clauses"
+    "clauses",
+    "common-de-with"
   ],
   "props": {
     "en": "'with '+de.rel.noun.en+', '+ga.en",

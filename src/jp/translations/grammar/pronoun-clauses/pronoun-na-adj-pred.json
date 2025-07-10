@@ -8,7 +8,8 @@
     "rel": "na-predicate-pronoun"
   },
   "parents": [
-    "pronoun-clauses"
+    "pronoun-clauses",
+    "common-ga-sub"
   ],
   "props": {
     "en": "rel.pn.en+' '+naform.en",

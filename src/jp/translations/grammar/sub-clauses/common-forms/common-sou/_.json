@@ -1,0 +1,11 @@
+{
+  "_id": "ui9351607x",
+  "desc": "そう makes its prefix speculative, like \"seems like\" or \"looks like\"",
+  "name": "common-sou",
+  "parents": [
+    "common-forms"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

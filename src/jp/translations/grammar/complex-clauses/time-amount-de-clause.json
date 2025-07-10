@@ -1,6 +1,7 @@
 {
   "_id": "edkqnd59dk",
   "constraint": "form verb",
+  "desc": "で marks the time boundary within something will happen",
   "name": "time-amount-de-clause",
   "order": "4",
   "params": {

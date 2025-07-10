@@ -10,7 +10,8 @@
   "parents": [
     "clauses",
     "const-noun-clauses",
-    "temporal-verb-clauses"
+    "temporal-verb-clauses",
+    "common-de-with"
   ],
   "props": {
     "en": "'with '+rel.noun.en+' '+form.en",

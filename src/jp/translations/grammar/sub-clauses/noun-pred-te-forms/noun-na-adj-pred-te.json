@@ -9,7 +9,8 @@
     "rel": "na-predicate-noun"
   },
   "parents": [
-    "noun-pred-te-forms"
+    "noun-pred-te-forms",
+    "common-ga-sub"
   ],
   "props": {
     "en": "nform.en+' '+naform.en",

@@ -10,7 +10,8 @@
   "parents": [
     "clauses",
     "const-noun-clauses",
-    "temporal-verb-clauses"
+    "temporal-verb-clauses",
+    "common-ni-to"
   ],
   "props": {
     "en": "'to the '+rel.noun.en+' '+form.en",

@@ -9,7 +9,8 @@
   },
   "parents": [
     "pronoun-clauses",
-    "pronoun-temporal-verb-clauses"
+    "pronoun-temporal-verb-clauses",
+    "common-ni-at"
   ],
   "props": {
     "en": "'at '+rel.pn.en+' '+form.en",

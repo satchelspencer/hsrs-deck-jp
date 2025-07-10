@@ -1,0 +1,11 @@
+{
+  "_id": "5vaur5tbbt2",
+  "desc": "ね implies agreement in the listener, like \"right?\" or \"isn't it?\" bit of a qualifier",
+  "name": "common-ne",
+  "parents": [
+    "common-forms"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

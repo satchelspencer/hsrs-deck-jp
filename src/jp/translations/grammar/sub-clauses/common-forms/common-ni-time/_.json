@@ -1,0 +1,11 @@
+{
+  "_id": "ugihc4nb8cm",
+  "desc": "に can mark the time when something happens",
+  "name": "common-ni-time",
+  "parents": [
+    "common-forms"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

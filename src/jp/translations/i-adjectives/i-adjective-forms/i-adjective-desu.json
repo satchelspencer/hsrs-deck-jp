@@ -11,7 +11,8 @@
     "i-adjective-forms",
     "i-predicate-forms",
     "i-ka-forms",
-    "i-yo-ne-forms"
+    "i-yo-ne-forms",
+    "common-desu"
   ],
   "props": {
     "en": "form.en",

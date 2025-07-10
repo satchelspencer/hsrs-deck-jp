@@ -1,0 +1,11 @@
+{
+  "_id": "89ea3hzi37o",
+  "desc": "よ makes its prefix sound like you're offering information to the listener",
+  "name": "common-yo",
+  "parents": [
+    "common-forms"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

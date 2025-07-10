@@ -1,0 +1,11 @@
+{
+  "_id": "23b1r734kfnh",
+  "desc": "に can act to mark the destination (physical or not) of a verb, kind of like 'to'",
+  "name": "common-ni-to",
+  "parents": [
+    "common-forms"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

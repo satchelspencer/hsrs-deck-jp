@@ -9,7 +9,8 @@
   },
   "parents": [
     "embedded-wh-questions",
-    "question-clauses"
+    "question-clauses",
+    "common-wo"
   ],
   "props": {
     "en": "form.en|rg(' it', '')+' '+rel.qw.en",

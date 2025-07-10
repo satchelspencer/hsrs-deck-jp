@@ -8,7 +8,8 @@
     "rel": "question-ni-verb-to"
   },
   "parents": [
-    "question-clauses"
+    "question-clauses",
+    "common-ni-to"
   ],
   "props": {
     "en": "'to '+rel.qw.en+' '+form.en ",

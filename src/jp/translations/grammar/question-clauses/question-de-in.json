@@ -8,7 +8,8 @@
     "rel": "question-de-verb-in"
   },
   "parents": [
-    "question-clauses"
+    "question-clauses",
+    "common-de-in"
   ],
   "props": {
     "en": "'in '+rel.qw.en+' '+form.en",

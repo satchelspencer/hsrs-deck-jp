@@ -10,7 +10,8 @@
     "vrel": "noun-ga-verb"
   },
   "parents": [
-    "clauses"
+    "clauses",
+    "common-ga-sub"
   ],
   "props": {
     "en": "counter.en+' '+form.en",

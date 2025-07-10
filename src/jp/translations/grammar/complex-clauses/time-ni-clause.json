@@ -8,7 +8,8 @@
     "rel": "verb-form-times"
   },
   "parents": [
-    "complex-clauses"
+    "complex-clauses",
+    "common-ni-time"
   ],
   "props": {
     "en": "'at '+rel.time.en+' '+clause.en",

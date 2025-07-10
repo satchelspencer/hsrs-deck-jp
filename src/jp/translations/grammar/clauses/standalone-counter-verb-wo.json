@@ -10,7 +10,8 @@
     "vrel": "noun-wo-verb"
   },
   "parents": [
-    "clauses"
+    "clauses",
+    "common-wo"
   ],
   "props": {
     "en": "form.en|rg(' it', '')+' '+counter.en",

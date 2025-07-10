@@ -10,7 +10,8 @@
     "rel": "noun-ga-verb"
   },
   "parents": [
-    "question-clauses"
+    "question-clauses",
+    "common-ga-sub"
   ],
   "props": {
     "en": "qw.en+' '+noun.en+' '+form.en",

@@ -1,6 +1,7 @@
 {
   "_id": "w587olnfl3",
   "constraint": "verb",
+  "desc": "ている for verbs that *don't* take place over time represent the state of having \"done\" that verb, being a certain way.",
   "name": "te-iru-state",
   "order": "4",
   "params": {

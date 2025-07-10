@@ -8,7 +8,8 @@
   },
   "parents": [
     "na-suffix-forms",
-    "na-predicate-forms"
+    "na-predicate-forms",
+    "common-ka"
   ],
   "props": {
     "en": "form.en+e('?')",

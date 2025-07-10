@@ -9,7 +9,8 @@
   "parents": [
     "noun-forms",
     "yo-noun-forms",
-    "conjunctive-noun-forms"
+    "conjunctive-noun-forms",
+    "common-da"
   ],
   "props": {
     "en": "'is '+noun.en",

@@ -8,7 +8,8 @@
     "rel": "pronoun-no-noun"
   },
   "parents": [
-    "pronoun-clauses"
+    "pronoun-clauses",
+    "common-no-owner"
   ],
   "props": {
     "en": "clause.en|rg(rel.noun.en, rel.pn.en+'\\'s '+rel.noun.en)",

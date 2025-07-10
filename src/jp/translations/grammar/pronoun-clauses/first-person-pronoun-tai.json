@@ -7,7 +7,8 @@
     "tai": "tai-forms"
   },
   "parents": [
-    "pronoun-clauses"
+    "pronoun-clauses",
+    "common-ga-sub"
   ],
   "props": {
     "en": "pn.en+' '+tai.en",

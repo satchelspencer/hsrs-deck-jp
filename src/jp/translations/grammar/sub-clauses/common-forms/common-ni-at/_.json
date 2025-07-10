@@ -1,0 +1,11 @@
+{
+  "_id": "5d2r3cbtmyk",
+  "desc": "に with certain verbs marks the location where something happens (rather than で)",
+  "name": "common-ni-at",
+  "parents": [
+    "common-forms"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

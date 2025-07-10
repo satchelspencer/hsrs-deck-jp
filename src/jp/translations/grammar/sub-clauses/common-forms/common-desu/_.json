@@ -1,0 +1,11 @@
+{
+  "_id": "q3wyrkdesss",
+  "desc": "です parks its prefix as polite, and by itself makes it present and positive",
+  "name": "common-desu",
+  "parents": [
+    "common-forms"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

@@ -1,13 +1,15 @@
 {
   "_id": "ctxu003hg8v",
   "constraint": "verb",
+  "desc": "",
   "name": "verb-kudasai",
   "order": "3",
   "params": {
     "rel": "verb-people-do-volitional"
   },
   "parents": [
-    "complex-forms"
+    "complex-forms",
+    "common-kudasai"
   ],
   "props": {
   },

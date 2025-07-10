@@ -1,0 +1,11 @@
+{
+  "_id": "u3u2v0xnm7",
+  "desc": "の can mark the owner of another noun",
+  "name": "common-no-owner",
+  "parents": [
+    "common-forms"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

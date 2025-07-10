@@ -1,0 +1,11 @@
+{
+  "_id": "mclmd9myien",
+  "desc": "を marks the object of the verb, the thing the verb is 'doing it to'",
+  "name": "common-wo",
+  "parents": [
+    "common-forms"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

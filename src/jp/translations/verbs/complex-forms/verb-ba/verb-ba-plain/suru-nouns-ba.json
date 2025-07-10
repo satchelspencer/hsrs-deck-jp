@@ -8,7 +8,7 @@
     "verb-ba-plain"
   ],
   "props": {
-    "en": "'if '+verb._v",
+    "en": "'generally when '+verb._v",
     "jp": "verb.jp+'すれば'",
     "tl": ""
   }

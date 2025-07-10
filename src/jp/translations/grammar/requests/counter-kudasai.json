@@ -7,7 +7,8 @@
     "counter": "counter-kago-regular"
   },
   "parents": [
-    "requests"
+    "requests",
+    "common-kudasai"
   ],
   "props": {
     "en": "counter.en+' please'",

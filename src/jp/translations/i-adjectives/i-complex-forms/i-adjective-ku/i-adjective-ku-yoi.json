@@ -1,5 +1,6 @@
 {
   "_id": "4pjeckd3zkk",
+  "desc": "for adjectives based off いい (good), it reverts back to よい, before becoming よく",
   "name": "i-adjective-ku-yoi",
   "params": {
     "iadj": "i-yoi-form"

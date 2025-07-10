@@ -8,7 +8,8 @@
     "rel": "no-attr-nouns-noun"
   },
   "parents": [
-    "complex-clauses"
+    "complex-clauses",
+    "common-no-attr"
   ],
   "props": {
     "en": "clause.en|rg(rel.noun.en, (rel.no._at||rel.no.en)+' '+rel.noun.en)",

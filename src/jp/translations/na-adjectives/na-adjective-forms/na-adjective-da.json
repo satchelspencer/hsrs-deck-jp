@@ -10,7 +10,8 @@
     "na-adjective-forms",
     "na-predicate-forms",
     "yo-ne-na-forms",
-    "conjunctive-na-forms"
+    "conjunctive-na-forms",
+    "common-da"
   ],
   "props": {
     "en": "'is '+na._at",

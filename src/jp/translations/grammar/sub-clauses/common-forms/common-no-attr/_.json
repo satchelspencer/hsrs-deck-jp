@@ -1,0 +1,11 @@
+{
+  "_id": "m4srzfcsqxk",
+  "desc": "の can attach one noun to another like an adjective",
+  "name": "common-no-attr",
+  "parents": [
+    "common-forms"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

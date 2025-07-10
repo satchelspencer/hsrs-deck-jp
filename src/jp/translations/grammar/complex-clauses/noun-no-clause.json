@@ -8,7 +8,8 @@
     "rel": "noun-no-noun"
   },
   "parents": [
-    "complex-clauses"
+    "complex-clauses",
+    "common-no-owner"
   ],
   "props": {
     "en": "clause.en|rg(rel.noun.en, rel.owner.en+'\\'s '+rel.noun.en)",

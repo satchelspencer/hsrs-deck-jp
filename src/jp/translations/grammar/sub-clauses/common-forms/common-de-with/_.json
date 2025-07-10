@@ -1,0 +1,11 @@
+{
+  "_id": "gt33eaxxr4",
+  "desc": "で can mark the means by which a verb is done",
+  "name": "common-de-with",
+  "parents": [
+    "common-forms"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

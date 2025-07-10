@@ -10,7 +10,8 @@
   },
   "parents": [
     "clauses",
-    "const-noun-clauses"
+    "const-noun-clauses",
+    "common-he"
   ],
   "props": {
     "en": "'towards the '+noun.en+' '+form.en",

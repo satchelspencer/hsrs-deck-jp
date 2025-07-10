@@ -10,7 +10,7 @@
     "noun-ba"
   ],
   "props": {
-    "en": "'if not '+noun.en",
+    "en": "'generally when not '+noun.en",
     "jp": "noun.jp+'じゃなければ'"
   }
 }

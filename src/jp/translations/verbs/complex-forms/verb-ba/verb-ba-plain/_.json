@@ -9,7 +9,7 @@
     "verb-ba"
   ],
   "props": {
-    "en": "'if '+verb.en"
+    "en": "'generally when '+verb.en"
   },
   "virtual": true
 }

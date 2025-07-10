@@ -10,7 +10,8 @@
   "parents": [
     "clauses",
     "const-noun-clauses",
-    "temporal-verb-clauses"
+    "temporal-verb-clauses",
+    "common-ga-sub"
   ],
   "props": {
     "en": "rel.noun.en+' '+form.en",

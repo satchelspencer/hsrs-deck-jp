@@ -8,7 +8,8 @@
     "rel": "i-predicate-question"
   },
   "parents": [
-    "question-clauses"
+    "question-clauses",
+    "common-ga-sub"
   ],
   "props": {
     "en": "rel.qw.en+' '+iform.en",

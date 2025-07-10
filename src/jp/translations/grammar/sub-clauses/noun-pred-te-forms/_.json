@@ -6,7 +6,9 @@
     "nform": "noun-plain"
   },
   "parents": [
-    "sub-clauses"
+    "sub-clauses",
+    "common-ga-sub",
+    "common-te"
   ],
   "props": {
   },

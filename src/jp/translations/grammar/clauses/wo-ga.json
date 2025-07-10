@@ -8,7 +8,9 @@
     "wo": "noun-wo-obj"
   },
   "parents": [
-    "clauses"
+    "clauses",
+    "common-wo",
+    "common-ga-sub"
   ],
   "props": {
     "en": "rel.noun.en+' '+wo.en",

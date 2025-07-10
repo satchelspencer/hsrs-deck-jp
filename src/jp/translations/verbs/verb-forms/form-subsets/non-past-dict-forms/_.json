@@ -1,6 +1,7 @@
 {
   "_id": "av9vbljd9os",
   "constraint": "",
+  "desc": "non-past forms can either refer to something happening in the future, or something generally happening",
   "name": "non-past-dict-forms",
   "parents": [
     "form-subsets"

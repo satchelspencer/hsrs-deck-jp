@@ -9,7 +9,8 @@
     "qw": "time-question-words"
   },
   "parents": [
-    "question-clauses"
+    "question-clauses",
+    "common-ni-time"
   ],
   "props": {
     "en": "qw.en+' '+clause.en",

@@ -1,0 +1,11 @@
+{
+  "_id": "zgbq1sjjycm",
+  "desc": "が marks the subject of the clause",
+  "name": "common-ga-sub",
+  "parents": [
+    "common-forms"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

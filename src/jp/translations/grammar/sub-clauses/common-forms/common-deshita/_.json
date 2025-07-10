@@ -1,0 +1,11 @@
+{
+  "_id": "djno22ydyeo",
+  "desc": "same as です but past tense",
+  "name": "common-deshita",
+  "parents": [
+    "common-forms"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

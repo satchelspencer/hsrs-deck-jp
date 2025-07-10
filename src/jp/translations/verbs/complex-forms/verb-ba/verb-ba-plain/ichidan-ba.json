@@ -8,7 +8,6 @@
     "verb-ba-plain"
   ],
   "props": {
-    "en": "'if do '+verb.en",
     "jp": "verb.jp|r('る', 'れば')",
     "tl": ""
   }

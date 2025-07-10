@@ -1,0 +1,11 @@
+{
+  "_id": "prm11dshs4",
+  "desc": "ください makes its prefix a polite request",
+  "name": "common-kudasai",
+  "parents": [
+    "common-forms"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

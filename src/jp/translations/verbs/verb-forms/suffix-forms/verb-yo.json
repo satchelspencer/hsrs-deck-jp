@@ -7,7 +7,8 @@
     "yo": "yo-ne-verb-forms"
   },
   "parents": [
-    "suffix-forms"
+    "suffix-forms",
+    "common-yo"
   ],
   "props": {
     "en": "yo.en+e(', you know')",

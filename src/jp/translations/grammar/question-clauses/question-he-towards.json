@@ -9,7 +9,8 @@
     "verb": "he-related-verbs"
   },
   "parents": [
-    "question-clauses"
+    "question-clauses",
+    "common-he"
   ],
   "props": {
     "en": "'towards '+qw.en+' '+form.en",

@@ -1,6 +1,7 @@
 {
   "_id": "wjrlt753nre",
   "constraint": "na noun",
+  "desc": "add な when attching a plain なーadjetcive to a noun",
   "name": "plain-na-attr-noun",
   "order": "1",
   "params": {

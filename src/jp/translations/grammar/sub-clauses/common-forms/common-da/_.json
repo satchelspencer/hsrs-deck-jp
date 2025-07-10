@@ -1,0 +1,11 @@
+{
+  "_id": "swihgmgs72q",
+  "desc": "だ emphatically marks a noun or na-adj as present and true",
+  "name": "common-da",
+  "parents": [
+    "common-forms"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

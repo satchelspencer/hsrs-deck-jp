@@ -10,7 +10,8 @@
   "parents": [
     "clauses",
     "const-noun-clauses",
-    "temporal-verb-clauses"
+    "temporal-verb-clauses",
+    "common-de-in"
   ],
   "props": {
     "en": "'in '+rel.noun.en+' '+form.en",

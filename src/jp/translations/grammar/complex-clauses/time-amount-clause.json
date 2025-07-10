@@ -1,6 +1,7 @@
 {
   "_id": "6xd1f6tbw4l",
   "constraint": "verb",
+  "desc": "a time amount directly attached to a verb marks the duration of that verb",
   "name": "time-amount-clause",
   "order": "3",
   "params": {

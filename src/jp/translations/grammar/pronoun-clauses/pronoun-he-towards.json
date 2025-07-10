@@ -10,7 +10,8 @@
   },
   "parents": [
     "pronoun-clauses",
-    "pronoun-temporal-verb-clauses"
+    "pronoun-temporal-verb-clauses",
+    "common-he"
   ],
   "props": {
     "en": "'towards '+pn.en+' '+form.en",

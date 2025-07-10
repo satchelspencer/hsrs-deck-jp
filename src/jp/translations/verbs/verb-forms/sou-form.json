@@ -6,11 +6,12 @@
   "order": "4",
   "params": {
     "polite": "polite",
-    "rel": "people-do"
+    "rel": "verb-people-do"
   },
   "parents": [
     "verb-forms",
-    "ka-verb-forms"
+    "ka-verb-forms",
+    "common-sou"
   ],
   "props": {
     "en": "'looks like will '+polite.en",

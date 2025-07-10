@@ -9,7 +9,7 @@
     "na-adjective-ba"
   ],
   "props": {
-    "en": "'if '+na.en",
+    "en": "'generally when '+na.en",
     "jp": "na.jp+'ならば'"
   }
 }

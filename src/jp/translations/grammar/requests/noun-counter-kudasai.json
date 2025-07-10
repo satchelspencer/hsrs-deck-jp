@@ -10,7 +10,8 @@
     "noun": "products"
   },
   "parents": [
-    "requests"
+    "requests",
+    "common-kudasai"
   ],
   "props": {
     "en": "counter.en+' of '+noun.en+' '+'please'",

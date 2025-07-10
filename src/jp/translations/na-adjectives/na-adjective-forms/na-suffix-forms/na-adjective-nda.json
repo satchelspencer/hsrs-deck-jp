@@ -9,7 +9,8 @@
   },
   "parents": [
     "na-suffix-forms",
-    "na-predicate-forms"
+    "na-predicate-forms",
+    "common-nn"
   ],
   "props": {
     "en": "form.en+e(', thats why')",

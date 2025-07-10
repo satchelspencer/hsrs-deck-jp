@@ -1,0 +1,11 @@
+{
+  "_id": "xu2suo4e33m",
+  "desc": "へ is like に for destinations, but more about the direction than the actual destination",
+  "name": "common-he",
+  "parents": [
+    "common-forms"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

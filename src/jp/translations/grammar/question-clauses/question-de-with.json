@@ -8,7 +8,8 @@
     "rel": "question-de-verb-means"
   },
   "parents": [
-    "question-clauses"
+    "question-clauses",
+    "common-de-with"
   ],
   "props": {
     "en": "'with '+rel.qw.en+' '+form.en",

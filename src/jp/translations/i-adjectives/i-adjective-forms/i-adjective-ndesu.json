@@ -9,7 +9,8 @@
   },
   "parents": [
     "i-adjective-forms",
-    "i-predicate-forms"
+    "i-predicate-forms",
+    "common-nn"
   ],
   "props": {
     "en": "form.en+e(', thats why')",

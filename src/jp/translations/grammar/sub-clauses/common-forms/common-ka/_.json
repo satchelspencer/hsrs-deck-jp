@@ -1,0 +1,11 @@
+{
+  "_id": "vptlme9we6t",
+  "desc": "か can mark a question, though you can opt for rising pitch or a ？ instead",
+  "name": "common-ka",
+  "parents": [
+    "common-forms"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

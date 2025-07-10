@@ -8,7 +8,8 @@
     "ni": "noun-ni-at"
   },
   "parents": [
-    "clauses"
+    "clauses",
+    "common-ni-at"
   ],
   "props": {
     "en": "'at the '+ni.rel.noun.en+', '+ga.en",

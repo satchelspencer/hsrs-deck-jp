@@ -9,7 +9,8 @@
   },
   "parents": [
     "clauses",
-    "const-noun-clauses"
+    "const-noun-clauses",
+    "common-ni-at"
   ],
   "props": {
     "en": "'at the '+rel.noun.en+' '+form.en",

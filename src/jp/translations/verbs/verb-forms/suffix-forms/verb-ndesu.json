@@ -8,7 +8,8 @@
     "nda": "nda-verb-forms"
   },
   "parents": [
-    "suffix-forms"
+    "suffix-forms",
+    "common-nn"
   ],
   "props": {
     "en": "nda.en+e(', thats why')",

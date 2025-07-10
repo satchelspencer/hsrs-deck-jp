@@ -1,0 +1,11 @@
+{
+  "_id": "uab7dxxxjz",
+  "desc": "で can mark the location where a verb takes place",
+  "name": "common-de-in",
+  "parents": [
+    "common-forms"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

@@ -10,7 +10,8 @@
   },
   "parents": [
     "clauses",
-    "topic-clauses"
+    "topic-clauses",
+    "common-ga-sub"
   ],
   "props": {
     "en": "nform.en+' '+iform.en",
