@@ -13,7 +13,7 @@
     "complex-clauses"
   ],
   "props": {
-    "en": "' for '+amount.en+' '+clause.en",
+    "en": "clause.en+' for '+amount.en",
     "jp": "amount.jp+clause.jp"
   }
 }

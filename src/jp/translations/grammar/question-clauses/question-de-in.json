@@ -12,7 +12,7 @@
     "common-de-in"
   ],
   "props": {
-    "en": "'in '+rel.qw.en+' '+form.en",
+    "en": "rel.qw.en+' '+form.en",
     "jp": "rel.qw.jp+'で'+form.jp"
   }
 }

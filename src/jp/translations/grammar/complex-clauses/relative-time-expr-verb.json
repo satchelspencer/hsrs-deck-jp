@@ -10,7 +10,7 @@
     "complex-clauses"
   ],
   "props": {
-    "en": "rt.en+', '+clause.en",
+    "en": "clause.en+' '+rt.en",
     "jp": "rt.jp+clause.jp"
   }
 }

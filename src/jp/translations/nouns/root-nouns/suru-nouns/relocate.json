@@ -7,8 +7,8 @@
     "suru-nouns",
     "te-iru-verbs-state",
     "movers-do",
-    "ni-at-verbs",
-    "do-with-transports"
+    "do-with-transports",
+    "ni-destination-verbs"
   ],
   "props": {
     "_st": "relocated",

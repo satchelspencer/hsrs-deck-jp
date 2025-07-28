@@ -14,7 +14,7 @@
     "common-wo"
   ],
   "props": {
-    "en": "form.en|rg(' it', '')+' '+rel.noun.en",
+    "en": "form.en|rg(' it', '')+' the '+rel.noun.en",
     "jp": "rel.noun.jp+'を'+form.jp"
   }
 }

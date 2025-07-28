@@ -13,7 +13,7 @@
     "pronoun-temporal-verb-clauses"
   ],
   "props": {
-    "en": "pn.en+' '+form.en",
+    "en": "form.en+' '+pn.en",
     "jp": "pn.jp+form.jp"
   }
 }

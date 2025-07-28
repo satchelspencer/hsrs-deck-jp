@@ -12,7 +12,7 @@
     "common-ni-to"
   ],
   "props": {
-    "en": "'to the '+ni.rel.noun.en+' '+ga.en",
+    "en": "ga.en+' to the '+ni.rel.noun.en",
     "jp": "ni.rel.noun.jp+'に'+ga.jp"
   }
 }

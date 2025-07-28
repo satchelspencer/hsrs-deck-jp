@@ -14,7 +14,7 @@
     "common-he"
   ],
   "props": {
-    "en": "'towards the '+noun.en+' '+form.en",
+    "en": "form.en+' towards the '+noun.en",
     "jp": "noun.jp+'へ'+form.jp",
     "tl": "noun.tl+'え'+form.tl"
   }

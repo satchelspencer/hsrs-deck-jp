@@ -12,7 +12,7 @@
     "common-ni-time"
   ],
   "props": {
-    "en": "'at '+rel.time.en+' '+clause.en",
+    "en": "clause.en+' at '+rel.time.en",
     "jp": "rel.time.jp+'に'+clause.jp"
   }
 }

@@ -12,7 +12,7 @@
     "clauses"
   ],
   "props": {
-    "en": "(iform.en+' '+nform.en)|mts('is ')|mts('was ')",
+    "en": "('a '+iform.en+' '+nform.en)|mts('is ')|mts('was ')",
     "jp": "iform.jp+nform.jp"
   }
 }

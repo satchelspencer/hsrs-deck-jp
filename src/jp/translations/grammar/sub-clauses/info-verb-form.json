@@ -4,7 +4,7 @@
   "name": "info-verb-form",
   "order": "3",
   "params": {
-    "form": "verb-forms",
+    "form": "yo-ne-verb-forms",
     "verb": "info-verbs"
   },
   "parents": [

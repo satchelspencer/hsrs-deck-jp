@@ -13,7 +13,7 @@
     "common-ni-at"
   ],
   "props": {
-    "en": "'at '+rel.pn.en+' '+form.en",
+    "en": "form.en+' '+rel.pn.en",
     "jp": "rel.pn.jp+'に'+form.jp"
   }
 }

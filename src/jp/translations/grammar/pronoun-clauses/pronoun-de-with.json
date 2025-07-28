@@ -13,7 +13,7 @@
     "common-de-with"
   ],
   "props": {
-    "en": "'with '+rel.pn.en+' '+form.en",
+    "en": "form.en+' with '+rel.pn.en",
     "jp": "rel.pn.jp+'で'+form.jp"
   }
 }

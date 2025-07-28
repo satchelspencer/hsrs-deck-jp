@@ -13,7 +13,7 @@
     "common-ni-to"
   ],
   "props": {
-    "en": "'to '+rel.pn.en+' '+form.en",
+    "en": "form.en+' to '+rel.pn.en",
     "jp": "rel.pn.jp+'に'+form.jp"
   }
 }

@@ -14,7 +14,7 @@
     "common-ga-sub"
   ],
   "props": {
-    "en": "qw.en+' '+noun.en+' '+form.en",
+    "en": "qw.en+' of '+noun.en+' '+form.en",
     "jp": "qw.jp+noun.jp+'が'+form.jp",
     "tl": ""
   }

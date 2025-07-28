@@ -6,8 +6,8 @@
   "parents": [
     "suru-nouns",
     "do-to-people",
-    "ni-at-verbs",
-    "people-do-volitional"
+    "people-do-volitional",
+    "ni-destination-verbs"
   ],
   "props": {
     "_v": "guide",

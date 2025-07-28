@@ -14,7 +14,7 @@
     "common-ni-to"
   ],
   "props": {
-    "en": "'to the '+rel.noun.en+' '+form.en",
+    "en": "form.en|rg(' it', '')+' to the '+rel.noun.en",
     "jp": "rel.noun.jp+'に'+form.jp"
   }
 }
