@@ -1,5 +1,6 @@
 {
   "_id": "eptf6kaoibb",
+  "desc": "time duration",
   "name": "hours",
   "order": "1",
   "parents": [
@@ -9,7 +10,7 @@
     "counter-roots-irregular"
   ],
   "props": {
-    "en": "hours",
+    "_ec": "hours",
     "jp": "時間",
     "tl": "じかん"
   }

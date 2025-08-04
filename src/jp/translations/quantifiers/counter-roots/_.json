@@ -1,10 +1,13 @@
 {
   "_id": "dp03cetntg",
+  "desc": "with a number, counters quanitify specific categories of nouns",
   "name": "counter-roots",
   "parents": [
     "quantifiers"
   ],
   "props": {
+    "_ec": "",
+    "en": "'counter for '+$._ec"
   },
   "virtual": true
 }

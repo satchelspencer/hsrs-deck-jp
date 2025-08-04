@@ -10,7 +10,7 @@
     "counters"
   ],
   "props": {
-    "en": "number.en+' '+root.en",
+    "en": "number.en+' '+root._ec",
     "jp": "number.jp+root.jp"
   },
   "virtual": true

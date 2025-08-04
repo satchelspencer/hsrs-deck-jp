@@ -1,13 +1,13 @@
 {
   "_id": "h3vp7ylye4q",
-  "desc": "counter for pairs",
+  "desc": "counter for pairs of things",
   "name": "counter-root-sets",
   "order": "2",
   "parents": [
     "counter-roots-kango-full-k"
   ],
   "props": {
-    "en": "sets",
+    "_ec": "sets",
     "jp": "組",
     "tl": "くみ"
   }

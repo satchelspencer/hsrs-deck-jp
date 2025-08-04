@@ -9,7 +9,7 @@
     "be-requiredables"
   ],
   "props": {
-    "en": "years",
+    "_ec": "years",
     "jp": "年",
     "tl": "ねん"
   }

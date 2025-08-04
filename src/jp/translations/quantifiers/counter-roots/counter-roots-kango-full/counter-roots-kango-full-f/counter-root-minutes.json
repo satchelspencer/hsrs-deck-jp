@@ -9,7 +9,7 @@
     "be-requiredables"
   ],
   "props": {
-    "en": "minutes",
+    "_ec": "minutes",
     "jp": "分",
     "tl": "ふん"
   }

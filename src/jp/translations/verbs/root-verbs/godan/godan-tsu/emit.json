@@ -4,7 +4,7 @@
   "name": "emit",
   "order": "4",
   "parents": [
-    "godan-u",
+    "godan-tsu",
     "te-iru-verbs-continuous"
   ],
   "props": {

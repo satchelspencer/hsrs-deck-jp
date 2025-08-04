@@ -8,7 +8,7 @@
     "money"
   ],
   "props": {
-    "en": "yen",
+    "_ec": "yen",
     "jp": "円",
     "tl": "えん"
   }

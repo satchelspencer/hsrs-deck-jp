@@ -8,7 +8,7 @@
     "choosables"
   ],
   "props": {
-    "en": "seats",
+    "_ec": "seats",
     "jp": "席",
     "tl": "せき"
   }

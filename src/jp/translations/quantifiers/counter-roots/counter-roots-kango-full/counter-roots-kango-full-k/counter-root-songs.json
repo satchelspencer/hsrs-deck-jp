@@ -8,7 +8,7 @@
     "media"
   ],
   "props": {
-    "en": "songs",
+    "_ec": "songs",
     "jp": "曲",
     "tl": "きょく"
   }
