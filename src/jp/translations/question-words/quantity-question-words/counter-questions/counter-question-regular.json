@@ -8,7 +8,7 @@
     "counter-questions"
   ],
   "props": {
-    "en": "'how many '+root.en",
+    "en": "'how many '+root._ec",
     "jp": "'何'+root.jp",
     "tl": "'なん'+root.tl"
   }
