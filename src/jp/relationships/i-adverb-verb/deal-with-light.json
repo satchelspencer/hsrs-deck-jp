@@ -3,7 +3,7 @@
   "name": "deal-with-light",
   "params": {
     "iadj": "lightweight",
-    "noun": "deal-with"
+    "verb": "deal-with"
   },
   "parents": [
     "i-adverb-verb"

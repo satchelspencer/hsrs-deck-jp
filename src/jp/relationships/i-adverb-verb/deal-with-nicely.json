@@ -3,7 +3,7 @@
   "name": "deal-with-nicely",
   "params": {
     "iadj": "nice",
-    "noun": "deal-with"
+    "verb": "deal-with"
   },
   "parents": [
     "i-adverb-verb"

@@ -2,7 +2,7 @@
   "_id": "vj5oi0rz5xf",
   "name": "confirm-grammar",
   "params": {
-    "noun": "grammar",
+    "noun": "grammar-word",
     "verb": "confirmation"
   },
   "parents": [

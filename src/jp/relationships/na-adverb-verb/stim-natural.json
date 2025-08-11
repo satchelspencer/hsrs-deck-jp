@@ -3,7 +3,7 @@
   "name": "stim-natural",
   "params": {
     "na": "nature",
-    "verb": "stim-natural"
+    "verb": "stimulation"
   },
   "parents": [
     "na-adverb-verb"
