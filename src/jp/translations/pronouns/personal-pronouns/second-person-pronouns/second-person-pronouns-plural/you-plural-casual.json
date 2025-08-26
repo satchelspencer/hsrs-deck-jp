@@ -2,6 +2,7 @@
   "_id": "rs98tnapep",
   "mode": "c-r",
   "name": "you-plural-casual",
+  "order": "3",
   "params": {
     "pronoun": "you"
   },

@@ -1,13 +1,14 @@
 {
   "_id": "9vu176y87ds",
   "desc": "play, playing, game. pleasure, amusement, pastime, recreation, diversion.",
-  "name": "playfulness",
+  "name": "play-activity",
   "order": "3",
   "parents": [
-    "come-go-reasons"
+    "come-go-reasons",
+    "people-no"
   ],
   "props": {
-    "en": "playfulness",
+    "en": "play activity",
     "jp": "遊び",
     "tl": "あそび"
   }

@@ -3,7 +3,8 @@
   "name": "button",
   "order": "2",
   "parents": [
-    "pushables"
+    "pushables",
+    "ko-countable"
   ],
   "props": {
     "en": "button",

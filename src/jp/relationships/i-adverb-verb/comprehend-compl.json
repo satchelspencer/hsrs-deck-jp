@@ -1,8 +1,8 @@
 {
   "_id": "ll2usgggyi",
-  "name": "comprehend-perfect",
+  "name": "comprehend-compl",
   "params": {
-    "iadj": "perfect",
+    "iadj": "complete",
     "verb": "comprehension"
   },
   "parents": [

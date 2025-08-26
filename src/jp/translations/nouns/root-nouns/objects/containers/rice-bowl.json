@@ -3,7 +3,8 @@
   "name": "rice-bowl",
   "order": "2",
   "parents": [
-    "containers"
+    "containers",
+    "ko-countable"
   ],
   "props": {
     "en": "rice bowl",

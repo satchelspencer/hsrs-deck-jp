@@ -1,8 +1,8 @@
 {
   "_id": "ey23eaon57",
-  "name": "life-short",
+  "name": "life-brief",
   "params": {
-    "iadj": "short",
+    "iadj": "brief",
     "noun": "a-life"
   },
   "parents": [

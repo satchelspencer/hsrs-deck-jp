@@ -1,13 +1,14 @@
 {
   "_id": "o52iaoni1a",
-  "desc": "perfect in a completeness sense",
-  "name": "perfect",
+  "desc": "perfect in a completeness sense, absolute",
+  "name": "complete",
   "order": "4",
   "parents": [
     "na-attributive"
   ],
   "props": {
-    "en": "perfect",
+    "_ad": "",
+    "en": "complete",
     "jp": "完全",
     "tl": "かんぜん"
   }

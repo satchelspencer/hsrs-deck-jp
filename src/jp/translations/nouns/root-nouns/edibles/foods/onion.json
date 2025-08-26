@@ -4,7 +4,8 @@
   "order": "3",
   "parents": [
     "foods",
-    "cuttables"
+    "cuttables",
+    "ko-countable"
   ],
   "props": {
     "en": "onion",

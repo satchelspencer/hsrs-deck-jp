@@ -1,8 +1,8 @@
 {
-  "_id": "fq4nbcqh5r8",
-  "mode": "Pmr",
-  "name": "you-omae-plural",
-  "order": "3",
+  "_id": "hc2hkwd1th",
+  "mode": "cmr",
+  "name": "you-omaera-plural",
+  "order": "4",
   "params": {
     "pronoun": "you-omae"
   },
@@ -11,7 +11,7 @@
   ],
   "props": {
     "en": "you all",
-    "jp": "お前たち",
-    "tl": "おまえたち"
+    "jp": "お前ら",
+    "tl": "おまえら"
   }
 }

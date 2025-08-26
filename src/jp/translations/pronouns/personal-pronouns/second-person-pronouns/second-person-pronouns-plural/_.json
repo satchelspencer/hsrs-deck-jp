@@ -1,7 +1,7 @@
 {
   "_id": "f7k43s604b",
   "name": "second-person-pronouns-plural",
-  "order": "2",
+  "order": "",
   "params": {
     "pronoun": "second-person-pronouns-singular"
   },

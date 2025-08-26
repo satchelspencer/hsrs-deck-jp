@@ -1,13 +1,13 @@
 {
   "_id": "nsodczw2kbe",
-  "desc": "all, completely, totally, entirely, thoroughly",
-  "name": "completely",
+  "desc": "completely, totally, entirely, thoroughly",
+  "name": "thoroughly",
   "order": "3",
   "parents": [
     "verb-adverbs"
   ],
   "props": {
-    "en": "completely",
+    "en": "thoroughly",
     "jp": "すっかり"
   }
 }

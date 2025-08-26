@@ -5,11 +5,14 @@
   "order": "3",
   "parents": [
     "suru-nouns",
-    "machines-do"
+    "machines-do",
+    "te-iru-verbs-state"
   ],
   "props": {
+    "_pg": "",
+    "_st": "broken down",
     "_v": "break down",
-    "en": "breakdown",
+    "en": "a breakdown",
     "jp": "故障",
     "tl": "こしょう"
   }

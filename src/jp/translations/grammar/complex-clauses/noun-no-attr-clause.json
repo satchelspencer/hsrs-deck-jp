@@ -2,7 +2,7 @@
   "_id": "908jsi6hpxu",
   "constraint": "noun",
   "name": "noun-no-attr-clause",
-  "order": "3",
+  "order": "2",
   "params": {
     "clause": "const-noun-clauses",
     "rel": "no-attr-nouns-noun"

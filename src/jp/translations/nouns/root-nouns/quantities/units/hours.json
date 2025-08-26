@@ -4,13 +4,14 @@
   "name": "hours",
   "order": "1",
   "parents": [
-    "quantities",
+    "units",
     "short-long",
     "be-requiredables",
     "counter-roots-irregular"
   ],
   "props": {
     "_ec": "hours",
+    "en": "hours",
     "jp": "時間",
     "tl": "じかん"
   }

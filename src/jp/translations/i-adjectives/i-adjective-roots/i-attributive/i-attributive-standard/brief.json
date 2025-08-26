@@ -1,13 +1,13 @@
 {
   "_id": "7ori13b84bu",
   "desc": "short. brief",
-  "name": "short",
+  "name": "brief",
   "order": "2",
   "parents": [
     "i-attributive-standard"
   ],
   "props": {
-    "en": "short",
+    "en": "brief",
     "jp": "短い",
     "tl": "みじかい"
   }

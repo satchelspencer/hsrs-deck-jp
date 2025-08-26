@@ -1,8 +1,8 @@
 {
   "_id": "lhaqmn2kdae",
-  "name": "short-consolidate",
+  "name": "brief-consolidate",
   "params": {
-    "iadj": "short",
+    "iadj": "brief",
     "verb": "consolidate"
   },
   "parents": [

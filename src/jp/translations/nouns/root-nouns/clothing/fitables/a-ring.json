@@ -4,7 +4,8 @@
   "name": "a-ring",
   "order": "3",
   "parents": [
-    "fitables"
+    "fitables",
+    "ko-countable"
   ],
   "props": {
     "en": "a ring",

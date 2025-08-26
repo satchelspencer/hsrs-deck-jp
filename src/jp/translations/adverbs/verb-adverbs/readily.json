@@ -1,12 +1,14 @@
 {
   "_id": "loet90ocvpp",
-  "name": "quite",
+  "desc": "(not) easily or readily ",
+  "mode": "----n",
+  "name": "readily",
   "order": "3",
   "parents": [
     "verb-adverbs"
   ],
   "props": {
-    "en": "quite",
+    "en": "readily",
     "jp": "なかなか"
   }
 }

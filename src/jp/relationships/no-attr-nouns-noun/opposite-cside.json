@@ -3,7 +3,7 @@
   "name": "opposite-cside",
   "params": {
     "no": "opposite",
-    "noun": "beside"
+    "noun": "side"
   },
   "parents": [
     "no-attr-nouns-noun"

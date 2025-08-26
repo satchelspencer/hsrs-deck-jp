@@ -3,7 +3,7 @@
   "name": "all-sort-of",
   "order": "3",
   "params": {
-    "noun": "seeables"
+    "noun": "non-unique"
   },
   "parents": [
     "relative-pronouns"

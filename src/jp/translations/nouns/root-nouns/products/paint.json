@@ -1,5 +1,6 @@
 {
   "_id": "whmrrs0oe3",
+  "desc": "paint itself",
   "name": "paint",
   "order": "3",
   "parents": [
@@ -7,7 +8,7 @@
     "paintables"
   ],
   "props": {
-    "en": "paint",
+    "en": "the paint",
     "jp": "ペンキ",
     "tl": "ぺんき"
   }

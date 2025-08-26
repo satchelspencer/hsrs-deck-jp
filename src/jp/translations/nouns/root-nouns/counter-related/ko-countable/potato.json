@@ -1,0 +1,13 @@
+{
+  "_id": "tlpynj9po1l",
+  "name": "potato",
+  "order": "2",
+  "parents": [
+    "ko-countable",
+    "edibles"
+  ],
+  "props": {
+    "en": "potato",
+    "jp": "じゃがいも"
+  }
+}

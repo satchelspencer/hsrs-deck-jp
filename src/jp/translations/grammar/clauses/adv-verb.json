@@ -12,7 +12,7 @@
     "clauses"
   ],
   "props": {
-    "en": "form.en+' '+adv.en",
+    "en": "form.en+' '+adv._ad",
     "jp": "adv.jp+form.jp"
   }
 }

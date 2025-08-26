@@ -2,7 +2,7 @@
   "_id": "kamj8otf0j",
   "desc": "cleaning, dry cleaning, laundry service",
   "name": "dry-cleaning",
-  "order": "3",
+  "order": "4",
   "parents": [
     "suru-nouns",
     "te-iru-verbs-continuous",

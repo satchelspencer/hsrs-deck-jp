@@ -3,7 +3,8 @@
   "name": "soap",
   "order": "1",
   "parents": [
-    "tools"
+    "tools",
+    "ko-countable"
   ],
   "props": {
     "en": "soap",

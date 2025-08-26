@@ -1,0 +1,15 @@
+{
+  "_id": "ab1hh7lf6za",
+  "desc": "",
+  "mode": "p",
+  "name": "girl-formal",
+  "order": "4",
+  "parents": [
+    "demographics"
+  ],
+  "props": {
+    "en": "girl",
+    "jp": "女子",
+    "tl": "じょし"
+  }
+}

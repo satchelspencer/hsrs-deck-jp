@@ -1,0 +1,13 @@
+{
+  "_id": "tflwsd0i4fh",
+  "name": "apple",
+  "order": "2",
+  "parents": [
+    "ko-countable",
+    "foods"
+  ],
+  "props": {
+    "en": "apple",
+    "jp": "りんご"
+  }
+}

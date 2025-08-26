@@ -3,7 +3,8 @@
   "name": "eraser",
   "order": "3",
   "parents": [
-    "tools"
+    "tools",
+    "ko-countable"
   ],
   "props": {
     "en": "eraser",

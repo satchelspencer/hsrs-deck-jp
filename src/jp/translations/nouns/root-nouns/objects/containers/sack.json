@@ -4,7 +4,8 @@
   "name": "sack",
   "order": "4",
   "parents": [
-    "containers"
+    "containers",
+    "mai-countable"
   ],
   "props": {
     "en": "sack",

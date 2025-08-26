@@ -8,6 +8,7 @@
     "te-iru-verbs-state"
   ],
   "props": {
+    "_st": "solidified",
     "en": "solidify",
     "jp": "固まる",
     "tl": "かたまる"

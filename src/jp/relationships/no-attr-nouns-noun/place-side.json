@@ -1,0 +1,13 @@
+{
+  "_id": "0cj2z8ttik8",
+  "name": "place-side",
+  "params": {
+    "no": "side",
+    "noun": "spaces"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

@@ -10,7 +10,7 @@
     "kara-made-times"
   ],
   "props": {
-    "en": "kara.en+' '+made.en",
+    "en": "kara.en|pr('since', 'from')+' '+made.en",
     "jp": "kara.jp+made.jp"
   }
 }

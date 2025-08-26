@@ -10,6 +10,7 @@
   ],
   "props": {
     "_ec": "minutes",
+    "en": "minutes",
     "jp": "分",
     "tl": "ふん"
   }

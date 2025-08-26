@@ -9,7 +9,7 @@
     "kara-made-times"
   ],
   "props": {
-    "en": "'from '+time.en",
+    "en": "'since '+time.en",
     "jp": "time.jp+'から'"
   }
 }

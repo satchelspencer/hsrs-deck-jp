@@ -1,8 +1,8 @@
 {
   "_id": "y64ot8dac5",
-  "name": "short-return",
+  "name": "brief-return",
   "params": {
-    "iadj": "short",
+    "iadj": "brief",
     "verb": "return-it"
   },
   "parents": [

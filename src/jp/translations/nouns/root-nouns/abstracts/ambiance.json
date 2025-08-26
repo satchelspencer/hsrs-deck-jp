@@ -1,14 +1,14 @@
 {
   "_id": "i45ebx7n4c9",
-  "desc": "vigour",
+  "desc": "atmosphere, mood. ふんいき is also possible",
   "name": "ambiance",
   "order": "4",
   "parents": [
     "abstracts"
   ],
   "props": {
-    "en": "atmosphere, mood",
+    "en": "ambiance",
     "jp": "雰囲気",
-    "tl": "ふんいき"
+    "tl": "ふいんき"
   }
 }

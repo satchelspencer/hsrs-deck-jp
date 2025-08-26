@@ -4,7 +4,8 @@
   "name": "doll",
   "order": "3",
   "parents": [
-    "toys"
+    "toys",
+    "ko-countable"
   ],
   "props": {
     "en": "doll",

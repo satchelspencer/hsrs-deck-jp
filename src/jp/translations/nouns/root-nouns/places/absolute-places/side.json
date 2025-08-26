@@ -1,13 +1,13 @@
 {
   "_id": "rc19o856gfs",
-  "desc": "near, close, beside, vicinity, proximity, besides, while",
-  "name": "beside",
+  "desc": "side in terms of position, beside",
+  "name": "side",
   "order": "2",
   "parents": [
     "absolute-places"
   ],
   "props": {
-    "en": "beside",
+    "en": "side",
     "jp": "側",
     "tl": "そば"
   }

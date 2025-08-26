@@ -1,8 +1,8 @@
 {
   "_id": "sm8g60sdezd",
-  "name": "distance-short",
+  "name": "distance-brief",
   "params": {
-    "iadj": "short",
+    "iadj": "brief",
     "noun": "distance"
   },
   "parents": [
