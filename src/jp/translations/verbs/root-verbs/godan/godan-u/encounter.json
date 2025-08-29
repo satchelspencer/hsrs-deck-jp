@@ -6,12 +6,10 @@
   "parents": [
     "godan-u",
     "ni-person-verbs",
-    "te-iru-verbs-state",
     "de-location-verbs",
     "people-do-volitional"
   ],
   "props": {
-    "_st": "have encountered",
     "en": "encounter",
     "jp": "出会う",
     "tl": "であう"

@@ -4,8 +4,7 @@
   "name": "dochira",
   "order": "3",
   "parents": [
-    "direction-question-words",
-    "personal-question-words"
+    "direction-question-words"
   ],
   "props": {
     "en": "which way",
