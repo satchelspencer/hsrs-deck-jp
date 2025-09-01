@@ -5,6 +5,7 @@
     "adverbs"
   ],
   "props": {
+    "_ad": "$.en"
   },
   "virtual": true
 }

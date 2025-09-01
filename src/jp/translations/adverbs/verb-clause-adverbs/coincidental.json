@@ -1,13 +1,15 @@
 {
   "_id": "ow5un0bs6a",
   "desc": "by chance",
-  "name": "coincidentally",
+  "name": "coincidental",
   "order": "4",
   "parents": [
-    "verb-clause-adverbs"
+    "verb-clause-adverbs",
+    "no-attr-nouns"
   ],
   "props": {
-    "en": "coincidentally",
+    "_ad": "coincidentally",
+    "en": "coincidental",
     "jp": "偶然",
     "tl": "ぐうぜん"
   }
