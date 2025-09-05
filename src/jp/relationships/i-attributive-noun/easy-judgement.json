@@ -1,0 +1,13 @@
+{
+  "_id": "ufy4xp1sb3",
+  "name": "easy-judgement",
+  "params": {
+    "iadj": "easy",
+    "noun": "judgement"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

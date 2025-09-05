@@ -1,0 +1,13 @@
+{
+  "_id": "nwd2dzbue8r",
+  "name": "sweets-sack",
+  "params": {
+    "noun": "sweets",
+    "root": "sack"
+  },
+  "parents": [
+    "counter-noun"
+  ],
+  "props": {
+  }
+}

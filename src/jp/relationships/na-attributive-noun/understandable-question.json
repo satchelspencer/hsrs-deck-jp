@@ -1,0 +1,13 @@
+{
+  "_id": "ushqic4vl7",
+  "name": "understandable-question",
+  "params": {
+    "na": "understandable",
+    "noun": "question"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

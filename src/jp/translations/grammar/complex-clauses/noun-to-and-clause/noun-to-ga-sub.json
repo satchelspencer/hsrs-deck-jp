@@ -1,0 +1,16 @@
+{
+  "_id": "kwhqy8ir6h",
+  "constraint": "verb",
+  "name": "noun-to-ga-sub",
+  "order": "",
+  "params": {
+    "clause": "noun-ga-sub",
+    "rel": "noun-ga-verb"
+  },
+  "parents": [
+    "noun-to-and-clause"
+  ],
+  "props": {
+    "en": ""
+  }
+}

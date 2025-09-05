@@ -1,0 +1,13 @@
+{
+  "_id": "aisfabfjog",
+  "name": "vegetable-sack",
+  "params": {
+    "noun": "vegetable",
+    "root": "sack"
+  },
+  "parents": [
+    "counter-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "72a2rw2jinx",
+  "name": "understandable-opinion",
+  "params": {
+    "na": "understandable",
+    "noun": "opinion"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

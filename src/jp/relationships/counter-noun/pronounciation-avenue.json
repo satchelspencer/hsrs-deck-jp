@@ -1,0 +1,13 @@
+{
+  "_id": "vg1drlubwmg",
+  "name": "pronounciation-avenue",
+  "params": {
+    "noun": "pronounciation",
+    "root": "avenue"
+  },
+  "parents": [
+    "counter-noun"
+  ],
+  "props": {
+  }
+}

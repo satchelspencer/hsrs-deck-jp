@@ -1,0 +1,13 @@
+{
+  "_id": "y4889h2g0kg",
+  "name": "bread-sack",
+  "params": {
+    "noun": "bread",
+    "root": "sack"
+  },
+  "parents": [
+    "counter-noun"
+  ],
+  "props": {
+  }
+}

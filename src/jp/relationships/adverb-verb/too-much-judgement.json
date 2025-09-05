@@ -1,0 +1,13 @@
+{
+  "_id": "n7p9y1l54hj",
+  "name": "too-much-judgement",
+  "params": {
+    "adv": "too-much",
+    "verb": "judgement"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

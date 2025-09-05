@@ -1,0 +1,13 @@
+{
+  "_id": "5hdsxhsphfc",
+  "name": "fine-judgement",
+  "params": {
+    "iadj": "fine",
+    "verb": "judgement"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

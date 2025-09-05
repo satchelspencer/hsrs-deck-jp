@@ -1,0 +1,13 @@
+{
+  "_id": "4mv3k5kbeog",
+  "name": "strict-judgement",
+  "params": {
+    "iadj": "strict",
+    "noun": "judgement"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

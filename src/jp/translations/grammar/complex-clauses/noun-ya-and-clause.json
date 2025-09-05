@@ -1,0 +1,17 @@
+{
+  "_id": "txd0cmmw74d",
+  "desc": "や can link nouns, but non-exclusively",
+  "mode": "p",
+  "name": "noun-ya-and-clause",
+  "order": "3",
+  "params": {
+    "clause": "noun-to-and-clause"
+  },
+  "parents": [
+    "complex-clauses"
+  ],
+  "props": {
+    "en": "clause.en|rg(clause._n, 'things like '+clause._n)",
+    "jp": "clause.jp|rg('@と', 'や')"
+  }
+}

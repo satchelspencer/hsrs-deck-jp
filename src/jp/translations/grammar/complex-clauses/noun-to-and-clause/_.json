@@ -1,0 +1,15 @@
+{
+  "_id": "yvj5cn8uzsj",
+  "desc": "と can link nouns like 'and'",
+  "name": "noun-to-and-clause",
+  "order": "2",
+  "parents": [
+    "complex-clauses"
+  ],
+  "props": {
+    "_n": "rel.noun.en",
+    "en": "clause.en|rg(clause.rel.noun.en, rel.noun.en+' @and '+clause.rel.noun.en)",
+    "jp": "rel.noun.jp+'@と'+clause.jp"
+  },
+  "virtual": true
+}

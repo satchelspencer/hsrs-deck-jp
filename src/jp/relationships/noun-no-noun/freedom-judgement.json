@@ -1,0 +1,13 @@
+{
+  "_id": "wpxe3thrgwd",
+  "name": "freedom-judgement",
+  "params": {
+    "noun": "freedom",
+    "owner": "judgement"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "5o7vecep4q6",
+  "name": "experience-judgement",
+  "params": {
+    "noun": "experience",
+    "verb": "judgement"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "g8z4e5ttx8f",
+  "name": "early-judgement",
+  "params": {
+    "iadj": "early",
+    "verb": "judgement"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

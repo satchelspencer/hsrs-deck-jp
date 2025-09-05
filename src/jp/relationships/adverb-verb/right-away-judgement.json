@@ -1,0 +1,13 @@
+{
+  "_id": "v9m86ci8tzf",
+  "name": "right-away-judgement",
+  "params": {
+    "adv": "right-away",
+    "verb": "judgement"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

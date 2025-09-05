@@ -1,0 +1,13 @@
+{
+  "_id": "nvnewmeqf3",
+  "name": "safety-judgement",
+  "params": {
+    "noun": "safety",
+    "verb": "judgement"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

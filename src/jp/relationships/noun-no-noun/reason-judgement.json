@@ -1,0 +1,13 @@
+{
+  "_id": "n9f0qc9lu0g",
+  "name": "reason-judgement",
+  "params": {
+    "noun": "reason",
+    "owner": "judgement"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

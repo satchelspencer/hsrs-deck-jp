@@ -1,0 +1,13 @@
+{
+  "_id": "zvk1se9ccos",
+  "name": "danger-judgement",
+  "params": {
+    "noun": "danger",
+    "verb": "judgement"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

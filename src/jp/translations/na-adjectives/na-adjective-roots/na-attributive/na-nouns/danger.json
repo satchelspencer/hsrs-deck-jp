@@ -5,7 +5,8 @@
   "order": "2",
   "parents": [
     "na-nouns",
-    "na-place"
+    "na-place",
+    "abstracts"
   ],
   "props": {
     "_at": "dangerous",

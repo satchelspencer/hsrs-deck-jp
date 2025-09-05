@@ -1,12 +1,14 @@
 {
   "_id": "lv0rths6ahn",
-  "desc": "street, in an urban setting",
+  "desc": "street, in an urban setting. ways of doing",
   "name": "avenue",
   "order": "4",
   "parents": [
-    "paths"
+    "paths",
+    "counter-roots-kango-4+-only-t"
   ],
   "props": {
+    "_ec": "ways",
     "en": "avenue",
     "jp": "通り",
     "tl": "とおり"

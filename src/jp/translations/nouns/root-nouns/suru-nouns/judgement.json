@@ -6,7 +6,9 @@
   "parents": [
     "suru-nouns",
     "te-iru-verbs-continuous",
-    "people-do-volitional"
+    "people-do-volitional",
+    "organizations-do",
+    "people-no"
   ],
   "props": {
     "_pg": "judging",

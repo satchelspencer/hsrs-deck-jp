@@ -1,0 +1,13 @@
+{
+  "_id": "7a5tkgbie0v",
+  "name": "fast-judgement",
+  "params": {
+    "iadj": "fast",
+    "noun": "judgement"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

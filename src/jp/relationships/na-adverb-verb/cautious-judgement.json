@@ -1,0 +1,13 @@
+{
+  "_id": "4dbmq2io1ms",
+  "name": "cautious-judgement",
+  "params": {
+    "na": "cautious",
+    "verb": "judgement"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

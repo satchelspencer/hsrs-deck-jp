@@ -1,0 +1,13 @@
+{
+  "_id": "a40md40axvu",
+  "name": "appropriate-judgement",
+  "params": {
+    "na": "appropriate",
+    "verb": "judgement"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

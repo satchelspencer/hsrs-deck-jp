@@ -1,0 +1,13 @@
+{
+  "_id": "dtg0xqtczj5",
+  "name": "strict-judgement",
+  "params": {
+    "iadj": "strict",
+    "verb": "judgement"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

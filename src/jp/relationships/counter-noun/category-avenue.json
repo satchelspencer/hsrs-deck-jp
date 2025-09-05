@@ -1,0 +1,13 @@
+{
+  "_id": "3eu770jneur",
+  "name": "category-avenue",
+  "params": {
+    "noun": "category",
+    "root": "avenue"
+  },
+  "parents": [
+    "counter-noun"
+  ],
+  "props": {
+  }
+}

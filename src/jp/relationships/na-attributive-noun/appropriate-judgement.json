@@ -1,0 +1,13 @@
+{
+  "_id": "0155mmlhx4pi",
+  "name": "appropriate-judgement",
+  "params": {
+    "na": "appropriate",
+    "noun": "judgement"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "remp5qu9med",
+  "name": "result-judgement",
+  "params": {
+    "noun": "result",
+    "verb": "judgement"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

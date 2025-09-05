@@ -1,0 +1,13 @@
+{
+  "_id": "p8jchep3v9",
+  "name": "fact-judgement",
+  "params": {
+    "noun": "fact",
+    "verb": "judgement"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

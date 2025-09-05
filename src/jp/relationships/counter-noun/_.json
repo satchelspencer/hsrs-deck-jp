@@ -2,7 +2,7 @@
   "_id": "2ob7b0m7x4w",
   "name": "counter-noun",
   "params": {
-    "noun": "counter-related",
+    "noun": "root-nouns",
     "root": "counter-roots"
   },
   "parents": [

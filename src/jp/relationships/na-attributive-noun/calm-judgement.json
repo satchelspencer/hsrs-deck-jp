@@ -1,0 +1,13 @@
+{
+  "_id": "xdzf31409wi",
+  "name": "calm-judgement",
+  "params": {
+    "na": "calm",
+    "noun": "judgement"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

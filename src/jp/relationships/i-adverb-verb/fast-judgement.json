@@ -1,0 +1,13 @@
+{
+  "_id": "wwfpjzwqmr",
+  "name": "fast-judgement",
+  "params": {
+    "iadj": "fast",
+    "verb": "judgement"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

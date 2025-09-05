@@ -1,0 +1,13 @@
+{
+  "_id": "h7jwsnz4pzh",
+  "name": "situation-judgement",
+  "params": {
+    "noun": "situation",
+    "verb": "judgement"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

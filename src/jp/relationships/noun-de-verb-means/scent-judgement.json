@@ -1,0 +1,13 @@
+{
+  "_id": "slikj8ljdr",
+  "name": "scent-judgement",
+  "params": {
+    "noun": "scent",
+    "verb": "judgement"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "7c0emsalzna",
+  "name": "shape-avenue",
+  "params": {
+    "noun": "shape",
+    "root": "avenue"
+  },
+  "parents": [
+    "counter-noun"
+  ],
+  "props": {
+  }
+}

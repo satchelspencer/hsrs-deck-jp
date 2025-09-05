@@ -1,0 +1,13 @@
+{
+  "_id": "jutfxgxf9g",
+  "name": "correct-judgement",
+  "params": {
+    "iadj": "correct",
+    "noun": "judgement"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

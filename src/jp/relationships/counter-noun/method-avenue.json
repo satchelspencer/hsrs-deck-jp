@@ -1,0 +1,13 @@
+{
+  "_id": "6r0vqq6xfac",
+  "name": "method-avenue",
+  "params": {
+    "noun": "method",
+    "root": "avenue"
+  },
+  "parents": [
+    "counter-noun"
+  ],
+  "props": {
+  }
+}

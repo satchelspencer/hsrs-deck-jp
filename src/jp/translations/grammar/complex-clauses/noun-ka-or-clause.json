@@ -1,0 +1,17 @@
+{
+  "_id": "wvc7gnd69s",
+  "desc": "か can link nouns like or",
+  "mode": "c",
+  "name": "noun-ka-or-clause",
+  "order": "4",
+  "params": {
+    "clause": "noun-to-and-clause"
+  },
+  "parents": [
+    "complex-clauses"
+  ],
+  "props": {
+    "en": "clause.en|rg('@and', 'or')",
+    "jp": "clause.jp|rg('@と', 'か')"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "4tecarsj0i7",
+  "name": "readily-judgement",
+  "params": {
+    "adv": "readily",
+    "verb": "judgement"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

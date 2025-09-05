@@ -1,0 +1,13 @@
+{
+  "_id": "zhssbz9r8w",
+  "name": "understandable-reaction",
+  "params": {
+    "na": "understandable",
+    "noun": "reaction"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

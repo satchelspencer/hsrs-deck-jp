@@ -1,0 +1,13 @@
+{
+  "_id": "mz7ztas5fwg",
+  "name": "slow-judgement",
+  "params": {
+    "iadj": "slow",
+    "noun": "judgement"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

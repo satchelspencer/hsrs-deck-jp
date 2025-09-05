@@ -1,0 +1,13 @@
+{
+  "_id": "ta0vjfuohde",
+  "name": "method-judgement",
+  "params": {
+    "noun": "method",
+    "owner": "judgement"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

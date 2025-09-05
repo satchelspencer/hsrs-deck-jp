@@ -1,0 +1,13 @@
+{
+  "_id": "7l2vj9f4njq",
+  "name": "data-judgement",
+  "params": {
+    "noun": "data",
+    "verb": "judgement"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

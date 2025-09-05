@@ -1,0 +1,13 @@
+{
+  "_id": "uoy6xkmg9",
+  "name": "means-avenue",
+  "params": {
+    "noun": "means",
+    "root": "avenue"
+  },
+  "parents": [
+    "counter-noun"
+  ],
+  "props": {
+  }
+}

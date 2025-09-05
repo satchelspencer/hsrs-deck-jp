@@ -1,0 +1,13 @@
+{
+  "_id": "ifseh4p6no8",
+  "name": "sweet-judgement",
+  "params": {
+    "iadj": "sweet",
+    "noun": "judgement"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

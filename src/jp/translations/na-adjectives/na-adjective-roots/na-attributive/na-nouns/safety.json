@@ -4,7 +4,8 @@
   "order": "2",
   "parents": [
     "na-nouns",
-    "na-people"
+    "na-people",
+    "abstracts"
   ],
   "props": {
     "_at": "safe",

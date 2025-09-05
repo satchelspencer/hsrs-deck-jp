@@ -5,9 +5,11 @@
   "order": "4",
   "parents": [
     "containers",
-    "mai-countable"
+    "mai-countable",
+    "counter-roots-kango-3+-only-f"
   ],
   "props": {
+    "_ec": "sacks",
     "en": "sack",
     "jp": "袋",
     "tl": "ふくろ"

@@ -1,0 +1,13 @@
+{
+  "_id": "zhafe0a37mo",
+  "name": "voice-judgement",
+  "params": {
+    "noun": "voice",
+    "verb": "judgement"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

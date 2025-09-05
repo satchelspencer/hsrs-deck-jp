@@ -1,0 +1,13 @@
+{
+  "_id": "4ge9i18bq4",
+  "name": "firmly-judgement",
+  "params": {
+    "adv": "firmly",
+    "verb": "judgement"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

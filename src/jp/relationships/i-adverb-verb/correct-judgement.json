@@ -1,0 +1,13 @@
+{
+  "_id": "2b7ft5gf5kd",
+  "name": "correct-judgement",
+  "params": {
+    "iadj": "correct",
+    "verb": "judgement"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

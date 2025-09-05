@@ -1,0 +1,13 @@
+{
+  "_id": "96ibzey1v1w",
+  "name": "difficult-judgement",
+  "params": {
+    "iadj": "difficult",
+    "noun": "judgement"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

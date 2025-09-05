@@ -4,7 +4,8 @@
   "name": "freedom",
   "order": "4",
   "parents": [
-    "na-nouns"
+    "na-nouns",
+    "abstracts"
   ],
   "props": {
     "_at": "free",

@@ -1,0 +1,13 @@
+{
+  "_id": "e9rj1voi8kg",
+  "name": "rice-grain-sack",
+  "params": {
+    "noun": "rice-grain",
+    "root": "sack"
+  },
+  "parents": [
+    "counter-noun"
+  ],
+  "props": {
+  }
+}

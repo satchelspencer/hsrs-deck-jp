@@ -1,0 +1,17 @@
+{
+  "_id": "a8s4z9vc6j",
+  "desc": "とか can link nouns, but non-exclusively and casually",
+  "mode": "c",
+  "name": "noun-toka-and-clause",
+  "order": "4",
+  "params": {
+    "clause": "noun-to-and-clause"
+  },
+  "parents": [
+    "complex-clauses"
+  ],
+  "props": {
+    "en": "clause.en|rg('@and', 'and like')",
+    "jp": "clause.jp|rg('@と', 'とか')"
+  }
+}

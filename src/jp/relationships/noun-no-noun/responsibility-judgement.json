@@ -1,0 +1,13 @@
+{
+  "_id": "svo0sga9s3",
+  "name": "responsibility-judgement",
+  "params": {
+    "noun": "responsibility",
+    "owner": "judgement"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "wxdxn7o19kp",
+  "constraint": "verb",
+  "name": "noun-to-wo-obj",
+  "order": "",
+  "params": {
+    "clause": "noun-wo-obj",
+    "rel": "noun-wo-verb"
+  },
+  "parents": [
+    "noun-to-and-clause"
+  ],
+  "props": {
+    "en": ""
+  }
+}

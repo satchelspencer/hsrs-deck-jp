@@ -1,0 +1,13 @@
+{
+  "_id": "cbcjvt22pyu",
+  "name": "slow-judgement",
+  "params": {
+    "iadj": "slow",
+    "verb": "judgement"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

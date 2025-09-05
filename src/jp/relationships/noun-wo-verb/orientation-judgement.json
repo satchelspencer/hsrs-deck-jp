@@ -1,0 +1,13 @@
+{
+  "_id": "t07ln7npafj",
+  "name": "orientation-judgement",
+  "params": {
+    "noun": "orientation",
+    "verb": "judgement"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

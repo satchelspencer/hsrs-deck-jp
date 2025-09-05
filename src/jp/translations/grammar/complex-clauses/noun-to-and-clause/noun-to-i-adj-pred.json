@@ -1,0 +1,17 @@
+{
+  "_id": "obuolud8syn",
+  "constraint": "iadj",
+  "name": "noun-to-i-adj-pred",
+  "order": "",
+  "params": {
+    "clause": "noun-i-adj-pred",
+    "rel": "na-predicate-noun"
+  },
+  "parents": [
+    "noun-to-and-clause"
+  ],
+  "props": {
+    "en": "",
+    "jp": ""
+  }
+}

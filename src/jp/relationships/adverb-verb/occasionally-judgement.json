@@ -1,0 +1,13 @@
+{
+  "_id": "eo0k7mqwdfb",
+  "name": "occasionally-judgement",
+  "params": {
+    "adv": "occasionally",
+    "verb": "judgement"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

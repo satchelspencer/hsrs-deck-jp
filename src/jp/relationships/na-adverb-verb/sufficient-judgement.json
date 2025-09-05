@@ -1,0 +1,13 @@
+{
+  "_id": "c94atlslbt",
+  "name": "sufficient-judgement",
+  "params": {
+    "na": "sufficient",
+    "verb": "judgement"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}
