@@ -4,9 +4,11 @@
   "name": "unrelenting",
   "order": "4",
   "parents": [
-    "no-attr-nouns"
+    "no-attr-nouns",
+    "people-do-adverbs"
   ],
   "props": {
+    "_ad": "unrelentingly",
     "en": "unrelenting",
     "jp": "あくまで"
   }
