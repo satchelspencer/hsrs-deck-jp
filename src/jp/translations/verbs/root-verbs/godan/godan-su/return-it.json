@@ -10,7 +10,8 @@
     "ni-person-verbs",
     "te-iru-verbs-continuous",
     "de-location-verbs",
-    "people-do-volitional"
+    "people-do-volitional",
+    "do-to-quote"
   ],
   "props": {
     "_pg": "returning it",

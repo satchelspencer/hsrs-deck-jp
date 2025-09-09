@@ -1,0 +1,17 @@
+{
+  "_id": "r12q0pn0rk9",
+  "constraint": "verb",
+  "name": "subclause-verb-form",
+  "order": "3",
+  "params": {
+    "form": "verb-forms",
+    "verb": "do-to-subclause"
+  },
+  "parents": [
+    "sub-clauses"
+  ],
+  "props": {
+    "en": "form.en",
+    "jp": "form.jp"
+  }
+}

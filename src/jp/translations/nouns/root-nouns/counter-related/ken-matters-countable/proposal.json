@@ -6,9 +6,14 @@
   "parents": [
     "ken-matters-countable",
     "activities",
-    "wago-countable"
+    "wago-countable",
+    "do-to-quote",
+    "suru-nouns",
+    "people-do"
   ],
   "props": {
+    "_pg": "",
+    "_v": "propose",
     "en": "proposal",
     "jp": "提案",
     "tl": "ていあん"

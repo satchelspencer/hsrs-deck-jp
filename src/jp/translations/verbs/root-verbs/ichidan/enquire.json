@@ -7,7 +7,8 @@
     "ichidan",
     "ni-person-verbs",
     "do-to-informations",
-    "people-do-volitional"
+    "people-do-volitional",
+    "do-to-question"
   ],
   "props": {
     "en": "enquire",

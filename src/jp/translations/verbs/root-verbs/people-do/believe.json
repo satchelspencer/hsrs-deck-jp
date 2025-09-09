@@ -6,7 +6,8 @@
   "parents": [
     "people-do",
     "te-iru-verbs-continuous",
-    "ichidan"
+    "ichidan",
+    "do-to-subclause"
   ],
   "props": {
     "_pg": "believing",

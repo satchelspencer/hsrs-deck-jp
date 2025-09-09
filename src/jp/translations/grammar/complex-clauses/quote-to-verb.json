@@ -1,0 +1,17 @@
+{
+  "_id": "f1zq4anqs9h",
+  "desc": "と can link a quote to verbs like 言う",
+  "name": "quote-to-verb",
+  "order": "3",
+  "params": {
+    "clause": "conjuncting-clauses",
+    "form": "quote-verb-form"
+  },
+  "parents": [
+    "complex-clauses"
+  ],
+  "props": {
+    "en": "form.en|rg(' it', '')+' \"'+clause.en+'\"'",
+    "jp": "'「'+clause.jp+b()+'」と'+form.jp"
+  }
+}

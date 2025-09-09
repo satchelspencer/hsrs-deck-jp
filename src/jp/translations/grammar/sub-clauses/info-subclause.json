@@ -1,0 +1,16 @@
+{
+  "_id": "0r55aldmpma",
+  "mode": "c---a",
+  "name": "info-subclause",
+  "order": "3",
+  "params": {
+    "clause": "conjuncting-clauses"
+  },
+  "parents": [
+    "sub-clauses"
+  ],
+  "props": {
+    "en": "clause.en",
+    "jp": "clause.jp"
+  }
+}

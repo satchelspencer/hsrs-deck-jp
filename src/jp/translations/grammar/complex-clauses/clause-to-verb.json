@@ -1,0 +1,17 @@
+{
+  "_id": "wn55nb8sha",
+  "desc": "と can link a plain casual subclause to verbs like 言う or 思う",
+  "name": "clause-to-verb",
+  "order": "4",
+  "params": {
+    "clause": "info-subclause",
+    "form": "subclause-verb-form"
+  },
+  "parents": [
+    "complex-clauses"
+  ],
+  "props": {
+    "en": "form.en+' that '+clause.en",
+    "jp": "clause.jp+b()+'と'+form.jp"
+  }
+}

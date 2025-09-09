@@ -6,7 +6,8 @@
   "parents": [
     "suru-nouns",
     "ni-person-verbs",
-    "people-do-volitional"
+    "people-do-volitional",
+    "do-to-quote"
   ],
   "props": {
     "_pg": "instructing",

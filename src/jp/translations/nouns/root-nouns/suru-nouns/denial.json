@@ -5,7 +5,8 @@
   "order": "4",
   "parents": [
     "suru-nouns",
-    "people-do-volitional"
+    "people-do-volitional",
+    "do-to-subclause"
   ],
   "props": {
     "_v": "deny",

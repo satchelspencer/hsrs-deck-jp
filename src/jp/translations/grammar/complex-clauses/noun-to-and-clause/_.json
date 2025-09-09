@@ -2,7 +2,7 @@
   "_id": "yvj5cn8uzsj",
   "desc": "と can link nouns like 'and'",
   "name": "noun-to-and-clause",
-  "order": "2",
+  "order": "1",
   "parents": [
     "complex-clauses"
   ],

@@ -5,7 +5,9 @@
   "order": "3",
   "parents": [
     "protectables",
-    "activities"
+    "suru-nouns",
+    "people-do",
+    "do-to-subclause"
   ],
   "props": {
     "en": "promise",

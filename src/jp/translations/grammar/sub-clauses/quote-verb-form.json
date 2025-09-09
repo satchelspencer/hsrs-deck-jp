@@ -1,0 +1,17 @@
+{
+  "_id": "j7xztutef5a",
+  "constraint": "verb",
+  "name": "quote-verb-form",
+  "order": "3",
+  "params": {
+    "form": "verb-forms",
+    "verb": "do-to-quote"
+  },
+  "parents": [
+    "sub-clauses"
+  ],
+  "props": {
+    "en": "form.en",
+    "jp": "form.jp"
+  }
+}

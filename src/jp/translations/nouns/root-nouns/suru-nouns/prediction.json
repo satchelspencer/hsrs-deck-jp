@@ -3,7 +3,8 @@
   "name": "prediction",
   "order": "4",
   "parents": [
-    "suru-nouns"
+    "suru-nouns",
+    "do-to-subclause"
   ],
   "props": {
     "_v": "predict",

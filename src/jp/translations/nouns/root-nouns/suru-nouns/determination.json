@@ -5,7 +5,8 @@
   "order": "4",
   "parents": [
     "suru-nouns",
-    "people-no"
+    "people-no",
+    "do-to-subclause"
   ],
   "props": {
     "_pg": "",

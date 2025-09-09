@@ -7,7 +7,8 @@
     "suru-nouns",
     "te-iru-verbs-state",
     "people-do",
-    "do-to-informations"
+    "do-to-informations",
+    "do-to-subclause"
   ],
   "props": {
     "_st": "certain of",

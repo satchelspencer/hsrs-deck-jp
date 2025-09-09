@@ -9,9 +9,11 @@
     "de-location-verbs",
     "te-iru-verbs-continuous",
     "people-do-volitional",
-    "do-togethers"
+    "do-togethers",
+    "do-to-quote"
   ],
   "props": {
+    "_pg": "crying out",
     "en": "cry out",
     "jp": "叫ぶ",
     "tl": "さけぶ"

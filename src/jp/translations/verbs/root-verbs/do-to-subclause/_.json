@@ -1,0 +1,10 @@
+{
+  "_id": "sozfee2e4pm",
+  "name": "do-to-subclause",
+  "parents": [
+    "root-verbs"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

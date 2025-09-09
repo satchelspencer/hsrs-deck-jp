@@ -4,9 +4,14 @@
   "name": "record",
   "order": "4",
   "parents": [
-    "informations"
+    "informations",
+    "do-to-quote",
+    "suru-nouns",
+    "people-do"
   ],
   "props": {
+    "_pg": "",
+    "_v": "record it",
     "en": "record",
     "jp": "記録",
     "tl": "きろく"

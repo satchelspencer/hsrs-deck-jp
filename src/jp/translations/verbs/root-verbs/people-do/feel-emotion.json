@@ -5,7 +5,8 @@
   "order": "1",
   "parents": [
     "people-do",
-    "ichidan"
+    "ichidan",
+    "do-to-subclause"
   ],
   "props": {
     "en": "feel",

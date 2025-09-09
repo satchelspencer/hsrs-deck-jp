@@ -5,7 +5,8 @@
   "order": "4",
   "parents": [
     "ichidan",
-    "people-do-volitional"
+    "people-do-volitional",
+    "do-to-subclause"
   ],
   "props": {
     "en": "recognize",
