@@ -1,0 +1,10 @@
+{
+  "_id": "jgebd3f9km",
+  "name": "do-togethers",
+  "parents": [
+    "people-do"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

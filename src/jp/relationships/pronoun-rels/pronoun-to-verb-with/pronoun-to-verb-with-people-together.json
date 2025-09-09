@@ -1,0 +1,13 @@
+{
+  "_id": "9b7o124tlh",
+  "name": "pronoun-to-verb-with-people-together",
+  "params": {
+    "pn": "personal-pronouns",
+    "verb": "do-togethers"
+  },
+  "parents": [
+    "pronoun-to-verb-with"
+  ],
+  "props": {
+  }
+}

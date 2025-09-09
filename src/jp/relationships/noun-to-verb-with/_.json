@@ -1,0 +1,14 @@
+{
+  "_id": "c2e34pzljrh",
+  "name": "noun-to-verb-with",
+  "params": {
+    "noun": "root-nouns",
+    "verb": "root-verbs"
+  },
+  "parents": [
+    "relationships"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

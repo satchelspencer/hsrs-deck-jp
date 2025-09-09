@@ -1,0 +1,13 @@
+{
+  "_id": "wv6hfacp5fm",
+  "name": "question-to-verb-with-people-together",
+  "params": {
+    "qw": "personal-question-words",
+    "verb": "do-togethers"
+  },
+  "parents": [
+    "question-to-verb-with"
+  ],
+  "props": {
+  }
+}

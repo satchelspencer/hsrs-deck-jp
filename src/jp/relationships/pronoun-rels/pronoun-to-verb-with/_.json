@@ -1,12 +1,12 @@
 {
-  "_id": "c2e34pzljrh",
-  "name": "noun-to-verb",
+  "_id": "dcf52iacdh",
+  "name": "pronoun-to-verb-with",
   "params": {
-    "noun": "root-nouns",
+    "pn": "pronouns",
     "verb": "root-verbs"
   },
   "parents": [
-    "relationships"
+    "pronoun-rels"
   ],
   "props": {
   },

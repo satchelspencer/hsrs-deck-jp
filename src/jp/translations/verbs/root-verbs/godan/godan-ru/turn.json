@@ -6,7 +6,8 @@
   "parents": [
     "godan-ru",
     "movers-do",
-    "te-iru-verbs-continuous"
+    "te-iru-verbs-continuous",
+    "do-togethers"
   ],
   "props": {
     "en": "turn",

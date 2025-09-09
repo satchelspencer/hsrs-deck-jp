@@ -3,7 +3,8 @@
   "name": "contract",
   "order": "4",
   "parents": [
-    "abstracts"
+    "abstracts",
+    "do-togethers"
   ],
   "props": {
     "en": "contract",

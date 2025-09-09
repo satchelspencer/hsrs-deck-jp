@@ -1,0 +1,18 @@
+{
+  "_id": "cc5yb2m4ool",
+  "constraint": "verb",
+  "name": "pronoun-to-with",
+  "order": "2",
+  "params": {
+    "form": "verb-forms",
+    "rel": "pronoun-to-verb-with"
+  },
+  "parents": [
+    "pronoun-clauses",
+    "common-to-with"
+  ],
+  "props": {
+    "en": "form.en+' with '+rel.pn.en",
+    "jp": "rel.pn.jp+'と'+form.jp"
+  }
+}

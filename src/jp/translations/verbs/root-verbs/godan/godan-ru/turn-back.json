@@ -6,7 +6,8 @@
   "parents": [
     "godan-ru",
     "movers-do",
-    "he-related-verbs"
+    "he-related-verbs",
+    "do-togethers"
   ],
   "props": {
     "en": "turn back",

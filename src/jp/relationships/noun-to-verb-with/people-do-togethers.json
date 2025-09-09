@@ -1,0 +1,13 @@
+{
+  "_id": "5pnts33kkxy",
+  "name": "people-do-togethers",
+  "params": {
+    "noun": "people",
+    "verb": "do-togethers"
+  },
+  "parents": [
+    "noun-to-verb-with"
+  ],
+  "props": {
+  }
+}

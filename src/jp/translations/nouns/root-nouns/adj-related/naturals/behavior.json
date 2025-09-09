@@ -4,7 +4,8 @@
   "name": "behavior",
   "order": "4",
   "parents": [
-    "naturals"
+    "naturals",
+    "do-togethers"
   ],
   "props": {
     "en": "behavior",

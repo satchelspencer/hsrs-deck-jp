@@ -4,7 +4,8 @@
   "name": "battle",
   "order": "4",
   "parents": [
-    "events"
+    "events",
+    "do-togethers"
   ],
   "props": {
     "en": "battle",

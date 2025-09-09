@@ -10,7 +10,8 @@
     "de-location-verbs",
     "do-with-ingredients",
     "do-with-building-materials",
-    "people-do-volitional"
+    "people-do-volitional",
+    "do-togethers"
   ],
   "props": {
     "_pg": "making",

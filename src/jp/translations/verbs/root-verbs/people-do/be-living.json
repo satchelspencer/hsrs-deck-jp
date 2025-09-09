@@ -6,7 +6,8 @@
   "parents": [
     "people-do",
     "te-iru-verbs-state",
-    "ichidan"
+    "ichidan",
+    "do-togethers"
   ],
   "props": {
     "_st": "living",

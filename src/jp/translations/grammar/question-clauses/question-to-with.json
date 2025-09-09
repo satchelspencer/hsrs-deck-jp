@@ -1,0 +1,18 @@
+{
+  "_id": "3loctkv2s1p",
+  "constraint": "verb",
+  "name": "question-to-with",
+  "order": "2",
+  "params": {
+    "form": "verb-ka",
+    "rel": "question-to-verb-with"
+  },
+  "parents": [
+    "question-clauses",
+    "common-to-with"
+  ],
+  "props": {
+    "en": "form.en+' with '+rel.qw.en",
+    "jp": "rel.qw.jp+'と'+form.jp"
+  }
+}

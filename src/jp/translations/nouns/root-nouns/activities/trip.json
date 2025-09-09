@@ -5,7 +5,8 @@
   "order": "2",
   "parents": [
     "activities",
-    "events"
+    "events",
+    "do-togethers"
   ],
   "props": {
     "en": "trip",

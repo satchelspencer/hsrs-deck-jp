@@ -4,7 +4,8 @@
   "order": "2",
   "parents": [
     "ichidan",
-    "people-do-volitional"
+    "people-do-volitional",
+    "do-togethers"
   ],
   "props": {
     "en": "go down",

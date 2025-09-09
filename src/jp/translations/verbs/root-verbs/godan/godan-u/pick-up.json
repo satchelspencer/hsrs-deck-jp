@@ -6,7 +6,8 @@
   "parents": [
     "godan-u",
     "do-to-objects",
-    "people-do-volitional"
+    "people-do-volitional",
+    "do-togethers"
   ],
   "props": {
     "en": "pick up",

@@ -6,7 +6,8 @@
   "parents": [
     "suru-nouns",
     "te-iru-verbs-state",
-    "people-do-volitional"
+    "people-do-volitional",
+    "do-togethers"
   ],
   "props": {
     "_st": "returned to home country",

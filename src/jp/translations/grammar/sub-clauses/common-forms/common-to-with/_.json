@@ -1,0 +1,11 @@
+{
+  "_id": "2mlgrr5x46k",
+  "desc": "と can be used like 'with' to mark a participant or target of a verb",
+  "name": "common-to-with",
+  "parents": [
+    "common-forms"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

@@ -6,7 +6,8 @@
   "parents": [
     "godan-su",
     "te-iru-verbs-continuous",
-    "people-do-volitional"
+    "people-do-volitional",
+    "do-togethers"
   ],
   "props": {
     "_pg": "aiming for",

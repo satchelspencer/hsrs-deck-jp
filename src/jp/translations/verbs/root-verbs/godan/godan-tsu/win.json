@@ -8,7 +8,8 @@
     "ni-person-verbs",
     "te-iru-verbs-state",
     "de-location-verbs",
-    "people-do-volitional"
+    "people-do-volitional",
+    "do-togethers"
   ],
   "props": {
     "_st": "the winner",

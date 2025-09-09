@@ -6,7 +6,8 @@
   "parents": [
     "suru-nouns",
     "de-location-verbs",
-    "people-do-volitional"
+    "people-do-volitional",
+    "do-togethers"
   ],
   "props": {
     "_v": "do flower viewing",

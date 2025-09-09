@@ -1,0 +1,19 @@
+{
+  "_id": "ltpio1ro0g9",
+  "constraint": "verb noun",
+  "name": "noun-to-with",
+  "order": "2",
+  "params": {
+    "form": "verb-forms",
+    "rel": "noun-to-verb-with"
+  },
+  "parents": [
+    "clauses",
+    "const-noun-clauses",
+    "common-to-with"
+  ],
+  "props": {
+    "en": "form.en+' with '+rel.noun.en",
+    "jp": "rel.noun.jp+'と'+form.jp"
+  }
+}
