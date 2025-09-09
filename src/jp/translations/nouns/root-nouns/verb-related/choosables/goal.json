@@ -4,7 +4,8 @@
   "name": "goal",
   "order": "2",
   "parents": [
-    "choosables"
+    "choosables",
+    "wago-countable"
   ],
   "props": {
     "en": "goal",

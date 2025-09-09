@@ -5,7 +5,8 @@
   "order": "3",
   "parents": [
     "toys",
-    "ko-countable"
+    "ko-countable",
+    "wago-countable"
   ],
   "props": {
     "en": "doll",

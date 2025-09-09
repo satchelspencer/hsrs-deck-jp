@@ -1,0 +1,13 @@
+{
+  "_id": "8pev1lg38sh",
+  "name": "needed-leeway",
+  "params": {
+    "na": "needed",
+    "noun": "leeway"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

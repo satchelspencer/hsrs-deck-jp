@@ -1,0 +1,13 @@
+{
+  "_id": "u5oegicq1x",
+  "name": "nervousness-take",
+  "params": {
+    "noun": "nervousness",
+    "verb": "take"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

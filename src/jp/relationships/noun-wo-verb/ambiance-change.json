@@ -1,0 +1,13 @@
+{
+  "_id": "e1e91dolyd7",
+  "name": "ambiance-change",
+  "params": {
+    "noun": "ambiance",
+    "verb": "change"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

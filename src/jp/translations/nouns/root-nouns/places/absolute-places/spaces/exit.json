@@ -3,7 +3,8 @@
   "name": "exit",
   "order": "1",
   "parents": [
-    "spaces"
+    "spaces",
+    "wago-countable"
   ],
   "props": {
     "en": "exit",

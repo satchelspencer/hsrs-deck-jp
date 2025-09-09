@@ -1,0 +1,13 @@
+{
+  "_id": "3bqd1148584",
+  "name": "both-hands-catch",
+  "params": {
+    "noun": "both-hands",
+    "verb": "catch"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

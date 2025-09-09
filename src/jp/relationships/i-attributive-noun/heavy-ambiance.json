@@ -1,0 +1,13 @@
+{
+  "_id": "ridpzmfesfn",
+  "name": "heavy-ambiance",
+  "params": {
+    "iadj": "heavy",
+    "noun": "ambiance"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

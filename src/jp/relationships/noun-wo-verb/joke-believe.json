@@ -1,0 +1,13 @@
+{
+  "_id": "2s0tq54i7m5",
+  "name": "joke-believe",
+  "params": {
+    "noun": "joke",
+    "verb": "believe"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

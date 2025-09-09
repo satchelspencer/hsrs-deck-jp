@@ -1,0 +1,13 @@
+{
+  "_id": "8omvddgkd6j",
+  "name": "nervousness-fret",
+  "params": {
+    "noun": "nervousness",
+    "verb": "fret"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

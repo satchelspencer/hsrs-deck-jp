@@ -1,0 +1,13 @@
+{
+  "_id": "b5a2xetxh7l",
+  "name": "distant-future-countries",
+  "params": {
+    "noun": "distant-future",
+    "owner": "countries"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

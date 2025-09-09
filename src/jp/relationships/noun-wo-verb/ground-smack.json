@@ -1,0 +1,13 @@
+{
+  "_id": "35y9okmlkzx",
+  "name": "ground-smack",
+  "params": {
+    "noun": "ground",
+    "verb": "smack"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

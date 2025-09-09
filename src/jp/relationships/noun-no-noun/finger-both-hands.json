@@ -1,0 +1,13 @@
+{
+  "_id": "882hrxzu61v",
+  "name": "finger-both-hands",
+  "params": {
+    "noun": "finger",
+    "owner": "both-hands"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "36x2v1ntrvl",
+  "name": "ground-garden",
+  "params": {
+    "noun": "ground",
+    "owner": "garden"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

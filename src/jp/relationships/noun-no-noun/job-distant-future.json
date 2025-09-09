@@ -1,0 +1,13 @@
+{
+  "_id": "duzx3u04xcs",
+  "name": "job-distant-future",
+  "params": {
+    "noun": "job",
+    "owner": "distant-future"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

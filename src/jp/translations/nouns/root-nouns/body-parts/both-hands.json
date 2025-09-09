@@ -4,7 +4,7 @@
   "name": "both-hands",
   "order": "4",
   "parents": [
-    "people-no"
+    "body-parts"
   ],
   "props": {
     "en": "both hands",

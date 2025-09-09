@@ -1,0 +1,13 @@
+{
+  "_id": "o5pkhdcjeke",
+  "name": "position-both-hands",
+  "params": {
+    "noun": "position",
+    "owner": "both-hands"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

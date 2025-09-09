@@ -1,0 +1,13 @@
+{
+  "_id": "rzzqmfxn98c",
+  "name": "leeway-make",
+  "params": {
+    "noun": "leeway",
+    "verb": "make"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

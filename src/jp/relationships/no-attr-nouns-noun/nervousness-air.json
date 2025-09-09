@@ -1,0 +1,13 @@
+{
+  "_id": "n3f8ezqf32o",
+  "name": "nervousness-air",
+  "params": {
+    "no": "nervousness",
+    "noun": "air"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

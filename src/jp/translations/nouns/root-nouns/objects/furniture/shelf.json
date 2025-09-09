@@ -4,7 +4,8 @@
   "name": "shelf",
   "order": "3",
   "parents": [
-    "furniture"
+    "furniture",
+    "wago-countable"
   ],
   "props": {
     "en": "shelf",

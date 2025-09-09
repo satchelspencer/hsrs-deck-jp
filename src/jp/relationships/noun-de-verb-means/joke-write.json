@@ -1,0 +1,13 @@
+{
+  "_id": "iezh3espy5",
+  "name": "joke-write",
+  "params": {
+    "noun": "joke",
+    "verb": "write"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "2axfjldpc7z",
+  "name": "both-hands-take-on",
+  "params": {
+    "noun": "both-hands",
+    "verb": "take-on"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

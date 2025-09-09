@@ -3,7 +3,8 @@
   "name": "page",
   "order": "3",
   "parents": [
-    "media"
+    "media",
+    "wago-countable"
   ],
   "props": {
     "en": "page",

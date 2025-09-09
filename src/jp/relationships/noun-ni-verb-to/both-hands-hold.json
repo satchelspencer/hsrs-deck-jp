@@ -1,0 +1,13 @@
+{
+  "_id": "wf9pp3dnvr",
+  "name": "both-hands-hold",
+  "params": {
+    "noun": "both-hands",
+    "verb": "hold"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

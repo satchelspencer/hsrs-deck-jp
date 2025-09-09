@@ -1,0 +1,13 @@
+{
+  "_id": "v08evojzkfh",
+  "name": "both-hands-carry",
+  "params": {
+    "noun": "both-hands",
+    "verb": "carry"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

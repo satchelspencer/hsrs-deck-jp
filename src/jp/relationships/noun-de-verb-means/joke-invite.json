@@ -1,0 +1,13 @@
+{
+  "_id": "nw7y5tglpx",
+  "name": "joke-invite",
+  "params": {
+    "noun": "joke",
+    "verb": "invite"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "jr81hxrmwrn",
+  "name": "movement-both-hands",
+  "params": {
+    "noun": "movement",
+    "owner": "both-hands"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

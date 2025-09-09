@@ -1,0 +1,13 @@
+{
+  "_id": "2wew7bcvk5w",
+  "name": "force-fall",
+  "params": {
+    "noun": "force",
+    "verb": "fall"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

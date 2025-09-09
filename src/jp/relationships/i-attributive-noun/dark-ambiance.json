@@ -1,0 +1,13 @@
+{
+  "_id": "cj6k6ue8lfv",
+  "name": "dark-ambiance",
+  "params": {
+    "iadj": "dark",
+    "noun": "ambiance"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

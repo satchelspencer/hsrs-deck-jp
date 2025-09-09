@@ -1,0 +1,13 @@
+{
+  "_id": "fiyctop2o4r",
+  "name": "joke-conversation",
+  "params": {
+    "no": "joke",
+    "noun": "conversation"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

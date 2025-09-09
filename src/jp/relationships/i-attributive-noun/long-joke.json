@@ -1,0 +1,13 @@
+{
+  "_id": "jrb1kjmsdlh",
+  "name": "long-joke",
+  "params": {
+    "iadj": "long",
+    "noun": "joke"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -4,9 +4,11 @@
   "name": "annoyance",
   "order": "4",
   "parents": [
-    "abstracts"
+    "abstracts",
+    "na-attributive"
   ],
   "props": {
+    "_at": "annoying",
     "en": "annoyance",
     "jp": "迷惑",
     "tl": "めいわく"

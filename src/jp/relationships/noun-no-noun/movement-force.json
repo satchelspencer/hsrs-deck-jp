@@ -1,0 +1,13 @@
+{
+  "_id": "5q96403f1lu",
+  "name": "movement-force",
+  "params": {
+    "noun": "force",
+    "owner": "movement"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

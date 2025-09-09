@@ -4,7 +4,8 @@
   "order": "1",
   "parents": [
     "body-parts",
-    "symmetric-body-parts"
+    "symmetric-body-parts",
+    "wago-countable"
   ],
   "props": {
     "en": "ear",

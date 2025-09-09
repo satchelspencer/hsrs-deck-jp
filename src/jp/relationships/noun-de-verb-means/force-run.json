@@ -1,0 +1,13 @@
+{
+  "_id": "ae2kqkgqaad",
+  "name": "force-run",
+  "params": {
+    "noun": "force",
+    "verb": "run"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

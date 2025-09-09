@@ -1,0 +1,13 @@
+{
+  "_id": "3znsoxm986t",
+  "name": "power-both-hands",
+  "params": {
+    "noun": "power",
+    "owner": "both-hands"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

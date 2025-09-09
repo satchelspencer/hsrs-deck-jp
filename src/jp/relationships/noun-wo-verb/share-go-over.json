@@ -1,0 +1,13 @@
+{
+  "_id": "tgouijuz1v",
+  "name": "share-go-over",
+  "params": {
+    "noun": "share",
+    "verb": "go-over"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "jwxxt9z3ia",
+  "name": "force-be-defeated",
+  "params": {
+    "noun": "force",
+    "verb": "be-defeated"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

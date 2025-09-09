@@ -1,0 +1,13 @@
+{
+  "_id": "sqvdrekb7fd",
+  "name": "leeway-grant-it",
+  "params": {
+    "noun": "leeway",
+    "verb": "grant-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -4,9 +4,11 @@
   "order": "2",
   "parents": [
     "fines",
-    "building-materials"
+    "building-materials",
+    "no-attr-nouns"
   ],
   "props": {
+    "_at": "sandy",
     "en": "sand",
     "jp": "砂",
     "tl": "すな"

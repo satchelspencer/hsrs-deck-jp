@@ -1,0 +1,13 @@
+{
+  "_id": "cbx0le4i9yc",
+  "name": "nervousness-notice",
+  "params": {
+    "noun": "nervousness",
+    "verb": "notice"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

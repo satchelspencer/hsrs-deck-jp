@@ -1,0 +1,13 @@
+{
+  "_id": "hu24fhvzjl9",
+  "name": "ambiance-speak",
+  "params": {
+    "noun": "ambiance",
+    "verb": "speak"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

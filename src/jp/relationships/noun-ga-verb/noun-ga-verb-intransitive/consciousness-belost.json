@@ -2,8 +2,8 @@
   "_id": "15o4w60kz8b",
   "name": "consciousness-belost",
   "params": {
-    "noun": "be-lost",
-    "verb": "consciousness"
+    "noun": "consciousness",
+    "verb": "be-lost"
   },
   "parents": [
     "noun-ga-verb-intransitive"

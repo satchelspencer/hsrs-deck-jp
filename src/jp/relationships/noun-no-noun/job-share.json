@@ -1,0 +1,13 @@
+{
+  "_id": "nenkuujm60d",
+  "name": "job-share",
+  "params": {
+    "noun": "job",
+    "owner": "share"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

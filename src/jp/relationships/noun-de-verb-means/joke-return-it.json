@@ -1,0 +1,13 @@
+{
+  "_id": "nutvzy4zkbi",
+  "name": "joke-return-it",
+  "params": {
+    "noun": "joke",
+    "verb": "return-it"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

@@ -3,7 +3,8 @@
   "name": "clay",
   "order": "4",
   "parents": [
-    "building-materials"
+    "building-materials",
+    "no-attr-nouns"
   ],
   "props": {
     "en": "clay",

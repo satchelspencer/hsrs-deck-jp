@@ -1,0 +1,13 @@
+{
+  "_id": "ara6lqgab9p",
+  "name": "strong-force",
+  "params": {
+    "iadj": "strong",
+    "noun": "force"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

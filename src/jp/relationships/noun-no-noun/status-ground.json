@@ -1,0 +1,13 @@
+{
+  "_id": "ft35uedgbjd",
+  "name": "status-ground",
+  "params": {
+    "noun": "status",
+    "owner": "ground"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

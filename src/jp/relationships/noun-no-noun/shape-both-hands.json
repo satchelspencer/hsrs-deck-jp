@@ -1,0 +1,13 @@
+{
+  "_id": "z2rylcyaaas",
+  "name": "shape-both-hands",
+  "params": {
+    "noun": "shape",
+    "owner": "both-hands"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

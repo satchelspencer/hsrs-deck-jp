@@ -1,0 +1,13 @@
+{
+  "_id": "dm2j3xf8eoj",
+  "name": "wago-countable-wago-counter-root",
+  "params": {
+    "noun": "wago-countable",
+    "root": "wago-counter-root"
+  },
+  "parents": [
+    "counter-noun"
+  ],
+  "props": {
+  }
+}

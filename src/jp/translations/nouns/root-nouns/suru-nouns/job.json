@@ -11,7 +11,8 @@
     "te-iru-verbs-continuous",
     "de-location-verbs",
     "takeonables",
-    "absolute-places"
+    "absolute-places",
+    "wago-countable"
   ],
   "props": {
     "_pg": "doing a job",

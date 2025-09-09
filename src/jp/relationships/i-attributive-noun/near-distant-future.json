@@ -1,0 +1,13 @@
+{
+  "_id": "wh3cy5o92da",
+  "name": "near-distant-future",
+  "params": {
+    "iadj": "near",
+    "noun": "distant-future"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "8cujkfjkucy",
+  "name": "both-hands-let-go",
+  "params": {
+    "noun": "both-hands",
+    "verb": "let-go"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

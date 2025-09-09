@@ -1,0 +1,13 @@
+{
+  "_id": "2iyyoa4hcz",
+  "name": "share-take",
+  "params": {
+    "noun": "share",
+    "verb": "take"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

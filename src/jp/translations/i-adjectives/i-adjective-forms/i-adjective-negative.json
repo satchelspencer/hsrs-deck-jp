@@ -1,7 +1,7 @@
 {
   "_id": "q9v0upq9zqm",
   "constraint": "iadj",
-  "mode": "----nn",
+  "mode": "c---nn",
   "name": "i-adjective-negative",
   "order": "2",
   "params": {

@@ -1,0 +1,13 @@
+{
+  "_id": "j8kr3ej3uw",
+  "name": "share-match-it",
+  "params": {
+    "noun": "share",
+    "verb": "match-it"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

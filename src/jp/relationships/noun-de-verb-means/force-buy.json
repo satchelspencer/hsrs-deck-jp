@@ -1,0 +1,13 @@
+{
+  "_id": "jq7r401zx8j",
+  "name": "force-buy",
+  "params": {
+    "noun": "force",
+    "verb": "buy"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

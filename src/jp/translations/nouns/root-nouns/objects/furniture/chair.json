@@ -5,7 +5,8 @@
   "order": "2",
   "parents": [
     "furniture",
-    "sitables"
+    "sitables",
+    "wago-countable"
   ],
   "props": {
     "en": "chair",

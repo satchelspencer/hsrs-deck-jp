@@ -1,0 +1,13 @@
+{
+  "_id": "q62hjym2tk",
+  "name": "boring-joke",
+  "params": {
+    "iadj": "boring",
+    "noun": "joke"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "0x38xho4ug3j",
+  "name": "leeway-win",
+  "params": {
+    "noun": "leeway",
+    "verb": "win"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "qqyegn5r6ho",
+  "name": "organizations-share",
+  "params": {
+    "noun": "share",
+    "owner": "organizations"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

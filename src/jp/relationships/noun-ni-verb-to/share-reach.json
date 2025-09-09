@@ -1,0 +1,13 @@
+{
+  "_id": "erwawkmd9yo",
+  "name": "share-reach",
+  "params": {
+    "noun": "share",
+    "verb": "reach"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

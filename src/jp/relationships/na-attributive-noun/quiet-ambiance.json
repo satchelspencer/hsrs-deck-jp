@@ -1,0 +1,13 @@
+{
+  "_id": "co1nwh2tk5f",
+  "name": "quiet-ambiance",
+  "params": {
+    "na": "quiet",
+    "noun": "ambiance"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

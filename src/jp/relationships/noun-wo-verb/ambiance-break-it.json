@@ -1,0 +1,13 @@
+{
+  "_id": "6zmunfxdwho",
+  "name": "ambiance-break-it",
+  "params": {
+    "noun": "ambiance",
+    "verb": "break-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

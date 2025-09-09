@@ -5,7 +5,8 @@
   "order": "3",
   "parents": [
     "ken-matters-countable",
-    "activities"
+    "activities",
+    "wago-countable"
   ],
   "props": {
     "en": "proposal",

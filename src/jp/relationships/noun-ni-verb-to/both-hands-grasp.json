@@ -1,0 +1,13 @@
+{
+  "_id": "u9347acvirt",
+  "name": "both-hands-grasp",
+  "params": {
+    "noun": "both-hands",
+    "verb": "grasp"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

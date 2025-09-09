@@ -1,0 +1,13 @@
+{
+  "_id": "7urwttfmr1o",
+  "name": "joke-be-increased",
+  "params": {
+    "noun": "joke",
+    "verb": "be-increased"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

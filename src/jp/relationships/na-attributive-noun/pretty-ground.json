@@ -1,0 +1,13 @@
+{
+  "_id": "0zv3a9xvirtg",
+  "name": "pretty-ground",
+  "params": {
+    "na": "pretty",
+    "noun": "ground"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

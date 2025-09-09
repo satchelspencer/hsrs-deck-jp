@@ -1,0 +1,13 @@
+{
+  "_id": "lfb9rp2iv9r",
+  "name": "leeway-finish-it",
+  "params": {
+    "noun": "leeway",
+    "verb": "finish-it"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

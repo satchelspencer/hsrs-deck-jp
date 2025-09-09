@@ -1,0 +1,13 @@
+{
+  "_id": "qt4jlus2toc",
+  "name": "nervousness-feel-emotion",
+  "params": {
+    "noun": "nervousness",
+    "verb": "feel-emotion"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

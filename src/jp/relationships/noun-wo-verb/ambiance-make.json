@@ -1,0 +1,13 @@
+{
+  "_id": "fuqp2mtnwkg",
+  "name": "ambiance-make",
+  "params": {
+    "noun": "ambiance",
+    "verb": "make"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

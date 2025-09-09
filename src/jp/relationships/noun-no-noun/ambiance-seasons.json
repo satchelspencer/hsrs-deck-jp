@@ -1,0 +1,13 @@
+{
+  "_id": "amx0njwesdf",
+  "name": "ambiance-seasons",
+  "params": {
+    "noun": "ambiance",
+    "owner": "seasons"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "nulfrtnp98c",
+  "name": "force-be-continuing",
+  "params": {
+    "noun": "force",
+    "verb": "be-continuing"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "w522movkx59",
+  "name": "frightful-distant-future",
+  "params": {
+    "iadj": "frightful",
+    "noun": "distant-future"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "7libga62ls8",
+  "name": "nervousness-be-defeated",
+  "params": {
+    "noun": "nervousness",
+    "verb": "be-defeated"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

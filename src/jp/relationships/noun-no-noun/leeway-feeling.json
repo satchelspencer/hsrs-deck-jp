@@ -1,0 +1,13 @@
+{
+  "_id": "ue06yli8ifg",
+  "name": "leeway-feeling",
+  "params": {
+    "noun": "leeway",
+    "owner": "feeling"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

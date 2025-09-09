@@ -1,0 +1,13 @@
+{
+  "_id": "bskug485c5n",
+  "name": "ambiance-relieve-it",
+  "params": {
+    "noun": "ambiance",
+    "verb": "relieve-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

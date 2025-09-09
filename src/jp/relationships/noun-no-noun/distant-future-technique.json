@@ -1,0 +1,13 @@
+{
+  "_id": "y00cwt985s",
+  "name": "distant-future-technique",
+  "params": {
+    "noun": "distant-future",
+    "owner": "technique"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

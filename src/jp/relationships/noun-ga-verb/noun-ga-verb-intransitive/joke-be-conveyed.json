@@ -1,0 +1,13 @@
+{
+  "_id": "fm238ykozsr",
+  "name": "joke-be-conveyed",
+  "params": {
+    "noun": "joke",
+    "verb": "be-conveyed"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "ix7d9pe354",
+  "name": "both-hands-become-cold",
+  "params": {
+    "noun": "both-hands",
+    "verb": "become-cold"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

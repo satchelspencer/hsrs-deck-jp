@@ -1,0 +1,13 @@
+{
+  "_id": "f46rcczzy7o",
+  "name": "force-drink",
+  "params": {
+    "noun": "force",
+    "verb": "drink"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

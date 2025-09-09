@@ -4,7 +4,8 @@
   "name": "ground",
   "order": "4",
   "parents": [
-    "abstracts"
+    "abstracts",
+    "places"
   ],
   "props": {
     "en": "ground",

@@ -1,0 +1,13 @@
+{
+  "_id": "pmj7pejwo2f",
+  "name": "ground-shine",
+  "params": {
+    "noun": "ground",
+    "verb": "shine"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

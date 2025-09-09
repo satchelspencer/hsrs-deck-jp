@@ -1,0 +1,13 @@
+{
+  "_id": "x4kmiga7j4m",
+  "name": "space-share",
+  "params": {
+    "noun": "space",
+    "owner": "share"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "47n3afgulxb",
+  "name": "both-hands-get-wet",
+  "params": {
+    "noun": "both-hands",
+    "verb": "get-wet"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

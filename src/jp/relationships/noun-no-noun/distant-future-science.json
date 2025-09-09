@@ -1,0 +1,13 @@
+{
+  "_id": "0m4nt6jb7xh",
+  "name": "distant-future-science",
+  "params": {
+    "noun": "distant-future",
+    "owner": "science"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

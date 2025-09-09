@@ -1,0 +1,13 @@
+{
+  "_id": "zvglgklqki",
+  "name": "distant-future-be-seen",
+  "params": {
+    "noun": "distant-future",
+    "verb": "be-seen"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

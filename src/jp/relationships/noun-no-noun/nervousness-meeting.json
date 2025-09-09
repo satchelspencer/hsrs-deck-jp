@@ -1,0 +1,13 @@
+{
+  "_id": "f8kc3g1yypl",
+  "name": "nervousness-meeting",
+  "params": {
+    "noun": "nervousness",
+    "owner": "meeting"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

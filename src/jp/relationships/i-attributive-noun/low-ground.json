@@ -1,0 +1,13 @@
+{
+  "_id": "b0makgpgpy",
+  "name": "low-ground",
+  "params": {
+    "iadj": "low",
+    "noun": "ground"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

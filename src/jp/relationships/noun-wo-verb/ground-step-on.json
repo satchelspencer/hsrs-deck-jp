@@ -1,0 +1,13 @@
+{
+  "_id": "0yfklpb6uyuf",
+  "name": "ground-step-on",
+  "params": {
+    "noun": "ground",
+    "verb": "step-on"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

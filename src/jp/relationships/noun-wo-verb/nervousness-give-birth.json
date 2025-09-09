@@ -1,0 +1,13 @@
+{
+  "_id": "8090turw49e",
+  "name": "nervousness-give-birth",
+  "params": {
+    "noun": "nervousness",
+    "verb": "give-birth"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

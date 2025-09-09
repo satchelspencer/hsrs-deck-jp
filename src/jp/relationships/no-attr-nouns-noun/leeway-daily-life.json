@@ -1,0 +1,13 @@
+{
+  "_id": "wxbl3g3mjqd",
+  "name": "leeway-daily-life",
+  "params": {
+    "no": "leeway",
+    "noun": "daily-life"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

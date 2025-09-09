@@ -1,0 +1,13 @@
+{
+  "_id": "1mxmkdi1n57",
+  "name": "ground-be-lowered",
+  "params": {
+    "noun": "ground",
+    "verb": "be-lowered"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

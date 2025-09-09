@@ -1,0 +1,13 @@
+{
+  "_id": "gf9jccvdo4l",
+  "name": "nervousness-match",
+  "params": {
+    "noun": "nervousness",
+    "owner": "match"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

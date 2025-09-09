@@ -2,8 +2,8 @@
   "_id": "i0b5gffk7l",
   "name": "songs-standalone",
   "params": {
-    "noun": "counter-root-songs",
-    "root": "counter-root-songs"
+    "noun": "piece-of-music",
+    "root": "piece-of-music"
   },
   "parents": [
     "standalone-counter-roots"

@@ -1,0 +1,13 @@
+{
+  "_id": "pbvgfm8b5ic",
+  "name": "cold-weather-ambiance",
+  "params": {
+    "iadj": "cold-weather",
+    "noun": "ambiance"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

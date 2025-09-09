@@ -1,0 +1,13 @@
+{
+  "_id": "hm6t8zc5wpb",
+  "name": "shape-ground",
+  "params": {
+    "noun": "shape",
+    "owner": "ground"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

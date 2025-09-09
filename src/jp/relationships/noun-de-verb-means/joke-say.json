@@ -1,0 +1,13 @@
+{
+  "_id": "uxaq3jthujl",
+  "name": "joke-say",
+  "params": {
+    "noun": "joke",
+    "verb": "say"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

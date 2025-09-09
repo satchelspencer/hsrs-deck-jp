@@ -1,0 +1,13 @@
+{
+  "_id": "vjpkuvw7kva",
+  "name": "both-hands-stretch-it",
+  "params": {
+    "noun": "both-hands",
+    "verb": "stretch-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

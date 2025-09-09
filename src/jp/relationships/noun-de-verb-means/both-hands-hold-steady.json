@@ -1,0 +1,13 @@
+{
+  "_id": "jq6ie66ej4",
+  "name": "both-hands-hold-steady",
+  "params": {
+    "noun": "both-hands",
+    "verb": "hold-steady"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "8k2vju72nyn",
+  "name": "joke-start-to-speak",
+  "params": {
+    "noun": "joke",
+    "verb": "start-to-speak"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

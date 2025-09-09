@@ -1,0 +1,13 @@
+{
+  "_id": "zy589mhrlx8",
+  "name": "bunch-customer",
+  "params": {
+    "noun": "bunch",
+    "owner": "customer"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

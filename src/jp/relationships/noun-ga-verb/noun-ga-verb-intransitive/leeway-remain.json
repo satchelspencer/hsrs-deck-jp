@@ -1,0 +1,13 @@
+{
+  "_id": "dgs6j4l14kk",
+  "name": "leeway-remain",
+  "params": {
+    "noun": "leeway",
+    "verb": "remain"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

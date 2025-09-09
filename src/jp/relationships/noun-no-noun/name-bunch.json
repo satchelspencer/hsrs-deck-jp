@@ -1,0 +1,13 @@
+{
+  "_id": "8zax7gq98dx",
+  "name": "name-bunch",
+  "params": {
+    "noun": "name",
+    "owner": "bunch"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

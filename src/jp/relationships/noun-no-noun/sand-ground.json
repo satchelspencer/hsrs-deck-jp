@@ -1,0 +1,13 @@
+{
+  "_id": "0qayo0xvrgu",
+  "name": "sand-ground",
+  "params": {
+    "noun": "sand",
+    "owner": "ground"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -5,7 +5,8 @@
   "parents": [
     "akeru-shimeru",
     "objects",
-    "polishables"
+    "polishables",
+    "wago-countable"
   ],
   "props": {
     "en": "window",

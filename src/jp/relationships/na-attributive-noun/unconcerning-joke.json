@@ -1,0 +1,13 @@
+{
+  "_id": "00y7coxa9ye7",
+  "name": "unconcerning-joke",
+  "params": {
+    "na": "unconcerning",
+    "noun": "joke"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

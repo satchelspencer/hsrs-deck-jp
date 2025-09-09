@@ -1,0 +1,13 @@
+{
+  "_id": "xgxlempnpu",
+  "name": "distant-future-draw-near",
+  "params": {
+    "noun": "distant-future",
+    "verb": "draw-near"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

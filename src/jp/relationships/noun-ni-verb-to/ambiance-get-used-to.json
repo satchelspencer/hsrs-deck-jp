@@ -1,0 +1,13 @@
+{
+  "_id": "xymsq7m2jll",
+  "name": "ambiance-get-used-to",
+  "params": {
+    "noun": "ambiance",
+    "verb": "get-used-to"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

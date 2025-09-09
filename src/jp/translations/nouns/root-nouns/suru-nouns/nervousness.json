@@ -6,9 +6,11 @@
   "parents": [
     "suru-nouns",
     "people-do",
-    "te-iru-verbs-state"
+    "te-iru-verbs-state",
+    "no-attr-nouns"
   ],
   "props": {
+    "_at": "nervous",
     "_st": "nervous",
     "_v": "get nervous",
     "en": "nervousness",

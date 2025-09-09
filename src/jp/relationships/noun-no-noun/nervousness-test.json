@@ -1,0 +1,13 @@
+{
+  "_id": "tk42fdxoyrj",
+  "name": "nervousness-test",
+  "params": {
+    "noun": "nervousness",
+    "owner": "test"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

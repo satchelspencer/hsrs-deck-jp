@@ -1,0 +1,13 @@
+{
+  "_id": "hzxuu38anxt",
+  "name": "nervousness-endurance",
+  "params": {
+    "noun": "nervousness",
+    "verb": "endurance"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

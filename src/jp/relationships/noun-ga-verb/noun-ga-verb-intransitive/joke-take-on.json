@@ -1,0 +1,13 @@
+{
+  "_id": "myktrc4q0m",
+  "name": "joke-take-on",
+  "params": {
+    "noun": "joke",
+    "verb": "take-on"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

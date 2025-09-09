@@ -1,0 +1,13 @@
+{
+  "_id": "5h96wwltywe",
+  "name": "important-polite-distant-future",
+  "params": {
+    "na": "important-polite",
+    "noun": "distant-future"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

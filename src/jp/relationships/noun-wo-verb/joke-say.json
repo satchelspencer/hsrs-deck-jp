@@ -1,0 +1,13 @@
+{
+  "_id": "okfim2eiqo",
+  "name": "joke-say",
+  "params": {
+    "noun": "joke",
+    "verb": "say"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

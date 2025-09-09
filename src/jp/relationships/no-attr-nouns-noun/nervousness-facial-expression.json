@@ -1,0 +1,13 @@
+{
+  "_id": "79kex33g0ak",
+  "name": "nervousness-facial-expression",
+  "params": {
+    "no": "nervousness",
+    "noun": "facial-expression"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

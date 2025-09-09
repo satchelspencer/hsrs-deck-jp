@@ -3,7 +3,8 @@
   "name": "toy",
   "order": "2",
   "parents": [
-    "toys"
+    "toys",
+    "wago-countable"
   ],
   "props": {
     "en": "toy",

@@ -1,0 +1,13 @@
+{
+  "_id": "dlyngkngfiq",
+  "name": "joke-call",
+  "params": {
+    "noun": "joke",
+    "verb": "call"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

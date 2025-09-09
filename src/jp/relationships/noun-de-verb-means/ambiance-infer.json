@@ -1,0 +1,13 @@
+{
+  "_id": "74fv73gmzlv",
+  "name": "ambiance-infer",
+  "params": {
+    "noun": "ambiance",
+    "verb": "infer"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

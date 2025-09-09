@@ -1,0 +1,13 @@
+{
+  "_id": "ii2qjh0w2j",
+  "name": "leeway-plan",
+  "params": {
+    "no": "leeway",
+    "noun": "plan"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

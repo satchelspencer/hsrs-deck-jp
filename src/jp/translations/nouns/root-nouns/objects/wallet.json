@@ -5,7 +5,8 @@
   "order": "1",
   "parents": [
     "objects",
-    "ko-countable"
+    "ko-countable",
+    "wago-countable"
   ],
   "props": {
     "en": "wallet",

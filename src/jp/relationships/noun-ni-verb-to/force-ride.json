@@ -1,0 +1,13 @@
+{
+  "_id": "e6aidoqtxj",
+  "name": "force-ride",
+  "params": {
+    "noun": "force",
+    "verb": "ride"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

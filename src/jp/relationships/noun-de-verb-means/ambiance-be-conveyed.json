@@ -1,0 +1,13 @@
+{
+  "_id": "llq643plyk8",
+  "name": "ambiance-be-conveyed",
+  "params": {
+    "noun": "ambiance",
+    "verb": "be-conveyed"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "9uawh78xk7d",
+  "name": "both-hands-align",
+  "params": {
+    "noun": "both-hands",
+    "verb": "align"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

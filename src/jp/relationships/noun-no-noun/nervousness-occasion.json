@@ -1,0 +1,13 @@
+{
+  "_id": "4mqnua0fg8h",
+  "name": "nervousness-occasion",
+  "params": {
+    "noun": "nervousness",
+    "owner": "occasion"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

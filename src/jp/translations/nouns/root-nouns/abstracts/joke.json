@@ -4,9 +4,13 @@
   "name": "joke",
   "order": "4",
   "parents": [
-    "abstracts"
+    "abstracts",
+    "people-no",
+    "no-attr-nouns",
+    "wago-countable"
   ],
   "props": {
+    "_at": "joking",
     "en": "a joke",
     "jp": "冗談",
     "tl": "じょうだん"

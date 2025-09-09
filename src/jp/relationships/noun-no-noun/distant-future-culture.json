@@ -1,0 +1,13 @@
+{
+  "_id": "tkz8u5jp32r",
+  "name": "distant-future-culture",
+  "params": {
+    "noun": "distant-future",
+    "owner": "culture"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

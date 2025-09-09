@@ -1,0 +1,13 @@
+{
+  "_id": "lk0djz9yv5s",
+  "name": "lovely-ambiance",
+  "params": {
+    "na": "lovely",
+    "noun": "ambiance"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

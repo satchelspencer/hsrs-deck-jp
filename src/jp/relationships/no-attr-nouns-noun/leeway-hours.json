@@ -1,0 +1,13 @@
+{
+  "_id": "yehjze46vgr",
+  "name": "leeway-hours",
+  "params": {
+    "no": "leeway",
+    "noun": "hours"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

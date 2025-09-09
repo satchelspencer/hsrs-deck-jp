@@ -1,0 +1,13 @@
+{
+  "_id": "k5nyjng5lh",
+  "name": "nervousness-hours",
+  "params": {
+    "no": "nervousness",
+    "noun": "hours"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

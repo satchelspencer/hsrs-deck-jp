@@ -1,0 +1,13 @@
+{
+  "_id": "rc26fdywwqq",
+  "name": "distant-future-politics",
+  "params": {
+    "noun": "distant-future",
+    "owner": "politics"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

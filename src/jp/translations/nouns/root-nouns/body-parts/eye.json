@@ -5,7 +5,8 @@
   "parents": [
     "body-parts",
     "hiraku-tojiru",
-    "symmetric-body-parts"
+    "symmetric-body-parts",
+    "wago-countable"
   ],
   "props": {
     "en": "eye",

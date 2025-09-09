@@ -1,0 +1,13 @@
+{
+  "_id": "ecurqhkvod",
+  "name": "joke-hear",
+  "params": {
+    "noun": "joke",
+    "verb": "hear"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "e4yhs9th8kb",
+  "name": "leeway-lose-it",
+  "params": {
+    "noun": "leeway",
+    "verb": "lose-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

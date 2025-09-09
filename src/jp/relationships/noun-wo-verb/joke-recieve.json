@@ -1,0 +1,13 @@
+{
+  "_id": "qyd2saidokf",
+  "name": "joke-recieve",
+  "params": {
+    "noun": "joke",
+    "verb": "recieve"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

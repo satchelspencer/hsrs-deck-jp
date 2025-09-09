@@ -1,0 +1,13 @@
+{
+  "_id": "rszwnl3nchi",
+  "name": "distant-future-economics",
+  "params": {
+    "noun": "distant-future",
+    "owner": "economics"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

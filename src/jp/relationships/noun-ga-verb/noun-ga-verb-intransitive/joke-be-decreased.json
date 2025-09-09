@@ -1,0 +1,13 @@
+{
+  "_id": "7zq3ryfq6vj",
+  "name": "joke-be-decreased",
+  "params": {
+    "noun": "joke",
+    "verb": "be-decreased"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

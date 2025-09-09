@@ -1,0 +1,13 @@
+{
+  "_id": "mxmhoxfr1ok",
+  "name": "bright-distant-future",
+  "params": {
+    "iadj": "bright",
+    "noun": "distant-future"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

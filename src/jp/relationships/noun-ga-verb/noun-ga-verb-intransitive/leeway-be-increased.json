@@ -1,0 +1,13 @@
+{
+  "_id": "1i19qmjv0pb",
+  "name": "leeway-be-increased",
+  "params": {
+    "noun": "leeway",
+    "verb": "be-increased"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

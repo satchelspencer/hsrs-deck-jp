@@ -1,0 +1,13 @@
+{
+  "_id": "nv99rgmttl",
+  "name": "both-hands-wash",
+  "params": {
+    "noun": "both-hands",
+    "verb": "wash"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

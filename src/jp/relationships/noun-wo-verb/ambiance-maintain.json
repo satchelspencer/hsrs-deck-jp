@@ -1,0 +1,13 @@
+{
+  "_id": "csvov2ltl9p",
+  "name": "ambiance-maintain",
+  "params": {
+    "noun": "ambiance",
+    "verb": "maintain"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

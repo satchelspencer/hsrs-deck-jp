@@ -1,0 +1,13 @@
+{
+  "_id": "65ccyad3i1i",
+  "name": "joke-refuse",
+  "params": {
+    "noun": "joke",
+    "verb": "refuse"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

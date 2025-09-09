@@ -1,0 +1,13 @@
+{
+  "_id": "lixludx9zsp",
+  "name": "share-leave-behind",
+  "params": {
+    "noun": "share",
+    "verb": "leave-behind"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

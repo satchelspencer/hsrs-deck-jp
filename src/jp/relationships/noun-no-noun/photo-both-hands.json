@@ -1,0 +1,13 @@
+{
+  "_id": "un4e55px6a",
+  "name": "photo-both-hands",
+  "params": {
+    "noun": "photo",
+    "owner": "both-hands"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

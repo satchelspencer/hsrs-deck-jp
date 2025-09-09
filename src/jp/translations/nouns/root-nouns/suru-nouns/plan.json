@@ -8,7 +8,8 @@
     "choosables",
     "te-iru-verbs-continuous",
     "de-location-verbs",
-    "people-do-volitional"
+    "people-do-volitional",
+    "wago-countable"
   ],
   "props": {
     "_pg": "making a plan",

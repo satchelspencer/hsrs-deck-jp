@@ -1,0 +1,13 @@
+{
+  "_id": "d9ctpdun2rk",
+  "name": "share-divide",
+  "params": {
+    "noun": "share",
+    "verb": "divide"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

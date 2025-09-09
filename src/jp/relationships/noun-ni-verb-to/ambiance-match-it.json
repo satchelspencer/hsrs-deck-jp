@@ -1,0 +1,13 @@
+{
+  "_id": "wn9kn7ix0cd",
+  "name": "ambiance-match-it",
+  "params": {
+    "noun": "ambiance",
+    "verb": "match-it"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

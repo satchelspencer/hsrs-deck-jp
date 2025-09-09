@@ -5,7 +5,8 @@
   "order": "3",
   "parents": [
     "learnables",
-    "choosables"
+    "choosables",
+    "wago-countable"
   ],
   "props": {
     "en": "problem",

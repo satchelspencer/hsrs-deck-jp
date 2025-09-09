@@ -1,0 +1,13 @@
+{
+  "_id": "ydbuctdfas",
+  "name": "force-do-yaru",
+  "params": {
+    "noun": "force",
+    "verb": "do-yaru"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

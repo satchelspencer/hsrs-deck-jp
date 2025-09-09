@@ -1,0 +1,13 @@
+{
+  "_id": "dn1rizq63ob",
+  "name": "nervousness-fall-silent",
+  "params": {
+    "noun": "nervousness",
+    "verb": "fall-silent"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

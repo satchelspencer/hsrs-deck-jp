@@ -1,0 +1,13 @@
+{
+  "_id": "ix44q6poy7l",
+  "name": "ambiance-explanation",
+  "params": {
+    "noun": "ambiance",
+    "verb": "explanation"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

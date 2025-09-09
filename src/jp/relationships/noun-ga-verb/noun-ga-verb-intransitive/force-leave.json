@@ -1,0 +1,13 @@
+{
+  "_id": "mzao652hjx",
+  "name": "force-leave",
+  "params": {
+    "noun": "force",
+    "verb": "leave"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

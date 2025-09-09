@@ -1,0 +1,13 @@
+{
+  "_id": "d4ic7z508w",
+  "name": "joke-be-communicated",
+  "params": {
+    "noun": "joke",
+    "verb": "be-communicated"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

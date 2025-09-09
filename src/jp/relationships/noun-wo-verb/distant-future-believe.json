@@ -1,0 +1,13 @@
+{
+  "_id": "ayfwy9x2a6b",
+  "name": "distant-future-believe",
+  "params": {
+    "noun": "distant-future",
+    "verb": "believe"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

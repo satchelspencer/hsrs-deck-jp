@@ -1,0 +1,13 @@
+{
+  "_id": "e0gzjdkm02q",
+  "name": "both-hands-use",
+  "params": {
+    "noun": "both-hands",
+    "verb": "use"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

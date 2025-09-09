@@ -1,0 +1,13 @@
+{
+  "_id": "qsw8lnf1b7p",
+  "name": "share-protect",
+  "params": {
+    "noun": "share",
+    "verb": "protect"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

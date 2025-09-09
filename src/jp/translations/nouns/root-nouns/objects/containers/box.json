@@ -4,7 +4,8 @@
   "order": "2",
   "parents": [
     "containers",
-    "ko-countable"
+    "ko-countable",
+    "wago-countable"
   ],
   "props": {
     "en": "box",

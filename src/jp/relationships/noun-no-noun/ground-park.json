@@ -1,0 +1,13 @@
+{
+  "_id": "pn9ks45clfa",
+  "name": "ground-park",
+  "params": {
+    "noun": "ground",
+    "owner": "park"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "by6o0aqrtdj",
+  "name": "both-hands-possess",
+  "params": {
+    "noun": "both-hands",
+    "verb": "possess"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

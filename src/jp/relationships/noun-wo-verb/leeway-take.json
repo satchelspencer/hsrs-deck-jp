@@ -1,0 +1,13 @@
+{
+  "_id": "m1a377166j",
+  "name": "leeway-take",
+  "params": {
+    "noun": "leeway",
+    "verb": "take"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

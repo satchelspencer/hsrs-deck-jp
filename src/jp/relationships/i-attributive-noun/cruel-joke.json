@@ -1,0 +1,13 @@
+{
+  "_id": "le21sgwiss",
+  "name": "cruel-joke",
+  "params": {
+    "iadj": "cruel",
+    "noun": "joke"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

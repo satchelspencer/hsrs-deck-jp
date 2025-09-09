@@ -1,0 +1,13 @@
+{
+  "_id": "z15r6eoz7g",
+  "name": "meaning-joke",
+  "params": {
+    "noun": "meaning",
+    "owner": "joke"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

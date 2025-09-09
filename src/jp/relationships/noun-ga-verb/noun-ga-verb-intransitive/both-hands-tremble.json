@@ -1,0 +1,13 @@
+{
+  "_id": "0w5bqm6q4kl",
+  "name": "both-hands-tremble",
+  "params": {
+    "noun": "both-hands",
+    "verb": "tremble"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "u24qhmlx119",
+  "name": "ambiance-leave",
+  "params": {
+    "noun": "ambiance",
+    "verb": "leave"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

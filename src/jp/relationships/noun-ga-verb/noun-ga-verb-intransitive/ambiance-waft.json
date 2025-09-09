@@ -1,0 +1,13 @@
+{
+  "_id": "frnklxho668",
+  "name": "ambiance-waft",
+  "params": {
+    "noun": "ambiance",
+    "verb": "waft"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

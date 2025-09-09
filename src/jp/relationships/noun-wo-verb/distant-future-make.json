@@ -1,0 +1,13 @@
+{
+  "_id": "locqh8wzbn",
+  "name": "distant-future-make",
+  "params": {
+    "noun": "distant-future",
+    "verb": "make"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

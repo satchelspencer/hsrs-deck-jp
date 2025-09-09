@@ -1,0 +1,13 @@
+{
+  "_id": "p1qydf568go",
+  "name": "distant-future-head-toward",
+  "params": {
+    "noun": "distant-future",
+    "verb": "head-toward"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

@@ -6,7 +6,8 @@
   "parents": [
     "suru-nouns",
     "te-iru-verbs-continuous",
-    "people-do-volitional"
+    "people-do-volitional",
+    "wago-countable"
   ],
   "props": {
     "_pg": "doing a task",

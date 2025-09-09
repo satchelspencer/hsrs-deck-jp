@@ -1,0 +1,13 @@
+{
+  "_id": "oxvdfug1eag",
+  "name": "force-drop",
+  "params": {
+    "noun": "force",
+    "verb": "drop"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

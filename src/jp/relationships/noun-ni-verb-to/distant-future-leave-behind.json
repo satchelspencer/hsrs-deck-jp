@@ -1,0 +1,13 @@
+{
+  "_id": "3npjnh989uq",
+  "name": "distant-future-leave-behind",
+  "params": {
+    "noun": "distant-future",
+    "verb": "leave-behind"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

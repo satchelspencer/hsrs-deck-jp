@@ -1,0 +1,13 @@
+{
+  "_id": "s6lhpfxx8x",
+  "name": "distant-future-industry",
+  "params": {
+    "noun": "distant-future",
+    "owner": "industry"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

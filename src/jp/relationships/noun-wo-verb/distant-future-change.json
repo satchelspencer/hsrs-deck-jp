@@ -1,0 +1,13 @@
+{
+  "_id": "xuzr4of5qw",
+  "name": "distant-future-change",
+  "params": {
+    "noun": "distant-future",
+    "verb": "change"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

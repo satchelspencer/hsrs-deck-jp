@@ -6,7 +6,8 @@
   "parents": [
     "spaces",
     "light-darks",
-    "hot-cold-weather"
+    "hot-cold-weather",
+    "wago-countable"
   ],
   "props": {
     "en": "room",

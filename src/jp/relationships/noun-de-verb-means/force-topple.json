@@ -1,0 +1,13 @@
+{
+  "_id": "u69jzevuhf",
+  "name": "force-topple",
+  "params": {
+    "noun": "force",
+    "verb": "topple"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

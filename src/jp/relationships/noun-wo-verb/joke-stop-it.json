@@ -1,0 +1,13 @@
+{
+  "_id": "gpb3kzkum4f",
+  "name": "joke-stop-it",
+  "params": {
+    "noun": "joke",
+    "verb": "stop-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

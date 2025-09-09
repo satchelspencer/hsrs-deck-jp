@@ -3,7 +3,8 @@
   "name": "clock",
   "order": "3",
   "parents": [
-    "objects"
+    "objects",
+    "wago-countable"
   ],
   "props": {
     "en": "clock",

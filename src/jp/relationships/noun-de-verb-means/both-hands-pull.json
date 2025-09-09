@@ -1,0 +1,13 @@
+{
+  "_id": "4aj8dciy44",
+  "name": "both-hands-pull",
+  "params": {
+    "noun": "both-hands",
+    "verb": "pull"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

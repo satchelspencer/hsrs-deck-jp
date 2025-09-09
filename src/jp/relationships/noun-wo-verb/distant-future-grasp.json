@@ -1,0 +1,13 @@
+{
+  "_id": "2ve3mbc3der",
+  "name": "distant-future-grasp",
+  "params": {
+    "noun": "distant-future",
+    "verb": "grasp"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

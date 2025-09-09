@@ -1,0 +1,13 @@
+{
+  "_id": "7auwhad43mf",
+  "name": "leeway-money",
+  "params": {
+    "noun": "leeway",
+    "owner": "money"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

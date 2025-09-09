@@ -1,0 +1,13 @@
+{
+  "_id": "jrizsz79q7",
+  "name": "few-leeway",
+  "params": {
+    "iadj": "few",
+    "noun": "leeway"
+  },
+  "parents": [
+    "i-predonly-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "oykvkmv1ep",
+  "name": "leeway-be-enough",
+  "params": {
+    "noun": "leeway",
+    "verb": "be-enough"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

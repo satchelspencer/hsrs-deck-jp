@@ -1,0 +1,13 @@
+{
+  "_id": "eg5cp63eqj",
+  "name": "leeway-space",
+  "params": {
+    "noun": "leeway",
+    "owner": "space"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

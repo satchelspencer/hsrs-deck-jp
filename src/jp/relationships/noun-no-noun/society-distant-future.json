@@ -1,0 +1,13 @@
+{
+  "_id": "x1w8zlwfquc",
+  "name": "society-distant-future",
+  "params": {
+    "noun": "society",
+    "owner": "distant-future"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "y5nvfanaq7b",
+  "name": "ground-be-seen",
+  "params": {
+    "noun": "ground",
+    "verb": "be-seen"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

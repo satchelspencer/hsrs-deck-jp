@@ -1,0 +1,13 @@
+{
+  "_id": "8wvmufxwszw",
+  "name": "joke-launch-it",
+  "params": {
+    "noun": "joke",
+    "verb": "launch-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

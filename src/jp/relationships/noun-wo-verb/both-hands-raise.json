@@ -1,0 +1,13 @@
+{
+  "_id": "azd0bvkq58",
+  "name": "both-hands-raise",
+  "params": {
+    "noun": "both-hands",
+    "verb": "raise"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

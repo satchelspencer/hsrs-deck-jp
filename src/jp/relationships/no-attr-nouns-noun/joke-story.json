@@ -1,0 +1,13 @@
+{
+  "_id": "0ibxrkeaxv5v",
+  "name": "joke-story",
+  "params": {
+    "no": "joke",
+    "noun": "story"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

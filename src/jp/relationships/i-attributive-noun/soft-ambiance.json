@@ -1,0 +1,13 @@
+{
+  "_id": "nxyx98qv83",
+  "name": "soft-ambiance",
+  "params": {
+    "iadj": "soft",
+    "noun": "ambiance"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

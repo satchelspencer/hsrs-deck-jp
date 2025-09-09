@@ -1,0 +1,13 @@
+{
+  "_id": "htcfq7e85jl",
+  "name": "force-increase-it",
+  "params": {
+    "noun": "force",
+    "verb": "increase-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

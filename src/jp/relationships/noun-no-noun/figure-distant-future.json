@@ -1,0 +1,13 @@
+{
+  "_id": "f6nvahdfq9m",
+  "name": "figure-distant-future",
+  "params": {
+    "noun": "figure",
+    "owner": "distant-future"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

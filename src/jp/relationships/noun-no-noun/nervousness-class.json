@@ -1,0 +1,13 @@
+{
+  "_id": "cckdsobtktd",
+  "name": "nervousness-class",
+  "params": {
+    "noun": "nervousness",
+    "owner": "class"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

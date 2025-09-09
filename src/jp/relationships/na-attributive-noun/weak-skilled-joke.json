@@ -1,0 +1,13 @@
+{
+  "_id": "s69pt87vwhf",
+  "name": "weak-skilled-joke",
+  "params": {
+    "na": "weak-skilled",
+    "noun": "joke"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

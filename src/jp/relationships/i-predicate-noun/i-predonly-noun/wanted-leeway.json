@@ -1,0 +1,13 @@
+{
+  "_id": "w1l83xnrip",
+  "name": "wanted-leeway",
+  "params": {
+    "iadj": "wanted",
+    "noun": "leeway"
+  },
+  "parents": [
+    "i-predonly-noun"
+  ],
+  "props": {
+  }
+}

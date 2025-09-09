@@ -1,0 +1,13 @@
+{
+  "_id": "to63b2cekml",
+  "name": "leeway-journey",
+  "params": {
+    "noun": "leeway",
+    "owner": "journey"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

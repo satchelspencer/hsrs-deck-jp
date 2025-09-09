@@ -1,0 +1,13 @@
+{
+  "_id": "k3qzebh76n",
+  "name": "clay-ground",
+  "params": {
+    "no": "clay",
+    "noun": "ground"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

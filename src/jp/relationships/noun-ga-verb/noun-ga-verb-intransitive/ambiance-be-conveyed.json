@@ -1,0 +1,13 @@
+{
+  "_id": "9kzsxxlseur",
+  "name": "ambiance-be-conveyed",
+  "params": {
+    "noun": "ambiance",
+    "verb": "be-conveyed"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

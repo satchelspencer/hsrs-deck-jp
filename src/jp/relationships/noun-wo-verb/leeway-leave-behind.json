@@ -1,0 +1,13 @@
+{
+  "_id": "c1wcirzv1f",
+  "name": "leeway-leave-behind",
+  "params": {
+    "noun": "leeway",
+    "verb": "leave-behind"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

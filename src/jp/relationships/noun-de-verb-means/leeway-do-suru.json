@@ -1,0 +1,13 @@
+{
+  "_id": "8qvhmasv94g",
+  "name": "leeway-do-suru",
+  "params": {
+    "noun": "leeway",
+    "verb": "do-suru"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "4bhwjax2zc1",
+  "name": "gentle-force",
+  "params": {
+    "iadj": "gentle",
+    "noun": "force"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

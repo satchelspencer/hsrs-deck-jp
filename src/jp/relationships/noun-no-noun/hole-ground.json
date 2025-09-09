@@ -1,0 +1,13 @@
+{
+  "_id": "qhj6axijedf",
+  "name": "hole-ground",
+  "params": {
+    "noun": "hole",
+    "owner": "ground"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

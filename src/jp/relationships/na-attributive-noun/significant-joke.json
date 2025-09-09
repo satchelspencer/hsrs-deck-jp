@@ -1,0 +1,13 @@
+{
+  "_id": "96tfpqn7o4m",
+  "name": "significant-joke",
+  "params": {
+    "na": "significant",
+    "noun": "joke"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

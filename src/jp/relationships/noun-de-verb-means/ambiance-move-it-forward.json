@@ -1,0 +1,13 @@
+{
+  "_id": "vd9as3sr1ls",
+  "name": "ambiance-move-it-forward",
+  "params": {
+    "noun": "ambiance",
+    "verb": "move-it-forward"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

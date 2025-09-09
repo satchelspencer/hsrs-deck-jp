@@ -1,0 +1,13 @@
+{
+  "_id": "yfota9z48lk",
+  "name": "ambiance-breakdown",
+  "params": {
+    "noun": "ambiance",
+    "verb": "be-broken"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

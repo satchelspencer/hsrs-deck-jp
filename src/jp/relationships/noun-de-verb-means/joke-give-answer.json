@@ -1,0 +1,13 @@
+{
+  "_id": "9qootv98li",
+  "name": "joke-give-answer",
+  "params": {
+    "noun": "joke",
+    "verb": "give-answer"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

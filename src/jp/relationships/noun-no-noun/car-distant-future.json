@@ -1,0 +1,13 @@
+{
+  "_id": "wrxws46tzqh",
+  "name": "car-distant-future",
+  "params": {
+    "noun": "car",
+    "owner": "distant-future"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

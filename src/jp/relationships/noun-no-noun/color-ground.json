@@ -1,0 +1,13 @@
+{
+  "_id": "kv7ha72i0b",
+  "name": "color-ground",
+  "params": {
+    "noun": "color",
+    "owner": "ground"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

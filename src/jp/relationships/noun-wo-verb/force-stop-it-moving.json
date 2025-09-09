@@ -1,0 +1,13 @@
+{
+  "_id": "v3g2k4mhu2",
+  "name": "force-stop-it-moving",
+  "params": {
+    "noun": "force",
+    "verb": "stop-it-moving"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

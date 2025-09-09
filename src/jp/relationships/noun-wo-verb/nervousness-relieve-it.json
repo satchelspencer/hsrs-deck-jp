@@ -1,0 +1,13 @@
+{
+  "_id": "tvsqpjc4l6r",
+  "name": "nervousness-relieve-it",
+  "params": {
+    "noun": "nervousness",
+    "verb": "relieve-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

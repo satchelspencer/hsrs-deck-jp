@@ -1,0 +1,13 @@
+{
+  "_id": "5tsq9a1o93l",
+  "name": "opponent-joke",
+  "params": {
+    "noun": "opponent",
+    "owner": "joke"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

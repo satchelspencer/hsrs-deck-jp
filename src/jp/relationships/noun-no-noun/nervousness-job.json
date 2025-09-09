@@ -1,0 +1,13 @@
+{
+  "_id": "ieyxsfxf14o",
+  "name": "nervousness-job",
+  "params": {
+    "noun": "nervousness",
+    "owner": "job"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

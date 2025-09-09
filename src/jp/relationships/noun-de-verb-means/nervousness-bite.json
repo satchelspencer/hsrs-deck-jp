@@ -1,0 +1,13 @@
+{
+  "_id": "z8jm9p01w5l",
+  "name": "nervousness-bite",
+  "params": {
+    "noun": "nervousness",
+    "verb": "bite"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

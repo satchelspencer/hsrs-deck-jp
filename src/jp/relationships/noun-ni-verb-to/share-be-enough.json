@@ -1,0 +1,13 @@
+{
+  "_id": "7ysknoiqph4",
+  "name": "share-be-enough",
+  "params": {
+    "noun": "share",
+    "verb": "be-enough"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

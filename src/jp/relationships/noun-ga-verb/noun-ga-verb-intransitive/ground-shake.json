@@ -1,0 +1,13 @@
+{
+  "_id": "nl4n5mu20w",
+  "name": "ground-shake",
+  "params": {
+    "noun": "ground",
+    "verb": "shake"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

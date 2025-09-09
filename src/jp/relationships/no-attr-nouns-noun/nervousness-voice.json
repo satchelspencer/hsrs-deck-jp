@@ -1,0 +1,13 @@
+{
+  "_id": "yovc2wh18w9",
+  "name": "nervousness-voice",
+  "params": {
+    "no": "nervousness",
+    "noun": "voice"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

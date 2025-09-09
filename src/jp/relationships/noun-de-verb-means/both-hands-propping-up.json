@@ -1,0 +1,13 @@
+{
+  "_id": "mqfq4m8rds",
+  "name": "both-hands-propping-up",
+  "params": {
+    "noun": "both-hands",
+    "verb": "propping-up"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

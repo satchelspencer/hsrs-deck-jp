@@ -1,0 +1,13 @@
+{
+  "_id": "gvx5t1o7zw6",
+  "name": "leeway-be-completed",
+  "params": {
+    "noun": "leeway",
+    "verb": "be-completed"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

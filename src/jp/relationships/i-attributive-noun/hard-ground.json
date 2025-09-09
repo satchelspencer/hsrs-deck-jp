@@ -1,0 +1,13 @@
+{
+  "_id": "j8hfdo6zg7k",
+  "name": "hard-ground",
+  "params": {
+    "iadj": "hard",
+    "noun": "ground"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

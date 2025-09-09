@@ -5,7 +5,8 @@
   "order": "2",
   "parents": [
     "fastenables",
-    "ko-countable"
+    "ko-countable",
+    "wago-countable"
   ],
   "props": {
     "en": "key",

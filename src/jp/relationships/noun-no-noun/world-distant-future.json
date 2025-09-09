@@ -1,0 +1,13 @@
+{
+  "_id": "uf04sah35u",
+  "name": "world-distant-future",
+  "params": {
+    "noun": "world",
+    "owner": "distant-future"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

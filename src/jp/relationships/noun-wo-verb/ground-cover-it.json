@@ -1,0 +1,13 @@
+{
+  "_id": "6wj52mik4tc",
+  "name": "ground-cover-it",
+  "params": {
+    "noun": "ground",
+    "verb": "cover-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

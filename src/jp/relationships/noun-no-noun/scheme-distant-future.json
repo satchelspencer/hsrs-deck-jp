@@ -1,0 +1,13 @@
+{
+  "_id": "y7k98ov0arj",
+  "name": "scheme-distant-future",
+  "params": {
+    "noun": "scheme",
+    "owner": "distant-future"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

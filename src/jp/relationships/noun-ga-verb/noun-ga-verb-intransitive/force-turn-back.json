@@ -1,0 +1,13 @@
+{
+  "_id": "m6qt0y6z49",
+  "name": "force-turn-back",
+  "params": {
+    "noun": "force",
+    "verb": "turn-back"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "1a4z71edtnz",
+  "name": "leeway-be-decreased",
+  "params": {
+    "noun": "leeway",
+    "verb": "be-decreased"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

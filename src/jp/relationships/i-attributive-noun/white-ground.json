@@ -1,0 +1,13 @@
+{
+  "_id": "yfmhv1ps3vl",
+  "name": "white-ground",
+  "params": {
+    "iadj": "white",
+    "noun": "ground"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

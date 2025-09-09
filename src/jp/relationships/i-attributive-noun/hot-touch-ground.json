@@ -1,0 +1,13 @@
+{
+  "_id": "2bqhuflsm02",
+  "name": "hot-touch-ground",
+  "params": {
+    "iadj": "hot-touch",
+    "noun": "ground"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

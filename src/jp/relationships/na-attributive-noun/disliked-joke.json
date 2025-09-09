@@ -1,0 +1,13 @@
+{
+  "_id": "22w4aozdqv6",
+  "name": "disliked-joke",
+  "params": {
+    "na": "disliked",
+    "noun": "joke"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

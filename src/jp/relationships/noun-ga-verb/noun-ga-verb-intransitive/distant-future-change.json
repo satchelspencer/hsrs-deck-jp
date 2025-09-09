@@ -1,0 +1,13 @@
+{
+  "_id": "seen6fm7am",
+  "name": "distant-future-change",
+  "params": {
+    "noun": "distant-future",
+    "verb": "be-changed"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

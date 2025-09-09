@@ -1,0 +1,13 @@
+{
+  "_id": "72f9dkag2q2",
+  "name": "leeway-come-off",
+  "params": {
+    "noun": "leeway",
+    "verb": "come-off"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

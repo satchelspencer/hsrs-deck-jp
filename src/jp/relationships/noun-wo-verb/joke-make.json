@@ -1,0 +1,13 @@
+{
+  "_id": "uvjth0chfb9",
+  "name": "joke-make",
+  "params": {
+    "noun": "joke",
+    "verb": "make"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "5y9922ni3h2",
+  "name": "responsibility-share",
+  "params": {
+    "noun": "responsibility",
+    "owner": "share"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

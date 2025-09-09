@@ -1,0 +1,13 @@
+{
+  "_id": "9fcv8dcirhu",
+  "name": "leeway-counter-root-seats",
+  "params": {
+    "noun": "leeway",
+    "owner": "counter-root-seats"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

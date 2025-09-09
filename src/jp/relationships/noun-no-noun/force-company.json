@@ -1,0 +1,13 @@
+{
+  "_id": "uav7yhsnvmn",
+  "name": "force-company",
+  "params": {
+    "noun": "force",
+    "owner": "company"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "nvarbbjn50n",
+  "name": "fast-force",
+  "params": {
+    "iadj": "fast",
+    "noun": "force"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

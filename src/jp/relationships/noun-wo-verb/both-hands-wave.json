@@ -1,0 +1,13 @@
+{
+  "_id": "u4fq1zrp59f",
+  "name": "both-hands-wave",
+  "params": {
+    "noun": "both-hands",
+    "verb": "wave"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

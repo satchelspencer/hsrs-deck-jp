@@ -1,0 +1,13 @@
+{
+  "_id": "nql0pbu6zd",
+  "name": "nervousness-failure",
+  "params": {
+    "noun": "nervousness",
+    "verb": "failure"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

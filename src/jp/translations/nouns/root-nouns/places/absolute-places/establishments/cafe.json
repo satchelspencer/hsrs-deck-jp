@@ -1,0 +1,13 @@
+{
+  "_id": "t7vlt295bl",
+  "name": "cafe",
+  "order": "4",
+  "parents": [
+    "establishments"
+  ],
+  "props": {
+    "en": "cafe",
+    "jp": "カフェ",
+    "tl": "かふぇ"
+  }
+}

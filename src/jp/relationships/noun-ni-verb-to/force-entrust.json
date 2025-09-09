@@ -1,0 +1,13 @@
+{
+  "_id": "912guway44",
+  "name": "force-entrust",
+  "params": {
+    "noun": "force",
+    "verb": "entrust"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

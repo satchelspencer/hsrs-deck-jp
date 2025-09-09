@@ -1,0 +1,13 @@
+{
+  "_id": "85kq754kvyb",
+  "name": "force-do-suru",
+  "params": {
+    "noun": "force",
+    "verb": "do-suru"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "x4zc3k9sji",
+  "name": "nervousness-be-late",
+  "params": {
+    "noun": "nervousness",
+    "verb": "be-late"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

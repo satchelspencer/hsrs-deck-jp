@@ -1,0 +1,13 @@
+{
+  "_id": "53cfv4s2so9",
+  "name": "cold-touch-ground",
+  "params": {
+    "iadj": "cold-touch",
+    "noun": "ground"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

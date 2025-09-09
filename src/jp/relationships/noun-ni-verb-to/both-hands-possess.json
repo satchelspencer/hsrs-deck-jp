@@ -1,0 +1,13 @@
+{
+  "_id": "f63sil7vojv",
+  "name": "both-hands-possess",
+  "params": {
+    "noun": "both-hands",
+    "verb": "possess"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "urnuo8ksbto",
+  "name": "ground-mountain",
+  "params": {
+    "noun": "ground",
+    "owner": "mountain"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

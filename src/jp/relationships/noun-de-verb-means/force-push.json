@@ -1,0 +1,13 @@
+{
+  "_id": "gt52pt2sakq",
+  "name": "force-push",
+  "params": {
+    "noun": "force",
+    "verb": "push"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

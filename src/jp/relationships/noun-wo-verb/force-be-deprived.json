@@ -1,0 +1,13 @@
+{
+  "_id": "om3bmefkadb",
+  "name": "force-be-deprived",
+  "params": {
+    "noun": "force",
+    "verb": "be-deprived"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

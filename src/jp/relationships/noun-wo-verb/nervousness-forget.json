@@ -1,0 +1,13 @@
+{
+  "_id": "gxfm23cxmug",
+  "name": "nervousness-forget",
+  "params": {
+    "noun": "nervousness",
+    "verb": "forget"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

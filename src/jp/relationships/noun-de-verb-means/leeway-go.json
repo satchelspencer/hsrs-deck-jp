@@ -1,0 +1,13 @@
+{
+  "_id": "mdizavm9wk",
+  "name": "leeway-go",
+  "params": {
+    "noun": "leeway",
+    "verb": "go"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

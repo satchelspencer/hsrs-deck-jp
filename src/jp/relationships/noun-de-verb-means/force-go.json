@@ -1,0 +1,13 @@
+{
+  "_id": "sqwiwjrj6hs",
+  "name": "force-go",
+  "params": {
+    "noun": "force",
+    "verb": "go"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

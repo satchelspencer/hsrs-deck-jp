@@ -1,0 +1,13 @@
+{
+  "_id": "694rpy708nb",
+  "name": "ambiance-establishments",
+  "params": {
+    "noun": "ambiance",
+    "owner": "establishments"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

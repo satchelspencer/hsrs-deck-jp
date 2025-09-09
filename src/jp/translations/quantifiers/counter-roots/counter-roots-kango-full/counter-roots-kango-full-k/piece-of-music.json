@@ -1,7 +1,7 @@
 {
   "_id": "xgxvev6tf5",
   "desc": "counter for songs",
-  "name": "counter-root-songs",
+  "name": "piece-of-music",
   "order": "3",
   "parents": [
     "counter-roots-kango-full-k",
@@ -9,6 +9,7 @@
   ],
   "props": {
     "_ec": "songs",
+    "en": "piece of music",
     "jp": "曲",
     "tl": "きょく"
   }

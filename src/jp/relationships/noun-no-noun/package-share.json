@@ -1,0 +1,13 @@
+{
+  "_id": "e7y64o14v5f",
+  "name": "package-share",
+  "params": {
+    "noun": "package",
+    "owner": "share"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

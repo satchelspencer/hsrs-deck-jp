@@ -1,0 +1,13 @@
+{
+  "_id": "x8911rpnnu9",
+  "name": "leeway-leave",
+  "params": {
+    "noun": "leeway",
+    "verb": "leave"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

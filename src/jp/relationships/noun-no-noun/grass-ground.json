@@ -1,0 +1,13 @@
+{
+  "_id": "uuogfkbs8d",
+  "name": "grass-ground",
+  "params": {
+    "noun": "grass",
+    "owner": "ground"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

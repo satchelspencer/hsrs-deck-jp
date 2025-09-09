@@ -1,0 +1,13 @@
+{
+  "_id": "aq488r504r5",
+  "name": "temperature-ground",
+  "params": {
+    "noun": "temperature",
+    "owner": "ground"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "ecyfee12w96",
+  "name": "interesting-joke",
+  "params": {
+    "iadj": "interesting",
+    "noun": "joke"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

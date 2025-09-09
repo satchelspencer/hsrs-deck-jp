@@ -1,0 +1,13 @@
+{
+  "_id": "xwhvvwxb7z",
+  "name": "hours-share",
+  "params": {
+    "noun": "hours",
+    "owner": "share"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

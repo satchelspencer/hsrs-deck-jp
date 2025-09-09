@@ -1,0 +1,13 @@
+{
+  "_id": "4lkls8gga18",
+  "name": "nervousness-tremble",
+  "params": {
+    "noun": "nervousness",
+    "verb": "tremble"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

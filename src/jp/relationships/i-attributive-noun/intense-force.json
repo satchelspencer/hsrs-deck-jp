@@ -1,0 +1,13 @@
+{
+  "_id": "s883txk7t9p",
+  "name": "intense-force",
+  "params": {
+    "iadj": "intense",
+    "noun": "force"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

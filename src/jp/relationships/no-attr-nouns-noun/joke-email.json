@@ -1,0 +1,13 @@
+{
+  "_id": "4pk83ab2xoj",
+  "name": "joke-email",
+  "params": {
+    "no": "joke",
+    "noun": "email"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

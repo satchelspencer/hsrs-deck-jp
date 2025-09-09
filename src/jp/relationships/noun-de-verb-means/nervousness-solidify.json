@@ -1,0 +1,13 @@
+{
+  "_id": "9qvdy3olhkk",
+  "name": "nervousness-solidify",
+  "params": {
+    "noun": "nervousness",
+    "verb": "solidify"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

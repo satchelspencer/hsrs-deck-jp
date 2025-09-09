@@ -1,0 +1,13 @@
+{
+  "_id": "xtkrntfj3oe",
+  "name": "joke-leak-it",
+  "params": {
+    "noun": "joke",
+    "verb": "leak-it"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

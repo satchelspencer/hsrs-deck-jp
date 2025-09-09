@@ -1,0 +1,13 @@
+{
+  "_id": "i15b8bz0gdc",
+  "name": "tepid-force",
+  "params": {
+    "iadj": "tepid",
+    "noun": "force"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -4,7 +4,8 @@
   "name": "objective",
   "order": "4",
   "parents": [
-    "abstracts"
+    "abstracts",
+    "wago-countable"
   ],
   "props": {
     "en": "objective",

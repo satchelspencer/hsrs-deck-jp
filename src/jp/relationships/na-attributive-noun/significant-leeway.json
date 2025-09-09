@@ -1,0 +1,13 @@
+{
+  "_id": "fl338q2qo1n",
+  "name": "significant-leeway",
+  "params": {
+    "na": "significant",
+    "noun": "leeway"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

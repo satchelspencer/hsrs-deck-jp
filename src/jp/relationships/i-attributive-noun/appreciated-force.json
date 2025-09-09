@@ -1,0 +1,13 @@
+{
+  "_id": "gsk7rvvz3ko",
+  "name": "appreciated-force",
+  "params": {
+    "iadj": "appreciated",
+    "noun": "force"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

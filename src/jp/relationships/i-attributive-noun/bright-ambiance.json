@@ -1,0 +1,13 @@
+{
+  "_id": "zr8y7wvc25",
+  "name": "bright-ambiance",
+  "params": {
+    "iadj": "bright",
+    "noun": "ambiance"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

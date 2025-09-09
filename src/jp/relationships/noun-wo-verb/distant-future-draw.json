@@ -1,0 +1,14 @@
+{
+  "_id": "jrs96bb9br",
+  "desc": "envisioning it",
+  "name": "distant-future-draw",
+  "params": {
+    "noun": "distant-future",
+    "verb": "draw"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

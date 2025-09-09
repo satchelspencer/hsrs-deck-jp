@@ -4,7 +4,8 @@
   "name": "force",
   "order": "4",
   "parents": [
-    "abstracts"
+    "abstracts",
+    "aruables"
   ],
   "props": {
     "en": "force, momentum",

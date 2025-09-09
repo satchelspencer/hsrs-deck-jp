@@ -1,0 +1,13 @@
+{
+  "_id": "w0tc43lp9dh",
+  "name": "high-ground",
+  "params": {
+    "iadj": "high",
+    "noun": "ground"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

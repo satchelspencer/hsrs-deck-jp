@@ -1,0 +1,13 @@
+{
+  "_id": "x1az6k4ad1",
+  "name": "cold-weather-joke",
+  "params": {
+    "iadj": "cold-weather",
+    "noun": "joke"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

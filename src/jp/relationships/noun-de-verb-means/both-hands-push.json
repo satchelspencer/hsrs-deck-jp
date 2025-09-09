@@ -1,0 +1,13 @@
+{
+  "_id": "4ens5dd1nei",
+  "name": "both-hands-push",
+  "params": {
+    "noun": "both-hands",
+    "verb": "push"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

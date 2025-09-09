@@ -1,0 +1,13 @@
+{
+  "_id": "wkz6w65fhai",
+  "name": "both-hands-wave",
+  "params": {
+    "noun": "both-hands",
+    "verb": "wave"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

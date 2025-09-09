@@ -1,0 +1,13 @@
+{
+  "_id": "h49svu16e5",
+  "name": "both-hands-embrace",
+  "params": {
+    "noun": "both-hands",
+    "verb": "embrace"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

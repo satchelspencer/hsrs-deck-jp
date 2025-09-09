@@ -1,0 +1,13 @@
+{
+  "_id": "drkdmme9t2c",
+  "name": "daily-life-distant-future",
+  "params": {
+    "noun": "daily-life",
+    "owner": "distant-future"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

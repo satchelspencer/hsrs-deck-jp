@@ -1,0 +1,13 @@
+{
+  "_id": "dbzulqrdsej",
+  "name": "force-come-to-a-stop",
+  "params": {
+    "noun": "force",
+    "verb": "come-to-a-stop"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

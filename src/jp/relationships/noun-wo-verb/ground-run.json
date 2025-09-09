@@ -1,0 +1,13 @@
+{
+  "_id": "f9tqd93tyai",
+  "name": "ground-run",
+  "params": {
+    "noun": "ground",
+    "verb": "run"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

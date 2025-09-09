@@ -6,7 +6,8 @@
   "parents": [
     "short-long",
     "body-parts",
-    "symmetric-body-parts"
+    "symmetric-body-parts",
+    "wago-countable"
   ],
   "props": {
     "en": "leg",

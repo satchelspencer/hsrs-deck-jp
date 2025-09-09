@@ -1,0 +1,13 @@
+{
+  "_id": "hhnu44s4ksv",
+  "name": "ambiance-be-understood",
+  "params": {
+    "noun": "ambiance",
+    "verb": "be-understood"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

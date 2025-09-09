@@ -1,0 +1,13 @@
+{
+  "_id": "e9y5q87rjfk",
+  "name": "ambiance-take-out",
+  "params": {
+    "noun": "ambiance",
+    "verb": "take-out"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

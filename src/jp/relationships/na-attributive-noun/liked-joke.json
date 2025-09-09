@@ -1,0 +1,13 @@
+{
+  "_id": "j09wlhzoeb",
+  "name": "liked-joke",
+  "params": {
+    "na": "liked",
+    "noun": "joke"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

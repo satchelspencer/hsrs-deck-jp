@@ -1,0 +1,13 @@
+{
+  "_id": "wmeawtsm84",
+  "name": "sweat-both-hands",
+  "params": {
+    "noun": "sweat",
+    "owner": "both-hands"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

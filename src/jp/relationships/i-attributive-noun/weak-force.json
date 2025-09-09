@@ -1,0 +1,13 @@
+{
+  "_id": "7a3owe8ccsq",
+  "name": "weak-force",
+  "params": {
+    "iadj": "weak",
+    "noun": "force"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

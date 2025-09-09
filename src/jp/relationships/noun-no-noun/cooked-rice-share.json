@@ -1,0 +1,13 @@
+{
+  "_id": "xtats7cz89p",
+  "name": "cooked-rice-share",
+  "params": {
+    "noun": "foods",
+    "owner": "share"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

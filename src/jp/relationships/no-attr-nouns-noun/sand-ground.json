@@ -1,0 +1,13 @@
+{
+  "_id": "56ge45pa1bt",
+  "name": "sand-ground",
+  "params": {
+    "no": "sand",
+    "noun": "ground"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

@@ -4,7 +4,8 @@
   "name": "distant-future",
   "order": "4",
   "parents": [
-    "ni-future-only-times"
+    "ni-future-only-times",
+    "abstracts"
   ],
   "props": {
     "en": "distant future",

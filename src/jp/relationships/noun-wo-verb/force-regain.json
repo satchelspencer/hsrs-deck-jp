@@ -1,0 +1,13 @@
+{
+  "_id": "uixfxlqksv",
+  "name": "force-regain",
+  "params": {
+    "noun": "force",
+    "verb": "regain"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

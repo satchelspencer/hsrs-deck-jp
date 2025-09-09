@@ -1,0 +1,13 @@
+{
+  "_id": "vlwjeb7levl",
+  "name": "leeway-be-in-time",
+  "params": {
+    "noun": "leeway",
+    "verb": "be-in-time"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

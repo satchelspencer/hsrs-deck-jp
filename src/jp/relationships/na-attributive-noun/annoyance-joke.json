@@ -1,0 +1,13 @@
+{
+  "_id": "039g8apt548b",
+  "name": "annoyance-joke",
+  "params": {
+    "na": "annoyance",
+    "noun": "joke"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

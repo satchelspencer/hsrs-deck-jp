@@ -1,0 +1,13 @@
+{
+  "_id": "u4qwxjj6tkh",
+  "name": "joke-response",
+  "params": {
+    "no": "joke",
+    "noun": "response"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

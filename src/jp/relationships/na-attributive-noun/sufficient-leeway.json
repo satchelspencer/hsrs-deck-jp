@@ -1,0 +1,13 @@
+{
+  "_id": "tlcb1n80gfp",
+  "name": "sufficient-leeway",
+  "params": {
+    "na": "sufficient",
+    "noun": "leeway"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

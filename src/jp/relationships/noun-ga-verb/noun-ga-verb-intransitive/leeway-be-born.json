@@ -1,0 +1,13 @@
+{
+  "_id": "yj5uu41oyap",
+  "name": "leeway-be-born",
+  "params": {
+    "noun": "leeway",
+    "verb": "be-born"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "5cb3nwtaxa",
+  "name": "ground-forest",
+  "params": {
+    "noun": "ground",
+    "owner": "forest"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

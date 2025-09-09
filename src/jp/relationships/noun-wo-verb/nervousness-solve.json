@@ -1,0 +1,13 @@
+{
+  "_id": "oov8kvcpze",
+  "name": "nervousness-solve",
+  "params": {
+    "noun": "nervousness",
+    "verb": "solve"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

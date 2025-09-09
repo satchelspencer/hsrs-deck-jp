@@ -1,0 +1,13 @@
+{
+  "_id": "m9dbe7q456",
+  "name": "ground-see",
+  "params": {
+    "noun": "ground",
+    "verb": "see"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

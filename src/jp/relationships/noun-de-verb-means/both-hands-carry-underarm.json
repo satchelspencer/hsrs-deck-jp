@@ -1,0 +1,13 @@
+{
+  "_id": "uye7qs4qz6",
+  "name": "both-hands-carry-underarm",
+  "params": {
+    "noun": "both-hands",
+    "verb": "carry-underarm"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

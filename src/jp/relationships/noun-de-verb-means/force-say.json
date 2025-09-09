@@ -1,0 +1,13 @@
+{
+  "_id": "7x90c1vjd5h",
+  "name": "force-say",
+  "params": {
+    "noun": "force",
+    "verb": "say"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

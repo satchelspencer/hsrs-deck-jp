@@ -5,7 +5,8 @@
   "parents": [
     "objects",
     "polishables",
-    "shiners"
+    "shiners",
+    "wago-countable"
   ],
   "props": {
     "en": "mirror",

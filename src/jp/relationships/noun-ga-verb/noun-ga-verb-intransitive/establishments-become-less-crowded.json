@@ -3,7 +3,7 @@
   "name": "establishments-become-less-crowded",
   "params": {
     "noun": "establishments",
-    "verb": "empty out"
+    "verb": "empty-out"
   },
   "parents": [
     "noun-ga-verb-intransitive"

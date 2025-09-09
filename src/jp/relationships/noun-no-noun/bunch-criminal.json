@@ -1,0 +1,13 @@
+{
+  "_id": "nzxvvtofwpk",
+  "name": "bunch-criminal",
+  "params": {
+    "noun": "bunch",
+    "owner": "criminal"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

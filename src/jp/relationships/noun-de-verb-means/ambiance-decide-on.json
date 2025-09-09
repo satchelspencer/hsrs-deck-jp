@@ -1,0 +1,13 @@
+{
+  "_id": "ajtneic3b8u",
+  "name": "ambiance-decide-on",
+  "params": {
+    "noun": "ambiance",
+    "verb": "decide-on"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

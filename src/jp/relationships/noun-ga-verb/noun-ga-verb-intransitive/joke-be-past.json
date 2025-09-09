@@ -1,0 +1,13 @@
+{
+  "_id": "0jz06b36a8sn",
+  "name": "joke-be-past",
+  "params": {
+    "noun": "joke",
+    "verb": "be-past"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

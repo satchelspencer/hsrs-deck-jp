@@ -1,0 +1,13 @@
+{
+  "_id": "q5fuy2epe0k",
+  "name": "ambiance-align",
+  "params": {
+    "noun": "ambiance",
+    "verb": "align"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

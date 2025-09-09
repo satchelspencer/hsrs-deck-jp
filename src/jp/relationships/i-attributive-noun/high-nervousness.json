@@ -1,0 +1,13 @@
+{
+  "_id": "hhgrc4frbyh",
+  "name": "high-nervousness",
+  "params": {
+    "iadj": "high",
+    "noun": "nervousness"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

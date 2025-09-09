@@ -1,0 +1,13 @@
+{
+  "_id": "sl5c9et7t3m",
+  "name": "category-joke",
+  "params": {
+    "noun": "category",
+    "owner": "joke"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "erkbsox2xw",
+  "name": "safety-ground",
+  "params": {
+    "na": "safety",
+    "noun": "ground"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

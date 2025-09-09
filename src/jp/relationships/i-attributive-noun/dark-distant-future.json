@@ -1,0 +1,13 @@
+{
+  "_id": "jcy9kdyxf4",
+  "name": "dark-distant-future",
+  "params": {
+    "iadj": "dark",
+    "noun": "distant-future"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

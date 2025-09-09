@@ -1,0 +1,13 @@
+{
+  "_id": "dxpsjp7l0qe",
+  "name": "leeway-go-over",
+  "params": {
+    "noun": "leeway",
+    "verb": "go-over"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

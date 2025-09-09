@@ -1,0 +1,13 @@
+{
+  "_id": "nzedfb927nh",
+  "name": "both-hands-empty-out",
+  "params": {
+    "noun": "both-hands",
+    "verb": "empty-out"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

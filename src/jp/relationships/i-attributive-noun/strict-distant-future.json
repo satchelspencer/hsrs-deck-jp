@@ -1,0 +1,13 @@
+{
+  "_id": "rw7c1fkojxg",
+  "name": "strict-distant-future",
+  "params": {
+    "iadj": "strict",
+    "noun": "distant-future"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

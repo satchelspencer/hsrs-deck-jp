@@ -1,0 +1,13 @@
+{
+  "_id": "w16z5aky36n",
+  "name": "leeway-stamina",
+  "params": {
+    "noun": "leeway",
+    "owner": "stamina"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

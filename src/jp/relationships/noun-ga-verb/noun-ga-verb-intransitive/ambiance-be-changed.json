@@ -1,0 +1,13 @@
+{
+  "_id": "vyeg0w4r298",
+  "name": "ambiance-be-changed",
+  "params": {
+    "noun": "ambiance",
+    "verb": "be-changed"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

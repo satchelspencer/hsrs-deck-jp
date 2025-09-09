@@ -4,7 +4,9 @@
   "name": "ambiance",
   "order": "4",
   "parents": [
-    "abstracts"
+    "abstracts",
+    "aruables",
+    "good-bads"
   ],
   "props": {
     "en": "ambiance",

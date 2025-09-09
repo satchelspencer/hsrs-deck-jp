@@ -1,0 +1,13 @@
+{
+  "_id": "3x4vmfpl802",
+  "name": "wound-both-hands",
+  "params": {
+    "noun": "wound",
+    "owner": "both-hands"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

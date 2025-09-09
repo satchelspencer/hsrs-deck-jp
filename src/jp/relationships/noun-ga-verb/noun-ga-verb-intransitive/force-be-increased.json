@@ -1,0 +1,13 @@
+{
+  "_id": "ejedim4b9vn",
+  "name": "force-be-increased",
+  "params": {
+    "noun": "force",
+    "verb": "be-increased"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

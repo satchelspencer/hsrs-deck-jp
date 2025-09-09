@@ -1,0 +1,13 @@
+{
+  "_id": "rnpue4raio",
+  "name": "ground-walk",
+  "params": {
+    "noun": "ground",
+    "verb": "walk"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

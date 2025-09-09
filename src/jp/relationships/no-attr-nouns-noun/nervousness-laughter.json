@@ -1,0 +1,13 @@
+{
+  "_id": "3p9u1soyl59",
+  "name": "nervousness-laughter",
+  "params": {
+    "no": "nervousness",
+    "noun": "laughter"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

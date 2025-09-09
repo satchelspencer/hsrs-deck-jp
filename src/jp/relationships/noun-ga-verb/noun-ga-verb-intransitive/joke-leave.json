@@ -1,0 +1,13 @@
+{
+  "_id": "sh0wzchfgo",
+  "name": "joke-leave",
+  "params": {
+    "noun": "joke",
+    "verb": "leave"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

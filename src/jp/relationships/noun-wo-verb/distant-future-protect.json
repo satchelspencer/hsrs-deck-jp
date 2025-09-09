@@ -1,0 +1,13 @@
+{
+  "_id": "lb2bt8gm1at",
+  "name": "distant-future-protect",
+  "params": {
+    "noun": "distant-future",
+    "verb": "protect"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

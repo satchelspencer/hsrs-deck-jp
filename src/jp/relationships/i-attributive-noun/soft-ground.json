@@ -1,0 +1,13 @@
+{
+  "_id": "qs5cf18zi5",
+  "name": "soft-ground",
+  "params": {
+    "iadj": "soft",
+    "noun": "ground"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "aful9fy9sdp",
+  "name": "nervousness-get-used-to",
+  "params": {
+    "noun": "nervousness",
+    "verb": "get-used-to"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "gr81q78xonm",
+  "name": "ground-road",
+  "params": {
+    "noun": "ground",
+    "owner": "road"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -4,7 +4,8 @@
   "name": "corner",
   "order": "3",
   "parents": [
-    "absolute-places"
+    "absolute-places",
+    "wago-countable"
   ],
   "props": {
     "en": "corner",

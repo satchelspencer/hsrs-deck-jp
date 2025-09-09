@@ -4,7 +4,8 @@
   "name": "part",
   "order": "4",
   "parents": [
-    "abstracts"
+    "abstracts",
+    "wago-countable"
   ],
   "props": {
     "en": "part",

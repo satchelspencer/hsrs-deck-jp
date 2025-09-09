@@ -1,0 +1,13 @@
+{
+  "_id": "dgr3mqj5ieu",
+  "name": "bunch-student",
+  "params": {
+    "noun": "bunch",
+    "owner": "student"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

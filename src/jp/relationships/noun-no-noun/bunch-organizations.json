@@ -1,0 +1,13 @@
+{
+  "_id": "21yce3nk63c",
+  "name": "bunch-organizations",
+  "params": {
+    "noun": "bunch",
+    "owner": "organizations"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

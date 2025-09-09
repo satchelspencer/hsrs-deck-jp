@@ -4,9 +4,12 @@
   "name": "leeway",
   "order": "4",
   "parents": [
-    "abstracts"
+    "abstracts",
+    "aruables",
+    "no-attr-nouns"
   ],
   "props": {
+    "_at": "leeway having",
     "en": "leeway",
     "jp": "余裕",
     "tl": "よゆう"

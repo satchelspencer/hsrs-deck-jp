@@ -1,0 +1,13 @@
+{
+  "_id": "wh2rdszpjwg",
+  "name": "nervousness-make",
+  "params": {
+    "noun": "nervousness",
+    "verb": "make"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

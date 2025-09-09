@@ -1,0 +1,13 @@
+{
+  "_id": "t3s16rnj5da",
+  "name": "school-distant-future",
+  "params": {
+    "noun": "school",
+    "owner": "distant-future"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

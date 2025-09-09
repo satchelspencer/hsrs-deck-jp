@@ -1,0 +1,13 @@
+{
+  "_id": "w9a883arvd",
+  "name": "joke-way-of-saying",
+  "params": {
+    "no": "joke",
+    "noun": "way-of-saying"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

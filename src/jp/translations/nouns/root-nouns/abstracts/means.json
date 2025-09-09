@@ -4,7 +4,8 @@
   "name": "means",
   "order": "4",
   "parents": [
-    "abstracts"
+    "abstracts",
+    "wago-countable"
   ],
   "props": {
     "en": "means",

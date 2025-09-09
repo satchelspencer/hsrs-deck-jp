@@ -6,7 +6,8 @@
     "objects",
     "akeru-shimeru",
     "pullables",
-    "mai-countable"
+    "mai-countable",
+    "wago-countable"
   ],
   "props": {
     "en": "door",

@@ -1,0 +1,13 @@
+{
+  "_id": "4ztdiki1iog",
+  "name": "nervousness-get-it-wrong",
+  "params": {
+    "noun": "nervousness",
+    "verb": "get-it-wrong"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

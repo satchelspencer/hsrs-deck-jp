@@ -1,0 +1,13 @@
+{
+  "_id": "t9sp0i4zgoi",
+  "name": "share-be-past",
+  "params": {
+    "noun": "share",
+    "verb": "be-past"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

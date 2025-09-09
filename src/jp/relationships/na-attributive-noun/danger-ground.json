@@ -1,0 +1,13 @@
+{
+  "_id": "6jcv3t6gdbb",
+  "name": "danger-ground",
+  "params": {
+    "na": "danger",
+    "noun": "ground"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "hyswhj00ebv",
+  "name": "leeway-be-deprived",
+  "params": {
+    "noun": "leeway",
+    "verb": "be-deprived"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

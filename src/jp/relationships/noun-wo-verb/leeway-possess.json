@@ -1,0 +1,13 @@
+{
+  "_id": "3kw6p1wawoi",
+  "name": "leeway-possess",
+  "params": {
+    "noun": "leeway",
+    "verb": "possess"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

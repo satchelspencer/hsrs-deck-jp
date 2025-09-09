@@ -1,0 +1,13 @@
+{
+  "_id": "awd76htlciw",
+  "name": "comrade-bunch",
+  "params": {
+    "noun": "comrade",
+    "owner": "bunch"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}
