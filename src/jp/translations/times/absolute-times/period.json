@@ -4,7 +4,8 @@
   "name": "period",
   "order": "4",
   "parents": [
-    "absolute-times"
+    "absolute-times",
+    "abstracts"
   ],
   "props": {
     "en": "period",

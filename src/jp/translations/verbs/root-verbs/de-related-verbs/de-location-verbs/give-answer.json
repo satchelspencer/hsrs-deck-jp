@@ -6,7 +6,8 @@
   "parents": [
     "de-location-verbs",
     "ichidan",
-    "people-do-volitional"
+    "people-do-volitional",
+    "do-to-quote"
   ],
   "props": {
     "en": "give answer",

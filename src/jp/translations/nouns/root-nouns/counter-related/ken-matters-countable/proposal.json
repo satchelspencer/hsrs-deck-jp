@@ -7,12 +7,13 @@
     "ken-matters-countable",
     "activities",
     "wago-countable",
-    "do-to-quote",
+    "do-to-subclause",
     "suru-nouns",
-    "people-do"
+    "people-do",
+    "te-iru-verbs-continuous"
   ],
   "props": {
-    "_pg": "",
+    "_pg": "proposing",
     "_v": "propose",
     "en": "proposal",
     "jp": "提案",

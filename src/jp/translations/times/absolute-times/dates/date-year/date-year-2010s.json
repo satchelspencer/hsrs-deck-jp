@@ -12,7 +12,7 @@
   ],
   "props": {
     "en": "'201'+number.en",
-    "jp": "('201'+number.en)|a+year.jp",
+    "jp": "('２０１'+number._fw)|a+year.jp",
     "tl": "('にせんじゅう'+number.tl)|a+year.tl"
   }
 }

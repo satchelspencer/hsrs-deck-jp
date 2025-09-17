@@ -4,9 +4,11 @@
   "name": "reality",
   "order": "4",
   "parents": [
-    "abstracts"
+    "abstracts",
+    "no-attr-nouns"
   ],
   "props": {
+    "_at": "real-world",
     "en": "reality",
     "jp": "現実",
     "tl": "げんじつ"

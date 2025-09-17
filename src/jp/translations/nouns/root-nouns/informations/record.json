@@ -7,10 +7,11 @@
     "informations",
     "do-to-quote",
     "suru-nouns",
-    "people-do"
+    "people-do",
+    "te-iru-verbs-continuous"
   ],
   "props": {
-    "_pg": "",
+    "_pg": "recording it",
     "_v": "record it",
     "en": "record",
     "jp": "記録",

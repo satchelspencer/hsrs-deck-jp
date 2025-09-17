@@ -6,7 +6,9 @@
   "parents": [
     "suru-nouns",
     "te-iru-verbs-continuous",
-    "people-do-volitional"
+    "people-do-volitional",
+    "people-no",
+    "de-location-verbs"
   ],
   "props": {
     "_pg": "enduring",

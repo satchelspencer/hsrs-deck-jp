@@ -4,7 +4,9 @@
   "name": "bygone-days",
   "order": "4",
   "parents": [
-    "relative-time-exprs"
+    "relative-time-exprs",
+    "abstracts",
+    "people-no"
   ],
   "props": {
     "en": "bygone days",

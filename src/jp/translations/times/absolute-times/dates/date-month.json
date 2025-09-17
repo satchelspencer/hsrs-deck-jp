@@ -11,7 +11,7 @@
   ],
   "props": {
     "en": "month.en",
-    "jp": "month.number.en+'月'",
+    "jp": "month.number._fw+'月'",
     "tl": "month.tl"
   }
 }

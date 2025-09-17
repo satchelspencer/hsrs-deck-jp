@@ -4,7 +4,8 @@
   "name": "a-sign",
   "order": "4",
   "parents": [
-    "abstracts"
+    "abstracts",
+    "people-no"
   ],
   "props": {
     "en": "a sign",

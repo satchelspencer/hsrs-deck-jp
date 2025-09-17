@@ -11,7 +11,7 @@
   ],
   "props": {
     "en": "'199'+number.en",
-    "jp": "('199'+number.en)|a+year.jp",
+    "jp": "('１９９'+number._fw)|a+year.jp",
     "tl": "('せんきゅうひゃくきゅうじゅう'+number.tl)|a+year.tl"
   }
 }

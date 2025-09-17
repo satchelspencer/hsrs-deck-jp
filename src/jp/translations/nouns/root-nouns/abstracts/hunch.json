@@ -4,9 +4,13 @@
   "name": "hunch",
   "order": "4",
   "parents": [
-    "abstracts"
+    "abstracts",
+    "people-do",
+    "suru-nouns"
   ],
   "props": {
+    "_pg": "having a hunch",
+    "_v": "have a hunch",
     "en": "hunch",
     "jp": "予感",
     "tl": "よかん"

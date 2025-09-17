@@ -3,7 +3,8 @@
   "name": "every-day",
   "order": "2",
   "parents": [
-    "continuing-times"
+    "continuing-times",
+    "abstracts"
   ],
   "props": {
     "en": "every day",

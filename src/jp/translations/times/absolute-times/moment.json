@@ -4,7 +4,8 @@
   "name": "moment",
   "order": "2",
   "parents": [
-    "absolute-times"
+    "absolute-times",
+    "abstracts"
   ],
   "props": {
     "en": "moment",

@@ -4,8 +4,7 @@
   "name": "answer",
   "order": "3",
   "parents": [
-    "informations",
-    "do-to-quote"
+    "informations"
   ],
   "props": {
     "en": "answer",
