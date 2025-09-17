@@ -1,0 +1,13 @@
+{
+  "_id": "ae8opgybda8",
+  "name": "content-email",
+  "params": {
+    "noun": "content",
+    "owner": "email"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

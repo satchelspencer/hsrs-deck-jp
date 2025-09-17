@@ -1,0 +1,13 @@
+{
+  "_id": "yxtvamat68f",
+  "name": "good-attitude",
+  "params": {
+    "iadj": "good",
+    "noun": "attitude"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

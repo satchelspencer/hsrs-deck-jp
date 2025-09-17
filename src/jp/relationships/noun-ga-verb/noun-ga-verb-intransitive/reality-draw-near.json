@@ -1,0 +1,13 @@
+{
+  "_id": "qrb735rzb2a",
+  "name": "reality-draw-near",
+  "params": {
+    "noun": "reality",
+    "verb": "draw-near"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

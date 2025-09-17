@@ -1,0 +1,13 @@
+{
+  "_id": "ergtkmutuhv",
+  "name": "bygone-days-look-back",
+  "params": {
+    "noun": "bygone-days",
+    "verb": "look-back"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

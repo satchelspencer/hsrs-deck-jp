@@ -1,0 +1,13 @@
+{
+  "_id": "fc7gaenegvu",
+  "name": "reality-task",
+  "params": {
+    "no": "reality",
+    "noun": "task"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

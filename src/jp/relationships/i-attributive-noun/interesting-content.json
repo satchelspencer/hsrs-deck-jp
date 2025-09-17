@@ -1,0 +1,13 @@
+{
+  "_id": "1qxnypleth3",
+  "name": "interesting-content",
+  "params": {
+    "iadj": "interesting",
+    "noun": "content"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

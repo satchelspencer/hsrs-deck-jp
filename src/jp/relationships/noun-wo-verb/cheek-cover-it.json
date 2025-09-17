@@ -1,0 +1,13 @@
+{
+  "_id": "zgjqborhbth",
+  "name": "cheek-cover-it",
+  "params": {
+    "noun": "cheek",
+    "verb": "conceal-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

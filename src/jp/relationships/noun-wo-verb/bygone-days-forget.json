@@ -1,0 +1,13 @@
+{
+  "_id": "v62pk0kflfi",
+  "name": "bygone-days-forget",
+  "params": {
+    "noun": "bygone-days",
+    "verb": "forget"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

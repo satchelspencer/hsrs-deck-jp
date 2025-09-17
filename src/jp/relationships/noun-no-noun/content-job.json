@@ -1,0 +1,13 @@
+{
+  "_id": "rrkqzrsbjqe",
+  "name": "content-job",
+  "params": {
+    "noun": "content",
+    "owner": "job"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

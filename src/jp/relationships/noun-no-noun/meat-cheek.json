@@ -1,0 +1,13 @@
+{
+  "_id": "et89l4uqhxg",
+  "name": "meat-cheek",
+  "params": {
+    "noun": "meat",
+    "owner": "cheek"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

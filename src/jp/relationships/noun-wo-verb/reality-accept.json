@@ -1,0 +1,13 @@
+{
+  "_id": "7glosm035mq",
+  "name": "reality-accept",
+  "params": {
+    "noun": "reality",
+    "verb": "accept"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

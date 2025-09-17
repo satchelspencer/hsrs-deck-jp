@@ -1,0 +1,13 @@
+{
+  "_id": "d285oat7ogv",
+  "name": "bygone-days-brush-against",
+  "params": {
+    "noun": "bygone-days",
+    "verb": "brush-against"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

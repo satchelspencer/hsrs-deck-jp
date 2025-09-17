@@ -1,0 +1,13 @@
+{
+  "_id": "pol6tc9otfk",
+  "name": "attitude-convey",
+  "params": {
+    "noun": "attitude",
+    "verb": "convey"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "l61i8cyabdf",
+  "name": "person-in-question-confirmation",
+  "params": {
+    "noun": "person-in-question",
+    "verb": "confirmation"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

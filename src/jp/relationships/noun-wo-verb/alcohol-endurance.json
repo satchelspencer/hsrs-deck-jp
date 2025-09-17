@@ -1,0 +1,13 @@
+{
+  "_id": "9aa91o9efr",
+  "name": "alcohol-endurance",
+  "params": {
+    "noun": "alcohol",
+    "verb": "endurance"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

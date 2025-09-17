@@ -1,0 +1,13 @@
+{
+  "_id": "v58za2uuv9c",
+  "name": "content-lecture",
+  "params": {
+    "noun": "content",
+    "owner": "lecture"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

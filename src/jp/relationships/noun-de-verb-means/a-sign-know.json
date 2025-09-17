@@ -1,0 +1,13 @@
+{
+  "_id": "f6osgvmck2f",
+  "name": "a-sign-know",
+  "params": {
+    "noun": "a-sign",
+    "verb": "know"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

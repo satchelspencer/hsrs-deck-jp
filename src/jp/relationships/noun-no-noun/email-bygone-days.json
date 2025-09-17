@@ -1,0 +1,13 @@
+{
+  "_id": "jstxd0ue51",
+  "name": "email-bygone-days",
+  "params": {
+    "noun": "email",
+    "owner": "bygone-days"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

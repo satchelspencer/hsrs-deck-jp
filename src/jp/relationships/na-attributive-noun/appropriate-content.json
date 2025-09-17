@@ -1,0 +1,13 @@
+{
+  "_id": "cads2puhjg",
+  "name": "appropriate-content",
+  "params": {
+    "na": "appropriate",
+    "noun": "content"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

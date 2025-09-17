@@ -1,0 +1,13 @@
+{
+  "_id": "g3bk23w55qv",
+  "name": "continuously-endurance",
+  "params": {
+    "adv": "continuously",
+    "verb": "endurance"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

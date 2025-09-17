@@ -1,0 +1,13 @@
+{
+  "_id": "9jnp8a9yaqn",
+  "name": "reality-turn-back",
+  "params": {
+    "noun": "reality",
+    "verb": "turn-back"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

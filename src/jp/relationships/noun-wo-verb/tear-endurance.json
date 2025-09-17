@@ -1,0 +1,13 @@
+{
+  "_id": "iocq4omvjxp",
+  "name": "tear-endurance",
+  "params": {
+    "noun": "tear",
+    "verb": "endurance"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

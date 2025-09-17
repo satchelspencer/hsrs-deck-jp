@@ -1,0 +1,13 @@
+{
+  "_id": "l02evi5gjc",
+  "name": "content-explanation",
+  "params": {
+    "noun": "content",
+    "verb": "explanation"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

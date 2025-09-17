@@ -1,0 +1,13 @@
+{
+  "_id": "rf9z2w9to6n",
+  "name": "attitude-become",
+  "params": {
+    "noun": "attitude",
+    "verb": "become"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

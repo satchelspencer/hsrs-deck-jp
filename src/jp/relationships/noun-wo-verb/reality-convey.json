@@ -1,0 +1,13 @@
+{
+  "_id": "mrlsw3qy7dn",
+  "name": "reality-convey",
+  "params": {
+    "noun": "reality",
+    "verb": "convey"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

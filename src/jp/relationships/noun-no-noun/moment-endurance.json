@@ -1,0 +1,13 @@
+{
+  "_id": "4i5clk34v9b",
+  "name": "moment-endurance",
+  "params": {
+    "noun": "moment",
+    "owner": "endurance"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

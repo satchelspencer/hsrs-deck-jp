@@ -1,0 +1,13 @@
+{
+  "_id": "sieiy59x7e",
+  "name": "reality-danger",
+  "params": {
+    "no": "reality",
+    "noun": "danger"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

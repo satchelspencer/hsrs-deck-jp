@@ -1,0 +1,13 @@
+{
+  "_id": "n79f571mu3",
+  "name": "color-cheek",
+  "params": {
+    "noun": "color",
+    "owner": "cheek"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

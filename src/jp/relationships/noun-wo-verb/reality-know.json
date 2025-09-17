@@ -1,0 +1,13 @@
+{
+  "_id": "5aeawb96p2",
+  "name": "reality-know",
+  "params": {
+    "noun": "reality",
+    "verb": "know"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "akyq68aqqk",
+  "name": "a-sign-feel-around",
+  "params": {
+    "noun": "a-sign",
+    "verb": "feel-around"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

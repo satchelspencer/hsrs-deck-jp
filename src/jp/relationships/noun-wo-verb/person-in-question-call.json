@@ -1,0 +1,13 @@
+{
+  "_id": "0zvy504ebb9",
+  "name": "person-in-question-call",
+  "params": {
+    "noun": "person-in-question",
+    "verb": "call"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

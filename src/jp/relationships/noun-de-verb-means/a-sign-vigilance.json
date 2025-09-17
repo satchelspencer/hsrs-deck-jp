@@ -1,0 +1,13 @@
+{
+  "_id": "dlpl4qp478g",
+  "name": "a-sign-vigilance",
+  "params": {
+    "noun": "a-sign",
+    "verb": "vigilance"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

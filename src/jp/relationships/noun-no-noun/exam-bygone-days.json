@@ -1,0 +1,13 @@
+{
+  "_id": "mgsjlzrfuq",
+  "name": "exam-bygone-days",
+  "params": {
+    "noun": "exam",
+    "owner": "bygone-days"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

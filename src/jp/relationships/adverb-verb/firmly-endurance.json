@@ -1,0 +1,13 @@
+{
+  "_id": "nk29xizorrc",
+  "name": "firmly-endurance",
+  "params": {
+    "adv": "firmly",
+    "verb": "endurance"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

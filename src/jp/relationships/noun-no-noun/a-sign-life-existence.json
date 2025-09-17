@@ -1,0 +1,13 @@
+{
+  "_id": "ioiu4dcd0t",
+  "name": "a-sign-life-existence",
+  "params": {
+    "noun": "a-sign",
+    "owner": "life-existence"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

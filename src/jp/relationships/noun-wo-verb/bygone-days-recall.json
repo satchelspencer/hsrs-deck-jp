@@ -1,0 +1,13 @@
+{
+  "_id": "h8bijnn4z0v",
+  "name": "bygone-days-recall",
+  "params": {
+    "noun": "bygone-days",
+    "verb": "recall"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

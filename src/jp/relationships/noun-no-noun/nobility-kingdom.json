@@ -1,0 +1,13 @@
+{
+  "_id": "etzu8ackef8",
+  "name": "nobility-kingdom",
+  "params": {
+    "noun": "nobility",
+    "owner": "kingdom"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

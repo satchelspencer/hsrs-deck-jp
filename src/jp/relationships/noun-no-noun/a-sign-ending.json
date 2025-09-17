@@ -1,0 +1,13 @@
+{
+  "_id": "g0zapb3xtp",
+  "name": "a-sign-ending",
+  "params": {
+    "noun": "a-sign",
+    "owner": "ending"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

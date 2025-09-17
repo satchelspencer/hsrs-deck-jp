@@ -1,0 +1,13 @@
+{
+  "_id": "rysj0q5y0pi",
+  "name": "a-sign-seasons",
+  "params": {
+    "noun": "a-sign",
+    "owner": "seasons"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

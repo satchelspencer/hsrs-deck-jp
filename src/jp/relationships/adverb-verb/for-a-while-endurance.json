@@ -1,0 +1,13 @@
+{
+  "_id": "ty500i5egd9",
+  "name": "for-a-while-endurance",
+  "params": {
+    "adv": "for-a-while",
+    "verb": "endurance"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

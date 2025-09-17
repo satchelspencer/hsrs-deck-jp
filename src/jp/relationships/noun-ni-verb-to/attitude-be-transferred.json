@@ -1,0 +1,13 @@
+{
+  "_id": "zb6t1uw5a2",
+  "name": "attitude-be-transferred",
+  "params": {
+    "noun": "attitude",
+    "verb": "be-transferred"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

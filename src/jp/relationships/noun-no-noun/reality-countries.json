@@ -1,0 +1,13 @@
+{
+  "_id": "ultz4uxafm",
+  "name": "reality-countries",
+  "params": {
+    "noun": "reality",
+    "owner": "countries"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

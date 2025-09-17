@@ -1,0 +1,13 @@
+{
+  "_id": "nyj1lizebb",
+  "name": "attitude-take",
+  "params": {
+    "noun": "attitude",
+    "verb": "take"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

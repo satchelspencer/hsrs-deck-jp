@@ -1,0 +1,13 @@
+{
+  "_id": "sqfwd5hq2ss",
+  "name": "content-story",
+  "params": {
+    "noun": "content",
+    "owner": "story"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

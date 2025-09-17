@@ -1,8 +1,8 @@
 {
-  "_id": "59bqolfkwmq",
-  "name": "switch-off-lightables",
+  "_id": "ox17s3q4vf",
+  "name": "a-sign-trurn-off",
   "params": {
-    "noun": "lightables",
+    "noun": "a-sign",
     "verb": "turn-off"
   },
   "parents": [

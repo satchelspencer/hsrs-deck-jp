@@ -1,0 +1,13 @@
+{
+  "_id": "ptizthgojeg",
+  "name": "laughter-endurance",
+  "params": {
+    "noun": "laughter",
+    "verb": "endurance"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

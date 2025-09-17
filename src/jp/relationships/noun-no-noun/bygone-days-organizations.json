@@ -1,0 +1,13 @@
+{
+  "_id": "q7vg6twny8",
+  "name": "bygone-days-organizations",
+  "params": {
+    "noun": "bygone-days",
+    "owner": "organizations"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

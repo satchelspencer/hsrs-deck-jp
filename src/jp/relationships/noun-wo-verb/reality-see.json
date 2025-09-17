@@ -1,0 +1,13 @@
+{
+  "_id": "3bq36032ycs",
+  "name": "reality-see",
+  "params": {
+    "noun": "reality",
+    "verb": "see"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

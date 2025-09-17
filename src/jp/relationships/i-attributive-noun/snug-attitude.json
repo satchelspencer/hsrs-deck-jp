@@ -1,0 +1,13 @@
+{
+  "_id": "796egr78zli",
+  "name": "snug-attitude",
+  "params": {
+    "iadj": "snug",
+    "noun": "attitude"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

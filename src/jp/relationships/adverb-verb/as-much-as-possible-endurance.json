@@ -1,0 +1,13 @@
+{
+  "_id": "nrpr2wp19oe",
+  "name": "as-much-as-possible-endurance",
+  "params": {
+    "adv": "as-much-as-possible",
+    "verb": "endurance"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

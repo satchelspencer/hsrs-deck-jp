@@ -1,0 +1,13 @@
+{
+  "_id": "ks62zb398de",
+  "name": "data-bygone-days",
+  "params": {
+    "noun": "data",
+    "owner": "bygone-days"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

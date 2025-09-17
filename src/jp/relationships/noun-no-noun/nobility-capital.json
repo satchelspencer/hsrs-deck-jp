@@ -1,0 +1,13 @@
+{
+  "_id": "9xncq67bsrb",
+  "name": "nobility-capital",
+  "params": {
+    "noun": "nobility",
+    "owner": "capital"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

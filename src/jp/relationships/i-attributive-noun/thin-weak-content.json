@@ -1,0 +1,13 @@
+{
+  "_id": "9ny6jpngtln",
+  "name": "thin-weak-content",
+  "params": {
+    "iadj": "thin-weak",
+    "noun": "content"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

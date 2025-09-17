@@ -1,0 +1,13 @@
+{
+  "_id": "9lfbvvp915k",
+  "name": "content-match-it",
+  "params": {
+    "noun": "content",
+    "verb": "match-it"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

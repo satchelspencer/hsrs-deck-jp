@@ -1,0 +1,13 @@
+{
+  "_id": "0pb1v8q863n",
+  "name": "strange-a-sign",
+  "params": {
+    "na": "strange",
+    "noun": "a-sign"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

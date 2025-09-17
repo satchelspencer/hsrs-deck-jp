@@ -1,0 +1,13 @@
+{
+  "_id": "x0zqvga0nqe",
+  "name": "attitude-relieve-it",
+  "params": {
+    "noun": "attitude",
+    "verb": "relieve-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

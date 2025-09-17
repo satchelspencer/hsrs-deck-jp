@@ -1,0 +1,13 @@
+{
+  "_id": "rn46tn9yzis",
+  "name": "quiet-a-sign",
+  "params": {
+    "na": "quiet",
+    "noun": "a-sign"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "7d30no6lt7q",
+  "name": "reality-problem",
+  "params": {
+    "no": "reality",
+    "noun": "problem"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

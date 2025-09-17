@@ -1,0 +1,13 @@
+{
+  "_id": "hmr0j83x3nh",
+  "name": "new-content",
+  "params": {
+    "iadj": "new",
+    "noun": "content"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

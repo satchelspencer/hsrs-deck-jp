@@ -1,0 +1,13 @@
+{
+  "_id": "ab1y5qsny58",
+  "name": "content-be-decreased",
+  "params": {
+    "noun": "content",
+    "verb": "be-decreased"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

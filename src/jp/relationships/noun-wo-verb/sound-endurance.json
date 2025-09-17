@@ -1,0 +1,13 @@
+{
+  "_id": "rx3zzb9b3p8",
+  "name": "sound-endurance",
+  "params": {
+    "noun": "sound",
+    "verb": "endurance"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

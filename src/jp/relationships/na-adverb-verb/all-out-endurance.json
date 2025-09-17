@@ -1,0 +1,13 @@
+{
+  "_id": "ljf1p7piry",
+  "name": "all-out-endurance",
+  "params": {
+    "na": "all-out",
+    "verb": "endurance"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

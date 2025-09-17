@@ -1,0 +1,13 @@
+{
+  "_id": "isu5gocs18a",
+  "name": "person-in-question-wait",
+  "params": {
+    "noun": "person-in-question",
+    "verb": "wait"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

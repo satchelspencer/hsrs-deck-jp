@@ -1,0 +1,13 @@
+{
+  "_id": "8yn4tv88xrn",
+  "name": "a-sign-chase-it",
+  "params": {
+    "noun": "a-sign",
+    "verb": "chase-it"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

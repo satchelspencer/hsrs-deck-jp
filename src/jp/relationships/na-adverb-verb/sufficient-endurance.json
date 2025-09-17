@@ -1,0 +1,13 @@
+{
+  "_id": "tsg32b866j",
+  "name": "sufficient-endurance",
+  "params": {
+    "na": "sufficient",
+    "verb": "endurance"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "ftvf3wd40q",
+  "name": "cold-touch-attitude",
+  "params": {
+    "iadj": "cold-touch",
+    "noun": "attitude"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "2056shb663n",
+  "name": "a-sign-feel-emotion",
+  "params": {
+    "noun": "a-sign",
+    "verb": "feel-emotion"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

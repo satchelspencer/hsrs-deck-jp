@@ -1,0 +1,13 @@
+{
+  "_id": "b4ycmroncbh",
+  "name": "attitude-solidify",
+  "params": {
+    "noun": "attitude",
+    "verb": "solidify"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "kvfbaxtpyv",
+  "name": "cheek-smack",
+  "params": {
+    "noun": "cheek",
+    "verb": "smack"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

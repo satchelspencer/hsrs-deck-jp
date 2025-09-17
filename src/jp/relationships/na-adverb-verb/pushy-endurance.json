@@ -1,0 +1,13 @@
+{
+  "_id": "btulv4xs7wj",
+  "name": "pushy-endurance",
+  "params": {
+    "na": "pushy",
+    "verb": "endurance"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

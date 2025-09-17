@@ -1,0 +1,13 @@
+{
+  "_id": "keskybgnwqb",
+  "name": "a-sign-be-turned-off",
+  "params": {
+    "noun": "a-sign",
+    "verb": "be-turned-off"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "z2ffejtupnc",
+  "name": "near-a-sign",
+  "params": {
+    "iadj": "near",
+    "noun": "a-sign"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

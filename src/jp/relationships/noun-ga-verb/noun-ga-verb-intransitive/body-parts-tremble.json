@@ -1,0 +1,13 @@
+{
+  "_id": "wu1r71u21n",
+  "name": "body-parts-tremble",
+  "params": {
+    "noun": "body-parts",
+    "verb": "tremble"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

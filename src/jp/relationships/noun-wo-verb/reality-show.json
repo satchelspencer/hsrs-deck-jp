@@ -1,0 +1,13 @@
+{
+  "_id": "9kx77of4v2n",
+  "name": "reality-show",
+  "params": {
+    "noun": "reality",
+    "verb": "show"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

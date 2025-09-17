@@ -1,0 +1,13 @@
+{
+  "_id": "jzhekkwcyk",
+  "name": "texture-cheek",
+  "params": {
+    "noun": "texture",
+    "owner": "cheek"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

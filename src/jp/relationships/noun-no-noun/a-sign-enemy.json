@@ -1,0 +1,13 @@
+{
+  "_id": "1pc7cub6zus",
+  "name": "a-sign-enemy",
+  "params": {
+    "noun": "a-sign",
+    "owner": "enemy"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

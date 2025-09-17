@@ -1,0 +1,13 @@
+{
+  "_id": "ooupyh7lf0s",
+  "name": "content-contract",
+  "params": {
+    "noun": "content",
+    "owner": "contract"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

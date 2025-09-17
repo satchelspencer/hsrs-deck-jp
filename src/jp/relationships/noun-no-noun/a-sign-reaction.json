@@ -1,0 +1,13 @@
+{
+  "_id": "e39o4h4wild",
+  "name": "a-sign-reaction",
+  "params": {
+    "noun": "a-sign",
+    "owner": "reaction"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

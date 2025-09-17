@@ -1,0 +1,13 @@
+{
+  "_id": "0ik7c2vcqouu",
+  "name": "check-content",
+  "params": {
+    "noun": "check",
+    "owner": "content"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

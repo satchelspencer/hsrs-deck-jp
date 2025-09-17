@@ -1,0 +1,13 @@
+{
+  "_id": "am1jrxs7htc",
+  "name": "attitude-be-conspicuous",
+  "params": {
+    "noun": "attitude",
+    "verb": "be-conspicuous"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

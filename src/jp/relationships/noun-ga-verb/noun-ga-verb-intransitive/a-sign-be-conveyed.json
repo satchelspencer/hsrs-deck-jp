@@ -1,0 +1,13 @@
+{
+  "_id": "f6drnwaoe3l",
+  "name": "a-sign-be-conveyed",
+  "params": {
+    "noun": "a-sign",
+    "verb": "be-conveyed"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

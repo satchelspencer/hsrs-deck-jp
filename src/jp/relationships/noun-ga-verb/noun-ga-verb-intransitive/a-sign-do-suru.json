@@ -1,0 +1,13 @@
+{
+  "_id": "rfbzftu70wm",
+  "name": "a-sign-do-suru",
+  "params": {
+    "noun": "a-sign",
+    "verb": "do-suru"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

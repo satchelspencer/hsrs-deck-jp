@@ -1,0 +1,13 @@
+{
+  "_id": "dx9drd869c",
+  "name": "content-confirmation",
+  "params": {
+    "noun": "content",
+    "verb": "confirmation"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

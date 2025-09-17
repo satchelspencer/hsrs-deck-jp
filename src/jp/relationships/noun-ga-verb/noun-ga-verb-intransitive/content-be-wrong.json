@@ -1,0 +1,13 @@
+{
+  "_id": "xtf88on5xm",
+  "name": "content-be-wrong",
+  "params": {
+    "noun": "content",
+    "verb": "be-wrong"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

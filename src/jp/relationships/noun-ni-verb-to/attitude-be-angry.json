@@ -1,0 +1,13 @@
+{
+  "_id": "ungc00s458",
+  "name": "attitude-be-angry",
+  "params": {
+    "noun": "attitude",
+    "verb": "be-angry"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

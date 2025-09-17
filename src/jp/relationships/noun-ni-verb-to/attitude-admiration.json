@@ -1,0 +1,13 @@
+{
+  "_id": "cw3azralpml",
+  "name": "attitude-admiration",
+  "params": {
+    "noun": "attitude",
+    "verb": "admiration"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

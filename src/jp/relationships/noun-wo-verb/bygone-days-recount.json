@@ -1,0 +1,13 @@
+{
+  "_id": "sesnljr1fxd",
+  "name": "bygone-days-recount",
+  "params": {
+    "noun": "bygone-days",
+    "verb": "recount"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

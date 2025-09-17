@@ -1,0 +1,13 @@
+{
+  "_id": "5xo6t7tuzd",
+  "name": "content-be-decided",
+  "params": {
+    "noun": "content",
+    "verb": "be-decided"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "gw129xy0kkw",
+  "name": "content-order",
+  "params": {
+    "noun": "content",
+    "owner": "order"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

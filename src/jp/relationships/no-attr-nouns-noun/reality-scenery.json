@@ -1,0 +1,13 @@
+{
+  "_id": "txlmzenqxl",
+  "name": "reality-scenery",
+  "params": {
+    "no": "reality",
+    "noun": "scenery"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "86l881s592a",
+  "name": "reality-do-suru",
+  "params": {
+    "noun": "reality",
+    "verb": "do-suru"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

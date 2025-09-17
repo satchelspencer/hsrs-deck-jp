@@ -1,0 +1,13 @@
+{
+  "_id": "8e7n58wvyve",
+  "name": "nobility-countries",
+  "params": {
+    "noun": "nobility",
+    "owner": "countries"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

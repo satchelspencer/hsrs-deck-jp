@@ -1,0 +1,13 @@
+{
+  "_id": "z85rzafvuei",
+  "name": "bygone-days-countries",
+  "params": {
+    "noun": "bygone-days",
+    "owner": "countries"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

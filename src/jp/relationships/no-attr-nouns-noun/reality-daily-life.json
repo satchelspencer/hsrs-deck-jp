@@ -1,0 +1,13 @@
+{
+  "_id": "tc6hriblca",
+  "name": "reality-daily-life",
+  "params": {
+    "no": "reality",
+    "noun": "daily-life"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "zvqzxajgp4j",
+  "name": "content-resemble",
+  "params": {
+    "noun": "content",
+    "verb": "resemble"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

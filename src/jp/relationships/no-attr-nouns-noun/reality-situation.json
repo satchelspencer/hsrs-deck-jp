@@ -1,0 +1,13 @@
+{
+  "_id": "vcn8jxb17d",
+  "name": "reality-situation",
+  "params": {
+    "no": "reality",
+    "noun": "situation"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

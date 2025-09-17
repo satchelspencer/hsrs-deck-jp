@@ -1,0 +1,13 @@
+{
+  "_id": "idncipqxffm",
+  "name": "bygone-days-accept",
+  "params": {
+    "noun": "bygone-days",
+    "verb": "accept"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

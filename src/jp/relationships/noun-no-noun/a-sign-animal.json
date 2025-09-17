@@ -1,0 +1,13 @@
+{
+  "_id": "i99m9ibb3d",
+  "name": "a-sign-animal",
+  "params": {
+    "noun": "a-sign",
+    "owner": "animal"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

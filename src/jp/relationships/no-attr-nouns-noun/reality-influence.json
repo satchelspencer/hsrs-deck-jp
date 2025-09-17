@@ -1,0 +1,13 @@
+{
+  "_id": "wm7p5t9m8f",
+  "name": "reality-influence",
+  "params": {
+    "no": "reality",
+    "noun": "influence"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "fmacdjpdhbt",
+  "name": "polite-na-attitude",
+  "params": {
+    "na": "polite-na",
+    "noun": "attitude"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

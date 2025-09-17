@@ -1,0 +1,13 @@
+{
+  "_id": "a8t20g8xrat",
+  "name": "cautious-endurance",
+  "params": {
+    "na": "cautious",
+    "verb": "endurance"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

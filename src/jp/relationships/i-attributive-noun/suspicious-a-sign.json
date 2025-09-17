@@ -1,0 +1,13 @@
+{
+  "_id": "4or3yxqsdjl",
+  "name": "suspicious-a-sign",
+  "params": {
+    "iadj": "suspicious",
+    "noun": "a-sign"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "ohbb8qj05um",
+  "name": "bad-attitude",
+  "params": {
+    "iadj": "bad",
+    "noun": "attitude"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

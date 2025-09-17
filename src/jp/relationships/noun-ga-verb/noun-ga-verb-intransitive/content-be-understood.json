@@ -1,0 +1,13 @@
+{
+  "_id": "fxs4vkund4c",
+  "name": "content-be-understood",
+  "params": {
+    "noun": "content",
+    "verb": "be-understood"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

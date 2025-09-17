@@ -1,0 +1,13 @@
+{
+  "_id": "hbxrpmy6vi4",
+  "name": "difficult-content",
+  "params": {
+    "iadj": "difficult",
+    "noun": "content"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

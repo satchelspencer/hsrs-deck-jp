@@ -1,0 +1,13 @@
+{
+  "_id": "64i7a298yuf",
+  "name": "a-sign-notice",
+  "params": {
+    "noun": "a-sign",
+    "verb": "notice"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

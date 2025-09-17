@@ -1,0 +1,13 @@
+{
+  "_id": "1gm2vtcyuje",
+  "name": "reality-appear",
+  "params": {
+    "noun": "reality",
+    "verb": "appear"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

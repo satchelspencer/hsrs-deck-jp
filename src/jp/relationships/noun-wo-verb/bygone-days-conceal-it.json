@@ -1,0 +1,13 @@
+{
+  "_id": "my2e3ip4bjm",
+  "name": "bygone-days-conceal-it",
+  "params": {
+    "noun": "bygone-days",
+    "verb": "conceal-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

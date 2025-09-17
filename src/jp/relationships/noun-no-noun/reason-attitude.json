@@ -1,0 +1,13 @@
+{
+  "_id": "2rwzlhpbb61",
+  "name": "reason-attitude",
+  "params": {
+    "noun": "reason",
+    "owner": "attitude"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

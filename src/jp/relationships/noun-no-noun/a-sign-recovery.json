@@ -1,0 +1,13 @@
+{
+  "_id": "wen28l80crp",
+  "name": "a-sign-recovery",
+  "params": {
+    "noun": "a-sign",
+    "owner": "recovery"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "r7r73hvgj5",
+  "name": "attitude-infer",
+  "params": {
+    "noun": "attitude",
+    "verb": "infer"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

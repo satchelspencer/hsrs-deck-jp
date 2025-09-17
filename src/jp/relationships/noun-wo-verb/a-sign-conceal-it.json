@@ -1,0 +1,13 @@
+{
+  "_id": "hbhun2yf5m",
+  "name": "a-sign-conceal-it",
+  "params": {
+    "noun": "a-sign",
+    "verb": "conceal-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

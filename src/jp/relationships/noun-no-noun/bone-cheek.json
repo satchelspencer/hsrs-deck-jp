@@ -1,0 +1,13 @@
+{
+  "_id": "4v4ipajrgm",
+  "name": "bone-cheek",
+  "params": {
+    "noun": "bone",
+    "owner": "cheek"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

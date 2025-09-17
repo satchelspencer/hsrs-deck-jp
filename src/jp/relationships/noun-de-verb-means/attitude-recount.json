@@ -1,0 +1,13 @@
+{
+  "_id": "0rrfnhzr1ijc",
+  "name": "attitude-recount",
+  "params": {
+    "noun": "attitude",
+    "verb": "recount"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

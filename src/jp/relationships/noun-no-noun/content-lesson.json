@@ -1,0 +1,13 @@
+{
+  "_id": "ga1n8l50une",
+  "name": "content-lesson",
+  "params": {
+    "noun": "content",
+    "owner": "lesson"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

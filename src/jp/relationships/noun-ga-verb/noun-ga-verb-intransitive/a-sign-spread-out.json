@@ -1,0 +1,13 @@
+{
+  "_id": "nih8mrvpppi",
+  "name": "a-sign-spread-out",
+  "params": {
+    "noun": "a-sign",
+    "verb": "spread-out"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

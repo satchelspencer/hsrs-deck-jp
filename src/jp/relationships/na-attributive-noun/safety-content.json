@@ -1,0 +1,13 @@
+{
+  "_id": "36vps1w93z1",
+  "name": "safety-content",
+  "params": {
+    "na": "safety",
+    "noun": "content"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

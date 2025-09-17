@@ -1,0 +1,13 @@
+{
+  "_id": "30l9nj70to1",
+  "name": "a-sign-kill",
+  "params": {
+    "noun": "a-sign",
+    "verb": "kill"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

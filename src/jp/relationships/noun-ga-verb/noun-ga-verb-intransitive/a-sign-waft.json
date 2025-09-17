@@ -1,0 +1,13 @@
+{
+  "_id": "9pa2hwt9uvd",
+  "name": "a-sign-waft",
+  "params": {
+    "noun": "a-sign",
+    "verb": "waft"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

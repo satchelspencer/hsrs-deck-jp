@@ -1,0 +1,13 @@
+{
+  "_id": "q2o8fp0cum",
+  "name": "content-read",
+  "params": {
+    "noun": "content",
+    "verb": "read"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

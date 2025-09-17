@@ -1,0 +1,13 @@
+{
+  "_id": "vffr47c9aie",
+  "name": "reality-recognize",
+  "params": {
+    "noun": "reality",
+    "verb": "recognize"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

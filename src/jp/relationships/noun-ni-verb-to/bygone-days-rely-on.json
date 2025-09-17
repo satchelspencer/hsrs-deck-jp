@@ -1,0 +1,13 @@
+{
+  "_id": "7u51k5y3xrc",
+  "name": "bygone-days-rely-on",
+  "params": {
+    "noun": "bygone-days",
+    "verb": "rely-on"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

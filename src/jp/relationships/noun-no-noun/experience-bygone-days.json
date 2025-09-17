@@ -1,0 +1,13 @@
+{
+  "_id": "k6c87nuhtiq",
+  "name": "experience-bygone-days",
+  "params": {
+    "noun": "experience",
+    "owner": "bygone-days"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

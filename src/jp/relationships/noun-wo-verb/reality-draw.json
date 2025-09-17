@@ -1,0 +1,13 @@
+{
+  "_id": "e400ww2efae",
+  "name": "reality-draw",
+  "params": {
+    "noun": "reality",
+    "verb": "draw"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

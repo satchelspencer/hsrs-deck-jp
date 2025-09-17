@@ -1,0 +1,13 @@
+{
+  "_id": "tlm6t0e9m8",
+  "name": "content-meeting",
+  "params": {
+    "noun": "content",
+    "owner": "meeting"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

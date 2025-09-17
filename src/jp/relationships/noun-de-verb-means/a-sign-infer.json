@@ -1,0 +1,13 @@
+{
+  "_id": "7xsiq6xncga",
+  "name": "a-sign-infer",
+  "params": {
+    "noun": "a-sign",
+    "verb": "infer"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

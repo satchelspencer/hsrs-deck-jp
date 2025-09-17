@@ -1,0 +1,13 @@
+{
+  "_id": "z311dd1b11a",
+  "name": "a-sign-appear",
+  "params": {
+    "noun": "a-sign",
+    "verb": "appear"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

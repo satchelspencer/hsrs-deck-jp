@@ -1,0 +1,13 @@
+{
+  "_id": "mvrg215av8",
+  "name": "a-sign-weather",
+  "params": {
+    "noun": "a-sign",
+    "owner": "falling-weather"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

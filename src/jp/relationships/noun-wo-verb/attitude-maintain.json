@@ -1,0 +1,13 @@
+{
+  "_id": "8mhjy6q67vq",
+  "name": "attitude-maintain",
+  "params": {
+    "noun": "attitude",
+    "verb": "maintain"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

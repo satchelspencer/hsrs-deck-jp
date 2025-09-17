@@ -1,0 +1,13 @@
+{
+  "_id": "hpo31iudi57",
+  "name": "a-sign-movement",
+  "params": {
+    "noun": "a-sign",
+    "owner": "movement"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

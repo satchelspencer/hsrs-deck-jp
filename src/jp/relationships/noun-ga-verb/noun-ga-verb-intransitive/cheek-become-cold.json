@@ -1,0 +1,13 @@
+{
+  "_id": "htkhy32caas",
+  "name": "cheek-become-cold",
+  "params": {
+    "noun": "cheek",
+    "verb": "become-cold"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "32qo4o4t39c",
+  "name": "attitude-be-surprised",
+  "params": {
+    "noun": "attitude",
+    "verb": "be-surprised"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

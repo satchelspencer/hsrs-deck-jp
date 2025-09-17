@@ -1,0 +1,13 @@
+{
+  "_id": "a4grirl18l",
+  "name": "weak-a-sign",
+  "params": {
+    "iadj": "weak",
+    "noun": "a-sign"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

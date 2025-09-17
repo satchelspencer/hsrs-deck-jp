@@ -1,0 +1,13 @@
+{
+  "_id": "wqe6pn7qfb",
+  "name": "attitude-be-changed",
+  "params": {
+    "noun": "attitude",
+    "verb": "be-changed"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

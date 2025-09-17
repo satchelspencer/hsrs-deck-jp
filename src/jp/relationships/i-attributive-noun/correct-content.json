@@ -1,0 +1,13 @@
+{
+  "_id": "lfqxx3syxer",
+  "name": "correct-content",
+  "params": {
+    "iadj": "correct",
+    "noun": "content"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

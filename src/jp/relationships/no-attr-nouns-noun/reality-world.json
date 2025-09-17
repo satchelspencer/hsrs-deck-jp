@@ -1,0 +1,13 @@
+{
+  "_id": "qqc619oxwp",
+  "name": "reality-world",
+  "params": {
+    "no": "reality",
+    "noun": "world"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

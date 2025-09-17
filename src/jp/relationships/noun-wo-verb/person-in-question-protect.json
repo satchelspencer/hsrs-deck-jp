@@ -1,0 +1,13 @@
+{
+  "_id": "5a2l62oewtf",
+  "name": "person-in-question-protect",
+  "params": {
+    "noun": "person-in-question",
+    "verb": "protect"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

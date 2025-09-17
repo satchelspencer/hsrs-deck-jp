@@ -1,0 +1,13 @@
+{
+  "_id": "tq4deft4lp",
+  "name": "old-content",
+  "params": {
+    "iadj": "old",
+    "noun": "content"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "o887cnnbvq9",
+  "name": "a-sign-variation",
+  "params": {
+    "noun": "a-sign",
+    "owner": "variation"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

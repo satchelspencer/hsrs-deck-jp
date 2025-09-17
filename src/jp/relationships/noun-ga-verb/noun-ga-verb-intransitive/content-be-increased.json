@@ -1,0 +1,13 @@
+{
+  "_id": "mi0g1frjii",
+  "name": "content-be-increased",
+  "params": {
+    "noun": "content",
+    "verb": "be-increased"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

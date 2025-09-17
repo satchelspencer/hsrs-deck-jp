@@ -1,0 +1,13 @@
+{
+  "_id": "sq088tvjrj",
+  "name": "long-content",
+  "params": {
+    "iadj": "long",
+    "noun": "content"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

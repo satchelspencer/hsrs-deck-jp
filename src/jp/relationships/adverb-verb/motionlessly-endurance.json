@@ -1,0 +1,13 @@
+{
+  "_id": "d1l1c8il884",
+  "name": "motionlessly-endurance",
+  "params": {
+    "adv": "motionlessly",
+    "verb": "endurance"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

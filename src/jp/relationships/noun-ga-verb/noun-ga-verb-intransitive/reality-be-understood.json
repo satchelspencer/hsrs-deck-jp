@@ -1,0 +1,13 @@
+{
+  "_id": "1mmyvev9nsy",
+  "name": "reality-be-understood",
+  "params": {
+    "noun": "reality",
+    "verb": "be-understood"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "ch3384e7si",
+  "name": "content-be-conveyed",
+  "params": {
+    "noun": "content",
+    "verb": "be-conveyed"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

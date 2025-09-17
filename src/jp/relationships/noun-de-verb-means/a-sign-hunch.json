@@ -1,0 +1,13 @@
+{
+  "_id": "v717frjnby",
+  "name": "a-sign-hunch",
+  "params": {
+    "noun": "a-sign",
+    "verb": "hunch"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

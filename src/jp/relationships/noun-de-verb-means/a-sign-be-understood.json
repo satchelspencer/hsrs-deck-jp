@@ -1,0 +1,13 @@
+{
+  "_id": "9a3sjdsb7ye",
+  "name": "a-sign-be-understood",
+  "params": {
+    "noun": "a-sign",
+    "verb": "be-understood"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

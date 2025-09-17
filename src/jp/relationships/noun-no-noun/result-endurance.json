@@ -1,0 +1,13 @@
+{
+  "_id": "hh7nuep9qr",
+  "name": "result-endurance",
+  "params": {
+    "noun": "result",
+    "owner": "endurance"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

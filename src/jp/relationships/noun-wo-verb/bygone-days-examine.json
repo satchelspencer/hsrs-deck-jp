@@ -1,0 +1,13 @@
+{
+  "_id": "t0asljheih",
+  "name": "bygone-days-examine",
+  "params": {
+    "noun": "bygone-days",
+    "verb": "examine"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "hjihuyitl3n",
+  "name": "content-report",
+  "params": {
+    "noun": "content",
+    "owner": "report"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

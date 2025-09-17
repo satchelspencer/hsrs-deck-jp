@@ -1,0 +1,13 @@
+{
+  "_id": "tyonvjqfj3",
+  "name": "bygone-days-acquire-knowledge",
+  "params": {
+    "noun": "bygone-days",
+    "verb": "acquire-knowledge"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

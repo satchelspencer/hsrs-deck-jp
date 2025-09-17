@@ -1,0 +1,13 @@
+{
+  "_id": "7fnd45bvtms",
+  "name": "soft-attitude",
+  "params": {
+    "iadj": "soft",
+    "noun": "attitude"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "jyiomj2739r",
+  "name": "a-sign-chase-it",
+  "params": {
+    "noun": "a-sign",
+    "verb": "chase-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

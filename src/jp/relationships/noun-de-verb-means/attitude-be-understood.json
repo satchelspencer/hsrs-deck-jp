@@ -1,0 +1,13 @@
+{
+  "_id": "93trr9g8lu",
+  "name": "attitude-be-understood",
+  "params": {
+    "noun": "attitude",
+    "verb": "be-understood"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

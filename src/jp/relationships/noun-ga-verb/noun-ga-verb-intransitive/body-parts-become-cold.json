@@ -1,0 +1,13 @@
+{
+  "_id": "8mzhzw45lyn",
+  "name": "body-parts-become-cold",
+  "params": {
+    "noun": "body-parts",
+    "verb": "become-cold"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

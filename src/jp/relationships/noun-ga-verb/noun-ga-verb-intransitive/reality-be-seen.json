@@ -1,0 +1,13 @@
+{
+  "_id": "92jxjt4er4",
+  "name": "reality-be-seen",
+  "params": {
+    "noun": "reality",
+    "verb": "be-seen"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

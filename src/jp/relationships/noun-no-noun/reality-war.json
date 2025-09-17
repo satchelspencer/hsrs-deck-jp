@@ -1,0 +1,13 @@
+{
+  "_id": "73v0el9ukyx",
+  "name": "reality-war",
+  "params": {
+    "noun": "reality",
+    "owner": "war"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

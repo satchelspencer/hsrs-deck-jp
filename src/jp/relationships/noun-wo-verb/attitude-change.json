@@ -1,0 +1,13 @@
+{
+  "_id": "4gfe4y6gv72",
+  "name": "attitude-change",
+  "params": {
+    "noun": "attitude",
+    "verb": "change"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

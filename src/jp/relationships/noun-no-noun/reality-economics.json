@@ -1,0 +1,13 @@
+{
+  "_id": "5dxranvtu26",
+  "name": "reality-economics",
+  "params": {
+    "noun": "reality",
+    "owner": "economics"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

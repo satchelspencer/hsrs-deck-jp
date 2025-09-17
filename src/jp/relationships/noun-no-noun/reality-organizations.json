@@ -1,0 +1,13 @@
+{
+  "_id": "5ga3zo3wpgj",
+  "name": "reality-organizations",
+  "params": {
+    "noun": "reality",
+    "owner": "organizations"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

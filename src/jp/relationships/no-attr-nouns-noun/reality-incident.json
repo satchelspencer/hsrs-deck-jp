@@ -1,0 +1,13 @@
+{
+  "_id": "8m73abz5zau",
+  "name": "reality-incident",
+  "params": {
+    "no": "reality",
+    "noun": "incident"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "hfrexhdzbkq",
+  "name": "a-sign-infer",
+  "params": {
+    "noun": "a-sign",
+    "verb": "infer"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

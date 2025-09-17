@@ -1,0 +1,13 @@
+{
+  "_id": "881msthv4si",
+  "name": "content-check",
+  "params": {
+    "noun": "content",
+    "verb": "check"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "yazkplrc17",
+  "name": "explanation-content",
+  "params": {
+    "noun": "explanation",
+    "owner": "content"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

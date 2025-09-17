@@ -1,0 +1,13 @@
+{
+  "_id": "syriw5ii0gk",
+  "name": "scent-endurance",
+  "params": {
+    "noun": "scent",
+    "verb": "endurance"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

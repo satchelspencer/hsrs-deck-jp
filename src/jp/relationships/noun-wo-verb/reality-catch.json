@@ -1,0 +1,13 @@
+{
+  "_id": "16owb4b0mue",
+  "name": "reality-catch",
+  "params": {
+    "noun": "reality",
+    "verb": "catch"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

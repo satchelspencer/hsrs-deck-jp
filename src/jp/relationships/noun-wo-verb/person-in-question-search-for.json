@@ -1,0 +1,13 @@
+{
+  "_id": "khulppkv25s",
+  "name": "person-in-question-search-for",
+  "params": {
+    "noun": "person-in-question",
+    "verb": "search-for"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

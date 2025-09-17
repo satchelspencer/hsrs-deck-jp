@@ -1,0 +1,13 @@
+{
+  "_id": "hd89pqja9f6",
+  "name": "desperate-endurance",
+  "params": {
+    "na": "desperate",
+    "verb": "endurance"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

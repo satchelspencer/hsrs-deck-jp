@@ -1,0 +1,13 @@
+{
+  "_id": "ojfqpnpj2p",
+  "name": "attitude-point-out",
+  "params": {
+    "noun": "attitude",
+    "verb": "point-out"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

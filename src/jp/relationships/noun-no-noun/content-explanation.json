@@ -1,0 +1,13 @@
+{
+  "_id": "u9c847u1a5",
+  "name": "content-explanation",
+  "params": {
+    "noun": "content",
+    "owner": "explanation"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

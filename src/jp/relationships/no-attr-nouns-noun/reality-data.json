@@ -1,0 +1,13 @@
+{
+  "_id": "j0mu0ymlxmo",
+  "name": "reality-data",
+  "params": {
+    "no": "reality",
+    "noun": "data"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

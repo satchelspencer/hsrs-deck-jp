@@ -1,0 +1,13 @@
+{
+  "_id": "xcuhddiqiri",
+  "name": "content-comprehension",
+  "params": {
+    "noun": "content",
+    "verb": "comprehension"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

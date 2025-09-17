@@ -1,0 +1,13 @@
+{
+  "_id": "hjn46vf02i7",
+  "name": "bygone-days-turn-back",
+  "params": {
+    "noun": "bygone-days",
+    "verb": "turn-back"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

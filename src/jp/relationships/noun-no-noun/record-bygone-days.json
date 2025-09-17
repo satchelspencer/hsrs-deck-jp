@@ -1,0 +1,13 @@
+{
+  "_id": "q013d9gnt4h",
+  "name": "record-bygone-days",
+  "params": {
+    "noun": "record",
+    "owner": "bygone-days"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

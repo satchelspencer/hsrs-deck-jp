@@ -1,0 +1,13 @@
+{
+  "_id": "1nefd0uhla1",
+  "name": "a-sign-danger",
+  "params": {
+    "noun": "a-sign",
+    "owner": "danger"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "xsx4zs3syp",
+  "name": "news-bygone-days",
+  "params": {
+    "noun": "news",
+    "owner": "bygone-days"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

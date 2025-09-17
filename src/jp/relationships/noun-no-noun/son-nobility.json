@@ -1,0 +1,13 @@
+{
+  "_id": "jia1dhnmvlh",
+  "name": "son-nobility",
+  "params": {
+    "noun": "son",
+    "owner": "nobility"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

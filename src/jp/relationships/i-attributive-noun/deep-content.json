@@ -1,0 +1,13 @@
+{
+  "_id": "n6yvl0w7i7i",
+  "name": "deep-content",
+  "params": {
+    "iadj": "deep",
+    "noun": "content"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

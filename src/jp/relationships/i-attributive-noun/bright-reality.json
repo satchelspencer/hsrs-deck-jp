@@ -1,0 +1,13 @@
+{
+  "_id": "y4hms034qsn",
+  "name": "bright-reality",
+  "params": {
+    "iadj": "bright",
+    "noun": "reality"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "mhbyd80n6df",
+  "name": "daily-life-nobility",
+  "params": {
+    "noun": "daily-life",
+    "owner": "nobility"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

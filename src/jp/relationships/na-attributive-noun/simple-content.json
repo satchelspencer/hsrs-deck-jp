@@ -1,0 +1,13 @@
+{
+  "_id": "g68fayrtms",
+  "name": "simple-content",
+  "params": {
+    "na": "simple",
+    "noun": "content"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

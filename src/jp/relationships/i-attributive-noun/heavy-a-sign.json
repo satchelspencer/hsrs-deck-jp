@@ -1,0 +1,13 @@
+{
+  "_id": "z3ae1s4dlxh",
+  "name": "heavy-a-sign",
+  "params": {
+    "iadj": "heavy",
+    "noun": "a-sign"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

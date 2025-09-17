@@ -1,0 +1,13 @@
+{
+  "_id": "oyhk7fsw84",
+  "name": "content-statement",
+  "params": {
+    "noun": "content",
+    "owner": "statement"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

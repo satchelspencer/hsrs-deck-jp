@@ -1,0 +1,13 @@
+{
+  "_id": "kedeumtcdkl",
+  "name": "quiet-endurance",
+  "params": {
+    "na": "quiet",
+    "verb": "endurance"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

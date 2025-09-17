@@ -1,0 +1,13 @@
+{
+  "_id": "4cdkmazvbqc",
+  "name": "a-sign-remain",
+  "params": {
+    "noun": "a-sign",
+    "verb": "remain"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "la8mhykr7gp",
+  "name": "a-sign-judgement",
+  "params": {
+    "noun": "a-sign",
+    "verb": "judgement"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

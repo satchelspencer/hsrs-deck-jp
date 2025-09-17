@@ -1,0 +1,13 @@
+{
+  "_id": "8tq338o8t8u",
+  "name": "attitude-show",
+  "params": {
+    "noun": "attitude",
+    "verb": "show"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

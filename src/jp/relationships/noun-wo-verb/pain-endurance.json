@@ -1,0 +1,13 @@
+{
+  "_id": "6fxyhofmod9",
+  "name": "pain-endurance",
+  "params": {
+    "noun": "pain",
+    "verb": "endurance"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

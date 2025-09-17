@@ -1,0 +1,13 @@
+{
+  "_id": "cf1hegsn3h",
+  "name": "reality-daily-life",
+  "params": {
+    "noun": "reality",
+    "owner": "daily-life"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

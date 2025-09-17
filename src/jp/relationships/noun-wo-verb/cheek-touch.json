@@ -1,0 +1,13 @@
+{
+  "_id": "99awcpj321b",
+  "name": "cheek-touch",
+  "params": {
+    "noun": "cheek",
+    "verb": "touch"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "806id01ysxc",
+  "name": "distant-reality",
+  "params": {
+    "iadj": "distant",
+    "noun": "reality"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "gr8vurii62t",
+  "name": "dark-reality",
+  "params": {
+    "iadj": "dark",
+    "noun": "reality"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

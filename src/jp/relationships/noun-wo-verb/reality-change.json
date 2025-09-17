@@ -1,0 +1,13 @@
+{
+  "_id": "9arhwgary5d",
+  "name": "reality-change",
+  "params": {
+    "noun": "reality",
+    "verb": "change"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

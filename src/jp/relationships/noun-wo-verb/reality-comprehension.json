@@ -1,0 +1,13 @@
+{
+  "_id": "mvpfia03ov",
+  "name": "reality-comprehension",
+  "params": {
+    "noun": "reality",
+    "verb": "comprehension"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

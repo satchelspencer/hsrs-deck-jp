@@ -1,0 +1,13 @@
+{
+  "_id": "gd8v1pjebyk",
+  "name": "brief-content",
+  "params": {
+    "iadj": "brief",
+    "noun": "content"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

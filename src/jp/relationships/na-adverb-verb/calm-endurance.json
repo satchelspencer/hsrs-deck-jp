@@ -1,0 +1,13 @@
+{
+  "_id": "7r8nfbg09zh",
+  "name": "calm-endurance",
+  "params": {
+    "na": "calm",
+    "verb": "endurance"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

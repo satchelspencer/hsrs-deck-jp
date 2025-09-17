@@ -1,0 +1,13 @@
+{
+  "_id": "m3xp0ebrd8p",
+  "name": "reality-politics",
+  "params": {
+    "noun": "reality",
+    "owner": "politics"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

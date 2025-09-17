@@ -1,0 +1,13 @@
+{
+  "_id": "j3h4y306nd8",
+  "name": "period-endurance",
+  "params": {
+    "noun": "period",
+    "owner": "endurance"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

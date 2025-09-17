@@ -1,0 +1,13 @@
+{
+  "_id": "kxd36ylv63k",
+  "name": "strict-attitude",
+  "params": {
+    "iadj": "strict",
+    "noun": "attitude"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

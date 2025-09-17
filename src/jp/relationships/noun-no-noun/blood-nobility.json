@@ -1,0 +1,13 @@
+{
+  "_id": "xng31m3aap",
+  "name": "blood-nobility",
+  "params": {
+    "noun": "blood",
+    "owner": "nobility"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

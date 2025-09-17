@@ -1,0 +1,13 @@
+{
+  "_id": "riwr6htgeco",
+  "name": "dark-bygone-days",
+  "params": {
+    "iadj": "dark",
+    "noun": "bygone-days"
+  },
+  "parents": [
+    "i-predonly-noun"
+  ],
+  "props": {
+  }
+}

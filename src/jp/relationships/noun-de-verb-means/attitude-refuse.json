@@ -1,0 +1,13 @@
+{
+  "_id": "kvu16gnjak",
+  "name": "attitude-refuse",
+  "params": {
+    "noun": "attitude",
+    "verb": "refuse"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

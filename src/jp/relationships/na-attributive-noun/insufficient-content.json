@@ -1,0 +1,13 @@
+{
+  "_id": "cdpvwuasrlq",
+  "name": "insufficient-content",
+  "params": {
+    "na": "insufficient",
+    "noun": "content"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

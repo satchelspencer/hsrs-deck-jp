@@ -1,0 +1,13 @@
+{
+  "_id": "pk1w5rk02sj",
+  "name": "attitude-pierce",
+  "params": {
+    "noun": "attitude",
+    "verb": "pierce"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

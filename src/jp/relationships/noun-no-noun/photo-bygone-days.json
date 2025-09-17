@@ -1,0 +1,13 @@
+{
+  "_id": "fyzgvu92g4l",
+  "name": "photo-bygone-days",
+  "params": {
+    "noun": "photo",
+    "owner": "bygone-days"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

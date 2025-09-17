@@ -1,0 +1,13 @@
+{
+  "_id": "0bfp6ne3a28",
+  "name": "reality-become",
+  "params": {
+    "noun": "reality",
+    "verb": "become"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

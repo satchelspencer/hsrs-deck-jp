@@ -1,0 +1,13 @@
+{
+  "_id": "u6cmjlyvb2",
+  "name": "content-plan",
+  "params": {
+    "noun": "content",
+    "owner": "plan"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

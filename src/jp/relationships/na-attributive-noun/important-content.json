@@ -1,0 +1,13 @@
+{
+  "_id": "sslt61mtwxg",
+  "name": "important-content",
+  "params": {
+    "na": "important-polite",
+    "noun": "content"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

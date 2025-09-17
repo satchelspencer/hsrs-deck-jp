@@ -1,0 +1,13 @@
+{
+  "_id": "o4oimpinw",
+  "name": "calm-attitude",
+  "params": {
+    "na": "calm",
+    "noun": "attitude"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

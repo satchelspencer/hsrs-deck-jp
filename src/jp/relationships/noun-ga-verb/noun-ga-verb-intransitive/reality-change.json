@@ -1,0 +1,13 @@
+{
+  "_id": "20wbeml6q9o",
+  "name": "reality-change",
+  "params": {
+    "noun": "reality",
+    "verb": "be-changed"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

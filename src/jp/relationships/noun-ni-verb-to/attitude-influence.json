@@ -1,0 +1,13 @@
+{
+  "_id": "5llxznt07ab",
+  "name": "attitude-influence",
+  "params": {
+    "noun": "attitude",
+    "verb": "influence"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

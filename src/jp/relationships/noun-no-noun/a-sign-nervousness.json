@@ -1,0 +1,13 @@
+{
+  "_id": "0mbfrnnrsyg",
+  "name": "a-sign-nervousness",
+  "params": {
+    "noun": "a-sign",
+    "owner": "nervousness"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

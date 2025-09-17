@@ -1,0 +1,13 @@
+{
+  "_id": "7s2shraba98",
+  "name": "reality-education",
+  "params": {
+    "noun": "reality",
+    "owner": "education"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

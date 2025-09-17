@@ -1,0 +1,13 @@
+{
+  "_id": "44hdkl0our3",
+  "name": "variation-attitude",
+  "params": {
+    "noun": "variation",
+    "owner": "attitude"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

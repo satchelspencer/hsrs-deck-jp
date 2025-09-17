@@ -1,0 +1,13 @@
+{
+  "_id": "62l4undgv1",
+  "name": "peculiar-attitude",
+  "params": {
+    "iadj": "peculiar",
+    "noun": "attitude"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "63r81fx2nmj",
+  "name": "problem-attitude",
+  "params": {
+    "noun": "problem",
+    "owner": "attitude"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}
