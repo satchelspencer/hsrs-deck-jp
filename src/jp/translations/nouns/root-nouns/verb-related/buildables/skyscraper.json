@@ -5,7 +5,7 @@
   "order": "3",
   "parents": [
     "buildables",
-    "absolute-places"
+    "places"
   ],
   "props": {
     "en": "skyscraper",

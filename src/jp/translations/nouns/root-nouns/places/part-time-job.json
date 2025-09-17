@@ -1,0 +1,12 @@
+{
+  "_id": "u99yxq3571o",
+  "name": "part-time-job",
+  "order": "2",
+  "parents": [
+    "places"
+  ],
+  "props": {
+    "en": "part time job",
+    "jp": "パート"
+  }
+}

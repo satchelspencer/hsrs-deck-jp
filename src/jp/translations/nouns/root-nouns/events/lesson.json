@@ -6,7 +6,7 @@
   "parents": [
     "events",
     "takeonables",
-    "absolute-places"
+    "places"
   ],
   "props": {
     "en": "lesson",

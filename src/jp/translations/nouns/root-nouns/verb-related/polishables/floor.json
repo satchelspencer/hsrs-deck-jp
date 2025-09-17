@@ -5,7 +5,7 @@
   "parents": [
     "polishables",
     "sitables",
-    "absolute-places"
+    "places"
   ],
   "props": {
     "en": "floor",

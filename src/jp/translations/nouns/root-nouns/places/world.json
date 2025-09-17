@@ -1,0 +1,14 @@
+{
+  "_id": "y70fdh546ei",
+  "desc": "the world, society, the universe",
+  "name": "world",
+  "order": "1",
+  "parents": [
+    "places"
+  ],
+  "props": {
+    "en": "world",
+    "jp": "世界",
+    "tl": "せかい"
+  }
+}

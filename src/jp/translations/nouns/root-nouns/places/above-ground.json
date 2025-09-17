@@ -1,0 +1,14 @@
+{
+  "_id": "5wwm97ya9p",
+  "desc": "on the surface",
+  "name": "above-ground",
+  "order": "4",
+  "parents": [
+    "places"
+  ],
+  "props": {
+    "en": "above ground",
+    "jp": "地上",
+    "tl": "ちじょう"
+  }
+}

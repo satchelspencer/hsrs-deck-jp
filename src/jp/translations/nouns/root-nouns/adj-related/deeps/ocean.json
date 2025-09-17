@@ -5,7 +5,7 @@
   "parents": [
     "deeps",
     "hot-cold-weather",
-    "absolute-places"
+    "places"
   ],
   "props": {
     "en": "ocean",

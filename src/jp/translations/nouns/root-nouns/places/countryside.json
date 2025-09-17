@@ -1,0 +1,14 @@
+{
+  "_id": "fxhykwfyrz",
+  "desc": "rural area, countryside, the sticks. hometown",
+  "name": "countryside",
+  "order": "3",
+  "parents": [
+    "places"
+  ],
+  "props": {
+    "en": "countryside",
+    "jp": "田舎",
+    "tl": "いなか"
+  }
+}

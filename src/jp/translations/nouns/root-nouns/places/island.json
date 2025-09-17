@@ -1,0 +1,13 @@
+{
+  "_id": "ijmz1q3m03",
+  "name": "island",
+  "order": "3",
+  "parents": [
+    "places"
+  ],
+  "props": {
+    "en": "island",
+    "jp": "島",
+    "tl": "しま"
+  }
+}

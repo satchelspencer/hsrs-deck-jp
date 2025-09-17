@@ -6,7 +6,7 @@
     "buildables",
     "high-low",
     "ken-buildings-countable",
-    "absolute-places"
+    "places"
   ],
   "props": {
     "en": "multi-story building",

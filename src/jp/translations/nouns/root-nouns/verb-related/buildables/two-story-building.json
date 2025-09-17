@@ -5,7 +5,7 @@
   "parents": [
     "buildables",
     "ken-buildings-countable",
-    "absolute-places"
+    "places"
   ],
   "props": {
     "en": "two story building",

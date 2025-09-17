@@ -1,0 +1,14 @@
+{
+  "_id": "ds99hgn6799",
+  "desc": "crossing, intersection",
+  "name": "intersection",
+  "order": "2",
+  "parents": [
+    "places"
+  ],
+  "props": {
+    "en": "intersection",
+    "jp": "交差点",
+    "tl": "こうさてん"
+  }
+}

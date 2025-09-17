@@ -1,0 +1,11 @@
+{
+  "_id": "d39mrossg9",
+  "name": "establishments",
+  "parents": [
+    "non-unique",
+    "places"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

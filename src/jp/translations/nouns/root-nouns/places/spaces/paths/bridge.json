@@ -1,0 +1,14 @@
+{
+  "_id": "bri6mh396sb",
+  "name": "bridge",
+  "order": "2",
+  "parents": [
+    "paths",
+    "places"
+  ],
+  "props": {
+    "en": "bridge",
+    "jp": "橋",
+    "tl": "はし"
+  }
+}

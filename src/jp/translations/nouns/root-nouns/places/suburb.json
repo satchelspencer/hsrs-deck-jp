@@ -1,0 +1,13 @@
+{
+  "_id": "l7dzww62dxm",
+  "name": "suburb",
+  "order": "3",
+  "parents": [
+    "places"
+  ],
+  "props": {
+    "en": "suburb",
+    "jp": "郊外",
+    "tl": "こうがい"
+  }
+}

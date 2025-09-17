@@ -1,0 +1,13 @@
+{
+  "_id": "1x762bg3hhi",
+  "name": "relative-places",
+  "params": {
+    "noun": "places"
+  },
+  "parents": [
+    "root-nouns"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

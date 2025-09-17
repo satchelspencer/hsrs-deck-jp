@@ -5,7 +5,7 @@
   "parents": [
     "climbables",
     "high-low",
-    "absolute-places"
+    "places"
   ],
   "props": {
     "en": "mountain",

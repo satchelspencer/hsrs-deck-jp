@@ -1,0 +1,13 @@
+{
+  "_id": "6qfrbywzem7",
+  "name": "village",
+  "order": "2",
+  "parents": [
+    "places"
+  ],
+  "props": {
+    "en": "village",
+    "jp": "村",
+    "tl": "むら"
+  }
+}

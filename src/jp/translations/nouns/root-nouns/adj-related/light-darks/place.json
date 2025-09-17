@@ -6,7 +6,7 @@
   "parents": [
     "light-darks",
     "kashou-countable",
-    "absolute-places"
+    "places"
   ],
   "props": {
     "en": "place",

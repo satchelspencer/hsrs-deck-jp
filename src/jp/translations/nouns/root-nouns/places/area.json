@@ -1,0 +1,14 @@
+{
+  "_id": "fr4ll39r22",
+  "desc": "area, vicinity, region. side, edge. circumstances",
+  "name": "area",
+  "order": "3",
+  "parents": [
+    "places"
+  ],
+  "props": {
+    "en": "area",
+    "jp": "辺",
+    "tl": "へん"
+  }
+}

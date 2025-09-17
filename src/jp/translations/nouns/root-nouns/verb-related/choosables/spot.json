@@ -6,7 +6,7 @@
   "parents": [
     "choosables",
     "kashou-countable",
-    "absolute-places"
+    "places"
   ],
   "props": {
     "en": "spot",

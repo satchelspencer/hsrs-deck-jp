@@ -1,0 +1,14 @@
+{
+  "_id": "4zpsndio6ya",
+  "desc": "wood, woods, forest, grove, copse, thicket",
+  "name": "woods",
+  "order": "4",
+  "parents": [
+    "places"
+  ],
+  "props": {
+    "en": "woods",
+    "jp": "林",
+    "tl": "はやし"
+  }
+}

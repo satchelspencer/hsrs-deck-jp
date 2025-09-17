@@ -6,7 +6,7 @@
   "parents": [
     "high-low",
     "kashou-countable",
-    "absolute-places"
+    "places"
   ],
   "props": {
     "en": "position",

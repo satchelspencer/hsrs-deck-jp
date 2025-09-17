@@ -5,7 +5,7 @@
   "order": "2",
   "parents": [
     "light-darks",
-    "absolute-places"
+    "places"
   ],
   "props": {
     "en": "town",

@@ -1,0 +1,15 @@
+{
+  "_id": "lm82j6dylmo",
+  "desc": "corner, edge. (street) corner, turning",
+  "name": "corner",
+  "order": "3",
+  "parents": [
+    "wago-countable",
+    "places"
+  ],
+  "props": {
+    "en": "corner",
+    "jp": "角",
+    "tl": "かど"
+  }
+}

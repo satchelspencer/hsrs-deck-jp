@@ -1,0 +1,13 @@
+{
+  "_id": "o7z7nstyt1p",
+  "name": "shinto-shrine",
+  "order": "3",
+  "parents": [
+    "places"
+  ],
+  "props": {
+    "en": "shinto shrine",
+    "jp": "神社",
+    "tl": "じんじゃ"
+  }
+}

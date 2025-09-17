@@ -5,7 +5,7 @@
   "order": "3",
   "parents": [
     "flowing",
-    "absolute-places"
+    "places"
   ],
   "props": {
     "en": "stream",

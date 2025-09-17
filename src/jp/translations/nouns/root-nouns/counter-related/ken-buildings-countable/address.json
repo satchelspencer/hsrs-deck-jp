@@ -5,7 +5,7 @@
   "order": "3",
   "parents": [
     "ken-buildings-countable",
-    "absolute-places"
+    "places"
   ],
   "props": {
     "en": "address",
