@@ -1,0 +1,13 @@
+{
+  "_id": "yo57ig4abms",
+  "name": "month-before-last",
+  "order": "2",
+  "parents": [
+    "wa-past-only-times"
+  ],
+  "props": {
+    "en": "month before last",
+    "jp": "先々月",
+    "tl": "せんせんげつ"
+  }
+}

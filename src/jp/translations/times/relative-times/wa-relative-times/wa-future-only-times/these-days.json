@@ -1,0 +1,13 @@
+{
+  "_id": "2d36jhum2w4",
+  "name": "these-days",
+  "order": "3",
+  "parents": [
+    "wa-future-only-times"
+  ],
+  "props": {
+    "_at": "these days'",
+    "en": "these days",
+    "jp": "このごろ"
+  }
+}

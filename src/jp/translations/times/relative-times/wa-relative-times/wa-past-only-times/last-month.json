@@ -1,0 +1,13 @@
+{
+  "_id": "ztw8f6p623p",
+  "name": "last-month",
+  "order": "1",
+  "parents": [
+    "wa-past-only-times"
+  ],
+  "props": {
+    "en": "last month",
+    "jp": "先月",
+    "tl": "せんげつ"
+  }
+}

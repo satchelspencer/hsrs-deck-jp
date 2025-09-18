@@ -3,7 +3,8 @@
   "name": "movement",
   "order": "3",
   "parents": [
-    "abstracts"
+    "abstracts",
+    "relative-time-no"
   ],
   "props": {
     "en": "movement",

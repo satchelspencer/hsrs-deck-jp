@@ -1,0 +1,14 @@
+{
+  "_id": "zatkg0ithw",
+  "desc": "right when, the instant...",
+  "name": "the-instant",
+  "order": "4",
+  "parents": [
+    "past-relative-time-exprs"
+  ],
+  "props": {
+    "en": "the instant",
+    "jp": "瞬間",
+    "tl": "しゅんかん"
+  }
+}

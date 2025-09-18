@@ -1,0 +1,14 @@
+{
+  "_id": "g2dmh0hv2ws",
+  "mode": "---s",
+  "name": "last-night",
+  "order": "2",
+  "parents": [
+    "wa-past-only-times"
+  ],
+  "props": {
+    "en": "last night",
+    "jp": "昨夜",
+    "tl": "ゆうべ"
+  }
+}

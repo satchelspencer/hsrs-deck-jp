@@ -1,0 +1,13 @@
+{
+  "_id": "tilch61oeu",
+  "name": "day-after-tomorrow",
+  "order": "2",
+  "parents": [
+    "wa-future-only-times"
+  ],
+  "props": {
+    "en": "day after tommorrow",
+    "jp": "明後日",
+    "tl": "あさって"
+  }
+}

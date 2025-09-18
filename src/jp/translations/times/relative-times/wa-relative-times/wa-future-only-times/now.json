@@ -1,0 +1,15 @@
+{
+  "_id": "821pcrpf7zn",
+  "desc": "now, the present time, just now, soon, immediately",
+  "name": "now",
+  "order": "1",
+  "parents": [
+    "wa-future-only-times"
+  ],
+  "props": {
+    "_at": "current",
+    "en": "now",
+    "jp": "今",
+    "tl": "いま"
+  }
+}

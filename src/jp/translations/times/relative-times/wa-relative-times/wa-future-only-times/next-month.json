@@ -1,0 +1,13 @@
+{
+  "_id": "qwseu8cvzks",
+  "name": "next-month",
+  "order": "1",
+  "parents": [
+    "wa-future-only-times"
+  ],
+  "props": {
+    "en": "next month",
+    "jp": "来月",
+    "tl": "らいげつ"
+  }
+}

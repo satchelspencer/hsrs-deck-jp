@@ -1,0 +1,14 @@
+{
+  "_id": "dryjv57l2co",
+  "mode": "---w",
+  "name": "last-year-written",
+  "order": "3",
+  "parents": [
+    "wa-past-only-times"
+  ],
+  "props": {
+    "en": "last year",
+    "jp": "昨年",
+    "tl": "さくねん"
+  }
+}

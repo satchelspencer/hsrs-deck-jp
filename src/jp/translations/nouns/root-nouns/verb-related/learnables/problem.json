@@ -6,7 +6,8 @@
   "parents": [
     "learnables",
     "choosables",
-    "wago-countable"
+    "wago-countable",
+    "relative-time-no"
   ],
   "props": {
     "en": "problem",

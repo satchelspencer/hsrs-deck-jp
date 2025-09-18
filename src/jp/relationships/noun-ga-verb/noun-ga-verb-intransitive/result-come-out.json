@@ -3,7 +3,7 @@
   "name": "result-come-out",
   "params": {
     "noun": "result",
-    "verb": "leave"
+    "verb": "come-out"
   },
   "parents": [
     "noun-ga-verb-intransitive"

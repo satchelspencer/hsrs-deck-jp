@@ -1,0 +1,18 @@
+{
+  "_id": "ddltcmx9h4a",
+  "desc": "going from inside to outside, leaving. often used metaphorically like the sun coming out",
+  "name": "come-out",
+  "order": "1",
+  "parents": [
+    "animals-do",
+    "do-to-places",
+    "ichidan",
+    "people-do-volitional",
+    "do-togethers"
+  ],
+  "props": {
+    "en": "come out",
+    "jp": "出る",
+    "tl": "でる"
+  }
+}

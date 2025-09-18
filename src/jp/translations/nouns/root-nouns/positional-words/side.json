@@ -1,0 +1,14 @@
+{
+  "_id": "rc19o856gfs",
+  "desc": "side in terms of position, beside",
+  "name": "side",
+  "order": "2",
+  "parents": [
+    "positional-words"
+  ],
+  "props": {
+    "en": "side",
+    "jp": "側",
+    "tl": "そば"
+  }
+}

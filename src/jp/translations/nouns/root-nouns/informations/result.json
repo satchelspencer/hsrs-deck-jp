@@ -4,7 +4,8 @@
   "name": "result",
   "order": "4",
   "parents": [
-    "informations"
+    "informations",
+    "relative-time-no"
   ],
   "props": {
     "en": "result",

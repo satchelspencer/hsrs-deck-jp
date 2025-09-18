@@ -4,9 +4,11 @@
   "name": "former",
   "order": "3",
   "parents": [
-    "no-attr-nouns"
+    "no-attr-nouns",
+    "verb-clause-adverbs"
   ],
   "props": {
+    "_ad": "formerly",
     "en": "former",
     "jp": "かつて"
   }

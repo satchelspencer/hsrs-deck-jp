@@ -3,7 +3,7 @@
   "name": "leeway-leave",
   "params": {
     "noun": "leeway",
-    "verb": "leave"
+    "verb": "come-out"
   },
   "parents": [
     "noun-ga-verb-intransitive"

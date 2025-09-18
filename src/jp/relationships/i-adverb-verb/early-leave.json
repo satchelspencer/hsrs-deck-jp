@@ -3,7 +3,7 @@
   "name": "early-leave",
   "params": {
     "iadj": "early",
-    "verb": "leave"
+    "verb": "come-out"
   },
   "parents": [
     "i-adverb-verb"

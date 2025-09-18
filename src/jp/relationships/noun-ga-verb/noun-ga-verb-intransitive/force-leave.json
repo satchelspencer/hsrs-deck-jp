@@ -3,7 +3,7 @@
   "name": "force-leave",
   "params": {
     "noun": "force",
-    "verb": "leave"
+    "verb": "come-out"
   },
   "parents": [
     "noun-ga-verb-intransitive"

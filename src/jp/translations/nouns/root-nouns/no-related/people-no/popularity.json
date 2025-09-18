@@ -4,7 +4,8 @@
   "name": "popularity",
   "order": "3",
   "parents": [
-    "people-no"
+    "people-no",
+    "relative-time-no"
   ],
   "props": {
     "en": "popularity",

@@ -5,7 +5,8 @@
   "order": "3",
   "parents": [
     "suru-nouns",
-    "people-do-volitional"
+    "people-do-volitional",
+    "relative-time-no"
   ],
   "props": {
     "_v": "make a scheme",

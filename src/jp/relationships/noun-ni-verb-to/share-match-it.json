@@ -3,7 +3,7 @@
   "name": "share-match-it",
   "params": {
     "noun": "share",
-    "verb": "match-it"
+    "verb": "be-matched"
   },
   "parents": [
     "noun-ni-verb-to"

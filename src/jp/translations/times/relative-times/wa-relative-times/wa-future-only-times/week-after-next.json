@@ -1,0 +1,12 @@
+{
+  "_id": "fmw2rioiks",
+  "name": "week-after-next",
+  "order": "2",
+  "parents": [
+    "wa-future-only-times"
+  ],
+  "props": {
+    "en": "week after next",
+    "jp": "再来週"
+  }
+}

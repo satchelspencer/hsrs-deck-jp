@@ -1,0 +1,13 @@
+{
+  "_id": "qgcpb04kfbn",
+  "name": "this-morning",
+  "order": "1",
+  "parents": [
+    "wa-any-times"
+  ],
+  "props": {
+    "en": "this morning",
+    "jp": "今朝",
+    "tl": "けさ"
+  }
+}

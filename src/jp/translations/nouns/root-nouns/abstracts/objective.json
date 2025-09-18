@@ -5,7 +5,8 @@
   "order": "4",
   "parents": [
     "abstracts",
-    "wago-countable"
+    "wago-countable",
+    "relative-time-no"
   ],
   "props": {
     "en": "objective",

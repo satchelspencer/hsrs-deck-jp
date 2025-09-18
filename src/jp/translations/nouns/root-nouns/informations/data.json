@@ -3,7 +3,8 @@
   "name": "data",
   "order": "3",
   "parents": [
-    "informations"
+    "informations",
+    "relative-time-no"
   ],
   "props": {
     "en": "data",

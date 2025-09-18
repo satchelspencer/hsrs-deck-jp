@@ -1,0 +1,13 @@
+{
+  "_id": "wpjz2mfo2kh",
+  "name": "while-still",
+  "order": "4",
+  "parents": [
+    "root-relative-time-exprs",
+    "teiru-relative-time-exprs"
+  ],
+  "props": {
+    "en": "while still",
+    "jp": "うちに"
+  }
+}

@@ -3,7 +3,8 @@
   "name": "situation",
   "order": "4",
   "parents": [
-    "good-bads"
+    "good-bads",
+    "relative-time-no"
   ],
   "props": {
     "en": "situation",

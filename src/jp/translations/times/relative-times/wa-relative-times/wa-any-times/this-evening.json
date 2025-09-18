@@ -1,0 +1,13 @@
+{
+  "_id": "sdirktvkftd",
+  "name": "this-evening",
+  "order": "1",
+  "parents": [
+    "wa-any-times"
+  ],
+  "props": {
+    "en": "this evening",
+    "jp": "今晩",
+    "tl": "こんばん"
+  }
+}

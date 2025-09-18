@@ -1,18 +1,17 @@
 {
   "_id": "0lt1g65zyxb",
-  "constraint": "form verb",
   "name": "time-ni-pronoun-clause",
   "order": "2",
   "params": {
     "clause": "pronoun-temporal-verb-clauses",
-    "rel": "verb-form-times"
+    "time": "ni-times"
   },
   "parents": [
     "pronoun-clauses",
     "common-ni-time"
   ],
   "props": {
-    "en": "'at '+rel.time.en+' '+clause.en",
-    "jp": "rel.time.jp+'に'+clause.jp"
+    "en": "'at '+time.en+' '+clause.en",
+    "jp": "time.jp+'に'+clause.jp"
   }
 }

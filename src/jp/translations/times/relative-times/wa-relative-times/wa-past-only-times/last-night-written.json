@@ -1,0 +1,14 @@
+{
+  "_id": "5al071zjmzg",
+  "mode": "---w",
+  "name": "last-night-written",
+  "order": "3",
+  "parents": [
+    "wa-past-only-times"
+  ],
+  "props": {
+    "en": "last night",
+    "jp": "昨夜",
+    "tl": "さくや"
+  }
+}

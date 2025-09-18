@@ -1,0 +1,15 @@
+{
+  "_id": "8b3ul0wjvfg",
+  "desc": "beginning, outset, first, onset",
+  "name": "beginning",
+  "order": "2",
+  "parents": [
+    "wa-past-only-times"
+  ],
+  "props": {
+    "_at": "beginning",
+    "en": "in the beginning",
+    "jp": "最初",
+    "tl": "さいしょ"
+  }
+}

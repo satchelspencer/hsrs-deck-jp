@@ -2,7 +2,8 @@
   "_id": "eq2n5sxpc4",
   "name": "sendables",
   "parents": [
-    "verb-related"
+    "verb-related",
+    "relative-time-no"
   ],
   "props": {
   },

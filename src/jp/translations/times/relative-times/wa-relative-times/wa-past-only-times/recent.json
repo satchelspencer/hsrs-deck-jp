@@ -1,0 +1,15 @@
+{
+  "_id": "paf0brb9uhc",
+  "desc": "recently, lately, these days, nowadays, right now",
+  "name": "recent",
+  "order": "2",
+  "parents": [
+    "wa-past-only-times"
+  ],
+  "props": {
+    "_at": "recent",
+    "en": "recently",
+    "jp": "最近",
+    "tl": "さいきん"
+  }
+}

@@ -6,7 +6,8 @@
   "parents": [
     "abstracts",
     "suru-nouns",
-    "te-iru-verbs-continuous"
+    "te-iru-verbs-continuous",
+    "relative-time-no"
   ],
   "props": {
     "_pg": "varying",

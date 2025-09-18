@@ -5,7 +5,8 @@
   "order": "1",
   "parents": [
     "readables",
-    "media"
+    "media",
+    "relative-time-no"
   ],
   "props": {
     "en": "story",

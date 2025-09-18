@@ -1,0 +1,17 @@
+{
+  "_id": "joi2wh4zvc",
+  "desc": "understanding, consent",
+  "name": "acknowledgement",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "people-do",
+    "do-to-informations"
+  ],
+  "props": {
+    "_v": "acknowledge",
+    "en": "acknowledgement",
+    "jp": "了解",
+    "tl": "りょうかい"
+  }
+}

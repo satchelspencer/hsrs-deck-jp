@@ -1,0 +1,13 @@
+{
+  "_id": "lpf27w3zf5",
+  "name": "day-before-yesterday",
+  "order": "2",
+  "parents": [
+    "wa-past-only-times"
+  ],
+  "props": {
+    "en": "day before yesterday",
+    "jp": "一昨日",
+    "tl": "おととい"
+  }
+}

@@ -4,7 +4,8 @@
   "name": "conditions",
   "order": "4",
   "parents": [
-    "abstracts"
+    "abstracts",
+    "relative-time-no"
   ],
   "props": {
     "en": "conditions",

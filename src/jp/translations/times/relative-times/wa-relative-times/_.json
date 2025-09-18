@@ -1,0 +1,12 @@
+{
+  "_id": "u7fc11m0w3l",
+  "name": "wa-relative-times",
+  "parents": [
+    "relative-times",
+    "no-attr-nouns"
+  ],
+  "props": {
+    "_at": "$.en+'\\'s'"
+  },
+  "virtual": true
+}

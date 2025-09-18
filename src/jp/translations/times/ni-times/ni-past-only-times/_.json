@@ -1,0 +1,12 @@
+{
+  "_id": "0pftlsocp2ep",
+  "mode": "-----p",
+  "name": "ni-past-only-times",
+  "parents": [
+    "ni-times",
+    "ni-past-times"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "cw9oajc47sn",
+  "name": "wa-relative-times-relative-time-no",
+  "params": {
+    "no": "wa-relative-times",
+    "noun": "relative-time-no"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "jkxk8a53sad",
+  "desc": "this time, now. next time, another time, shortly, soon",
+  "name": "next-time",
+  "order": "3",
+  "parents": [
+    "wa-future-only-times"
+  ],
+  "props": {
+    "en": "next time",
+    "jp": "今度",
+    "tl": "こんど"
+  }
+}

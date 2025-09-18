@@ -1,0 +1,13 @@
+{
+  "_id": "4dh2bbkufu1",
+  "name": "tomorrow",
+  "order": "1",
+  "parents": [
+    "wa-future-only-times"
+  ],
+  "props": {
+    "en": "tomorrow",
+    "jp": "明日",
+    "tl": "あした"
+  }
+}

@@ -3,7 +3,7 @@
   "name": "ambiance-match-it",
   "params": {
     "noun": "ambiance",
-    "verb": "match-it"
+    "verb": "be-matched"
   },
   "parents": [
     "noun-ni-verb-to"

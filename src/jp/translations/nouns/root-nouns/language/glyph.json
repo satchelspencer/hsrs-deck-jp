@@ -1,0 +1,15 @@
+{
+  "_id": "du4cfmy853t",
+  "desc": "character (esp. kanji), letter, written text",
+  "name": "glyph",
+  "order": "3",
+  "parents": [
+    "language",
+    "writeables"
+  ],
+  "props": {
+    "en": "glyph",
+    "jp": "字",
+    "tl": "じ"
+  }
+}

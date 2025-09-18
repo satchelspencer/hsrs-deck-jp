@@ -1,6 +1,6 @@
 {
   "_id": "rde71czbmy",
-  "desc": "as opposed to lies / errors",
+  "desc": "as opposed to lies / errors. objective",
   "name": "truth",
   "order": "4",
   "parents": [
@@ -8,7 +8,7 @@
   ],
   "props": {
     "en": "truth",
-    "jp": "真実",
-    "tl": "しんじつ"
+    "jp": "真~実",
+    "tl": "しん~じつ"
   }
 }

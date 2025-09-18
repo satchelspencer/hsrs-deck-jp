@@ -1,0 +1,16 @@
+{
+  "_id": "pa3ml65tm7d",
+  "desc": "truth, reality, actuality, fact. proper, right, correct, official. genuine, authentic, real, natural, veritable",
+  "name": "real",
+  "order": "1.2",
+  "parents": [
+    "na-nouns"
+  ],
+  "props": {
+    "_ad": "in reality",
+    "_at": "",
+    "en": "real",
+    "jp": "本当",
+    "tl": "ほんとう"
+  }
+}

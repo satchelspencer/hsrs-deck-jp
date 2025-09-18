@@ -9,7 +9,8 @@
     "te-iru-verbs-continuous",
     "de-location-verbs",
     "people-do-volitional",
-    "wago-countable"
+    "wago-countable",
+    "relative-time-no"
   ],
   "props": {
     "_pg": "making a plan",

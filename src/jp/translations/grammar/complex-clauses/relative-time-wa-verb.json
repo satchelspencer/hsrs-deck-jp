@@ -1,0 +1,18 @@
+{
+  "_id": "wuohyynta4g",
+  "desc": "は (or even just 、) is used rather than に for relative times like 今日",
+  "name": "relative-time-wa-verb",
+  "order": "2",
+  "params": {
+    "clause": "temporal-verb-clauses",
+    "rt": "wa-relative-times"
+  },
+  "parents": [
+    "complex-clauses"
+  ],
+  "props": {
+    "en": "clause.en+' '+rt.en",
+    "jp": "rt.jp+'は'+clause.jp",
+    "tl": "rt.tl+'わ'+clause.tl"
+  }
+}

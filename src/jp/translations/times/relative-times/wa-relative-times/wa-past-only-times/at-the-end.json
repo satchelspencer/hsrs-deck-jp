@@ -1,0 +1,15 @@
+{
+  "_id": "tjr68dht0p",
+  "desc": "end, conclusion. last, final, latest, most recent",
+  "name": "at-the-end",
+  "order": "2",
+  "parents": [
+    "wa-past-only-times"
+  ],
+  "props": {
+    "_at": "last",
+    "en": "at the end",
+    "jp": "最後",
+    "tl": "さいご"
+  }
+}

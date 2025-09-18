@@ -3,7 +3,7 @@
   "name": "joke-leave",
   "params": {
     "noun": "joke",
-    "verb": "leave"
+    "verb": "come-out"
   },
   "parents": [
     "noun-ga-verb-intransitive"

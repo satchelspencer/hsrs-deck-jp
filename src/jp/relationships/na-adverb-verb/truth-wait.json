@@ -2,7 +2,7 @@
   "_id": "iikvz8l6c8",
   "name": "truth-wait",
   "params": {
-    "na": "true",
+    "na": "real",
     "verb": "wait"
   },
   "parents": [

@@ -1,0 +1,13 @@
+{
+  "_id": "n8we84ybpmp",
+  "name": "yesterday",
+  "order": "1",
+  "parents": [
+    "wa-past-only-times"
+  ],
+  "props": {
+    "en": "yesterday",
+    "jp": "昨日",
+    "tl": "きのう"
+  }
+}
