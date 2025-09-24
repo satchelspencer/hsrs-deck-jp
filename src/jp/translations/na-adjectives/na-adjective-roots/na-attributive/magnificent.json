@@ -4,7 +4,8 @@
   "name": "magnificent",
   "order": "4",
   "parents": [
-    "na-attributive"
+    "na-attributive",
+    "na-people-do"
   ],
   "props": {
     "en": "magnificent",

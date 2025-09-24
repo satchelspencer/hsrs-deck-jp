@@ -5,7 +5,8 @@
   "parents": [
     "na-people",
     "suru-nouns",
-    "people-do"
+    "people-do",
+    "na-people-do"
   ],
   "props": {
     "_pg": "burdening",

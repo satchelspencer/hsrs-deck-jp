@@ -5,6 +5,7 @@
     "verbs"
   ],
   "props": {
+    "_n": "$._pg || 'doing '+$.en"
   },
   "virtual": true
 }

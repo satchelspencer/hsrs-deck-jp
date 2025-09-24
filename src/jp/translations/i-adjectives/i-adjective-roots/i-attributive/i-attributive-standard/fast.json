@@ -4,7 +4,8 @@
   "order": "3",
   "parents": [
     "i-attributive-standard",
-    "i-people"
+    "i-people",
+    "i-people-do"
   ],
   "props": {
     "_ad": "quickly",

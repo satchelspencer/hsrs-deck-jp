@@ -6,7 +6,8 @@
   "parents": [
     "na-place",
     "suru-nouns",
-    "people-do"
+    "people-do",
+    "na-people-do"
   ],
   "props": {
     "_ad": "with relief",

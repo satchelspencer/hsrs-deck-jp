@@ -3,7 +3,7 @@
   "name": "both-hands-align",
   "params": {
     "noun": "both-hands",
-    "verb": "align"
+    "verb": "align-it"
   },
   "parents": [
     "noun-wo-verb"

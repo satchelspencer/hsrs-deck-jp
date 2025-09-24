@@ -23,3 +23,4 @@ this deck is somewhat opinionated about certain aspects of japanese, and languag
   - `い-adjective adverb - verb`
   - ...particles like に, pronouns, counters etc, verb forms and past/future times, and many more.
 - pitch accent is not yet addressed, partially due to the limitations of current text-to-speech models.
+- modes are: [casual,polite][female,male][subbordinate,rude][spoken,written][affirmative,negative][past,nonpast]

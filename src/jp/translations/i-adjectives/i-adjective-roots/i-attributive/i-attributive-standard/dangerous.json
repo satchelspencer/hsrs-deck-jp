@@ -5,7 +5,8 @@
   "name": "dangerous",
   "order": "2",
   "parents": [
-    "i-attributive-standard"
+    "i-attributive-standard",
+    "i-people-do"
   ],
   "props": {
     "en": "dangerous",

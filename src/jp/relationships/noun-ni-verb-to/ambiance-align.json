@@ -3,7 +3,7 @@
   "name": "ambiance-align",
   "params": {
     "noun": "ambiance",
-    "verb": "align"
+    "verb": "align-it"
   },
   "parents": [
     "noun-ni-verb-to"

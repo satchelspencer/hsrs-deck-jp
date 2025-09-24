@@ -5,7 +5,8 @@
   "order": "1",
   "parents": [
     "na-attributive",
-    "na-people"
+    "na-people",
+    "na-people-do"
   ],
   "props": {
     "_ad": "awfully",

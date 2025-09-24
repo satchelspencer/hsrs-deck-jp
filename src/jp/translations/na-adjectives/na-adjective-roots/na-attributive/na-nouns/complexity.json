@@ -3,7 +3,8 @@
   "name": "complexity",
   "order": "3",
   "parents": [
-    "na-nouns"
+    "na-nouns",
+    "na-people-do"
   ],
   "props": {
     "_at": "complex",

@@ -1,14 +1,14 @@
 {
-  "_id": "g0ebm7q0qab",
-  "desc": "offender, culprit",
+  "_id": "nju8srriee",
+  "desc": "a person who generally does crimes",
   "name": "criminal",
-  "order": "4",
+  "order": "3",
   "parents": [
     "roles"
   ],
   "props": {
     "en": "criminal",
-    "jp": "犯人",
-    "tl": "はんにん"
+    "jp": "犯~罪~者",
+    "tl": "はん~ざい~しゃ"
   }
 }

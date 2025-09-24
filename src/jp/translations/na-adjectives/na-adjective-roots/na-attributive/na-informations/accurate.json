@@ -4,7 +4,8 @@
   "name": "accurate",
   "order": "4",
   "parents": [
-    "na-informations"
+    "na-informations",
+    "na-people-do"
   ],
   "props": {
     "en": "accurate",

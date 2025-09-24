@@ -3,7 +3,8 @@
   "name": "subtle",
   "order": "4",
   "parents": [
-    "na-attributive"
+    "na-attributive",
+    "na-people-do"
   ],
   "props": {
     "en": "subtle",

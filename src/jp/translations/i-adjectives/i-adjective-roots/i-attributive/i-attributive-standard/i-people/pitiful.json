@@ -4,7 +4,8 @@
   "name": "pitiful",
   "order": "4",
   "parents": [
-    "i-people"
+    "i-people",
+    "i-people-do"
   ],
   "props": {
     "en": "pitiful",

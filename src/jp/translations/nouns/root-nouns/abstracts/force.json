@@ -1,6 +1,6 @@
 {
   "_id": "imvcvwytje8",
-  "desc": "vigour",
+  "desc": "vigour, momentum",
   "name": "force",
   "order": "4",
   "parents": [
@@ -8,7 +8,7 @@
     "aruables"
   ],
   "props": {
-    "en": "force, momentum",
+    "en": "force",
     "jp": "勢い",
     "tl": "いきおい"
   }

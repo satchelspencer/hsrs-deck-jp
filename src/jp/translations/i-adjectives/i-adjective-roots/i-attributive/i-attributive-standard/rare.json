@@ -5,7 +5,8 @@
   "order": "3",
   "parents": [
     "i-attributive-standard",
-    "i-objects"
+    "i-objects",
+    "i-people-do"
   ],
   "props": {
     "en": "rare",

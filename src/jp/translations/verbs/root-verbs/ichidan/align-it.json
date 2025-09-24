@@ -1,7 +1,7 @@
 {
   "_id": "4tpjj03e9ho",
   "desc": "adjust, match",
-  "name": "align",
+  "name": "align-it",
   "order": "4",
   "parents": [
     "ichidan",
@@ -9,8 +9,8 @@
     "people-do-volitional"
   ],
   "props": {
-    "_pg": "",
-    "en": "align",
+    "_pg": "aligning it",
+    "en": "align it",
     "jp": "合わせる",
     "tl": "あわせる"
   }

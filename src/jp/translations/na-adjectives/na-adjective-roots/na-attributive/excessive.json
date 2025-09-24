@@ -4,7 +4,8 @@
   "name": "excessive",
   "order": "4",
   "parents": [
-    "na-attributive"
+    "na-attributive",
+    "na-people-do"
   ],
   "props": {
     "_ad": "excessively",

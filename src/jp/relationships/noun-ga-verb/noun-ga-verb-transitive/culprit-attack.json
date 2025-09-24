@@ -1,8 +1,8 @@
 {
   "_id": "0gxfx3coef57",
-  "name": "criminal-attack",
+  "name": "culprit-attack",
   "params": {
-    "noun": "criminal",
+    "noun": "culprit",
     "verb": "attack"
   },
   "parents": [

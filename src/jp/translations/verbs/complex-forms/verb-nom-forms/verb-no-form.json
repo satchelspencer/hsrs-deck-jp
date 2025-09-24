@@ -1,0 +1,17 @@
+{
+  "_id": "4dcoc5xv7a2",
+  "desc": "adding の to a verb turns it into a noun like \"the act of X-ing\"",
+  "mode": "C---**",
+  "name": "verb-no-form",
+  "order": "1",
+  "params": {
+    "plain": "plain"
+  },
+  "parents": [
+    "verb-nom-forms"
+  ],
+  "props": {
+    "en": "plain.verb._n",
+    "jp": "plain.jp+'の'"
+  }
+}

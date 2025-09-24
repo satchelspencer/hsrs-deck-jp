@@ -4,7 +4,8 @@
   "name": "normal",
   "order": "3",
   "parents": [
-    "na-people"
+    "na-people",
+    "na-people-do"
   ],
   "props": {
     "en": "normal",

@@ -4,7 +4,8 @@
   "name": "vexing",
   "order": "4",
   "parents": [
-    "i-attributive-standard"
+    "i-attributive-standard",
+    "i-people-do"
   ],
   "props": {
     "en": "vexing",

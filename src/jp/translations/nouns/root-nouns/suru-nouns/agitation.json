@@ -4,10 +4,12 @@
   "name": "agitation",
   "order": "4",
   "parents": [
-    "suru-nouns"
+    "suru-nouns",
+    "te-iru-verbs-state"
   ],
   "props": {
-    "_pg": "agitated",
+    "_pg": "",
+    "_st": "agitated",
     "_v": "get agitated",
     "en": "agitation",
     "jp": "動揺",

@@ -1,9 +1,9 @@
 {
   "_id": "nzxvvtofwpk",
-  "name": "bunch-criminal",
+  "name": "bunch-culprit",
   "params": {
     "noun": "bunch",
-    "owner": "criminal"
+    "owner": "culprit"
   },
   "parents": [
     "noun-no-noun"

@@ -4,7 +4,8 @@
   "name": "agonizing",
   "order": "3",
   "parents": [
-    "i-attributive-standard"
+    "i-attributive-standard",
+    "i-people-do"
   ],
   "props": {
     "en": "agonizing",

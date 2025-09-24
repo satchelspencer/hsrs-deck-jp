@@ -1,10 +1,10 @@
 {
   "_id": "9cqbukwyz9g",
-  "name": "suspicious-crimin",
+  "name": "suspicious-culprit",
   "order": "",
   "params": {
     "iadj": "suspicious",
-    "noun": "criminal"
+    "noun": "culprit"
   },
   "parents": [
     "i-attributive-noun"

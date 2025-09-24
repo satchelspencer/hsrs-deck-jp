@@ -4,7 +4,8 @@
   "name": "simple",
   "order": "2",
   "parents": [
-    "na-attributive"
+    "na-attributive",
+    "na-people-do"
   ],
   "props": {
     "_ad": "simply",

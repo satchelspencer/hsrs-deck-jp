@@ -1,0 +1,18 @@
+{
+  "_id": "v2u64zm25d",
+  "desc": "adding 事 to a verb is much like の, but more formal/written",
+  "mode": "P---**",
+  "name": "verb-koto-form",
+  "order": "2",
+  "params": {
+    "plain": "plain"
+  },
+  "parents": [
+    "verb-nom-forms"
+  ],
+  "props": {
+    "en": "plain.verb._n",
+    "jp": "plain.jp+'事'",
+    "tl": "plain.tl+'こと'"
+  }
+}

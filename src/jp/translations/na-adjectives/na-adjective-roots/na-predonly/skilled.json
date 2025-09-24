@@ -5,7 +5,8 @@
   "name": "skilled",
   "order": "2",
   "parents": [
-    "na-predonly"
+    "na-predonly",
+    "na-people-do"
   ],
   "props": {
     "_ad": "skillfully",

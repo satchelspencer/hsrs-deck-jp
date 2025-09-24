@@ -2,9 +2,10 @@
   "_id": "n2wnv5a2jgh",
   "desc": "strange",
   "name": "odd",
-  "order": "4",
+  "order": "3",
   "parents": [
-    "na-attributive"
+    "na-attributive",
+    "na-people-do"
   ],
   "props": {
     "en": "odd",

@@ -4,7 +4,8 @@
   "name": "anticipation",
   "order": "3",
   "parents": [
-    "na-activities-predonly"
+    "na-activities-predonly",
+    "na-people-do"
   ],
   "props": {
     "_at": "anticipated",

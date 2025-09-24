@@ -1,0 +1,19 @@
+{
+  "_id": "zfg78mshbvq",
+  "constraint": "verb na",
+  "name": "verb-no-na-adj-pred",
+  "order": "2",
+  "params": {
+    "form": "verb-nom-forms",
+    "naform": "na-predicate-forms",
+    "rel": "verb-no-na-adj"
+  },
+  "parents": [
+    "clauses",
+    "common-ga-sub"
+  ],
+  "props": {
+    "en": "form.en+' '+naform.en",
+    "jp": "form.jp+'が'+naform.jp"
+  }
+}

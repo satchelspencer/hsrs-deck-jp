@@ -5,7 +5,8 @@
   "order": "4",
   "parents": [
     "abstracts",
-    "na-attributive"
+    "na-attributive",
+    "na-people-do"
   ],
   "props": {
     "_at": "annoying",

@@ -1,8 +1,8 @@
 {
   "_id": "ibvce6gx09r",
-  "name": "criminal-search",
+  "name": "culprit-search",
   "params": {
-    "noun": "criminal",
+    "noun": "culprit",
     "verb": "search-for"
   },
   "parents": [

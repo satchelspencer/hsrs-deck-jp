@@ -1,0 +1,13 @@
+{
+  "_id": "588x76g9109",
+  "name": "na-people-do-people-do",
+  "params": {
+    "na": "na-people-do",
+    "verb": "people-do"
+  },
+  "parents": [
+    "verb-no-na-adj"
+  ],
+  "props": {
+  }
+}

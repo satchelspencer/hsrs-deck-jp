@@ -11,7 +11,7 @@
     "complex-clauses"
   ],
   "props": {
-    "en": "form.en+' that '+clause.en",
+    "en": "form.en+' that it '+clause.en",
     "jp": "clause.jp+b()+'と'+form.jp"
   }
 }

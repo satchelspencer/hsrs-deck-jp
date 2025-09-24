@@ -1,8 +1,8 @@
 {
   "_id": "uwbj376x0lj",
-  "name": "criminal-catch",
+  "name": "culprit-catch",
   "params": {
-    "noun": "criminal",
+    "noun": "culprit",
     "verb": "capture"
   },
   "parents": [

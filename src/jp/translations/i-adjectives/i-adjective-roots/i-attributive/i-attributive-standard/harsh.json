@@ -1,0 +1,14 @@
+{
+  "_id": "e8zgxrfshdv",
+  "desc": "intense, sometimes used for snug-clothing",
+  "name": "harsh",
+  "order": "4",
+  "parents": [
+    "i-attributive-standard",
+    "i-people-do"
+  ],
+  "props": {
+    "en": "harsh",
+    "jp": "きつい"
+  }
+}

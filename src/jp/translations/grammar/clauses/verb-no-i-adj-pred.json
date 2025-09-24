@@ -1,0 +1,19 @@
+{
+  "_id": "dpl514pr48a",
+  "constraint": "verb iadj",
+  "name": "verb-no-i-adj-pred",
+  "order": "2.1",
+  "params": {
+    "form": "verb-nom-forms",
+    "iform": "i-predicate-forms",
+    "rel": "verb-no-i-adj"
+  },
+  "parents": [
+    "clauses",
+    "common-ga-sub"
+  ],
+  "props": {
+    "en": "form.en+' '+iform.en",
+    "jp": "form.jp+'が'+iform.jp"
+  }
+}

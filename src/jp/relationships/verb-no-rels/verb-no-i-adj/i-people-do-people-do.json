@@ -1,0 +1,13 @@
+{
+  "_id": "72jz4nevvmh",
+  "name": "i-people-do-people-do",
+  "params": {
+    "iadj": "i-people-do",
+    "verb": "people-do"
+  },
+  "parents": [
+    "verb-no-i-adj"
+  ],
+  "props": {
+  }
+}

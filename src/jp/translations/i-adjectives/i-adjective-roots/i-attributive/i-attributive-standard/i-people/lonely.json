@@ -4,7 +4,8 @@
   "name": "lonely",
   "order": "3",
   "parents": [
-    "i-people"
+    "i-people",
+    "i-people-do"
   ],
   "props": {
     "en": "lonely",

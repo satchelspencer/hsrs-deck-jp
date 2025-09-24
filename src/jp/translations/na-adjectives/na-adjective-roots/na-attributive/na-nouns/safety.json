@@ -5,7 +5,8 @@
   "parents": [
     "na-nouns",
     "na-people",
-    "abstracts"
+    "abstracts",
+    "na-people-do"
   ],
   "props": {
     "_at": "safe",

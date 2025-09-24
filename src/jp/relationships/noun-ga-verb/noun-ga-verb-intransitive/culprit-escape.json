@@ -1,8 +1,8 @@
 {
   "_id": "511i59x114d",
-  "name": "criminal-escape",
+  "name": "culprit-escape",
   "params": {
-    "noun": "criminal",
+    "noun": "culprit",
     "verb": "escape"
   },
   "parents": [

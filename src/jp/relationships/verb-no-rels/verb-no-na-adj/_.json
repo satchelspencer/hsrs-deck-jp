@@ -1,0 +1,13 @@
+{
+  "_id": "grtys36d2h",
+  "name": "verb-no-na-adj",
+  "params": {
+    "na": "na-adjective-roots"
+  },
+  "parents": [
+    "verb-no-rels"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

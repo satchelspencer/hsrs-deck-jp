@@ -1,0 +1,14 @@
+{
+  "_id": "g0ebm7q0qab",
+  "desc": "criminal, offender for a specific case",
+  "name": "culprit",
+  "order": "4",
+  "parents": [
+    "roles"
+  ],
+  "props": {
+    "en": "culprit",
+    "jp": "犯人",
+    "tl": "はんにん"
+  }
+}

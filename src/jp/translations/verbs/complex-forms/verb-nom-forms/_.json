@@ -1,0 +1,10 @@
+{
+  "_id": "omeor66w23n",
+  "name": "verb-nom-forms",
+  "parents": [
+    "complex-forms"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

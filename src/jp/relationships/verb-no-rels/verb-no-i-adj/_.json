@@ -1,0 +1,13 @@
+{
+  "_id": "acnlq1uf7mv",
+  "name": "verb-no-i-adj",
+  "params": {
+    "iadj": "i-adjective-roots"
+  },
+  "parents": [
+    "verb-no-rels"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "s5u7p6wl0td",
+  "name": "verb-no-rels",
+  "params": {
+    "verb": "root-verbs"
+  },
+  "parents": [
+    "relationships"
+  ],
+  "props": {
+  },
+  "virtual": true
+}
