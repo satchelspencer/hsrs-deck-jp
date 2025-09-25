@@ -1,6 +1,5 @@
 {
   "_id": "ds3beeuotju",
-  "mode": "c",
   "name": "noun-plain",
   "order": "1.9",
   "params": {
@@ -8,7 +7,6 @@
   },
   "parents": [
     "noun-forms",
-    "ka-noun-forms",
     "noun-plain-forms"
   ],
   "props": {

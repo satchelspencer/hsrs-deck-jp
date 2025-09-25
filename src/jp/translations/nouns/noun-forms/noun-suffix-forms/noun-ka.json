@@ -8,7 +8,8 @@
   },
   "parents": [
     "noun-suffix-forms",
-    "common-ka"
+    "common-ka",
+    "noun-question-forms"
   ],
   "props": {
     "en": "form.en+e('?')",

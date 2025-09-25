@@ -1,0 +1,10 @@
+{
+  "_id": "wqbg1e0urql",
+  "name": "i-no-forms",
+  "parents": [
+    "i-adjective-forms"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

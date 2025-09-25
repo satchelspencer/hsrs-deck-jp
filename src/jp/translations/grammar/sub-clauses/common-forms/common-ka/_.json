@@ -1,6 +1,7 @@
 {
   "_id": "vptlme9we6t",
-  "desc": "か can mark a question, though you can opt for rising pitch or a ？ instead",
+  "desc": "か can mark a question with polite forms. can be used with causual but sounds pretty rough consider の instead",
+  "mode": "p",
   "name": "common-ka",
   "parents": [
     "common-forms"

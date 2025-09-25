@@ -5,7 +5,7 @@
   "order": "2",
   "params": {
     "clause": "temporal-verb-clauses",
-    "form": "verb-ka",
+    "form": "question-verb-forms",
     "qw": "time-question-words"
   },
   "parents": [

@@ -4,7 +4,7 @@
   "name": "question-i-adj-pred",
   "order": "1",
   "params": {
-    "iform": "i-adjective-ka",
+    "iform": "i-question-forms",
     "rel": "i-predicate-question"
   },
   "parents": [

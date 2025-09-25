@@ -10,10 +10,10 @@
     "i-adjective-forms",
     "i-desu-forms",
     "i-attributive-forms",
-    "i-ka-forms",
     "i-nda-forms",
     "i-yo-ne-forms",
-    "i-conjunctive-forms"
+    "i-conjunctive-forms",
+    "i-no-forms"
   ],
   "props": {
     "en": "iadj.en",

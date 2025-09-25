@@ -4,7 +4,7 @@
   "name": "question-ikura-noun",
   "order": "1",
   "params": {
-    "form": "noun-ka",
+    "form": "question-verb-forms",
     "noun": "products",
     "qw": "how-much"
   },

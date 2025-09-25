@@ -12,7 +12,8 @@
     "yo-noun-forms",
     "conjunctive-noun-forms",
     "noun-plain-forms",
-    "common-datta"
+    "common-datta",
+    "no-noun-forms"
   ],
   "props": {
     "en": "'was '+noun.en",

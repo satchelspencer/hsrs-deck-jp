@@ -1,0 +1,10 @@
+{
+  "_id": "88hmrs6gt6t",
+  "name": "no-verb-forms",
+  "parents": [
+    "form-subsets"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

@@ -4,7 +4,7 @@
   "name": "question-na-adj-pred",
   "order": "1",
   "params": {
-    "naform": "na-adjective-ka",
+    "naform": "na-question-forms",
     "rel": "na-predicate-question"
   },
   "parents": [

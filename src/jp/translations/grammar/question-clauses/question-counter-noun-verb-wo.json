@@ -6,7 +6,7 @@
   "params": {
     "counter": "counter-questions",
     "crel": "counter-noun",
-    "form": "verb-ka",
+    "form": "question-verb-forms",
     "vrel": "noun-wo-verb"
   },
   "parents": [

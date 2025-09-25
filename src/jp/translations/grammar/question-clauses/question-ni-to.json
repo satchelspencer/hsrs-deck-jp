@@ -4,7 +4,7 @@
   "name": "question-ni-to",
   "order": "1",
   "params": {
-    "form": "verb-ka",
+    "form": "question-verb-forms",
     "rel": "question-ni-verb-to"
   },
   "parents": [

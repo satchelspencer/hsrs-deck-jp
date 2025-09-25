@@ -1,0 +1,12 @@
+{
+  "_id": "pmdlkw2en2d",
+  "desc": "with plain nouns use な before の？",
+  "name": "common-no-plain-na",
+  "order": "2",
+  "parents": [
+    "common-no"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

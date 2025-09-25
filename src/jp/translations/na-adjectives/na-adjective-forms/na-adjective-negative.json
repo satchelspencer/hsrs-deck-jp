@@ -9,10 +9,10 @@
   "parents": [
     "na-adjective-forms",
     "na-attributive-forms",
-    "ka-na-forms",
     "nda-na-forms",
     "yo-ne-na-forms",
-    "na-plain-forms"
+    "na-plain-forms",
+    "no-na-forms"
   ],
   "props": {
     "en": "'not '+na._at",

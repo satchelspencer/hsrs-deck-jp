@@ -9,7 +9,8 @@
   "parents": [
     "i-adjective-forms",
     "i-predicate-forms",
-    "common-ka"
+    "common-ka",
+    "i-question-forms"
   ],
   "props": {
     "en": "form.en+e('?')",

@@ -1,0 +1,19 @@
+{
+  "_id": "89js65fchgl",
+  "constraint": "na",
+  "name": "na-adjective-no",
+  "order": "2",
+  "params": {
+    "form": "no-na-forms"
+  },
+  "parents": [
+    "common-no",
+    "na-suffix-forms",
+    "na-predicate-forms",
+    "na-question-forms"
+  ],
+  "props": {
+    "en": "form.en+e('?')",
+    "jp": "form.jp+'の？'"
+  }
+}

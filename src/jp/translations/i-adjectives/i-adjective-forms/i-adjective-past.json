@@ -12,7 +12,8 @@
     "i-desu-forms",
     "i-nda-forms",
     "i-yo-ne-forms",
-    "i-conjunctive-forms"
+    "i-conjunctive-forms",
+    "i-no-forms"
   ],
   "props": {
     "en": "'was '+ku.iadj.en",

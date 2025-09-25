@@ -1,0 +1,10 @@
+{
+  "_id": "r5r0pmpk31r",
+  "name": "i-question-forms",
+  "parents": [
+    "i-adjective-forms"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

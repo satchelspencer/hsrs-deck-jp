@@ -1,0 +1,18 @@
+{
+  "_id": "ibpkdgtvgv",
+  "constraint": "verb form",
+  "name": "verb-no",
+  "order": "2",
+  "params": {
+    "no": "no-verb-forms"
+  },
+  "parents": [
+    "suffix-forms",
+    "common-no",
+    "question-verb-forms"
+  ],
+  "props": {
+    "en": "no.en+e('?')",
+    "jp": "no.jp+'の？'"
+  }
+}

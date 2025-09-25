@@ -1,0 +1,18 @@
+{
+  "_id": "p3xm8s0r7ls",
+  "constraint": "noun",
+  "name": "noun-no",
+  "order": "2",
+  "params": {
+    "form": "no-noun-forms"
+  },
+  "parents": [
+    "common-no",
+    "noun-suffix-forms",
+    "noun-question-forms"
+  ],
+  "props": {
+    "en": "form.en+e('?')",
+    "jp": "form.jp+'の？'"
+  }
+}

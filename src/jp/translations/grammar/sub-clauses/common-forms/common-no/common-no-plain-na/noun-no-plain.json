@@ -1,0 +1,17 @@
+{
+  "_id": "0loib523kr6s",
+  "constraint": "noun",
+  "name": "noun-no-plain",
+  "params": {
+    "form": "noun-plain"
+  },
+  "parents": [
+    "common-no-plain-na",
+    "noun-suffix-forms",
+    "noun-question-forms"
+  ],
+  "props": {
+    "en": "form.en+e('?')",
+    "jp": "form.jp+'なの？'"
+  }
+}

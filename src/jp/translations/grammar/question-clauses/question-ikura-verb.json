@@ -4,7 +4,7 @@
   "name": "question-ikura-verb",
   "order": "2",
   "params": {
-    "form": "verb-ka",
+    "form": "question-verb-forms",
     "qw": "how-much",
     "verb": "ikura-verbs"
   },

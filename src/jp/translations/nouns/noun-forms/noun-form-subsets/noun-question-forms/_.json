@@ -1,0 +1,10 @@
+{
+  "_id": "b6u9ozve7fs",
+  "name": "noun-question-forms",
+  "parents": [
+    "noun-form-subsets"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

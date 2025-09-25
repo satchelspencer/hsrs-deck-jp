@@ -1,0 +1,18 @@
+{
+  "_id": "loarmkl3o1",
+  "constraint": "na",
+  "name": "na-adjective-no-plain",
+  "params": {
+    "form": "na-adjective-plain"
+  },
+  "parents": [
+    "common-no-plain-na",
+    "na-suffix-forms",
+    "na-predicate-forms",
+    "na-question-forms"
+  ],
+  "props": {
+    "en": "form.en+e('?')",
+    "jp": "form.jp+'なの？'"
+  }
+}

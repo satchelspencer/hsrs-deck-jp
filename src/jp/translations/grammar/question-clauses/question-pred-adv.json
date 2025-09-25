@@ -3,7 +3,7 @@
   "name": "question-pred-adv",
   "order": "2",
   "params": {
-    "ka": "noun-ka",
+    "ka": "noun-question-forms",
     "qw": "pred-adv-question-words"
   },
   "parents": [

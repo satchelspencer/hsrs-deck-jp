@@ -1,0 +1,19 @@
+{
+  "_id": "ecaohbql1hp",
+  "constraint": "iadj",
+  "name": "i-adjective-no",
+  "order": "2",
+  "params": {
+    "form": "i-no-forms"
+  },
+  "parents": [
+    "common-no",
+    "i-adjective-forms",
+    "i-predicate-forms",
+    "i-question-forms"
+  ],
+  "props": {
+    "en": "form.en+e('?')",
+    "jp": "form.jp+'の？'"
+  }
+}
