@@ -8,9 +8,16 @@
     "electrics",
     "audibles",
     "ringers",
-    "communication-methods"
+    "communication-methods",
+    "suru-nouns",
+    "ni-person-verbs",
+    "te-iru-verbs-continuous",
+    "de-location-verbs",
+    "people-do-volitional"
   ],
   "props": {
+    "_pg": "making a phone call",
+    "_v": "make a phone call",
     "en": "phone",
     "jp": "電話",
     "tl": "でんわ"

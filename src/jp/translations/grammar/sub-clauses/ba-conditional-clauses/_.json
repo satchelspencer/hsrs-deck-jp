@@ -3,7 +3,8 @@
   "desc": "ば marks causation like たら but in more general, when this generally is so then that",
   "name": "ba-conditional-clauses",
   "parents": [
-    "sub-clauses"
+    "sub-clauses",
+    "common-forms"
   ],
   "props": {
   },
