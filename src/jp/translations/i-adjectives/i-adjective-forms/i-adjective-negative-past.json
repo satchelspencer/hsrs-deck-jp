@@ -13,7 +13,8 @@
     "i-nda-forms",
     "i-yo-ne-forms",
     "i-conjunctive-forms",
-    "i-no-forms"
+    "i-no-forms",
+    "i-past-forms"
   ],
   "props": {
     "en": "'was not '+ku.iadj.en",

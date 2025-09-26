@@ -1,0 +1,16 @@
+{
+  "_id": "d9laecvgbcg",
+  "name": "na-adjective-tara",
+  "order": "3",
+  "params": {
+    "past": "na-past-forms"
+  },
+  "parents": [
+    "na-complex-forms",
+    "tara-conditional-clauses"
+  ],
+  "props": {
+    "en": "past.en|pr('was', 'when is')+' then,'",
+    "jp": "past.jp+'ら'"
+  }
+}

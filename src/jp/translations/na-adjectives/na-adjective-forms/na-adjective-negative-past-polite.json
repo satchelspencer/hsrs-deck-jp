@@ -11,7 +11,8 @@
     "na-predicate-forms",
     "ka-na-forms",
     "nda-na-forms",
-    "yo-ne-na-forms"
+    "yo-ne-na-forms",
+    "na-past-forms"
   ],
   "props": {
     "en": "'was not '+na._at",

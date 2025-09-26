@@ -11,7 +11,7 @@
   ],
   "props": {
     "en": "clause.en+' more than '+alt.rel.noun.en",
-    "jp": "clause.jp|rg(clause.rel.noun.jp+'が', clause.rel.noun.jp+'は'+alt.rel.noun.jp+'より')",
-    "tl": "clause.tl|rg(clause.rel.noun.tl+'が', clause.rel.noun.tl+'わ'+alt.rel.noun.tl+'より')"
+    "jp": "clause.jp|rg(clause.rel.noun.jp+'@が', clause.rel.noun.jp+'は'+alt.rel.noun.jp+'より')",
+    "tl": "clause.tl|rg(clause.rel.noun.tl+'@が', clause.rel.noun.tl+'わ'+alt.rel.noun.tl+'より')"
   }
 }

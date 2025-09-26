@@ -1,0 +1,15 @@
+{
+  "_id": "5xe7bjguszq",
+  "name": "moshi-conditonal-tara",
+  "order": "3",
+  "params": {
+    "tara": "tara-conditional-clauses"
+  },
+  "parents": [
+    "conjunctions"
+  ],
+  "props": {
+    "en": "tara.en|pr('when', 'if')",
+    "jp": "'もし'+tara.jp+'、'"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "_id": "xckhtw42zwh",
+  "name": "na-past-forms",
+  "parents": [
+    "na-form-subsets"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

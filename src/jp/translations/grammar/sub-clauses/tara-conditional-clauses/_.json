@@ -2,9 +2,11 @@
   "_id": "yhqgqobecrm",
   "desc": "たら marks one time causation, when this, then that. form by adding ら to the past tense",
   "name": "tara-conditional-clauses",
+  "order": "3",
   "parents": [
     "sub-clauses",
-    "common-forms"
+    "common-forms",
+    "conjunctions"
   ],
   "props": {
   },

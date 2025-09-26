@@ -3,7 +3,7 @@
   "constraint": "iadj",
   "mode": "----**",
   "name": "i-adjective-nara",
-  "order": "3",
+  "order": "2",
   "params": {
     "form": "i-desu-forms"
   },
@@ -12,7 +12,7 @@
     "nara-conditional-clauses"
   ],
   "props": {
-    "en": "'*if* '+form.en",
+    "en": "'*if* '+form.en+','",
     "jp": "form.jp+'なら'"
   }
 }

@@ -1,0 +1,10 @@
+{
+  "_id": "qpdw4kb0z",
+  "name": "noun-past-forms",
+  "parents": [
+    "noun-form-subsets"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

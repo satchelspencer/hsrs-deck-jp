@@ -9,7 +9,8 @@
   },
   "parents": [
     "polite-forms",
-    "yo-ne-verb-forms"
+    "yo-ne-verb-forms",
+    "past-forms"
   ],
   "props": {
     "en": "'did '+polite.en",

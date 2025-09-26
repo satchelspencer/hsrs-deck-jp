@@ -1,0 +1,16 @@
+{
+  "_id": "ntefpja3da",
+  "mode": "----*",
+  "name": "conjunctive-kedo-clause",
+  "order": "2",
+  "params": {
+    "clause": "conjuncting-clauses"
+  },
+  "parents": [
+    "conjunctions"
+  ],
+  "props": {
+    "en": "clause.en+' but,'",
+    "jp": "clause.jp+'けど、'"
+  }
+}

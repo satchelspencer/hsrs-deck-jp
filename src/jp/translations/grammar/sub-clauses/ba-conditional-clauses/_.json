@@ -2,9 +2,11 @@
   "_id": "9psjb44iz2w",
   "desc": "ば marks causation like たら but in more general, when this generally is so then that",
   "name": "ba-conditional-clauses",
+  "order": "4",
   "parents": [
     "sub-clauses",
-    "common-forms"
+    "common-forms",
+    "conjunctions"
   ],
   "props": {
   },

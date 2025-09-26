@@ -13,7 +13,8 @@
     "conjunctive-noun-forms",
     "noun-plain-forms",
     "common-datta",
-    "no-noun-forms"
+    "no-noun-forms",
+    "noun-past-forms"
   ],
   "props": {
     "en": "'was '+noun.en",

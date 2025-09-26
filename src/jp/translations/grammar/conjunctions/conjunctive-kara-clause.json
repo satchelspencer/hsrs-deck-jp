@@ -1,0 +1,16 @@
+{
+  "_id": "l3vop1uffmc",
+  "mode": "----*",
+  "name": "conjunctive-kara-clause",
+  "order": "2",
+  "params": {
+    "clause": "conjuncting-clauses"
+  },
+  "parents": [
+    "conjunctions"
+  ],
+  "props": {
+    "en": "'since '+clause.en+','",
+    "jp": "clause.jp+'から、'"
+  }
+}

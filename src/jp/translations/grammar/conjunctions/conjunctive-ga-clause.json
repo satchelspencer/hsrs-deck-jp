@@ -1,0 +1,16 @@
+{
+  "_id": "pjliw72y9fq",
+  "mode": "----*",
+  "name": "conjunctive-ga-clause",
+  "order": "2",
+  "params": {
+    "clause": "conjuncting-clauses"
+  },
+  "parents": [
+    "conjunctions"
+  ],
+  "props": {
+    "en": "clause.en+' however,'",
+    "jp": "clause.jp+'が、'"
+  }
+}

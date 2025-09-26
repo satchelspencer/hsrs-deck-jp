@@ -10,7 +10,8 @@
     "plain-forms",
     "nda-verb-forms",
     "yo-ne-verb-forms",
-    "relative-clause-verb-forms"
+    "relative-clause-verb-forms",
+    "past-forms"
   ],
   "props": {
     "en": "'did '+verb.en",

@@ -3,7 +3,7 @@
   "constraint": "noun",
   "mode": "----**",
   "name": "noun-nara",
-  "order": "3",
+  "order": "2",
   "params": {
     "form": "noun-plain-forms"
   },
@@ -12,7 +12,7 @@
     "nara-conditional-clauses"
   ],
   "props": {
-    "en": "'*if* '+form.en",
+    "en": "'*if* '+form.en+','",
     "jp": "form.jp+'なら'"
   }
 }

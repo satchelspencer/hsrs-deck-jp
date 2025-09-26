@@ -8,7 +8,8 @@
     "polite": "polite"
   },
   "parents": [
-    "polite-forms"
+    "polite-forms",
+    "past-forms"
   ],
   "props": {
     "en": "'didn\\'t '+polite.en",

@@ -14,7 +14,8 @@
     "conjunctive-na-forms",
     "na-plain-forms",
     "no-na-forms",
-    "common-datta"
+    "common-datta",
+    "na-past-forms"
   ],
   "props": {
     "en": "'was '+na._at",

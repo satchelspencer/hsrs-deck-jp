@@ -9,7 +9,8 @@
   },
   "parents": [
     "plain-forms",
-    "nda-verb-forms"
+    "nda-verb-forms",
+    "past-forms"
   ],
   "props": {
     "en": "negative.en|pr('not', 'didn\\'t')",

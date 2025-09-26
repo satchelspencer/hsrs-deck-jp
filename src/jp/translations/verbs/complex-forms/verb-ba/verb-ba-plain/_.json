@@ -9,7 +9,7 @@
     "verb-ba"
   ],
   "props": {
-    "en": "'generally if '+verb.en"
+    "en": "'generally if '+verb.en+','"
   },
   "virtual": true
 }

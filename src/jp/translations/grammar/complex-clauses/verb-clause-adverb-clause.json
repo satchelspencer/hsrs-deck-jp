@@ -1,7 +1,7 @@
 {
   "_id": "mp5xxqltdn",
   "name": "verb-clause-adverb-clause",
-  "order": "4",
+  "order": "2",
   "params": {
     "adv": "verb-clause-adverbs",
     "clause": "temporal-verb-clauses"

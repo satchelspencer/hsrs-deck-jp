@@ -11,7 +11,8 @@
     "na-predicate-forms",
     "ka-na-forms",
     "yo-ne-na-forms",
-    "conjunctive-na-forms"
+    "conjunctive-na-forms",
+    "na-past-forms"
   ],
   "props": {
     "en": "'was '+na._at",

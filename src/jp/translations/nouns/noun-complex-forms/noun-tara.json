@@ -1,18 +1,17 @@
 {
-  "_id": "na2h1mgs6e",
-  "constraint": "noun",
+  "_id": "dccglg07a77",
   "mode": "----**",
   "name": "noun-tara",
-  "order": "4",
+  "order": "3",
   "params": {
-    "past": "noun-forms"
+    "past": "noun-past-forms"
   },
   "parents": [
     "noun-complex-forms",
     "tara-conditional-clauses"
   ],
   "props": {
-    "en": ""
-  },
-  "virtual": true
+    "en": "past.en|pr('was', 'when is')+' then,'",
+    "jp": "past.jp+'ら'"
+  }
 }

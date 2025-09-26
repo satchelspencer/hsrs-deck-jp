@@ -1,0 +1,17 @@
+{
+  "_id": "ula4vuui4y",
+  "mode": "----**",
+  "name": "verb-tara",
+  "order": "3",
+  "params": {
+    "past": "past-forms"
+  },
+  "parents": [
+    "complex-forms",
+    "tara-conditional-clauses"
+  ],
+  "props": {
+    "en": "past.en|pr('didn\\'t', 'when not')|pr('did', 'when')+' then,'",
+    "jp": "past.jp+'ら'"
+  }
+}
