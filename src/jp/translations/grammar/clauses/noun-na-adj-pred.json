@@ -11,10 +11,11 @@
   "parents": [
     "clauses",
     "topic-clauses",
-    "common-ga-sub"
+    "common-ga-sub",
+    "ga-and-wa-clauses"
   ],
   "props": {
     "en": "nform.en+' '+naform.en",
-    "jp": "nform.jp+'が'+naform.jp"
+    "jp": "nform.jp+'@が'+naform.jp"
   }
 }

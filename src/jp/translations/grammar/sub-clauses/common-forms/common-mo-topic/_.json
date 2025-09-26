@@ -1,0 +1,11 @@
+{
+  "_id": "xjdumov5ibl",
+  "desc": "も is similar to は in that it marks a topic, but with the meaning 'and also'",
+  "name": "common-mo-topic",
+  "parents": [
+    "common-forms"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

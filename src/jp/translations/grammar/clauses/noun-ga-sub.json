@@ -11,10 +11,11 @@
     "clauses",
     "const-noun-clauses",
     "temporal-verb-clauses",
-    "common-ga-sub"
+    "common-ga-sub",
+    "ga-and-wa-clauses"
   ],
   "props": {
     "en": "rel.noun.en+' '+form.en",
-    "jp": "rel.noun.jp+'が'+form.jp"
+    "jp": "rel.noun.jp+'@が'+form.jp"
   }
 }

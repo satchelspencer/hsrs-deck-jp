@@ -1,0 +1,11 @@
+{
+  "_id": "j60kzy56p8",
+  "desc": "は marks the 'topic' of a statement, similar to \"as for X,\" but very normal sounding and ubiquitous. ",
+  "name": "common-wa-topic",
+  "parents": [
+    "common-forms"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

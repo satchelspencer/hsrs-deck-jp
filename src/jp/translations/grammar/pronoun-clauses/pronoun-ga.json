@@ -10,10 +10,11 @@
   "parents": [
     "pronoun-clauses",
     "pronoun-temporal-verb-clauses",
-    "common-ga-sub"
+    "common-ga-sub",
+    "ga-and-wa-clauses"
   ],
   "props": {
     "en": "rel.pn.en+' '+form.en",
-    "jp": "rel.pn.jp+'が'+form.jp"
+    "jp": "rel.pn.jp+'@が'+form.jp"
   }
 }

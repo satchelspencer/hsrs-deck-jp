@@ -15,6 +15,6 @@
   ],
   "props": {
     "en": "counter.en+' '+form.en",
-    "jp": "counter.jp+'が'+form.jp"
+    "jp": "counter.jp+'@が'+form.jp"
   }
 }

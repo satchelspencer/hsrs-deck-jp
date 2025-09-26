@@ -9,10 +9,11 @@
   },
   "parents": [
     "pronoun-clauses",
-    "common-ga-sub"
+    "common-ga-sub",
+    "ga-and-wa-clauses"
   ],
   "props": {
     "en": "rel.pn.en+' '+iform.en",
-    "jp": "rel.pn.jp+'が'+iform.jp"
+    "jp": "rel.pn.jp+'@が'+iform.jp"
   }
 }

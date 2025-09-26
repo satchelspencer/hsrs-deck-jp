@@ -1,0 +1,17 @@
+{
+  "_id": "nduyit5qa6j",
+  "name": "noun-mo-ga-clause",
+  "order": "2",
+  "params": {
+    "clause": "ga-and-wa-clauses"
+  },
+  "parents": [
+    "clauses",
+    "common-mo-topic"
+  ],
+  "props": {
+    "en": "clause.en|rg(clause.rel.noun.en || clause.rel.pn.en, (clause.rel.noun.en || clause.rel.pn.en)+' also ')",
+    "jp": "clause.jp|rg('@が', 'も')",
+    "tl": "clause.tl|rg('@が', 'も')"
+  }
+}

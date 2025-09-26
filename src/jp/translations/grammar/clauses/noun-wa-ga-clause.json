@@ -1,0 +1,18 @@
+{
+  "_id": "i1fwh9h6dvo",
+  "desc": "contrasted with が (more the meaning of 'x exclusively') は is more like 'as for x, it'",
+  "name": "noun-wa-ga-clause",
+  "order": "1",
+  "params": {
+    "clause": "ga-and-wa-clauses"
+  },
+  "parents": [
+    "clauses",
+    "common-wa-topic"
+  ],
+  "props": {
+    "en": "clause.en|rg(clause.rel.noun.en || clause.rel.pn.en, 'as for '+(clause.rel.noun.en || clause.rel.pn.en)+', ')",
+    "jp": "clause.jp|rg('@が', 'は')",
+    "tl": "clause.tl|rg('@が', 'わ')"
+  }
+}
