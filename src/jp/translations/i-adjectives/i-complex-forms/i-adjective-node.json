@@ -1,0 +1,15 @@
+{
+  "_id": "gi5wb2w083a",
+  "mode": "*---**",
+  "name": "i-adjective-node",
+  "order": "3",
+  "params": {
+    "form": "i-conjunctive-forms"
+  },
+  "parents": [
+    "i-complex-forms",
+    "node-conditional-clauses"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "_id": "fg8ty2dx6eu",
+  "mode": "----**",
+  "name": "na-adjective-node",
+  "order": "3",
+  "params": {
+    "form": "na-node-forms"
+  },
+  "parents": [
+    "na-complex-forms",
+    "node-conditional-clauses"
+  ],
+  "props": {
+  }
+}

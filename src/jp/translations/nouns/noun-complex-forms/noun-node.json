@@ -1,0 +1,15 @@
+{
+  "_id": "zhb2045hslb",
+  "mode": "----**",
+  "name": "noun-node",
+  "order": "3",
+  "params": {
+    "form": "noun-node-forms"
+  },
+  "parents": [
+    "noun-complex-forms",
+    "node-conditional-clauses"
+  ],
+  "props": {
+  }
+}

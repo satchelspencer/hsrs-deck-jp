@@ -1,0 +1,15 @@
+{
+  "_id": "f2rkb3yh73c",
+  "mode": "----**",
+  "name": "verb-node",
+  "order": "3",
+  "params": {
+    "form": "yo-ne-verb-forms"
+  },
+  "parents": [
+    "complex-forms",
+    "node-conditional-clauses"
+  ],
+  "props": {
+  }
+}

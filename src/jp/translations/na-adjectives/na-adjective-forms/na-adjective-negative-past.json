@@ -12,7 +12,8 @@
     "yo-ne-na-forms",
     "na-plain-forms",
     "no-na-forms",
-    "na-past-forms"
+    "na-past-forms",
+    "na-node-forms"
   ],
   "props": {
     "en": "'was not '+na._at",

@@ -1,0 +1,16 @@
+{
+  "_id": "tbl53yudl1l",
+  "desc": "slightly more formal and objective than から",
+  "mode": "",
+  "name": "node-conditional-clauses",
+  "order": "3",
+  "parents": [
+    "conjunctions",
+    "common-forms"
+  ],
+  "props": {
+    "en": "'because '+form.en+','",
+    "jp": "form.jp+'ので'"
+  },
+  "virtual": true
+}

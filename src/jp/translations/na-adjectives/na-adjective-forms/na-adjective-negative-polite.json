@@ -12,7 +12,8 @@
     "na-predicate-forms",
     "ka-na-forms",
     "nda-na-forms",
-    "yo-ne-na-forms"
+    "yo-ne-na-forms",
+    "na-node-forms"
   ],
   "props": {
     "en": "'not '+na._at",

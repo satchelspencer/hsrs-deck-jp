@@ -1,6 +1,6 @@
 {
   "_id": "izhzwk6ejpj",
-  "constraint": "form",
+  "constraint": "form verb",
   "name": "question-time-ni",
   "order": "2",
   "params": {

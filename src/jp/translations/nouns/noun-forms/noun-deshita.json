@@ -12,7 +12,8 @@
     "yo-noun-forms",
     "conjunctive-noun-forms",
     "common-deshita",
-    "noun-past-forms"
+    "noun-past-forms",
+    "noun-node-forms"
   ],
   "props": {
     "en": "'was '+noun.en",

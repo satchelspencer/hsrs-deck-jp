@@ -1,0 +1,17 @@
+{
+  "_id": "uqievnm71g",
+  "mode": "----**",
+  "name": "noun-node-plain",
+  "order": "3",
+  "params": {
+    "form": "noun-plain"
+  },
+  "parents": [
+    "noun-complex-forms",
+    "node-conditional-clauses"
+  ],
+  "props": {
+    "en": "'because is '+form.en+','",
+    "jp": "form.jp+'なので'"
+  }
+}

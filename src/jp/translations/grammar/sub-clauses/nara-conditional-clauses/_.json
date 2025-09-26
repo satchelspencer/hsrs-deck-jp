@@ -5,7 +5,8 @@
   "order": "2",
   "parents": [
     "sub-clauses",
-    "conjunctions"
+    "conjunctions",
+    "common-forms"
   ],
   "props": {
   },

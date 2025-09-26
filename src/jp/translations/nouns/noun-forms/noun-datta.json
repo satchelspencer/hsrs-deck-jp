@@ -14,7 +14,8 @@
     "noun-plain-forms",
     "common-datta",
     "no-noun-forms",
-    "noun-past-forms"
+    "noun-past-forms",
+    "noun-node-forms"
   ],
   "props": {
     "en": "'was '+noun.en",

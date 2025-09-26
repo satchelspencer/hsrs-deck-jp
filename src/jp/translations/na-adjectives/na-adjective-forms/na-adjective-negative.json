@@ -12,7 +12,8 @@
     "nda-na-forms",
     "yo-ne-na-forms",
     "na-plain-forms",
-    "no-na-forms"
+    "no-na-forms",
+    "na-node-forms"
   ],
   "props": {
     "en": "'not '+na._at",
