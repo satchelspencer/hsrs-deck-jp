@@ -1,0 +1,13 @@
+{
+  "_id": "au2pfbh66g",
+  "name": "verb-ni-verb",
+  "params": {
+    "aux": "people-do-volitional",
+    "verb": "verb-ni-verb-to-activities"
+  },
+  "parents": [
+    "relationships"
+  ],
+  "props": {
+  }
+}

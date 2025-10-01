@@ -1,0 +1,17 @@
+{
+  "_id": "ddoy46yffd",
+  "constraint": "verb",
+  "mode": "*---**",
+  "name": "$stem-form",
+  "order": "1",
+  "params": {
+    "form": "polite"
+  },
+  "parents": [
+    "complex-forms"
+  ],
+  "props": {
+    "en": "form.en+' (stem)'",
+    "jp": "form.jp|r('ます', '')"
+  }
+}

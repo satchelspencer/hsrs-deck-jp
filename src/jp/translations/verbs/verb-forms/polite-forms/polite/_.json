@@ -4,7 +4,7 @@
   "name": "polite",
   "order": "1.1",
   "params": {
-    "verb": "verb-forms"
+    "verb": "root-verbs"
   },
   "parents": [
     "polite-forms",

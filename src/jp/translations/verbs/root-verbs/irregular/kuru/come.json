@@ -7,10 +7,10 @@
     "movers-do",
     "he-related-verbs",
     "te-iru-verbs-state",
-    "do-togethers"
+    "do-togethers",
+    "verb-ni-verb-to-activities"
   ],
   "props": {
-    "_n": "",
     "_st": "present after coming",
     "en": "come",
     "jp": "来る",

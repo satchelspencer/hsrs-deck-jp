@@ -5,7 +5,7 @@
     "verbs"
   ],
   "props": {
-    "_n": "$._pg || 'doing '+$.en"
+    "_n": "'the act of '+($._pg || $.en)"
   },
   "virtual": true
 }

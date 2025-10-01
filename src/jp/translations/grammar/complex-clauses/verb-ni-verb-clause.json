@@ -1,0 +1,23 @@
+{
+  "_id": "o9u9vri4qg",
+  "constraint": "verb aux",
+  "cpmap": {
+    "stem": {
+      "verb": "aux"
+    }
+  },
+  "name": "verb-ni-verb-clause",
+  "order": "2",
+  "params": {
+    "form": "verb-forms",
+    "rel": "verb-ni-verb",
+    "stem": "$stem-form"
+  },
+  "parents": [
+    "complex-clauses"
+  ],
+  "props": {
+    "en": "form.en+' in order to '+stem.form.en",
+    "jp": "stem.jp+'に'+form.jp"
+  }
+}

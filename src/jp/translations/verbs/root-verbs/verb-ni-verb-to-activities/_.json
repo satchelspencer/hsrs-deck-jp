@@ -1,0 +1,10 @@
+{
+  "_id": "1lcv1ckmyc8",
+  "name": "verb-ni-verb-to-activities",
+  "parents": [
+    "root-verbs"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

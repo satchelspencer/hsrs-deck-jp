@@ -6,7 +6,8 @@
   "parents": [
     "godan-ru",
     "ni-destination-verbs",
-    "people-do-volitional"
+    "people-do-volitional",
+    "verb-ni-verb-to-activities"
   ],
   "props": {
     "en": "drop by",
