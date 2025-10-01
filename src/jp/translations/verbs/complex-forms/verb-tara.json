@@ -11,7 +11,7 @@
     "tara-conditional-clauses"
   ],
   "props": {
-    "en": "past.en|pr('didn\\'t', 'when not')|pr('did', 'when')+' then,'",
+    "en": "past.en|pr('didn\\'t', 'when not')|pr('did', 'when')+' then'",
     "jp": "past.jp+'ら'"
   }
 }

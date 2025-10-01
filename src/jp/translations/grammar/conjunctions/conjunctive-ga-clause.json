@@ -10,7 +10,7 @@
     "conjunctions"
   ],
   "props": {
-    "en": "clause.en+' however,'",
-    "jp": "clause.jp+'が、'"
+    "en": "clause.en+' however'",
+    "jp": "clause.jp+'が'"
   }
 }

@@ -1,6 +1,7 @@
 {
   "_id": "ddoy46yffd",
   "constraint": "verb",
+  "desc": "take the polite form and remove ます, used to create other forms",
   "mode": "*---**",
   "name": "$stem-form",
   "order": "1",

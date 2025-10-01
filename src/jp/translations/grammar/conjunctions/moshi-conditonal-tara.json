@@ -10,6 +10,6 @@
   ],
   "props": {
     "en": "tara.en|pr('when', 'if')",
-    "jp": "'もし'+tara.jp+'、'"
+    "jp": "'もし'+tara.jp"
   }
 }

@@ -11,7 +11,7 @@
     "node-conditional-clauses"
   ],
   "props": {
-    "en": "'because is '+form.en+','",
+    "en": "'because is '+form.en",
     "jp": "form.jp+'なので'"
   }
 }

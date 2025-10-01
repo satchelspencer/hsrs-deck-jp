@@ -11,7 +11,7 @@
     "tara-conditional-clauses"
   ],
   "props": {
-    "en": "past.en|pr('was', 'when is')+' then,'",
+    "en": "past.en|pr('was', 'when is')+' then'",
     "jp": "past.jp+'ら'"
   }
 }

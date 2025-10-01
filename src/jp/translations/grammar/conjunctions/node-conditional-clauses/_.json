@@ -9,7 +9,7 @@
     "common-forms"
   ],
   "props": {
-    "en": "'because '+form.en+','",
+    "en": "'because '+form.en",
     "jp": "form.jp+'ので'"
   },
   "virtual": true

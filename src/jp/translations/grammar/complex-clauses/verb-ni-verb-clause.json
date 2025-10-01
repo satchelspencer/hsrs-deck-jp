@@ -6,6 +6,7 @@
       "verb": "aux"
     }
   },
+  "desc": "に can link the stem form of a verb to a going/coming verb",
   "name": "verb-ni-verb-clause",
   "order": "2",
   "params": {

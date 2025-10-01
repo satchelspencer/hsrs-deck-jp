@@ -11,7 +11,7 @@
     "conjunctions"
   ],
   "props": {
-    "en": "'since '+clause.en+','",
-    "jp": "clause.jp+'から、'"
+    "en": "'since '+clause.en",
+    "jp": "clause.jp+'から'"
   }
 }
