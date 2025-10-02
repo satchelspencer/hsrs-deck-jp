@@ -1,0 +1,17 @@
+{
+  "_id": "qbfcf3pzxtq",
+  "constraint": "verb noun",
+  "name": "relative-verb-clause-ga",
+  "order": "3",
+  "params": {
+    "form": "relative-clause-verb-forms",
+    "rel": "people-people-do"
+  },
+  "parents": [
+    "relative-clauses"
+  ],
+  "props": {
+    "en": "rel.noun.en+' who '+form.en",
+    "jp": "form.jp+rel.noun.jp"
+  }
+}

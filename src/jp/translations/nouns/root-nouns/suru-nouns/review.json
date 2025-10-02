@@ -11,6 +11,7 @@
     "people-do-volitional"
   ],
   "props": {
+    "_pg": "reviewing",
     "en": "review",
     "jp": "復習",
     "tl": "ふくしゅう"

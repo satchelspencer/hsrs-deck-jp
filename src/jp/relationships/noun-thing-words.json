@@ -1,0 +1,12 @@
+{
+  "_id": "ue0zl36mjd",
+  "name": "noun-thing-words",
+  "params": {
+    "noun": "thing-words"
+  },
+  "parents": [
+    "relationships"
+  ],
+  "props": {
+  }
+}

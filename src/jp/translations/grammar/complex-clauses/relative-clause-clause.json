@@ -11,7 +11,7 @@
     "complex-clauses"
   ],
   "props": {
-    "en": "clause.en|rg(rel.clause.rel.noun.en, rel.en)",
-    "jp": "clause.jp|rg(rel.clause.rel.noun.jp, rel.jp)"
+    "en": "clause.en|rg(rel.rel.noun.en, rel.en)",
+    "jp": "clause.jp|rg(rel.rel.noun.jp, rel.jp)"
   }
 }

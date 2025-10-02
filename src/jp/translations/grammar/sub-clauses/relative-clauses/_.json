@@ -1,5 +1,6 @@
 {
   "_id": "l0chelw05ge",
+  "desc": "subject is ambiguous, infer from context",
   "mode": "*",
   "name": "relative-clauses",
   "parents": [

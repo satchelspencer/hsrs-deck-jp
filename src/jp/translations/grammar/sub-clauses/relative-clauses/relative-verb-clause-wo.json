@@ -1,11 +1,11 @@
 {
-  "_id": "by74sgi3ez4",
+  "_id": "8i7w0187m83",
   "constraint": "noun verb",
-  "name": "relative-thing-verb-clause",
+  "name": "relative-verb-clause-wo",
   "order": "3",
   "params": {
     "form": "relative-clause-verb-forms",
-    "pr": "noun-thing-words",
+    "pr": "verb-people-do",
     "rel": "noun-wo-verb"
   },
   "parents": [
