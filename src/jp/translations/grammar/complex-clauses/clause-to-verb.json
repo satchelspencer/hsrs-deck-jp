@@ -1,8 +1,9 @@
 {
   "_id": "wn55nb8sha",
   "desc": "と can link a plain casual subclause to verbs like 言う or 思う",
+  "mode": "P",
   "name": "clause-to-verb",
-  "order": "4",
+  "order": "3",
   "params": {
     "clause": "info-subclause",
     "form": "subclause-verb-form"
