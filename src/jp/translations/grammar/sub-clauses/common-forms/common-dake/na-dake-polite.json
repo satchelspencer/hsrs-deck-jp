@@ -1,0 +1,17 @@
+{
+  "_id": "fj0agmtrnx6",
+  "constraint": "na",
+  "mode": "P",
+  "name": "na-dake-polite",
+  "params": {
+    "form": "na-dake-forms"
+  },
+  "parents": [
+    "common-dake",
+    "na-suffix-forms"
+  ],
+  "props": {
+    "en": "form.en",
+    "jp": "form.jp|r('だ', 'です')"
+  }
+}

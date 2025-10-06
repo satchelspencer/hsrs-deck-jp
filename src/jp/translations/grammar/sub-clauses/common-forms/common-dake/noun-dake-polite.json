@@ -1,0 +1,16 @@
+{
+  "_id": "mg8fnpk5vg",
+  "constraint": "noun",
+  "mode": "P",
+  "name": "noun-dake-polite",
+  "params": {
+    "form": "noun-plain-forms"
+  },
+  "parents": [
+    "common-dake",
+    "noun-suffix-forms"
+  ],
+  "props": {
+    "jp": "form.jp+'だけです'"
+  }
+}

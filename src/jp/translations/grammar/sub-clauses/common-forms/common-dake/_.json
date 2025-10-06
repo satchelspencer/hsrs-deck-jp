@@ -1,0 +1,13 @@
+{
+  "_id": "evj6lc8vfk9",
+  "desc": "Xだけ is like \"only X\" or \"just X\". usually followed by だ/です when ending a sentence",
+  "name": "common-dake",
+  "order": "3",
+  "parents": [
+    "common-forms"
+  ],
+  "props": {
+    "en": "'*only* '+form.en"
+  },
+  "virtual": true
+}

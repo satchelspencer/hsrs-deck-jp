@@ -1,0 +1,16 @@
+{
+  "_id": "buvmurmp69p",
+  "constraint": "iadj",
+  "mode": "P",
+  "name": "i-adjective-dake-polite",
+  "params": {
+    "form": "i-no-forms"
+  },
+  "parents": [
+    "common-dake",
+    "i-adjective-forms"
+  ],
+  "props": {
+    "jp": "form.jp+'だけです'"
+  }
+}

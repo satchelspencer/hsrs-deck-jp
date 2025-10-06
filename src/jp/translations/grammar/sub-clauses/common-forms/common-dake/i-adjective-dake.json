@@ -1,0 +1,15 @@
+{
+  "_id": "szs6mfq71vo",
+  "constraint": "iadj",
+  "name": "i-adjective-dake",
+  "params": {
+    "form": "i-no-forms"
+  },
+  "parents": [
+    "common-dake",
+    "i-adjective-forms"
+  ],
+  "props": {
+    "jp": "form.jp+'だけだ'"
+  }
+}

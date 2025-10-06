@@ -1,0 +1,16 @@
+{
+  "_id": "dpfgz4eh9w9",
+  "constraint": "verb",
+  "mode": "P",
+  "name": "verb-dake-polite",
+  "params": {
+    "form": "plain-forms"
+  },
+  "parents": [
+    "common-dake",
+    "suffix-forms"
+  ],
+  "props": {
+    "jp": "form.jp+'だけです'"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "_id": "8mz0a1mi82f",
+  "constraint": "noun",
+  "name": "noun-dake",
+  "params": {
+    "form": "noun-plain-forms"
+  },
+  "parents": [
+    "common-dake",
+    "noun-suffix-forms"
+  ],
+  "props": {
+    "jp": "form.jp+'だけだ'"
+  }
+}

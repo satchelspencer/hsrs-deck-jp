@@ -1,0 +1,16 @@
+{
+  "_id": "6hd9tds55ey",
+  "name": "noun-dake-ga-clause",
+  "params": {
+    "clause": "ga-and-wa-clauses"
+  },
+  "parents": [
+    "common-dake",
+    "clauses"
+  ],
+  "props": {
+    "en": "'only '+clause.en",
+    "jp": "clause.jp|rg('@が', 'だけが')",
+    "tl": "clause.tl|rg('@が', 'だけが')"
+  }
+}

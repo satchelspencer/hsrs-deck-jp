@@ -1,0 +1,16 @@
+{
+  "_id": "kamlhdjonl",
+  "constraint": "na",
+  "name": "na-adjective-dake-plain",
+  "params": {
+    "form": "na-adjective-plain"
+  },
+  "parents": [
+    "common-dake",
+    "na-dake-forms"
+  ],
+  "props": {
+    "en": "",
+    "jp": "form.jp+'なだけだ'"
+  }
+}

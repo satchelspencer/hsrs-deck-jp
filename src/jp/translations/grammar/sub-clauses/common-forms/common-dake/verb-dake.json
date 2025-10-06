@@ -1,0 +1,15 @@
+{
+  "_id": "49yupigas8p",
+  "constraint": "verb",
+  "name": "verb-dake",
+  "params": {
+    "form": "plain-forms"
+  },
+  "parents": [
+    "common-dake",
+    "suffix-forms"
+  ],
+  "props": {
+    "jp": "form.jp+'だけだ'"
+  }
+}
