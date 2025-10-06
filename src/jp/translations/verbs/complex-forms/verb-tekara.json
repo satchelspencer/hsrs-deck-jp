@@ -1,0 +1,19 @@
+{
+  "_id": "rtfje51e5td",
+  "constraint": "verb",
+  "desc": "XてからY means \"once (someone/thing) does X, then Y\". more immediate than 後で",
+  "name": "verb-tekara",
+  "order": "3",
+  "params": {
+    "te": "verb-te-form",
+    "verb": "te-iru-verbs-continuous"
+  },
+  "parents": [
+    "complex-forms",
+    "relative-time-clauses"
+  ],
+  "props": {
+    "en": "'following '+verb._pg",
+    "jp": "te.jp+'から'"
+  }
+}

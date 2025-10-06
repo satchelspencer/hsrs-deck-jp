@@ -2,9 +2,6 @@
   "_id": "1jnjk5dydc4",
   "name": "relative-time-clauses",
   "order": "2",
-  "params": {
-    "expr": "relative-time-exprs"
-  },
   "parents": [
     "sub-clauses"
   ],
