@@ -1,0 +1,19 @@
+{
+  "_id": "7x2c90e1vox",
+  "constraint": "verb",
+  "desc": "used in constructing verb-tari",
+  "mode": "*---**",
+  "name": "$tari-form",
+  "order": "3",
+  "params": {
+    "form": "plain-past",
+    "rel": "verb-people-do-volitional"
+  },
+  "parents": [
+    "complex-forms"
+  ],
+  "props": {
+    "en": "form.verb.en",
+    "jp": "form.jp"
+  }
+}

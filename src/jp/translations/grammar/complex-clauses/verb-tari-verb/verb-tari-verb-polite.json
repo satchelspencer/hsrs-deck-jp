@@ -1,0 +1,10 @@
+{
+  "_id": "rbi3jlrjbsa",
+  "mode": "p",
+  "name": "verb-tari-verb-polite",
+  "parents": [
+    "verb-tari-verb"
+  ],
+  "props": {
+  }
+}

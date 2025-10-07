@@ -1,0 +1,26 @@
+{
+  "_id": "x89bwuzlejg",
+  "constraint": "do",
+  "cpmap": {
+    "sform": {
+      "verb": "do"
+    }
+  },
+  "desc": "listing past tense verbs separated by り ending with しる gives an unordered 'things like' kind of list",
+  "name": "verb-tari-verb",
+  "order": "3",
+  "params": {
+    "aform": "$tari-form",
+    "do": "do-suru",
+    "form": "$tari-form",
+    "sform": "verb-forms"
+  },
+  "parents": [
+    "complex-clauses"
+  ],
+  "props": {
+    "en": "sform.en+' things like '+form.en+' and '+aform.en",
+    "jp": "form.jp+'り'+aform.jp+'り'+sform.jp"
+  },
+  "virtual": true
+}

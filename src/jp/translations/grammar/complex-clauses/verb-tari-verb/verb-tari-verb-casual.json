@@ -1,0 +1,10 @@
+{
+  "_id": "2cqv5elcmpm",
+  "mode": "c",
+  "name": "verb-tari-verb-casual",
+  "parents": [
+    "verb-tari-verb"
+  ],
+  "props": {
+  }
+}
