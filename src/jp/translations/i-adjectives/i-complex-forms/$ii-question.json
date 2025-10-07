@@ -1,0 +1,17 @@
+{
+  "_id": "rq8yvbcecv",
+  "constraint": "iadj",
+  "mode": "----an",
+  "name": "$ii-question",
+  "params": {
+    "form": "i-question-forms",
+    "iadj": "good"
+  },
+  "parents": [
+    "i-complex-forms"
+  ],
+  "props": {
+    "en": "form.en",
+    "jp": "form.jp"
+  }
+}

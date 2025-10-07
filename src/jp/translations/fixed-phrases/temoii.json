@@ -1,13 +1,12 @@
 {
   "_id": "3ttrfjc1efc",
   "constraint": "iadj",
-  "desc": "てもいい is a common way of asking if something is ok",
+  "desc": "てもいい is a common way of asking if something is ok, or if you can do something",
   "mode": "----an",
   "name": "temoii",
   "order": "2",
   "params": {
-    "form": "i-question-forms",
-    "iadj": "good",
+    "ii": "$ii-question",
     "temo": "temo-forms"
   },
   "parents": [
@@ -15,6 +14,6 @@
   ],
   "props": {
     "en": "'is '+temo.en|pr('even if ', '')|pr('is ', '')+' ok?'",
-    "jp": "temo.jp+form.jp"
+    "jp": "temo.jp+ii.jp"
   }
 }
