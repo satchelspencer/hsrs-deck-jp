@@ -1,0 +1,16 @@
+{
+  "_id": "u0sb4ae00sb",
+  "constraint": "na",
+  "name": "na-temo",
+  "params": {
+    "te": "na-adjective-de"
+  },
+  "parents": [
+    "temo-forms",
+    "na-complex-forms"
+  ],
+  "props": {
+    "en": "'even if is '+te.na._at",
+    "jp": "te.jp+'も'"
+  }
+}

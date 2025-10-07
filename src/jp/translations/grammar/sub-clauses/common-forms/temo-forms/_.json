@@ -1,0 +1,13 @@
+{
+  "_id": "vbsu34thjvm",
+  "desc": "ても　takes the て/で form and adds も to mean 'even if'",
+  "name": "temo-forms",
+  "order": "2",
+  "parents": [
+    "common-forms",
+    "conjunctions"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

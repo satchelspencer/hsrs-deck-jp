@@ -1,0 +1,16 @@
+{
+  "_id": "hc6pvpl0u",
+  "constraint": "iadj",
+  "name": "i-temo",
+  "params": {
+    "te": "i-adjective-te"
+  },
+  "parents": [
+    "temo-forms",
+    "i-complex-forms"
+  ],
+  "props": {
+    "en": "'even if is '+te.ku.iadj.en",
+    "jp": "te.jp+'も'"
+  }
+}

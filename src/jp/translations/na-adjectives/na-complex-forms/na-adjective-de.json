@@ -1,12 +1,13 @@
 {
   "_id": "3rx13l0xb8y",
   "name": "na-adjective-de",
-  "order": "3",
+  "order": "2",
   "params": {
     "na": "na-attributive"
   },
   "parents": [
-    "na-complex-forms"
+    "na-complex-forms",
+    "common-te"
   ],
   "props": {
     "en": "na._at+' and'",

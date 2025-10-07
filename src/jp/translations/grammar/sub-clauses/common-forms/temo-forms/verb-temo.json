@@ -1,0 +1,17 @@
+{
+  "_id": "guf3r0ns05q",
+  "constraint": "verb",
+  "name": "verb-temo",
+  "params": {
+    "rel": "verb-people-do-volitional",
+    "te": "verb-te-form"
+  },
+  "parents": [
+    "temo-forms",
+    "complex-forms"
+  ],
+  "props": {
+    "en": "'even if '+(te.past.verb._pg || te.past.verb.en)",
+    "jp": "te.jp+'も'"
+  }
+}
