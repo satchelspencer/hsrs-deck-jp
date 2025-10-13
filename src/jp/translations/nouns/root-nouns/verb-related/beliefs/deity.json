@@ -1,13 +1,13 @@
 {
   "_id": "kgegp7bmxmc",
   "desc": "",
-  "name": "diety",
+  "name": "deity",
   "order": "4",
   "parents": [
     "beliefs"
   ],
   "props": {
-    "en": "diety",
+    "en": "deity",
     "jp": "神様",
     "tl": "かみさま"
   }

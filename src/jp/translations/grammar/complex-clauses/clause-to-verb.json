@@ -5,8 +5,8 @@
   "name": "clause-to-verb",
   "order": "3",
   "params": {
-    "clause": "info-subclause",
-    "form": "subclause-verb-form"
+    "clause": "$info-subclause",
+    "form": "$subclause-verb-form"
   },
   "parents": [
     "complex-clauses"

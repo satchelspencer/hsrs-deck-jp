@@ -1,7 +1,7 @@
 {
   "_id": "7satgm54zm",
   "constraint": "root",
-  "name": "weeks-amount",
+  "name": "$weeks-amount",
   "order": "3",
   "params": {
     "counter": "counter-kago-regular",

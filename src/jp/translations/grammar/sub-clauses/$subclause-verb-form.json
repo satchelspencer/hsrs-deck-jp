@@ -1,7 +1,7 @@
 {
   "_id": "r12q0pn0rk9",
   "constraint": "verb",
-  "name": "subclause-verb-form",
+  "name": "$subclause-verb-form",
   "order": "3",
   "params": {
     "form": "verb-forms",

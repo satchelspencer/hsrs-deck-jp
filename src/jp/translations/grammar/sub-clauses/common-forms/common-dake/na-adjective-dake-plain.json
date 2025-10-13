@@ -3,7 +3,7 @@
   "constraint": "na",
   "name": "na-adjective-dake-plain",
   "params": {
-    "form": "na-adjective-plain"
+    "form": "$na-adjective-plain"
   },
   "parents": [
     "common-dake",

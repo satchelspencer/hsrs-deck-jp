@@ -1,6 +1,6 @@
 {
   "_id": "ds3beeuotju",
-  "name": "noun-plain",
+  "name": "$noun-plain",
   "order": "1.9",
   "params": {
     "noun": "root-nouns"

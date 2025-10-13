@@ -6,7 +6,7 @@
   "order": "4",
   "params": {
     "clause": "conjuncting-clauses",
-    "form": "quote-verb-form"
+    "form": "$quote-verb-form"
   },
   "parents": [
     "complex-clauses"

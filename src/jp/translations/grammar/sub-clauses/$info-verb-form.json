@@ -1,11 +1,11 @@
 {
-  "_id": "j7xztutef5a",
+  "_id": "bfnao3cpv0e",
   "constraint": "verb",
-  "name": "quote-verb-form",
+  "name": "$info-verb-form",
   "order": "3",
   "params": {
-    "form": "verb-forms",
-    "verb": "do-to-quote"
+    "form": "yo-ne-verb-forms",
+    "verb": "info-verbs"
   },
   "parents": [
     "sub-clauses"

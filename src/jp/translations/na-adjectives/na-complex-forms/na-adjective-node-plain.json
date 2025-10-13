@@ -1,10 +1,11 @@
 {
   "_id": "wpqwhzs0bah",
+  "constraint": "na",
   "mode": "*---**",
   "name": "na-adjective-node-plain",
   "order": "3",
   "params": {
-    "form": "na-adjective-plain"
+    "form": "$na-adjective-plain"
   },
   "parents": [
     "na-complex-forms",

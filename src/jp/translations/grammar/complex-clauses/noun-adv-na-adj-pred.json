@@ -5,7 +5,7 @@
   "order": "3",
   "params": {
     "clause": "adv-na-adj",
-    "nform": "noun-plain",
+    "nform": "$noun-plain",
     "rel": "na-predicate-noun"
   },
   "parents": [

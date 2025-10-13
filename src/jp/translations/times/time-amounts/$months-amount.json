@@ -1,11 +1,11 @@
 {
-  "_id": "fzn72ykjqy8",
+  "_id": "lgr46n6etm",
   "constraint": "root",
-  "name": "seconds-amount",
-  "order": "3",
+  "name": "$months-amount",
+  "order": "2",
   "params": {
     "counter": "counter-kago-regular",
-    "root": "counter-root-seconds"
+    "root": "counter-root-months"
   },
   "parents": [
     "time-amounts"

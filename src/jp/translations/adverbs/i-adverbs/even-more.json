@@ -1,10 +1,12 @@
 {
   "_id": "hj1u2z5l1kb",
+  "desc": "furthermore",
   "name": "even-more",
   "order": "3",
   "parents": [
     "i-adverbs",
-    "na-adverbs"
+    "na-adverbs",
+    "clause-adverbs"
   ],
   "props": {
     "en": "even more",

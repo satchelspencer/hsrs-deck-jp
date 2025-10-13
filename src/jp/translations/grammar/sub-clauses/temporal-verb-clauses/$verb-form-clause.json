@@ -1,7 +1,7 @@
 {
   "_id": "oxvz1mh8rjn",
   "constraint": "verb",
-  "name": "verb-form-clause",
+  "name": "$verb-form-clause",
   "order": "1",
   "params": {
     "form": ""

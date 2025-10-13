@@ -2,7 +2,7 @@
   "_id": "iqhfm4qz5fi",
   "desc": "face towards",
   "name": "turn-toward",
-  "order": "4",
+  "order": "3",
   "parents": [
     "godan-ku",
     "ni-destination-verbs",

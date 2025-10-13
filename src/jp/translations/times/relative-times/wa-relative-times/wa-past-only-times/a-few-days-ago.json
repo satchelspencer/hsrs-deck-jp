@@ -1,14 +1,14 @@
 {
   "_id": "gndi0757smr",
   "desc": "the other day",
-  "name": "recently",
+  "name": "a-few-days-ago",
   "order": "4",
   "parents": [
     "wa-past-only-times"
   ],
   "props": {
-    "_at": "recent",
-    "en": "recently",
+    "_at": "",
+    "en": "a few days ago",
     "jp": "先日",
     "tl": "せんじつ"
   }

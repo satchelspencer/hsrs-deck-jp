@@ -1,7 +1,7 @@
 {
   "_id": "v7hbypcean8",
   "constraint": "form",
-  "name": "plain-verb-clause",
+  "name": "$plain-verb-clause",
   "order": "3",
   "params": {
     "clause": "temporal-verb-clauses",

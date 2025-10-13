@@ -5,7 +5,7 @@
   "order": "",
   "params": {
     "iform": "i-adjective-te",
-    "nform": "noun-plain",
+    "nform": "$noun-plain",
     "rel": "i-predicate-noun"
   },
   "parents": [

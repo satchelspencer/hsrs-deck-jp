@@ -3,7 +3,7 @@
   "name": "noun-pred-te-forms",
   "order": "3",
   "params": {
-    "nform": "noun-plain"
+    "nform": "$noun-plain"
   },
   "parents": [
     "sub-clauses",

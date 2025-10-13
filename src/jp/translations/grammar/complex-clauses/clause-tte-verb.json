@@ -5,8 +5,8 @@
   "name": "clause-tte-verb",
   "order": "4",
   "params": {
-    "clause": "info-subclause",
-    "form": "subclause-verb-form"
+    "clause": "$info-subclause",
+    "form": "$subclause-verb-form"
   },
   "parents": [
     "complex-clauses"

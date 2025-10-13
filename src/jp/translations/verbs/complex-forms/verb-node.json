@@ -1,5 +1,6 @@
 {
   "_id": "f2rkb3yh73c",
+  "constraint": "verb",
   "mode": "----**",
   "name": "verb-node",
   "order": "3",

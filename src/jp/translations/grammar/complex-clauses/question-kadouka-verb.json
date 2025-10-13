@@ -3,7 +3,7 @@
   "name": "question-kadouka-verb",
   "order": "4",
   "params": {
-    "form": "info-verb-form",
+    "form": "$info-verb-form",
     "qu": "embedded-questions"
   },
   "parents": [
