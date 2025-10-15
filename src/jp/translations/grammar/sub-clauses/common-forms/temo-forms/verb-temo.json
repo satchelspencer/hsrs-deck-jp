@@ -11,7 +11,8 @@
     "complex-forms"
   ],
   "props": {
-    "en": "'even if '+(te.past.verb._pg || te.past.verb.en)",
+    "_n": "'even if '+(te.past.verb._pg || te.past.verb.en)",
+    "en": "'even if '+te.past.verb.en",
     "jp": "te.jp+'も'"
   }
 }

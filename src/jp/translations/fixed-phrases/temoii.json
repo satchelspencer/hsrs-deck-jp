@@ -13,7 +13,7 @@
     "fixed-phrases"
   ],
   "props": {
-    "en": "'is '+temo.en|pr('even if ', '')|pr('is ', '')+' ok?'",
+    "en": "'is '+(temo._n || temo.en)|pr('even if ', '')|pr('is ', '')+' ok?'",
     "jp": "temo.jp+ii.jp"
   }
 }

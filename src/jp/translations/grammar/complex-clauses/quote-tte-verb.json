@@ -1,6 +1,6 @@
 {
   "_id": "xmbidyk0tm9",
-  "desc": "と can link a quote to verbs like 言う",
+  "desc": "って like と can link a quote to verbs like 言う",
   "mode": "c",
   "name": "quote-tte-verb",
   "order": "4",

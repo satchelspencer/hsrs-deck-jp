@@ -10,6 +10,7 @@
     "i-complex-forms"
   ],
   "props": {
+    "_n": "'even if is being '+te.ku.iadj.en",
     "en": "'even if is '+te.ku.iadj.en",
     "jp": "te.jp+'も'"
   }

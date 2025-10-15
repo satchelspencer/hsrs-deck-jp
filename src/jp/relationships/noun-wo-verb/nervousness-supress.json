@@ -1,9 +1,9 @@
 {
   "_id": "yyl8eg6tg1n",
-  "name": "nervousness-hold-down",
+  "name": "nervousness-supress",
   "params": {
     "noun": "nervousness",
-    "verb": "hold-down"
+    "verb": "supress"
   },
   "parents": [
     "noun-wo-verb"

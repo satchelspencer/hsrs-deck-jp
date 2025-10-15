@@ -10,6 +10,7 @@
     "na-complex-forms"
   ],
   "props": {
+    "_n": "'even if is being '+te.na._at",
     "en": "'even if is '+te.na._at",
     "jp": "te.jp+'も'"
   }
