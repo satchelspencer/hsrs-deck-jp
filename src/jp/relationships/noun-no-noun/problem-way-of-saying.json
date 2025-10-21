@@ -1,0 +1,13 @@
+{
+  "_id": "al70ulx9549",
+  "name": "problem-way-of-saying",
+  "params": {
+    "noun": "problem",
+    "owner": "way-of-saying"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

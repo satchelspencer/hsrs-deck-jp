@@ -1,0 +1,13 @@
+{
+  "_id": "lnw6fid5wob",
+  "name": "important-polite-shock",
+  "params": {
+    "na": "important-polite",
+    "noun": "shock"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

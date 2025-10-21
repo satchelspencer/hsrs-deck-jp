@@ -1,0 +1,13 @@
+{
+  "_id": "hd4x0hgjb75",
+  "name": "hot-touch-topic",
+  "params": {
+    "iadj": "hot-touch",
+    "noun": "topic"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "im2wj6714pl",
+  "name": "mental-resolve-accept",
+  "params": {
+    "noun": "mental-resolve",
+    "verb": "accept"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

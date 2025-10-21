@@ -1,0 +1,13 @@
+{
+  "_id": "yyk3bfnjk9",
+  "name": "reception-desk-let-through",
+  "params": {
+    "noun": "reception-desk",
+    "verb": "let-through"
+  },
+  "parents": [
+    "noun-ga-verb-transitive"
+  ],
+  "props": {
+  }
+}

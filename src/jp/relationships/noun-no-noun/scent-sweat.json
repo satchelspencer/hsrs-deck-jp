@@ -1,0 +1,13 @@
+{
+  "_id": "arj1e4bhct",
+  "name": "scent-sweat",
+  "params": {
+    "noun": "scent",
+    "owner": "sweat"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

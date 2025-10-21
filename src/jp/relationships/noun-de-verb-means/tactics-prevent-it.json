@@ -1,0 +1,13 @@
+{
+  "_id": "f07rvtki7b",
+  "name": "tactics-prevent-it",
+  "params": {
+    "noun": "tactics",
+    "verb": "prevent-it"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

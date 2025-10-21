@@ -1,0 +1,13 @@
+{
+  "_id": "i5tko5u3u3",
+  "name": "margin-notice",
+  "params": {
+    "noun": "margin",
+    "verb": "notice"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "ab5ir1a0auo",
+  "name": "a-lot-contain",
+  "params": {
+    "adv": "a-lot",
+    "verb": "contain"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

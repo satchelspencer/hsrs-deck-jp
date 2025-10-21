@@ -1,0 +1,13 @@
+{
+  "_id": "uuu2v86549r",
+  "name": "accident-lead-to",
+  "params": {
+    "noun": "accident",
+    "verb": "lead-to"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

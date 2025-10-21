@@ -1,0 +1,13 @@
+{
+  "_id": "pkk3yy31t6",
+  "name": "long-shadow",
+  "params": {
+    "iadj": "long",
+    "noun": "shadow"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

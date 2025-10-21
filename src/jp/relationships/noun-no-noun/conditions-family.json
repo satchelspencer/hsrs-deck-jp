@@ -1,0 +1,13 @@
+{
+  "_id": "hn29ap4i2xp",
+  "name": "conditions-family",
+  "params": {
+    "noun": "conditions",
+    "owner": "family"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

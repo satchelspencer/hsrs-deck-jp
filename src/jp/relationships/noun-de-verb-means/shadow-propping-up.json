@@ -1,0 +1,13 @@
+{
+  "_id": "ud28hhdb2fk",
+  "name": "shadow-propping-up",
+  "params": {
+    "noun": "shadow",
+    "verb": "propping-up"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

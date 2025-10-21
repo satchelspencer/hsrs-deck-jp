@@ -1,0 +1,13 @@
+{
+  "_id": "p9pje34bcug",
+  "name": "margin-effect",
+  "params": {
+    "noun": "margin",
+    "owner": "effect"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

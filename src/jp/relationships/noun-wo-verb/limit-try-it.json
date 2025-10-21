@@ -1,0 +1,13 @@
+{
+  "_id": "ikh8lsp5mg",
+  "name": "limit-try-it",
+  "params": {
+    "noun": "limit",
+    "verb": "try-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

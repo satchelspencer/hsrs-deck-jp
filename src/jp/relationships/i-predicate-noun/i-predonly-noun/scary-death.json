@@ -1,0 +1,13 @@
+{
+  "_id": "v64thpb93g",
+  "name": "scary-death",
+  "params": {
+    "iadj": "scary",
+    "noun": "death"
+  },
+  "parents": [
+    "i-predonly-noun"
+  ],
+  "props": {
+  }
+}

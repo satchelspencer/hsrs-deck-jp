@@ -1,0 +1,13 @@
+{
+  "_id": "28r8preq2u5",
+  "name": "limit-production",
+  "params": {
+    "noun": "limit",
+    "owner": "production"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

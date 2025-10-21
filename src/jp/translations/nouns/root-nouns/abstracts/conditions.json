@@ -5,7 +5,8 @@
   "order": "4",
   "parents": [
     "abstracts",
-    "relative-time-no"
+    "relative-time-no",
+    "informations"
   ],
   "props": {
     "en": "conditions",

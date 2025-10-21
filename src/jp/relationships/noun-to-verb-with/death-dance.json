@@ -1,0 +1,13 @@
+{
+  "_id": "pn6s0002ilp",
+  "name": "death-dance",
+  "params": {
+    "noun": "death",
+    "verb": "dance"
+  },
+  "parents": [
+    "noun-to-verb-with"
+  ],
+  "props": {
+  }
+}

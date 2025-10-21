@@ -1,0 +1,13 @@
+{
+  "_id": "1t18xmm2o4h",
+  "name": "utmost-strength-run",
+  "params": {
+    "noun": "utmost-strength",
+    "verb": "run"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "mopsyz5duaq",
+  "name": "the-present-temperature",
+  "params": {
+    "no": "the-present",
+    "noun": "temperature"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "s8q5exlj2ke",
+  "name": "emotions-contain",
+  "params": {
+    "noun": "emotions",
+    "verb": "contain"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

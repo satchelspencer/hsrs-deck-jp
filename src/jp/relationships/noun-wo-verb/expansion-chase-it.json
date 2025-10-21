@@ -1,0 +1,13 @@
+{
+  "_id": "71cycsdz2g8",
+  "name": "expansion-chase-it",
+  "params": {
+    "noun": "expansion",
+    "verb": "chase-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

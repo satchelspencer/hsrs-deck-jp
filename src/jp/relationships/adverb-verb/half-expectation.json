@@ -1,0 +1,13 @@
+{
+  "_id": "gewym9mrvl7",
+  "name": "half-expectation",
+  "params": {
+    "adv": "half",
+    "verb": "expectation"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

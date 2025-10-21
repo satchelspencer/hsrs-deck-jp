@@ -1,0 +1,13 @@
+{
+  "_id": "po48cmd0ki9",
+  "name": "black-shadow",
+  "params": {
+    "iadj": "black",
+    "noun": "shadow"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

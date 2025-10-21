@@ -1,0 +1,13 @@
+{
+  "_id": "e090lekj8rk",
+  "name": "land-mountain",
+  "params": {
+    "noun": "land",
+    "owner": "mountain"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

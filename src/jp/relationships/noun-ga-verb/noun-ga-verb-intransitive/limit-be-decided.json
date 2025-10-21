@@ -1,0 +1,13 @@
+{
+  "_id": "5j9lvcp0uwi",
+  "name": "limit-be-decided",
+  "params": {
+    "noun": "limit",
+    "verb": "be-decided"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

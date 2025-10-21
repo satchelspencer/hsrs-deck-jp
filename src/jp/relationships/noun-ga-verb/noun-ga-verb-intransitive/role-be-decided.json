@@ -1,0 +1,13 @@
+{
+  "_id": "3w2nzo4uwi",
+  "name": "role-be-decided",
+  "params": {
+    "noun": "role",
+    "verb": "be-decided"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

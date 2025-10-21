@@ -1,0 +1,13 @@
+{
+  "_id": "to9e5ibvox",
+  "name": "half-finish-it",
+  "params": {
+    "noun": "half",
+    "verb": "finish-it"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

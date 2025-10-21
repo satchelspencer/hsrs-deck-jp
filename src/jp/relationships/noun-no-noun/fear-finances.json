@@ -1,0 +1,13 @@
+{
+  "_id": "sybde2cm1db",
+  "name": "fear-finances",
+  "params": {
+    "noun": "fear",
+    "owner": "finances"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

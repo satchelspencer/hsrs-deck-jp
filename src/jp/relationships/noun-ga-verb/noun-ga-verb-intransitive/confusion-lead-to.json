@@ -1,0 +1,13 @@
+{
+  "_id": "demcpf4imj",
+  "name": "confusion-lead-to",
+  "params": {
+    "noun": "confusion",
+    "verb": "lead-to"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

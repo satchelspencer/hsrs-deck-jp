@@ -1,0 +1,13 @@
+{
+  "_id": "7kefgtbovw9",
+  "name": "correct-accomplish",
+  "params": {
+    "iadj": "correct",
+    "verb": "accomplish"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

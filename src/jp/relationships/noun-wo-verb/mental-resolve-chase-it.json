@@ -1,0 +1,13 @@
+{
+  "_id": "n5z42ue77w8",
+  "name": "mental-resolve-chase-it",
+  "params": {
+    "noun": "mental-resolve",
+    "verb": "chase-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

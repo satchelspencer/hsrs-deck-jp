@@ -1,0 +1,13 @@
+{
+  "_id": "apsq0snhelu",
+  "name": "effect-raise",
+  "params": {
+    "noun": "effect",
+    "verb": "raise"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "1sabm7thowy",
+  "name": "responsibility-be-decreased",
+  "params": {
+    "noun": "responsibility",
+    "verb": "be-decreased"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

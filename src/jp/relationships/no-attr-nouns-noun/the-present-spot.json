@@ -1,0 +1,13 @@
+{
+  "_id": "f0gm2g9sxmt",
+  "name": "the-present-spot",
+  "params": {
+    "no": "the-present",
+    "noun": "spot"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

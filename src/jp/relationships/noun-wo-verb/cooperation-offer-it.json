@@ -1,0 +1,13 @@
+{
+  "_id": "8hl88bf57w5",
+  "name": "cooperation-offer-it",
+  "params": {
+    "noun": "cooperation",
+    "verb": "offer-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "9skho0u55h",
+  "name": "appropriate-lead-to",
+  "params": {
+    "na": "appropriate",
+    "verb": "lead-to"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

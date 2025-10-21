@@ -1,0 +1,13 @@
+{
+  "_id": "ckul91ykz6",
+  "name": "complete-lead-to",
+  "params": {
+    "na": "complete",
+    "verb": "lead-to"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

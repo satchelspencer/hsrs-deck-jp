@@ -1,0 +1,13 @@
+{
+  "_id": "ahjvqxoznw",
+  "name": "confidence-collapse",
+  "params": {
+    "noun": "confidence",
+    "verb": "collapse"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "acbxyovuc2c",
+  "name": "topic-be-changed",
+  "params": {
+    "noun": "topic",
+    "verb": "be-changed"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

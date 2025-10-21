@@ -1,0 +1,13 @@
+{
+  "_id": "h1aih959eoc",
+  "name": "darkness-battle-it",
+  "params": {
+    "noun": "darkness",
+    "verb": "battle-it"
+  },
+  "parents": [
+    "noun-to-verb-with"
+  ],
+  "props": {
+  }
+}

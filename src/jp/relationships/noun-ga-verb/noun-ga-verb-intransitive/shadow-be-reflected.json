@@ -1,0 +1,13 @@
+{
+  "_id": "lhcqt8l621i",
+  "name": "shadow-be-reflected",
+  "params": {
+    "noun": "shadow",
+    "verb": "be-reflected"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

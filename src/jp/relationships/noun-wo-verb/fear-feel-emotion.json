@@ -1,0 +1,13 @@
+{
+  "_id": "ka93ywi6kgn",
+  "name": "fear-feel-emotion",
+  "params": {
+    "noun": "fear",
+    "verb": "feel-emotion"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

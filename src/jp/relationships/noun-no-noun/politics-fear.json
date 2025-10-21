@@ -1,0 +1,13 @@
+{
+  "_id": "quqor21syae",
+  "name": "politics-fear",
+  "params": {
+    "noun": "politics",
+    "owner": "fear"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "d5safmy94o5",
+  "name": "margin-be-defeated",
+  "params": {
+    "noun": "margin",
+    "verb": "be-defeated"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

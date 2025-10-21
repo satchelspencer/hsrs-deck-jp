@@ -1,0 +1,13 @@
+{
+  "_id": "cf9b89xwf6n",
+  "name": "status-limit",
+  "params": {
+    "noun": "status",
+    "owner": "limit"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

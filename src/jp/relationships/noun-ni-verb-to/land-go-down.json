@@ -1,0 +1,13 @@
+{
+  "_id": "i816jqzadqh",
+  "name": "land-go-down",
+  "params": {
+    "noun": "land",
+    "verb": "go-down"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

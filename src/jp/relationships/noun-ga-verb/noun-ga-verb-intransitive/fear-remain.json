@@ -1,0 +1,13 @@
+{
+  "_id": "kk72ekramxt",
+  "name": "fear-remain",
+  "params": {
+    "noun": "fear",
+    "verb": "remain"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

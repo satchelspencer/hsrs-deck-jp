@@ -1,0 +1,13 @@
+{
+  "_id": "zrh9oghf9l",
+  "name": "danger-contain",
+  "params": {
+    "noun": "danger",
+    "verb": "contain"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

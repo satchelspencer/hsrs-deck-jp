@@ -1,0 +1,13 @@
+{
+  "_id": "0f59hogaurle",
+  "name": "half-cut",
+  "params": {
+    "noun": "half",
+    "verb": "cut"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

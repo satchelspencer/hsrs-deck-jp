@@ -1,0 +1,13 @@
+{
+  "_id": "c2hyxdkgqhb",
+  "name": "limit-head-toward",
+  "params": {
+    "noun": "limit",
+    "verb": "head-toward"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

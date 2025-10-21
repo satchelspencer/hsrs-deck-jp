@@ -1,0 +1,13 @@
+{
+  "_id": "larycrntsgg",
+  "name": "limit-give-up",
+  "params": {
+    "noun": "limit",
+    "verb": "give-up"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "g6k5zicnx4s",
+  "name": "leaf-waft",
+  "params": {
+    "noun": "leaf",
+    "verb": "waft"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

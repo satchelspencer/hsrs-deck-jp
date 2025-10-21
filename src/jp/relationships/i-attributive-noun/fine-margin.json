@@ -1,0 +1,13 @@
+{
+  "_id": "t1congpjz8r",
+  "name": "fine-margin",
+  "params": {
+    "iadj": "fine",
+    "noun": "margin"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

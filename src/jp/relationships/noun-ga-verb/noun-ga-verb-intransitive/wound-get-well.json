@@ -1,0 +1,13 @@
+{
+  "_id": "yz8wa3dz7zc",
+  "name": "wound-get-well",
+  "params": {
+    "noun": "wound",
+    "verb": "get-well"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

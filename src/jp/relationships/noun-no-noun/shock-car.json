@@ -1,0 +1,13 @@
+{
+  "_id": "yj292dwwwc",
+  "name": "shock-car",
+  "params": {
+    "noun": "shock",
+    "owner": "car"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

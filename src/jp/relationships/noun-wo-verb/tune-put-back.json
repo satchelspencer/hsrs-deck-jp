@@ -1,0 +1,13 @@
+{
+  "_id": "54vc6ev4ttb",
+  "name": "tune-put-back",
+  "params": {
+    "noun": "tune",
+    "verb": "put-back"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

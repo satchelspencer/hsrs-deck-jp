@@ -1,0 +1,13 @@
+{
+  "_id": "djc31i77qpl",
+  "name": "margin-give-birth",
+  "params": {
+    "noun": "margin",
+    "verb": "give-birth"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

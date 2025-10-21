@@ -1,0 +1,13 @@
+{
+  "_id": "1w8b4c90ish",
+  "name": "land-step-on",
+  "params": {
+    "noun": "land",
+    "verb": "step-on"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

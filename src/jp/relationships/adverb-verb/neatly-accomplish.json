@@ -1,0 +1,13 @@
+{
+  "_id": "3ys35dorvwg",
+  "name": "neatly-accomplish",
+  "params": {
+    "adv": "neatly",
+    "verb": "accomplish"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

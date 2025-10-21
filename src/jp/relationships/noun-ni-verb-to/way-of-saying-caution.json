@@ -1,0 +1,13 @@
+{
+  "_id": "7b3agxplmcv",
+  "name": "way-of-saying-caution",
+  "params": {
+    "noun": "way-of-saying",
+    "verb": "caution"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

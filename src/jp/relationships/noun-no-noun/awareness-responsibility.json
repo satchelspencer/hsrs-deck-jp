@@ -1,0 +1,13 @@
+{
+  "_id": "y6cl96rkbi",
+  "name": "awareness-responsibility",
+  "params": {
+    "noun": "awareness",
+    "owner": "responsibility"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

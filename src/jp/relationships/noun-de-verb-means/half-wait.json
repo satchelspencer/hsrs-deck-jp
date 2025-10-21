@@ -1,0 +1,13 @@
+{
+  "_id": "9uy0h6hsuzo",
+  "name": "half-wait",
+  "params": {
+    "noun": "half",
+    "verb": "wait"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

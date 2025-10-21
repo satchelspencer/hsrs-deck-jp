@@ -1,0 +1,13 @@
+{
+  "_id": "4z91cfqa1yp",
+  "name": "reliable-accomplish",
+  "params": {
+    "na": "reliable",
+    "verb": "accomplish"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

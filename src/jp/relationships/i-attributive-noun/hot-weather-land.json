@@ -1,0 +1,13 @@
+{
+  "_id": "xoo5t3sh7k",
+  "name": "hot-weather-land",
+  "params": {
+    "iadj": "hot-weather",
+    "noun": "land"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "fzsug0mkp6r",
+  "name": "margin-be-decided",
+  "params": {
+    "noun": "margin",
+    "verb": "be-decided"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

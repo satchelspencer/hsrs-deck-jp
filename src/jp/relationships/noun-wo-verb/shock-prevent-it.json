@@ -1,0 +1,13 @@
+{
+  "_id": "mgn6aonl83",
+  "name": "shock-prevent-it",
+  "params": {
+    "noun": "shock",
+    "verb": "prevent-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

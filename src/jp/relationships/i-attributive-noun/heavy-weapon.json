@@ -1,0 +1,13 @@
+{
+  "_id": "613q6k2b787",
+  "name": "heavy-weapon",
+  "params": {
+    "iadj": "heavy",
+    "noun": "weapon"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

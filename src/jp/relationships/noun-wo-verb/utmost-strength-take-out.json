@@ -1,0 +1,13 @@
+{
+  "_id": "v09m8ykb8u",
+  "name": "utmost-strength-take-out",
+  "params": {
+    "noun": "utmost-strength",
+    "verb": "take-out"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "w1zt5t4g6w",
+  "name": "problem-sweat",
+  "params": {
+    "noun": "problem",
+    "owner": "sweat"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "mc5x7hsjoyq",
+  "name": "tune-be-changed",
+  "params": {
+    "noun": "tune",
+    "verb": "be-changed"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

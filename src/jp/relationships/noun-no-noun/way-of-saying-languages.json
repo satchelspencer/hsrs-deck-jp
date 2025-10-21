@@ -1,0 +1,13 @@
+{
+  "_id": "dxl4ch6mo3l",
+  "name": "way-of-saying-languages",
+  "params": {
+    "noun": "way-of-saying",
+    "owner": "languages"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

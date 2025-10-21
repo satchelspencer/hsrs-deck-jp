@@ -1,0 +1,13 @@
+{
+  "_id": "z5yg44x88t",
+  "name": "darkness-politics",
+  "params": {
+    "noun": "darkness",
+    "owner": "politics"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

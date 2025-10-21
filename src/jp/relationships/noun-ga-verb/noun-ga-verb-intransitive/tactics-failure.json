@@ -1,0 +1,13 @@
+{
+  "_id": "1v9wjcowgam",
+  "name": "tactics-failure",
+  "params": {
+    "noun": "tactics",
+    "verb": "failure"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

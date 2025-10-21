@@ -1,0 +1,13 @@
+{
+  "_id": "tcjuxk16aq",
+  "name": "mostly-contain",
+  "params": {
+    "adv": "mostly",
+    "verb": "contain"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

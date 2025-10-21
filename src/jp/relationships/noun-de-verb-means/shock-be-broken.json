@@ -1,0 +1,13 @@
+{
+  "_id": "k878ly21p0p",
+  "name": "shock-be-broken",
+  "params": {
+    "noun": "shock",
+    "verb": "be-broken"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

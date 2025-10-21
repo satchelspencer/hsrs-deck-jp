@@ -1,0 +1,13 @@
+{
+  "_id": "0wa7x8djx8l",
+  "name": "thick-darkness",
+  "params": {
+    "iadj": "thick",
+    "noun": "darkness"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

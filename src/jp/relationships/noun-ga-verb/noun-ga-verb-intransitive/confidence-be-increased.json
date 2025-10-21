@@ -1,0 +1,13 @@
+{
+  "_id": "37qcq9iff74",
+  "name": "confidence-be-increased",
+  "params": {
+    "noun": "confidence",
+    "verb": "be-increased"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

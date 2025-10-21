@@ -1,0 +1,13 @@
+{
+  "_id": "0ys6j6t568r",
+  "name": "shadow-turn-off",
+  "params": {
+    "noun": "shadow",
+    "verb": "turn-off"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

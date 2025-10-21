@@ -1,0 +1,13 @@
+{
+  "_id": "latw6n6axoe",
+  "name": "degree-wound",
+  "params": {
+    "noun": "degree",
+    "owner": "wound"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "bcd5poe71l9",
+  "name": "string-let-through",
+  "params": {
+    "noun": "string",
+    "verb": "let-through"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

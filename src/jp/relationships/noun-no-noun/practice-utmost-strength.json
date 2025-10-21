@@ -1,0 +1,13 @@
+{
+  "_id": "w6nxwqjc6k",
+  "name": "practice-utmost-strength",
+  "params": {
+    "noun": "practice",
+    "owner": "utmost-strength"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

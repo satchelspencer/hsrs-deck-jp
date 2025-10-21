@@ -1,0 +1,13 @@
+{
+  "_id": "2at8c6rqnxk",
+  "name": "color-land",
+  "params": {
+    "noun": "color",
+    "owner": "land"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

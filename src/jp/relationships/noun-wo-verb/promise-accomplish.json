@@ -1,0 +1,13 @@
+{
+  "_id": "m4st8f4h6ha",
+  "name": "promise-accomplish",
+  "params": {
+    "noun": "promise",
+    "verb": "accomplish"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

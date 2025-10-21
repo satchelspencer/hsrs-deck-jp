@@ -1,0 +1,13 @@
+{
+  "_id": "pe9rmaog4rq",
+  "name": "shock-earthquake",
+  "params": {
+    "noun": "shock",
+    "owner": "earthquake"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

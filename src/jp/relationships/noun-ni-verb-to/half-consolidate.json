@@ -1,0 +1,13 @@
+{
+  "_id": "vyhil6hufeb",
+  "name": "half-consolidate",
+  "params": {
+    "noun": "half",
+    "verb": "consolidate"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

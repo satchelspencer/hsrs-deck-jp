@@ -1,0 +1,13 @@
+{
+  "_id": "9xqwm7t6nn7",
+  "name": "topic-restrict-it",
+  "params": {
+    "noun": "topic",
+    "verb": "restrict-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

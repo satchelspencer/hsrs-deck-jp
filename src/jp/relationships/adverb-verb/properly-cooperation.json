@@ -1,0 +1,13 @@
+{
+  "_id": "4ua4uvgbb2",
+  "name": "properly-cooperation",
+  "params": {
+    "adv": "properly",
+    "verb": "cooperation"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

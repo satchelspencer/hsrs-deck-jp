@@ -1,0 +1,16 @@
+{
+  "_id": "qvy8l9udjl",
+  "desc": "",
+  "name": "half",
+  "order": "4",
+  "parents": [
+    "quantities",
+    "verb-adverbs"
+  ],
+  "props": {
+    "_ad": "halfway",
+    "en": "half",
+    "jp": "半分",
+    "tl": "はんぶん"
+  }
+}

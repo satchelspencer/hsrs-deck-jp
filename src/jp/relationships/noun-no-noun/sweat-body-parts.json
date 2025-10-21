@@ -1,0 +1,13 @@
+{
+  "_id": "4o01s1j05u3",
+  "name": "sweat-body-parts",
+  "params": {
+    "noun": "sweat",
+    "owner": "body-parts"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

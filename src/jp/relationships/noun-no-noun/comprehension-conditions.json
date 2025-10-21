@@ -1,0 +1,13 @@
+{
+  "_id": "cupdg58kh8e",
+  "name": "comprehension-conditions",
+  "params": {
+    "noun": "comprehension",
+    "owner": "conditions"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

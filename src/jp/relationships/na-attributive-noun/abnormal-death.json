@@ -1,0 +1,13 @@
+{
+  "_id": "gwwbh8gyx0i",
+  "name": "abnormal-death",
+  "params": {
+    "na": "abnormal",
+    "noun": "death"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "ibc3l7wc1u",
+  "name": "technique-cooperation",
+  "params": {
+    "noun": "technique",
+    "verb": "cooperation"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

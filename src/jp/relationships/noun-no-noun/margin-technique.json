@@ -1,0 +1,13 @@
+{
+  "_id": "l76fjbbhny",
+  "name": "margin-technique",
+  "params": {
+    "noun": "margin",
+    "owner": "technique"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

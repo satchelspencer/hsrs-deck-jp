@@ -1,0 +1,13 @@
+{
+  "_id": "uz76f7olxf8",
+  "name": "limit-be-broken",
+  "params": {
+    "noun": "limit",
+    "verb": "be-broken"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

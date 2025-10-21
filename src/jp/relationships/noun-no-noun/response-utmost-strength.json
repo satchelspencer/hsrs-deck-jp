@@ -1,0 +1,13 @@
+{
+  "_id": "ijhureqz01",
+  "name": "response-utmost-strength",
+  "params": {
+    "noun": "response",
+    "owner": "utmost-strength"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

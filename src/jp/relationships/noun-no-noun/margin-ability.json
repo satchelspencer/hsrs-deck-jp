@@ -1,0 +1,13 @@
+{
+  "_id": "1pq789iizfq",
+  "name": "margin-ability",
+  "params": {
+    "noun": "margin",
+    "owner": "ability"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "ila8e3mxyvl",
+  "name": "tactics-objection",
+  "params": {
+    "noun": "tactics",
+    "verb": "objection"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

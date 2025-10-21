@@ -1,0 +1,13 @@
+{
+  "_id": "j69sgev4mvs",
+  "name": "way-of-saying-be-decided",
+  "params": {
+    "noun": "way-of-saying",
+    "verb": "be-decided"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "bcrozfvzrg",
+  "name": "wound-turn-off",
+  "params": {
+    "noun": "wound",
+    "verb": "turn-off"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

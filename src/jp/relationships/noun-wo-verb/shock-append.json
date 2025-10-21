@@ -1,0 +1,13 @@
+{
+  "_id": "34wylxuru9z",
+  "name": "shock-append",
+  "params": {
+    "noun": "shock",
+    "verb": "append"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

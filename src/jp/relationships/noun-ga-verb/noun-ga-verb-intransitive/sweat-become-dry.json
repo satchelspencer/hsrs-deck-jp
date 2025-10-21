@@ -1,0 +1,13 @@
+{
+  "_id": "avw78poncpm",
+  "name": "sweat-become-dry",
+  "params": {
+    "noun": "sweat",
+    "verb": "become-dry"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

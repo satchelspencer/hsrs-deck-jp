@@ -1,0 +1,13 @@
+{
+  "_id": "wj0qibhjxgn",
+  "name": "cause-tune",
+  "params": {
+    "noun": "cause",
+    "owner": "tune"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

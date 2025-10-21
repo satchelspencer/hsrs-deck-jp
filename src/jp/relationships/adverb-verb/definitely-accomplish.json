@@ -1,0 +1,13 @@
+{
+  "_id": "fmcsvmncjze",
+  "name": "definitely-accomplish",
+  "params": {
+    "adv": "definitely",
+    "verb": "accomplish"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

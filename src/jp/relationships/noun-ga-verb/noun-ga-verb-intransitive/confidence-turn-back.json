@@ -1,0 +1,13 @@
+{
+  "_id": "0mzf72xuf94i",
+  "name": "confidence-turn-back",
+  "params": {
+    "noun": "confidence",
+    "verb": "turn-back"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

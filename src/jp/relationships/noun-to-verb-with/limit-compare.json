@@ -1,0 +1,13 @@
+{
+  "_id": "66usyxh3jci",
+  "name": "limit-compare",
+  "params": {
+    "noun": "limit",
+    "verb": "compare"
+  },
+  "parents": [
+    "noun-to-verb-with"
+  ],
+  "props": {
+  }
+}

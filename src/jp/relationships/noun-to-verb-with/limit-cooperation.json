@@ -1,0 +1,13 @@
+{
+  "_id": "4nigpt10p2r",
+  "name": "limit-cooperation",
+  "params": {
+    "noun": "limit",
+    "verb": "cooperation"
+  },
+  "parents": [
+    "noun-to-verb-with"
+  ],
+  "props": {
+  }
+}

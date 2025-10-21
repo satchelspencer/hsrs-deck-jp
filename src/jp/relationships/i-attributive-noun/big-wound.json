@@ -1,0 +1,13 @@
+{
+  "_id": "g116xartlfh",
+  "name": "big-wound",
+  "params": {
+    "iadj": "big",
+    "noun": "wound"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

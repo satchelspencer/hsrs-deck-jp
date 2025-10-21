@@ -1,0 +1,13 @@
+{
+  "_id": "otpfmi5k7is",
+  "name": "goal-limit",
+  "params": {
+    "noun": "goal",
+    "owner": "limit"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

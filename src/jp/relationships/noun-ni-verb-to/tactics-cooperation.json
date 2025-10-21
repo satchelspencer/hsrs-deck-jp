@@ -1,0 +1,13 @@
+{
+  "_id": "23i9fztx36f",
+  "name": "tactics-cooperation",
+  "params": {
+    "noun": "tactics",
+    "verb": "cooperation"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

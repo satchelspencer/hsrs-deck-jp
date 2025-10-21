@@ -1,0 +1,13 @@
+{
+  "_id": "sb3q7w6isl",
+  "name": "fear-turn-off",
+  "params": {
+    "noun": "fear",
+    "verb": "turn-off"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

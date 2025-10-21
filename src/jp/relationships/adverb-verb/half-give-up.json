@@ -1,0 +1,13 @@
+{
+  "_id": "40iwtf8jvji",
+  "name": "half-give-up",
+  "params": {
+    "adv": "half",
+    "verb": "give-up"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "u88mv16jk9g",
+  "name": "smoke-waft",
+  "params": {
+    "noun": "smoke",
+    "verb": "waft"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

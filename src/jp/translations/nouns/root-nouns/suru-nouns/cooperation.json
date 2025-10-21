@@ -6,7 +6,10 @@
     "suru-nouns",
     "te-iru-verbs-continuous",
     "people-do-volitional",
-    "do-togethers"
+    "do-togethers",
+    "people-no",
+    "ni-person-verbs",
+    "de-location-verbs"
   ],
   "props": {
     "_pg": "cooperating",

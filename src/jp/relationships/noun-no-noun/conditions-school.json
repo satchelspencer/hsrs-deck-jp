@@ -1,0 +1,13 @@
+{
+  "_id": "5egy9vh40ku",
+  "name": "conditions-school",
+  "params": {
+    "noun": "conditions",
+    "owner": "school"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

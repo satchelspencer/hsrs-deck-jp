@@ -1,0 +1,13 @@
+{
+  "_id": "8e5bruagpwe",
+  "name": "responsibility-operation",
+  "params": {
+    "noun": "responsibility",
+    "verb": "operation"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "rv11atxz1d",
+  "name": "weapon-fall",
+  "params": {
+    "noun": "weapon",
+    "verb": "fall"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

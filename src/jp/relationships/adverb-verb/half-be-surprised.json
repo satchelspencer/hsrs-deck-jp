@@ -1,0 +1,13 @@
+{
+  "_id": "sp02hk2tk1d",
+  "name": "half-be-surprised",
+  "params": {
+    "adv": "half",
+    "verb": "be-surprised"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

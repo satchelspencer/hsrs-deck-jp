@@ -1,0 +1,13 @@
+{
+  "_id": "ptjzoe5aw4",
+  "name": "confidence-show",
+  "params": {
+    "noun": "confidence",
+    "verb": "show"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

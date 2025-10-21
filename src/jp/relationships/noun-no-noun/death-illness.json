@@ -1,0 +1,13 @@
+{
+  "_id": "znqp3thxn7",
+  "name": "death-illness",
+  "params": {
+    "noun": "death",
+    "owner": "illness"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

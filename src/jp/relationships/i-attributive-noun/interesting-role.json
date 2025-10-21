@@ -1,0 +1,13 @@
+{
+  "_id": "rwrf4r9x38",
+  "name": "interesting-role",
+  "params": {
+    "iadj": "interesting",
+    "noun": "role"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "04xjfu8w6xb1",
+  "name": "limit-hours",
+  "params": {
+    "noun": "limit",
+    "owner": "hours"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

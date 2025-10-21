@@ -1,0 +1,13 @@
+{
+  "_id": "g9rntakclgt",
+  "name": "state-of-affairs-notice",
+  "params": {
+    "noun": "state-of-affairs",
+    "verb": "notice"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

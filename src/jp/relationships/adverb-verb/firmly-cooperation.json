@@ -1,0 +1,13 @@
+{
+  "_id": "7rya7i97r5i",
+  "name": "firmly-cooperation",
+  "params": {
+    "adv": "firmly",
+    "verb": "cooperation"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

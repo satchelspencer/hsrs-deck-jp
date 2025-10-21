@@ -1,0 +1,13 @@
+{
+  "_id": "ifimws2ninr",
+  "name": "the-present-comprehension",
+  "params": {
+    "noun": "the-present",
+    "verb": "comprehension"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

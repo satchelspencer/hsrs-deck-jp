@@ -1,0 +1,13 @@
+{
+  "_id": "mutcjkexii",
+  "name": "wound-be-attached",
+  "params": {
+    "noun": "wound",
+    "verb": "be-attached"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

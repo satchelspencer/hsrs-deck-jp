@@ -1,0 +1,13 @@
+{
+  "_id": "knbil6uk8io",
+  "name": "record-tune",
+  "params": {
+    "noun": "record",
+    "owner": "tune"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

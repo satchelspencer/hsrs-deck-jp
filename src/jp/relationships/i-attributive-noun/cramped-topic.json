@@ -1,0 +1,13 @@
+{
+  "_id": "19xk43u8yzv",
+  "name": "cramped-topic",
+  "params": {
+    "iadj": "cramped",
+    "noun": "topic"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "h899m715xe",
+  "name": "strongest-weapon",
+  "params": {
+    "no": "strongest",
+    "noun": "weapon"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

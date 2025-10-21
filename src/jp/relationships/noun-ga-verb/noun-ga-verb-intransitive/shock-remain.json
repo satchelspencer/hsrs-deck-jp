@@ -1,0 +1,13 @@
+{
+  "_id": "ctcliq2arxm",
+  "name": "shock-remain",
+  "params": {
+    "noun": "shock",
+    "verb": "remain"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

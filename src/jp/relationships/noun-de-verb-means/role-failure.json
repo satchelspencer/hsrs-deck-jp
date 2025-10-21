@@ -1,0 +1,13 @@
+{
+  "_id": "q77cew0n1h",
+  "name": "role-failure",
+  "params": {
+    "noun": "role",
+    "verb": "failure"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

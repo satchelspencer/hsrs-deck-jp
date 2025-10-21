@@ -1,0 +1,13 @@
+{
+  "_id": "pxyabdgf4v",
+  "name": "mental-resolve-battle",
+  "params": {
+    "noun": "mental-resolve",
+    "owner": "battle"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

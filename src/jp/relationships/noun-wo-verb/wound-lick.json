@@ -1,0 +1,13 @@
+{
+  "_id": "0f7xwi1ub49i",
+  "name": "wound-lick",
+  "params": {
+    "noun": "wound",
+    "verb": "lick"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

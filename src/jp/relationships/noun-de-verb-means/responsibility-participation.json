@@ -1,0 +1,13 @@
+{
+  "_id": "gxvkwom272e",
+  "name": "responsibility-participation",
+  "params": {
+    "noun": "responsibility",
+    "verb": "participation"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "bepr2w219e",
+  "name": "darkness-buy",
+  "params": {
+    "noun": "darkness",
+    "verb": "buy"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

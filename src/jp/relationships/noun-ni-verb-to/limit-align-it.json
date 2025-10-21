@@ -1,0 +1,13 @@
+{
+  "_id": "dnk9cjs9q2",
+  "name": "limit-align-it",
+  "params": {
+    "noun": "limit",
+    "verb": "align-it"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

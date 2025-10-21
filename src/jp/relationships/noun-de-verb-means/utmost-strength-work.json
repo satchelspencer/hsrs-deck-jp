@@ -1,0 +1,13 @@
+{
+  "_id": "vrrb4dvqe4d",
+  "name": "utmost-strength-work",
+  "params": {
+    "noun": "utmost-strength",
+    "verb": "work"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

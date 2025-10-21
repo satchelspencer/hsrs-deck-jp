@@ -4,10 +4,12 @@
   "name": "contain",
   "order": "4",
   "parents": [
-    "godan-mu"
+    "godan-mu",
+    "te-iru-verbs-state"
   ],
   "props": {
-    "en": "contain",
+    "_st": "containing",
+    "en": "contain it",
     "jp": "含む",
     "tl": "ふくむ"
   }

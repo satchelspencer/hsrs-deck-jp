@@ -1,0 +1,13 @@
+{
+  "_id": "hfvcmgrb92l",
+  "name": "fear-win",
+  "params": {
+    "noun": "fear",
+    "verb": "win"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

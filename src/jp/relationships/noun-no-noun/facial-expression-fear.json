@@ -1,0 +1,13 @@
+{
+  "_id": "fv1fzt8gohr",
+  "name": "facial-expression-fear",
+  "params": {
+    "noun": "facial-expression",
+    "owner": "fear"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

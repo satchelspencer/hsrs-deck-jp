@@ -1,0 +1,13 @@
+{
+  "_id": "774lmfhubr3",
+  "name": "polite-na-cooperation",
+  "params": {
+    "na": "polite-na",
+    "verb": "cooperation"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

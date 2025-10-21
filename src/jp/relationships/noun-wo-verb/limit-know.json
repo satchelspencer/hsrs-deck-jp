@@ -1,0 +1,13 @@
+{
+  "_id": "8q7eckt5zs2",
+  "name": "limit-know",
+  "params": {
+    "noun": "limit",
+    "verb": "know"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

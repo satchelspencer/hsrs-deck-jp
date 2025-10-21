@@ -1,0 +1,13 @@
+{
+  "_id": "k3nxn09uzyr",
+  "name": "bright-topic",
+  "params": {
+    "iadj": "bright",
+    "noun": "topic"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

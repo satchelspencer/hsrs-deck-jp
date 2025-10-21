@@ -1,0 +1,13 @@
+{
+  "_id": "5pziv4zsy05",
+  "name": "a-lot-cooperation",
+  "params": {
+    "adv": "a-lot",
+    "verb": "cooperation"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

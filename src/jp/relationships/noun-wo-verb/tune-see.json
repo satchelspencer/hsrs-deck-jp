@@ -1,0 +1,13 @@
+{
+  "_id": "qhrql3kmbi",
+  "name": "tune-see",
+  "params": {
+    "noun": "tune",
+    "verb": "see"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

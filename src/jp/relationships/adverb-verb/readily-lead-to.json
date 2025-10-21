@@ -1,0 +1,13 @@
+{
+  "_id": "iob3g7m9b5",
+  "name": "readily-lead-to",
+  "params": {
+    "adv": "readily",
+    "verb": "lead-to"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

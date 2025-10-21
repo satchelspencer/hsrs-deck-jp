@@ -1,0 +1,13 @@
+{
+  "_id": "pbch2fpkmjd",
+  "name": "limit-stamina",
+  "params": {
+    "noun": "limit",
+    "owner": "stamina"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "zebc1fxhz",
+  "name": "happy-cooperation",
+  "params": {
+    "iadj": "happy",
+    "noun": "cooperation"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "47sfo3zm00k",
+  "name": "confidence-be-deprived",
+  "params": {
+    "noun": "confidence",
+    "verb": "be-deprived"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

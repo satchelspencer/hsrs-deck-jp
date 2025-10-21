@@ -1,0 +1,13 @@
+{
+  "_id": "o35fwsh6rle",
+  "name": "limit-spread-out",
+  "params": {
+    "noun": "limit",
+    "verb": "spread-out"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

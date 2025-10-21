@@ -1,0 +1,13 @@
+{
+  "_id": "wmv3q5mauv",
+  "name": "limit-rest",
+  "params": {
+    "noun": "limit",
+    "verb": "rest"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

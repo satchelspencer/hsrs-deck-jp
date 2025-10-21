@@ -1,0 +1,13 @@
+{
+  "_id": "cp4oenj8p7m",
+  "name": "weapon-break-it",
+  "params": {
+    "noun": "weapon",
+    "verb": "break-it"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

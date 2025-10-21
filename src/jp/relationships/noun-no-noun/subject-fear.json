@@ -1,0 +1,13 @@
+{
+  "_id": "xt77n4zki8",
+  "name": "subject-fear",
+  "params": {
+    "noun": "subject",
+    "owner": "fear"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "t9wzxi2wjh",
+  "name": "slow-expansion",
+  "params": {
+    "iadj": "slow",
+    "noun": "expansion"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

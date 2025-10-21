@@ -1,0 +1,13 @@
+{
+  "_id": "qwnrprt8hvp",
+  "name": "attack-utmost-strength",
+  "params": {
+    "noun": "attack",
+    "owner": "utmost-strength"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

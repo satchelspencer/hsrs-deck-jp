@@ -1,0 +1,13 @@
+{
+  "_id": "0hsl8qbcn3iu",
+  "name": "tune-ride",
+  "params": {
+    "noun": "tune",
+    "verb": "ride"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

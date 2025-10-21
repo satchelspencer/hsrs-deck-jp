@@ -1,0 +1,13 @@
+{
+  "_id": "wij4zyaqrh",
+  "name": "tactics-police",
+  "params": {
+    "noun": "tactics",
+    "owner": "police"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

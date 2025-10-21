@@ -1,0 +1,13 @@
+{
+  "_id": "1jmkzvwluc1",
+  "name": "darkness-fear-it",
+  "params": {
+    "noun": "darkness",
+    "verb": "fear-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

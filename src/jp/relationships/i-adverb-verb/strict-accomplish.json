@@ -1,0 +1,13 @@
+{
+  "_id": "trzjqzamvn",
+  "name": "strict-accomplish",
+  "params": {
+    "iadj": "strict",
+    "verb": "accomplish"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

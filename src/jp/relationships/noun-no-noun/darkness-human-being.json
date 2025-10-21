@@ -1,0 +1,13 @@
+{
+  "_id": "m09pg1nq62",
+  "name": "darkness-human-being",
+  "params": {
+    "noun": "darkness",
+    "owner": "human-being"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

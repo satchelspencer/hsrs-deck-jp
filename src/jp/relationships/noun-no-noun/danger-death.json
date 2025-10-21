@@ -1,0 +1,13 @@
+{
+  "_id": "oyg26axrt2",
+  "name": "danger-death",
+  "params": {
+    "noun": "danger",
+    "owner": "death"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

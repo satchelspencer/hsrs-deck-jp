@@ -1,0 +1,13 @@
+{
+  "_id": "4swleufqvxa",
+  "name": "responsibility-utilization",
+  "params": {
+    "noun": "responsibility",
+    "verb": "utilization"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

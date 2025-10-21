@@ -1,0 +1,13 @@
+{
+  "_id": "escsw6ytanu",
+  "name": "the-present-be-living",
+  "params": {
+    "noun": "the-present",
+    "verb": "be-living"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

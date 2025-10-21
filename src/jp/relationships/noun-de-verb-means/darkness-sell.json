@@ -1,0 +1,13 @@
+{
+  "_id": "7wp0bj3sfwx",
+  "name": "darkness-sell",
+  "params": {
+    "noun": "darkness",
+    "verb": "sell"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

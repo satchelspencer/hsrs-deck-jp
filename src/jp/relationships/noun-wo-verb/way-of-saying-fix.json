@@ -1,0 +1,13 @@
+{
+  "_id": "lm6ihjpuy78",
+  "name": "way-of-saying-fix",
+  "params": {
+    "noun": "way-of-saying",
+    "verb": "fix"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

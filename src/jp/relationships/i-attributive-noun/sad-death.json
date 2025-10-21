@@ -1,0 +1,13 @@
+{
+  "_id": "srgydk92fzl",
+  "name": "sad-death",
+  "params": {
+    "iadj": "sad",
+    "noun": "death"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "ok02lx1iyug",
+  "name": "tepid-sweat",
+  "params": {
+    "iadj": "tepid",
+    "noun": "sweat"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "qzjahrim7pg",
+  "name": "fear-death",
+  "params": {
+    "noun": "fear",
+    "owner": "death"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

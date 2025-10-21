@@ -1,0 +1,13 @@
+{
+  "_id": "cpdt4ijjyo",
+  "name": "cold-weather-land",
+  "params": {
+    "iadj": "cold-weather",
+    "noun": "land"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

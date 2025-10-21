@@ -1,0 +1,13 @@
+{
+  "_id": "5r6lbnwfzst",
+  "name": "tactics-be-late",
+  "params": {
+    "noun": "tactics",
+    "verb": "be-late"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

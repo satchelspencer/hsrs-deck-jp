@@ -1,0 +1,13 @@
+{
+  "_id": "pank15sguyn",
+  "name": "low-effect",
+  "params": {
+    "iadj": "low",
+    "noun": "effect"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

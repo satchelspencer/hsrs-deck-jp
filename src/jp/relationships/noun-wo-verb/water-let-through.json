@@ -1,0 +1,13 @@
+{
+  "_id": "gv51ltcus0l",
+  "name": "water-let-through",
+  "params": {
+    "noun": "water",
+    "verb": "let-through"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

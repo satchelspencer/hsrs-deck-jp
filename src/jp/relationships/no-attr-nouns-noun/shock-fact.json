@@ -1,0 +1,13 @@
+{
+  "_id": "2iphbkw6ghn",
+  "name": "shock-fact",
+  "params": {
+    "no": "shock",
+    "noun": "fact"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

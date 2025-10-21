@@ -1,0 +1,13 @@
+{
+  "_id": "hvu7loqzl7b",
+  "name": "way-of-saying-choose",
+  "params": {
+    "noun": "way-of-saying",
+    "verb": "choose"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

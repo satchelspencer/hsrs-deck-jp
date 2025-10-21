@@ -1,0 +1,13 @@
+{
+  "_id": "xzs2yf5w1d8",
+  "name": "sufficient-accomplish",
+  "params": {
+    "na": "sufficient",
+    "verb": "accomplish"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

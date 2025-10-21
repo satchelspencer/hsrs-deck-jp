@@ -1,0 +1,13 @@
+{
+  "_id": "n2ed2584xb9",
+  "name": "way-of-saying-get-used-to",
+  "params": {
+    "noun": "way-of-saying",
+    "verb": "get-used-to"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

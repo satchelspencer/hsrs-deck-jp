@@ -1,0 +1,13 @@
+{
+  "_id": "ra1fux3j6a",
+  "name": "limit-fall-over",
+  "params": {
+    "noun": "limit",
+    "verb": "fall-over"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

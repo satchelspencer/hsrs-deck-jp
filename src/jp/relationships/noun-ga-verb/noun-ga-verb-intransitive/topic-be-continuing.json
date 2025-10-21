@@ -1,0 +1,13 @@
+{
+  "_id": "kqbs5wphig",
+  "name": "topic-be-continuing",
+  "params": {
+    "noun": "topic",
+    "verb": "be-continuing"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

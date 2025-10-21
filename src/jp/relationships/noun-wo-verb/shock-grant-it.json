@@ -1,0 +1,13 @@
+{
+  "_id": "hgz3qyc22tu",
+  "name": "shock-grant-it",
+  "params": {
+    "noun": "shock",
+    "verb": "grant-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

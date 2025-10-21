@@ -1,0 +1,13 @@
+{
+  "_id": "b6byfezqmgc",
+  "name": "new-limit",
+  "params": {
+    "iadj": "new",
+    "noun": "limit"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

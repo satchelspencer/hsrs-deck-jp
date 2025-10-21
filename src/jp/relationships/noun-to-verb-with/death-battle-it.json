@@ -1,0 +1,13 @@
+{
+  "_id": "bpp72x6iuyw",
+  "name": "death-battle-it",
+  "params": {
+    "noun": "death",
+    "verb": "battle-it"
+  },
+  "parents": [
+    "noun-to-verb-with"
+  ],
+  "props": {
+  }
+}

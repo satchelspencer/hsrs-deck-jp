@@ -1,0 +1,13 @@
+{
+  "_id": "5pmb80em0j8",
+  "name": "mental-resolve-choose",
+  "params": {
+    "noun": "mental-resolve",
+    "verb": "choose"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

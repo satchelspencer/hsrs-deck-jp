@@ -1,0 +1,13 @@
+{
+  "_id": "o9ohbgd5cbs",
+  "name": "quiet-waft",
+  "params": {
+    "na": "quiet",
+    "verb": "waft"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

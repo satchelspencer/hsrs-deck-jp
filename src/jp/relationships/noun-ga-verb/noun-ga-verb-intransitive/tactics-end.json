@@ -1,0 +1,13 @@
+{
+  "_id": "ccm6ptcd25",
+  "name": "tactics-end",
+  "params": {
+    "noun": "tactics",
+    "verb": "end"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

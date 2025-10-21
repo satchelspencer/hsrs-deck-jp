@@ -1,0 +1,13 @@
+{
+  "_id": "2909doo7qdt",
+  "name": "wound-paint-it",
+  "params": {
+    "noun": "wound",
+    "verb": "paint-it"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

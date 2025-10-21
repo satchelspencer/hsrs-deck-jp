@@ -1,0 +1,13 @@
+{
+  "_id": "olnvfa9c549",
+  "name": "topic-news",
+  "params": {
+    "noun": "topic",
+    "owner": "news"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

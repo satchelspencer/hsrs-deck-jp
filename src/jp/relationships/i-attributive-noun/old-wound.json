@@ -1,0 +1,13 @@
+{
+  "_id": "t03exy4uv2",
+  "name": "old-wound",
+  "params": {
+    "iadj": "old",
+    "noun": "wound"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

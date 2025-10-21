@@ -1,0 +1,13 @@
+{
+  "_id": "h3et2j9mln5",
+  "name": "polite-na-way-of-saying",
+  "params": {
+    "na": "polite-na",
+    "noun": "way-of-saying"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "3nmeid7dlsg",
+  "name": "bad-tune",
+  "params": {
+    "iadj": "bad",
+    "noun": "tune"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

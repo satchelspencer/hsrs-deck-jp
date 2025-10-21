@@ -1,0 +1,13 @@
+{
+  "_id": "tifo8p6jei",
+  "name": "limit-endurance",
+  "params": {
+    "noun": "limit",
+    "verb": "endurance"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

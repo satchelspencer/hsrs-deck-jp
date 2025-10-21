@@ -1,0 +1,13 @@
+{
+  "_id": "8o6yb96zf9h",
+  "name": "fear-supress",
+  "params": {
+    "noun": "fear",
+    "verb": "supress"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

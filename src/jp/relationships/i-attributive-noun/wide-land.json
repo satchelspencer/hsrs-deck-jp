@@ -1,0 +1,13 @@
+{
+  "_id": "imyrqfylmn",
+  "name": "wide-land",
+  "params": {
+    "iadj": "wide",
+    "noun": "land"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

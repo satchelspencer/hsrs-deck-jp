@@ -1,0 +1,13 @@
+{
+  "_id": "h55yg5mpjm",
+  "name": "success-lead-to",
+  "params": {
+    "noun": "success",
+    "verb": "lead-to"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

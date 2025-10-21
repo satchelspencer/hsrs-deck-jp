@@ -1,0 +1,13 @@
+{
+  "_id": "auskecjhwo",
+  "name": "way-of-saying-change",
+  "params": {
+    "noun": "way-of-saying",
+    "verb": "change"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

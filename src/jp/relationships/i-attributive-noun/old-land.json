@@ -1,0 +1,13 @@
+{
+  "_id": "x1xkc5k7e1",
+  "name": "old-land",
+  "params": {
+    "iadj": "old",
+    "noun": "land"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

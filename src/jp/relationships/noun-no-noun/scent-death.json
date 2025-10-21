@@ -1,0 +1,13 @@
+{
+  "_id": "s0k8crcmqe",
+  "name": "scent-death",
+  "params": {
+    "noun": "scent",
+    "owner": "death"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

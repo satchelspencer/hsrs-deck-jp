@@ -1,0 +1,13 @@
+{
+  "_id": "hpmpwthz4ys",
+  "name": "quiet-land",
+  "params": {
+    "na": "quiet",
+    "noun": "land"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

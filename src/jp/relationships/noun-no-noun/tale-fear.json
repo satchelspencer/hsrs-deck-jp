@@ -1,0 +1,13 @@
+{
+  "_id": "o40x16kdwuj",
+  "name": "tale-fear",
+  "params": {
+    "noun": "tale",
+    "owner": "fear"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

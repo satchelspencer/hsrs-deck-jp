@@ -1,0 +1,13 @@
+{
+  "_id": "gddlwvmuhpp",
+  "name": "mental-resolve-surgery",
+  "params": {
+    "noun": "mental-resolve",
+    "owner": "surgery"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "ydjqm8bh299",
+  "name": "effect-studies",
+  "params": {
+    "noun": "effect",
+    "owner": "studies"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

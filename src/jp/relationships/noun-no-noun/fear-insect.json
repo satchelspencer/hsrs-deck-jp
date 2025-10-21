@@ -1,0 +1,13 @@
+{
+  "_id": "z8bjgk3c5ik",
+  "name": "fear-insect",
+  "params": {
+    "noun": "fear",
+    "owner": "insect"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "h5w8fq4fhos",
+  "name": "way-of-saying-be-changed",
+  "params": {
+    "noun": "way-of-saying",
+    "verb": "be-changed"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

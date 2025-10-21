@@ -1,0 +1,13 @@
+{
+  "_id": "7dkkx8znzai",
+  "name": "shock-catch",
+  "params": {
+    "noun": "shock",
+    "verb": "catch"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

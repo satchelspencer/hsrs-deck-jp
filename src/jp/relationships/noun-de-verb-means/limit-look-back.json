@@ -1,0 +1,13 @@
+{
+  "_id": "kpnqo1lg42",
+  "name": "limit-look-back",
+  "params": {
+    "noun": "limit",
+    "verb": "look-back"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

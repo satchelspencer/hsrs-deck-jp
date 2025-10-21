@@ -1,0 +1,13 @@
+{
+  "_id": "qaukxllpj18",
+  "name": "difficult-tactics",
+  "params": {
+    "iadj": "difficult",
+    "noun": "tactics"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "s05bauang8r",
+  "name": "topic-relationship",
+  "params": {
+    "noun": "topic",
+    "verb": "relationship"
+  },
+  "parents": [
+    "noun-to-verb-with"
+  ],
+  "props": {
+  }
+}

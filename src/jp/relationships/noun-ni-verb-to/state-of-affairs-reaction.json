@@ -1,0 +1,13 @@
+{
+  "_id": "y2q50lbhgwb",
+  "name": "state-of-affairs-reaction",
+  "params": {
+    "noun": "state-of-affairs",
+    "verb": "reaction"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

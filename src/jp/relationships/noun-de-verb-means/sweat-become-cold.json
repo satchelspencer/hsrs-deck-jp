@@ -1,0 +1,13 @@
+{
+  "_id": "oy4aw0oikfp",
+  "name": "sweat-become-cold",
+  "params": {
+    "noun": "sweat",
+    "verb": "become-cold"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

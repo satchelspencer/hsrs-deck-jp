@@ -1,0 +1,13 @@
+{
+  "_id": "1aj59vp1f11",
+  "name": "the-present-situation",
+  "params": {
+    "no": "the-present",
+    "noun": "situation"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

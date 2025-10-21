@@ -1,0 +1,13 @@
+{
+  "_id": "xr0faxh59u",
+  "name": "margin-come-out",
+  "params": {
+    "noun": "margin",
+    "verb": "come-out"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

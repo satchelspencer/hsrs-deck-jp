@@ -1,0 +1,13 @@
+{
+  "_id": "0fn1r05qu1ha",
+  "name": "organization-darkness",
+  "params": {
+    "noun": "organization",
+    "owner": "darkness"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

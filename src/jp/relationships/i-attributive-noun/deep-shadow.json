@@ -1,0 +1,13 @@
+{
+  "_id": "ca1jk5lo64l",
+  "name": "deep-shadow",
+  "params": {
+    "iadj": "deep",
+    "noun": "shadow"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

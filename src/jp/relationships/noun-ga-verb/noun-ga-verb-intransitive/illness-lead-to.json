@@ -1,0 +1,13 @@
+{
+  "_id": "vzmuakbytp",
+  "name": "illness-lead-to",
+  "params": {
+    "noun": "illness",
+    "verb": "lead-to"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

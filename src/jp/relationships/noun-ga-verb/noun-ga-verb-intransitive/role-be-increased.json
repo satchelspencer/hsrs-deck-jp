@@ -1,0 +1,13 @@
+{
+  "_id": "ebufhhgzzhl",
+  "name": "role-be-increased",
+  "params": {
+    "noun": "role",
+    "verb": "be-increased"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

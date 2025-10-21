@@ -1,0 +1,13 @@
+{
+  "_id": "0ofnigj5nzc8",
+  "name": "fear-memorize",
+  "params": {
+    "noun": "fear",
+    "verb": "memorize"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

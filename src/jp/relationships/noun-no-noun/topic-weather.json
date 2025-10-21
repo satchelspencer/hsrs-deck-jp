@@ -1,0 +1,13 @@
+{
+  "_id": "zp56qjebhr",
+  "name": "topic-weather",
+  "params": {
+    "noun": "topic",
+    "owner": "weather"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

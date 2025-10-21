@@ -1,0 +1,13 @@
+{
+  "_id": "z2pa98rw43l",
+  "name": "mental-resolve-possess",
+  "params": {
+    "noun": "mental-resolve",
+    "verb": "possess"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

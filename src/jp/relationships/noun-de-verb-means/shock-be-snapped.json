@@ -1,0 +1,13 @@
+{
+  "_id": "uk7jhnz2w5s",
+  "name": "shock-be-snapped",
+  "params": {
+    "noun": "shock",
+    "verb": "be-snapped"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

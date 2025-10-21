@@ -1,0 +1,13 @@
+{
+  "_id": "xe368j9e8f",
+  "name": "shadow-chase-it",
+  "params": {
+    "noun": "shadow",
+    "verb": "chase-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

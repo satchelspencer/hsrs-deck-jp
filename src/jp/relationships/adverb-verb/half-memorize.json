@@ -1,0 +1,13 @@
+{
+  "_id": "jb7k08fegd",
+  "name": "half-memorize",
+  "params": {
+    "adv": "half",
+    "verb": "memorize"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

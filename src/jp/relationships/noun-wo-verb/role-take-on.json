@@ -1,0 +1,13 @@
+{
+  "_id": "fj1i6gt4r9d",
+  "name": "role-take-on",
+  "params": {
+    "noun": "role",
+    "verb": "take-on"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

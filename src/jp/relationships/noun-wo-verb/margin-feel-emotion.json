@@ -1,0 +1,13 @@
+{
+  "_id": "kwnvt429k08",
+  "name": "margin-feel-emotion",
+  "params": {
+    "noun": "margin",
+    "verb": "feel-emotion"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "xo2le9sbck",
+  "name": "meaning-contain",
+  "params": {
+    "noun": "meaning",
+    "verb": "contain"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

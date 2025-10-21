@@ -1,0 +1,13 @@
+{
+  "_id": "vxuebq9zcep",
+  "name": "bustling-land",
+  "params": {
+    "na": "bustling",
+    "noun": "land"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

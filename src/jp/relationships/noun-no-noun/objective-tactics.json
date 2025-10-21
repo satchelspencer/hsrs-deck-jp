@@ -1,0 +1,13 @@
+{
+  "_id": "nsvasrkllw",
+  "name": "objective-tactics",
+  "params": {
+    "noun": "objective",
+    "owner": "tactics"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

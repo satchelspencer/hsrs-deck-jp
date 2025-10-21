@@ -1,0 +1,13 @@
+{
+  "_id": "q4pfvs9xs98",
+  "name": "tactics-military",
+  "params": {
+    "noun": "tactics",
+    "owner": "military"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

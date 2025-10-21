@@ -1,0 +1,13 @@
+{
+  "_id": "uj3thf6puz7",
+  "name": "high-confidence",
+  "params": {
+    "iadj": "high",
+    "noun": "confidence"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

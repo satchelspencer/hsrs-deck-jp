@@ -4,9 +4,12 @@
   "name": "the-present",
   "order": "4",
   "parents": [
-    "abstracts"
+    "abstracts",
+    "no-attr-nouns",
+    "wa-any-times"
   ],
   "props": {
+    "_at": "present time",
     "en": "the present",
     "jp": "現在",
     "tl": "げんざい"

@@ -1,0 +1,13 @@
+{
+  "_id": "skl4eb3zvld",
+  "name": "wound-touch",
+  "params": {
+    "noun": "wound",
+    "verb": "touch"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

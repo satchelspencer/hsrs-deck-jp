@@ -1,0 +1,13 @@
+{
+  "_id": "idqlnzek9ok",
+  "name": "tactics-expansion",
+  "params": {
+    "noun": "tactics",
+    "verb": "expansion"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

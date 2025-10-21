@@ -1,0 +1,13 @@
+{
+  "_id": "mrfkyimw0n",
+  "name": "limit-turn-back",
+  "params": {
+    "noun": "limit",
+    "verb": "turn-back"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

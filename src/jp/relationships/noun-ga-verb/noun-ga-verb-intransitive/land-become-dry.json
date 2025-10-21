@@ -1,0 +1,13 @@
+{
+  "_id": "ktxicugz1p",
+  "name": "land-become-dry",
+  "params": {
+    "noun": "land",
+    "verb": "become-dry"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

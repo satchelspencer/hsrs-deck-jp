@@ -1,0 +1,13 @@
+{
+  "_id": "kb6irck02zn",
+  "name": "heavy-darkness",
+  "params": {
+    "iadj": "heavy",
+    "noun": "darkness"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

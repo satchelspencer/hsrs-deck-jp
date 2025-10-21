@@ -1,0 +1,13 @@
+{
+  "_id": "3jkv5l30hud",
+  "name": "tune-turn-back",
+  "params": {
+    "noun": "tune",
+    "verb": "turn-back"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "08irshgcg5cl",
+  "name": "effect-exercise",
+  "params": {
+    "noun": "effect",
+    "owner": "exercise"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "trpwhp6zgb",
+  "name": "dark-shadow",
+  "params": {
+    "iadj": "dark",
+    "noun": "shadow"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

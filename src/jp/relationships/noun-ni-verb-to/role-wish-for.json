@@ -1,0 +1,13 @@
+{
+  "_id": "fkcbk8st39s",
+  "name": "role-wish-for",
+  "params": {
+    "noun": "role",
+    "verb": "wish-for"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

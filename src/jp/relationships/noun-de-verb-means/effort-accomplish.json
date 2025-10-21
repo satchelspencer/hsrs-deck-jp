@@ -1,0 +1,13 @@
+{
+  "_id": "s5k759t8g2j",
+  "name": "effort-accomplish",
+  "params": {
+    "noun": "effort",
+    "verb": "accomplish"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

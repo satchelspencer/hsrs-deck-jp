@@ -1,0 +1,13 @@
+{
+  "_id": "oaydplefgs",
+  "name": "long-waft",
+  "params": {
+    "iadj": "long",
+    "verb": "waft"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

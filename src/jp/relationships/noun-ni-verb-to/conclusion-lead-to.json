@@ -1,0 +1,13 @@
+{
+  "_id": "nq37tx4i6ja",
+  "name": "conclusion-lead-to",
+  "params": {
+    "noun": "conclusion",
+    "verb": "lead-to"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

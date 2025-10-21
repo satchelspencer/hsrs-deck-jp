@@ -1,0 +1,13 @@
+{
+  "_id": "lhvph1rx3n",
+  "name": "topic-politics",
+  "params": {
+    "noun": "topic",
+    "owner": "politics"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

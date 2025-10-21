@@ -1,0 +1,13 @@
+{
+  "_id": "86t3xcw36sr",
+  "name": "tune-economics",
+  "params": {
+    "noun": "tune",
+    "owner": "economics"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

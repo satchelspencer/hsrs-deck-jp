@@ -1,0 +1,13 @@
+{
+  "_id": "o4y16vlgs2r",
+  "name": "state-of-affairs-variation",
+  "params": {
+    "noun": "state-of-affairs",
+    "verb": "variation"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

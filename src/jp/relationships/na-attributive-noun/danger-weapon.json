@@ -1,0 +1,13 @@
+{
+  "_id": "16c7dj4jk2n",
+  "name": "danger-weapon",
+  "params": {
+    "na": "danger",
+    "noun": "weapon"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

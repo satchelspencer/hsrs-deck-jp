@@ -1,0 +1,13 @@
+{
+  "_id": "p3mn4zrnx0q",
+  "name": "way-of-saying-be-conveyed",
+  "params": {
+    "noun": "way-of-saying",
+    "verb": "be-conveyed"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

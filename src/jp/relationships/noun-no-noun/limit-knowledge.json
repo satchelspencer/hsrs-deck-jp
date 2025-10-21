@@ -1,0 +1,13 @@
+{
+  "_id": "k6679hnpju9",
+  "name": "limit-knowledge",
+  "params": {
+    "noun": "limit",
+    "owner": "knowledge"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

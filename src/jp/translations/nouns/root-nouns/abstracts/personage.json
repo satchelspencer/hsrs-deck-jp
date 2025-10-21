@@ -1,10 +1,11 @@
 {
   "_id": "5jl5kzsassi",
-  "desc": "characher (in a story or history)",
+  "desc": "characher, figure (in a story or history)",
   "name": "personage",
   "order": "4",
   "parents": [
-    "abstracts"
+    "abstracts",
+    "people"
   ],
   "props": {
     "en": "personage",

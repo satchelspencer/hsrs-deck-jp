@@ -1,0 +1,13 @@
+{
+  "_id": "flkg4i37mag",
+  "name": "effect-medicine",
+  "params": {
+    "noun": "effect",
+    "owner": "medicine"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

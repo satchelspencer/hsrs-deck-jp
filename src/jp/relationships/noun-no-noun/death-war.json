@@ -1,0 +1,13 @@
+{
+  "_id": "spyorz14vyf",
+  "name": "death-war",
+  "params": {
+    "noun": "death",
+    "owner": "war"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

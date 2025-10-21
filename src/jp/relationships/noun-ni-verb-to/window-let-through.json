@@ -1,0 +1,13 @@
+{
+  "_id": "8pcuakar1ta",
+  "name": "window-let-through",
+  "params": {
+    "noun": "window",
+    "verb": "let-through"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

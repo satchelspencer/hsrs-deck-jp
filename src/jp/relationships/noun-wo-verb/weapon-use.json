@@ -1,0 +1,13 @@
+{
+  "_id": "u3u0qr7dhg7",
+  "name": "weapon-use",
+  "params": {
+    "noun": "weapon",
+    "verb": "use"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

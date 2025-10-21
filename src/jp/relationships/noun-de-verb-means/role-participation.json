@@ -1,0 +1,13 @@
+{
+  "_id": "9m259qbogdf",
+  "name": "role-participation",
+  "params": {
+    "noun": "role",
+    "verb": "participation"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "tuxslpvjw1r",
+  "name": "incidentless-accomplish",
+  "params": {
+    "na": "incidentless",
+    "verb": "accomplish"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "vwm3ud5lmyo",
+  "name": "mental-resolve-judgement",
+  "params": {
+    "noun": "mental-resolve",
+    "verb": "judgement"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

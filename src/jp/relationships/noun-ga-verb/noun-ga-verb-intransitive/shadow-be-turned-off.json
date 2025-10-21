@@ -1,0 +1,13 @@
+{
+  "_id": "io45qey85fa",
+  "name": "shadow-be-turned-off",
+  "params": {
+    "noun": "shadow",
+    "verb": "be-turned-off"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

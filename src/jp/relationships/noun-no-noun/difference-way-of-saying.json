@@ -1,0 +1,13 @@
+{
+  "_id": "pmk6b9iez49",
+  "name": "difference-way-of-saying",
+  "params": {
+    "noun": "difference",
+    "owner": "way-of-saying"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

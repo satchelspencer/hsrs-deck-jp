@@ -1,0 +1,13 @@
+{
+  "_id": "g29w2myrgm",
+  "name": "dangerous-weapon",
+  "params": {
+    "iadj": "dangerous",
+    "noun": "weapon"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

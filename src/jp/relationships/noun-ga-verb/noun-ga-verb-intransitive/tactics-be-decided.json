@@ -1,0 +1,13 @@
+{
+  "_id": "7orcdn29zlc",
+  "name": "tactics-be-decided",
+  "params": {
+    "noun": "tactics",
+    "verb": "be-decided"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "qeaxw1jvi2",
+  "name": "shock-wind",
+  "params": {
+    "noun": "shock",
+    "owner": "wind"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

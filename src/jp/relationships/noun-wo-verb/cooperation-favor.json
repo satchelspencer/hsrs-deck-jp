@@ -1,0 +1,13 @@
+{
+  "_id": "tmphc47w8hd",
+  "name": "cooperation-favor",
+  "params": {
+    "noun": "cooperation",
+    "verb": "favor"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

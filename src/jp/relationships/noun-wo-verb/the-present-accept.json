@@ -1,0 +1,13 @@
+{
+  "_id": "3zflsl7ocba",
+  "name": "the-present-accept",
+  "params": {
+    "noun": "the-present",
+    "verb": "accept"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

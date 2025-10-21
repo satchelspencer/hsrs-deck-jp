@@ -1,0 +1,13 @@
+{
+  "_id": "abba53hxpw7",
+  "name": "darkness-spread-out",
+  "params": {
+    "noun": "darkness",
+    "verb": "spread-out"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

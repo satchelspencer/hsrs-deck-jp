@@ -1,0 +1,13 @@
+{
+  "_id": "jfbgwdzqnvf",
+  "name": "calm-mental-resolve",
+  "params": {
+    "na": "calm",
+    "verb": "mental-resolve"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

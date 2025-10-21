@@ -1,0 +1,13 @@
+{
+  "_id": "e00hgx5eamd",
+  "name": "important-polite-weapon",
+  "params": {
+    "na": "important-polite",
+    "noun": "weapon"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

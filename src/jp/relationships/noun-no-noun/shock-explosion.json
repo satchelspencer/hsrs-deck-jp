@@ -1,0 +1,13 @@
+{
+  "_id": "phw23ewl6wj",
+  "name": "shock-explosion",
+  "params": {
+    "noun": "shock",
+    "owner": "explosion"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

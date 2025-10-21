@@ -1,0 +1,13 @@
+{
+  "_id": "469au3cjzuw",
+  "name": "special-land",
+  "params": {
+    "na": "special",
+    "noun": "land"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

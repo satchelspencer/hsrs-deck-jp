@@ -1,0 +1,13 @@
+{
+  "_id": "akneyyxkm16",
+  "name": "land-fall",
+  "params": {
+    "noun": "land",
+    "verb": "fall"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

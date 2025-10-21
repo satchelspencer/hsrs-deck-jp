@@ -1,0 +1,13 @@
+{
+  "_id": "rs6qbva9qif",
+  "name": "shock-result",
+  "params": {
+    "no": "shock",
+    "noun": "result"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

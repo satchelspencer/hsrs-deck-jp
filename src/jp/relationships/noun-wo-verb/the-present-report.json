@@ -1,0 +1,13 @@
+{
+  "_id": "cdwgc6lsjip",
+  "name": "the-present-report",
+  "params": {
+    "noun": "the-present",
+    "verb": "report"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

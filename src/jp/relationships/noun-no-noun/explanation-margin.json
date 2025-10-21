@@ -1,0 +1,13 @@
+{
+  "_id": "t5hmqlq6e8",
+  "name": "explanation-margin",
+  "params": {
+    "noun": "explanation",
+    "owner": "margin"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

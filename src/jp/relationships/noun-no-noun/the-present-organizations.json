@@ -1,0 +1,13 @@
+{
+  "_id": "nwvc2a85bik",
+  "name": "the-present-organizations",
+  "params": {
+    "noun": "the-present",
+    "owner": "organizations"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

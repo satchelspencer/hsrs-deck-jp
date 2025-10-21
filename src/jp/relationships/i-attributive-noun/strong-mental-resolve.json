@@ -1,0 +1,13 @@
+{
+  "_id": "piddtg020c",
+  "name": "strong-mental-resolve",
+  "params": {
+    "iadj": "strong",
+    "noun": "mental-resolve"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

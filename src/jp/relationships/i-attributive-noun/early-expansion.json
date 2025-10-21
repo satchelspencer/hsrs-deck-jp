@@ -1,0 +1,13 @@
+{
+  "_id": "fuap7i01f18",
+  "name": "early-expansion",
+  "params": {
+    "iadj": "early",
+    "noun": "expansion"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

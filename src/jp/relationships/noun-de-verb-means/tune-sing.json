@@ -1,0 +1,13 @@
+{
+  "_id": "wtc18di78ma",
+  "name": "tune-sing",
+  "params": {
+    "noun": "tune",
+    "verb": "sing"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

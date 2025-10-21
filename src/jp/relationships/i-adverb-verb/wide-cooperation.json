@@ -1,0 +1,13 @@
+{
+  "_id": "p5qd2yb0akf",
+  "name": "wide-cooperation",
+  "params": {
+    "iadj": "wide",
+    "verb": "cooperation"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

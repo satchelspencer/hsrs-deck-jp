@@ -1,0 +1,13 @@
+{
+  "_id": "z8d7pgh51fh",
+  "name": "topic-finish-it",
+  "params": {
+    "noun": "topic",
+    "verb": "finish-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

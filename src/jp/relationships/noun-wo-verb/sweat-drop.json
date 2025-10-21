@@ -1,0 +1,13 @@
+{
+  "_id": "1g8oqy3i2tt",
+  "name": "sweat-drop",
+  "params": {
+    "noun": "sweat",
+    "verb": "drop"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

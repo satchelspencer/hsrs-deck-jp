@@ -1,0 +1,13 @@
+{
+  "_id": "21gxr066qu3j",
+  "name": "slowly-waft",
+  "params": {
+    "adv": "slowly",
+    "verb": "waft"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

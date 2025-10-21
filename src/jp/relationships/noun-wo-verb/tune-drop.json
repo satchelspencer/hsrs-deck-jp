@@ -1,0 +1,13 @@
+{
+  "_id": "5imaev2w2fh",
+  "name": "tune-drop",
+  "params": {
+    "noun": "tune",
+    "verb": "drop"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

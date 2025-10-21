@@ -1,0 +1,13 @@
+{
+  "_id": "5cqnmmdikl5",
+  "name": "new-wound",
+  "params": {
+    "iadj": "new",
+    "noun": "wound"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

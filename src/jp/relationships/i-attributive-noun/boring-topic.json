@@ -1,0 +1,13 @@
+{
+  "_id": "wgqb1b41t0q",
+  "name": "boring-topic",
+  "params": {
+    "iadj": "boring",
+    "noun": "topic"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

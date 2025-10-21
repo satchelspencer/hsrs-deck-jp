@@ -1,0 +1,13 @@
+{
+  "_id": "duoqtzlnar4",
+  "name": "cause-margin",
+  "params": {
+    "noun": "cause",
+    "owner": "margin"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "uwf6rqbi4ij",
+  "name": "way-of-saying-be-troubled",
+  "params": {
+    "noun": "way-of-saying",
+    "verb": "be-troubled"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

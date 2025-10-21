@@ -1,0 +1,13 @@
+{
+  "_id": "e0jp41tfyo",
+  "name": "distant-death",
+  "params": {
+    "iadj": "distant",
+    "noun": "death"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

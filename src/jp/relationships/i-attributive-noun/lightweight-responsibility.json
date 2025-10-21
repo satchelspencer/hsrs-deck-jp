@@ -1,0 +1,13 @@
+{
+  "_id": "apd7254adm",
+  "name": "lightweight-responsibility",
+  "params": {
+    "iadj": "lightweight",
+    "noun": "responsibility"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

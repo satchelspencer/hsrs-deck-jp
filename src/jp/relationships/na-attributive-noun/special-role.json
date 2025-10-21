@@ -1,0 +1,13 @@
+{
+  "_id": "6z7pjlc08v8",
+  "name": "special-role",
+  "params": {
+    "na": "special",
+    "noun": "role"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

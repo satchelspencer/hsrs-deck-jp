@@ -1,0 +1,13 @@
+{
+  "_id": "tpv2xgx47g",
+  "name": "goal-accomplish",
+  "params": {
+    "noun": "goal",
+    "verb": "accomplish"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

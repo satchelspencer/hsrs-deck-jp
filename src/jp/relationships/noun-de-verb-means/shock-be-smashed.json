@@ -1,0 +1,13 @@
+{
+  "_id": "hqkzwrpa3pp",
+  "name": "shock-be-smashed",
+  "params": {
+    "noun": "shock",
+    "verb": "be-smashed"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "kxdiy16tui",
+  "name": "limit-aru",
+  "params": {
+    "noun": "limit",
+    "verb": "aru"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

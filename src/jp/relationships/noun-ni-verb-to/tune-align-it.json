@@ -1,0 +1,13 @@
+{
+  "_id": "cvs990c8ss",
+  "name": "tune-align-it",
+  "params": {
+    "noun": "tune",
+    "verb": "align-it"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

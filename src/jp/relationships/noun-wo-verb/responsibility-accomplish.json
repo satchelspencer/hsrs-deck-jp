@@ -1,0 +1,13 @@
+{
+  "_id": "sl9bfgjikg",
+  "name": "responsibility-accomplish",
+  "params": {
+    "noun": "responsibility",
+    "verb": "accomplish"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

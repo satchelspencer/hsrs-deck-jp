@@ -1,0 +1,13 @@
+{
+  "_id": "yymx7yc408",
+  "name": "organizations-cooperation",
+  "params": {
+    "noun": "organizations",
+    "verb": "cooperation"
+  },
+  "parents": [
+    "noun-to-verb-with"
+  ],
+  "props": {
+  }
+}

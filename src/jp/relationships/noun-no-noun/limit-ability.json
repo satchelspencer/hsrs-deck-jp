@@ -1,0 +1,13 @@
+{
+  "_id": "e4pc1gf9wrk",
+  "name": "limit-ability",
+  "params": {
+    "noun": "limit",
+    "owner": "ability"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "zefoc0bn1t",
+  "name": "shadow-help",
+  "params": {
+    "noun": "shadow",
+    "verb": "help"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

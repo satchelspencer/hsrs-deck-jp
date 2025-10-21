@@ -1,0 +1,13 @@
+{
+  "_id": "mvwdmzqr968",
+  "name": "state-of-affairs-watch-over",
+  "params": {
+    "noun": "state-of-affairs",
+    "verb": "watch-over"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

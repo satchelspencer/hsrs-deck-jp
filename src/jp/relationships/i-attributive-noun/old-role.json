@@ -1,0 +1,13 @@
+{
+  "_id": "2vkgge84qi",
+  "name": "old-role",
+  "params": {
+    "iadj": "old",
+    "noun": "role"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

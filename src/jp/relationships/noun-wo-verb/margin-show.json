@@ -1,0 +1,13 @@
+{
+  "_id": "hfw4ymd3rsb",
+  "name": "margin-show",
+  "params": {
+    "noun": "margin",
+    "verb": "show"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

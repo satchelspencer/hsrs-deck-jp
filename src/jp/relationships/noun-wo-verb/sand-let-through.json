@@ -1,0 +1,13 @@
+{
+  "_id": "3uwikmdey3c",
+  "name": "sand-let-through",
+  "params": {
+    "noun": "sand",
+    "verb": "let-through"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

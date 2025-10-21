@@ -1,0 +1,13 @@
+{
+  "_id": "8rithmm9cg2",
+  "name": "fun-cooperation",
+  "params": {
+    "iadj": "fun",
+    "verb": "cooperation"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

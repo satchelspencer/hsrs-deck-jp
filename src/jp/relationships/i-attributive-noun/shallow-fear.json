@@ -1,0 +1,13 @@
+{
+  "_id": "hmk15vpyib",
+  "name": "shallow-fear",
+  "params": {
+    "iadj": "shallow",
+    "noun": "fear"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "5wgc4h2kk3j",
+  "name": "heating-waft",
+  "params": {
+    "noun": "heating",
+    "verb": "waft"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

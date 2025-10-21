@@ -1,0 +1,13 @@
+{
+  "_id": "y62klen7iqq",
+  "name": "wound-be-conspicuous",
+  "params": {
+    "noun": "wound",
+    "verb": "be-conspicuous"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

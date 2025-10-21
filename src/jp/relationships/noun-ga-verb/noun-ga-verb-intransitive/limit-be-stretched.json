@@ -1,0 +1,13 @@
+{
+  "_id": "ace6d887xu6",
+  "name": "limit-be-stretched",
+  "params": {
+    "noun": "limit",
+    "verb": "be-stretched"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

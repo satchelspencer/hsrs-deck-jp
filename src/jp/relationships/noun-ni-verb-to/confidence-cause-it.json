@@ -1,0 +1,13 @@
+{
+  "_id": "o5kwjmf8nc",
+  "name": "confidence-cause-it",
+  "params": {
+    "noun": "confidence",
+    "verb": "cause-it"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

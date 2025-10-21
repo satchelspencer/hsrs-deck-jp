@@ -1,0 +1,13 @@
+{
+  "_id": "abjxicc44s",
+  "name": "strong-cooperation",
+  "params": {
+    "iadj": "strong",
+    "verb": "cooperation"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

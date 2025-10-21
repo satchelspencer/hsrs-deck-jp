@@ -1,0 +1,13 @@
+{
+  "_id": "2hese4bsyxs",
+  "name": "responsibility-escape",
+  "params": {
+    "noun": "responsibility",
+    "verb": "escape"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

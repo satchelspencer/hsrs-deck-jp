@@ -1,0 +1,13 @@
+{
+  "_id": "3fgt01rvo3e",
+  "name": "peculiar-tune",
+  "params": {
+    "iadj": "peculiar",
+    "noun": "tune"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "0ybkk1wopuk",
+  "name": "cautious-let-through",
+  "params": {
+    "na": "cautious",
+    "verb": "let-through"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

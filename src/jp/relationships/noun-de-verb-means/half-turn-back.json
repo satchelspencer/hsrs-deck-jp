@@ -1,0 +1,13 @@
+{
+  "_id": "a3fe9e6tt2t",
+  "name": "half-turn-back",
+  "params": {
+    "noun": "half",
+    "verb": "turn-back"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

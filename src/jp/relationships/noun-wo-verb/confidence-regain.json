@@ -1,0 +1,13 @@
+{
+  "_id": "fpq543iz5o",
+  "name": "confidence-regain",
+  "params": {
+    "noun": "confidence",
+    "verb": "regain"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

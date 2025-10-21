@@ -1,0 +1,13 @@
+{
+  "_id": "l2k4vb1yqb8",
+  "name": "voice-fear",
+  "params": {
+    "noun": "voice",
+    "owner": "fear"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

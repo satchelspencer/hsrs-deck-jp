@@ -1,0 +1,13 @@
+{
+  "_id": "h5791hzcnck",
+  "name": "prediction-death",
+  "params": {
+    "noun": "prediction",
+    "owner": "death"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

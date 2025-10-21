@@ -1,0 +1,13 @@
+{
+  "_id": "fki875dov2",
+  "name": "half-decrease-it",
+  "params": {
+    "noun": "half",
+    "verb": "decrease-it"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

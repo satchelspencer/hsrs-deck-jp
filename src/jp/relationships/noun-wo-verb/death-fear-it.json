@@ -1,0 +1,13 @@
+{
+  "_id": "hi7rk3oz19",
+  "name": "death-fear-it",
+  "params": {
+    "noun": "death",
+    "verb": "fear-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "h3pd3mr65tu",
+  "name": "topic-be-raised",
+  "params": {
+    "noun": "topic",
+    "verb": "be-raised"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

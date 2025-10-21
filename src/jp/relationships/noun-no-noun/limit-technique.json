@@ -1,0 +1,13 @@
+{
+  "_id": "v46y4clsy3o",
+  "name": "limit-technique",
+  "params": {
+    "noun": "limit",
+    "owner": "technique"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

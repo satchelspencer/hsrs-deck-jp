@@ -1,0 +1,13 @@
+{
+  "_id": "pms9ls7g7tc",
+  "name": "darkness-hide",
+  "params": {
+    "noun": "darkness",
+    "verb": "hide"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

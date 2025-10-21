@@ -1,0 +1,13 @@
+{
+  "_id": "wapeve5otpo",
+  "name": "firmly-accomplish",
+  "params": {
+    "adv": "firmly",
+    "verb": "accomplish"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

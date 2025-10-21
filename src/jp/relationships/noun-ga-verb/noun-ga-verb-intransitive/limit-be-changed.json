@@ -1,0 +1,13 @@
+{
+  "_id": "3quogsdy2v",
+  "name": "limit-be-changed",
+  "params": {
+    "noun": "limit",
+    "verb": "be-changed"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

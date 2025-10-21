@@ -1,0 +1,13 @@
+{
+  "_id": "urrvhe95ax",
+  "name": "way-of-saying-be-changed",
+  "params": {
+    "noun": "way-of-saying",
+    "verb": "be-changed"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

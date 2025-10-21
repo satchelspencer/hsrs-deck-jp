@@ -1,0 +1,13 @@
+{
+  "_id": "ewymf48d23w",
+  "name": "role-be-decreased",
+  "params": {
+    "noun": "role",
+    "verb": "be-decreased"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

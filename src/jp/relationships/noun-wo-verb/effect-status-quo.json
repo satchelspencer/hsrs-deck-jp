@@ -1,0 +1,13 @@
+{
+  "_id": "orwm836q8oj",
+  "name": "effect-status-quo",
+  "params": {
+    "noun": "effect",
+    "verb": "status-quo"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

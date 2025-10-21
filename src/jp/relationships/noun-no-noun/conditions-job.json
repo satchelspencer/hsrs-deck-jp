@@ -1,0 +1,13 @@
+{
+  "_id": "vgg4wte84te",
+  "name": "conditions-job",
+  "params": {
+    "noun": "conditions",
+    "owner": "job"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "7eqmmb1wtf3",
+  "name": "certain-confidence",
+  "params": {
+    "na": "certain",
+    "noun": "confidence"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

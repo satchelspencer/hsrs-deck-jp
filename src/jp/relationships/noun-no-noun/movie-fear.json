@@ -1,0 +1,13 @@
+{
+  "_id": "6m11mesk57w",
+  "name": "movie-fear",
+  "params": {
+    "noun": "movie",
+    "owner": "fear"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

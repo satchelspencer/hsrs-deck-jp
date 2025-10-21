@@ -1,0 +1,13 @@
+{
+  "_id": "5q2zj7ae6d9",
+  "name": "topic-hobby",
+  "params": {
+    "noun": "topic",
+    "owner": "hobby"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

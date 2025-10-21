@@ -1,0 +1,13 @@
+{
+  "_id": "si12aa53d1f",
+  "name": "wound-spread-out",
+  "params": {
+    "noun": "wound",
+    "verb": "spread-out"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "obq7q314c1",
+  "name": "mental-resolve-be-surprised",
+  "params": {
+    "noun": "mental-resolve",
+    "verb": "be-surprised"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

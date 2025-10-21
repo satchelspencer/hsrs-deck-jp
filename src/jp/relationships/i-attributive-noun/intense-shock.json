@@ -1,0 +1,13 @@
+{
+  "_id": "o551elrz7w",
+  "name": "intense-shock",
+  "params": {
+    "iadj": "intense",
+    "noun": "shock"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

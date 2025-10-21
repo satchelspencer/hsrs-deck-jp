@@ -1,0 +1,13 @@
+{
+  "_id": "u9c2463h6r8",
+  "name": "topic-wave",
+  "params": {
+    "noun": "topic",
+    "verb": "wave"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "r3il2yx4cni",
+  "name": "shock-take-on",
+  "params": {
+    "noun": "shock",
+    "verb": "take-on"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

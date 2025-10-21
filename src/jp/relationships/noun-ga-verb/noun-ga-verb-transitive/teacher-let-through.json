@@ -1,0 +1,13 @@
+{
+  "_id": "3kd5vok6hd9",
+  "name": "teacher-let-through",
+  "params": {
+    "noun": "teacher",
+    "verb": "let-through"
+  },
+  "parents": [
+    "noun-ga-verb-transitive"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "qy5x77t085k",
+  "name": "confidence-possess",
+  "params": {
+    "noun": "confidence",
+    "verb": "possess"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

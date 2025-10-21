@@ -1,0 +1,13 @@
+{
+  "_id": "h5gmqeja8te",
+  "name": "fear-failure",
+  "params": {
+    "noun": "fear",
+    "owner": "failure"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

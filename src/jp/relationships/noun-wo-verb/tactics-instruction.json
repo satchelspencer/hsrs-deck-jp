@@ -1,0 +1,13 @@
+{
+  "_id": "qs7df360x4",
+  "name": "tactics-instruction",
+  "params": {
+    "noun": "tactics",
+    "verb": "instruction"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

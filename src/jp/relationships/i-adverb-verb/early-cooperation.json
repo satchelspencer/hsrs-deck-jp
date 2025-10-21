@@ -1,0 +1,13 @@
+{
+  "_id": "3eb9h24k0bw",
+  "name": "early-cooperation",
+  "params": {
+    "iadj": "early",
+    "verb": "cooperation"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "limzn34lyln",
+  "name": "firmly-let-through",
+  "params": {
+    "adv": "firmly",
+    "verb": "let-through"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

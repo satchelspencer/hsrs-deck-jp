@@ -1,0 +1,13 @@
+{
+  "_id": "rpzk56hmno",
+  "name": "land-solidify",
+  "params": {
+    "noun": "land",
+    "verb": "solidify"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "grjxaxklt78",
+  "name": "shock-news",
+  "params": {
+    "no": "shock",
+    "noun": "news"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

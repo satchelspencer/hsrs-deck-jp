@@ -1,0 +1,13 @@
+{
+  "_id": "v2mb4pzy0x",
+  "name": "deep-darkness",
+  "params": {
+    "iadj": "deep",
+    "noun": "darkness"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

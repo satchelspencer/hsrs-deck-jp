@@ -1,0 +1,13 @@
+{
+  "_id": "ivcxw2manr",
+  "name": "role-disembark",
+  "params": {
+    "noun": "role",
+    "verb": "disembark"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

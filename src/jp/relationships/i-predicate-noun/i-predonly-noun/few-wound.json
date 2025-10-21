@@ -1,0 +1,13 @@
+{
+  "_id": "1zf5lsxgz7wj",
+  "name": "few-wound",
+  "params": {
+    "iadj": "few",
+    "noun": "wound"
+  },
+  "parents": [
+    "i-predonly-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "l0jyxpaxbcq",
+  "name": "tune-fall",
+  "params": {
+    "noun": "tune",
+    "verb": "fall"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "ad9p4ofmmyd",
+  "name": "role-make",
+  "params": {
+    "noun": "role",
+    "verb": "make"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

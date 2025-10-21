@@ -1,0 +1,13 @@
+{
+  "_id": "svl73octbb",
+  "name": "limit-machine",
+  "params": {
+    "noun": "limit",
+    "owner": "machine"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

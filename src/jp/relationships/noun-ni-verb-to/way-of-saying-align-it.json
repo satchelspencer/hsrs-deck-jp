@@ -1,0 +1,13 @@
+{
+  "_id": "cgabv0yqv4v",
+  "name": "way-of-saying-align-it",
+  "params": {
+    "noun": "way-of-saying",
+    "verb": "align-it"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "71k12s7uxy",
+  "name": "ending-lead-to",
+  "params": {
+    "noun": "ending",
+    "verb": "lead-to"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

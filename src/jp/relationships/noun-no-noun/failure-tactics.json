@@ -1,0 +1,13 @@
+{
+  "_id": "csg2ac4z43w",
+  "name": "failure-tactics",
+  "params": {
+    "noun": "failure",
+    "owner": "tactics"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

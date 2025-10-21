@@ -1,0 +1,13 @@
+{
+  "_id": "ycu8tbzpgxd",
+  "name": "role-grant-it",
+  "params": {
+    "noun": "role",
+    "verb": "grant-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

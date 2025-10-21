@@ -1,0 +1,13 @@
+{
+  "_id": "c9kic02ha1v",
+  "name": "low-land",
+  "params": {
+    "iadj": "low",
+    "noun": "land"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

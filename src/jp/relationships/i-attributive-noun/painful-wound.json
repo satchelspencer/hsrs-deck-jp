@@ -1,0 +1,13 @@
+{
+  "_id": "tx03spugk1l",
+  "name": "painful-wound",
+  "params": {
+    "iadj": "painful",
+    "noun": "wound"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

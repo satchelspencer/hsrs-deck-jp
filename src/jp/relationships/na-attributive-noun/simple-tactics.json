@@ -1,0 +1,13 @@
+{
+  "_id": "9mugta2cl3",
+  "name": "simple-tactics",
+  "params": {
+    "na": "simple",
+    "noun": "tactics"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

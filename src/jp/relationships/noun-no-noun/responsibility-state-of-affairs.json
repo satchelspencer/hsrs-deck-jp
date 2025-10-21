@@ -1,0 +1,13 @@
+{
+  "_id": "nu6uzy5r6rs",
+  "name": "responsibility-state-of-affairs",
+  "params": {
+    "noun": "responsibility",
+    "owner": "state-of-affairs"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

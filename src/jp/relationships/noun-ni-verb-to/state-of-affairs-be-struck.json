@@ -1,0 +1,13 @@
+{
+  "_id": "4aa535ogj2t",
+  "name": "state-of-affairs-be-struck",
+  "params": {
+    "noun": "state-of-affairs",
+    "verb": "be-struck"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

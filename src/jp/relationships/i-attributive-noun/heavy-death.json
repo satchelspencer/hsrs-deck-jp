@@ -1,0 +1,13 @@
+{
+  "_id": "vo58vccj86m",
+  "name": "heavy-death",
+  "params": {
+    "iadj": "heavy",
+    "noun": "death"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

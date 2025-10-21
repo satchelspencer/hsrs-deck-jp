@@ -1,0 +1,13 @@
+{
+  "_id": "quzmv7y2vtd",
+  "name": "way-of-saying-notice",
+  "params": {
+    "noun": "way-of-saying",
+    "verb": "notice"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

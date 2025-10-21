@@ -1,0 +1,13 @@
+{
+  "_id": "iguiw280io",
+  "name": "high-effect",
+  "params": {
+    "iadj": "high",
+    "noun": "effect"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "f5dw3wyq5sh",
+  "name": "new-contain",
+  "params": {
+    "iadj": "new",
+    "verb": "contain"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

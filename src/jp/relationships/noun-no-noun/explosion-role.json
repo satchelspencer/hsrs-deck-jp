@@ -1,0 +1,13 @@
+{
+  "_id": "sa8d44qxsjp",
+  "name": "explosion-role",
+  "params": {
+    "noun": "explosion",
+    "owner": "role"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

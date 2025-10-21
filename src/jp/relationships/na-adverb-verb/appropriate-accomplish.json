@@ -1,0 +1,13 @@
+{
+  "_id": "k6ss53k1ql",
+  "name": "appropriate-accomplish",
+  "params": {
+    "na": "appropriate",
+    "verb": "accomplish"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

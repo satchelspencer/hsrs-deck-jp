@@ -1,0 +1,13 @@
+{
+  "_id": "fumvvwzvop7",
+  "name": "half-be-understood",
+  "params": {
+    "adv": "half",
+    "verb": "be-understood"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

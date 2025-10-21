@@ -1,0 +1,13 @@
+{
+  "_id": "c1xbg38e8kp",
+  "name": "tune-grasp",
+  "params": {
+    "noun": "tune",
+    "verb": "grasp"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

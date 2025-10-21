@@ -1,0 +1,13 @@
+{
+  "_id": "svd9c12o8vg",
+  "name": "land-get-wet",
+  "params": {
+    "noun": "land",
+    "verb": "get-wet"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

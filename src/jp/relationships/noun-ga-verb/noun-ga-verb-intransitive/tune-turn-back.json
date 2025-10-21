@@ -1,0 +1,13 @@
+{
+  "_id": "x88ts4uhiyk",
+  "name": "tune-turn-back",
+  "params": {
+    "noun": "tune",
+    "verb": "turn-back"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

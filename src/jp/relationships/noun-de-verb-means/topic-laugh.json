@@ -1,0 +1,13 @@
+{
+  "_id": "a7p8zw5b05g",
+  "name": "topic-laugh",
+  "params": {
+    "noun": "topic",
+    "verb": "laugh"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "ru46349kiio",
+  "name": "safety-land",
+  "params": {
+    "na": "safety",
+    "noun": "land"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

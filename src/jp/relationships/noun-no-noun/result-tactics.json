@@ -1,0 +1,13 @@
+{
+  "_id": "u6eioonyilr",
+  "name": "result-tactics",
+  "params": {
+    "noun": "result",
+    "owner": "tactics"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

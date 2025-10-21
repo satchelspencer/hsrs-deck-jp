@@ -1,0 +1,13 @@
+{
+  "_id": "ufqesjt0iw",
+  "name": "margin-consciousness",
+  "params": {
+    "noun": "margin",
+    "verb": "consciousness"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

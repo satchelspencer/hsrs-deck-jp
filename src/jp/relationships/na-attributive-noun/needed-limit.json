@@ -1,0 +1,13 @@
+{
+  "_id": "imglfsrg2t",
+  "name": "needed-limit",
+  "params": {
+    "na": "needed",
+    "noun": "limit"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

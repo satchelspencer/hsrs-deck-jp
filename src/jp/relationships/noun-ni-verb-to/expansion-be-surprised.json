@@ -1,0 +1,13 @@
+{
+  "_id": "awhi4nbt2ng",
+  "name": "expansion-be-surprised",
+  "params": {
+    "noun": "expansion",
+    "verb": "be-surprised"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

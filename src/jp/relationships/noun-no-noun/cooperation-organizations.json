@@ -1,0 +1,13 @@
+{
+  "_id": "e5d362tfkbr",
+  "name": "cooperation-organizations",
+  "params": {
+    "noun": "cooperation",
+    "owner": "organizations"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

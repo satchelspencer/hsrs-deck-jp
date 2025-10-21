@@ -1,0 +1,13 @@
+{
+  "_id": "cprvza8snu8",
+  "name": "properly-accomplish",
+  "params": {
+    "adv": "properly",
+    "verb": "accomplish"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

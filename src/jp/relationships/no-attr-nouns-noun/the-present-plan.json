@@ -1,0 +1,13 @@
+{
+  "_id": "6alf2h73ry7",
+  "name": "the-present-plan",
+  "params": {
+    "no": "the-present",
+    "noun": "plan"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

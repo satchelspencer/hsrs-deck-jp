@@ -1,0 +1,13 @@
+{
+  "_id": "hm7yvn1csms",
+  "name": "mental-resolve-decide-on",
+  "params": {
+    "noun": "mental-resolve",
+    "verb": "decide-on"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "gkjchsac62v",
+  "name": "limit-be-lowered",
+  "params": {
+    "noun": "limit",
+    "verb": "be-lowered"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "d4n2wcn250u",
+  "name": "wound-fix",
+  "params": {
+    "noun": "wound",
+    "verb": "fix"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

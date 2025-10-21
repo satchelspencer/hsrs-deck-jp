@@ -1,0 +1,13 @@
+{
+  "_id": "8jn5eku1ok",
+  "name": "margin-be-divided",
+  "params": {
+    "noun": "margin",
+    "verb": "be-divided"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

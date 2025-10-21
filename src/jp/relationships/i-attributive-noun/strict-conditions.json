@@ -1,0 +1,13 @@
+{
+  "_id": "zq179dvh1qn",
+  "name": "strict-conditions",
+  "params": {
+    "iadj": "strict",
+    "noun": "conditions"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

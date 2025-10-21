@@ -1,0 +1,13 @@
+{
+  "_id": "1dwbqlkpbms",
+  "name": "limit-draw-near",
+  "params": {
+    "noun": "limit",
+    "verb": "draw-near"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

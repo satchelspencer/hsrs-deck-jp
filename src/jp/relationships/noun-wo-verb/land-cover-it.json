@@ -1,0 +1,13 @@
+{
+  "_id": "5jv1tdp075d",
+  "name": "land-cover-it",
+  "params": {
+    "noun": "land",
+    "verb": "cover-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

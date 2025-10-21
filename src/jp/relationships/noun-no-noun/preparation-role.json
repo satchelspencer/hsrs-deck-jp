@@ -1,0 +1,13 @@
+{
+  "_id": "ls5ffr5f1p",
+  "name": "preparation-role",
+  "params": {
+    "noun": "preparation",
+    "owner": "role"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

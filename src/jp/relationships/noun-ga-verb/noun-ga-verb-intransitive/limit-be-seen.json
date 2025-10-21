@@ -1,0 +1,13 @@
+{
+  "_id": "zlqydjxu3n",
+  "name": "limit-be-seen",
+  "params": {
+    "noun": "limit",
+    "verb": "be-seen"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "4a3tytc4fxg",
+  "name": "limit-feel-emotion",
+  "params": {
+    "noun": "limit",
+    "verb": "feel-emotion"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

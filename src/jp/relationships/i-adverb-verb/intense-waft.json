@@ -1,0 +1,13 @@
+{
+  "_id": "lr5y508z0km",
+  "name": "intense-waft",
+  "params": {
+    "iadj": "intense",
+    "verb": "waft"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

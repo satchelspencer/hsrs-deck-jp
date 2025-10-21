@@ -1,0 +1,13 @@
+{
+  "_id": "d2rrlglmpcs",
+  "name": "weapon-attack",
+  "params": {
+    "noun": "weapon",
+    "verb": "attack"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

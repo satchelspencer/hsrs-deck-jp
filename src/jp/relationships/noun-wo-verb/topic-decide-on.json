@@ -1,0 +1,13 @@
+{
+  "_id": "zde0vo8rry",
+  "name": "topic-decide-on",
+  "params": {
+    "noun": "topic",
+    "verb": "decide-on"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

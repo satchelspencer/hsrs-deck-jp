@@ -1,0 +1,13 @@
+{
+  "_id": "8xcrk7x48jb",
+  "name": "utmost-strength-cry-out",
+  "params": {
+    "noun": "utmost-strength",
+    "verb": "cry-out"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

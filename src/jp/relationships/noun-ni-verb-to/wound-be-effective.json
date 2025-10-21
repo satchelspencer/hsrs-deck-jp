@@ -1,0 +1,13 @@
+{
+  "_id": "atxpe3q1yd4",
+  "name": "wound-be-effective",
+  "params": {
+    "noun": "wound",
+    "verb": "be-effective"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "af6kge1fkrm",
+  "name": "sweat-become-cold",
+  "params": {
+    "noun": "sweat",
+    "verb": "become-cold"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

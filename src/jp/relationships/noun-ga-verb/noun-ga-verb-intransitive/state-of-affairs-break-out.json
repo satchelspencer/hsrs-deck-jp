@@ -1,0 +1,13 @@
+{
+  "_id": "pd9nohqn00c",
+  "name": "state-of-affairs-break-out",
+  "params": {
+    "noun": "state-of-affairs",
+    "verb": "break-out"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

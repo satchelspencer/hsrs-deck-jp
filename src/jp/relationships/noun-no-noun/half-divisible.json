@@ -1,0 +1,13 @@
+{
+  "_id": "5b646b2hegw",
+  "name": "half-divisible",
+  "params": {
+    "noun": "half",
+    "owner": "divisible"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

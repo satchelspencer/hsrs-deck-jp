@@ -1,0 +1,13 @@
+{
+  "_id": "yxqqv4xrsqf",
+  "name": "sweat-take-out",
+  "params": {
+    "noun": "sweat",
+    "verb": "take-out"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

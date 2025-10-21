@@ -1,0 +1,13 @@
+{
+  "_id": "jbx6rh00x99",
+  "name": "utmost-strength-withdraw",
+  "params": {
+    "noun": "utmost-strength",
+    "verb": "withdraw"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

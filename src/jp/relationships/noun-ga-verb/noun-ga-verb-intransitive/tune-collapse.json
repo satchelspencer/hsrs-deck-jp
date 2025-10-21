@@ -1,0 +1,13 @@
+{
+  "_id": "yyeb4i2u9f",
+  "name": "tune-collapse",
+  "params": {
+    "noun": "tune",
+    "verb": "collapse"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

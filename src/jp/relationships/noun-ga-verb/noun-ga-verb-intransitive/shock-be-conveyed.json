@@ -1,0 +1,13 @@
+{
+  "_id": "10vvd32igrj",
+  "name": "shock-be-conveyed",
+  "params": {
+    "noun": "shock",
+    "verb": "be-conveyed"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

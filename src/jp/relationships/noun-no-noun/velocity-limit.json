@@ -1,0 +1,13 @@
+{
+  "_id": "hcu2h6yog8r",
+  "name": "velocity-limit",
+  "params": {
+    "noun": "velocity",
+    "owner": "limit"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

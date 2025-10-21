@@ -1,0 +1,13 @@
+{
+  "_id": "zmzbhaxyds",
+  "name": "fear-cry-out",
+  "params": {
+    "noun": "fear",
+    "verb": "cry-out"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

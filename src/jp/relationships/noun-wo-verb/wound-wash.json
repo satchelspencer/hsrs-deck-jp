@@ -1,0 +1,13 @@
+{
+  "_id": "recuq5nz9sp",
+  "name": "wound-wash",
+  "params": {
+    "noun": "wound",
+    "verb": "wash"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

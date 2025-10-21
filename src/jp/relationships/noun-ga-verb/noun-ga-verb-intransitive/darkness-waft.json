@@ -1,0 +1,13 @@
+{
+  "_id": "4hlxqlqsy3r",
+  "name": "darkness-waft",
+  "params": {
+    "noun": "darkness",
+    "verb": "waft"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

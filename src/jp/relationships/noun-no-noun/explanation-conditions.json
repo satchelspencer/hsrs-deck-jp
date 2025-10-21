@@ -1,0 +1,13 @@
+{
+  "_id": "etfxzzj0pwj",
+  "name": "explanation-conditions",
+  "params": {
+    "noun": "explanation",
+    "owner": "conditions"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

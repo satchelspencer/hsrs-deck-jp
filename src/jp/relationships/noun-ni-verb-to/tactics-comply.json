@@ -1,0 +1,13 @@
+{
+  "_id": "eqp9vfbsolr",
+  "name": "tactics-comply",
+  "params": {
+    "noun": "tactics",
+    "verb": "comply"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

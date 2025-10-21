@@ -1,0 +1,13 @@
+{
+  "_id": "x1ob14ncewj",
+  "name": "tune-fix",
+  "params": {
+    "noun": "tune",
+    "verb": "fix"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "ew51ahejr8",
+  "name": "spot-tactics",
+  "params": {
+    "noun": "spot",
+    "owner": "tactics"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "1n3tcr6bxt4",
+  "name": "half-be-angry",
+  "params": {
+    "adv": "half",
+    "verb": "be-angry"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

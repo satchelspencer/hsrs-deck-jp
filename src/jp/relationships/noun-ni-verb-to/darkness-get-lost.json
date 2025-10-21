@@ -1,0 +1,13 @@
+{
+  "_id": "a2ddh3ohh89",
+  "name": "darkness-get-lost",
+  "params": {
+    "noun": "darkness",
+    "verb": "get-lost"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "l37fweo4uto",
+  "name": "famous-land",
+  "params": {
+    "na": "famous",
+    "noun": "land"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

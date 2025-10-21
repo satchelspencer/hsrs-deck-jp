@@ -1,0 +1,13 @@
+{
+  "_id": "scdrnhmcfnc",
+  "name": "darkness-sink",
+  "params": {
+    "noun": "darkness",
+    "verb": "sink"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

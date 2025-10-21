@@ -1,0 +1,13 @@
+{
+  "_id": "0ile7b25qdm",
+  "name": "completion-lead-to",
+  "params": {
+    "noun": "completion",
+    "verb": "lead-to"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

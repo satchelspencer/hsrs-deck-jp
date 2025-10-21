@@ -1,0 +1,13 @@
+{
+  "_id": "a3clxcqpx8r",
+  "name": "darkness-cover-it",
+  "params": {
+    "noun": "darkness",
+    "verb": "cover-it"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

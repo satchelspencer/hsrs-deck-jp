@@ -1,0 +1,13 @@
+{
+  "_id": "0vs3q9omhhr",
+  "name": "responsibility-be-increased",
+  "params": {
+    "noun": "responsibility",
+    "verb": "be-increased"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

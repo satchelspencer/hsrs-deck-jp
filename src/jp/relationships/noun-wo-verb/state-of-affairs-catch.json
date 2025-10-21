@@ -1,0 +1,13 @@
+{
+  "_id": "5zyzm76lm2b",
+  "name": "state-of-affairs-catch",
+  "params": {
+    "noun": "state-of-affairs",
+    "verb": "catch"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

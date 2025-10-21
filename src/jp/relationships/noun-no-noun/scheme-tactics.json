@@ -1,0 +1,13 @@
+{
+  "_id": "qzvkbxi9cy",
+  "name": "scheme-tactics",
+  "params": {
+    "noun": "scheme",
+    "owner": "tactics"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

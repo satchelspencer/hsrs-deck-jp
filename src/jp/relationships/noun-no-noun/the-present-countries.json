@@ -1,0 +1,13 @@
+{
+  "_id": "q1rqjfuuo1q",
+  "name": "the-present-countries",
+  "params": {
+    "noun": "the-present",
+    "owner": "countries"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

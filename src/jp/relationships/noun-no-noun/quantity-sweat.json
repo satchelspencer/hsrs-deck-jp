@@ -1,0 +1,13 @@
+{
+  "_id": "f4wk0s3kekj",
+  "name": "quantity-sweat",
+  "params": {
+    "noun": "quantity",
+    "owner": "sweat"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

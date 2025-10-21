@@ -1,0 +1,13 @@
+{
+  "_id": "1yw90254s3c",
+  "name": "abnormal-fear",
+  "params": {
+    "na": "abnormal",
+    "noun": "fear"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

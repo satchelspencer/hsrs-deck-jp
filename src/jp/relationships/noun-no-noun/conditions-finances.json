@@ -1,0 +1,13 @@
+{
+  "_id": "ti1st9cqsro",
+  "name": "conditions-finances",
+  "params": {
+    "noun": "conditions",
+    "owner": "finances"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

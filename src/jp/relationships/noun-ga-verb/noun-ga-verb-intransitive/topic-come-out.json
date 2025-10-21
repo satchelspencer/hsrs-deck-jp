@@ -1,0 +1,13 @@
+{
+  "_id": "et779686b7i",
+  "name": "topic-come-out",
+  "params": {
+    "noun": "topic",
+    "verb": "come-out"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

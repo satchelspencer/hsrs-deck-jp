@@ -1,0 +1,13 @@
+{
+  "_id": "e41d97lvaco",
+  "name": "deep-cooperation",
+  "params": {
+    "iadj": "deep",
+    "verb": "cooperation"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

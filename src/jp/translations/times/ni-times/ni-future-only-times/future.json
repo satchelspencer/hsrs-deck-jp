@@ -4,7 +4,8 @@
   "name": "future",
   "order": "3",
   "parents": [
-    "ni-future-only-times"
+    "ni-future-only-times",
+    "abstracts"
   ],
   "props": {
     "en": "future",

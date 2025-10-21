@@ -1,0 +1,13 @@
+{
+  "_id": "c46e8xlqtd",
+  "name": "role-be-struck",
+  "params": {
+    "noun": "role",
+    "verb": "be-struck"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

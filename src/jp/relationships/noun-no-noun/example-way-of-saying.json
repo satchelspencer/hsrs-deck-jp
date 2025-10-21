@@ -1,0 +1,13 @@
+{
+  "_id": "t4933ssdlnj",
+  "name": "example-way-of-saying",
+  "params": {
+    "noun": "example",
+    "owner": "way-of-saying"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

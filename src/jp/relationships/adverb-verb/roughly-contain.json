@@ -1,0 +1,13 @@
+{
+  "_id": "3wfhba2nn03",
+  "name": "roughly-contain",
+  "params": {
+    "adv": "roughly",
+    "verb": "contain"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

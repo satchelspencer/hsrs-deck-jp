@@ -1,0 +1,13 @@
+{
+  "_id": "hcoc567uqb5",
+  "name": "thin-weak-shadow",
+  "params": {
+    "iadj": "thin-weak",
+    "noun": "shadow"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

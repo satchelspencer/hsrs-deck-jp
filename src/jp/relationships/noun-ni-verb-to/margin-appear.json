@@ -1,0 +1,13 @@
+{
+  "_id": "7xhcwj00dqg",
+  "name": "margin-appear",
+  "params": {
+    "noun": "margin",
+    "verb": "appear"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

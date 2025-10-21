@@ -1,0 +1,13 @@
+{
+  "_id": "e4r147quk1w",
+  "name": "wound-raise",
+  "params": {
+    "noun": "effect",
+    "verb": "raise"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

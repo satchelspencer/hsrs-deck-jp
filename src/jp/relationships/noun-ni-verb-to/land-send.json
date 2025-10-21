@@ -1,0 +1,13 @@
+{
+  "_id": "4hplunsvlxe",
+  "name": "land-send",
+  "params": {
+    "noun": "land",
+    "verb": "send"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

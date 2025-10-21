@@ -1,0 +1,13 @@
+{
+  "_id": "1zgyotljqbv",
+  "name": "tune-go",
+  "params": {
+    "noun": "tune",
+    "verb": "go"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "rui0gyalx8",
+  "name": "wound-conceal-it",
+  "params": {
+    "noun": "wound",
+    "verb": "conceal-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

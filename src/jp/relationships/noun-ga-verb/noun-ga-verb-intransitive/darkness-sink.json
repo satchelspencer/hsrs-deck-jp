@@ -1,0 +1,13 @@
+{
+  "_id": "7zaja362fq2",
+  "name": "darkness-sink",
+  "params": {
+    "noun": "darkness",
+    "verb": "sink"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

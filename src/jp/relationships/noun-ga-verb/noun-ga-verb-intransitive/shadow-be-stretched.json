@@ -1,0 +1,13 @@
+{
+  "_id": "05qys7bg7wr5",
+  "name": "shadow-be-stretched",
+  "params": {
+    "noun": "shadow",
+    "verb": "be-stretched"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "q2kbx4s66p",
+  "name": "success-tactics",
+  "params": {
+    "noun": "success",
+    "owner": "tactics"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

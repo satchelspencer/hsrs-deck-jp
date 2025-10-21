@@ -1,0 +1,14 @@
+{
+  "_id": "tjb3ddcevbl",
+  "desc": "physical ground",
+  "name": "land",
+  "order": "4",
+  "parents": [
+    "places"
+  ],
+  "props": {
+    "en": "land",
+    "jp": "地",
+    "tl": "ち"
+  }
+}

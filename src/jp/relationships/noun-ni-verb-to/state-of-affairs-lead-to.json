@@ -1,0 +1,13 @@
+{
+  "_id": "1ec7jq8d4pf",
+  "name": "state-of-affairs-lead-to",
+  "params": {
+    "noun": "state-of-affairs",
+    "verb": "lead-to"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

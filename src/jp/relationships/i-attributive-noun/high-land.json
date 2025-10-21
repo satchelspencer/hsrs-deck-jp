@@ -1,0 +1,13 @@
+{
+  "_id": "vxwst4vxx2l",
+  "name": "high-land",
+  "params": {
+    "iadj": "high",
+    "noun": "land"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

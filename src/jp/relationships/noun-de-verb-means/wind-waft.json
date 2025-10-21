@@ -1,0 +1,13 @@
+{
+  "_id": "0zwhn4sr3vtb",
+  "name": "wind-waft",
+  "params": {
+    "noun": "wind",
+    "verb": "waft"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

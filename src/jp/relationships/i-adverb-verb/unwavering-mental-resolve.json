@@ -1,0 +1,13 @@
+{
+  "_id": "rmc1bifn9w8",
+  "name": "unwavering-mental-resolve",
+  "params": {
+    "iadj": "unwavering",
+    "verb": "mental-resolve"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

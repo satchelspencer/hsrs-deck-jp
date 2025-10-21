@@ -1,0 +1,13 @@
+{
+  "_id": "0mjoy4wg3w5m",
+  "name": "fear-nervousness",
+  "params": {
+    "noun": "fear",
+    "owner": "nervousness"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

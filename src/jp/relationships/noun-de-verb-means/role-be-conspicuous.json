@@ -1,0 +1,13 @@
+{
+  "_id": "p0669vuhl3q",
+  "name": "role-be-conspicuous",
+  "params": {
+    "noun": "role",
+    "verb": "be-conspicuous"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

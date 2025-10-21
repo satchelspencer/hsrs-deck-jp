@@ -1,0 +1,13 @@
+{
+  "_id": "phgas5de30m",
+  "name": "night-fear",
+  "params": {
+    "noun": "night",
+    "owner": "fear"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

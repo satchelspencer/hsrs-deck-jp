@@ -1,0 +1,13 @@
+{
+  "_id": "gx7crbdynxc",
+  "name": "responsibility-judgement",
+  "params": {
+    "noun": "responsibility",
+    "verb": "judgement"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

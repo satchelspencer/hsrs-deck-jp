@@ -1,0 +1,13 @@
+{
+  "_id": "tdmpvo4xzak",
+  "name": "utmost-strength-seek",
+  "params": {
+    "noun": "utmost-strength",
+    "verb": "seek"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

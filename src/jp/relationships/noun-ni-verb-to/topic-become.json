@@ -1,0 +1,13 @@
+{
+  "_id": "du5zudbabzc",
+  "name": "topic-become",
+  "params": {
+    "noun": "topic",
+    "verb": "become"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

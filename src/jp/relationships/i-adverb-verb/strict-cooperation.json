@@ -1,0 +1,13 @@
+{
+  "_id": "8nhsy689f9r",
+  "name": "strict-cooperation",
+  "params": {
+    "iadj": "strict",
+    "verb": "cooperation"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

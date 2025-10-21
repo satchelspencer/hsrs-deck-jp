@@ -1,0 +1,13 @@
+{
+  "_id": "1moz4nodj4a",
+  "name": "shop-assistant-let-through",
+  "params": {
+    "noun": "shop-assistant",
+    "verb": "let-through"
+  },
+  "parents": [
+    "noun-ga-verb-transitive"
+  ],
+  "props": {
+  }
+}

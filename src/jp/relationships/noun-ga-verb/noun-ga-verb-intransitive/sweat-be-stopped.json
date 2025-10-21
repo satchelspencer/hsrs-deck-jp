@@ -1,0 +1,13 @@
+{
+  "_id": "o2u1979pw6",
+  "name": "sweat-be-stopped",
+  "params": {
+    "noun": "sweat",
+    "verb": "be-stopped"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

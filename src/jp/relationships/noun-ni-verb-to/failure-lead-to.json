@@ -1,0 +1,13 @@
+{
+  "_id": "z9ap5402vj",
+  "name": "failure-lead-to",
+  "params": {
+    "noun": "failure",
+    "verb": "lead-to"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

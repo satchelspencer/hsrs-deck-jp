@@ -1,0 +1,13 @@
+{
+  "_id": "9ybznm1qi3i",
+  "name": "topic-discuss",
+  "params": {
+    "noun": "topic",
+    "verb": "discuss"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

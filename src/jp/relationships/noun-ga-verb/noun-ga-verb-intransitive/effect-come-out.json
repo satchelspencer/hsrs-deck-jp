@@ -1,0 +1,13 @@
+{
+  "_id": "un4oawnx84l",
+  "name": "effect-come-out",
+  "params": {
+    "noun": "effect",
+    "verb": "come-out"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

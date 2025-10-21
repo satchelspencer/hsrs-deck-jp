@@ -1,0 +1,13 @@
+{
+  "_id": "3iy91niiy14",
+  "name": "expansion-change",
+  "params": {
+    "noun": "expansion",
+    "verb": "change"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

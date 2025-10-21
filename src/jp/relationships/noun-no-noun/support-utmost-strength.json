@@ -1,0 +1,13 @@
+{
+  "_id": "352des77kdv",
+  "name": "support-utmost-strength",
+  "params": {
+    "noun": "support",
+    "owner": "utmost-strength"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

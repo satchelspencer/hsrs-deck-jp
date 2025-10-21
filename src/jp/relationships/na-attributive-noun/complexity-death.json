@@ -1,0 +1,13 @@
+{
+  "_id": "nwrqccgout",
+  "name": "complexity-death",
+  "params": {
+    "na": "complexity",
+    "noun": "death"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

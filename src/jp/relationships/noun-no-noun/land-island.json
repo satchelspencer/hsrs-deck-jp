@@ -1,0 +1,13 @@
+{
+  "_id": "au9kfthgfwb",
+  "name": "land-island",
+  "params": {
+    "noun": "land",
+    "owner": "island"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

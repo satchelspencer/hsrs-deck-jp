@@ -1,0 +1,13 @@
+{
+  "_id": "w8una15x3vm",
+  "name": "gradually-let-through",
+  "params": {
+    "adv": "gradually",
+    "verb": "let-through"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

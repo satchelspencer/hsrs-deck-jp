@@ -1,0 +1,13 @@
+{
+  "_id": "oieq8hxf2jb",
+  "name": "example-effect",
+  "params": {
+    "noun": "example",
+    "owner": "effect"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

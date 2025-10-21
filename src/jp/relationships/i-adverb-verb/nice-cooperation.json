@@ -1,0 +1,13 @@
+{
+  "_id": "cri7lx4mfhv",
+  "name": "nice-cooperation",
+  "params": {
+    "iadj": "nice",
+    "verb": "cooperation"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

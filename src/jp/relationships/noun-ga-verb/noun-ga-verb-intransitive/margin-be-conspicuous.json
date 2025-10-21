@@ -1,0 +1,13 @@
+{
+  "_id": "lketzeznq7",
+  "name": "margin-be-conspicuous",
+  "params": {
+    "noun": "margin",
+    "verb": "be-conspicuous"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "4zs9wlgbv2v",
+  "name": "nervousness-waft",
+  "params": {
+    "noun": "nervousness",
+    "verb": "waft"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

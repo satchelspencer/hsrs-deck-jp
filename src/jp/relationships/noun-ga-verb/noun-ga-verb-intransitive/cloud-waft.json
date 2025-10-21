@@ -1,0 +1,13 @@
+{
+  "_id": "fy44srfjwew",
+  "name": "cloud-waft",
+  "params": {
+    "noun": "cloud",
+    "verb": "waft"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

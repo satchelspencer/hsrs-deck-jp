@@ -1,0 +1,13 @@
+{
+  "_id": "sbm10dh8jgo",
+  "name": "mental-resolve-acquire-knowledge",
+  "params": {
+    "noun": "mental-resolve",
+    "verb": "acquire-knowledge"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "twy3cz26fmj",
+  "name": "safety-accomplish",
+  "params": {
+    "na": "safety",
+    "verb": "accomplish"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

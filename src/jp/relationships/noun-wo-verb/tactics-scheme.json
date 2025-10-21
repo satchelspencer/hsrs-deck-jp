@@ -1,0 +1,13 @@
+{
+  "_id": "rlxudtp7zk",
+  "name": "tactics-scheme",
+  "params": {
+    "noun": "tactics",
+    "verb": "scheme"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

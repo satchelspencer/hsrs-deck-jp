@@ -1,0 +1,13 @@
+{
+  "_id": "94d7dlqo6y9",
+  "name": "polite-na-expansion",
+  "params": {
+    "na": "polite-na",
+    "noun": "expansion"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

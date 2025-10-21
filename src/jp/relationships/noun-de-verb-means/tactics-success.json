@@ -1,0 +1,13 @@
+{
+  "_id": "buyay4msg44",
+  "name": "tactics-success",
+  "params": {
+    "noun": "tactics",
+    "verb": "success"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

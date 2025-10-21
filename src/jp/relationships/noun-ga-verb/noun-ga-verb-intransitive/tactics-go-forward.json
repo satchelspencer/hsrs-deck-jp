@@ -1,0 +1,13 @@
+{
+  "_id": "drjy6ov7wb",
+  "name": "tactics-go-forward",
+  "params": {
+    "noun": "tactics",
+    "verb": "go-forward"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

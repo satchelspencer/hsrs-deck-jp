@@ -1,0 +1,13 @@
+{
+  "_id": "488k2xw119x",
+  "name": "mental-resolve-danger",
+  "params": {
+    "noun": "mental-resolve",
+    "owner": "danger"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

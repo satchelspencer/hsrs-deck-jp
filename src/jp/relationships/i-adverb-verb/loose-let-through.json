@@ -1,0 +1,13 @@
+{
+  "_id": "fz6962f0n49",
+  "name": "loose-let-through",
+  "params": {
+    "iadj": "loose",
+    "verb": "let-through"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "gujfurxec0c",
+  "name": "heavy-responsibility",
+  "params": {
+    "iadj": "heavy",
+    "noun": "responsibility"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

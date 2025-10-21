@@ -1,0 +1,13 @@
+{
+  "_id": "ht4mt7s12fa",
+  "name": "fear-war",
+  "params": {
+    "noun": "fear",
+    "owner": "war"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

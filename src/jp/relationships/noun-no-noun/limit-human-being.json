@@ -1,0 +1,13 @@
+{
+  "_id": "e95jkl4b0cs",
+  "name": "limit-human-being",
+  "params": {
+    "noun": "limit",
+    "owner": "human-being"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

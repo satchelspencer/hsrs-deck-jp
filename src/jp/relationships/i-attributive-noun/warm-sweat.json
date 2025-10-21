@@ -1,0 +1,13 @@
+{
+  "_id": "sz0pymwqry",
+  "name": "warm-sweat",
+  "params": {
+    "iadj": "warm",
+    "noun": "sweat"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

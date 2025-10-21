@@ -1,12 +1,14 @@
 {
   "_id": "90nopzwxn2",
-  "desc": "a jolt, impact",
+  "desc": "a jolt, impact. can also mean emotional shock",
   "name": "shock",
   "order": "4",
   "parents": [
-    "abstracts"
+    "abstracts",
+    "no-attr-nouns"
   ],
   "props": {
+    "_at": "shocking",
     "en": "shock",
     "jp": "衝撃",
     "tl": "しょうげき"

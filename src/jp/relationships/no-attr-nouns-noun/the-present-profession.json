@@ -1,0 +1,13 @@
+{
+  "_id": "k66zmvjamf8",
+  "name": "the-present-profession",
+  "params": {
+    "no": "the-present",
+    "noun": "profession"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

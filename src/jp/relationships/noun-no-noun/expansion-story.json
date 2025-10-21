@@ -1,0 +1,13 @@
+{
+  "_id": "cdtagfma6d",
+  "name": "expansion-story",
+  "params": {
+    "noun": "expansion",
+    "owner": "story"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

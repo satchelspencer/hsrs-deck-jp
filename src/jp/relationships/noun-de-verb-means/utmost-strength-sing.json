@@ -1,0 +1,13 @@
+{
+  "_id": "q1wkv2yxr0j",
+  "name": "utmost-strength-sing",
+  "params": {
+    "noun": "utmost-strength",
+    "verb": "sing"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

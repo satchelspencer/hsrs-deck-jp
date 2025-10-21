@@ -1,0 +1,13 @@
+{
+  "_id": "me14klxc6ap",
+  "name": "thread-let-through",
+  "params": {
+    "noun": "thread",
+    "verb": "let-through"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

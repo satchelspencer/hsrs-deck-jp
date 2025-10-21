@@ -1,0 +1,13 @@
+{
+  "_id": "d9sxacb8a9d",
+  "name": "way-of-saying-reverberate",
+  "params": {
+    "noun": "way-of-saying",
+    "verb": "reverberate"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

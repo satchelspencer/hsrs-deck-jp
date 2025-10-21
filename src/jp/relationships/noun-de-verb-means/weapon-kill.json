@@ -1,0 +1,13 @@
+{
+  "_id": "o90l63bynie",
+  "name": "weapon-kill",
+  "params": {
+    "noun": "weapon",
+    "verb": "kill"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

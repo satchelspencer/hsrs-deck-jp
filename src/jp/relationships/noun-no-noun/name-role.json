@@ -1,0 +1,13 @@
+{
+  "_id": "2rmts5p8s29",
+  "name": "name-role",
+  "params": {
+    "noun": "name",
+    "owner": "role"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

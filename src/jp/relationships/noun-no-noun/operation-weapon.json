@@ -1,0 +1,13 @@
+{
+  "_id": "9lmjzuyzwjv",
+  "name": "operation-weapon",
+  "params": {
+    "noun": "operation",
+    "owner": "weapon"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

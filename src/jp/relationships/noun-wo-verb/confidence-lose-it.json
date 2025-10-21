@@ -1,0 +1,13 @@
+{
+  "_id": "9b803tjkfku",
+  "name": "confidence-lose-it",
+  "params": {
+    "noun": "confidence",
+    "verb": "lose-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

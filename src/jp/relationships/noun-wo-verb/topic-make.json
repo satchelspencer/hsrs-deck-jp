@@ -1,0 +1,13 @@
+{
+  "_id": "2o6bgxn4rn4",
+  "name": "topic-make",
+  "params": {
+    "noun": "topic",
+    "verb": "make"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

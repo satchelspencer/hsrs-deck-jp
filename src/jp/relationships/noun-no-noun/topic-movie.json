@@ -1,0 +1,13 @@
+{
+  "_id": "nqhy1xlpx2k",
+  "name": "topic-movie",
+  "params": {
+    "noun": "topic",
+    "owner": "movie"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

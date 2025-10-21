@@ -1,0 +1,13 @@
+{
+  "_id": "5hr3o4wnb7g",
+  "name": "rope-let-through",
+  "params": {
+    "noun": "rope",
+    "verb": "let-through"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

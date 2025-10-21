@@ -1,0 +1,13 @@
+{
+  "_id": "byg5s9atgmv",
+  "name": "tune-reaction",
+  "params": {
+    "noun": "tune",
+    "verb": "reaction"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

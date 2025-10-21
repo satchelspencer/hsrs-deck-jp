@@ -1,0 +1,13 @@
+{
+  "_id": "z3u7qdmy23",
+  "name": "person-topic",
+  "params": {
+    "noun": "person",
+    "owner": "topic"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

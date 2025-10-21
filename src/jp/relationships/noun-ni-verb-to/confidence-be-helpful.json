@@ -1,0 +1,13 @@
+{
+  "_id": "2r3dynytwh8",
+  "name": "confidence-be-helpful",
+  "params": {
+    "noun": "confidence",
+    "verb": "be-helpful"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "82mhmknxcr9",
+  "name": "expansion-be-changed",
+  "params": {
+    "noun": "expansion",
+    "verb": "be-changed"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

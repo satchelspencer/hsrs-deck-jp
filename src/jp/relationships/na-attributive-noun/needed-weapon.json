@@ -1,0 +1,13 @@
+{
+  "_id": "c4ig4m081z",
+  "name": "needed-weapon",
+  "params": {
+    "na": "needed",
+    "noun": "weapon"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

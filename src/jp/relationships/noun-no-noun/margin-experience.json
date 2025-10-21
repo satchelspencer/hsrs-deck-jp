@@ -1,0 +1,13 @@
+{
+  "_id": "rzg0h6545s",
+  "name": "margin-experience",
+  "params": {
+    "noun": "margin",
+    "owner": "experience"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

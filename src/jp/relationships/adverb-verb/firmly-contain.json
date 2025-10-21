@@ -1,0 +1,13 @@
+{
+  "_id": "jn36mctjk3f",
+  "name": "firmly-contain",
+  "params": {
+    "adv": "firmly",
+    "verb": "contain"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "5klmt2r996w",
+  "name": "tactics-win",
+  "params": {
+    "noun": "tactics",
+    "verb": "win"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

@@ -3,7 +3,8 @@
   "name": "temperature",
   "order": "3",
   "parents": [
-    "raisables"
+    "raisables",
+    "quantities"
   ],
   "props": {
     "en": "temperature",

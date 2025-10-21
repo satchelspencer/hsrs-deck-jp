@@ -1,0 +1,13 @@
+{
+  "_id": "szowo5j3w1",
+  "name": "half-stop-it",
+  "params": {
+    "noun": "half",
+    "verb": "stop-it"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

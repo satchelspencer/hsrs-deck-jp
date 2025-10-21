@@ -1,0 +1,13 @@
+{
+  "_id": "ejeqwkdbpsu",
+  "name": "role-change",
+  "params": {
+    "noun": "role",
+    "verb": "change"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

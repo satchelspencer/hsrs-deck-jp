@@ -1,0 +1,13 @@
+{
+  "_id": "ojl7rd44wo",
+  "name": "water-contain",
+  "params": {
+    "noun": "water",
+    "verb": "contain"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "8pg327vjwz3",
+  "name": "money-cooperation",
+  "params": {
+    "noun": "money",
+    "verb": "cooperation"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

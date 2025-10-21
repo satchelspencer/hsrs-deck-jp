@@ -1,0 +1,13 @@
+{
+  "_id": "r2u64eaz4y",
+  "name": "wound-remain",
+  "params": {
+    "noun": "wound",
+    "verb": "remain"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

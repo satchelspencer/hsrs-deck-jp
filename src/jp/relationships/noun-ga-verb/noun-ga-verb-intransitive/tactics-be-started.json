@@ -1,0 +1,13 @@
+{
+  "_id": "jikkkv6x1j",
+  "name": "tactics-be-started",
+  "params": {
+    "noun": "tactics",
+    "verb": "be-started"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "ttp80v190r",
+  "name": "near-death",
+  "params": {
+    "iadj": "near",
+    "noun": "death"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

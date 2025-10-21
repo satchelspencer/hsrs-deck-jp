@@ -1,0 +1,13 @@
+{
+  "_id": "1cdr8io9gz7",
+  "name": "problem-responsibility",
+  "params": {
+    "noun": "problem",
+    "owner": "responsibility"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

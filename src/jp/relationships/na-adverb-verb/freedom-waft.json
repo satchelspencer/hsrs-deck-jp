@@ -1,0 +1,13 @@
+{
+  "_id": "di28cc5d7xd",
+  "name": "freedom-waft",
+  "params": {
+    "na": "freedom",
+    "verb": "waft"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

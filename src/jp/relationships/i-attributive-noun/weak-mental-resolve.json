@@ -1,0 +1,13 @@
+{
+  "_id": "hlmze83s6oq",
+  "name": "weak-mental-resolve",
+  "params": {
+    "iadj": "weak",
+    "noun": "mental-resolve"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

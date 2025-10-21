@@ -1,0 +1,13 @@
+{
+  "_id": "sxk9g3x7zid",
+  "name": "role-success",
+  "params": {
+    "noun": "role",
+    "verb": "success"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

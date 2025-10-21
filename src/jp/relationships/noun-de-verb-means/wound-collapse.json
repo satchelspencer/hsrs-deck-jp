@@ -1,0 +1,13 @@
+{
+  "_id": "59vl4bk42r7",
+  "name": "wound-collapse",
+  "params": {
+    "noun": "wound",
+    "verb": "collapse"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

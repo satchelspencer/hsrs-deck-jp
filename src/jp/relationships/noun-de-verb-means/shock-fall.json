@@ -1,0 +1,13 @@
+{
+  "_id": "dgrtu32msu",
+  "name": "shock-fall",
+  "params": {
+    "noun": "shock",
+    "verb": "fall"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

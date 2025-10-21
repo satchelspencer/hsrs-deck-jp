@@ -1,0 +1,13 @@
+{
+  "_id": "f5itlt2me7w",
+  "name": "shock-photo",
+  "params": {
+    "no": "shock",
+    "noun": "photo"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

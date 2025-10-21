@@ -1,0 +1,13 @@
+{
+  "_id": "n4va081d9ql",
+  "name": "world-death",
+  "params": {
+    "noun": "world",
+    "owner": "death"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "8vdomqttwjv",
+  "name": "limit-supress",
+  "params": {
+    "noun": "limit",
+    "verb": "supress"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

@@ -4,7 +4,9 @@
   "name": "shadow",
   "order": "4",
   "parents": [
-    "seeables"
+    "seeables",
+    "object-no",
+    "places"
   ],
   "props": {
     "en": "shadow",

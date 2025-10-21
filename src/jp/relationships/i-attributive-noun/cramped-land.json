@@ -1,0 +1,13 @@
+{
+  "_id": "9w9dc1ebmaq",
+  "name": "cramped-land",
+  "params": {
+    "iadj": "cramped",
+    "noun": "land"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

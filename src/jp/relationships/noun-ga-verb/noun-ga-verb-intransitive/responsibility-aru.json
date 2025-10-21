@@ -1,0 +1,13 @@
+{
+  "_id": "849ry9cxmf6",
+  "name": "responsibility-aru",
+  "params": {
+    "noun": "responsibility",
+    "verb": "aru"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

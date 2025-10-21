@@ -1,0 +1,13 @@
+{
+  "_id": "dq9w855cuml",
+  "name": "contract-accomplish",
+  "params": {
+    "noun": "contract",
+    "verb": "accomplish"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

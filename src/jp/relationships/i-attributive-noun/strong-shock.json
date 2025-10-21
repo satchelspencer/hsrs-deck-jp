@@ -1,0 +1,13 @@
+{
+  "_id": "my7fpy9t44s",
+  "name": "strong-shock",
+  "params": {
+    "iadj": "strong",
+    "noun": "shock"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

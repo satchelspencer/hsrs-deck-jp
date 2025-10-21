@@ -1,0 +1,13 @@
+{
+  "_id": "fbvs5qbx0hl",
+  "name": "the-present-lead-to",
+  "params": {
+    "noun": "the-present",
+    "verb": "lead-to"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

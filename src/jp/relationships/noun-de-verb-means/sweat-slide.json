@@ -1,0 +1,13 @@
+{
+  "_id": "dj1kjxf8ge",
+  "name": "sweat-slide",
+  "params": {
+    "noun": "sweat",
+    "verb": "slide"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

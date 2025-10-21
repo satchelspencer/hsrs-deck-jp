@@ -1,0 +1,13 @@
+{
+  "_id": "h83ubq9rdcw",
+  "name": "big-responsibility",
+  "params": {
+    "iadj": "big",
+    "noun": "responsibility"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

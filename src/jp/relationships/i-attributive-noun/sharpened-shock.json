@@ -1,0 +1,13 @@
+{
+  "_id": "bdrzzqph555",
+  "name": "sharpened-shock",
+  "params": {
+    "iadj": "sharpened",
+    "noun": "shock"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

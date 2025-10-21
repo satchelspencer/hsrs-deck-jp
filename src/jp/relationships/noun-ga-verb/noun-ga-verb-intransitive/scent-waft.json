@@ -1,0 +1,13 @@
+{
+  "_id": "v87k7t7ebv",
+  "name": "scent-waft",
+  "params": {
+    "noun": "scent",
+    "verb": "waft"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

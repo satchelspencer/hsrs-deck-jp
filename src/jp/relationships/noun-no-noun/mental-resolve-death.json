@@ -1,0 +1,13 @@
+{
+  "_id": "o0whb8sdg58",
+  "name": "mental-resolve-death",
+  "params": {
+    "noun": "mental-resolve",
+    "owner": "death"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

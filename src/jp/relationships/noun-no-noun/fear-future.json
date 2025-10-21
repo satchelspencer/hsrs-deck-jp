@@ -1,0 +1,13 @@
+{
+  "_id": "vq488bx0grq",
+  "name": "fear-future",
+  "params": {
+    "noun": "fear",
+    "owner": "future"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

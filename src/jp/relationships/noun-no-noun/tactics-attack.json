@@ -1,0 +1,13 @@
+{
+  "_id": "19b3kek0tjc",
+  "name": "tactics-attack",
+  "params": {
+    "noun": "tactics",
+    "owner": "attack"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

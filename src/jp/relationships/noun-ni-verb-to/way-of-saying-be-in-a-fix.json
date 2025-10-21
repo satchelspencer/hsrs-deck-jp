@@ -1,0 +1,13 @@
+{
+  "_id": "kogp4ga8q2f",
+  "name": "way-of-saying-be-in-a-fix",
+  "params": {
+    "noun": "way-of-saying",
+    "verb": "be-in-a-fix"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

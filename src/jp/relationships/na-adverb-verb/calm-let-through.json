@@ -1,0 +1,13 @@
+{
+  "_id": "dfh7o9e5scd",
+  "name": "calm-let-through",
+  "params": {
+    "na": "calm",
+    "verb": "let-through"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "ks9f7lvh08f",
+  "name": "conditions-align-it",
+  "params": {
+    "noun": "conditions",
+    "verb": "align-it"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

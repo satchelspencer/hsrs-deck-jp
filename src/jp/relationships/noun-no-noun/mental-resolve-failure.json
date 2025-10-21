@@ -1,0 +1,13 @@
+{
+  "_id": "img038f9bz",
+  "name": "mental-resolve-failure",
+  "params": {
+    "noun": "mental-resolve",
+    "owner": "failure"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

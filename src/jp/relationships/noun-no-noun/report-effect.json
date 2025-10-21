@@ -1,0 +1,13 @@
+{
+  "_id": "9wlv877yyy",
+  "name": "report-effect",
+  "params": {
+    "noun": "report",
+    "owner": "effect"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

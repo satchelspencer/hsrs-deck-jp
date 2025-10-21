@@ -1,0 +1,13 @@
+{
+  "_id": "3kgpsr98fpa",
+  "name": "margin-win",
+  "params": {
+    "noun": "margin",
+    "verb": "win"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

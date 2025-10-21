@@ -1,0 +1,13 @@
+{
+  "_id": "6964pnwk5o",
+  "name": "confidence-change",
+  "params": {
+    "noun": "confidence",
+    "verb": "change"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

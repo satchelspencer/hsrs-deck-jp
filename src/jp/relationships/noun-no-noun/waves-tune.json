@@ -1,0 +1,13 @@
+{
+  "_id": "ndmdmw3bu3",
+  "name": "waves-tune",
+  "params": {
+    "noun": "waves",
+    "owner": "tune"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

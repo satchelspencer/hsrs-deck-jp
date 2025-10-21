@@ -1,0 +1,13 @@
+{
+  "_id": "01r5b049lnwl",
+  "name": "fear-spread-out",
+  "params": {
+    "noun": "fear",
+    "verb": "spread-out"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "nn1xt4gkgzo",
+  "name": "utmost-strength-use",
+  "params": {
+    "noun": "utmost-strength",
+    "verb": "use"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

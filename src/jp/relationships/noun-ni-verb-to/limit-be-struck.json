@@ -1,0 +1,13 @@
+{
+  "_id": "gn3sa2jb9nm",
+  "name": "limit-be-struck",
+  "params": {
+    "noun": "limit",
+    "verb": "be-struck"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

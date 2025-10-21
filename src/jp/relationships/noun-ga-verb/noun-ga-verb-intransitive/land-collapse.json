@@ -1,0 +1,13 @@
+{
+  "_id": "lxy5y1oe8ri",
+  "name": "land-collapse",
+  "params": {
+    "noun": "land",
+    "verb": "collapse"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

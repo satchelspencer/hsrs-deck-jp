@@ -1,0 +1,13 @@
+{
+  "_id": "guztm4vuuqm",
+  "name": "cooperation-accomplish",
+  "params": {
+    "noun": "cooperation",
+    "verb": "accomplish"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

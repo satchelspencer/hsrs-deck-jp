@@ -1,0 +1,13 @@
+{
+  "_id": "u9dxpjtyhe",
+  "name": "fear-relieve-it",
+  "params": {
+    "noun": "fear",
+    "verb": "relieve-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

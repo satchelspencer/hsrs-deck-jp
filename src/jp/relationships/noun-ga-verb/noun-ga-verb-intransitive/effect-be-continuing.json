@@ -1,0 +1,13 @@
+{
+  "_id": "465jp96jt4",
+  "name": "effect-be-continuing",
+  "params": {
+    "noun": "effect",
+    "verb": "be-continuing"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

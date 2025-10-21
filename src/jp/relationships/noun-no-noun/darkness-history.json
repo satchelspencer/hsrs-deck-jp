@@ -1,0 +1,13 @@
+{
+  "_id": "63hetudwcqi",
+  "name": "darkness-history",
+  "params": {
+    "noun": "darkness",
+    "owner": "history"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

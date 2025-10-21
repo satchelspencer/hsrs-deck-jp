@@ -1,0 +1,13 @@
+{
+  "_id": "rhhuw78107d",
+  "name": "cold-touch-sweat",
+  "params": {
+    "iadj": "cold-touch",
+    "noun": "sweat"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "ir8eqxefq0o",
+  "name": "intense-fear",
+  "params": {
+    "iadj": "intense",
+    "noun": "fear"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

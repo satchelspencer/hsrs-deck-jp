@@ -1,0 +1,13 @@
+{
+  "_id": "j3hh1d3qd2",
+  "name": "responsibility-behavior",
+  "params": {
+    "noun": "responsibility",
+    "verb": "behavior"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

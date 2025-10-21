@@ -1,0 +1,13 @@
+{
+  "_id": "lcgndj4765o",
+  "name": "cause-state-of-affairs",
+  "params": {
+    "noun": "cause",
+    "owner": "state-of-affairs"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

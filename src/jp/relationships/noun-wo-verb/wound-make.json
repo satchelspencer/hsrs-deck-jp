@@ -1,0 +1,13 @@
+{
+  "_id": "o12pr6ogzy",
+  "name": "wound-make",
+  "params": {
+    "noun": "wound",
+    "verb": "make"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

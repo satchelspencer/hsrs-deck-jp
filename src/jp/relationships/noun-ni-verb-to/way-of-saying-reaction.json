@@ -1,0 +1,13 @@
+{
+  "_id": "up18h4u80f",
+  "name": "way-of-saying-reaction",
+  "params": {
+    "noun": "way-of-saying",
+    "verb": "reaction"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

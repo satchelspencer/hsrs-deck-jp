@@ -1,0 +1,13 @@
+{
+  "_id": "pz99x9g11ad",
+  "name": "weapon-protect",
+  "params": {
+    "noun": "weapon",
+    "verb": "protect"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

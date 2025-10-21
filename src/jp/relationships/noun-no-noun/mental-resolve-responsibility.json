@@ -1,0 +1,13 @@
+{
+  "_id": "8tvgrs97l1q",
+  "name": "mental-resolve-responsibility",
+  "params": {
+    "noun": "mental-resolve",
+    "owner": "responsibility"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

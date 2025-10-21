@@ -1,0 +1,13 @@
+{
+  "_id": "uublrgivf2m",
+  "name": "resistance-utmost-strength",
+  "params": {
+    "noun": "resistance",
+    "owner": "utmost-strength"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

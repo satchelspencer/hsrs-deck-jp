@@ -1,0 +1,13 @@
+{
+  "_id": "i8pcpgvtn6o",
+  "name": "distant-limit",
+  "params": {
+    "iadj": "distant",
+    "noun": "limit"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

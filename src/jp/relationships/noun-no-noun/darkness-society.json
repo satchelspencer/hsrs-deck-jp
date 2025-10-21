@@ -1,0 +1,13 @@
+{
+  "_id": "p60hpow1q4",
+  "name": "darkness-society",
+  "params": {
+    "noun": "darkness",
+    "owner": "society"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

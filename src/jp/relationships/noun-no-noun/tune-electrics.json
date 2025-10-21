@@ -1,0 +1,13 @@
+{
+  "_id": "3zj4rljillj",
+  "name": "tune-electrics",
+  "params": {
+    "noun": "tune",
+    "owner": "electrics"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

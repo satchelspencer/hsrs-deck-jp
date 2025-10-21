@@ -1,0 +1,13 @@
+{
+  "_id": "2bpei20htq",
+  "name": "shallow-wound",
+  "params": {
+    "iadj": "shallow",
+    "noun": "wound"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

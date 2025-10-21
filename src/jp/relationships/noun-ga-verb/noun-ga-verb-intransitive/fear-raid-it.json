@@ -1,0 +1,13 @@
+{
+  "_id": "vfyqwm8s2j",
+  "name": "fear-raid-it",
+  "params": {
+    "noun": "fear",
+    "verb": "raid-it"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

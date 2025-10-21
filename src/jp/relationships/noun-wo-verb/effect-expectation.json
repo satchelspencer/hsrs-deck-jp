@@ -1,0 +1,13 @@
+{
+  "_id": "m707pxj9q3s",
+  "name": "effect-expectation",
+  "params": {
+    "noun": "effect",
+    "verb": "expectation"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

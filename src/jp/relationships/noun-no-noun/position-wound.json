@@ -1,0 +1,13 @@
+{
+  "_id": "l7htc9346f",
+  "name": "position-wound",
+  "params": {
+    "noun": "position",
+    "owner": "wound"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

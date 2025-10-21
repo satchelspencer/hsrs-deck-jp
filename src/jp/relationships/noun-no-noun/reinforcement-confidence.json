@@ -1,0 +1,13 @@
+{
+  "_id": "753qmuaz72g",
+  "name": "reinforcement-confidence",
+  "params": {
+    "noun": "reinforcement",
+    "owner": "confidence"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

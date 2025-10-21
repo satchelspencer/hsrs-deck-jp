@@ -1,0 +1,13 @@
+{
+  "_id": "nkmm3efu3g",
+  "name": "conditions-company",
+  "params": {
+    "noun": "conditions",
+    "owner": "company"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

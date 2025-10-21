@@ -1,0 +1,13 @@
+{
+  "_id": "r6n4bmr7lsg",
+  "name": "early-death",
+  "params": {
+    "iadj": "early",
+    "noun": "death"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

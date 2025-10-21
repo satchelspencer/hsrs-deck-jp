@@ -1,0 +1,13 @@
+{
+  "_id": "vz0qk7pui2f",
+  "name": "softly-let-through",
+  "params": {
+    "adv": "softly",
+    "verb": "let-through"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "_id": "8xa6zu20vjy",
+  "desc": "",
+  "name": "the-worst",
+  "order": "4",
+  "parents": [
+    "no-attr-nouns"
+  ],
+  "props": {
+    "_at": "worst",
+    "en": "the worst",
+    "jp": "最悪",
+    "tl": "さいあく"
+  }
+}

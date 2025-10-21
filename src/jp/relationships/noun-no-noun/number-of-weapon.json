@@ -1,0 +1,13 @@
+{
+  "_id": "et0evdxcejf",
+  "name": "number-of-weapon",
+  "params": {
+    "noun": "number-of",
+    "owner": "weapon"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

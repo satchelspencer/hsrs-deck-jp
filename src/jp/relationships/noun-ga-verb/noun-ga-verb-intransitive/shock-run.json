@@ -1,0 +1,13 @@
+{
+  "_id": "m7o3rt9j8ij",
+  "name": "shock-run",
+  "params": {
+    "noun": "shock",
+    "verb": "run"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

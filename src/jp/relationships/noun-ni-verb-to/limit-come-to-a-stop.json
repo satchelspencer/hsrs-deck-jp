@@ -1,0 +1,13 @@
+{
+  "_id": "15ule6p6pik",
+  "name": "limit-come-to-a-stop",
+  "params": {
+    "noun": "limit",
+    "verb": "come-to-a-stop"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

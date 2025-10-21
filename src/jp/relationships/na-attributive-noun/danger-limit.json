@@ -1,0 +1,13 @@
+{
+  "_id": "9b396smj0so",
+  "name": "danger-limit",
+  "params": {
+    "na": "danger",
+    "noun": "limit"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

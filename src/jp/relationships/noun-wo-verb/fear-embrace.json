@@ -1,0 +1,13 @@
+{
+  "_id": "j7ob724az5",
+  "name": "fear-embrace",
+  "params": {
+    "noun": "fear",
+    "verb": "embrace"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

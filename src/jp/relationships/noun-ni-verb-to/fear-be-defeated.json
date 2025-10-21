@@ -1,0 +1,13 @@
+{
+  "_id": "ue2fxcw55pn",
+  "name": "fear-be-defeated",
+  "params": {
+    "noun": "fear",
+    "verb": "be-defeated"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

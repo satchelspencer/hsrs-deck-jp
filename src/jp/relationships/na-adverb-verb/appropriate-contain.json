@@ -1,0 +1,13 @@
+{
+  "_id": "hu5g0uchcfr",
+  "name": "appropriate-contain",
+  "params": {
+    "na": "appropriate",
+    "verb": "contain"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

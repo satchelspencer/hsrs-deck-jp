@@ -4,7 +4,8 @@
   "name": "weapon",
   "order": "4",
   "parents": [
-    "products"
+    "products",
+    "wago-countable"
   ],
   "props": {
     "en": "weapon",

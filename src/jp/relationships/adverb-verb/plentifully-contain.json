@@ -1,0 +1,13 @@
+{
+  "_id": "xh8vuimasfs",
+  "name": "plentifully-contain",
+  "params": {
+    "adv": "plentifully",
+    "verb": "contain"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

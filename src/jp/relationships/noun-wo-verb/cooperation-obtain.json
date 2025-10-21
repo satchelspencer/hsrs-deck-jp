@@ -1,0 +1,13 @@
+{
+  "_id": "j35qdg0hn3j",
+  "name": "cooperation-obtain",
+  "params": {
+    "noun": "cooperation",
+    "verb": "obtain"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "cf7qznhr5wt",
+  "name": "half-remain",
+  "params": {
+    "noun": "half",
+    "verb": "remain"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

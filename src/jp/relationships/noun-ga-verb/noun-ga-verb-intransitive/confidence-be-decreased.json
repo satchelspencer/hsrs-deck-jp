@@ -1,0 +1,13 @@
+{
+  "_id": "aifiy4vvgkw",
+  "name": "confidence-be-decreased",
+  "params": {
+    "noun": "confidence",
+    "verb": "be-decreased"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

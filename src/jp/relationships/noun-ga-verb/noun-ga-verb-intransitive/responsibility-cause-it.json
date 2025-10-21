@@ -1,0 +1,13 @@
+{
+  "_id": "gf58mzgsvs5",
+  "name": "responsibility-cause-it",
+  "params": {
+    "noun": "responsibility",
+    "verb": "cause-it"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "6rxnishur2q",
+  "name": "responsibility-take",
+  "params": {
+    "noun": "responsibility",
+    "verb": "take"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "3znrgvqdxom",
+  "name": "tune-come-out",
+  "params": {
+    "noun": "tune",
+    "verb": "come-out"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

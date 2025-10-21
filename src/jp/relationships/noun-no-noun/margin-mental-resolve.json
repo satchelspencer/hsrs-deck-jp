@@ -1,0 +1,13 @@
+{
+  "_id": "7r36qkee7zq",
+  "name": "margin-mental-resolve",
+  "params": {
+    "noun": "margin",
+    "owner": "mental-resolve"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

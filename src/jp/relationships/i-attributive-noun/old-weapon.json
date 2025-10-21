@@ -1,0 +1,13 @@
+{
+  "_id": "ojquu8nvmkp",
+  "name": "old-weapon",
+  "params": {
+    "iadj": "old",
+    "noun": "weapon"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

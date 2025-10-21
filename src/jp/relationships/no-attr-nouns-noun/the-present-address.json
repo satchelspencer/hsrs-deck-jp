@@ -1,0 +1,13 @@
+{
+  "_id": "pju2fnj2zn",
+  "name": "the-present-address",
+  "params": {
+    "no": "the-present",
+    "noun": "address"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "cwxuax4gkzb",
+  "name": "half-laugh",
+  "params": {
+    "adv": "half",
+    "verb": "laugh"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "rflitp30pz",
+  "name": "abnormal-sweat",
+  "params": {
+    "na": "abnormal",
+    "noun": "sweat"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

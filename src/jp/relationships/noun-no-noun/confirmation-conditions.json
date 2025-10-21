@@ -1,0 +1,13 @@
+{
+  "_id": "dkqewaoak2k",
+  "name": "confirmation-conditions",
+  "params": {
+    "noun": "confirmation",
+    "owner": "conditions"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

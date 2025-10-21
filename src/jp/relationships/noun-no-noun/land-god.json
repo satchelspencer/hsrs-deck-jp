@@ -1,0 +1,13 @@
+{
+  "_id": "su542el4ub",
+  "name": "land-god",
+  "params": {
+    "noun": "land",
+    "owner": "god"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

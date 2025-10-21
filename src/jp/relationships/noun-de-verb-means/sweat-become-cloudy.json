@@ -1,0 +1,13 @@
+{
+  "_id": "cu13pxft5t",
+  "name": "sweat-become-cloudy",
+  "params": {
+    "noun": "sweat",
+    "verb": "become-cloudy"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

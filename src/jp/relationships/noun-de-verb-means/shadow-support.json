@@ -1,0 +1,13 @@
+{
+  "_id": "26cw24086or",
+  "name": "shadow-support",
+  "params": {
+    "noun": "shadow",
+    "verb": "support"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

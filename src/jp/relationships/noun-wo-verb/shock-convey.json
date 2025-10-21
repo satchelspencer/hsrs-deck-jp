@@ -1,0 +1,13 @@
+{
+  "_id": "gbjsjdeh0db",
+  "name": "shock-convey",
+  "params": {
+    "noun": "shock",
+    "verb": "convey"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

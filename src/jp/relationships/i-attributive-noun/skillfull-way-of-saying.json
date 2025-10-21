@@ -1,0 +1,13 @@
+{
+  "_id": "kdyvvd1col",
+  "name": "skillfull-way-of-saying",
+  "params": {
+    "iadj": "skillfull",
+    "noun": "way-of-saying"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

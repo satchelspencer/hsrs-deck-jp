@@ -1,0 +1,13 @@
+{
+  "_id": "1lf2zomp2ys",
+  "name": "half-divide",
+  "params": {
+    "noun": "half",
+    "verb": "divide"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

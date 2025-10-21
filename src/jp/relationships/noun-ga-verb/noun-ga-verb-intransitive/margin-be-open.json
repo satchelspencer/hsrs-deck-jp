@@ -1,0 +1,13 @@
+{
+  "_id": "zd05fqhp1lj",
+  "name": "margin-be-open",
+  "params": {
+    "noun": "margin",
+    "verb": "be-open"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

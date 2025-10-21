@@ -1,0 +1,13 @@
+{
+  "_id": "os789wjm88o",
+  "name": "subtle-effect",
+  "params": {
+    "na": "subtle",
+    "noun": "effect"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

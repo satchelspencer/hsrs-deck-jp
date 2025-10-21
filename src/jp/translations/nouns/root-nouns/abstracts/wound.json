@@ -4,7 +4,8 @@
   "name": "wound",
   "order": "4",
   "parents": [
-    "abstracts"
+    "abstracts",
+    "ken-matters-countable"
   ],
   "props": {
     "en": "wound",

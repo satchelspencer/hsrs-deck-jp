@@ -1,0 +1,13 @@
+{
+  "_id": "rgrpp3zm2d",
+  "name": "bitter-sweat",
+  "params": {
+    "iadj": "bitter",
+    "noun": "sweat"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

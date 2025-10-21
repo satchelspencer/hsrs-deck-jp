@@ -1,0 +1,13 @@
+{
+  "_id": "wl4lej84kkq",
+  "name": "recovery-confidence",
+  "params": {
+    "noun": "recovery",
+    "owner": "confidence"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

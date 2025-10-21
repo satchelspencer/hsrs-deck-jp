@@ -4,9 +4,14 @@
   "name": "status-quo",
   "order": "4",
   "parents": [
-    "events"
+    "events",
+    "suru-nouns",
+    "people-do",
+    "te-iru-verbs-continuous"
   ],
   "props": {
+    "_pg": "maintaining the status quo of",
+    "_v": "maintain the status quo of",
     "en": "status quo",
     "jp": "維持",
     "tl": "げんじょう"

@@ -1,0 +1,13 @@
+{
+  "_id": "bn5q34qv3v8",
+  "name": "convenience-weapon",
+  "params": {
+    "na": "convenience",
+    "noun": "weapon"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

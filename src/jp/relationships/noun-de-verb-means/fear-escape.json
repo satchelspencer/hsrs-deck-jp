@@ -1,0 +1,13 @@
+{
+  "_id": "is9f8hv71i",
+  "name": "fear-escape",
+  "params": {
+    "noun": "fear",
+    "verb": "escape"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

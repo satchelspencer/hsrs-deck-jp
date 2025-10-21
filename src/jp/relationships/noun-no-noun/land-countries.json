@@ -1,0 +1,13 @@
+{
+  "_id": "108brp0e26tj",
+  "name": "land-countries",
+  "params": {
+    "noun": "land",
+    "owner": "countries"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

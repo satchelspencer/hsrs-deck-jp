@@ -1,0 +1,13 @@
+{
+  "_id": "svoghwfmokg",
+  "name": "straight-let-through",
+  "params": {
+    "na": "straight",
+    "verb": "let-through"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

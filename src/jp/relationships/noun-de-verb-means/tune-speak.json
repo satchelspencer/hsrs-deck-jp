@@ -1,0 +1,13 @@
+{
+  "_id": "192tuiwypvk",
+  "name": "tune-speak",
+  "params": {
+    "noun": "tune",
+    "verb": "speak"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

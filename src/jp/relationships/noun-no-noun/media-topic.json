@@ -1,0 +1,13 @@
+{
+  "_id": "sls3nzc5cn",
+  "name": "media-topic",
+  "params": {
+    "noun": "media",
+    "owner": "topic"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

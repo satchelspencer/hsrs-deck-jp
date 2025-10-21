@@ -1,0 +1,13 @@
+{
+  "_id": "z60mll25xy",
+  "name": "dangerous-tactics",
+  "params": {
+    "iadj": "dangerous",
+    "noun": "tactics"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

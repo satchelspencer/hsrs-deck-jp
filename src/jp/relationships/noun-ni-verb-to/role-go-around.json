@@ -1,0 +1,13 @@
+{
+  "_id": "e4h31dli4ib",
+  "name": "role-go-around",
+  "params": {
+    "noun": "role",
+    "verb": "go-around"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

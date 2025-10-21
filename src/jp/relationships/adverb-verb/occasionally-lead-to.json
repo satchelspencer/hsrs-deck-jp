@@ -1,0 +1,13 @@
+{
+  "_id": "ra1a6za6hih",
+  "name": "occasionally-lead-to",
+  "params": {
+    "adv": "occasionally",
+    "verb": "lead-to"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

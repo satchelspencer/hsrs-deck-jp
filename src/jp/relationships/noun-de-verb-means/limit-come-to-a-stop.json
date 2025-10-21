@@ -1,0 +1,13 @@
+{
+  "_id": "gcjx3mpo2f4",
+  "name": "limit-come-to-a-stop",
+  "params": {
+    "noun": "limit",
+    "verb": "come-to-a-stop"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "8pdjx6lgjmq",
+  "name": "limit-be-raised",
+  "params": {
+    "noun": "limit",
+    "verb": "be-raised"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

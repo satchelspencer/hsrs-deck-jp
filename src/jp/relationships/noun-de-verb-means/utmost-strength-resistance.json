@@ -1,0 +1,13 @@
+{
+  "_id": "iu23y0vibn",
+  "name": "utmost-strength-resistance",
+  "params": {
+    "noun": "utmost-strength",
+    "verb": "resistance"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

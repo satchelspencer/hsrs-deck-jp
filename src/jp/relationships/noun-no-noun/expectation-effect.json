@@ -1,0 +1,13 @@
+{
+  "_id": "zp7ctjyxnb",
+  "name": "expectation-effect",
+  "params": {
+    "noun": "expectation",
+    "owner": "effect"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

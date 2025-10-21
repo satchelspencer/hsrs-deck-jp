@@ -1,0 +1,13 @@
+{
+  "_id": "0dgz7ynb6tug",
+  "name": "tune-say",
+  "params": {
+    "noun": "tune",
+    "verb": "say"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

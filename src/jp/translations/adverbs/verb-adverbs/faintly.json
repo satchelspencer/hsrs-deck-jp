@@ -4,9 +4,12 @@
   "name": "faintly",
   "order": "4",
   "parents": [
-    "verb-adverbs"
+    "verb-adverbs",
+    "na-attributive"
   ],
   "props": {
+    "_ad": "",
+    "_at": "faint",
     "en": "faintly",
     "jp": "ぼんやり"
   }

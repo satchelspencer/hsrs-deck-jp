@@ -1,0 +1,13 @@
+{
+  "_id": "19nmeht362u",
+  "name": "cause-sweat",
+  "params": {
+    "noun": "cause",
+    "owner": "sweat"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "z4q0y92leht",
+  "name": "sweat-come-out",
+  "params": {
+    "noun": "sweat",
+    "verb": "come-out"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "i6hox6rek0o",
+  "name": "shadow-fall",
+  "params": {
+    "noun": "shadow",
+    "verb": "fall"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "mr8u0x6o3",
+  "name": "fear-cry",
+  "params": {
+    "noun": "fear",
+    "verb": "cry"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

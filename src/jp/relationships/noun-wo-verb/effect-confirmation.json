@@ -1,0 +1,13 @@
+{
+  "_id": "v16k7nzagnb",
+  "name": "effect-confirmation",
+  "params": {
+    "noun": "effect",
+    "verb": "confirmation"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

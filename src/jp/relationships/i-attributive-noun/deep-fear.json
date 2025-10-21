@@ -1,0 +1,13 @@
+{
+  "_id": "nlmaxurn5l",
+  "name": "deep-fear",
+  "params": {
+    "iadj": "deep",
+    "noun": "fear"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

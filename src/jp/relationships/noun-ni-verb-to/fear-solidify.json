@@ -1,0 +1,13 @@
+{
+  "_id": "gr4v8r0qfkq",
+  "name": "fear-solidify",
+  "params": {
+    "noun": "fear",
+    "verb": "solidify"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

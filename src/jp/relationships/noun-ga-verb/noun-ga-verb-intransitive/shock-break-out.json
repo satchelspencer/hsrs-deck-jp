@@ -1,0 +1,13 @@
+{
+  "_id": "dikjr59qjz",
+  "name": "shock-break-out",
+  "params": {
+    "noun": "shock",
+    "verb": "break-out"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

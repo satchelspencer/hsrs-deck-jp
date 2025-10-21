@@ -1,0 +1,13 @@
+{
+  "_id": "wfcggdulbib",
+  "name": "reason-effect",
+  "params": {
+    "noun": "reason",
+    "owner": "effect"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

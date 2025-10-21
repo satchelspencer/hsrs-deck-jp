@@ -1,0 +1,13 @@
+{
+  "_id": "7oc3ed56ih",
+  "name": "tune-be-raised",
+  "params": {
+    "noun": "tune",
+    "verb": "be-raised"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "hxykrnq6aoh",
+  "name": "effect-aim-for",
+  "params": {
+    "noun": "effect",
+    "verb": "aim-for"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

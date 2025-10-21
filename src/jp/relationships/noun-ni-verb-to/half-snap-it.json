@@ -1,0 +1,13 @@
+{
+  "_id": "8skjs5t4ipg",
+  "name": "half-snap-it",
+  "params": {
+    "noun": "half",
+    "verb": "snap-it"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

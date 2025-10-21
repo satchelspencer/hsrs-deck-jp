@@ -1,0 +1,13 @@
+{
+  "_id": "hl1b2cvwg4f",
+  "name": "pretty-land",
+  "params": {
+    "na": "pretty",
+    "noun": "land"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

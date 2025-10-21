@@ -1,0 +1,13 @@
+{
+  "_id": "5jp8e7a3w02",
+  "name": "effect-meal",
+  "params": {
+    "noun": "effect",
+    "owner": "meal"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

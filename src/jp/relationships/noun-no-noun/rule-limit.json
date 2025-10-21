@@ -1,0 +1,13 @@
+{
+  "_id": "ef4v7xlmzm4",
+  "name": "rule-limit",
+  "params": {
+    "noun": "rule",
+    "owner": "limit"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "9ln3y3xtkg",
+  "name": "fear-be-living",
+  "params": {
+    "noun": "fear",
+    "verb": "be-living"
+  },
+  "parents": [
+    "noun-to-verb-with"
+  ],
+  "props": {
+  }
+}

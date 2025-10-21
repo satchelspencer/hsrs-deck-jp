@@ -1,0 +1,13 @@
+{
+  "_id": "lkgyndorh5",
+  "name": "tune-be-lowered",
+  "params": {
+    "noun": "tune",
+    "verb": "be-lowered"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

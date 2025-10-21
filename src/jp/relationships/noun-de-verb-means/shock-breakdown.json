@@ -1,0 +1,13 @@
+{
+  "_id": "70wsp7k2fh4",
+  "name": "shock-breakdown",
+  "params": {
+    "noun": "shock",
+    "verb": "breakdown"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

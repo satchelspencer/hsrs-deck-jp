@@ -1,0 +1,13 @@
+{
+  "_id": "ct59j8n6eus",
+  "name": "as-much-as-possible-cooperation",
+  "params": {
+    "adv": "as-much-as-possible",
+    "verb": "cooperation"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

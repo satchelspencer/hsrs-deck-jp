@@ -1,0 +1,13 @@
+{
+  "_id": "ofzl75vvofl",
+  "name": "information-cooperation",
+  "params": {
+    "noun": "information",
+    "verb": "cooperation"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

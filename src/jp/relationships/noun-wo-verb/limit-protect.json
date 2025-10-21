@@ -1,0 +1,13 @@
+{
+  "_id": "13dwcxn3fzdr",
+  "name": "limit-protect",
+  "params": {
+    "noun": "limit",
+    "verb": "protect"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

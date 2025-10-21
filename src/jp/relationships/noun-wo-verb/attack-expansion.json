@@ -1,0 +1,13 @@
+{
+  "_id": "usq1ujupta8",
+  "name": "attack-expansion",
+  "params": {
+    "noun": "attack",
+    "verb": "expansion"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

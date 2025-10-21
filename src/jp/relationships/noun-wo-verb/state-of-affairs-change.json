@@ -1,0 +1,13 @@
+{
+  "_id": "f720a2lop1m",
+  "name": "state-of-affairs-change",
+  "params": {
+    "noun": "state-of-affairs",
+    "verb": "change"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

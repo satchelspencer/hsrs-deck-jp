@@ -1,0 +1,13 @@
+{
+  "_id": "bomr5k8kbv",
+  "name": "margin-quantities",
+  "params": {
+    "noun": "margin",
+    "owner": "quantities"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

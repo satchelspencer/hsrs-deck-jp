@@ -1,0 +1,13 @@
+{
+  "_id": "n52e9a985t",
+  "name": "land-reach",
+  "params": {
+    "noun": "land",
+    "verb": "reach"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

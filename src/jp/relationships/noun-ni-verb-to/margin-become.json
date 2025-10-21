@@ -1,0 +1,13 @@
+{
+  "_id": "f1wb4107hyf",
+  "name": "margin-become",
+  "params": {
+    "noun": "margin",
+    "verb": "become"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

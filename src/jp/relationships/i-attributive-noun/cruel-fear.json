@@ -1,0 +1,13 @@
+{
+  "_id": "i2j83lss7jf",
+  "name": "cruel-fear",
+  "params": {
+    "iadj": "cruel",
+    "noun": "fear"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

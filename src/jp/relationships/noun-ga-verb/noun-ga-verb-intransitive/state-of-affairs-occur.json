@@ -1,0 +1,13 @@
+{
+  "_id": "cs5h4b0xvz5",
+  "name": "state-of-affairs-occur",
+  "params": {
+    "noun": "state-of-affairs",
+    "verb": "occur"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

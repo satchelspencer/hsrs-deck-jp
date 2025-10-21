@@ -1,0 +1,13 @@
+{
+  "_id": "rp12i32jw3b",
+  "name": "good-tune",
+  "params": {
+    "iadj": "good",
+    "noun": "tune"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

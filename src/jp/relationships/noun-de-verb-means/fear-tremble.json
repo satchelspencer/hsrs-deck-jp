@@ -1,0 +1,13 @@
+{
+  "_id": "5xao7ik9xlp",
+  "name": "fear-tremble",
+  "params": {
+    "noun": "fear",
+    "verb": "tremble"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

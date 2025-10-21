@@ -1,0 +1,13 @@
+{
+  "_id": "sknyzvncod",
+  "name": "shadow-watch-over",
+  "params": {
+    "noun": "shadow",
+    "verb": "watch-over"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

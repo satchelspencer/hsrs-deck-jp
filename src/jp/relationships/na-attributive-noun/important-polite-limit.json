@@ -1,0 +1,13 @@
+{
+  "_id": "0ji808u7atmu",
+  "name": "important-polite-limit",
+  "params": {
+    "na": "important-polite",
+    "noun": "limit"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

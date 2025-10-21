@@ -1,0 +1,13 @@
+{
+  "_id": "ggatp4j0rxk",
+  "name": "deep-wound",
+  "params": {
+    "iadj": "deep",
+    "noun": "wound"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

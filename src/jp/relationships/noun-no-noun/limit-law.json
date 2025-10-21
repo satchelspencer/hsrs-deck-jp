@@ -1,0 +1,13 @@
+{
+  "_id": "1p6g1gh2w5o",
+  "name": "limit-law",
+  "params": {
+    "noun": "limit",
+    "owner": "law"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

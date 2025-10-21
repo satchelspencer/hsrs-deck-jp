@@ -1,0 +1,13 @@
+{
+  "_id": "ya4g579ttu",
+  "name": "waves-waft",
+  "params": {
+    "noun": "waves",
+    "verb": "waft"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "nxmvk0gghw",
+  "name": "effect-be-raised",
+  "params": {
+    "noun": "effect",
+    "verb": "be-raised"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "bau9pkcnrxq",
+  "name": "dark-topic",
+  "params": {
+    "iadj": "dark",
+    "noun": "topic"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

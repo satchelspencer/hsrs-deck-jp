@@ -1,0 +1,13 @@
+{
+  "_id": "ywcyprq4h8s",
+  "name": "death-welcome",
+  "params": {
+    "noun": "death",
+    "verb": "welcome"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

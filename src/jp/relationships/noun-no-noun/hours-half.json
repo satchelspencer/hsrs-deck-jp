@@ -1,0 +1,13 @@
+{
+  "_id": "jh327kehyhd",
+  "name": "hours-half",
+  "params": {
+    "noun": "hours",
+    "owner": "half"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

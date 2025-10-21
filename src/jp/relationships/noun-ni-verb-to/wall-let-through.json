@@ -1,0 +1,13 @@
+{
+  "_id": "drp7jj92wls",
+  "name": "wall-let-through",
+  "params": {
+    "noun": "wall",
+    "verb": "let-through"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

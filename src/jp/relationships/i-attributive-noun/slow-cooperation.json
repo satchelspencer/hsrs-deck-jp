@@ -1,0 +1,13 @@
+{
+  "_id": "ofd9kefsqog",
+  "name": "slow-cooperation",
+  "params": {
+    "iadj": "slow",
+    "noun": "cooperation"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "91wfdgy78ag",
+  "name": "cooperation-seek",
+  "params": {
+    "noun": "cooperation",
+    "verb": "seek"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "ojr0rz238mh",
+  "name": "abnormal-situation",
+  "params": {
+    "na": "abnormal",
+    "noun": "situation"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

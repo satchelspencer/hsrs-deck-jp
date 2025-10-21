@@ -1,0 +1,13 @@
+{
+  "_id": "xkboe7jsbm",
+  "name": "death-encounter",
+  "params": {
+    "noun": "death",
+    "verb": "encounter"
+  },
+  "parents": [
+    "noun-to-verb-with"
+  ],
+  "props": {
+  }
+}

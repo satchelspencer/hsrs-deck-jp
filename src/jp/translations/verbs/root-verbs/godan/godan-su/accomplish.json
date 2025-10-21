@@ -5,7 +5,9 @@
   "order": "4",
   "parents": [
     "godan-su",
-    "people-do-volitional"
+    "people-do-volitional",
+    "organizations-do",
+    "te-iru-verbs-continuous"
   ],
   "props": {
     "en": "accomplish",

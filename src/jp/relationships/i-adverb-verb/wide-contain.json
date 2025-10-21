@@ -1,0 +1,13 @@
+{
+  "_id": "l8wzc13x9g",
+  "name": "wide-contain",
+  "params": {
+    "iadj": "wide",
+    "verb": "contain"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

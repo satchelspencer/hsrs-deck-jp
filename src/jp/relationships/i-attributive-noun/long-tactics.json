@@ -1,0 +1,13 @@
+{
+  "_id": "5wiipi54n5x",
+  "name": "long-tactics",
+  "params": {
+    "iadj": "long",
+    "noun": "tactics"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

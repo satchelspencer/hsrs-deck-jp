@@ -1,0 +1,13 @@
+{
+  "_id": "o489t9bfeb",
+  "name": "intense-margin",
+  "params": {
+    "iadj": "intense",
+    "noun": "margin"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

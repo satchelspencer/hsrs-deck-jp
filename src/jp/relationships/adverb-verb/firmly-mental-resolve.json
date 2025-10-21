@@ -1,0 +1,13 @@
+{
+  "_id": "omh5jdh0jgf",
+  "name": "firmly-mental-resolve",
+  "params": {
+    "adv": "firmly",
+    "verb": "mental-resolve"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

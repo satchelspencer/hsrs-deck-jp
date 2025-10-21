@@ -1,0 +1,13 @@
+{
+  "_id": "lhh60fm3ow",
+  "name": "topic-school",
+  "params": {
+    "noun": "topic",
+    "owner": "school"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

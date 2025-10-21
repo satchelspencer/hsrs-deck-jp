@@ -1,0 +1,13 @@
+{
+  "_id": "1p9kddk2ckm",
+  "name": "death-accident",
+  "params": {
+    "noun": "death",
+    "owner": "accident"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

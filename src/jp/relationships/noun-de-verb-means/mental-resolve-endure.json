@@ -1,0 +1,13 @@
+{
+  "_id": "5n9mgb6la2m",
+  "name": "mental-resolve-endure",
+  "params": {
+    "noun": "mental-resolve",
+    "verb": "endure"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "mbkc788u8bh",
+  "name": "category-weapon",
+  "params": {
+    "noun": "category",
+    "owner": "weapon"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

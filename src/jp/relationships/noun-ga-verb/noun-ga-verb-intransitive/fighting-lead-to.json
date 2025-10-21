@@ -1,0 +1,13 @@
+{
+  "_id": "k8l263bfjk8",
+  "name": "fighting-lead-to",
+  "params": {
+    "noun": "fighting",
+    "verb": "lead-to"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

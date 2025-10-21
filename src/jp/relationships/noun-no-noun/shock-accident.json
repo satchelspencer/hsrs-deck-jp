@@ -1,0 +1,13 @@
+{
+  "_id": "ukepcbivg6b",
+  "name": "shock-accident",
+  "params": {
+    "noun": "shock",
+    "owner": "accident"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

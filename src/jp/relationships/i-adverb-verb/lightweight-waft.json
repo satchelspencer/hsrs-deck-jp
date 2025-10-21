@@ -1,0 +1,13 @@
+{
+  "_id": "eg3gvomhl4n",
+  "name": "lightweight-waft",
+  "params": {
+    "iadj": "lightweight",
+    "verb": "waft"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

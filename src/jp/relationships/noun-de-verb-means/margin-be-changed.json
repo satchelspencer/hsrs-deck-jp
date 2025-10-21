@@ -1,0 +1,13 @@
+{
+  "_id": "0ly06gwb1ur",
+  "name": "margin-be-changed",
+  "params": {
+    "noun": "margin",
+    "verb": "be-changed"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "uwl6brkvy9j",
+  "name": "breakdown-lead-to",
+  "params": {
+    "noun": "breakdown",
+    "verb": "lead-to"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

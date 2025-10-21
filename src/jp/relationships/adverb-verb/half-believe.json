@@ -1,0 +1,13 @@
+{
+  "_id": "i1c6pntf0vo",
+  "name": "half-believe",
+  "params": {
+    "adv": "half",
+    "verb": "believe"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

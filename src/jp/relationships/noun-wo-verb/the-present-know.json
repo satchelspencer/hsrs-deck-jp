@@ -1,0 +1,13 @@
+{
+  "_id": "1ku8hzzjapa",
+  "name": "the-present-know",
+  "params": {
+    "noun": "the-present",
+    "verb": "know"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

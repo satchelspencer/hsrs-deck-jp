@@ -1,0 +1,13 @@
+{
+  "_id": "t117ia393cc",
+  "name": "effect-practice",
+  "params": {
+    "noun": "effect",
+    "owner": "practice"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

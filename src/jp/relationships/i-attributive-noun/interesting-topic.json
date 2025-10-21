@@ -1,0 +1,13 @@
+{
+  "_id": "2cg1zh58f7p",
+  "name": "interesting-topic",
+  "params": {
+    "iadj": "interesting",
+    "noun": "topic"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

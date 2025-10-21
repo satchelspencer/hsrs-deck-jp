@@ -1,0 +1,13 @@
+{
+  "_id": "fq54lhy9ycf",
+  "name": "confidence-aru",
+  "params": {
+    "noun": "confidence",
+    "verb": "aru"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

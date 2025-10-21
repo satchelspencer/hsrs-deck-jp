@@ -1,0 +1,13 @@
+{
+  "_id": "aarm611latg",
+  "name": "responsibility-awareness",
+  "params": {
+    "noun": "responsibility",
+    "verb": "awareness"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

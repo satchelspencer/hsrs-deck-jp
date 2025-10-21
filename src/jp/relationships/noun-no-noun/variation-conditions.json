@@ -1,0 +1,13 @@
+{
+  "_id": "y0orssycanj",
+  "name": "variation-conditions",
+  "params": {
+    "noun": "variation",
+    "owner": "conditions"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

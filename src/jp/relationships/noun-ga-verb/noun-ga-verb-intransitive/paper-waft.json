@@ -1,0 +1,13 @@
+{
+  "_id": "gn1qwm1ed1a",
+  "name": "paper-waft",
+  "params": {
+    "noun": "paper",
+    "verb": "waft"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "gdchtgcnpls",
+  "name": "shadow-drop",
+  "params": {
+    "noun": "shadow",
+    "verb": "drop"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

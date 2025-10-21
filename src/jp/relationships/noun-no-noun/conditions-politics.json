@@ -1,0 +1,13 @@
+{
+  "_id": "2p0eufzqm0c",
+  "name": "conditions-politics",
+  "params": {
+    "noun": "conditions",
+    "owner": "politics"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

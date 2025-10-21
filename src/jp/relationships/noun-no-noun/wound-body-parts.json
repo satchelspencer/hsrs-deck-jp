@@ -1,0 +1,13 @@
+{
+  "_id": "52rx683kn5",
+  "name": "wound-body-parts",
+  "params": {
+    "noun": "wound",
+    "owner": "body-parts"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

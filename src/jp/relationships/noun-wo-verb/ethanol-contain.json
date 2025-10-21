@@ -1,0 +1,13 @@
+{
+  "_id": "ylboczypig8",
+  "name": "ethanol-contain",
+  "params": {
+    "noun": "ethanol",
+    "verb": "contain"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

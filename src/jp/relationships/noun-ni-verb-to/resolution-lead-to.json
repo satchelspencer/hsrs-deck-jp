@@ -1,0 +1,13 @@
+{
+  "_id": "wcrpx3rt8ps",
+  "name": "resolution-lead-to",
+  "params": {
+    "noun": "resolution",
+    "verb": "lead-to"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

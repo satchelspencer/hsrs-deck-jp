@@ -1,0 +1,13 @@
+{
+  "_id": "5sohg1w38f8",
+  "name": "important-role",
+  "params": {
+    "na": "important",
+    "noun": "role"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

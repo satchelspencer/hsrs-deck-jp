@@ -1,0 +1,13 @@
+{
+  "_id": "bhnosp53pdf",
+  "name": "role-refuse",
+  "params": {
+    "noun": "role",
+    "verb": "refuse"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

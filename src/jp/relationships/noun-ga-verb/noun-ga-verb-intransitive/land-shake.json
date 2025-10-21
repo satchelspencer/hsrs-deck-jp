@@ -1,0 +1,13 @@
+{
+  "_id": "rwfyvzjvf4h",
+  "name": "land-shake",
+  "params": {
+    "noun": "land",
+    "verb": "shake"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

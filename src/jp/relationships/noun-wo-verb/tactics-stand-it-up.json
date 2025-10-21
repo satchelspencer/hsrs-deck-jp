@@ -1,0 +1,13 @@
+{
+  "_id": "60t643my57",
+  "name": "tactics-stand-it-up",
+  "params": {
+    "noun": "tactics",
+    "verb": "stand-it-up"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

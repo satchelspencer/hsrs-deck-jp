@@ -1,0 +1,13 @@
+{
+  "_id": "18sm2r2dpu3",
+  "name": "cause-wound",
+  "params": {
+    "noun": "cause",
+    "owner": "wound"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

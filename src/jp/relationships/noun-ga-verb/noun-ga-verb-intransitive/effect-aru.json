@@ -1,0 +1,13 @@
+{
+  "_id": "n8gc8a9s1yp",
+  "name": "effect-aru",
+  "params": {
+    "noun": "effect",
+    "verb": "aru"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "bhd0ing37pn",
+  "name": "condition-wound",
+  "params": {
+    "noun": "condition",
+    "owner": "wound"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

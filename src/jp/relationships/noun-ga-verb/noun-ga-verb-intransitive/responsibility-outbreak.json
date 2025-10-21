@@ -1,0 +1,13 @@
+{
+  "_id": "cfoxo3ucdhf",
+  "name": "responsibility-outbreak",
+  "params": {
+    "noun": "responsibility",
+    "verb": "outbreak"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

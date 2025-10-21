@@ -1,0 +1,13 @@
+{
+  "_id": "ql3fipqm93",
+  "name": "tune-check",
+  "params": {
+    "noun": "tune",
+    "verb": "check"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

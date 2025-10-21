@@ -1,0 +1,13 @@
+{
+  "_id": "8u3g5c8umdh",
+  "name": "big-shock",
+  "params": {
+    "iadj": "big",
+    "noun": "shock"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

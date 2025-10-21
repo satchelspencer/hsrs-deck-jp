@@ -1,0 +1,13 @@
+{
+  "_id": "4ft77b6pk0g",
+  "name": "way-of-saying-greeting",
+  "params": {
+    "noun": "way-of-saying",
+    "owner": "greeting"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "givz0xz0fju",
+  "name": "mental-resolve-variation",
+  "params": {
+    "noun": "mental-resolve",
+    "owner": "variation"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

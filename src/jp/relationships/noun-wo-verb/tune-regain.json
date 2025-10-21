@@ -1,0 +1,13 @@
+{
+  "_id": "1qvjsz5hump",
+  "name": "tune-regain",
+  "params": {
+    "noun": "tune",
+    "verb": "regain"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

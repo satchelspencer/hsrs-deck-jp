@@ -1,0 +1,13 @@
+{
+  "_id": "5bvhu7n8gq",
+  "name": "consultation-lead-to",
+  "params": {
+    "noun": "consultation",
+    "verb": "lead-to"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

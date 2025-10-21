@@ -1,0 +1,13 @@
+{
+  "_id": "7ju0oxa12ci",
+  "name": "tactics-conceal-it",
+  "params": {
+    "noun": "tactics",
+    "verb": "conceal-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

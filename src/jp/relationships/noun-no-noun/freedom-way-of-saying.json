@@ -1,0 +1,13 @@
+{
+  "_id": "l3le96g4sf",
+  "name": "freedom-way-of-saying",
+  "params": {
+    "noun": "freedom",
+    "owner": "way-of-saying"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "142gy20laa4e",
+  "name": "way-of-saying-be-conveyed",
+  "params": {
+    "noun": "way-of-saying",
+    "verb": "be-conveyed"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

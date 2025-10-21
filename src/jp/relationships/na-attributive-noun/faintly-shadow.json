@@ -1,0 +1,13 @@
+{
+  "_id": "bgenid2qdlf",
+  "name": "faintly-shadow",
+  "params": {
+    "na": "faintly",
+    "noun": "shadow"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

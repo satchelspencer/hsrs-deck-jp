@@ -1,0 +1,13 @@
+{
+  "_id": "9hlrbluoe2t",
+  "name": "insufficient-limit",
+  "params": {
+    "na": "insufficient",
+    "noun": "limit"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

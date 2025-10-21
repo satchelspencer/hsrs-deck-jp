@@ -1,0 +1,13 @@
+{
+  "_id": "2748hxeltyx",
+  "name": "half-sleep",
+  "params": {
+    "adv": "half",
+    "verb": "sleep"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

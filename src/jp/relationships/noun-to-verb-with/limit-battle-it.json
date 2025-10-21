@@ -1,0 +1,13 @@
+{
+  "_id": "w3kedsxksei",
+  "name": "limit-battle-it",
+  "params": {
+    "noun": "limit",
+    "verb": "battle-it"
+  },
+  "parents": [
+    "noun-to-verb-with"
+  ],
+  "props": {
+  }
+}

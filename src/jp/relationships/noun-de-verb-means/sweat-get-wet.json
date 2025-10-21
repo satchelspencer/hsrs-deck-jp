@@ -1,0 +1,13 @@
+{
+  "_id": "jft3qf3om0f",
+  "name": "sweat-get-wet",
+  "params": {
+    "noun": "sweat",
+    "verb": "get-wet"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

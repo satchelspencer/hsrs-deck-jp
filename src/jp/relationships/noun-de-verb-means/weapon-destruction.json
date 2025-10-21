@@ -1,0 +1,13 @@
+{
+  "_id": "itskqyhn9t",
+  "name": "weapon-destruction",
+  "params": {
+    "noun": "weapon",
+    "verb": "destruction"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

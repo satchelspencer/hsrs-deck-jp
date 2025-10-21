@@ -1,0 +1,13 @@
+{
+  "_id": "li9swaj33gf",
+  "name": "role-do-yaru",
+  "params": {
+    "noun": "role",
+    "verb": "do-yaru"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

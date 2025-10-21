@@ -1,0 +1,13 @@
+{
+  "_id": "b5vovytu5x7",
+  "name": "conditions-rest",
+  "params": {
+    "noun": "conditions",
+    "verb": "rest"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

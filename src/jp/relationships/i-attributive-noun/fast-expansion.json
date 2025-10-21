@@ -1,0 +1,13 @@
+{
+  "_id": "b3f04hpscgp",
+  "name": "fast-expansion",
+  "params": {
+    "iadj": "fast",
+    "noun": "expansion"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

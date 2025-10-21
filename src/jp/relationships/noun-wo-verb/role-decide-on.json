@@ -1,0 +1,13 @@
+{
+  "_id": "rpbbrij3ifl",
+  "name": "role-decide-on",
+  "params": {
+    "noun": "role",
+    "verb": "decide-on"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

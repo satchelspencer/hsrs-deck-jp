@@ -1,0 +1,13 @@
+{
+  "_id": "9f3a2zia5s",
+  "name": "difficult-role",
+  "params": {
+    "iadj": "difficult",
+    "noun": "role"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

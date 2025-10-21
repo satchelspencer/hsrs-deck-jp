@@ -1,0 +1,13 @@
+{
+  "_id": "k3buvcote8k",
+  "name": "darkness-draw-near",
+  "params": {
+    "noun": "darkness",
+    "verb": "draw-near"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

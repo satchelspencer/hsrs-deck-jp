@@ -1,0 +1,13 @@
+{
+  "_id": "5011t6bomrc",
+  "name": "low-confidence",
+  "params": {
+    "iadj": "low",
+    "noun": "confidence"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

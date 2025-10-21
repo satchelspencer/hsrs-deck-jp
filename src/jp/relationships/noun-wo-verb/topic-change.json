@@ -1,0 +1,13 @@
+{
+  "_id": "9qoe83zy1xk",
+  "name": "topic-change",
+  "params": {
+    "noun": "topic",
+    "verb": "change"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

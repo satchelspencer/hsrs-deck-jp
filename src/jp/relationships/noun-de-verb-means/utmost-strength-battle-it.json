@@ -1,0 +1,13 @@
+{
+  "_id": "9yh9e2nqtfi",
+  "name": "utmost-strength-battle-it",
+  "params": {
+    "noun": "utmost-strength",
+    "verb": "battle-it"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

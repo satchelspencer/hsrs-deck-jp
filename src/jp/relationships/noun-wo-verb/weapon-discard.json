@@ -1,0 +1,13 @@
+{
+  "_id": "ul9lxcvpqo",
+  "name": "weapon-discard",
+  "params": {
+    "noun": "weapon",
+    "verb": "discard"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

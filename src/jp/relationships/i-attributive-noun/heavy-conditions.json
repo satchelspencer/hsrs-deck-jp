@@ -1,0 +1,13 @@
+{
+  "_id": "v6rw3uouuic",
+  "name": "heavy-conditions",
+  "params": {
+    "iadj": "heavy",
+    "noun": "conditions"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "lfuyiv7fhn",
+  "name": "utmost-strength-acquire-knowledge",
+  "params": {
+    "noun": "utmost-strength",
+    "verb": "acquire-knowledge"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

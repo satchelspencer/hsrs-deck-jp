@@ -1,0 +1,13 @@
+{
+  "_id": "1ce6kkg7i43",
+  "name": "numerous-wound",
+  "params": {
+    "iadj": "numerous",
+    "noun": "wound"
+  },
+  "parents": [
+    "i-predonly-noun"
+  ],
+  "props": {
+  }
+}

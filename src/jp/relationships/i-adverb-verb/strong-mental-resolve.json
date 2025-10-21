@@ -1,0 +1,13 @@
+{
+  "_id": "07xtgvj61iy5",
+  "name": "strong-mental-resolve",
+  "params": {
+    "iadj": "strong",
+    "verb": "mental-resolve"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

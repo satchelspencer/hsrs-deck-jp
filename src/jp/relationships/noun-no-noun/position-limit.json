@@ -1,0 +1,13 @@
+{
+  "_id": "p0a01uef5yk",
+  "name": "position-limit",
+  "params": {
+    "noun": "position",
+    "owner": "limit"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

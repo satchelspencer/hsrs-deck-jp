@@ -1,0 +1,13 @@
+{
+  "_id": "3l3573mkd3f",
+  "name": "shock-waves",
+  "params": {
+    "noun": "shock",
+    "owner": "waves"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

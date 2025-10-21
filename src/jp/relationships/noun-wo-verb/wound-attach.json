@@ -1,0 +1,13 @@
+{
+  "_id": "qv02cnbcwtd",
+  "name": "wound-attach",
+  "params": {
+    "noun": "wound",
+    "verb": "attach"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

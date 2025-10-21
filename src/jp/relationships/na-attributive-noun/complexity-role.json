@@ -1,0 +1,13 @@
+{
+  "_id": "rqt0ofwcpuf",
+  "name": "complexity-role",
+  "params": {
+    "na": "complexity",
+    "noun": "role"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

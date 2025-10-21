@@ -1,0 +1,13 @@
+{
+  "_id": "15zkokbiart",
+  "name": "fast-accomplish",
+  "params": {
+    "iadj": "fast",
+    "verb": "accomplish"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

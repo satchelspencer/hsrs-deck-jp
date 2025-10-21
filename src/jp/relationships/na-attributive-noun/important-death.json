@@ -1,0 +1,13 @@
+{
+  "_id": "yg34gjzen8",
+  "name": "important-death",
+  "params": {
+    "na": "important",
+    "noun": "death"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

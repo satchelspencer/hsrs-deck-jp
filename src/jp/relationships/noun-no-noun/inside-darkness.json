@@ -1,0 +1,13 @@
+{
+  "_id": "426myjdl9bm",
+  "name": "inside-darkness",
+  "params": {
+    "noun": "inside",
+    "owner": "darkness"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

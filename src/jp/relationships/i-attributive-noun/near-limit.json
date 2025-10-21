@@ -1,0 +1,13 @@
+{
+  "_id": "6ugulf8npv3",
+  "name": "near-limit",
+  "params": {
+    "iadj": "near",
+    "noun": "limit"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "v9ei610en9p",
+  "name": "responsibility-be-decided",
+  "params": {
+    "noun": "responsibility",
+    "verb": "be-decided"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

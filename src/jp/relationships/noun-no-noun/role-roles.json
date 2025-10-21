@@ -1,0 +1,13 @@
+{
+  "_id": "haec01ectoo",
+  "name": "role-roles",
+  "params": {
+    "noun": "role",
+    "owner": "roles"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

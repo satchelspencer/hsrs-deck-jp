@@ -1,0 +1,13 @@
+{
+  "_id": "b41dupy7y",
+  "name": "margin-be-surprised",
+  "params": {
+    "noun": "margin",
+    "verb": "be-surprised"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

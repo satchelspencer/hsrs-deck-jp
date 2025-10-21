@@ -4,7 +4,8 @@
   "name": "the-instant",
   "order": "4",
   "parents": [
-    "past-relative-time-exprs"
+    "past-relative-time-exprs",
+    "abstracts"
   ],
   "props": {
     "en": "the instant",

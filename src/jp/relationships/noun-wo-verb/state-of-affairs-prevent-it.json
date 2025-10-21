@@ -1,0 +1,13 @@
+{
+  "_id": "ft3iv2h3bcl",
+  "name": "state-of-affairs-prevent-it",
+  "params": {
+    "noun": "state-of-affairs",
+    "verb": "prevent-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

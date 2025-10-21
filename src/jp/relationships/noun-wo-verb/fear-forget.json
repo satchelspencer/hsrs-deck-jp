@@ -1,0 +1,13 @@
+{
+  "_id": "xrdixak00vf",
+  "name": "fear-forget",
+  "params": {
+    "noun": "fear",
+    "verb": "forget"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

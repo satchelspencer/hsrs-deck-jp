@@ -1,0 +1,13 @@
+{
+  "_id": "2t63r2conut",
+  "name": "reason-confidence",
+  "params": {
+    "noun": "reason",
+    "owner": "confidence"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

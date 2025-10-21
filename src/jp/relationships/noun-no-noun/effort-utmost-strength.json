@@ -1,0 +1,13 @@
+{
+  "_id": "zq350ujjjdn",
+  "name": "effort-utmost-strength",
+  "params": {
+    "noun": "effort",
+    "owner": "utmost-strength"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

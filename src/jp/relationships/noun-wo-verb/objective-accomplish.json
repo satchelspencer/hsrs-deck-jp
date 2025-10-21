@@ -1,0 +1,13 @@
+{
+  "_id": "p6xw743nhfb",
+  "name": "objective-accomplish",
+  "params": {
+    "noun": "objective",
+    "verb": "accomplish"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

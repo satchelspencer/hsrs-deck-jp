@@ -1,0 +1,13 @@
+{
+  "_id": "wek2giszdx",
+  "name": "tactics-append",
+  "params": {
+    "noun": "tactics",
+    "verb": "append"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "calhmpc9erd",
+  "name": "darkness-mind",
+  "params": {
+    "noun": "darkness",
+    "owner": "mind"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

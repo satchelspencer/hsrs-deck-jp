@@ -1,0 +1,13 @@
+{
+  "_id": "s7xsxlu01ij",
+  "name": "good-contain",
+  "params": {
+    "iadj": "good",
+    "verb": "contain"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

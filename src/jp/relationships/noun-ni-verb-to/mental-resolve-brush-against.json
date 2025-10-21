@@ -1,0 +1,13 @@
+{
+  "_id": "oqjc9ird4wk",
+  "name": "mental-resolve-brush-against",
+  "params": {
+    "noun": "mental-resolve",
+    "verb": "brush-against"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

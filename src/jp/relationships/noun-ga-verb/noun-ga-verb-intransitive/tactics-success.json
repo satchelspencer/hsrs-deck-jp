@@ -1,0 +1,13 @@
+{
+  "_id": "bqzvm0s20r7",
+  "name": "tactics-success",
+  "params": {
+    "noun": "tactics",
+    "verb": "success"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

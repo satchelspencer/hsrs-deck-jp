@@ -1,0 +1,13 @@
+{
+  "_id": "2otqlbo5orr",
+  "name": "tune-write",
+  "params": {
+    "noun": "tune",
+    "verb": "write"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

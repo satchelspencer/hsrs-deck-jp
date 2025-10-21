@@ -1,0 +1,13 @@
+{
+  "_id": "gcl98q2bplo",
+  "name": "insufficient-utmost-strength",
+  "params": {
+    "na": "insufficient",
+    "noun": "utmost-strength"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

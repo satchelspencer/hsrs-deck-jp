@@ -1,0 +1,13 @@
+{
+  "_id": "uze5966e1ts",
+  "name": "fear-illness",
+  "params": {
+    "noun": "fear",
+    "owner": "illness"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

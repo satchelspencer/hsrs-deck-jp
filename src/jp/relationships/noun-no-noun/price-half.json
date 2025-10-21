@@ -1,0 +1,13 @@
+{
+  "_id": "anakup14gwv",
+  "name": "price-half",
+  "params": {
+    "noun": "price",
+    "owner": "half"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

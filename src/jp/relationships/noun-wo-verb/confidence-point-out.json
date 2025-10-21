@@ -1,0 +1,13 @@
+{
+  "_id": "815yb867pkk",
+  "name": "confidence-point-out",
+  "params": {
+    "noun": "confidence",
+    "verb": "point-out"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

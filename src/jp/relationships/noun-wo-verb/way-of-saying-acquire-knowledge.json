@@ -1,0 +1,13 @@
+{
+  "_id": "vjj4toi9iuc",
+  "name": "way-of-saying-acquire-knowledge",
+  "params": {
+    "noun": "way-of-saying",
+    "verb": "acquire-knowledge"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

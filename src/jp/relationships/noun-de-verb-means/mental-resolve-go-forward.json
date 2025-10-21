@@ -1,0 +1,13 @@
+{
+  "_id": "3brgfpjeisi",
+  "name": "mental-resolve-go-forward",
+  "params": {
+    "noun": "mental-resolve",
+    "verb": "go-forward"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

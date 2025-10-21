@@ -1,0 +1,13 @@
+{
+  "_id": "13xj9ifalfzj",
+  "name": "way-of-saying-be-perplexed",
+  "params": {
+    "noun": "way-of-saying",
+    "verb": "be-perplexed"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

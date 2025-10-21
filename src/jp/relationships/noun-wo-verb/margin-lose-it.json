@@ -1,0 +1,13 @@
+{
+  "_id": "4jbj3fmwevb",
+  "name": "margin-lose-it",
+  "params": {
+    "noun": "margin",
+    "verb": "lose-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

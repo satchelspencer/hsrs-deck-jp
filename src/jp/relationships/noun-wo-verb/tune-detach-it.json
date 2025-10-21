@@ -1,0 +1,13 @@
+{
+  "_id": "009xxw0snvdkw",
+  "name": "tune-detach-it",
+  "params": {
+    "noun": "tune",
+    "verb": "detach-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

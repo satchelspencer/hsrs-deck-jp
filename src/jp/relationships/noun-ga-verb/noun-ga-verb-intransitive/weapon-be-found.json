@@ -1,0 +1,13 @@
+{
+  "_id": "ixsowabyoh",
+  "name": "weapon-be-found",
+  "params": {
+    "noun": "weapon",
+    "verb": "be-found"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

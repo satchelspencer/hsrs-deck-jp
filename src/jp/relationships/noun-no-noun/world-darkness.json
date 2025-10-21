@@ -1,0 +1,13 @@
+{
+  "_id": "c96uuq2hjn",
+  "name": "world-darkness",
+  "params": {
+    "noun": "world",
+    "owner": "darkness"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

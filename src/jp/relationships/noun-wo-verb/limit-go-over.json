@@ -1,0 +1,13 @@
+{
+  "_id": "4juobdc7j4l",
+  "name": "limit-go-over",
+  "params": {
+    "noun": "limit",
+    "verb": "go-over"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

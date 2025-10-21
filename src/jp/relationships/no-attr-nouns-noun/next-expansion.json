@@ -1,0 +1,13 @@
+{
+  "_id": "h598egcbeqk",
+  "name": "next-expansion",
+  "params": {
+    "no": "next",
+    "noun": "expansion"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

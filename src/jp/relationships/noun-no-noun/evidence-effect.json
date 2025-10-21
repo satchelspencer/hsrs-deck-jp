@@ -1,0 +1,13 @@
+{
+  "_id": "ksjoyqzw7ds",
+  "name": "evidence-effect",
+  "params": {
+    "noun": "evidence",
+    "owner": "effect"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

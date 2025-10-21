@@ -1,0 +1,13 @@
+{
+  "_id": "zrn1s4fhxd",
+  "name": "mental-resolve-point-out",
+  "params": {
+    "noun": "mental-resolve",
+    "verb": "point-out"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "nyz1viow8vf",
+  "name": "margin-spread-out",
+  "params": {
+    "noun": "margin",
+    "verb": "spread-out"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

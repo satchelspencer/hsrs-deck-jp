@@ -1,0 +1,13 @@
+{
+  "_id": "r6krw22v5jl",
+  "name": "mental-resolve-go",
+  "params": {
+    "noun": "mental-resolve",
+    "verb": "go"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

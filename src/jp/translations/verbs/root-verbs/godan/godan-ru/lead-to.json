@@ -4,9 +4,11 @@
   "name": "lead-to",
   "order": "4",
   "parents": [
-    "godan-ru"
+    "godan-ru",
+    "te-iru-verbs-state"
   ],
   "props": {
+    "_st": "lead to",
     "en": "lead to",
     "jp": "至る",
     "tl": "いたる"

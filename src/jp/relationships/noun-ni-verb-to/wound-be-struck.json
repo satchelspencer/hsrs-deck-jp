@@ -1,0 +1,13 @@
+{
+  "_id": "mk58paxkkx8",
+  "name": "wound-be-struck",
+  "params": {
+    "noun": "wound",
+    "verb": "be-struck"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

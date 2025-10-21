@@ -1,0 +1,13 @@
+{
+  "_id": "oz3c16eny7o",
+  "name": "tactics-participation",
+  "params": {
+    "noun": "tactics",
+    "verb": "participation"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "k47vsjdtr3",
+  "name": "topic-job",
+  "params": {
+    "noun": "topic",
+    "owner": "job"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

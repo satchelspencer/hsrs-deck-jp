@@ -1,0 +1,13 @@
+{
+  "_id": "8u5trtqfhf4",
+  "name": "new-way-of-saying",
+  "params": {
+    "iadj": "new",
+    "noun": "way-of-saying"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

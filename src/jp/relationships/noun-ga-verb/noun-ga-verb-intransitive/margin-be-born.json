@@ -1,0 +1,13 @@
+{
+  "_id": "oi20c8m0onr",
+  "name": "margin-be-born",
+  "params": {
+    "noun": "margin",
+    "verb": "be-born"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

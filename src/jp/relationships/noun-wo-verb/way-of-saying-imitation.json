@@ -1,0 +1,13 @@
+{
+  "_id": "qgemdqvrwa",
+  "name": "way-of-saying-imitation",
+  "params": {
+    "noun": "way-of-saying",
+    "verb": "imitation"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

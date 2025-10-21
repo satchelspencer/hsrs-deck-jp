@@ -1,0 +1,13 @@
+{
+  "_id": "tv1pj6mm6gk",
+  "name": "way-of-saying-name",
+  "params": {
+    "noun": "way-of-saying",
+    "owner": "name"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

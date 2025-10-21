@@ -1,0 +1,13 @@
+{
+  "_id": "xkomm13k678",
+  "name": "sweat-stop-it",
+  "params": {
+    "noun": "sweat",
+    "verb": "stop-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

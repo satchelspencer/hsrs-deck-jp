@@ -1,0 +1,13 @@
+{
+  "_id": "iluggf7h55",
+  "name": "job-utmost-strength",
+  "params": {
+    "noun": "job",
+    "owner": "utmost-strength"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

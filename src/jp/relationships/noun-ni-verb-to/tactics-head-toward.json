@@ -1,0 +1,13 @@
+{
+  "_id": "011akq5riffsj",
+  "name": "tactics-head-toward",
+  "params": {
+    "noun": "tactics",
+    "verb": "head-toward"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

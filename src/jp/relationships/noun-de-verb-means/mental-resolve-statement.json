@@ -1,0 +1,13 @@
+{
+  "_id": "q9n0pf8563r",
+  "name": "mental-resolve-statement",
+  "params": {
+    "noun": "mental-resolve",
+    "verb": "statement"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

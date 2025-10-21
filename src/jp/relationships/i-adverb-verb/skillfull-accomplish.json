@@ -1,0 +1,13 @@
+{
+  "_id": "e1wur282d1q",
+  "name": "skillfull-accomplish",
+  "params": {
+    "iadj": "skillfull",
+    "verb": "accomplish"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

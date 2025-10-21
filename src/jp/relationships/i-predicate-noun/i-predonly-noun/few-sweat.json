@@ -1,0 +1,13 @@
+{
+  "_id": "ofjp4pv28p",
+  "name": "few-sweat",
+  "params": {
+    "iadj": "few",
+    "noun": "sweat"
+  },
+  "parents": [
+    "i-predonly-noun"
+  ],
+  "props": {
+  }
+}

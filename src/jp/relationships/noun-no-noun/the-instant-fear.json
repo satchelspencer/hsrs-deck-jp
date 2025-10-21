@@ -1,0 +1,13 @@
+{
+  "_id": "cxkcbzshlbh",
+  "name": "the-instant-fear",
+  "params": {
+    "noun": "the-instant",
+    "owner": "fear"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

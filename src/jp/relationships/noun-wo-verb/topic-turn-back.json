@@ -1,0 +1,13 @@
+{
+  "_id": "8m5hdv8pxwk",
+  "name": "topic-turn-back",
+  "params": {
+    "noun": "topic",
+    "verb": "turn-back"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

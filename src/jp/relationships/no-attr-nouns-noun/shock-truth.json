@@ -1,0 +1,13 @@
+{
+  "_id": "swwczmduy8",
+  "name": "shock-truth",
+  "params": {
+    "no": "shock",
+    "noun": "truth"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

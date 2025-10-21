@@ -1,0 +1,13 @@
+{
+  "_id": "qrwzepekb9j",
+  "name": "temperature-limit",
+  "params": {
+    "noun": "temperature",
+    "owner": "limit"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

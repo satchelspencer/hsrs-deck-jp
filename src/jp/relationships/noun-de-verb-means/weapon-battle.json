@@ -1,0 +1,13 @@
+{
+  "_id": "buebd5fqiqb",
+  "name": "weapon-battle",
+  "params": {
+    "noun": "weapon",
+    "verb": "battle"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

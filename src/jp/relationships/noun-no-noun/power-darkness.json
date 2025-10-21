@@ -1,0 +1,13 @@
+{
+  "_id": "p1w0i9icm4c",
+  "name": "power-darkness",
+  "params": {
+    "noun": "power",
+    "owner": "darkness"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

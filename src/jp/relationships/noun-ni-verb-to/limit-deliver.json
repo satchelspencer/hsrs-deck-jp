@@ -1,0 +1,13 @@
+{
+  "_id": "yiqa6i4jurf",
+  "name": "limit-deliver",
+  "params": {
+    "noun": "limit",
+    "verb": "deliver"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

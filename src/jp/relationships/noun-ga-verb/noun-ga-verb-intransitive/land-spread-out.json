@@ -1,0 +1,13 @@
+{
+  "_id": "jn90iwlgyce",
+  "name": "land-spread-out",
+  "params": {
+    "noun": "land",
+    "verb": "spread-out"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

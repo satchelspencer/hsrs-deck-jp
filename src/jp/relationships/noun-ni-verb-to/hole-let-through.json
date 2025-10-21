@@ -1,0 +1,13 @@
+{
+  "_id": "k50kn6e9gx",
+  "name": "hole-let-through",
+  "params": {
+    "noun": "hole",
+    "verb": "let-through"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "dffmgy2sk8b",
+  "name": "weapon-possess",
+  "params": {
+    "noun": "weapon",
+    "verb": "possess"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

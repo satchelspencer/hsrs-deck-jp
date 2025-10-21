@@ -1,0 +1,13 @@
+{
+  "_id": "ndyx74t67t",
+  "name": "tactics-enemy",
+  "params": {
+    "noun": "tactics",
+    "owner": "enemy"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

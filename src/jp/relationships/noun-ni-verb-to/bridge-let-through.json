@@ -1,0 +1,13 @@
+{
+  "_id": "lvfr15hgvd",
+  "name": "bridge-let-through",
+  "params": {
+    "noun": "bridge",
+    "verb": "let-through"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}
