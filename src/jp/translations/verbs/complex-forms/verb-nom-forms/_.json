@@ -1,6 +1,9 @@
 {
   "_id": "omeor66w23n",
   "name": "verb-nom-forms",
+  "params": {
+    "plain": "plain"
+  },
   "parents": [
     "complex-forms"
   ],

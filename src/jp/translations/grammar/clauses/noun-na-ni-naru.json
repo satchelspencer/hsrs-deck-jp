@@ -1,0 +1,23 @@
+{
+  "_id": "lub07692hxt",
+  "constraint": "verb",
+  "desc": "になる descrives how something changes into a noun X",
+  "name": "noun-na-ni-naru",
+  "order": "3",
+  "params": {
+    "form": "plain-polite-forms",
+    "rel": "na-predicate-noun",
+    "verb": "become"
+  },
+  "parents": [
+    "clauses",
+    "common-ga-sub",
+    "const-noun-clauses",
+    "temporal-verb-clauses",
+    "ga-and-wa-clauses"
+  ],
+  "props": {
+    "en": "rel.noun.en+' '+form.en+' '+rel.na.en",
+    "jp": "rel.noun.jp+'@が'+rel.na.jp+'に'+form.jp"
+  }
+}

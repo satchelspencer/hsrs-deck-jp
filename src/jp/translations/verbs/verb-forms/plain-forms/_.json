@@ -4,7 +4,8 @@
   "parents": [
     "verb-forms",
     "embedded-questions",
-    "no-verb-forms"
+    "no-verb-forms",
+    "plain-polite-forms"
   ],
   "props": {
   },

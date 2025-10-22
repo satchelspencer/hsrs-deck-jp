@@ -1,0 +1,26 @@
+{
+  "_id": "ms16ffiwxi",
+  "constraint": "verb pd",
+  "cpmap": {
+    "noun": {
+      "verb": "pd"
+    }
+  },
+  "desc": "",
+  "name": "action-ni-suru",
+  "order": "2",
+  "params": {
+    "form": "plain-polite-forms",
+    "noun": "verb-nom-forms",
+    "pd": "people-do-volitional",
+    "verb": "do-suru"
+  },
+  "parents": [
+    "clauses",
+    "decide-ni-suru"
+  ],
+  "props": {
+    "en": "form.en|rg('do', 'decide to')+' '+noun.plain.en",
+    "jp": "noun.jp+'に'+form.jp"
+  }
+}

@@ -1,12 +1,10 @@
 {
   "_id": "v2u64zm25d",
+  "constraint": "verb",
   "desc": "adding 事 to a verb is much like の, but more formal/written",
   "mode": "P---**",
   "name": "verb-koto-form",
   "order": "2",
-  "params": {
-    "plain": "plain"
-  },
   "parents": [
     "verb-nom-forms"
   ],

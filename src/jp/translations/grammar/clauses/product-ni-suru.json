@@ -1,0 +1,21 @@
+{
+  "_id": "td9gtqg8pqa",
+  "constraint": "verb",
+  "desc": "",
+  "name": "product-ni-suru",
+  "order": "2",
+  "params": {
+    "form": "plain-polite-forms",
+    "noun": "products",
+    "verb": "do-suru"
+  },
+  "parents": [
+    "clauses",
+    "const-noun-clauses",
+    "decide-ni-suru"
+  ],
+  "props": {
+    "en": "form.en|rg('do', 'decide on')+' '+noun.en",
+    "jp": "noun.jp+'に'+form.jp"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "_id": "vpvzan8j35k",
+  "constraint": "verb iadj",
+  "desc": "an い-adjective linked with く to naru describes how something changes",
+  "name": "noun-iadj-ni-naru",
+  "order": "3",
+  "params": {
+    "form": "plain-polite-forms",
+    "ku": "i-adjective-ku",
+    "rel": "i-predicate-noun",
+    "verb": "become"
+  },
+  "parents": [
+    "clauses",
+    "common-ga-sub",
+    "const-noun-clauses",
+    "temporal-verb-clauses",
+    "ga-and-wa-clauses"
+  ],
+  "props": {
+    "en": "rel.noun.en+' '+form.en+' '+rel.iadj.en",
+    "jp": "rel.noun.jp+'@が'+ku.jp+form.jp"
+  }
+}
