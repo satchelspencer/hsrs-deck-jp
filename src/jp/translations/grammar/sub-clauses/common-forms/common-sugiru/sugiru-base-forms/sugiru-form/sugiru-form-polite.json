@@ -1,0 +1,17 @@
+{
+  "_id": "6gi0enrbclt",
+  "constraint": "verb",
+  "mode": "P",
+  "name": "sugiru-form-polite",
+  "order": "",
+  "params": {
+    "plain": "sugiru-form-plain"
+  },
+  "parents": [
+    "sugiru-form"
+  ],
+  "props": {
+    "en": "plain.en",
+    "jp": "plain.jp|r('すぎる', 'すぎます')"
+  }
+}

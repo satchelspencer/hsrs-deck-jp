@@ -1,0 +1,15 @@
+{
+  "_id": "2k78ys0z0js",
+  "constraint": "na",
+  "name": "na-sugiru-polite-negative",
+  "params": {
+    "form": "na-adjective-negative-polite"
+  },
+  "parents": [
+    "na-sugiru"
+  ],
+  "props": {
+    "en": "'too '+form.en",
+    "jp": "form.jp|r('ない', 'なすぎます')"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "_id": "lpzo671n4pe",
+  "desc": "",
+  "mode": "---w",
+  "name": "counter-kurai",
+  "order": "3",
+  "params": {
+    "counter": "counters"
+  },
+  "parents": [
+    "counter-forms",
+    "common-kurai"
+  ],
+  "props": {
+    "en": "",
+    "jp": "counter.jp+'くらい'"
+  }
+}

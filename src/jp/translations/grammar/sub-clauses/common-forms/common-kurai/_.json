@@ -1,0 +1,12 @@
+{
+  "_id": "x2ntdrqwp4g",
+  "desc": "with a counter (く/ぐ)らい means \"approximately\"",
+  "name": "common-kurai",
+  "parents": [
+    "common-forms"
+  ],
+  "props": {
+    "en": "'about '+counter.en"
+  },
+  "virtual": true
+}

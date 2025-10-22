@@ -1,12 +1,16 @@
 {
   "_id": "vfbu3xe39k",
+  "desc": "many, a lot of",
   "name": "a-lot",
   "order": "1",
   "parents": [
-    "verb-adverbs"
+    "verb-adverbs",
+    "no-attr-nouns"
   ],
   "props": {
+    "_at": "a lot of",
     "en": "a lot",
-    "jp": "たくさん"
+    "jp": "沢山",
+    "tl": "たくさん"
   }
 }

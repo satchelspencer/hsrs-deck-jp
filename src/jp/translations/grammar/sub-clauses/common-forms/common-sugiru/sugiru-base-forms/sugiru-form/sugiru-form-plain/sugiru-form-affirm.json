@@ -1,0 +1,17 @@
+{
+  "_id": "gju46wt7fzv",
+  "constraint": "verb",
+  "mode": "c---an",
+  "name": "sugiru-form-affirm",
+  "order": "",
+  "params": {
+    "form": "$stem-form"
+  },
+  "parents": [
+    "sugiru-form-plain"
+  ],
+  "props": {
+    "en": "form.form.verb.en+' too much'",
+    "jp": "form.jp+'すぎる'"
+  }
+}

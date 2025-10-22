@@ -1,0 +1,17 @@
+{
+  "_id": "827chuda90c",
+  "desc": "る can be dropped in very casual situations",
+  "mode": "c-r",
+  "name": "sugiru-rude",
+  "order": "3",
+  "params": {
+    "form": "sugiru-base-forms"
+  },
+  "parents": [
+    "common-sugiru"
+  ],
+  "props": {
+    "en": "form.en",
+    "jp": "form.jp|r('る', '')"
+  }
+}

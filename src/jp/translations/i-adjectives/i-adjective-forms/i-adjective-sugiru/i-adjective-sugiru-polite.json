@@ -1,0 +1,16 @@
+{
+  "_id": "3t2g9bch27u",
+  "constraint": "iadj",
+  "mode": "P",
+  "name": "i-adjective-sugiru-polite",
+  "params": {
+    "form": "i-adjective-sugiru-plain"
+  },
+  "parents": [
+    "i-adjective-sugiru"
+  ],
+  "props": {
+    "en": "form.en",
+    "jp": "form.jp|r('すぎる', 'すぎます')"
+  }
+}

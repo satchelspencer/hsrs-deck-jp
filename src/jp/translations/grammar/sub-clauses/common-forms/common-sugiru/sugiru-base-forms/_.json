@@ -1,0 +1,10 @@
+{
+  "_id": "t7umynmxpci",
+  "name": "sugiru-base-forms",
+  "parents": [
+    "common-sugiru"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

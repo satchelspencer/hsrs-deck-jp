@@ -1,0 +1,13 @@
+{
+  "_id": "3zl5ywwkh0r",
+  "name": "a-lot-non-unique",
+  "params": {
+    "no": "a-lot",
+    "noun": "non-unique"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

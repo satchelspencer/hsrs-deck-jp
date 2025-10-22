@@ -1,0 +1,11 @@
+{
+  "_id": "pihevhl5hw",
+  "name": "sugiru-form",
+  "order": "3",
+  "parents": [
+    "sugiru-base-forms"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

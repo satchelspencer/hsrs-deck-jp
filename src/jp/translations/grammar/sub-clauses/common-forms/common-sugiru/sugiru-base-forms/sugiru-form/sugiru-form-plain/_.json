@@ -1,0 +1,10 @@
+{
+  "_id": "j40g03vwemc",
+  "name": "sugiru-form-plain",
+  "parents": [
+    "sugiru-form"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

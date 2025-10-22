@@ -1,0 +1,17 @@
+{
+  "_id": "ij75whzfra",
+  "desc": "",
+  "mode": "---s",
+  "name": "counter-gurai",
+  "order": "2",
+  "params": {
+    "counter": "counters"
+  },
+  "parents": [
+    "counter-forms",
+    "common-kurai"
+  ],
+  "props": {
+    "jp": "counter.jp+'ぐらい'"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "_id": "5zs0bel8a0i",
+  "name": "i-adjective-sugiru",
+  "order": "3",
+  "parents": [
+    "i-adjective-forms",
+    "sugiru-base-forms"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

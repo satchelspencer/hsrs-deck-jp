@@ -1,0 +1,11 @@
+{
+  "_id": "ijiozokjfe",
+  "desc": "すぎる form acts like the adverb 'too much'",
+  "name": "common-sugiru",
+  "parents": [
+    "common-forms"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

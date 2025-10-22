@@ -1,0 +1,16 @@
+{
+  "_id": "pz6m6z6ss7",
+  "constraint": "na",
+  "name": "na-sugiru-plain-negative",
+  "order": "",
+  "params": {
+    "form": "na-adjective-negative"
+  },
+  "parents": [
+    "na-sugiru"
+  ],
+  "props": {
+    "en": "'too '+form.en",
+    "jp": "form.jp|r('ない', 'なすぎる')"
+  }
+}

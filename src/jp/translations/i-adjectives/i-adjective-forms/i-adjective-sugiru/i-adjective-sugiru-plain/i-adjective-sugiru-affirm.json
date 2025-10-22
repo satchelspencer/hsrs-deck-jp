@@ -1,0 +1,17 @@
+{
+  "_id": "68yufiefm9c",
+  "constraint": "iadj",
+  "mode": "c---an",
+  "name": "i-adjective-sugiru-affirm",
+  "order": "1",
+  "params": {
+    "ku": "i-adjective-ku"
+  },
+  "parents": [
+    "i-adjective-sugiru-plain"
+  ],
+  "props": {
+    "en": "'too '+ku.iadj.en",
+    "jp": "ku.jp|r('く', 'すぎる')"
+  }
+}

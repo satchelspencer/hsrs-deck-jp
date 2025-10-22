@@ -1,0 +1,15 @@
+{
+  "_id": "legda7hcmmd",
+  "constraint": "verb",
+  "name": "sugiru-form-plain-negative",
+  "params": {
+    "form": "plain-negative"
+  },
+  "parents": [
+    "sugiru-form-plain"
+  ],
+  "props": {
+    "en": "form.en+' too much'",
+    "jp": "form.jp|r('い', 'さ')+'すぎる'"
+  }
+}

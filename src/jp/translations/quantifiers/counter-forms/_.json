@@ -1,0 +1,10 @@
+{
+  "_id": "ah67rmkucmh",
+  "name": "counter-forms",
+  "parents": [
+    "quantifiers"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

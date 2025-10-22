@@ -1,13 +1,17 @@
 {
   "_id": "5krwh08z8j5",
-  "desc": "sufficient, satisfactory, enough, fine, all right, OK",
+  "desc": "sufficient, or adverbially as quite. often used as \"no thanks\"",
   "name": "good-enough",
   "order": "3",
   "parents": [
-    "na-attributive"
+    "na-attributive",
+    "i-adverbs",
+    "verb-adverbs"
   ],
   "props": {
-    "_ad": "well enough",
+    "_ad": "quite a lot",
+    "_at": "",
+    "_iad": "quite",
     "en": "good enough",
     "jp": "結構",
     "tl": "けっこう"

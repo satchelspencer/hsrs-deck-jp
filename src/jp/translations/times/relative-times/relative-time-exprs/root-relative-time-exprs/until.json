@@ -1,0 +1,13 @@
+{
+  "_id": "xnsm2ft0pq",
+  "desc": "used with times, or places",
+  "name": "until",
+  "order": "2",
+  "parents": [
+    "root-relative-time-exprs"
+  ],
+  "props": {
+    "en": "until",
+    "jp": "まで"
+  }
+}

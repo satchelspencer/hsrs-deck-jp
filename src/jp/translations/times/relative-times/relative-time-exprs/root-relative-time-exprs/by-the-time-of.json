@@ -1,0 +1,15 @@
+{
+  "_id": "cozulhsljj7",
+  "desc": "different from just まで in that it means \"by the time of X\" rather than \"until X\"",
+  "mode": "-----n",
+  "name": "by-the-time-of",
+  "order": "3",
+  "parents": [
+    "root-relative-time-exprs",
+    "noun-no-relative-time-exprs"
+  ],
+  "props": {
+    "en": "by the time of",
+    "jp": "までに"
+  }
+}

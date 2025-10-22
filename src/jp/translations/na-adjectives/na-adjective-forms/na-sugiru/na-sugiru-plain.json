@@ -1,0 +1,16 @@
+{
+  "_id": "20vuoubm2pu",
+  "mode": "c---an",
+  "name": "na-sugiru-plain",
+  "order": "4",
+  "params": {
+    "na": "na-adjective-roots"
+  },
+  "parents": [
+    "na-sugiru"
+  ],
+  "props": {
+    "en": "'too '+na._at",
+    "jp": "na.jp+'すぎる'"
+  }
+}

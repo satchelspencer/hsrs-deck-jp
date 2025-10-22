@@ -1,0 +1,15 @@
+{
+  "_id": "y35r5wu8oo",
+  "constraint": "iadj",
+  "name": "i-adjective-sugiru-neg",
+  "params": {
+    "form": "i-adjective-negative"
+  },
+  "parents": [
+    "i-adjective-sugiru-plain"
+  ],
+  "props": {
+    "en": "'too '+form.en",
+    "jp": "form.jp|r('い', 'さすぎる')"
+  }
+}

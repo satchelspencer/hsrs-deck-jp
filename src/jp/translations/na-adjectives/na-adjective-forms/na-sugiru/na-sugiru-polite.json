@@ -1,0 +1,16 @@
+{
+  "_id": "hmqoih550w4",
+  "mode": "p---an",
+  "name": "na-sugiru-polite",
+  "order": "5",
+  "params": {
+    "na": "na-adjective-roots"
+  },
+  "parents": [
+    "na-sugiru"
+  ],
+  "props": {
+    "en": "'too '+na._at",
+    "jp": "na.jp+'すぎます'"
+  }
+}

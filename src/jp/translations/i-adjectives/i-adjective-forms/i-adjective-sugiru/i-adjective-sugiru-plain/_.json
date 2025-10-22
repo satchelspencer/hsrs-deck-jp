@@ -1,0 +1,11 @@
+{
+  "_id": "wykfjgpzzid",
+  "name": "i-adjective-sugiru-plain",
+  "order": "",
+  "parents": [
+    "i-adjective-sugiru"
+  ],
+  "props": {
+  },
+  "virtual": true
+}
