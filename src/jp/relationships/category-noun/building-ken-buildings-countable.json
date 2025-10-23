@@ -1,0 +1,13 @@
+{
+  "_id": "ikvg9c3aipi",
+  "name": "building-ken-buildings-countable",
+  "params": {
+    "cat": "building",
+    "noun": "ken-buildings-countable"
+  },
+  "parents": [
+    "category-noun"
+  ],
+  "props": {
+  }
+}

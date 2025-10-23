@@ -1,0 +1,13 @@
+{
+  "_id": "ma4m19sajc",
+  "name": "currency-currencies",
+  "params": {
+    "cat": "currency",
+    "noun": "currencies"
+  },
+  "parents": [
+    "category-noun"
+  ],
+  "props": {
+  }
+}

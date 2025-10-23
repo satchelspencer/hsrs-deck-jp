@@ -1,0 +1,13 @@
+{
+  "_id": "8jqie69t55u",
+  "name": "accessory-accessories",
+  "params": {
+    "cat": "accessory",
+    "noun": "accessories"
+  },
+  "parents": [
+    "category-noun"
+  ],
+  "props": {
+  }
+}

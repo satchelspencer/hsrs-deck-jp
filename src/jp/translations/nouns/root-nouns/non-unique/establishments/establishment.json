@@ -1,0 +1,15 @@
+{
+  "_id": "mjtpw7wzgod",
+  "desc": "facility, institution",
+  "name": "establishment",
+  "order": "4",
+  "parents": [
+    "establishments",
+    "categories"
+  ],
+  "props": {
+    "en": "establishment",
+    "jp": "施設",
+    "tl": "しせつ"
+  }
+}

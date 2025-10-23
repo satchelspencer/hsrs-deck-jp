@@ -1,0 +1,13 @@
+{
+  "_id": "r2cr73p0qop",
+  "name": "establishment-establishments",
+  "params": {
+    "cat": "establishment",
+    "noun": "establishments"
+  },
+  "parents": [
+    "category-noun"
+  ],
+  "props": {
+  }
+}

@@ -3,7 +3,8 @@
   "name": "library",
   "order": "2",
   "parents": [
-    "establishments"
+    "establishments",
+    "ken-buildings-countable"
   ],
   "props": {
     "en": "library",

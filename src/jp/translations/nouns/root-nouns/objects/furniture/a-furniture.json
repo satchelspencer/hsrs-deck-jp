@@ -1,0 +1,14 @@
+{
+  "_id": "bjdgeokpx8",
+  "name": "a-furniture",
+  "order": "2",
+  "parents": [
+    "furniture",
+    "categories"
+  ],
+  "props": {
+    "en": "furniture",
+    "jp": "家具",
+    "tl": "かぐ"
+  }
+}

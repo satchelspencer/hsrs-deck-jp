@@ -5,7 +5,7 @@
   "order": "1",
   "parents": [
     "flowing",
-    "spaces",
+    "rooms",
     "objects"
   ],
   "props": {

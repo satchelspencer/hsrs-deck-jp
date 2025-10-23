@@ -1,0 +1,13 @@
+{
+  "_id": "d5rkan3q82",
+  "name": "food-foods",
+  "params": {
+    "cat": "food",
+    "noun": "foods"
+  },
+  "parents": [
+    "category-noun"
+  ],
+  "props": {
+  }
+}

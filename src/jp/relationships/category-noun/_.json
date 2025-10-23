@@ -1,0 +1,14 @@
+{
+  "_id": "3xrrou43hj3",
+  "name": "category-noun",
+  "params": {
+    "cat": "categories",
+    "noun": "root-nouns"
+  },
+  "parents": [
+    "relationships"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

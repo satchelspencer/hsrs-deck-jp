@@ -4,7 +4,8 @@
   "name": "orientation",
   "order": "4",
   "parents": [
-    "positional-words"
+    "positional-words",
+    "categories"
   ],
   "props": {
     "en": "orientation",

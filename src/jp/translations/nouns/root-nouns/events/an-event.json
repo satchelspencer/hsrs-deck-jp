@@ -1,0 +1,15 @@
+{
+  "_id": "a7sp42uqtc",
+  "desc": "an event, a function",
+  "name": "an-event",
+  "order": "4",
+  "parents": [
+    "events",
+    "units"
+  ],
+  "props": {
+    "en": "event",
+    "jp": "行事",
+    "tl": "ぎょうじ"
+  }
+}

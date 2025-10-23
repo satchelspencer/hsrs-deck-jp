@@ -5,7 +5,8 @@
   "order": "3",
   "parents": [
     "buildables",
-    "places"
+    "places",
+    "ken-buildings-countable"
   ],
   "props": {
     "en": "skyscraper",

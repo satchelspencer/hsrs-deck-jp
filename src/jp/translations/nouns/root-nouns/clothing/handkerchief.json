@@ -3,7 +3,8 @@
   "name": "handkerchief",
   "order": "2",
   "parents": [
-    "clothing"
+    "clothing",
+    "accessories"
   ],
   "props": {
     "en": "handkerchief",

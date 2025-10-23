@@ -1,0 +1,13 @@
+{
+  "_id": "7e01nzphppu",
+  "name": "vehicle-transports",
+  "params": {
+    "cat": "vehicle",
+    "noun": "transports"
+  },
+  "parents": [
+    "category-noun"
+  ],
+  "props": {
+  }
+}

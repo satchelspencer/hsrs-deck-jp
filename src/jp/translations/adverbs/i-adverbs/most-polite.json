@@ -3,13 +3,14 @@
   "desc": "",
   "mode": "p",
   "name": "most-polite",
-  "order": "4",
+  "order": "3",
   "parents": [
     "i-adverbs",
-    "na-adverbs"
+    "na-adverbs",
+    "adj-superlatives"
   ],
   "props": {
-    "en": "most",
+    "en": "the most",
     "jp": "最も",
     "tl": "もっとも"
   }

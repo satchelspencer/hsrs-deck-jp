@@ -1,0 +1,13 @@
+{
+  "_id": "wr07eq5ybof",
+  "name": "country-countries",
+  "params": {
+    "cat": "country",
+    "noun": "countries"
+  },
+  "parents": [
+    "category-noun"
+  ],
+  "props": {
+  }
+}

@@ -8,9 +8,9 @@
     "readables",
     "hiraku-tojiru",
     "writeables",
-    "media",
     "thins",
-    "satsu-countable"
+    "satsu-countable",
+    "documents"
   ],
   "props": {
     "en": "book",

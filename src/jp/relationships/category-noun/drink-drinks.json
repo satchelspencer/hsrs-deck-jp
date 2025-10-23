@@ -1,0 +1,13 @@
+{
+  "_id": "82xcjo6h3gi",
+  "name": "drink-drinks",
+  "params": {
+    "cat": "drink",
+    "noun": "drinks"
+  },
+  "parents": [
+    "category-noun"
+  ],
+  "props": {
+  }
+}

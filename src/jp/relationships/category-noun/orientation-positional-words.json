@@ -1,0 +1,13 @@
+{
+  "_id": "uhfh95goep",
+  "name": "orientation-positional-words",
+  "params": {
+    "cat": "orientation",
+    "noun": "positional-words"
+  },
+  "parents": [
+    "category-noun"
+  ],
+  "props": {
+  }
+}

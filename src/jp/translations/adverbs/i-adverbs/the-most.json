@@ -6,7 +6,8 @@
   "order": "1",
   "parents": [
     "i-adverbs",
-    "na-adverbs"
+    "na-adverbs",
+    "adj-superlatives"
   ],
   "props": {
     "en": "the most",

@@ -4,9 +4,11 @@
   "order": "1",
   "parents": [
     "weather",
-    "hot-cold-weather"
+    "hot-cold-weather",
+    "categories"
   ],
   "props": {
+    "_pl": "weather",
     "en": "the weather",
     "jp": "天気",
     "tl": "てんき"

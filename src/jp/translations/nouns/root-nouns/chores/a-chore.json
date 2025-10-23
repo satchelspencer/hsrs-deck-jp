@@ -1,0 +1,15 @@
+{
+  "_id": "xvop4q3yj5",
+  "desc": "housework",
+  "name": "a-chore",
+  "order": "2",
+  "parents": [
+    "chores",
+    "activities"
+  ],
+  "props": {
+    "en": "chore",
+    "jp": "家事",
+    "tl": "かじ"
+  }
+}

@@ -4,7 +4,8 @@
   "order": "3",
   "parents": [
     "akeru-shimeru",
-    "containers"
+    "containers",
+    "rooms"
   ],
   "props": {
     "en": "closet",

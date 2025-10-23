@@ -2,7 +2,8 @@
   "_id": "bkexf306oy4",
   "name": "schools",
   "parents": [
-    "establishments"
+    "establishments",
+    "ken-buildings-countable"
   ],
   "props": {
   },

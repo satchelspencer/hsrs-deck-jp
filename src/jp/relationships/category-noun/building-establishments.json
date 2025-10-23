@@ -1,0 +1,13 @@
+{
+  "_id": "oepcpknusy",
+  "name": "building-establishments",
+  "params": {
+    "cat": "building",
+    "noun": "establishments"
+  },
+  "parents": [
+    "category-noun"
+  ],
+  "props": {
+  }
+}

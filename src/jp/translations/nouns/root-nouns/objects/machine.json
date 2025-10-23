@@ -4,7 +4,8 @@
   "name": "machine",
   "order": "3",
   "parents": [
-    "objects"
+    "objects",
+    "categories"
   ],
   "props": {
     "en": "machine",

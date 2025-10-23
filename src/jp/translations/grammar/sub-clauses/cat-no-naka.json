@@ -1,0 +1,16 @@
+{
+  "_id": "g82wcuez5wv",
+  "desc": "の中で describes members of a group or category",
+  "name": "cat-no-naka",
+  "order": "3",
+  "params": {
+    "cat": "categories"
+  },
+  "parents": [
+    "sub-clauses"
+  ],
+  "props": {
+    "en": "'among '+cat._pl",
+    "jp": "cat.jp+'の中で'"
+  }
+}

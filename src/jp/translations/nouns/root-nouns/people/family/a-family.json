@@ -3,9 +3,11 @@
   "name": "a-family",
   "order": "2",
   "parents": [
-    "family"
+    "family",
+    "categories"
   ],
   "props": {
+    "_pl": "family members",
     "en": "family",
     "jp": "家族",
     "tl": "かぞく"

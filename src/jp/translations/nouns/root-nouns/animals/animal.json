@@ -3,7 +3,8 @@
   "name": "animal",
   "order": "1",
   "parents": [
-    "animals"
+    "animals",
+    "categories"
   ],
   "props": {
     "en": "animal",

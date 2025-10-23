@@ -3,7 +3,8 @@
   "name": "restaurant",
   "order": "1",
   "parents": [
-    "establishments"
+    "establishments",
+    "ken-buildings-countable"
   ],
   "props": {
     "en": "restaurant",

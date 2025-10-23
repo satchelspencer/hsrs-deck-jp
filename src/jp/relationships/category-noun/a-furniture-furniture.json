@@ -1,0 +1,13 @@
+{
+  "_id": "p5s1ptqfz4i",
+  "name": "a-furniture-furniture",
+  "params": {
+    "cat": "a-furniture",
+    "noun": "furniture"
+  },
+  "parents": [
+    "category-noun"
+  ],
+  "props": {
+  }
+}

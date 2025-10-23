@@ -5,9 +5,11 @@
   "order": "1",
   "parents": [
     "countries",
-    "kakoku-countable"
+    "kakoku-countable",
+    "categories"
   ],
   "props": {
+    "_pl": "countries",
     "en": "country",
     "jp": "国",
     "tl": "くに"

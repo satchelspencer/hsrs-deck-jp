@@ -1,0 +1,10 @@
+{
+  "_id": "l3gcxlz4zli",
+  "name": "chores",
+  "parents": [
+    "root-nouns"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

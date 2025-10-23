@@ -1,0 +1,13 @@
+{
+  "_id": "usu10sttqgb",
+  "name": "a-season-seasons",
+  "params": {
+    "cat": "a-season",
+    "noun": "seasons"
+  },
+  "parents": [
+    "category-noun"
+  ],
+  "props": {
+  }
+}

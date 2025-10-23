@@ -1,0 +1,13 @@
+{
+  "_id": "f4df5ha8vor",
+  "name": "animal-animals",
+  "params": {
+    "cat": "animal",
+    "noun": "animals"
+  },
+  "parents": [
+    "category-noun"
+  ],
+  "props": {
+  }
+}

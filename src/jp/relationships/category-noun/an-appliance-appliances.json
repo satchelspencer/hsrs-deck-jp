@@ -1,0 +1,13 @@
+{
+  "_id": "0a9zpr7ftv6r",
+  "name": "an-appliance-appliances",
+  "params": {
+    "cat": "an-appliance",
+    "noun": "appliances"
+  },
+  "parents": [
+    "category-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "pjbhijo3oqc",
+  "name": "garments-clothing",
+  "params": {
+    "cat": "garments",
+    "noun": "clothing"
+  },
+  "parents": [
+    "category-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "_id": "rb5yf6z7nlk",
+  "desc": "branch of science",
+  "name": "discipline",
+  "order": "4",
+  "parents": [
+    "sciences",
+    "categories"
+  ],
+  "props": {
+    "en": "discipline",
+    "jp": "学問",
+    "tl": "がくもん"
+  }
+}

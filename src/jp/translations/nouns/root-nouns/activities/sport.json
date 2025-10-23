@@ -3,7 +3,9 @@
   "name": "sport",
   "order": "1",
   "parents": [
-    "activities"
+    "activities",
+    "categories",
+    "sports"
   ],
   "props": {
     "en": "sport",

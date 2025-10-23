@@ -1,0 +1,15 @@
+{
+  "_id": "ma75807td9",
+  "desc": "writing",
+  "name": "document",
+  "order": "4",
+  "parents": [
+    "documents",
+    "categories"
+  ],
+  "props": {
+    "en": "document",
+    "jp": "文書",
+    "tl": "ぶんしょ"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "53tmquw8gqd",
+  "name": "discipline-sciences",
+  "params": {
+    "cat": "discipline",
+    "noun": "sciences"
+  },
+  "parents": [
+    "category-noun"
+  ],
+  "props": {
+  }
+}

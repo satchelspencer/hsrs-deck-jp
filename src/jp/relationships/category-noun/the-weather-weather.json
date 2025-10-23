@@ -1,0 +1,13 @@
+{
+  "_id": "qehgnjyeyll",
+  "name": "the-weather-weather",
+  "params": {
+    "cat": "the-weather",
+    "noun": "weather"
+  },
+  "parents": [
+    "category-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "8w0c1p7t2ya",
+  "name": "musical-instrument",
+  "order": "3",
+  "parents": [
+    "musical-instruments",
+    "categories"
+  ],
+  "props": {
+    "en": "musical instrument",
+    "jp": "楽器",
+    "tl": "がっき"
+  }
+}

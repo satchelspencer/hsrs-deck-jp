@@ -1,0 +1,13 @@
+{
+  "_id": "0530x8p2xsw5",
+  "name": "machine-machines",
+  "params": {
+    "cat": "machine",
+    "noun": "machines"
+  },
+  "parents": [
+    "category-noun"
+  ],
+  "props": {
+  }
+}

@@ -3,7 +3,7 @@
   "name": "news",
   "order": "2",
   "parents": [
-    "media"
+    "documents"
   ],
   "props": {
     "en": "news",

@@ -5,7 +5,7 @@
   "parents": [
     "objects",
     "products",
-    "media"
+    "documents"
   ],
   "props": {
     "en": "newspaper",

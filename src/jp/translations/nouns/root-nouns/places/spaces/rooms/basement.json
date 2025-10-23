@@ -4,7 +4,7 @@
   "name": "basement",
   "order": "4",
   "parents": [
-    "spaces"
+    "rooms"
   ],
   "props": {
     "en": "basement",

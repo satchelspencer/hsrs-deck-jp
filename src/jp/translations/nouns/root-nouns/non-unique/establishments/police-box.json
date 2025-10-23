@@ -3,7 +3,8 @@
   "name": "police-box",
   "order": "2",
   "parents": [
-    "establishments"
+    "establishments",
+    "ken-buildings-countable"
   ],
   "props": {
     "en": "police box",

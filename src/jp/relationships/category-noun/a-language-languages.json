@@ -1,0 +1,13 @@
+{
+  "_id": "61p4flndx82",
+  "name": "a-language-languages",
+  "params": {
+    "cat": "a-language",
+    "noun": "languages"
+  },
+  "parents": [
+    "category-noun"
+  ],
+  "props": {
+  }
+}

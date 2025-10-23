@@ -1,0 +1,13 @@
+{
+  "_id": "t4kem6byiwc",
+  "name": "a-family-family",
+  "params": {
+    "cat": "a-family",
+    "noun": "family"
+  },
+  "parents": [
+    "category-noun"
+  ],
+  "props": {
+  }
+}

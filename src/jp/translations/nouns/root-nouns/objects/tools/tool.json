@@ -3,7 +3,8 @@
   "name": "tool",
   "order": "3",
   "parents": [
-    "tools"
+    "tools",
+    "categories"
   ],
   "props": {
     "en": "tool",

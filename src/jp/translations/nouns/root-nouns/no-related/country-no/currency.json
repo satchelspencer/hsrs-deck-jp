@@ -3,9 +3,11 @@
   "name": "currency",
   "order": "4",
   "parents": [
-    "country-no"
+    "country-no",
+    "categories"
   ],
   "props": {
+    "_pl": "currencies",
     "en": "currency",
     "jp": "通貨",
     "tl": "つうか"

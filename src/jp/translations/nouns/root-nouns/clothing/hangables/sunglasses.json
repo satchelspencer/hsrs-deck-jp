@@ -3,7 +3,8 @@
   "name": "sunglasses",
   "order": "3",
   "parents": [
-    "hangables"
+    "hangables",
+    "accessories"
   ],
   "props": {
     "en": "sunglasses",

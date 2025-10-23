@@ -1,0 +1,13 @@
+{
+  "_id": "h7eyzfkp0zp",
+  "name": "color-colors",
+  "params": {
+    "cat": "color",
+    "noun": "colors"
+  },
+  "parents": [
+    "category-noun"
+  ],
+  "props": {
+  }
+}

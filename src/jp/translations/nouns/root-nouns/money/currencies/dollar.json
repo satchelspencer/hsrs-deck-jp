@@ -3,7 +3,7 @@
   "name": "dollar",
   "order": "3",
   "parents": [
-    "money"
+    "currencies"
   ],
   "props": {
     "en": "dollar",

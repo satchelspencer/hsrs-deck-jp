@@ -3,7 +3,8 @@
   "name": "movie-theater",
   "order": "2",
   "parents": [
-    "establishments"
+    "establishments",
+    "ken-buildings-countable"
   ],
   "props": {
     "en": "movie theater",

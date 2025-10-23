@@ -1,0 +1,13 @@
+{
+  "_id": "334mvkthvmj",
+  "name": "sport-sports",
+  "params": {
+    "cat": "sport",
+    "noun": "sports"
+  },
+  "parents": [
+    "category-noun"
+  ],
+  "props": {
+  }
+}

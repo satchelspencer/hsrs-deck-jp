@@ -5,7 +5,8 @@
   "order": "2",
   "parents": [
     "establishments",
-    "organizations"
+    "organizations",
+    "ken-buildings-countable"
   ],
   "props": {
     "en": "hospital",

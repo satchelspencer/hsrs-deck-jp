@@ -1,0 +1,16 @@
+{
+  "_id": "uwdh8wkvqn9",
+  "desc": "clothing",
+  "name": "garments",
+  "order": "3",
+  "parents": [
+    "categories",
+    "clothing"
+  ],
+  "props": {
+    "_pl": "garments",
+    "en": "garments",
+    "jp": "衣類",
+    "tl": "いるい"
+  }
+}

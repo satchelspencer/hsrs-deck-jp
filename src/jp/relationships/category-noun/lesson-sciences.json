@@ -1,0 +1,13 @@
+{
+  "_id": "trf3k3imraf",
+  "name": "lesson-sciences",
+  "params": {
+    "cat": "lesson",
+    "noun": "sciences"
+  },
+  "parents": [
+    "category-noun"
+  ],
+  "props": {
+  }
+}

@@ -4,7 +4,8 @@
   "order": "1",
   "parents": [
     "shiai-countable",
-    "activities"
+    "activities",
+    "sports"
   ],
   "props": {
     "en": "baseball",

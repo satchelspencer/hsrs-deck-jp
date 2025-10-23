@@ -1,6 +1,6 @@
 {
   "_id": "mju9ameye8",
-  "constraint": "iadj noun",
+  "constraint": "iadj noun adv",
   "name": "noun-adv-i-adj-pred",
   "order": "3",
   "params": {
@@ -10,7 +10,8 @@
   },
   "parents": [
     "complex-clauses",
-    "common-ga-sub"
+    "common-ga-sub",
+    "adv-adj-clauses"
   ],
   "props": {
     "en": "nform.en+' '+clause.en",

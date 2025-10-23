@@ -1,0 +1,19 @@
+{
+  "_id": "s80ljdqf04",
+  "constraint": "adv cat noun",
+  "name": "cat-no-naka-superlative",
+  "order": "4",
+  "params": {
+    "adv": "adj-superlatives",
+    "clause": "adv-adj-clauses",
+    "naka": "cat-no-naka",
+    "rel": "category-noun"
+  },
+  "parents": [
+    "complex-clauses"
+  ],
+  "props": {
+    "en": "naka.en+', '+clause.en",
+    "jp": "naka.jp+clause.jp"
+  }
+}

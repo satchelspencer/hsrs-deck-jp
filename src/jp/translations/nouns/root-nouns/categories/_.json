@@ -1,0 +1,11 @@
+{
+  "_id": "a05ikieaho4",
+  "name": "categories",
+  "parents": [
+    "root-nouns"
+  ],
+  "props": {
+    "_pl": "$.en+'s'"
+  },
+  "virtual": true
+}

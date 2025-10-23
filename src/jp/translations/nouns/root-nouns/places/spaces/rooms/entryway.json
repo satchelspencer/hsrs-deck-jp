@@ -4,7 +4,7 @@
   "name": "entryway",
   "order": "3",
   "parents": [
-    "spaces"
+    "rooms"
   ],
   "props": {
     "en": "entryway",

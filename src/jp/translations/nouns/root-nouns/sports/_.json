@@ -1,0 +1,10 @@
+{
+  "_id": "v6a9g1i6l5",
+  "name": "sports",
+  "parents": [
+    "root-nouns"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

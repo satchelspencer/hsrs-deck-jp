@@ -3,7 +3,8 @@
   "name": "earring",
   "order": "2",
   "parents": [
-    "kumi-countable"
+    "kumi-countable",
+    "accessories"
   ],
   "props": {
     "en": "earring",

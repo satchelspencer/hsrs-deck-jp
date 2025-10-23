@@ -4,7 +4,8 @@
   "order": "2",
   "parents": [
     "headgear",
-    "hangables"
+    "hangables",
+    "accessories"
   ],
   "props": {
     "en": "scarf",

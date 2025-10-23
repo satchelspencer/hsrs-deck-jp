@@ -1,0 +1,13 @@
+{
+  "_id": "ehze3y7dqsq",
+  "name": "tool-tools",
+  "params": {
+    "cat": "tool",
+    "noun": "tools"
+  },
+  "parents": [
+    "category-noun"
+  ],
+  "props": {
+  }
+}

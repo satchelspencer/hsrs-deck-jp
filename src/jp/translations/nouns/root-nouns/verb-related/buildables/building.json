@@ -6,7 +6,8 @@
     "buildables",
     "high-low",
     "ken-buildings-countable",
-    "places"
+    "places",
+    "categories"
   ],
   "props": {
     "en": "building",

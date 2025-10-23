@@ -1,0 +1,10 @@
+{
+  "_id": "35s2h0zydlx",
+  "name": "currencies",
+  "parents": [
+    "money"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

@@ -3,7 +3,8 @@
   "name": "color",
   "order": "2",
   "parents": [
-    "object-no"
+    "object-no",
+    "categories"
   ],
   "props": {
     "en": "color",

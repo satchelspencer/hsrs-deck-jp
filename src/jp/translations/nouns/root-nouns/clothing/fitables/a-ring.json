@@ -5,7 +5,8 @@
   "order": "3",
   "parents": [
     "fitables",
-    "ko-countable"
+    "ko-countable",
+    "accessories"
   ],
   "props": {
     "en": "a ring",

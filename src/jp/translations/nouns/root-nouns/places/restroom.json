@@ -4,7 +4,8 @@
   "name": "restroom",
   "order": "1",
   "parents": [
-    "places"
+    "places",
+    "rooms"
   ],
   "props": {
     "en": "restroom",

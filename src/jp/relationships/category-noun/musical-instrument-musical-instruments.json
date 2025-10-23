@@ -1,0 +1,13 @@
+{
+  "_id": "oium32fdw5r",
+  "name": "musical-instrument-musical-instruments",
+  "params": {
+    "cat": "musical-instrument",
+    "noun": "musical-instruments"
+  },
+  "parents": [
+    "category-noun"
+  ],
+  "props": {
+  }
+}

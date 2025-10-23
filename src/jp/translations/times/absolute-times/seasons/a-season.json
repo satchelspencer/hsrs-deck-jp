@@ -3,9 +3,11 @@
   "desc": "season, time of year",
   "name": "a-season",
   "parents": [
-    "seasons"
+    "seasons",
+    "categories"
   ],
   "props": {
+    "_pl": "seasons",
     "en": "a season",
     "jp": "季節",
     "tl": "きせつ"

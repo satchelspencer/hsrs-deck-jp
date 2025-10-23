@@ -5,7 +5,7 @@
   "order": "1",
   "parents": [
     "counter-roots-kango-simple",
-    "money"
+    "currencies"
   ],
   "props": {
     "_ec": "yen",

@@ -1,0 +1,15 @@
+{
+  "_id": "nyuc8kfoz0m",
+  "desc": "like a human language",
+  "name": "a-language",
+  "order": "3",
+  "parents": [
+    "languages",
+    "categories"
+  ],
+  "props": {
+    "en": "language",
+    "jp": "言語",
+    "tl": "げんご"
+  }
+}

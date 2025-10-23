@@ -3,7 +3,7 @@
   "name": "kitchen",
   "order": "2",
   "parents": [
-    "spaces"
+    "rooms"
   ],
   "props": {
     "en": "kitchen",

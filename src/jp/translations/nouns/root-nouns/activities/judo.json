@@ -3,7 +3,8 @@
   "name": "judo",
   "order": "3",
   "parents": [
-    "activities"
+    "activities",
+    "sports"
   ],
   "props": {
     "en": "judo",

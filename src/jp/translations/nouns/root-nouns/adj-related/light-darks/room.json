@@ -4,10 +4,11 @@
   "name": "room",
   "order": "1",
   "parents": [
-    "spaces",
     "light-darks",
     "hot-cold-weather",
-    "wago-countable"
+    "wago-countable",
+    "categories",
+    "rooms"
   ],
   "props": {
     "en": "room",

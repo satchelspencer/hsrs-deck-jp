@@ -1,0 +1,13 @@
+{
+  "_id": "i9xaitau13",
+  "name": "document-documents",
+  "params": {
+    "cat": "document",
+    "noun": "documents"
+  },
+  "parents": [
+    "category-noun"
+  ],
+  "props": {
+  }
+}

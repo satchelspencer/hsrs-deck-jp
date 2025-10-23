@@ -4,9 +4,12 @@
   "order": "3",
   "parents": [
     "attachables",
-    "clothing"
+    "clothing",
+    "categories",
+    "accessories"
   ],
   "props": {
+    "_pl": "accessories",
     "en": "accessory",
     "jp": "アクセサリー",
     "tl": "あくせさりー"

@@ -3,7 +3,8 @@
   "name": "soccer",
   "order": "2",
   "parents": [
-    "activities"
+    "activities",
+    "sports"
   ],
   "props": {
     "en": "soccer",

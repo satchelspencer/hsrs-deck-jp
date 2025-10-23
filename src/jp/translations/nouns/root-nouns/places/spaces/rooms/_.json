@@ -1,0 +1,10 @@
+{
+  "_id": "qzz90i6qsc9",
+  "name": "rooms",
+  "parents": [
+    "spaces"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

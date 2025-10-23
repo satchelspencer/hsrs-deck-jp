@@ -1,0 +1,13 @@
+{
+  "_id": "d67k6ojk7dh",
+  "name": "room-rooms",
+  "params": {
+    "cat": "room",
+    "noun": "rooms"
+  },
+  "parents": [
+    "category-noun"
+  ],
+  "props": {
+  }
+}

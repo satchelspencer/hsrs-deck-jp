@@ -4,7 +4,8 @@
   "order": "2",
   "parents": [
     "activities",
-    "shiai-countable"
+    "shiai-countable",
+    "sports"
   ],
   "props": {
     "en": "table tennis",

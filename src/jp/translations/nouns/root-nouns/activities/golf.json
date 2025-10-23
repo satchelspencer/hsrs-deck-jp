@@ -3,7 +3,8 @@
   "name": "golf",
   "order": "2",
   "parents": [
-    "activities"
+    "activities",
+    "sports"
   ],
   "props": {
     "en": "golf",

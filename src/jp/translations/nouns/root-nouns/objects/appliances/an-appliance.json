@@ -1,0 +1,15 @@
+{
+  "_id": "5yqj9azxmdf",
+  "desc": "household appliance",
+  "name": "an-appliance",
+  "order": "3",
+  "parents": [
+    "appliances",
+    "categories"
+  ],
+  "props": {
+    "en": "appliance",
+    "jp": "家電",
+    "tl": "かでん"
+  }
+}

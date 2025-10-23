@@ -3,7 +3,8 @@
   "name": "vehicle",
   "order": "3",
   "parents": [
-    "transports"
+    "transports",
+    "categories"
   ],
   "props": {
     "en": "vehicle",

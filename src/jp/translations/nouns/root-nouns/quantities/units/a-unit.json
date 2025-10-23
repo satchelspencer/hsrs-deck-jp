@@ -1,0 +1,15 @@
+{
+  "_id": "8jxyh8o8fxc",
+  "desc": "unit like meters",
+  "name": "a-unit",
+  "order": "4",
+  "parents": [
+    "units",
+    "categories"
+  ],
+  "props": {
+    "en": "unit",
+    "jp": "単位",
+    "tl": "たんい"
+  }
+}
