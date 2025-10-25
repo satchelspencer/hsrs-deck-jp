@@ -1,0 +1,12 @@
+{
+  "_id": "r1q2hysgru9",
+  "name": "ka-question-words",
+  "parents": [
+    "question-words"
+  ],
+  "props": {
+    "_ka": null,
+    "_mo": null
+  },
+  "virtual": true
+}

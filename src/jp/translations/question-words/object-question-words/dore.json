@@ -3,9 +3,12 @@
   "name": "dore",
   "order": "2",
   "parents": [
-    "object-question-words"
+    "object-question-words",
+    "ka-question-ungated"
   ],
   "props": {
+    "_ka": "a certain one",
+    "_mo": "any and all",
     "en": "which one",
     "jp": "どれ"
   }

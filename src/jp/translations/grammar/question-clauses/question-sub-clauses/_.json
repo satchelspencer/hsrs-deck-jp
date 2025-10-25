@@ -1,0 +1,10 @@
+{
+  "_id": "5gch2hfcv3g",
+  "name": "question-sub-clauses",
+  "parents": [
+    "question-clauses"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

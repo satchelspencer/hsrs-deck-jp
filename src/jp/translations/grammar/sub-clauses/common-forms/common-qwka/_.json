@@ -1,0 +1,12 @@
+{
+  "_id": "znek2v4u1a",
+  "desc": "question words with か on the end mean add \"some\" to the word i.e something, someone, somewhere etc",
+  "name": "common-qwka",
+  "parents": [
+    "common-forms",
+    "common-qwkamo"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

@@ -1,6 +1,6 @@
 {
   "_id": "lkr08elu0lq",
-  "constraint": "na",
+  "constraint": "na qw",
   "name": "question-na-adj-pred",
   "order": "1",
   "params": {
@@ -9,10 +9,11 @@
   },
   "parents": [
     "question-clauses",
-    "common-ga-sub"
+    "common-ga-sub",
+    "const-qw-clauses"
   ],
   "props": {
     "en": "rel.qw.en+' '+naform.en",
-    "jp": "rel.qw.jp+'が'+naform.jp"
+    "jp": "rel.qw.jp+'@が'+naform.jp"
   }
 }

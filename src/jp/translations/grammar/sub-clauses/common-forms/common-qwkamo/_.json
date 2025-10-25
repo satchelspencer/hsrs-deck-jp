@@ -1,0 +1,11 @@
+{
+  "_id": "r46p3mqptj",
+  "desc": "adding か/も to a question word replaces the particle following it: 何を食べる becomes 何か食べる",
+  "name": "common-qwkamo",
+  "parents": [
+    "common-forms"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

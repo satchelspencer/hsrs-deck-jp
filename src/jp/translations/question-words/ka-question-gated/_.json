@@ -1,0 +1,10 @@
+{
+  "_id": "h7kmdcfelee",
+  "name": "ka-question-gated",
+  "parents": [
+    "question-words"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

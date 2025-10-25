@@ -1,0 +1,19 @@
+{
+  "_id": "j28ckhq67g",
+  "constraint": "qw",
+  "mode": "----a",
+  "name": "question-qwka-clause-gated",
+  "order": "2",
+  "params": {
+    "clause": "const-qw-clauses",
+    "qw": "ka-question-gated"
+  },
+  "parents": [
+    "question-clauses",
+    "common-qwka"
+  ],
+  "props": {
+    "en": "clause.en|rg(qw.en, qw._ka)",
+    "jp": "clause.jp|rg(qw.jp+'@.', qw.jp+'か')"
+  }
+}

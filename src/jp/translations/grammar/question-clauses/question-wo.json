@@ -1,6 +1,6 @@
 {
   "_id": "8gxpzrqe9hj",
-  "constraint": "verb",
+  "constraint": "verb qw",
   "name": "question-wo",
   "order": "1",
   "params": {
@@ -9,10 +9,11 @@
   },
   "parents": [
     "question-clauses",
-    "common-wo"
+    "common-wo",
+    "const-qw-clauses"
   ],
   "props": {
     "en": "form.en|rg(' it', '')+' '+rel.qw.en",
-    "jp": "rel.qw.jp+'を'+form.jp"
+    "jp": "rel.qw.jp+'@を'+form.jp"
   }
 }

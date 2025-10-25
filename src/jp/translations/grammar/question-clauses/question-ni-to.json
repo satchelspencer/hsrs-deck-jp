@@ -1,6 +1,6 @@
 {
   "_id": "l7vctu50r4",
-  "constraint": "verb",
+  "constraint": "verb qw",
   "name": "question-ni-to",
   "order": "1",
   "params": {
@@ -9,10 +9,11 @@
   },
   "parents": [
     "question-clauses",
-    "common-ni-to"
+    "common-ni-to",
+    "const-qw-clauses"
   ],
   "props": {
     "en": "form.en+' to '+rel.qw.en",
-    "jp": "rel.qw.jp+'に'+form.jp"
+    "jp": "rel.qw.jp+'@に'+form.jp"
   }
 }

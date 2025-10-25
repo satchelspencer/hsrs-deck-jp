@@ -1,6 +1,6 @@
 {
   "_id": "pwlsmcnmuhh",
-  "constraint": "iadj",
+  "constraint": "iadj qw",
   "name": "question-i-adj-pred",
   "order": "1",
   "params": {
@@ -9,10 +9,11 @@
   },
   "parents": [
     "question-clauses",
-    "common-ga-sub"
+    "common-ga-sub",
+    "const-qw-clauses"
   ],
   "props": {
     "en": "rel.qw.en+' '+iform.en",
-    "jp": "rel.qw.jp+'が'+iform.jp"
+    "jp": "rel.qw.jp+'@が'+iform.jp"
   }
 }

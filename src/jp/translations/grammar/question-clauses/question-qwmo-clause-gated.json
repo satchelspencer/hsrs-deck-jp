@@ -1,0 +1,20 @@
+{
+  "_id": "kdcg2cpt1t",
+  "constraint": "qw",
+  "desc": "何 and 誰 with も added mean add \"none\" to the word i.e nothing, nobody. always used with a negative, but note the double negative in jp does not translate to en!",
+  "mode": "----n",
+  "name": "question-qwmo-clause-gated",
+  "order": "2",
+  "params": {
+    "clause": "const-qw-clauses",
+    "qw": "ka-question-gated"
+  },
+  "parents": [
+    "question-clauses",
+    "common-qwkamo"
+  ],
+  "props": {
+    "en": "clause.en|rg(qw.en, qw._mo)|rg('(not |n\\'t)', '')",
+    "jp": "clause.jp|rg(qw.jp+'@.', qw.jp+'も')"
+  }
+}

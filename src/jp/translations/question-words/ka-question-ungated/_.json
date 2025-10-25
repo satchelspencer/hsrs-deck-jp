@@ -1,0 +1,10 @@
+{
+  "_id": "r2s297ylta",
+  "name": "ka-question-ungated",
+  "parents": [
+    "question-words"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

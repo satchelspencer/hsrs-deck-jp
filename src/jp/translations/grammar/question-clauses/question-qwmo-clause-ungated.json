@@ -1,0 +1,19 @@
+{
+  "_id": "a0wlr2dehk",
+  "constraint": "qw",
+  "desc": "どこ, どれ and いつ with も added mean add \"every\" to the word i.e everywhere",
+  "name": "question-qwmo-clause-ungated",
+  "order": "3",
+  "params": {
+    "clause": "const-qw-clauses",
+    "qw": "ka-question-ungated"
+  },
+  "parents": [
+    "question-clauses",
+    "common-qwkamo"
+  ],
+  "props": {
+    "en": "clause.en|rg(qw.en, qw._mo)",
+    "jp": "clause.jp|rg(qw.jp+'@.', qw.jp+'か')"
+  }
+}

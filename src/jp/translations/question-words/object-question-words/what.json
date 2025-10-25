@@ -3,9 +3,12 @@
   "name": "what",
   "order": "1",
   "parents": [
-    "object-question-words"
+    "object-question-words",
+    "ka-question-gated"
   ],
   "props": {
+    "_ka": "something",
+    "_mo": "nothing",
     "en": "what",
     "jp": "何",
     "tl": "なに"

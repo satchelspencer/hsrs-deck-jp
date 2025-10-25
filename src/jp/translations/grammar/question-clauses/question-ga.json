@@ -1,6 +1,6 @@
 {
   "_id": "1j8w0p9omi7",
-  "constraint": "verb",
+  "constraint": "verb qw",
   "name": "question-ga",
   "order": "1",
   "params": {
@@ -9,10 +9,11 @@
   },
   "parents": [
     "question-clauses",
-    "common-ga-sub"
+    "common-ga-sub",
+    "const-qw-clauses"
   ],
   "props": {
     "en": "rel.qw.en+' '+form.en",
-    "jp": "rel.qw.jp+'が'+form.jp"
+    "jp": "rel.qw.jp+'@が'+form.jp"
   }
 }

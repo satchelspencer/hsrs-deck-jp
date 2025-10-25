@@ -3,9 +3,12 @@
   "name": "when",
   "order": "1",
   "parents": [
-    "time-question-words"
+    "time-question-words",
+    "ka-question-ungated"
   ],
   "props": {
+    "_ka": "sometime",
+    "_mo": "always",
     "en": "when",
     "jp": "いつ"
   }

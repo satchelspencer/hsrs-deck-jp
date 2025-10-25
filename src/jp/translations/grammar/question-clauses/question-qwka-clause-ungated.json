@@ -1,0 +1,19 @@
+{
+  "_id": "zfwlwhaq8y",
+  "constraint": "qw",
+  "desc": "どこ, どれ and いつ with か added mean add \"some\" to the word i.e somewhere",
+  "name": "question-qwka-clause-ungated",
+  "order": "3",
+  "params": {
+    "clause": "const-qw-clauses",
+    "qw": "ka-question-ungated"
+  },
+  "parents": [
+    "question-clauses",
+    "common-qwka"
+  ],
+  "props": {
+    "en": "clause.en|rg(qw.en, qw._ka)",
+    "jp": "clause.jp|rg(qw.jp+'@.', qw.jp+'か')"
+  }
+}

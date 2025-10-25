@@ -3,9 +3,12 @@
   "name": "doko",
   "order": "1",
   "parents": [
-    "location-question-words"
+    "location-question-words",
+    "ka-question-ungated"
   ],
   "props": {
+    "_ka": "somewhere",
+    "_mo": "everywhere",
     "en": "where",
     "jp": "どこ"
   }

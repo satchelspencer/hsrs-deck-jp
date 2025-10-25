@@ -4,9 +4,12 @@
   "name": "who",
   "order": "1",
   "parents": [
-    "personal-question-words"
+    "personal-question-words",
+    "ka-question-gated"
   ],
   "props": {
+    "_ka": "someone",
+    "_mo": "nobody",
     "en": "who",
     "jp": "誰",
     "tl": "だれ"
