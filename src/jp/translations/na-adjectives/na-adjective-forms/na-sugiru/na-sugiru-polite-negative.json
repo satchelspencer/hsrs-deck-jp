@@ -10,6 +10,6 @@
   ],
   "props": {
     "en": "'too '+form.en",
-    "jp": "form.jp|r('ない', 'なすぎます')"
+    "jp": "form.jp|r('ない', 'なさすぎます')"
   }
 }
