@@ -4,7 +4,7 @@
   "mode": "c---an",
   "name": "reru-plain",
   "params": {
-    "rel": "verb-people-do",
+    "_rel": "verb-people-do",
     "verb": "root-verbs"
   },
   "parents": [

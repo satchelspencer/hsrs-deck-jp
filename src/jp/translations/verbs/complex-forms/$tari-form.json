@@ -6,8 +6,8 @@
   "name": "$tari-form",
   "order": "3",
   "params": {
-    "form": "plain-past",
-    "rel": "verb-people-do-volitional"
+    "_rel": "verb-people-do-volitional",
+    "form": "plain-past"
   },
   "parents": [
     "complex-forms"

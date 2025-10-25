@@ -4,8 +4,8 @@
   "mode": "c-s-N",
   "name": "command-form-negative",
   "params": {
-    "form": "plain",
-    "rel": "verb-people-do-volitional"
+    "_rel": "verb-people-do-volitional",
+    "form": "plain"
   },
   "parents": [
     "command-form"

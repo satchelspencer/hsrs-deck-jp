@@ -5,8 +5,8 @@
   "name": "polite-volitional",
   "order": "2",
   "params": {
-    "polite": "polite",
-    "rel": "verb-people-do-volitional"
+    "_rel": "verb-people-do-volitional",
+    "polite": "polite"
   },
   "parents": [
     "volitional"

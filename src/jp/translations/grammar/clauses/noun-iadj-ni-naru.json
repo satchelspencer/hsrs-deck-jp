@@ -1,6 +1,6 @@
 {
   "_id": "vpvzan8j35k",
-  "constraint": "verb iadj",
+  "constraint": "verb iadj noun",
   "desc": "an い-adjective linked with く to naru describes how something changes",
   "name": "noun-iadj-ni-naru",
   "order": "3",

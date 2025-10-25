@@ -5,8 +5,8 @@
   "name": "sou-form",
   "order": "4",
   "params": {
-    "polite": "polite",
-    "rel": "verb-people-do"
+    "_rel": "verb-people-do",
+    "polite": "polite"
   },
   "parents": [
     "verb-forms",

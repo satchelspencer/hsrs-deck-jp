@@ -5,8 +5,8 @@
   "name": "plain-voltional-negative",
   "order": "4",
   "params": {
-    "form": "plain-negative",
-    "rel": "verb-people-do-volitional"
+    "_rel": "verb-people-do-volitional",
+    "form": "plain-negative"
   },
   "parents": [
     "volitional"

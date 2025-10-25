@@ -1,6 +1,6 @@
 {
   "_id": "lub07692hxt",
-  "constraint": "verb",
+  "constraint": "verb noun",
   "desc": "になる descrives how something changes into a noun X",
   "name": "noun-na-ni-naru",
   "order": "3",

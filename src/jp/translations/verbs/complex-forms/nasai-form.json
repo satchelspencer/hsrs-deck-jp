@@ -6,8 +6,8 @@
   "name": "nasai-form",
   "order": "3",
   "params": {
-    "form": "polite",
-    "rel": "verb-people-do-volitional"
+    "_rel": "verb-people-do-volitional",
+    "form": "polite"
   },
   "parents": [
     "complex-forms",

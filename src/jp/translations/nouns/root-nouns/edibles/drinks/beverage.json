@@ -3,7 +3,8 @@
   "name": "beverage",
   "order": "1",
   "parents": [
-    "drinks"
+    "drinks",
+    "categories"
   ],
   "props": {
     "en": "beverage",

@@ -5,7 +5,7 @@
   "name": "plain-volitional",
   "order": "3",
   "params": {
-    "rel": "verb-people-do-volitional",
+    "_rel": "verb-people-do-volitional",
     "verb": "root-verbs"
   },
   "parents": [

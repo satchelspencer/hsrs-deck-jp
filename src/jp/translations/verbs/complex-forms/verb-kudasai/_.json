@@ -5,7 +5,7 @@
   "name": "verb-kudasai",
   "order": "3",
   "params": {
-    "rel": "verb-people-do-volitional"
+    "_rel": "verb-people-do-volitional"
   },
   "parents": [
     "complex-forms",

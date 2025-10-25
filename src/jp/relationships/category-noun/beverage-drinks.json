@@ -1,8 +1,8 @@
 {
   "_id": "82xcjo6h3gi",
-  "name": "drink-drinks",
+  "name": "beverage-drinks",
   "params": {
-    "cat": "drink",
+    "cat": "beverage",
     "noun": "drinks"
   },
   "parents": [

@@ -1,5 +1,6 @@
 {
   "_id": "7g5rwlbwsr5",
+  "constraint": "verb",
   "name": "command-form-godan",
   "params": {
     "form": "godan-reru",
