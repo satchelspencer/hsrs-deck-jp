@@ -6,11 +6,11 @@
   "author": "satchelspencer <satchelspencer@gmail.com>",
   "license": "GPL-3.0-only",
   "scripts": {
-    "build": "hsrs-export ./dist/jp.deck.json ./src",
-    "import-deck": "hsrs-import ./src",
+    "build": "hsrs export ./src ./dist/jp.deck.json",
+    "import-deck": "hsrs import ./src",
     "postinstall": "yarn build"
   },
   "dependencies": {
-    "hsrs-deck-utils": "^1.0.1"
+    "@hsrs/cli": "^0.0.2"
   }
 }
