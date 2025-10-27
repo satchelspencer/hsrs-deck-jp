@@ -4,7 +4,7 @@
   "name": "verb-temo",
   "params": {
     "rel": "verb-people-do-volitional",
-    "te": "verb-te-form"
+    "te": "verb-te-form-pos"
   },
   "parents": [
     "temo-forms",
@@ -12,7 +12,7 @@
   ],
   "props": {
     "_n": "'even if '+(te.past.verb._pg || te.past.verb.en)",
-    "en": "'even if '+te.past.verb.en",
+    "en": "'even if '+te._pl.en",
     "jp": "te.jp+'も'"
   }
 }

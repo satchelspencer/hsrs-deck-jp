@@ -4,7 +4,7 @@
   "name": "na-adjective-negative-past",
   "order": "2",
   "params": {
-    "na": "na-attributive"
+    "na": "na-adjective-roots"
   },
   "parents": [
     "na-adjective-forms",

@@ -1,14 +1,13 @@
 {
   "_id": "dkul36jwa0v",
   "constraint": "iadj",
-  "name": "i-adjective-te",
+  "name": "i-adjective-te-pos",
   "order": "3",
   "params": {
     "ku": "i-adjective-ku"
   },
   "parents": [
-    "i-complex-forms",
-    "common-te"
+    "i-adjective-te-forms"
   ],
   "props": {
     "en": "ku.iadj.en+' and'",

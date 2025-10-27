@@ -3,7 +3,7 @@
   "mode": "p---a",
   "name": "verb-kudasai-plain",
   "params": {
-    "form": "verb-te-form"
+    "form": "verb-te-form-pos"
   },
   "parents": [
     "verb-kudasai"

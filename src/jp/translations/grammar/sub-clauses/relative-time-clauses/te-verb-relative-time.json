@@ -4,7 +4,7 @@
   "order": "",
   "params": {
     "expr": "te-relative-time-exprs",
-    "root": "verb-te-form"
+    "root": "verb-te-form-pos"
   },
   "parents": [
     "relative-time-clauses"

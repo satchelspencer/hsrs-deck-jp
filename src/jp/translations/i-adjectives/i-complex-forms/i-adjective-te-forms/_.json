@@ -1,0 +1,11 @@
+{
+  "_id": "lza45c104j",
+  "name": "i-adjective-te-forms",
+  "parents": [
+    "i-complex-forms",
+    "common-te"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

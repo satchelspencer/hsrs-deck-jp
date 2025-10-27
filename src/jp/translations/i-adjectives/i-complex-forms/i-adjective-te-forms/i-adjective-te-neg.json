@@ -1,0 +1,16 @@
+{
+  "_id": "wzzo6z15ve",
+  "constraint": "iadj",
+  "name": "i-adjective-te-neg",
+  "order": "3",
+  "params": {
+    "neg": "i-adjective-negative"
+  },
+  "parents": [
+    "i-adjective-te-forms"
+  ],
+  "props": {
+    "en": "neg.en+' and'",
+    "jp": "neg.jp|r('ない', 'なくて')"
+  }
+}

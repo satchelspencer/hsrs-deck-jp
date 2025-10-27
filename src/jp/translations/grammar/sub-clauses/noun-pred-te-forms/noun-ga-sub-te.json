@@ -4,7 +4,7 @@
   "name": "noun-ga-sub-te",
   "order": "",
   "params": {
-    "form": "verb-te-form",
+    "form": "verb-te-forms",
     "rel": "noun-ga-verb"
   },
   "parents": [

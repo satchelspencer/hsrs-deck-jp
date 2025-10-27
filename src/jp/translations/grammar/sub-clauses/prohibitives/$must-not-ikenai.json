@@ -1,0 +1,22 @@
+{
+  "_id": "bdr5djc0z7r",
+  "constraint": "go",
+  "cpmap": {
+    "form": {
+      "verb": "go"
+    }
+  },
+  "mode": "----n",
+  "name": "$must-not-ikenai",
+  "params": {
+    "form": "reru-form",
+    "go": "go"
+  },
+  "parents": [
+    "prohibitives"
+  ],
+  "props": {
+    "en": "form.en|rg('go', '')|rg('couldn\\'t', 'had to not')|rg('can\\'t', 'must not')|rg('can not', 'must not')",
+    "jp": "form.tl"
+  }
+}

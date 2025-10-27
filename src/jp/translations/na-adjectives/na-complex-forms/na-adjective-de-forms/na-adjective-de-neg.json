@@ -1,0 +1,16 @@
+{
+  "_id": "8x7w851d4nk",
+  "name": "na-adjective-de-neg",
+  "order": "3",
+  "params": {
+    "na": "na-attributive"
+  },
+  "parents": [
+    "na-adjective-de-forms"
+  ],
+  "props": {
+    "en": "'not '+na._at+' and'",
+    "jp": "na.jp+'ではなくて'",
+    "tl": "na.tl+'でわなくて'"
+  }
+}

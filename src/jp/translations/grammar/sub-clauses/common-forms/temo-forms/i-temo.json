@@ -3,7 +3,7 @@
   "constraint": "iadj",
   "name": "i-temo",
   "params": {
-    "te": "i-adjective-te"
+    "te": "i-adjective-te-pos"
   },
   "parents": [
     "temo-forms",

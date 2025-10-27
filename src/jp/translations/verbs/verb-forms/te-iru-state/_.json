@@ -5,7 +5,7 @@
   "name": "te-iru-state",
   "order": "4",
   "params": {
-    "te": "verb-te-form",
+    "te": "verb-te-form-pos",
     "verb": "te-iru-verbs-state"
   },
   "parents": [

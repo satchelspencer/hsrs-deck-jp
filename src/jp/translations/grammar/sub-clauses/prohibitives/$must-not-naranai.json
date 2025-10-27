@@ -1,0 +1,22 @@
+{
+  "_id": "v9bhsv2a4cg",
+  "constraint": "nar",
+  "cpmap": {
+    "form": {
+      "verb": "nar"
+    }
+  },
+  "mode": "----n",
+  "name": "$must-not-naranai",
+  "params": {
+    "form": "plain-polite-forms",
+    "nar": "become"
+  },
+  "parents": [
+    "prohibitives"
+  ],
+  "props": {
+    "en": "form.en|rg('become', 'allowed to')|rg('didn\\'t', 'wasn\\'t')",
+    "jp": "form.tl"
+  }
+}

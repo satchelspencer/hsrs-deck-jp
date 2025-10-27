@@ -5,7 +5,7 @@
   "name": "te-iru",
   "order": "3",
   "params": {
-    "te": "verb-te-form",
+    "te": "verb-te-form-pos",
     "verb": "te-iru-verbs-continuous"
   },
   "parents": [

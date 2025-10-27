@@ -1,0 +1,20 @@
+{
+  "_id": "gjyw2wwqwh",
+  "constraint": "verb",
+  "desc": "using a verb's て-form + だめ, ならない, or いけない indicates that doing or not doing is prohibited",
+  "name": "prohibitive-forms",
+  "params": {
+    "_rel": "verb-people-do-volitional",
+    "ik": "prohibitives",
+    "te": "verb-te-forms"
+  },
+  "parents": [
+    "complex-forms"
+  ],
+  "props": {
+    "en": "ik.en+' '+te.en|r(' and', '')",
+    "jp": "te.jp+'は'+ik.jp",
+    "tl": "te.tl+'わ'+ik.tl"
+  },
+  "virtual": true
+}

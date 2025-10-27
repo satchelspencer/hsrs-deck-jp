@@ -1,0 +1,13 @@
+{
+  "_id": "em8x7xghe9q",
+  "name": "ikenai-form",
+  "order": "3",
+  "params": {
+    "ik": "$must-not-ikenai"
+  },
+  "parents": [
+    "prohibitive-forms"
+  ],
+  "props": {
+  }
+}

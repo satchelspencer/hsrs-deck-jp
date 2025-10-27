@@ -1,0 +1,18 @@
+{
+  "_id": "a7esrsgedso",
+  "constraint": "verb",
+  "mode": "*---**",
+  "name": "verb-te-form-neg",
+  "order": "2",
+  "params": {
+    "_pl": "plain",
+    "neg": "plain-negative"
+  },
+  "parents": [
+    "verb-te-forms"
+  ],
+  "props": {
+    "en": "neg.en+' and'",
+    "jp": "neg.jp|r('ない', 'なくて')"
+  }
+}

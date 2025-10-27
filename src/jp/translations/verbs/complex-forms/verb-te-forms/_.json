@@ -1,0 +1,11 @@
+{
+  "_id": "sim9fgopt4",
+  "name": "verb-te-forms",
+  "parents": [
+    "complex-forms",
+    "common-te"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

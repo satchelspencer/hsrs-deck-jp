@@ -1,0 +1,11 @@
+{
+  "_id": "hdew8k8n5r7",
+  "name": "na-adjective-de-forms",
+  "parents": [
+    "na-complex-forms",
+    "common-te"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

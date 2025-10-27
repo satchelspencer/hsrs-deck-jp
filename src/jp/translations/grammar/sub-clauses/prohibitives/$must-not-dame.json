@@ -1,0 +1,22 @@
+{
+  "_id": "fkpxw526vj5",
+  "constraint": "dame",
+  "cpmap": {
+    "form": {
+      "na": "dame"
+    }
+  },
+  "mode": "----a",
+  "name": "$must-not-dame",
+  "params": {
+    "dame": "no-good",
+    "form": "na-plain-forms"
+  },
+  "parents": [
+    "prohibitives"
+  ],
+  "props": {
+    "en": "form.en|rg('no good', 'not ok to')",
+    "jp": "form.tl"
+  }
+}

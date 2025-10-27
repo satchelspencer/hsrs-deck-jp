@@ -1,0 +1,13 @@
+{
+  "_id": "vk0dgba0n8q",
+  "name": "narani-form",
+  "order": "4",
+  "params": {
+    "ik": "$must-not-naranai"
+  },
+  "parents": [
+    "prohibitive-forms"
+  ],
+  "props": {
+  }
+}

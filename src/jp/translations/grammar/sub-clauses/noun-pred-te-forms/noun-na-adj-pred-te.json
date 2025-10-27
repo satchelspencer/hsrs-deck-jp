@@ -4,7 +4,7 @@
   "name": "noun-na-adj-pred-te",
   "order": "",
   "params": {
-    "naform": "na-adjective-de",
+    "naform": "na-adjective-de-forms",
     "nform": "$noun-plain",
     "rel": "na-predicate-noun"
   },

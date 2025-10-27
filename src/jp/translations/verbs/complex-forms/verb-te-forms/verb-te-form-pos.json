@@ -2,14 +2,14 @@
   "_id": "wtbkloaecz",
   "constraint": "verb",
   "mode": "*---**",
-  "name": "verb-te-form",
+  "name": "verb-te-form-pos",
   "order": "2",
   "params": {
+    "_pl": "plain",
     "past": "plain-past"
   },
   "parents": [
-    "complex-forms",
-    "common-te"
+    "verb-te-forms"
   ],
   "props": {
     "en": "past.en|pr('did ', '')+' and'",

@@ -1,0 +1,13 @@
+{
+  "_id": "hwkyxoha3j",
+  "name": "dame-form",
+  "order": "2",
+  "params": {
+    "ik": "$must-not-dame"
+  },
+  "parents": [
+    "prohibitive-forms"
+  ],
+  "props": {
+  }
+}

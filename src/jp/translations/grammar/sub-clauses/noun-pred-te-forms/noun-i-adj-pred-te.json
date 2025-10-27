@@ -4,7 +4,7 @@
   "name": "noun-i-adj-pred-te",
   "order": "",
   "params": {
-    "iform": "i-adjective-te",
+    "iform": "i-adjective-te-forms",
     "nform": "$noun-plain",
     "rel": "i-predicate-noun"
   },
