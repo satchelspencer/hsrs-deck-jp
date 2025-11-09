@@ -6,7 +6,7 @@
       "verb": "aru"
     }
   },
-  "mode": "*---*n",
+  "mode": "----*n",
   "name": "$aru-form",
   "params": {
     "aru": "aru",

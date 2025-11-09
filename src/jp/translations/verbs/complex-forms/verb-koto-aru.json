@@ -7,14 +7,13 @@
   "order": "3",
   "params": {
     "_aru": "$aru-form",
-    "_rel": "verb-people-do-volitional",
-    "form": "plain-past"
+    "form": "$plain-past"
   },
   "parents": [
     "complex-forms"
   ],
   "props": {
-    "en": "b()+_aru.en|r('exist', s('have '))+' done '+form.verb.en+' before'",
+    "en": "b()+_aru.en|r('exist', s('have '))+' done '+form.en+' before'",
     "jp": "form.jp+'ことが'+_aru.jp"
   }
 }

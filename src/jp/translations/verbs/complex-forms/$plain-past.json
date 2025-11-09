@@ -1,9 +1,9 @@
 {
   "_id": "7x2c90e1vox",
   "constraint": "verb",
-  "desc": "used in constructing verb-tari",
+  "desc": "used in constructing others",
   "mode": "*---**",
-  "name": "$tari-form",
+  "name": "$plain-past",
   "order": "3",
   "params": {
     "_rel": "verb-people-do-volitional",
