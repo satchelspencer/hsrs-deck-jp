@@ -1,0 +1,22 @@
+{
+  "_id": "f4e0sklb3g",
+  "constraint": "aru",
+  "cpmap": {
+    "form": {
+      "verb": "aru"
+    }
+  },
+  "mode": "*---*n",
+  "name": "$aru-form",
+  "params": {
+    "aru": "aru",
+    "form": "plain-polite-forms"
+  },
+  "parents": [
+    "sub-clauses"
+  ],
+  "props": {
+    "en": "form.en",
+    "jp": "form.jp"
+  }
+}

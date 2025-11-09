@@ -1,0 +1,17 @@
+{
+  "_id": "w3mdgomm7xj",
+  "constraint": "verb",
+  "desc": "方がいい suggests how something should or shoudn't be done in a very direct way",
+  "mode": "c",
+  "name": "verb-hogaii",
+  "order": "4",
+  "params": {
+    "_rel": "verb-people-do-volitional"
+  },
+  "parents": [
+    "complex-forms"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

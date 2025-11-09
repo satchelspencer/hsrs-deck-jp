@@ -1,0 +1,20 @@
+{
+  "_id": "y3rat9371zb",
+  "constraint": "verb",
+  "desc": "similar meaning to ikenai-form",
+  "name": "prohibitive-ba-ikenai",
+  "order": "4",
+  "params": {
+    "_ik": "$must-not-ikenai",
+    "_rel": "verb-people-do-volitional",
+    "form": "verb-ba-negative"
+  },
+  "parents": [
+    "verb-forms-alt"
+  ],
+  "props": {
+    "en": "(_ik.en+' '+form.en|rg('generally if ', ''))|rg('not ', '')",
+    "jp": "form.jp+_ik.jp",
+    "tl": ""
+  }
+}

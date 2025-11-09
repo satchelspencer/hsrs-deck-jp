@@ -1,0 +1,16 @@
+{
+  "_id": "eysxmoi7scl",
+  "name": "i-adjective-no-nom",
+  "order": "3",
+  "params": {
+    "iadj": "i-attributive"
+  },
+  "parents": [
+    "i-complex-forms",
+    "common-adj-no"
+  ],
+  "props": {
+    "en": "'the '+iadj.en+' one'",
+    "jp": "iadj.jp+'の'"
+  }
+}

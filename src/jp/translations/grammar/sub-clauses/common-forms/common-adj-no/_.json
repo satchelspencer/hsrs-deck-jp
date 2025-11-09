@@ -1,0 +1,11 @@
+{
+  "_id": "439fegkd0a5",
+  "desc": "の turns an adjective into a noun",
+  "name": "common-adj-no",
+  "parents": [
+    "common-forms"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

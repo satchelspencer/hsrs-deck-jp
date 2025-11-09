@@ -1,0 +1,17 @@
+{
+  "_id": "u1oisfbnwv",
+  "desc": "も can be removed from てもいい",
+  "mode": "---s",
+  "name": "temoii-short",
+  "order": "3",
+  "params": {
+    "teii": "temoii"
+  },
+  "parents": [
+    "alternates"
+  ],
+  "props": {
+    "en": "teii.en",
+    "jp": "teii.jp|rg('@も', '')"
+  }
+}

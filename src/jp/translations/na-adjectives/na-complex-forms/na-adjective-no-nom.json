@@ -1,0 +1,16 @@
+{
+  "_id": "misx43bnqyq",
+  "name": "na-adjective-no-nom",
+  "order": "3",
+  "params": {
+    "na": "na-attributive"
+  },
+  "parents": [
+    "na-complex-forms",
+    "common-adj-no"
+  ],
+  "props": {
+    "en": "'the '+na.en+' one'",
+    "jp": "na.jp+'なの'"
+  }
+}

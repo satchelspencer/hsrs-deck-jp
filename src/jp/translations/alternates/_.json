@@ -1,0 +1,11 @@
+{
+  "_id": "b9yqv0xh8gt",
+  "name": "alternates",
+  "nolearn": "en",
+  "parents": [
+    "translations"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

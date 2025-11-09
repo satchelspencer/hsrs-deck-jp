@@ -14,6 +14,6 @@
   ],
   "props": {
     "en": "clause.en|rg(qw.en, qw._mo)",
-    "jp": "clause.jp|rg(qw.jp+'@.', qw.jp+'か')"
+    "jp": "clause.jp|rg(qw.jp+'@.', qw.jp+'も')"
   }
 }

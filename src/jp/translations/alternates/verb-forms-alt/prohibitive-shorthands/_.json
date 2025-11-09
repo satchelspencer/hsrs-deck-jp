@@ -1,0 +1,12 @@
+{
+  "_id": "q3dsiwd0xh",
+  "desc": "heavily shortened version of prohibitives like いけない",
+  "mode": "---s",
+  "name": "prohibitive-shorthands",
+  "parents": [
+    "verb-forms-alt"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

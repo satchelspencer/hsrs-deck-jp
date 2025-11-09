@@ -1,0 +1,19 @@
+{
+  "_id": "jztz803wv2",
+  "constraint": "verb",
+  "desc": "shorthand for stative ている",
+  "mode": "c-r-an",
+  "name": "te-iru-informal-state",
+  "order": "4",
+  "params": {
+    "te": "verb-te-form-pos",
+    "verb": "te-iru-verbs-state"
+  },
+  "parents": [
+    "verb-forms-alt"
+  ],
+  "props": {
+    "en": "'is '+verb._st",
+    "jp": "te.jp+'る'"
+  }
+}

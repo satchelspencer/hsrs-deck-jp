@@ -1,0 +1,19 @@
+{
+  "_id": "jdvotwd22kh",
+  "constraint": "verb",
+  "mode": "--fs",
+  "name": "prohibitive-nakucha",
+  "order": "3",
+  "params": {
+    "_rel": "verb-people-do-volitional",
+    "te": "verb-te-form-neg"
+  },
+  "parents": [
+    "prohibitive-shorthands"
+  ],
+  "props": {
+    "en": "'must '+te.en|r(' and', '')",
+    "jp": "te.jp|rg('[てで].*$', 'ちゃ')",
+    "tl": ""
+  }
+}

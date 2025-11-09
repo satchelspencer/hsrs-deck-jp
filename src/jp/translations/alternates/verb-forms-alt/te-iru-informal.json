@@ -1,0 +1,19 @@
+{
+  "_id": "cji8al61l5",
+  "constraint": "verb",
+  "desc": "shorthand for informal ている",
+  "mode": "c-r-an",
+  "name": "te-iru-informal",
+  "order": "3",
+  "params": {
+    "te": "verb-te-form-pos",
+    "verb": "te-iru-verbs-continuous"
+  },
+  "parents": [
+    "verb-forms-alt"
+  ],
+  "props": {
+    "en": "'is '+verb._pg",
+    "jp": "te.jp+'る'"
+  }
+}

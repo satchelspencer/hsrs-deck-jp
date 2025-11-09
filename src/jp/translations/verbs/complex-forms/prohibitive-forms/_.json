@@ -1,7 +1,7 @@
 {
   "_id": "gjyw2wwqwh",
   "constraint": "verb",
-  "desc": "using a verb's て-form + だめ, ならない, or いけない indicates that doing or not doing is prohibited",
+  "desc": "using a verb's て-form + だめ, ならない, or いけない indicates that doing or not doing is prohibited. double negative is used for saying you must do something.",
   "name": "prohibitive-forms",
   "params": {
     "_rel": "verb-people-do-volitional",

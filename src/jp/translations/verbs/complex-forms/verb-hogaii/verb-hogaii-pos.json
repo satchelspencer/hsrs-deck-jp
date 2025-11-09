@@ -1,0 +1,15 @@
+{
+  "_id": "9o0ifeikxfq",
+  "name": "verb-hogaii-pos",
+  "params": {
+    "past": "plain-past"
+  },
+  "parents": [
+    "verb-hogaii"
+  ],
+  "props": {
+    "en": "'it would be better to '+past.verb.en",
+    "jp": "past.jp+'方がいい'",
+    "tl": "past.tl+'ほうがいい'"
+  }
+}

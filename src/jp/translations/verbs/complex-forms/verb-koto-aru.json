@@ -1,0 +1,20 @@
+{
+  "_id": "tn62nggpfd",
+  "constraint": "verb",
+  "desc": "refers to having done something before, こと is not interchangable with の in this case",
+  "mode": "-----N",
+  "name": "verb-koto-aru",
+  "order": "3",
+  "params": {
+    "_aru": "$aru-form",
+    "_rel": "verb-people-do-volitional",
+    "form": "plain-past"
+  },
+  "parents": [
+    "complex-forms"
+  ],
+  "props": {
+    "en": "b()+_aru.en|r('exist', s('have '))+' done '+form.verb.en+' before'",
+    "jp": "form.jp+'ことが'+_aru.jp"
+  }
+}

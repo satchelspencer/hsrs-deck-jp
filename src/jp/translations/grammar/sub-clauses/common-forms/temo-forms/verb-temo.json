@@ -13,6 +13,6 @@
   "props": {
     "_n": "'even if '+(te.past.verb._pg || te.past.verb.en)",
     "en": "'even if '+te._pl.en",
-    "jp": "te.jp+'も'"
+    "jp": "te.jp+'@も'"
   }
 }

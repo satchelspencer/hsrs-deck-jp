@@ -1,0 +1,20 @@
+{
+  "_id": "9c22yswq2f",
+  "constraint": "noun iadj",
+  "desc": "",
+  "name": "i-adj-no-pred-noun",
+  "order": "4",
+  "params": {
+    "iform": "i-adjective-no-nom",
+    "nform": "yo-noun-forms",
+    "rel": "i-adj-attr-noun"
+  },
+  "parents": [
+    "clauses",
+    "common-ga-sub"
+  ],
+  "props": {
+    "en": "iform.en+' '+nform.en",
+    "jp": "iform.jp+'@が'+nform.jp"
+  }
+}

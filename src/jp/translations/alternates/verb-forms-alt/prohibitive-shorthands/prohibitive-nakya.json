@@ -1,0 +1,19 @@
+{
+  "_id": "h7bwwhh6lon",
+  "constraint": "verb",
+  "mode": "--ms",
+  "name": "prohibitive-nakya",
+  "order": "3",
+  "params": {
+    "_rel": "verb-people-do-volitional",
+    "neg": "plain-negative"
+  },
+  "parents": [
+    "prohibitive-shorthands"
+  ],
+  "props": {
+    "en": "'must '+neg.en|rg('not ', '')",
+    "jp": "neg.jp|r('ない', 'なきゃ')",
+    "tl": ""
+  }
+}

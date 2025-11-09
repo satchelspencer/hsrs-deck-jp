@@ -1,0 +1,20 @@
+{
+  "_id": "9934ta9vrw9",
+  "constraint": "verb",
+  "desc": "て-form becomes ち or じ",
+  "mode": "--fs",
+  "name": "prohibitive-cha",
+  "order": "3",
+  "params": {
+    "_rel": "verb-people-do-volitional",
+    "te": "verb-te-form-pos"
+  },
+  "parents": [
+    "prohibitive-shorthands"
+  ],
+  "props": {
+    "en": "'must not '+te.en|r(' and', '')",
+    "jp": "te.jp|cr('てで', 'ちじ')+'ゃ'",
+    "tl": ""
+  }
+}

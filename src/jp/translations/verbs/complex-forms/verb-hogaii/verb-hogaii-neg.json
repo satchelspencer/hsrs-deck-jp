@@ -1,0 +1,15 @@
+{
+  "_id": "6xewf4x53c",
+  "name": "verb-hogaii-neg",
+  "params": {
+    "neg": "plain-negative"
+  },
+  "parents": [
+    "verb-hogaii"
+  ],
+  "props": {
+    "en": "'it would be better to '+neg.en",
+    "jp": "neg.jp+'方がいい'",
+    "tl": "neg.tl+'ほうがいい'"
+  }
+}
