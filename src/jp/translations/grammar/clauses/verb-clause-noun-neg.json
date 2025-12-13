@@ -1,0 +1,22 @@
+{
+  "_id": "f61ujhsjvt9",
+  "constraint": "noun",
+  "desc": "you can negate a verb modified noun with forms of ある",
+  "mode": "----n*",
+  "name": "verb-clause-noun-neg",
+  "order": "3",
+  "params": {
+    "_aru": "$aru-form",
+    "clause": "$verb-clause-noun"
+  },
+  "parents": [
+    "clauses",
+    "common-verb-clause-noun",
+    "ga-and-wa-clauses"
+  ],
+  "props": {
+    "en": "clause.en+' '+_aru.en",
+    "jp": "clause.jp+'@が'+_aru.jp",
+    "tl": ""
+  }
+}

@@ -1,7 +1,6 @@
 {
   "_id": "zfwlwhaq8y",
   "constraint": "qw",
-  "desc": "どこ, どれ and いつ with か added mean add \"some\" to the word i.e somewhere",
   "name": "question-qwka-clause-ungated",
   "order": "3",
   "params": {

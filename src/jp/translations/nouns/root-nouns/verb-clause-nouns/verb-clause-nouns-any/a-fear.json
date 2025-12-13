@@ -1,0 +1,13 @@
+{
+  "_id": "y85po1u034",
+  "name": "a-fear",
+  "order": "3",
+  "parents": [
+    "verb-clause-nouns-any"
+  ],
+  "props": {
+    "en": "a fear",
+    "jp": "恐れ",
+    "tl": "おそれ"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "fb939szrlw6",
+  "desc": "bound to happen",
+  "name": "supposed-to",
+  "order": "3",
+  "parents": [
+    "verb-clause-nouns-any"
+  ],
+  "props": {
+    "_vd": "supposed to",
+    "en": "supposed to",
+    "jp": "はず"
+  }
+}

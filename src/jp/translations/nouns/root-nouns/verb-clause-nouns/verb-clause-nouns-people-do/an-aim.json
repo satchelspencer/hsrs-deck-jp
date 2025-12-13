@@ -1,0 +1,14 @@
+{
+  "_id": "h18sxyt9oiw",
+  "desc": "like an intention",
+  "name": "an-aim",
+  "order": "4",
+  "parents": [
+    "verb-clause-nouns-people-do"
+  ],
+  "props": {
+    "en": "an aim",
+    "jp": "意~図",
+    "tl": "い~と"
+  }
+}

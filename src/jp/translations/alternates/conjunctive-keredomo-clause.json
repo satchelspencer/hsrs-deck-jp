@@ -1,0 +1,18 @@
+{
+  "_id": "h4sqekg5b0f",
+  "desc": "more formal version of けど",
+  "mode": "----*",
+  "name": "conjunctive-keredomo-clause",
+  "order": "4",
+  "params": {
+    "clause": "conjuncting-clauses"
+  },
+  "parents": [
+    "alternates",
+    "conjunctions"
+  ],
+  "props": {
+    "en": "clause.en+' although'",
+    "jp": "clause.jp+'けれども'"
+  }
+}

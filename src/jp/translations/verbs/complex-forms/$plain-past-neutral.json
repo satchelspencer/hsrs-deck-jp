@@ -3,7 +3,7 @@
   "constraint": "verb",
   "desc": "used in constructing others",
   "mode": "*---**",
-  "name": "$plain-past",
+  "name": "$plain-past-neutral",
   "order": "3",
   "params": {
     "_rel": "verb-people-do-volitional",

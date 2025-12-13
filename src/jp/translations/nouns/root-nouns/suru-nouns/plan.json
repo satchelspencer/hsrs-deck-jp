@@ -10,7 +10,8 @@
     "de-location-verbs",
     "people-do-volitional",
     "wago-countable",
-    "relative-time-no"
+    "relative-time-no",
+    "verb-clause-nouns-people-do"
   ],
   "props": {
     "_pg": "making a plan",

@@ -1,0 +1,20 @@
+{
+  "_id": "b2gd7rvn4qt",
+  "constraint": "noun",
+  "desc": "",
+  "mode": "----p",
+  "name": "verb-clause-noun-pos",
+  "order": "3",
+  "params": {
+    "clause": "$verb-clause-noun",
+    "form": "conjunctive-noun-forms"
+  },
+  "parents": [
+    "clauses",
+    "common-verb-clause-noun"
+  ],
+  "props": {
+    "en": "form.en|rg(form.noun.en, '')+' '+clause.en",
+    "jp": "clause.jp|rg(clause.rel.noun.jp, form.jp)"
+  }
+}

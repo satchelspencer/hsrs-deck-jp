@@ -1,0 +1,14 @@
+{
+  "_id": "md5tkrhp5yb",
+  "desc": "potentiality, likelihood, chance",
+  "name": "possibility",
+  "order": "4.9",
+  "parents": [
+    "verb-clause-nouns-any"
+  ],
+  "props": {
+    "en": "possibility",
+    "jp": "可~能~性",
+    "tl": "か~のう~せい"
+  }
+}

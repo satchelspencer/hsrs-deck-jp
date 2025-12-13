@@ -1,0 +1,13 @@
+{
+  "_id": "8e3c27g6jwn",
+  "desc": "",
+  "name": "intention",
+  "order": "2",
+  "parents": [
+    "verb-clause-nouns-people-do"
+  ],
+  "props": {
+    "en": "intention",
+    "jp": "つもり"
+  }
+}

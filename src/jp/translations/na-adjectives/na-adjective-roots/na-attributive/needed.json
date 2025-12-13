@@ -4,10 +4,12 @@
   "name": "needed",
   "order": "2",
   "parents": [
-    "na-attributive"
+    "na-attributive",
+    "verb-clause-nouns-people-do"
   ],
   "props": {
     "_ad": "as needed",
+    "_vd": "need to",
     "en": "needed",
     "jp": "必要",
     "tl": "ひつよう"

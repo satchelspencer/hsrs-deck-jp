@@ -1,0 +1,18 @@
+{
+  "_id": "47a4s68pa33",
+  "constraint": "verb noun",
+  "mode": "*---**",
+  "name": "$verb-clause-noun",
+  "order": "2",
+  "params": {
+    "form": "plain-present",
+    "rel": "verb-clause-nouns-verb"
+  },
+  "parents": [
+    "sub-clauses"
+  ],
+  "props": {
+    "en": "rel.noun._vd+' '+form.en",
+    "jp": "form.jp+rel.noun.jp"
+  }
+}

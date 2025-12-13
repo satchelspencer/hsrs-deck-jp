@@ -1,7 +1,7 @@
 {
   "_id": "jdvotwd22kh",
   "constraint": "verb",
-  "mode": "--fs",
+  "mode": "cf",
   "name": "prohibitive-nakucha",
   "order": "3",
   "params": {
@@ -12,7 +12,7 @@
     "prohibitive-shorthands"
   ],
   "props": {
-    "en": "'must '+te.en|r(' and', '')",
+    "en": "'must '+te.en|rg('not', '')|r(' and', '')",
     "jp": "te.jp|rg('[てで].*$', 'ちゃ')",
     "tl": ""
   }

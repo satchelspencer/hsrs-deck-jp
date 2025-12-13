@@ -5,9 +5,11 @@
   "order": "3",
   "parents": [
     "people-no",
-    "good-bads"
+    "good-bads",
+    "verb-clause-nouns-people-do"
   ],
   "props": {
+    "_vd": "will to",
     "en": "spirit",
     "jp": "気",
     "tl": "き"

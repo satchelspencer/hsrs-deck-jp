@@ -1,0 +1,11 @@
+{
+  "_id": "qgtzdg72yd",
+  "desc": "some nouns for intention or possibility like つもり can be modified by a verb",
+  "name": "common-verb-clause-noun",
+  "parents": [
+    "common-forms"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

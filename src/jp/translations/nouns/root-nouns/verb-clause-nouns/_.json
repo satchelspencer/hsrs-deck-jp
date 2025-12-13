@@ -1,0 +1,13 @@
+{
+  "_id": "am3vwf8rfqk",
+  "desc": "verb clause nouns can be used after a verb to modify the meaning of the noun",
+  "name": "verb-clause-nouns",
+  "parents": [
+    "root-nouns",
+    "common-forms"
+  ],
+  "props": {
+    "_vd": "$.en+' to'"
+  },
+  "virtual": true
+}

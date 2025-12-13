@@ -1,0 +1,14 @@
+{
+  "_id": "16zvwryroup",
+  "desc": "hope, chance, probability",
+  "name": "prospect",
+  "order": "4",
+  "parents": [
+    "verb-clause-nouns-any"
+  ],
+  "props": {
+    "en": "prospect",
+    "jp": "見~込み",
+    "tl": "み~こみ"
+  }
+}

@@ -11,7 +11,8 @@
     "nda-verb-forms",
     "yo-ne-verb-forms",
     "relative-clause-verb-forms",
-    "non-past-dict-forms"
+    "non-past-dict-forms",
+    "plain-present"
   ],
   "props": {
     "en": "verb.en",

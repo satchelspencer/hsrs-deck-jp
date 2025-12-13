@@ -1,7 +1,7 @@
 {
   "_id": "8fcfxb6a8ca",
   "constraint": "noun verb",
-  "mode": "*",
+  "mode": "*---**",
   "name": "$relative-clause-neutral",
   "params": {
     "clause": "relative-clauses"

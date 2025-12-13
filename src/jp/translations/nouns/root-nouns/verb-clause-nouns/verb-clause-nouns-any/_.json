@@ -1,0 +1,10 @@
+{
+  "_id": "g8mwaqfnjed",
+  "name": "verb-clause-nouns-any",
+  "parents": [
+    "verb-clause-nouns"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

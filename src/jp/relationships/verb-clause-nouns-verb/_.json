@@ -1,0 +1,14 @@
+{
+  "_id": "gmnvblt7fpt",
+  "name": "verb-clause-nouns-verb",
+  "params": {
+    "noun": "verb-clause-nouns",
+    "verb": "root-verbs"
+  },
+  "parents": [
+    "relationships"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

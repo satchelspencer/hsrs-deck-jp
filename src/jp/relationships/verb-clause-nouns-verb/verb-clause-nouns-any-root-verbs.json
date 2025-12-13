@@ -1,0 +1,13 @@
+{
+  "_id": "b3w1yfkv6vc",
+  "name": "verb-clause-nouns-any-root-verbs",
+  "params": {
+    "noun": "verb-clause-nouns-any",
+    "verb": "root-verbs"
+  },
+  "parents": [
+    "verb-clause-nouns-verb"
+  ],
+  "props": {
+  }
+}

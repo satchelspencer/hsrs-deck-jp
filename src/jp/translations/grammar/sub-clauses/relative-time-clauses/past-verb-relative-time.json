@@ -1,8 +1,7 @@
 {
   "_id": "pvz28um08y7",
-  "mode": "*",
+  "mode": "*---*",
   "name": "past-verb-relative-time",
-  "order": "",
   "params": {
     "expr": "past-relative-time-exprs",
     "root": "plain-past"

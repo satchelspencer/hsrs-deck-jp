@@ -2,12 +2,12 @@
   "_id": "tn62nggpfd",
   "constraint": "verb",
   "desc": "refers to having done something before, こと is not interchangable with の in this case",
-  "mode": "-----N",
+  "mode": "-----n",
   "name": "verb-koto-aru",
   "order": "3",
   "params": {
     "_aru": "$aru-form",
-    "form": "$plain-past"
+    "form": "$plain-past-neutral"
   },
   "parents": [
     "complex-forms"

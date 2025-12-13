@@ -1,0 +1,13 @@
+{
+  "_id": "k3bmbmy7ctr",
+  "name": "verb-clause-nouns-people-do-people-do-volitional",
+  "params": {
+    "noun": "verb-clause-nouns-people-do",
+    "verb": "people-do-volitional"
+  },
+  "parents": [
+    "verb-clause-nouns-verb"
+  ],
+  "props": {
+  }
+}

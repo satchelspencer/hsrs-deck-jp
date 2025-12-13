@@ -10,7 +10,8 @@
     "plain-forms",
     "nda-verb-forms",
     "yo-ne-verb-forms",
-    "non-past-dict-forms"
+    "non-past-dict-forms",
+    "plain-present"
   ],
   "props": {
     "en": "'not '+verb.en",
