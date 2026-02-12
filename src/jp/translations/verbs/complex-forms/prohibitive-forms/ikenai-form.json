@@ -9,6 +9,6 @@
     "prohibitive-forms"
   ],
   "props": {
-    "en": "(ik.en+' '+te.en|r(' and', ''))|rg('not ', '')"
+    "en": "(ik.en+' '+te.en|r(' and', ''))|rg('not.*not', '')"
   }
 }

@@ -6,15 +6,15 @@
   "name": "verb-clause-noun-pos",
   "order": "3",
   "params": {
-    "clause": "$verb-clause-noun",
-    "form": "conjunctive-noun-forms"
+    "_form": "conjunctive-noun-forms",
+    "clause": "$verb-clause-noun"
   },
   "parents": [
     "clauses",
     "common-verb-clause-noun"
   ],
   "props": {
-    "en": "form.en|rg(form.noun.en, '')+' '+clause.en",
-    "jp": "clause.jp|rg(clause.rel.noun.jp, form.jp)"
+    "en": "_form.en|rg(_form.noun.en, '')+' '+clause.en",
+    "jp": "clause.jp|rg(clause.rel.noun.jp, _form.jp)"
   }
 }

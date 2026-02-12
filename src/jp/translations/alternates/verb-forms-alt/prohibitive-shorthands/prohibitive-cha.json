@@ -2,7 +2,7 @@
   "_id": "9934ta9vrw9",
   "constraint": "verb",
   "desc": "て-form becomes ち or じ",
-  "mode": "cf",
+  "mode": "cf--a",
   "name": "prohibitive-cha",
   "order": "3",
   "params": {

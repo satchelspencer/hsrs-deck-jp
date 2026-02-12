@@ -2,7 +2,7 @@
   "_id": "f61ujhsjvt9",
   "constraint": "noun",
   "desc": "you can negate a verb modified noun with forms of ある",
-  "mode": "----n*",
+  "mode": "----n",
   "name": "verb-clause-noun-neg",
   "order": "3",
   "params": {

@@ -1,7 +1,7 @@
 {
   "_id": "jdvotwd22kh",
   "constraint": "verb",
-  "mode": "cf",
+  "mode": "cf--a",
   "name": "prohibitive-nakucha",
   "order": "3",
   "params": {
