@@ -11,9 +11,11 @@
   "parents": [
     "clauses",
     "const-noun-clauses",
-    "common-he"
+    "common-he",
+    "wa-stack-clauses"
   ],
   "props": {
+    "_pn": "there",
     "en": "form.en+' towards the '+noun.en",
     "jp": "noun.jp+'へ'+form.jp",
     "tl": "noun.tl+'え'+form.tl"

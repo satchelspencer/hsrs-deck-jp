@@ -10,10 +10,11 @@
   "parents": [
     "clauses",
     "const-noun-clauses",
-    "common-to-with"
+    "common-to-with",
+    "wa-stack-clauses"
   ],
   "props": {
     "en": "form.en+' with '+rel.noun.en",
-    "jp": "rel.noun.jp+'と'+form.jp"
+    "jp": "rel.noun.jp+'@と'+form.jp"
   }
 }

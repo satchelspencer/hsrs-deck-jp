@@ -1,0 +1,17 @@
+{
+  "_id": "mcxrl8z2kj",
+  "desc": "も can replace を, it can be ambiguous with が",
+  "name": "noun-mo-wo-clause",
+  "order": "3",
+  "params": {
+    "clause": "wo-and-wa-clauses"
+  },
+  "parents": [
+    "common-mo-topic"
+  ],
+  "props": {
+    "en": "'also '+clause.en",
+    "jp": "clause.jp|rg('@を', 'も')",
+    "tl": "clause.tl|rg('@を', 'も')"
+  }
+}

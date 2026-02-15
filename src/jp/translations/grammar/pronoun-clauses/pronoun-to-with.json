@@ -9,10 +9,12 @@
   },
   "parents": [
     "pronoun-clauses",
-    "common-to-with"
+    "common-to-with",
+    "wa-stack-clauses"
   ],
   "props": {
+    "_pn": "them",
     "en": "form.en+' with '+rel.pn.en",
-    "jp": "rel.pn.jp+'と'+form.jp"
+    "jp": "rel.pn.jp+'@と'+form.jp"
   }
 }

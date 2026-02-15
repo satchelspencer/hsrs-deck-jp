@@ -1,0 +1,17 @@
+{
+  "_id": "yr8ay18nb9k",
+  "desc": "は can replace を, it can be ambiguous with が",
+  "name": "noun-wa-stack-clause",
+  "order": "3",
+  "params": {
+    "clause": "wa-stack-clauses"
+  },
+  "parents": [
+    "common-wa-topic"
+  ],
+  "props": {
+    "en": "'as for '+(clause.rel.noun.en || clause.rel.pn.en || clause.pn.en)+', '+clause.en|rg(' '+(clause.rel.noun.en || clause.rel.pn.en || clause.pn.en), '')|rg(' in', '')|rg(' the', '')|rg(' at', '')+' '+clause._pn",
+    "jp": "clause.jp|rg('@(.)', '$1は')",
+    "tl": "clause.tl|rg('@(.)', '$1わ')"
+  }
+}

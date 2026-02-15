@@ -1,0 +1,17 @@
+{
+  "_id": "c4buiqz88zw",
+  "desc": "も can replace を, it can be ambiguous with が",
+  "name": "noun-mo-stack-clause",
+  "order": "4",
+  "params": {
+    "clause": "wa-stack-clauses"
+  },
+  "parents": [
+    "common-mo-topic"
+  ],
+  "props": {
+    "en": "'also '+clause.en",
+    "jp": "clause.jp|rg('@(.)', '$1も')",
+    "tl": "clause.tl|rg('@(.)', '$1も')"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "_id": "nche9ph072h",
+  "name": "wa-stack-clauses",
+  "parents": [
+    "sub-clauses"
+  ],
+  "props": {
+    "_pn": "it"
+  },
+  "virtual": true
+}

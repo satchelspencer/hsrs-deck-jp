@@ -10,10 +10,11 @@
   "parents": [
     "pronoun-clauses",
     "pronoun-temporal-verb-clauses",
-    "common-de-with"
+    "common-de-with",
+    "wa-stack-clauses"
   ],
   "props": {
     "en": "form.en+' with '+rel.pn.en",
-    "jp": "rel.pn.jp+'で'+form.jp"
+    "jp": "rel.pn.jp+'@で'+form.jp"
   }
 }

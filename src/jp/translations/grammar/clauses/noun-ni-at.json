@@ -10,10 +10,12 @@
   "parents": [
     "clauses",
     "const-noun-clauses",
-    "common-ni-at"
+    "common-ni-at",
+    "wa-stack-clauses"
   ],
   "props": {
+    "_pn": "there",
     "en": "form.en+' at the '+rel.noun.en",
-    "jp": "rel.noun.jp+'に'+form.jp"
+    "jp": "rel.noun.jp+'@に'+form.jp"
   }
 }

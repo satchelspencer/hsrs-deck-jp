@@ -14,6 +14,6 @@
   ],
   "props": {
     "en": "form.en|rg(' it', '')+' '+rel.qw.en",
-    "jp": "rel.qw.jp+'@を'+form.jp"
+    "jp": "rel.qw.jp+'を'+form.jp"
   }
 }

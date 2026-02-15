@@ -1,0 +1,17 @@
+{
+  "_id": "bsp2ohhjocn",
+  "desc": "は can replace を, it can be ambiguous with が",
+  "name": "noun-wa-wo-clause",
+  "order": "2",
+  "params": {
+    "clause": "wo-and-wa-clauses"
+  },
+  "parents": [
+    "common-wa-topic"
+  ],
+  "props": {
+    "en": "'as for '+(clause.rel.noun.en || clause.rel.pn.en)+', '+clause.en|rg(' '+(clause.rel.noun.en || clause.rel.pn.en), '')|rg('the', '')+' it'",
+    "jp": "clause.jp|rg('@を', 'は')",
+    "tl": "clause.tl|rg('@を', 'わ')"
+  }
+}
