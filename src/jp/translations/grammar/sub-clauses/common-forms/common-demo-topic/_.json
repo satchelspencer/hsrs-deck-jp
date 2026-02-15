@@ -1,0 +1,11 @@
+{
+  "_id": "m3m8odn0zth",
+  "desc": "でも, literally 'even also' can replace other particles like は",
+  "name": "common-demo-topic",
+  "parents": [
+    "common-forms"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

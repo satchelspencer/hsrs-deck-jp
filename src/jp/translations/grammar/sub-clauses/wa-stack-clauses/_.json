@@ -5,7 +5,8 @@
     "sub-clauses"
   ],
   "props": {
-    "_pn": "it"
+    "_pn": "it",
+    "_pq": "something"
   },
   "virtual": true
 }

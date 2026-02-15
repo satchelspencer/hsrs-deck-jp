@@ -7,6 +7,7 @@
     "ka-question-ungated"
   ],
   "props": {
+    "_dm": "anywhere",
     "_ka": "somewhere",
     "_mo": "everywhere",
     "en": "where",

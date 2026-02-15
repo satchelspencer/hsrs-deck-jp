@@ -8,6 +8,7 @@
     "ka-question-gated"
   ],
   "props": {
+    "_dm": "anybody",
     "_ka": "someone",
     "_mo": "nobody",
     "en": "who",

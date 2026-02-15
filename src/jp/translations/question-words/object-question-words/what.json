@@ -7,6 +7,7 @@
     "ka-question-gated"
   ],
   "props": {
+    "_dm": "anything",
     "_ka": "something",
     "_mo": "nothing",
     "en": "what",

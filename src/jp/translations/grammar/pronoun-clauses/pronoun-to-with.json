@@ -14,6 +14,7 @@
   ],
   "props": {
     "_pn": "them",
+    "_pq": "someone",
     "en": "form.en+' with '+rel.pn.en",
     "jp": "rel.pn.jp+'@と'+form.jp"
   }

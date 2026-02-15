@@ -1,0 +1,18 @@
+{
+  "_id": "m4rq7y5dpeq",
+  "constraint": "qw",
+  "desc": "question words with でも mean anything, anywhere etc",
+  "name": "question-qwdemo-clause",
+  "order": "4",
+  "params": {
+    "clause": "const-qw-clauses",
+    "qw": "ka-question-words"
+  },
+  "parents": [
+    "common-qwkamo"
+  ],
+  "props": {
+    "en": "clause.en|rg(qw.en, qw._dm)",
+    "jp": "clause.jp|rg(qw.jp+'@.', qw.jp+'でも')"
+  }
+}

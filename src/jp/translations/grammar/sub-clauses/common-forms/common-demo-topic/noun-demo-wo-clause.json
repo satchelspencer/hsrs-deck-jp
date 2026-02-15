@@ -1,0 +1,17 @@
+{
+  "_id": "nhimnxyfpi",
+  "desc": "でも replacing Xを means X or something",
+  "name": "noun-demo-wo-clause",
+  "order": "3",
+  "params": {
+    "clause": "wo-and-wa-clauses"
+  },
+  "parents": [
+    "common-demo-topic"
+  ],
+  "props": {
+    "en": "clause.en+' or something'",
+    "jp": "clause.jp|rg('@を', 'でも')",
+    "tl": "clause.tl|rg('@を', 'でも')"
+  }
+}

@@ -13,7 +13,7 @@
     "const-qw-clauses"
   ],
   "props": {
-    "en": "rel.qw.en+' '+form.en",
+    "en": "form.en+' '+rel.qw.en",
     "jp": "rel.qw.jp+'@に'+form.jp"
   }
 }

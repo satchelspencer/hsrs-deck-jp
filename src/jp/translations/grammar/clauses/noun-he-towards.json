@@ -16,6 +16,7 @@
   ],
   "props": {
     "_pn": "there",
+    "_pq": "somewhere",
     "en": "form.en+' towards the '+noun.en",
     "jp": "noun.jp+'へ'+form.jp",
     "tl": "noun.tl+'え'+form.tl"

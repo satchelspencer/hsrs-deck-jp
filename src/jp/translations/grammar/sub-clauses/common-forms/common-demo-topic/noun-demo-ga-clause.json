@@ -1,0 +1,17 @@
+{
+  "_id": "7f7ct77mctg",
+  "desc": "でも replacing Xが means even X",
+  "name": "noun-demo-ga-clause",
+  "order": "3",
+  "params": {
+    "clause": "ga-and-wa-clauses"
+  },
+  "parents": [
+    "common-demo-topic"
+  ],
+  "props": {
+    "en": "'even '+clause.en",
+    "jp": "clause.jp|rg('@が', 'でも')",
+    "tl": "clause.tl|rg('@が', 'でも')"
+  }
+}

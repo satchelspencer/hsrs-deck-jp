@@ -1,0 +1,17 @@
+{
+  "_id": "8u2enjocup",
+  "desc": "X particle と,に,へ,で + でも means X 'or something'",
+  "name": "noun-demo-stack-clause",
+  "order": "4",
+  "params": {
+    "clause": "wa-stack-clauses"
+  },
+  "parents": [
+    "common-demo-topic"
+  ],
+  "props": {
+    "en": "clause.en+' or '+clause._pq",
+    "jp": "clause.jp|rg('@(.)', '$1でも')",
+    "tl": "clause.tl|rg('@(.)', '$1でも')"
+  }
+}
