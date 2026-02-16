@@ -1,6 +1,6 @@
 {
   "_id": "rf4bdgps08a",
-  "constraint": "iadj",
+  "constraint": "iadj verb",
   "name": "i-adjective-ne",
   "order": "2",
   "params": {

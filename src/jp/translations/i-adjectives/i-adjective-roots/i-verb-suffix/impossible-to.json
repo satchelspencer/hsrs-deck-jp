@@ -1,0 +1,15 @@
+{
+  "_id": "qc7etzxrfv",
+  "name": "impossible-to",
+  "order": "3",
+  "params": {
+    "verb": "people-do-volitional"
+  },
+  "parents": [
+    "i-verb-suffix"
+  ],
+  "props": {
+    "en": "'impossible to '+form.form.en",
+    "jp": "form.jp+'がたい'"
+  }
+}

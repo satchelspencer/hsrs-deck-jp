@@ -1,0 +1,16 @@
+{
+  "_id": "g2j73et524j",
+  "desc": "can also mean likely to",
+  "name": "easy-to",
+  "order": "2",
+  "params": {
+    "verb": "people-do-volitional"
+  },
+  "parents": [
+    "i-verb-suffix"
+  ],
+  "props": {
+    "en": "'easy to '+form.form.en",
+    "jp": "form.jp+'やすい'"
+  }
+}

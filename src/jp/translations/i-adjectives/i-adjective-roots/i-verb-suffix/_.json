@@ -1,0 +1,17 @@
+{
+  "_id": "ulm1c6alj7n",
+  "constraint": "verb",
+  "desc": "some い-adjectives can attach to the stem form of verbs to describe something that easy/hard etc to do",
+  "name": "i-verb-suffix",
+  "params": {
+    "form": "$stem-form",
+    "verb": "root-verbs"
+  },
+  "parents": [
+    "i-adjective-roots",
+    "i-attributive-standard"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

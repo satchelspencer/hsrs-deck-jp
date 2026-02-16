@@ -1,0 +1,15 @@
+{
+  "_id": "zkwftoiaink",
+  "name": "hard-to",
+  "order": "2",
+  "params": {
+    "verb": "people-do-volitional"
+  },
+  "parents": [
+    "i-verb-suffix"
+  ],
+  "props": {
+    "en": "'hard to '+form.form.en",
+    "jp": "form.jp+'にくい'"
+  }
+}

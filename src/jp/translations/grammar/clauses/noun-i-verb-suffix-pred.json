@@ -1,0 +1,20 @@
+{
+  "_id": "mm2nticex2g",
+  "constraint": "verb iadj noun",
+  "name": "noun-i-verb-suffix-pred",
+  "order": "3",
+  "params": {
+    "iadj": "i-verb-suffix",
+    "iform": "i-predicate-forms",
+    "rel": "noun-wo-verb"
+  },
+  "parents": [
+    "clauses",
+    "common-ga-sub",
+    "ga-and-wa-clauses"
+  ],
+  "props": {
+    "en": "rel.noun.en+' '+iform.en",
+    "jp": "rel.noun.jp+'@が'+iform.jp"
+  }
+}

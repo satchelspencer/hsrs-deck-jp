@@ -1,0 +1,19 @@
+{
+  "_id": "qkflgt1t2pf",
+  "constraint": "verb iadj noun",
+  "name": "i-verb-suffix-attr-noun",
+  "order": "3",
+  "params": {
+    "iadj": "i-verb-suffix",
+    "iform": "i-attributive-forms",
+    "rel": "noun-wo-verb"
+  },
+  "parents": [
+    "clauses",
+    "relative-clauses"
+  ],
+  "props": {
+    "en": "rel.noun.en+' that is '+iform.en",
+    "jp": "iform.jp+rel.noun.jp"
+  }
+}

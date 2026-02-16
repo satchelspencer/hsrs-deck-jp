@@ -1,0 +1,15 @@
+{
+  "_id": "6ow0l6tubse",
+  "name": "painful-to",
+  "order": "3",
+  "params": {
+    "verb": "people-do-volitional"
+  },
+  "parents": [
+    "i-verb-suffix"
+  ],
+  "props": {
+    "en": "'painful to '+form.form.en",
+    "jp": "form.jp+'づらい'"
+  }
+}
