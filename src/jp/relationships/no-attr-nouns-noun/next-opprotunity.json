@@ -3,7 +3,7 @@
   "name": "next-opprotunity",
   "params": {
     "no": "next",
-    "noun": "opprotunity"
+    "noun": "opportunity"
   },
   "parents": [
     "no-attr-nouns-noun"
