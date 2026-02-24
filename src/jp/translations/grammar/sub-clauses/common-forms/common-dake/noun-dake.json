@@ -10,6 +10,7 @@
     "noun-suffix-forms"
   ],
   "props": {
+    "en": "s('only ')+form.en",
     "jp": "form.jp+'だけだ'"
   }
 }

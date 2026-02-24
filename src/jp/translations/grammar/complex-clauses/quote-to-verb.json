@@ -13,6 +13,6 @@
   ],
   "props": {
     "en": "form.en|rg(' it', '')+' \"'+clause.en+'\"'",
-    "jp": "'「'+clause.jp+b()+'」と'+form.jp"
+    "jp": "'「'+b()+clause.jp+b()+'」と'+form.jp"
   }
 }

@@ -3,7 +3,8 @@
   "name": "gradually",
   "order": "3",
   "parents": [
-    "verb-adverbs"
+    "verb-adverbs",
+    "clause-adverbs"
   ],
   "props": {
     "en": "gradually",

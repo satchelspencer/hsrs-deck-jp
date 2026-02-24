@@ -7,7 +7,7 @@
     "common-forms"
   ],
   "props": {
-    "en": "'*only* '+form.en"
+    "en": "'only '+form.en"
   },
   "virtual": true
 }
