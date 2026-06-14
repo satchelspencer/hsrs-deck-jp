@@ -1,0 +1,17 @@
+{
+  "_id": "o1vb3ztstka",
+  "name": "r尽",
+  "order": "3.2.5.9.2.1",
+  "params": {
+    "_g": "尽",
+    "_r": "m尽"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "尽"
+  }
+}

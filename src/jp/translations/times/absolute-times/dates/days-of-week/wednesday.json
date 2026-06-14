@@ -2,7 +2,10 @@
   "_id": "7qgzydrvdh3",
   "name": "wednesday",
   "parents": [
-    "days-of-week"
+    "days-of-week",
+    "u水",
+    "u曜",
+    "u日"
   ],
   "props": {
     "en": "wednesday",

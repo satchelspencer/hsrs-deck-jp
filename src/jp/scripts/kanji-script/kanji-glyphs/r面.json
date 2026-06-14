@@ -1,0 +1,17 @@
+{
+  "_id": "te0hy0kr5dn",
+  "name": "r面",
+  "order": "1.2.5.0.1.1",
+  "params": {
+    "_g": "面",
+    "_r": "m面"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "9",
+    "jp": "面"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "nruvpe0fuhi",
+  "name": "禾私",
+  "order": "1.6.0.2.9",
+  "params": {
+    "_g": "私",
+    "_r": "m禾"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "禾"
+  }
+}

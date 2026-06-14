@@ -6,7 +6,9 @@
   "parents": [
     "activities",
     "events",
-    "do-togethers"
+    "do-togethers",
+    "u旅",
+    "u行"
   ],
   "props": {
     "en": "trip",

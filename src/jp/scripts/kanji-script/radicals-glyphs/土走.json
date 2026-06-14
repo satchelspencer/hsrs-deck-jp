@@ -1,0 +1,17 @@
+{
+  "_id": "5qlu8v3vika",
+  "name": "土走",
+  "order": "1.6.6.4.0",
+  "params": {
+    "_g": "走",
+    "_r": "m土"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "土"
+  }
+}

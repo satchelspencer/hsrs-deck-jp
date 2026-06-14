@@ -4,7 +4,9 @@
   "order": "2",
   "parents": [
     "places",
-    "kakoku-countable"
+    "kakoku-countable",
+    "u外",
+    "u国"
   ],
   "props": {
     "en": "foreign country",

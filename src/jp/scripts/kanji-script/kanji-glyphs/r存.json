@@ -1,0 +1,17 @@
+{
+  "_id": "85p7uvqo7cb",
+  "name": "r存",
+  "order": "4.5.9.2.4.1",
+  "params": {
+    "_g": "存",
+    "_r": "m存"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "存"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "t6wy0av82bs",
+  "name": "民眠",
+  "order": "1.9.4.6.0",
+  "params": {
+    "_g": "眠",
+    "_r": "m民"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "5",
+    "jp": "民"
+  }
+}

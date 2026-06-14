@@ -1,0 +1,17 @@
+{
+  "_id": "73csd3rlqd8",
+  "name": "寸対",
+  "order": "4.1.1.9.8",
+  "params": {
+    "_g": "対",
+    "_r": "m寸"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "3",
+    "jp": "寸"
+  }
+}

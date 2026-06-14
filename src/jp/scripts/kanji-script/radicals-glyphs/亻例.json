@@ -1,0 +1,18 @@
+{
+  "_id": "do9mf1l77au",
+  "desc": "variant of 人",
+  "name": "亻例",
+  "order": "4.6.3.5.2",
+  "params": {
+    "_g": "例",
+    "_r": "m亻"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "2",
+    "jp": "亻"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "cka933bs7k7",
+  "name": "立泣",
+  "order": "3.5.5.9.5",
+  "params": {
+    "_g": "泣",
+    "_r": "m立"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "5",
+    "jp": "立"
+  }
+}

@@ -5,7 +5,9 @@
   "order": "4",
   "parents": [
     "abstracts",
-    "wago-countable"
+    "wago-countable",
+    "u手",
+    "u段"
   ],
   "props": {
     "en": "means",

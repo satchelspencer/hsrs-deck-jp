@@ -1,0 +1,17 @@
+{
+  "_id": "bnxccy676ql",
+  "name": "r気",
+  "order": "1.1.8.3.8.1",
+  "params": {
+    "_g": "気",
+    "_r": "m気"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "気"
+  }
+}

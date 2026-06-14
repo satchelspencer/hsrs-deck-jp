@@ -1,0 +1,17 @@
+{
+  "_id": "dgw6qlqis09",
+  "name": "r片",
+  "order": "3.9.3.5.5.1",
+  "params": {
+    "_g": "片",
+    "_r": "m片"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "片"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "_id": "1ck4kssl8u3",
+  "name": "能態",
+  "order": "3.1.2.3.5",
+  "params": {
+    "_1": "䏍態",
+    "_g": "態",
+    "_r": "m能"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "10",
+    "jp": "能"
+  }
+}

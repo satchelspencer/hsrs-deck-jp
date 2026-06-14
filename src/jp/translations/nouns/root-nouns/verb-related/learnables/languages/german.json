@@ -3,7 +3,8 @@
   "name": "german",
   "order": "3",
   "parents": [
-    "languages"
+    "languages",
+    "u語"
   ],
   "props": {
     "en": "german",

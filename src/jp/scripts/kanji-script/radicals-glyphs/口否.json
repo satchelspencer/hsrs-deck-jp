@@ -1,0 +1,17 @@
+{
+  "_id": "x0t1j27lp4o",
+  "name": "口否",
+  "order": "4.9.4.6.2",
+  "params": {
+    "_g": "否",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

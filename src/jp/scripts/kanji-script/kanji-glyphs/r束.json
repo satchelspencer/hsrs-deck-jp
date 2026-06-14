@@ -1,0 +1,18 @@
+{
+  "_id": "c03xu0udcll",
+  "name": "r束",
+  "order": "2.3.5.0.2.1",
+  "params": {
+    "_1": "口束",
+    "_g": "束",
+    "_r": "m束"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "7",
+    "jp": "束"
+  }
+}

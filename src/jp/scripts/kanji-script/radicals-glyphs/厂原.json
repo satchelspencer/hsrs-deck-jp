@@ -1,0 +1,17 @@
+{
+  "_id": "xlccfbxkuvf",
+  "name": "厂原",
+  "order": "1.9.4.0.8",
+  "params": {
+    "_g": "原",
+    "_r": "m厂"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "2",
+    "jp": "厂"
+  }
+}

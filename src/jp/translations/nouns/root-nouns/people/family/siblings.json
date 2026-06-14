@@ -3,7 +3,9 @@
   "name": "siblings",
   "order": "2",
   "parents": [
-    "family"
+    "family",
+    "u兄",
+    "u弟"
   ],
   "props": {
     "en": "siblings",

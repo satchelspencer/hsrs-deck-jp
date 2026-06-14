@@ -4,7 +4,9 @@
   "name": "article",
   "order": "3",
   "parents": [
-    "media"
+    "media",
+    "u記",
+    "u事"
   ],
   "props": {
     "en": "article",

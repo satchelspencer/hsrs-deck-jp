@@ -4,7 +4,9 @@
   "order": "3",
   "parents": [
     "na-nouns",
-    "na-people-do"
+    "na-people-do",
+    "u複",
+    "u雑"
   ],
   "props": {
     "_at": "complex",

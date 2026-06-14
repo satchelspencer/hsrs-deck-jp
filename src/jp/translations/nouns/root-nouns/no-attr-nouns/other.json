@@ -3,7 +3,8 @@
   "name": "other",
   "order": "4",
   "parents": [
-    "no-attr-nouns"
+    "no-attr-nouns",
+    "u他"
   ],
   "props": {
     "en": "other",

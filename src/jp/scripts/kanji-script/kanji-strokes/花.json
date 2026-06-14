@@ -1,0 +1,15 @@
+{
+  "_id": "e1nz7nacbt6",
+  "name": "花",
+  "order": "1.6.0.3.0",
+  "params": {
+    "_wd": "u花"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "花",
+    "_st": "BwRNER5jAwEGAQkAYxCBJIU5hWMCAAUABwEDTSAQYwEBAgIDA2MBBgUUBRUDTUcNYwABAAMABWOCB4YThxUDTSYwYwACAAOBBEMhPBlGFEsETR9CYwEBAQIBA2MABwAQABhjAAIABAAGA01UMmMAAoEDggRjhQSLB5MKBU06LGMBAQIDAgVjAAMAFQAfQzxdP15NXmMQABKDEos"
+  }
+}

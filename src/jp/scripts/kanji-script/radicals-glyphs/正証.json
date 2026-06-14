@@ -1,0 +1,17 @@
+{
+  "_id": "3so0t8trbjk",
+  "name": "正証",
+  "order": "4.2.6.6.1",
+  "params": {
+    "_g": "証",
+    "_r": "m正"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "5",
+    "jp": "正"
+  }
+}

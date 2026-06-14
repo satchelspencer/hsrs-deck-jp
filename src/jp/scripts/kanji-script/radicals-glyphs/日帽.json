@@ -1,0 +1,18 @@
+{
+  "_id": "w5qh2dxtcqd",
+  "desc": "variant of 曰",
+  "name": "日帽",
+  "order": "1.9.9.3.8",
+  "params": {
+    "_g": "帽",
+    "_r": "m日"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "4",
+    "jp": "日"
+  }
+}

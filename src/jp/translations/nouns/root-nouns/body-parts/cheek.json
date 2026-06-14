@@ -5,7 +5,8 @@
   "order": "4",
   "parents": [
     "body-parts",
-    "symmetric-body-parts"
+    "symmetric-body-parts",
+    "u頬"
   ],
   "props": {
     "en": "cheek",

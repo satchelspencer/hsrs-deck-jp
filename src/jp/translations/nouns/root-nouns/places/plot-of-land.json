@@ -4,7 +4,9 @@
   "name": "plot-of-land",
   "order": "4",
   "parents": [
-    "places"
+    "places",
+    "u土",
+    "u地"
   ],
   "props": {
     "en": "plot of land",

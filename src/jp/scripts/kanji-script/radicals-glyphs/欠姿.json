@@ -1,0 +1,17 @@
+{
+  "_id": "lzdofrg3vuz",
+  "name": "欠姿",
+  "order": "4.1.1.7.2",
+  "params": {
+    "_g": "姿",
+    "_r": "m欠"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "3",
+    "_sl": "4",
+    "jp": "欠"
+  }
+}

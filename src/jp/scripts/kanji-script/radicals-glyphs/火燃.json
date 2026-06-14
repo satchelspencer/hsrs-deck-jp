@@ -1,0 +1,17 @@
+{
+  "_id": "7tlkp9eps5l",
+  "name": "火燃",
+  "order": "4.4.0.8.1",
+  "params": {
+    "_g": "燃",
+    "_r": "m火"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "火"
+  }
+}

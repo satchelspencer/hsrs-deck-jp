@@ -1,0 +1,17 @@
+{
+  "_id": "hiixxiw73q3",
+  "name": "矢族",
+  "order": "2.4.4.8.6",
+  "params": {
+    "_g": "族",
+    "_r": "m矢"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "5",
+    "jp": "矢"
+  }
+}

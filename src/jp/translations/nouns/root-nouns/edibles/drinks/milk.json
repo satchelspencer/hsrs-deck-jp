@@ -4,7 +4,9 @@
   "order": "2",
   "parents": [
     "drinks",
-    "raws"
+    "raws",
+    "u牛",
+    "u乳"
   ],
   "props": {
     "en": "milk",

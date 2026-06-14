@@ -4,7 +4,9 @@
   "name": "captain",
   "order": "3",
   "parents": [
-    "leaders"
+    "leaders",
+    "u船",
+    "u長"
   ],
   "props": {
     "en": "ship captain",

@@ -5,7 +5,8 @@
   "order": "3",
   "parents": [
     "ichidan",
-    "do-to-quantities"
+    "do-to-quantities",
+    "u足"
   ],
   "props": {
     "en": "be enough",

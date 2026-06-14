@@ -1,0 +1,17 @@
+{
+  "_id": "s3ibn7p4bnt",
+  "name": "r百",
+  "order": "1.2.6.6.8.1",
+  "params": {
+    "_g": "百",
+    "_r": "m百"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "百"
+  }
+}

@@ -4,7 +4,8 @@
   "order": "2",
   "parents": [
     "kire-countable",
-    "foods"
+    "foods",
+    "u餅"
   ],
   "props": {
     "en": "mochi",

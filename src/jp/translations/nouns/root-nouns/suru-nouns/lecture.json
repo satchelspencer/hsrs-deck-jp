@@ -4,7 +4,9 @@
   "order": "3",
   "parents": [
     "suru-nouns",
-    "people-do-volitional"
+    "people-do-volitional",
+    "u講",
+    "u義"
   ],
   "props": {
     "_v": "give a lecture",

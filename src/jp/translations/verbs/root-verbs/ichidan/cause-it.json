@@ -5,7 +5,8 @@
   "order": "3",
   "parents": [
     "ichidan",
-    "events-do"
+    "events-do",
+    "u生"
   ],
   "props": {
     "en": "cause it",

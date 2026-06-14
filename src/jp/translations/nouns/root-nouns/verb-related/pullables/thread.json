@@ -4,7 +4,8 @@
   "name": "thread",
   "order": "3",
   "parents": [
-    "pullables"
+    "pullables",
+    "u糸"
   ],
   "props": {
     "en": "thread",

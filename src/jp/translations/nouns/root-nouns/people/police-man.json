@@ -3,7 +3,8 @@
   "name": "police-man",
   "order": "2",
   "parents": [
-    "people"
+    "people",
+    "u巡"
   ],
   "props": {
     "en": "police man",

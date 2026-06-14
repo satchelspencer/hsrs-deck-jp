@@ -1,0 +1,17 @@
+{
+  "_id": "xfetwzjdzdl",
+  "name": "r忙",
+  "order": "1.5.5.3.5.1",
+  "params": {
+    "_g": "忙",
+    "_r": "m忙"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "忙"
+  }
+}

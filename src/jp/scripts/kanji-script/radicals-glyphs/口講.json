@@ -1,0 +1,17 @@
+{
+  "_id": "ggka8v4cw79",
+  "name": "口講",
+  "order": "3.9.2.1.1",
+  "params": {
+    "_g": "講",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

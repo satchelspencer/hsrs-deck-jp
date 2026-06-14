@@ -1,0 +1,18 @@
+{
+  "_id": "hzp41tbm3e8",
+  "desc": "variant of 曰",
+  "name": "日踏",
+  "order": "3.6.3.2.0",
+  "params": {
+    "_g": "踏",
+    "_r": "m日"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "12",
+    "_sl": "4",
+    "jp": "日"
+  }
+}

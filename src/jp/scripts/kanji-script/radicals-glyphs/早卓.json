@@ -1,0 +1,19 @@
+{
+  "_id": "zirqgfkq2dg",
+  "name": "早卓",
+  "order": "2.9.1.9.4",
+  "params": {
+    "_1": "日卓",
+    "_2": "十卓",
+    "_g": "卓",
+    "_r": "m早"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "3",
+    "_sl": "6",
+    "jp": "早"
+  }
+}

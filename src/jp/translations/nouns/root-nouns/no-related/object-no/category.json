@@ -4,7 +4,9 @@
   "name": "category",
   "order": "3",
   "parents": [
-    "object-no"
+    "object-no",
+    "u種",
+    "u類"
   ],
   "props": {
     "en": "category",

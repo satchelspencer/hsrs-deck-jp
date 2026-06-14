@@ -6,7 +6,10 @@
   "parents": [
     "transports",
     "flying-things",
-    "reservables"
+    "reservables",
+    "u飛",
+    "u行",
+    "u機"
   ],
   "props": {
     "en": "airplane",

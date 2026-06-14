@@ -4,7 +4,9 @@
   "name": "midpoint",
   "order": "4",
   "parents": [
-    "positional-words"
+    "positional-words",
+    "u中",
+    "u央"
   ],
   "props": {
     "en": "midpoint",

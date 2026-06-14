@@ -4,7 +4,9 @@
   "name": "anatomical-body",
   "order": "4",
   "parents": [
-    "people-no"
+    "people-no",
+    "u身",
+    "u体"
   ],
   "props": {
     "en": "anatomical body",

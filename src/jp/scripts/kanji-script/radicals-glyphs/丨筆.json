@@ -1,0 +1,17 @@
+{
+  "_id": "4dfkca83cjg",
+  "name": "丨筆",
+  "order": "2.6.7.7.5",
+  "params": {
+    "_g": "筆",
+    "_r": "m丨"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "12",
+    "_sl": "1",
+    "jp": "丨"
+  }
+}

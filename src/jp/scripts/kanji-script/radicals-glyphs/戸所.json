@@ -1,0 +1,17 @@
+{
+  "_id": "gfa2shmhdby",
+  "name": "戸所",
+  "order": "2.2.2.8.0",
+  "params": {
+    "_g": "所",
+    "_r": "m戸"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "戸"
+  }
+}

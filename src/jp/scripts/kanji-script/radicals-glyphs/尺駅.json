@@ -1,0 +1,17 @@
+{
+  "_id": "q3wwdftg8f2",
+  "name": "尺駅",
+  "order": "1.5.0.1.8",
+  "params": {
+    "_g": "駅",
+    "_r": "m尺"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "11",
+    "_sl": "4",
+    "jp": "尺"
+  }
+}

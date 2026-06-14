@@ -5,7 +5,9 @@
   "order": "1",
   "parents": [
     "people",
-    "school-no"
+    "school-no",
+    "u先",
+    "u生"
   ],
   "props": {
     "en": "teacher",

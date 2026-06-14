@@ -3,7 +3,8 @@
   "name": "song",
   "order": "1",
   "parents": [
-    "audibles"
+    "audibles",
+    "u歌"
   ],
   "props": {
     "en": "song",

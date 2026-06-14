@@ -1,0 +1,18 @@
+{
+  "_id": "dqs8ksq63pp",
+  "name": "r邪",
+  "order": "2.9.3.3.3.1",
+  "params": {
+    "_1": "⻏邪",
+    "_g": "邪",
+    "_r": "m邪"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "8",
+    "jp": "邪"
+  }
+}

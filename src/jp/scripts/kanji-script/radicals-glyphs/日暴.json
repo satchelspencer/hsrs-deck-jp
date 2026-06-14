@@ -1,0 +1,18 @@
+{
+  "_id": "58ih1yxbpae",
+  "desc": "variant of 曰",
+  "name": "日暴",
+  "order": "4.6.5.9.2",
+  "params": {
+    "_g": "暴",
+    "_r": "m日"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "日"
+  }
+}

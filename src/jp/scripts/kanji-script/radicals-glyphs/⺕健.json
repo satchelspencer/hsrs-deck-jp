@@ -1,0 +1,18 @@
+{
+  "_id": "y1j33vtptev",
+  "desc": "variant of 彑",
+  "name": "⺕健",
+  "order": "4.3.5.9.0",
+  "params": {
+    "_g": "健",
+    "_r": "m⺕"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "3",
+    "_sl": "3",
+    "jp": "⺕"
+  }
+}

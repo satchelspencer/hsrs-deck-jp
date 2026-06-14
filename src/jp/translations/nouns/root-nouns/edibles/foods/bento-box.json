@@ -3,7 +3,9 @@
   "name": "bento-box",
   "order": "2",
   "parents": [
-    "foods"
+    "foods",
+    "u弁",
+    "u当"
   ],
   "props": {
     "en": "bento box",

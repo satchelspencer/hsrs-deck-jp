@@ -4,7 +4,9 @@
   "name": "true-identity",
   "order": "4",
   "parents": [
-    "people-no"
+    "people-no",
+    "u正",
+    "u体"
   ],
   "props": {
     "en": "true identity ",

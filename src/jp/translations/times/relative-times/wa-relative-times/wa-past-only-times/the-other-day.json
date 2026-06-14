@@ -4,7 +4,8 @@
   "name": "the-other-day",
   "order": "3",
   "parents": [
-    "wa-past-only-times"
+    "wa-past-only-times",
+    "u間"
   ],
   "props": {
     "en": "the other day",

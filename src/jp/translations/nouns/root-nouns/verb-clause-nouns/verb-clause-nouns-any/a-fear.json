@@ -3,7 +3,8 @@
   "name": "a-fear",
   "order": "3",
   "parents": [
-    "verb-clause-nouns-any"
+    "verb-clause-nouns-any",
+    "u恐"
   ],
   "props": {
     "en": "a fear",

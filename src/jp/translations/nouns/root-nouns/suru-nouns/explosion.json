@@ -5,7 +5,9 @@
   "order": "4",
   "parents": [
     "suru-nouns",
-    "te-iru-verbs-state"
+    "te-iru-verbs-state",
+    "u爆",
+    "u発"
   ],
   "props": {
     "_st": "exploded",

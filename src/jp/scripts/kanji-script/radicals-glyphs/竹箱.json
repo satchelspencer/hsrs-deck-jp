@@ -1,0 +1,17 @@
+{
+  "_id": "4wgc5g2yxy6",
+  "name": "竹箱",
+  "order": "2.9.0.5.0",
+  "params": {
+    "_g": "箱",
+    "_r": "m竹"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "竹"
+  }
+}

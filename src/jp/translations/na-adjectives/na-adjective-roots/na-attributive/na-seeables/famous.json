@@ -4,7 +4,9 @@
   "name": "famous",
   "order": "1",
   "parents": [
-    "na-seeables"
+    "na-seeables",
+    "u有",
+    "u名"
   ],
   "props": {
     "en": "famous",

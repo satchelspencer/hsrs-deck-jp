@@ -1,0 +1,19 @@
+{
+  "_id": "vgpgaisma6a",
+  "name": "舌舐",
+  "order": "4.9.5.6.7",
+  "params": {
+    "_1": "千舐",
+    "_2": "口舐",
+    "_g": "舐",
+    "_r": "m舌"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "舌"
+  }
+}

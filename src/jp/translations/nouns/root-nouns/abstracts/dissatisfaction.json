@@ -4,7 +4,9 @@
   "name": "dissatisfaction",
   "order": "4",
   "parents": [
-    "abstracts"
+    "abstracts",
+    "u不",
+    "u満"
   ],
   "props": {
     "en": "dissatisfaction",

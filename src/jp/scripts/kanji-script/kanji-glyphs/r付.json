@@ -1,0 +1,17 @@
+{
+  "_id": "c7udd5tk7v8",
+  "name": "r付",
+  "order": "1.6.0.8.5.1",
+  "params": {
+    "_g": "付",
+    "_r": "m付"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "付"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "_id": "u4hmbf6qk3i",
+  "name": "r東",
+  "order": "2.2.8.0.7.1",
+  "params": {
+    "_1": "日東",
+    "_g": "東",
+    "_r": "m東"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "8",
+    "jp": "東"
+  }
+}

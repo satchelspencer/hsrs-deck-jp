@@ -1,0 +1,17 @@
+{
+  "_id": "6dzwugyoy5u",
+  "name": "廾借",
+  "order": "2.6.1.0.7",
+  "params": {
+    "_g": "借",
+    "_r": "m廾"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "3",
+    "_sl": "3",
+    "jp": "廾"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "058b7fecloa",
+  "name": "十傘",
+  "order": "1.5.4.1.3",
+  "params": {
+    "_g": "傘",
+    "_r": "m十"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "11",
+    "_sl": "2",
+    "jp": "十"
+  }
+}

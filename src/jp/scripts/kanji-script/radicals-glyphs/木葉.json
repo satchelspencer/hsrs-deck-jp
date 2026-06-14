@@ -1,0 +1,17 @@
+{
+  "_id": "qkj8sf5a7dr",
+  "name": "木葉",
+  "order": "2.9.4.3.3",
+  "params": {
+    "_g": "葉",
+    "_r": "m木"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "9",
+    "_sl": "4",
+    "jp": "木"
+  }
+}

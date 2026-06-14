@@ -4,7 +4,11 @@
   "name": "with-utmost-effort",
   "order": "3",
   "parents": [
-    "verb-adverbs"
+    "verb-adverbs",
+    "u一",
+    "u生",
+    "u懸",
+    "u命"
   ],
   "props": {
     "en": "with utmost effort",

@@ -1,0 +1,17 @@
+{
+  "_id": "rv2apptr2kk",
+  "name": "比皆",
+  "order": "1.9.6.6.8",
+  "params": {
+    "_g": "皆",
+    "_r": "m比"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "比"
+  }
+}

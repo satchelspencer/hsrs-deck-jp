@@ -1,0 +1,17 @@
+{
+  "_id": "mka3juje50n",
+  "name": "广座",
+  "order": "1.4.3.9.1",
+  "params": {
+    "_g": "座",
+    "_r": "m广"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "广"
+  }
+}

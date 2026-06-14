@@ -6,7 +6,9 @@
   "parents": [
     "objects",
     "ko-countable",
-    "wago-countable"
+    "wago-countable",
+    "u財",
+    "u布"
   ],
   "props": {
     "en": "wallet",

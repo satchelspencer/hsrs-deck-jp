@@ -1,0 +1,18 @@
+{
+  "_id": "yaxflmhjsw6",
+  "desc": "variant of 水",
+  "name": "氺膝",
+  "order": "4.9.0.6.4",
+  "params": {
+    "_g": "膝",
+    "_r": "m氺"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "11",
+    "_sl": "5",
+    "jp": "氺"
+  }
+}

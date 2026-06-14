@@ -1,0 +1,18 @@
+{
+  "_id": "uqpop21yvz7",
+  "desc": "variant of 水",
+  "name": "氵準",
+  "order": "3.2.5.0.2",
+  "params": {
+    "_g": "準",
+    "_r": "m氵"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "氵"
+  }
+}

@@ -4,7 +4,9 @@
   "name": "attire",
   "order": "3",
   "parents": [
-    "choosables"
+    "choosables",
+    "u服",
+    "u装"
   ],
   "props": {
     "en": "attire",

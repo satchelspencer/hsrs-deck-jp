@@ -4,7 +4,8 @@
   "order": "2",
   "parents": [
     "containers",
-    "crackables"
+    "crackables",
+    "u皿"
   ],
   "props": {
     "en": "plate",

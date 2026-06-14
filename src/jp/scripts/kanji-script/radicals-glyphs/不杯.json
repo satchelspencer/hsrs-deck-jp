@@ -1,0 +1,17 @@
+{
+  "_id": "tdspncfns91",
+  "name": "不杯",
+  "order": "2.9.3.0.4",
+  "params": {
+    "_g": "杯",
+    "_r": "m不"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "4",
+    "jp": "不"
+  }
+}

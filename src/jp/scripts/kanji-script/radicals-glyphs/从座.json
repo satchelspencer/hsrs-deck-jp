@@ -1,0 +1,17 @@
+{
+  "_id": "bt6wrmc2hkv",
+  "name": "从座",
+  "order": "1.4.3.9.1",
+  "params": {
+    "_g": "座",
+    "_r": "m从"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "4",
+    "jp": "从"
+  }
+}

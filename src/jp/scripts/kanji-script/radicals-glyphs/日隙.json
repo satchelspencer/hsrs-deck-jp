@@ -1,0 +1,18 @@
+{
+  "_id": "oeq75dvyruj",
+  "desc": "variant of 曰",
+  "name": "日隙",
+  "order": "4.9.1.3.0",
+  "params": {
+    "_g": "隙",
+    "_r": "m日"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "4",
+    "jp": "日"
+  }
+}

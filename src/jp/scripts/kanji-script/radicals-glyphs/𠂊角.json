@@ -1,0 +1,18 @@
+{
+  "_id": "udzh74dr5m1",
+  "desc": "variant of 勹",
+  "name": "𠂊角",
+  "order": "3.3.3.9.6",
+  "params": {
+    "_g": "角",
+    "_r": "m𠂊"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "2",
+    "jp": "𠂊"
+  }
+}

@@ -5,7 +5,8 @@
   "name": "woman",
   "order": "1",
   "parents": [
-    "demographics"
+    "demographics",
+    "u女"
   ],
   "props": {
     "en": "woman",

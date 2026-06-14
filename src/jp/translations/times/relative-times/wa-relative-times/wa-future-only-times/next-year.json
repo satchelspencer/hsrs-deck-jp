@@ -3,7 +3,9 @@
   "name": "next-year",
   "order": "1",
   "parents": [
-    "wa-future-only-times"
+    "wa-future-only-times",
+    "u来",
+    "u年"
   ],
   "props": {
     "en": "next year",

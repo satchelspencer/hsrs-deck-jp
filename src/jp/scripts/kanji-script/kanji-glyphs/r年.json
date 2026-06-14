@@ -1,0 +1,17 @@
+{
+  "_id": "ea5f050rtsa",
+  "name": "r年",
+  "order": "1.6.3.4.1.1",
+  "params": {
+    "_g": "年",
+    "_r": "m年"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "年"
+  }
+}

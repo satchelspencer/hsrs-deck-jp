@@ -1,0 +1,20 @@
+{
+  "_id": "aqvbi4l1m50",
+  "desc": "variant of 戔",
+  "name": "戋残",
+  "order": "2.9.1.7.4",
+  "params": {
+    "_1": "三残",
+    "_2": "戈残",
+    "_g": "残",
+    "_r": "m戋"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "6",
+    "jp": "戋"
+  }
+}

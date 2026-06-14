@@ -1,0 +1,17 @@
+{
+  "_id": "10eb6bnr3yh",
+  "name": "廾械",
+  "order": "3.5.1.0.7",
+  "params": {
+    "_g": "械",
+    "_r": "m廾"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "3",
+    "jp": "廾"
+  }
+}

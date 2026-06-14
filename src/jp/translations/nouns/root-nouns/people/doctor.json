@@ -4,7 +4,9 @@
   "order": "2",
   "parents": [
     "people",
-    "roles"
+    "roles",
+    "u医",
+    "u者"
   ],
   "props": {
     "en": "doctor",

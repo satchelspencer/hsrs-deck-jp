@@ -3,7 +3,10 @@
   "name": "college-student",
   "order": "2",
   "parents": [
-    "students"
+    "students",
+    "u大",
+    "u学",
+    "u生"
   ],
   "props": {
     "en": "college student",

@@ -1,0 +1,17 @@
+{
+  "_id": "s7by501pwr6",
+  "name": "大俺",
+  "order": "2.9.7.3.1",
+  "params": {
+    "_g": "俺",
+    "_r": "m大"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "3",
+    "_sl": "3",
+    "jp": "大"
+  }
+}

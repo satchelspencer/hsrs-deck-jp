@@ -3,7 +3,9 @@
   "name": "earthquake",
   "order": "3",
   "parents": [
-    "events"
+    "events",
+    "u地",
+    "u震"
   ],
   "props": {
     "en": "earthquake",

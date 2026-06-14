@@ -1,0 +1,18 @@
+{
+  "_id": "pb46vlkqg4z",
+  "desc": "variant of 火",
+  "name": "灬鳥",
+  "order": "1.9.6.2.6",
+  "params": {
+    "_g": "鳥",
+    "_r": "m灬"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "4",
+    "jp": "灬"
+  }
+}

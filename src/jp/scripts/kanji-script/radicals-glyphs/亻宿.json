@@ -1,0 +1,18 @@
+{
+  "_id": "6tq57c155ly",
+  "desc": "variant of 人",
+  "name": "亻宿",
+  "order": "2.9.9.7.5",
+  "params": {
+    "_g": "宿",
+    "_r": "m亻"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "2",
+    "jp": "亻"
+  }
+}

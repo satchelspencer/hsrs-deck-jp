@@ -1,0 +1,17 @@
+{
+  "_id": "ll765p8proy",
+  "name": "糸絵",
+  "order": "2.4.4.3.8",
+  "params": {
+    "_g": "絵",
+    "_r": "m糸"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "糸"
+  }
+}

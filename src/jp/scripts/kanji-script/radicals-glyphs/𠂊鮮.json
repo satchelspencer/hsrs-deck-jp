@@ -1,0 +1,18 @@
+{
+  "_id": "xs12xf170sv",
+  "desc": "variant of 勹",
+  "name": "𠂊鮮",
+  "order": "4.9.6.0.6",
+  "params": {
+    "_g": "鮮",
+    "_r": "m𠂊"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "2",
+    "jp": "𠂊"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "3xbwlv5zy9w",
+  "name": "門簡",
+  "order": "2.1.1.3.4",
+  "params": {
+    "_g": "簡",
+    "_r": "m門"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "8",
+    "jp": "門"
+  }
+}

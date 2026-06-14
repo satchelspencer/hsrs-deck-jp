@@ -1,0 +1,17 @@
+{
+  "_id": "tdiz200l4t5",
+  "name": "木枝",
+  "order": "4.9.1.5.6",
+  "params": {
+    "_g": "枝",
+    "_r": "m木"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "木"
+  }
+}

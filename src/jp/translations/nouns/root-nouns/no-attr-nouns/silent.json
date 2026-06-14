@@ -3,7 +3,9 @@
   "name": "silent",
   "order": "4",
   "parents": [
-    "no-attr-nouns"
+    "no-attr-nouns",
+    "u無",
+    "u言"
   ],
   "props": {
     "en": "silent",

@@ -1,0 +1,17 @@
+{
+  "_id": "wuvj7m0f9rs",
+  "name": "土壁",
+  "order": "2.4.0.0.6",
+  "params": {
+    "_g": "壁",
+    "_r": "m土"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "14",
+    "_sl": "3",
+    "jp": "土"
+  }
+}

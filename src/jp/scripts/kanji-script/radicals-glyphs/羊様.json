@@ -1,0 +1,18 @@
+{
+  "_id": "33gtgwep8a9",
+  "name": "羊様",
+  "order": "4.6.0.5.9",
+  "params": {
+    "_1": "䒑様",
+    "_g": "様",
+    "_r": "m羊"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "6",
+    "jp": "羊"
+  }
+}

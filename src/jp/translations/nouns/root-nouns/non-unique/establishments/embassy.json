@@ -4,7 +4,10 @@
   "order": "3",
   "parents": [
     "establishments",
-    "country-no"
+    "country-no",
+    "u大",
+    "u使",
+    "u館"
   ],
   "props": {
     "en": "embassy",

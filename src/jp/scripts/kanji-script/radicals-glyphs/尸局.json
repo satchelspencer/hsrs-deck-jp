@@ -1,0 +1,17 @@
+{
+  "_id": "yzc84kui1v9",
+  "name": "尸局",
+  "order": "2.9.4.4.6",
+  "params": {
+    "_g": "局",
+    "_r": "m尸"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "尸"
+  }
+}

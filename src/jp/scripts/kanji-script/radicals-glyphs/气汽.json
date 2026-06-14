@@ -1,0 +1,17 @@
+{
+  "_id": "g1z0yar368t",
+  "name": "气汽",
+  "order": "4.9.3.0.2",
+  "params": {
+    "_g": "汽",
+    "_r": "m气"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "4",
+    "jp": "气"
+  }
+}

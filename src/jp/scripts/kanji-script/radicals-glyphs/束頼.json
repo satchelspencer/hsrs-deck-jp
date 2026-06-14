@@ -1,0 +1,18 @@
+{
+  "_id": "i0rusy8k1iy",
+  "name": "束頼",
+  "order": "2.3.5.0.2",
+  "params": {
+    "_1": "口頼",
+    "_g": "頼",
+    "_r": "m束"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "7",
+    "jp": "束"
+  }
+}

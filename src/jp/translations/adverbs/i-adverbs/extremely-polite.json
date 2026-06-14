@@ -5,7 +5,9 @@
   "name": "extremely-polite",
   "order": "3",
   "parents": [
-    "i-adverbs"
+    "i-adverbs",
+    "u非",
+    "u常"
   ],
   "props": {
     "en": "extremely",

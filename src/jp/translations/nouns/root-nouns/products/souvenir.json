@@ -4,7 +4,9 @@
   "name": "souvenir",
   "order": "3",
   "parents": [
-    "products"
+    "products",
+    "u土",
+    "u産"
   ],
   "props": {
     "en": "souvenir",

@@ -5,7 +5,10 @@
   "parents": [
     "buildables",
     "ken-buildings-countable",
-    "places"
+    "places",
+    "u二",
+    "u階",
+    "u建"
   ],
   "props": {
     "en": "two story building",

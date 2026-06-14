@@ -4,7 +4,9 @@
   "name": "boy",
   "order": "1",
   "parents": [
-    "demographics"
+    "demographics",
+    "u男",
+    "u子"
   ],
   "props": {
     "en": "boy",

@@ -1,0 +1,17 @@
+{
+  "_id": "b7k8mwetju3",
+  "name": "目頭",
+  "order": "1.6.3.7.1",
+  "params": {
+    "_g": "頭",
+    "_r": "m目"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "10",
+    "_sl": "5",
+    "jp": "目"
+  }
+}

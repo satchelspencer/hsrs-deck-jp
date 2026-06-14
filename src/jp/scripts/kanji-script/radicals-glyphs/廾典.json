@@ -1,0 +1,17 @@
+{
+  "_id": "gf58vlo8tke",
+  "name": "廾典",
+  "order": "4.9.1.0.5",
+  "params": {
+    "_g": "典",
+    "_r": "m廾"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "3",
+    "_sl": "3",
+    "jp": "廾"
+  }
+}

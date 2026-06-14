@@ -1,0 +1,17 @@
+{
+  "_id": "28bgvz4hofh",
+  "name": "几風",
+  "order": "1.9.5.6.4",
+  "params": {
+    "_g": "風",
+    "_r": "m几"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "2",
+    "jp": "几"
+  }
+}

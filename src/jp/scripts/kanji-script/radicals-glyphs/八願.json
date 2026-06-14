@@ -1,0 +1,17 @@
+{
+  "_id": "fp9vcmyqszx",
+  "name": "八願",
+  "order": "1.9.4.0.8",
+  "params": {
+    "_g": "願",
+    "_r": "m八"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "18",
+    "_sl": "2",
+    "jp": "八"
+  }
+}

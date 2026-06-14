@@ -1,0 +1,17 @@
+{
+  "_id": "pxky5thnuvq",
+  "name": "口距",
+  "order": "4.3.0.4.0",
+  "params": {
+    "_g": "距",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

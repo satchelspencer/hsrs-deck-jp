@@ -4,7 +4,9 @@
   "name": "consultation",
   "order": "4",
   "parents": [
-    "activities"
+    "activities",
+    "u相",
+    "u談"
   ],
   "props": {
     "en": "consultation",

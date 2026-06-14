@@ -1,0 +1,17 @@
+{
+  "_id": "dyga8enu51c",
+  "name": "r地",
+  "order": "1.5.2.8.9.1",
+  "params": {
+    "_g": "地",
+    "_r": "m地"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "地"
+  }
+}

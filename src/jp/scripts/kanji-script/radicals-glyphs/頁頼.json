@@ -1,0 +1,18 @@
+{
+  "_id": "0mf1thtd8wl",
+  "name": "頁頼",
+  "order": "2.3.5.0.2",
+  "params": {
+    "_1": "貝頼",
+    "_g": "頼",
+    "_r": "m頁"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "9",
+    "jp": "頁"
+  }
+}

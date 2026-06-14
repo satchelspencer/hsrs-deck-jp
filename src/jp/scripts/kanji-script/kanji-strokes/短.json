@@ -1,0 +1,15 @@
+{
+  "_id": "p83vxydls3q",
+  "name": "短",
+  "order": "2.2.5.0.0",
+  "params": {
+    "_wd": "u短"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "短",
+    "_st": "DANNGhFjAAEAAgADY4EGhxOMGgRNFiRjAQACAAMAYwMACIEOgmMBAAMABAAETQo3YwIABQAGAGMHgRGCGINjAgAEAAcAA00eJWMBAQECAQRjABuIK5QzAk0gQ2MEAgkHCwwETTQZYwIABAAGAGMJgRKCGoNjAgAEAAYABE01KGMBAQICAgNjAQQCCgMQYwABAAIBAwRNNyljB4EWgxyDYwMABQEEBGOBA4EEgw4DTTs7YwaBEIIYgmMBAAMABAACTThEYwICBgoGDgNNU0BjAAEAAgADQ1JIT09LVQRNLlljAgEGAQgBYxGBGoIngmMDAAYABwE"
+  }
+}

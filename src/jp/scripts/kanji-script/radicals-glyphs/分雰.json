@@ -1,0 +1,17 @@
+{
+  "_id": "h9ru6l25654",
+  "name": "分雰",
+  "order": "4.1.3.3.9",
+  "params": {
+    "_g": "雰",
+    "_r": "m分"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "9",
+    "_sl": "4",
+    "jp": "分"
+  }
+}

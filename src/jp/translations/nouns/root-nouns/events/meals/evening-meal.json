@@ -4,7 +4,9 @@
   "name": "evening-meal",
   "order": "3",
   "parents": [
-    "meals"
+    "meals",
+    "u夕",
+    "u食"
   ],
   "props": {
     "en": "evening meal",

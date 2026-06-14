@@ -3,7 +3,9 @@
   "name": "underwear",
   "order": "3",
   "parents": [
-    "pullonables"
+    "pullonables",
+    "u下",
+    "u着"
   ],
   "props": {
     "en": "underwear",

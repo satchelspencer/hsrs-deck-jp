@@ -3,7 +3,9 @@
   "name": "at-that-time",
   "order": "4",
   "parents": [
-    "any-verb-adverbs"
+    "any-verb-adverbs",
+    "u当",
+    "u時"
   ],
   "props": {
     "en": "at that time",

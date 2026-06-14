@@ -1,0 +1,17 @@
+{
+  "_id": "3x5ftdb044a",
+  "name": "木案",
+  "order": "3.4.3.3.1",
+  "params": {
+    "_g": "案",
+    "_r": "m木"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "4",
+    "jp": "木"
+  }
+}

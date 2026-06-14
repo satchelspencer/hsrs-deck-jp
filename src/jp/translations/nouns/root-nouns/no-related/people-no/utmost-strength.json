@@ -4,7 +4,9 @@
   "name": "utmost-strength",
   "order": "4",
   "parents": [
-    "people-no"
+    "people-no",
+    "u全",
+    "u力"
   ],
   "props": {
     "en": "utmost strength",

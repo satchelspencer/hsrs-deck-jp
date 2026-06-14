@@ -4,7 +4,9 @@
   "name": "both-hands",
   "order": "4",
   "parents": [
-    "body-parts"
+    "body-parts",
+    "u両",
+    "u手"
   ],
   "props": {
     "en": "both hands",

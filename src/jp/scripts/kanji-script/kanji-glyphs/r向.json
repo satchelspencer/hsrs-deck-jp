@@ -1,0 +1,17 @@
+{
+  "_id": "z5audhpf6wq",
+  "name": "r向",
+  "order": "2.4.6.5.0.1",
+  "params": {
+    "_g": "向",
+    "_r": "m向"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "向"
+  }
+}

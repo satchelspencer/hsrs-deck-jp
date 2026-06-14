@@ -4,7 +4,9 @@
   "name": "all",
   "order": "1",
   "parents": [
-    "verb-adverbs"
+    "verb-adverbs",
+    "u全",
+    "u部"
   ],
   "props": {
     "_ad": "entirely",

@@ -1,0 +1,18 @@
+{
+  "_id": "fxb1zhkogm7",
+  "desc": "variant of 爪",
+  "name": "⺤乳",
+  "order": "2.6.1.7.5",
+  "params": {
+    "_g": "乳",
+    "_r": "m⺤"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "⺤"
+  }
+}

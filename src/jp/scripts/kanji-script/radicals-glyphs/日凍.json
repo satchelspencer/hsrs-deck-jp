@@ -1,0 +1,18 @@
+{
+  "_id": "phmy4vu0ud4",
+  "desc": "variant of 曰",
+  "name": "日凍",
+  "order": "4.2.2.4.6",
+  "params": {
+    "_g": "凍",
+    "_r": "m日"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "4",
+    "jp": "日"
+  }
+}

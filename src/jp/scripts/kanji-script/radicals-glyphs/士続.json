@@ -1,0 +1,18 @@
+{
+  "_id": "34p4rxgu2f5",
+  "desc": "variant of 土",
+  "name": "士続",
+  "order": "2.2.0.9.6",
+  "params": {
+    "_g": "続",
+    "_r": "m士"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "3",
+    "jp": "士"
+  }
+}

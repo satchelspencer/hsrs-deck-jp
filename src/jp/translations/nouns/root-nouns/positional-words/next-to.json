@@ -4,7 +4,8 @@
   "name": "next-to",
   "order": "2",
   "parents": [
-    "positional-words"
+    "positional-words",
+    "u隣"
   ],
   "props": {
     "en": "next to",

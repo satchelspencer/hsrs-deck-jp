@@ -1,0 +1,18 @@
+{
+  "_id": "0b2povbpclw",
+  "desc": "variant of 爪",
+  "name": "⺤瞬",
+  "order": "4.3.7.0.6",
+  "params": {
+    "_g": "瞬",
+    "_r": "m⺤"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "4",
+    "jp": "⺤"
+  }
+}

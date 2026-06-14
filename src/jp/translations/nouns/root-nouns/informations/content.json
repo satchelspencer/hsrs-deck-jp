@@ -4,7 +4,9 @@
   "name": "content",
   "order": "4",
   "parents": [
-    "informations"
+    "informations",
+    "u内",
+    "u容"
   ],
   "props": {
     "en": "content",

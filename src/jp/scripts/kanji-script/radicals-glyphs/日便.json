@@ -1,0 +1,18 @@
+{
+  "_id": "r5109a5au48",
+  "desc": "variant of 曰",
+  "name": "日便",
+  "order": "1.2.4.5.0",
+  "params": {
+    "_g": "便",
+    "_r": "m日"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "4",
+    "jp": "日"
+  }
+}

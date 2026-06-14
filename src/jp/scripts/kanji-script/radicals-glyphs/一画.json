@@ -1,0 +1,17 @@
+{
+  "_id": "p2es1dz05en",
+  "name": "一画",
+  "order": "1.4.9.4.1",
+  "params": {
+    "_g": "画",
+    "_r": "m一"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "1",
+    "jp": "一"
+  }
+}

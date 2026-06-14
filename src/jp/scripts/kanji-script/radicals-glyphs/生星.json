@@ -1,0 +1,17 @@
+{
+  "_id": "dlruo458epj",
+  "name": "生星",
+  "order": "3.6.3.1.6",
+  "params": {
+    "_g": "星",
+    "_r": "m生"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "5",
+    "jp": "生"
+  }
+}

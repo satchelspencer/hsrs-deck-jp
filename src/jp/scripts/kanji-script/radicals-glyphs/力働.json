@@ -1,0 +1,17 @@
+{
+  "_id": "77c721s9eos",
+  "name": "力働",
+  "order": "1.3.8.3.0",
+  "params": {
+    "_g": "働",
+    "_r": "m力"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "12",
+    "_sl": "2",
+    "jp": "力"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "_id": "a0d602oi9g5",
+  "name": "kanji-script",
+  "parents": [
+    "scripts"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

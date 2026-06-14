@@ -1,0 +1,17 @@
+{
+  "_id": "vcs2wyytbwx",
+  "name": "支技",
+  "order": "4.1.1.6.1",
+  "params": {
+    "_g": "技",
+    "_r": "m支"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "4",
+    "jp": "支"
+  }
+}

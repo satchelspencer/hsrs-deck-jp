@@ -4,7 +4,9 @@
   "name": "extraordinary",
   "order": "4",
   "parents": [
-    "na-seeables"
+    "na-seeables",
+    "u特",
+    "u殊"
   ],
   "props": {
     "en": "extraordinary",

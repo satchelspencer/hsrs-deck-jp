@@ -4,7 +4,9 @@
   "name": "genuine-article",
   "order": "4",
   "parents": [
-    "products"
+    "products",
+    "u本",
+    "u物"
   ],
   "props": {
     "en": "genuine article",

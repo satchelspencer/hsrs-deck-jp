@@ -1,0 +1,17 @@
+{
+  "_id": "pnrd1hiv3n4",
+  "name": "勿湯",
+  "order": "3.9.5.7.6",
+  "params": {
+    "_g": "湯",
+    "_r": "m勿"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "9",
+    "_sl": "4",
+    "jp": "勿"
+  }
+}

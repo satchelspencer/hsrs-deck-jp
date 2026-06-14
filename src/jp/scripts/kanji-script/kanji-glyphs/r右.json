@@ -1,0 +1,17 @@
+{
+  "_id": "eysrhvzqdvq",
+  "name": "r右",
+  "order": "1.4.3.0.5.1",
+  "params": {
+    "_g": "右",
+    "_r": "m右"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "右"
+  }
+}

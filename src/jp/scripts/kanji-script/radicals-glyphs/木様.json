@@ -1,0 +1,17 @@
+{
+  "_id": "c2xm6iueh2s",
+  "name": "木様",
+  "order": "4.6.0.5.9",
+  "params": {
+    "_g": "様",
+    "_r": "m木"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "木"
+  }
+}

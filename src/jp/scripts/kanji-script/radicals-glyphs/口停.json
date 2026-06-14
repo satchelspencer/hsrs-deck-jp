@@ -1,0 +1,17 @@
+{
+  "_id": "b0h8j6z89ex",
+  "name": "口停",
+  "order": "4.1.9.6.1",
+  "params": {
+    "_g": "停",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

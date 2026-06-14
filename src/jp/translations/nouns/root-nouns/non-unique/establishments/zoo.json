@@ -3,7 +3,10 @@
   "name": "zoo",
   "order": "3",
   "parents": [
-    "establishments"
+    "establishments",
+    "u動",
+    "u物",
+    "u園"
   ],
   "props": {
     "en": "zoo",

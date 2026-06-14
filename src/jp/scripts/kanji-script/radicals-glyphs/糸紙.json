@@ -1,0 +1,17 @@
+{
+  "_id": "ijqm4d8sfhl",
+  "name": "糸紙",
+  "order": "1.2.8.5.3",
+  "params": {
+    "_g": "紙",
+    "_r": "m糸"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "糸"
+  }
+}

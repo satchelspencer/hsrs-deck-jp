@@ -8,7 +8,8 @@
     "waveables",
     "raisables",
     "symmetric-body-parts",
-    "wago-countable"
+    "wago-countable",
+    "u手"
   ],
   "props": {
     "en": "hand",

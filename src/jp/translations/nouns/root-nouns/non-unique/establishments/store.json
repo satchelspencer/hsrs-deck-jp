@@ -5,7 +5,8 @@
   "order": "1",
   "parents": [
     "establishments",
-    "stores"
+    "stores",
+    "u店"
   ],
   "props": {
     "en": "store",

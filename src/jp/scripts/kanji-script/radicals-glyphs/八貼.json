@@ -1,0 +1,17 @@
+{
+  "_id": "14c6zfjit4q",
+  "name": "八貼",
+  "order": "3.9.7.0.2",
+  "params": {
+    "_g": "貼",
+    "_r": "m八"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "2",
+    "jp": "八"
+  }
+}

@@ -3,7 +3,9 @@
   "name": "vigorous",
   "order": "4",
   "parents": [
-    "i-attributive-standard"
+    "i-attributive-standard",
+    "u力",
+    "u強"
   ],
   "props": {
     "en": "vigorous",

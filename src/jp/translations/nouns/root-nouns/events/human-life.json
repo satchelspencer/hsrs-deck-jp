@@ -3,7 +3,9 @@
   "name": "human-life",
   "order": "4",
   "parents": [
-    "events"
+    "events",
+    "u人",
+    "u生"
   ],
   "props": {
     "en": "human life",

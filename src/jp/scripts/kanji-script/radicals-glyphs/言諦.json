@@ -1,0 +1,18 @@
+{
+  "_id": "dj63id5abxj",
+  "name": "言諦",
+  "order": "4.4.3.4.7",
+  "params": {
+    "_1": "口諦",
+    "_g": "諦",
+    "_r": "m言"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "7",
+    "jp": "言"
+  }
+}

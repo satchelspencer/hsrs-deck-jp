@@ -4,7 +4,8 @@
   "name": "darkness",
   "order": "4",
   "parents": [
-    "abstracts"
+    "abstracts",
+    "u闇"
   ],
   "props": {
     "en": "darkness",

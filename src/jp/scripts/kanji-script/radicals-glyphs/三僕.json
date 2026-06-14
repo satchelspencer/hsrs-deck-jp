@@ -1,0 +1,17 @@
+{
+  "_id": "oxve1vcorvt",
+  "name": "三僕",
+  "order": "2.6.1.8.7",
+  "params": {
+    "_g": "僕",
+    "_r": "m三"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "10",
+    "_sl": "3",
+    "jp": "三"
+  }
+}

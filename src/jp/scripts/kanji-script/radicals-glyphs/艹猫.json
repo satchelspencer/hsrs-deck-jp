@@ -1,0 +1,18 @@
+{
+  "_id": "5pqljonzlia",
+  "desc": "variant of 艸",
+  "name": "艹猫",
+  "order": "1.6.9.5.7",
+  "params": {
+    "_g": "猫",
+    "_r": "m艹"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "3",
+    "jp": "艹"
+  }
+}

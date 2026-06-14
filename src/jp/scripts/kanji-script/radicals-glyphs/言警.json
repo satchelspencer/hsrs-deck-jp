@@ -1,0 +1,17 @@
+{
+  "_id": "2nq6o6bia6o",
+  "name": "言警",
+  "order": "2.4.6.1.0",
+  "params": {
+    "_g": "警",
+    "_r": "m言"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "13",
+    "_sl": "7",
+    "jp": "言"
+  }
+}

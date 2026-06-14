@@ -1,0 +1,17 @@
+{
+  "_id": "msc4cu0himd",
+  "name": "r加",
+  "order": "4.3.7.0.4.1",
+  "params": {
+    "_g": "加",
+    "_r": "m加"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "加"
+  }
+}

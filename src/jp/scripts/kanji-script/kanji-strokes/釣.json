@@ -1,0 +1,15 @@
+{
+  "_id": "xja8rto8tco",
+  "name": "釣",
+  "order": "3.9.0.0.0",
+  "params": {
+    "_wd": "u釣"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "釣",
+    "_st": "CwNNIQ5jAAEAAQACY4EFixaTHQJNIhRjBQILCA0NBE0WKWMBAAMABABjBAAKgg-CYwEAAgADAARNDjhjAgAEAAYAYwaBDoIWg2MBAAIAAwADTSArQyEsIS0hL2MABAAcACQCTRNEYwMEBAgECwNNLT1jAAEAAgACY4ECggSFCQNNEFljAQECAQQBYweDDIUZiwNNQBBjAAEAAgADY4IIhhKMHQZNPiFjAgAEAAUAYwWBD4ITg2MEgQcABwVDXDJZR1RXY4QMiAeLAgJNOzRjBAMKDAsQ"
+  }
+}

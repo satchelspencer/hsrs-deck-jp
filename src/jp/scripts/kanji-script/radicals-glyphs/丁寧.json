@@ -1,0 +1,17 @@
+{
+  "_id": "c1l484f0qde",
+  "name": "丁寧",
+  "order": "3.2.6.5.7",
+  "params": {
+    "_g": "寧",
+    "_r": "m丁"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "13",
+    "_sl": "2",
+    "jp": "丁"
+  }
+}

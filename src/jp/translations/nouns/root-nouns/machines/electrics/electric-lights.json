@@ -4,7 +4,9 @@
   "name": "electric-lights",
   "order": "1",
   "parents": [
-    "electrics"
+    "electrics",
+    "u電",
+    "u気"
   ],
   "props": {
     "en": "electric lights",

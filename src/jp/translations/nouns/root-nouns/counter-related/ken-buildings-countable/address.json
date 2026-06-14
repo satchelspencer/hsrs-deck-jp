@@ -5,7 +5,9 @@
   "order": "3",
   "parents": [
     "ken-buildings-countable",
-    "places"
+    "places",
+    "u住",
+    "u所"
   ],
   "props": {
     "en": "address",

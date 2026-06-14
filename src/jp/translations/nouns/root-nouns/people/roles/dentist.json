@@ -3,7 +3,10 @@
   "name": "dentist",
   "order": "3",
   "parents": [
-    "roles"
+    "roles",
+    "u歯",
+    "u医",
+    "u者"
   ],
   "props": {
     "en": "dentist",

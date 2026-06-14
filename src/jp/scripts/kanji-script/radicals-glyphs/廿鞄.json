@@ -1,0 +1,17 @@
+{
+  "_id": "yxdzszfwd1q",
+  "name": "廿鞄",
+  "order": "1.4.4.4.2",
+  "params": {
+    "_g": "鞄",
+    "_r": "m廿"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "廿"
+  }
+}

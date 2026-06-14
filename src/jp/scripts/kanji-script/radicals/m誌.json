@@ -1,0 +1,10 @@
+{
+  "_id": "zdggfoygpkn",
+  "name": "m誌",
+  "parents": [
+    "radicals"
+  ],
+  "props": {
+    "_m": "document, records"
+  }
+}

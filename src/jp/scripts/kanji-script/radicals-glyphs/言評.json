@@ -1,0 +1,18 @@
+{
+  "_id": "d36lmqogmh6",
+  "name": "言評",
+  "order": "4.2.5.8.5",
+  "params": {
+    "_1": "口評",
+    "_g": "評",
+    "_r": "m言"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "7",
+    "jp": "言"
+  }
+}

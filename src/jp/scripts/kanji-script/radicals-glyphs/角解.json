@@ -1,0 +1,18 @@
+{
+  "_id": "6t0rqcvd7ja",
+  "name": "角解",
+  "order": "4.2.3.5.4",
+  "params": {
+    "_1": "𠂊解",
+    "_g": "解",
+    "_r": "m角"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "7",
+    "jp": "角"
+  }
+}

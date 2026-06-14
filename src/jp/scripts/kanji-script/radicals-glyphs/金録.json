@@ -1,0 +1,17 @@
+{
+  "_id": "2myd1smzacv",
+  "name": "金録",
+  "order": "4.3.1.0.1",
+  "params": {
+    "_g": "録",
+    "_r": "m金"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "8",
+    "jp": "金"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "d9my91xl9af",
+  "name": "r印",
+  "order": "4.9.6.6.2.1",
+  "params": {
+    "_g": "印",
+    "_r": "m印"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "印"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "2mnz42osxh0",
+  "name": "不否",
+  "order": "4.9.4.6.2",
+  "params": {
+    "_g": "否",
+    "_r": "m不"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "不"
+  }
+}

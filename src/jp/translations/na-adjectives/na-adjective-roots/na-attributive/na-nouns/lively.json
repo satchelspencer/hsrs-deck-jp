@@ -5,7 +5,9 @@
   "order": "1.1",
   "parents": [
     "na-nouns",
-    "na-place"
+    "na-place",
+    "u元",
+    "u気"
   ],
   "props": {
     "_ad": "with liveliness",

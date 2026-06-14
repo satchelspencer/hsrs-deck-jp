@@ -1,0 +1,18 @@
+{
+  "_id": "abenkndi2jx",
+  "desc": "variant of 心",
+  "name": "忄憶",
+  "order": "4.3.1.6.2",
+  "params": {
+    "_g": "憶",
+    "_r": "m忄"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "忄"
+  }
+}

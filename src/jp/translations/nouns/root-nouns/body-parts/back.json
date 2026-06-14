@@ -4,7 +4,9 @@
   "name": "back",
   "order": "3",
   "parents": [
-    "body-parts"
+    "body-parts",
+    "u背",
+    "u中"
   ],
   "props": {
     "en": "back",

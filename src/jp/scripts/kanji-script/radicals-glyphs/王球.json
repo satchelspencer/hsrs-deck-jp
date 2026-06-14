@@ -1,0 +1,18 @@
+{
+  "_id": "e1sctmko6ag",
+  "desc": "variant of 玉",
+  "name": "王球",
+  "order": "1.9.5.8.8",
+  "params": {
+    "_g": "球",
+    "_r": "m王"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "王"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "65toqb3uvus",
+  "name": "口言",
+  "order": "1.2.8.7.3",
+  "params": {
+    "_g": "言",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

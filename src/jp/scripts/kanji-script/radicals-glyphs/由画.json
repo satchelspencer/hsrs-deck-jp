@@ -1,0 +1,17 @@
+{
+  "_id": "idfief4g00b",
+  "name": "由画",
+  "order": "1.4.9.4.1",
+  "params": {
+    "_g": "画",
+    "_r": "m由"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "2",
+    "_sl": "5",
+    "jp": "由"
+  }
+}

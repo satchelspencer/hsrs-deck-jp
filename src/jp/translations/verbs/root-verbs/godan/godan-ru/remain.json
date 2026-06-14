@@ -6,7 +6,8 @@
   "parents": [
     "godan-ru",
     "ni-at-verbs",
-    "te-iru-verbs-state"
+    "te-iru-verbs-state",
+    "u残"
   ],
   "props": {
     "_st": "remaining",

@@ -4,7 +4,8 @@
   "name": "behind",
   "order": "2",
   "parents": [
-    "positional-words"
+    "positional-words",
+    "u後"
   ],
   "props": {
     "en": "behind",

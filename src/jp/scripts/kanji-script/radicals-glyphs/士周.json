@@ -1,0 +1,18 @@
+{
+  "_id": "mjxngd9mx4z",
+  "desc": "variant of 土",
+  "name": "士周",
+  "order": "1.9.5.0.5",
+  "params": {
+    "_g": "周",
+    "_r": "m士"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "3",
+    "_sl": "3",
+    "jp": "士"
+  }
+}

@@ -4,7 +4,8 @@
   "name": "ending",
   "order": "2",
   "parents": [
-    "events"
+    "events",
+    "u終"
   ],
   "props": {
     "en": "ending",

@@ -5,7 +5,9 @@
   "order": "4",
   "parents": [
     "abstracts",
-    "people"
+    "people",
+    "u人",
+    "u物"
   ],
   "props": {
     "en": "personage",

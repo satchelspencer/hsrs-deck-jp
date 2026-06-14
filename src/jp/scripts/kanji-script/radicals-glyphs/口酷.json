@@ -1,0 +1,17 @@
+{
+  "_id": "pdtvc1eoia4",
+  "name": "口酷",
+  "order": "3.3.6.6.8",
+  "params": {
+    "_g": "酷",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "12",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

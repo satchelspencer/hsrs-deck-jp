@@ -1,0 +1,17 @@
+{
+  "_id": "6av191fdeok",
+  "name": "目親",
+  "order": "2.9.0.9.1",
+  "params": {
+    "_g": "親",
+    "_r": "m目"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "10",
+    "_sl": "5",
+    "jp": "目"
+  }
+}

@@ -1,13 +1,12 @@
 {
   "_id": "jn7sn8cxji",
+  "aliasb": true,
   "name": "scripts",
   "order": "",
   "parents": [
     "jp"
   ],
   "props": {
-    "_tl": null,
-    "jp": null
   },
   "virtual": true
 }

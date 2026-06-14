@@ -1,0 +1,17 @@
+{
+  "_id": "ltzrr4z9nek",
+  "name": "長張",
+  "order": "1.9.0.4.6",
+  "params": {
+    "_g": "張",
+    "_r": "m長"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "8",
+    "jp": "長"
+  }
+}

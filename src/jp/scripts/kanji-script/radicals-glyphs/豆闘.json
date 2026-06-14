@@ -1,0 +1,18 @@
+{
+  "_id": "hhmtieuz9rs",
+  "name": "豆闘",
+  "order": "4.9.2.2.7",
+  "params": {
+    "_1": "口闘",
+    "_g": "闘",
+    "_r": "m豆"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "9",
+    "_sl": "7",
+    "jp": "豆"
+  }
+}

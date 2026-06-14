@@ -4,7 +4,8 @@
   "name": "daughter",
   "order": "3",
   "parents": [
-    "family"
+    "family",
+    "u嬢"
   ],
   "props": {
     "en": "daughter",

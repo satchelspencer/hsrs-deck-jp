@@ -1,0 +1,18 @@
+{
+  "_id": "s9t20emosv1",
+  "name": "千辞",
+  "order": "1.9.0.0.9",
+  "params": {
+    "_1": "十辞",
+    "_g": "辞",
+    "_r": "m千"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "千"
+  }
+}

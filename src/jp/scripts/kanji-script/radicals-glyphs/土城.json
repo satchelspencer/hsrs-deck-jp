@@ -1,0 +1,17 @@
+{
+  "_id": "7idcxypygq1",
+  "name": "土城",
+  "order": "4.9.3.7.2",
+  "params": {
+    "_g": "城",
+    "_r": "m土"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "土"
+  }
+}

@@ -4,7 +4,10 @@
   "name": "tearoom",
   "order": "2",
   "parents": [
-    "establishments"
+    "establishments",
+    "u喫",
+    "u茶",
+    "u店"
   ],
   "props": {
     "en": "tearoom",

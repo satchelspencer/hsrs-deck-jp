@@ -1,0 +1,18 @@
+{
+  "_id": "w5oo2uqqu92",
+  "name": "共港",
+  "order": "3.9.6.5.1",
+  "params": {
+    "_1": "八港",
+    "_g": "港",
+    "_r": "m共"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "6",
+    "jp": "共"
+  }
+}

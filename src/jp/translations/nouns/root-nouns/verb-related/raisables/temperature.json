@@ -4,7 +4,9 @@
   "order": "3",
   "parents": [
     "raisables",
-    "quantities"
+    "quantities",
+    "u温",
+    "u度"
   ],
   "props": {
     "en": "temperature",

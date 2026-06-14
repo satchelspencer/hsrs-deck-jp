@@ -1,0 +1,18 @@
+{
+  "_id": "ydqvgcp34pp",
+  "name": "甬痛",
+  "order": "2.4.0.6.0",
+  "params": {
+    "_1": "用痛",
+    "_g": "痛",
+    "_r": "m甬"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "7",
+    "jp": "甬"
+  }
+}

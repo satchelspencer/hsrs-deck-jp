@@ -3,7 +3,9 @@
   "name": "every-year",
   "order": "2",
   "parents": [
-    "continuing-times"
+    "continuing-times",
+    "u毎",
+    "u年"
   ],
   "props": {
     "en": "every year",

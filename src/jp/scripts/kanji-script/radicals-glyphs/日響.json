@@ -1,0 +1,18 @@
+{
+  "_id": "2i1nx5u8eok",
+  "desc": "variant of 曰",
+  "name": "日響",
+  "order": "4.6.1.6.1",
+  "params": {
+    "_g": "響",
+    "_r": "m日"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "17",
+    "_sl": "4",
+    "jp": "日"
+  }
+}

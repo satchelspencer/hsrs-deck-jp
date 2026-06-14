@@ -4,7 +4,8 @@
   "name": "be-snapped",
   "order": "3",
   "parents": [
-    "ichidan"
+    "ichidan",
+    "u折"
   ],
   "props": {
     "en": "be snapped",

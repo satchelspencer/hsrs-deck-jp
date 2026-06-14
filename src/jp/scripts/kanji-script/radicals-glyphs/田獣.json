@@ -1,0 +1,17 @@
+{
+  "_id": "42bkt5btr2c",
+  "name": "田獣",
+  "order": "4.9.3.9.3",
+  "params": {
+    "_g": "獣",
+    "_r": "m田"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "5",
+    "jp": "田"
+  }
+}

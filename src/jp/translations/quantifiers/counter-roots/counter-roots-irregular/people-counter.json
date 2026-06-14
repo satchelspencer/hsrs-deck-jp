@@ -4,7 +4,8 @@
   "name": "people-counter",
   "order": "1",
   "parents": [
-    "counter-roots-irregular"
+    "counter-roots-irregular",
+    "u人"
   ],
   "props": {
     "_ec": "people",

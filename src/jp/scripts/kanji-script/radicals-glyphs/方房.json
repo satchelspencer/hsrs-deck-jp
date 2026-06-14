@@ -1,0 +1,17 @@
+{
+  "_id": "vdyjekdjo5e",
+  "name": "方房",
+  "order": "3.9.3.6.0",
+  "params": {
+    "_g": "房",
+    "_r": "m方"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "4",
+    "jp": "方"
+  }
+}

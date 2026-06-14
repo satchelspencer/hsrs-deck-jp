@@ -3,7 +3,10 @@
   "name": "week-after-next",
   "order": "2",
   "parents": [
-    "wa-future-only-times"
+    "wa-future-only-times",
+    "u再",
+    "u来",
+    "u週"
   ],
   "props": {
     "en": "week after next",

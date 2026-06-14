@@ -1,0 +1,18 @@
+{
+  "_id": "x1v1cu12e58",
+  "desc": "variant of 勹",
+  "name": "𠂊静",
+  "order": "1.1.4.0.2",
+  "params": {
+    "_g": "静",
+    "_r": "m𠂊"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "9",
+    "_sl": "2",
+    "jp": "𠂊"
+  }
+}

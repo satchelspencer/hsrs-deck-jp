@@ -3,7 +3,9 @@
   "name": "corpse",
   "order": "4",
   "parents": [
-    "objects"
+    "objects",
+    "u死",
+    "u体"
   ],
   "props": {
     "en": "corpse",

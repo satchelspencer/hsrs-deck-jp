@@ -1,0 +1,17 @@
+{
+  "_id": "lb2hjdih4qb",
+  "name": "冂南",
+  "order": "2.9.3.8.0",
+  "params": {
+    "_g": "南",
+    "_r": "m冂"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "3",
+    "_sl": "2",
+    "jp": "冂"
+  }
+}

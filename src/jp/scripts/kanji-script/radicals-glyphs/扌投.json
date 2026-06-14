@@ -1,0 +1,18 @@
+{
+  "_id": "cx210ak6kbs",
+  "desc": "variant of 手",
+  "name": "扌投",
+  "order": "3.9.6.4.7",
+  "params": {
+    "_g": "投",
+    "_r": "m扌"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "扌"
+  }
+}

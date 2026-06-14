@@ -1,0 +1,17 @@
+{
+  "_id": "j3g7zmcgbh2",
+  "name": "言説",
+  "order": "2.9.4.5.0",
+  "params": {
+    "_g": "説",
+    "_r": "m言"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "7",
+    "jp": "言"
+  }
+}

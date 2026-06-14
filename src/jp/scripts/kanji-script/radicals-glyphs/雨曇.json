@@ -1,0 +1,17 @@
+{
+  "_id": "ka6roeamor4",
+  "name": "雨曇",
+  "order": "1.9.9.2.6",
+  "params": {
+    "_g": "曇",
+    "_r": "m雨"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "8",
+    "jp": "雨"
+  }
+}

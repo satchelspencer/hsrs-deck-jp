@@ -3,7 +3,10 @@
   "name": "airfield",
   "order": "4",
   "parents": [
-    "places"
+    "places",
+    "u飛",
+    "u行",
+    "u場"
   ],
   "props": {
     "en": "airfield",

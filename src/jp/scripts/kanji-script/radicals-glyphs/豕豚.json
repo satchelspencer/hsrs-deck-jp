@@ -1,0 +1,17 @@
+{
+  "_id": "g5ct712dyyc",
+  "name": "豕豚",
+  "order": "2.9.0.8.9",
+  "params": {
+    "_g": "豚",
+    "_r": "m豕"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "7",
+    "jp": "豕"
+  }
+}

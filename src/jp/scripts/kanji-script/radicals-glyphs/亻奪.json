@@ -1,0 +1,18 @@
+{
+  "_id": "mlbby5mig02",
+  "desc": "variant of 人",
+  "name": "亻奪",
+  "order": "4.9.5.8.8",
+  "params": {
+    "_g": "奪",
+    "_r": "m亻"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "2",
+    "jp": "亻"
+  }
+}

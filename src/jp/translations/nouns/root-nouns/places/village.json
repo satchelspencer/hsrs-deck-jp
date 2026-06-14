@@ -3,7 +3,8 @@
   "name": "village",
   "order": "2",
   "parents": [
-    "places"
+    "places",
+    "u村"
   ],
   "props": {
     "en": "village",

@@ -1,0 +1,17 @@
+{
+  "_id": "ddw7znsftej",
+  "name": "工恐",
+  "order": "3.9.6.6.0",
+  "params": {
+    "_g": "恐",
+    "_r": "m工"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "工"
+  }
+}

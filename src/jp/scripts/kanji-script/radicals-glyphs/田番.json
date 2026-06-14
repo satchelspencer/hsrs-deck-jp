@@ -1,0 +1,17 @@
+{
+  "_id": "95unlmblnnl",
+  "name": "田番",
+  "order": "1.9.3.2.3",
+  "params": {
+    "_g": "番",
+    "_r": "m田"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "5",
+    "jp": "田"
+  }
+}

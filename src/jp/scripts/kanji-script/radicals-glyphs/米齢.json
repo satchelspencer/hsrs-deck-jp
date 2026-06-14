@@ -1,0 +1,17 @@
+{
+  "_id": "qwbtcv17jbf",
+  "name": "米齢",
+  "order": "4.9.3.0.6",
+  "params": {
+    "_g": "齢",
+    "_r": "m米"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "6",
+    "jp": "米"
+  }
+}

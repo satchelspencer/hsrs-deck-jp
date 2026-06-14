@@ -1,0 +1,17 @@
+{
+  "_id": "omztbyh8gnb",
+  "name": "r曲",
+  "order": "3.3.8.3.8.1",
+  "params": {
+    "_g": "曲",
+    "_r": "m曲"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "曲"
+  }
+}

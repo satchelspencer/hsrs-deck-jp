@@ -1,0 +1,17 @@
+{
+  "_id": "pdcnjoke3sc",
+  "name": "欠盗",
+  "order": "3.9.6.5.4",
+  "params": {
+    "_g": "盗",
+    "_r": "m欠"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "3",
+    "_sl": "4",
+    "jp": "欠"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "cm3nozjm4qo",
+  "name": "厂娠",
+  "order": "4.1.9.4.6",
+  "params": {
+    "_g": "娠",
+    "_r": "m厂"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "2",
+    "jp": "厂"
+  }
+}

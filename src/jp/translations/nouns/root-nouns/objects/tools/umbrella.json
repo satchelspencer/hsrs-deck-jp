@@ -3,7 +3,8 @@
   "name": "umbrella",
   "order": "1",
   "parents": [
-    "tools"
+    "tools",
+    "u傘"
   ],
   "props": {
     "en": "umbrella",

@@ -4,7 +4,9 @@
   "name": "war",
   "order": "3",
   "parents": [
-    "events"
+    "events",
+    "u戦",
+    "u争"
   ],
   "props": {
     "en": "war",

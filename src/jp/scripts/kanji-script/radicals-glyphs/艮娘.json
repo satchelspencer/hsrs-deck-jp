@@ -1,0 +1,17 @@
+{
+  "_id": "vgswp3lk8xm",
+  "name": "艮娘",
+  "order": "1.9.0.1.3",
+  "params": {
+    "_g": "娘",
+    "_r": "m艮"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "6",
+    "jp": "艮"
+  }
+}

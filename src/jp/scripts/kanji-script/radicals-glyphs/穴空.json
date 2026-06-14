@@ -1,0 +1,17 @@
+{
+  "_id": "wsn9ugtge88",
+  "name": "穴空",
+  "order": "2.4.5.8.9",
+  "params": {
+    "_g": "空",
+    "_r": "m穴"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "穴"
+  }
+}

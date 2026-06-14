@@ -5,7 +5,8 @@
   "order": "3",
   "parents": [
     "te-iru-verbs-state",
-    "ichidan"
+    "ichidan",
+    "u晴"
   ],
   "props": {
     "_st": "cleared up",

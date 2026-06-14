@@ -4,7 +4,8 @@
   "name": "insect",
   "order": "3",
   "parents": [
-    "animals"
+    "animals",
+    "u虫"
   ],
   "props": {
     "en": "insect",

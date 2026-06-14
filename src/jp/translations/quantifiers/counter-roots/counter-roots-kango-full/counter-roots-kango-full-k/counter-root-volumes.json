@@ -4,7 +4,8 @@
   "name": "counter-root-volumes",
   "order": "3",
   "parents": [
-    "counter-roots-kango-full-k"
+    "counter-roots-kango-full-k",
+    "u巻"
   ],
   "props": {
     "_ec": "volumes",

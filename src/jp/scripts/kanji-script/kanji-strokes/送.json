@@ -1,0 +1,15 @@
+{
+  "_id": "6us5h8914km",
+  "name": "送",
+  "order": "2.6.5.5.6",
+  "params": {
+    "_wd": "u送"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "送",
+    "_st": "CQJNMRJjAwIICQkNA01ODmMAAQACAANjggSFCokPBE0wJWMBAAQBBQBjB4ESgxqDYwIABAAFAARNKTdjAgAFAAcAQzs2SzRVNGMDAAUACAADTUImYwABAQIBA2OBE4gglycCTUM8YwgEEA4UFQJNFBNjBAIKCAsLB00NM2MCAQQBBQBTGzAcL2MDgQQAAgNjhw2HCQATYwECAgMABUMdSxdQFFIETRBUYwMACYIOgXMeByMJYwwDEwQaBA"
+  }
+}

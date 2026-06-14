@@ -4,7 +4,9 @@
   "name": "map",
   "order": "1",
   "parents": [
-    "objects"
+    "objects",
+    "u地",
+    "u図"
   ],
   "props": {
     "en": "map",

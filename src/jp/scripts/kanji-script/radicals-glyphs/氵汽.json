@@ -1,0 +1,18 @@
+{
+  "_id": "6nr9ajykiaj",
+  "desc": "variant of 水",
+  "name": "氵汽",
+  "order": "4.9.3.0.2",
+  "params": {
+    "_g": "汽",
+    "_r": "m氵"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "氵"
+  }
+}

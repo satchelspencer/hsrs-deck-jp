@@ -1,0 +1,18 @@
+{
+  "_id": "ul09i0vqnen",
+  "desc": "variant of 人",
+  "name": "亻難",
+  "order": "2.2.6.5.3",
+  "params": {
+    "_g": "難",
+    "_r": "m亻"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "11",
+    "_sl": "2",
+    "jp": "亻"
+  }
+}

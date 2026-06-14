@@ -4,7 +4,9 @@
   "name": "sentence",
   "order": "3",
   "parents": [
-    "readables"
+    "readables",
+    "u文",
+    "u章"
   ],
   "props": {
     "en": "sentence",

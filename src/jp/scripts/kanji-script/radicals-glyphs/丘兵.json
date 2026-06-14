@@ -1,0 +1,17 @@
+{
+  "_id": "js2eihsgq2t",
+  "name": "丘兵",
+  "order": "4.9.6.6.1",
+  "params": {
+    "_g": "兵",
+    "_r": "m丘"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "丘"
+  }
+}

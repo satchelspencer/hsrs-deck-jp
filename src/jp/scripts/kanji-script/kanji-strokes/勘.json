@@ -1,0 +1,15 @@
+{
+  "_id": "ctdct5c7hfw",
+  "name": "勘",
+  "order": "4.9.6.1.4",
+  "params": {
+    "_wd": "u勘"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "勘",
+    "_st": "CwRNDh5jAwEFAAcAYweBFIMehGMCAAWBBwADTRgRYwEBAQIBBFMZPBlBA00tDmMBAQECAQNzACcALQJNGihjAwARghOCAk0aNWMEgQ6CE4METQpDYwIBBgAIAGMKghmEI4VjAwAFgQgAA00hRGMAAAABAAJjgQWECogPBU0pQ2MBAQECAQRjAAEAAgAFYwAGAgcHB3MGgQaCBU0SRWMBAQECAQRjAAMABAALUxVdJV1jCwAPgRGCBk07LGMCAQUBBwBjCoIWhBqFYwSBBQEEBGMADIQiiS9jgwmHBYoCA01NEmMBAQEDAQRjgRWENpNJ"
+  }
+}

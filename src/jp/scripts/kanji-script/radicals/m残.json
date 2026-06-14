@@ -1,0 +1,10 @@
+{
+  "_id": "ef4cchucqgd",
+  "name": "m残",
+  "parents": [
+    "radicals"
+  ],
+  "props": {
+    "_m": "remainder, leftover, balance"
+  }
+}

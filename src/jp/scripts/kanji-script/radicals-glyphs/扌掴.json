@@ -1,0 +1,18 @@
+{
+  "_id": "hxkttuox82k",
+  "desc": "variant of 手",
+  "name": "扌掴",
+  "order": "4.2.8.4.6",
+  "params": {
+    "_g": "掴",
+    "_r": "m扌"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "扌"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "w6f6czumm5d",
+  "name": "矛柔",
+  "order": "3.2.2.0.5",
+  "params": {
+    "_g": "柔",
+    "_r": "m矛"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "矛"
+  }
+}

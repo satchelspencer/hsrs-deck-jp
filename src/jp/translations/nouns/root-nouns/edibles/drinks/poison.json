@@ -4,7 +4,8 @@
   "name": "poison",
   "order": "4",
   "parents": [
-    "drinks"
+    "drinks",
+    "u毒"
   ],
   "props": {
     "en": "poison",

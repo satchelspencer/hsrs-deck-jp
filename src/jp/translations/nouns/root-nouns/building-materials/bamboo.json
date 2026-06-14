@@ -4,7 +4,8 @@
   "order": "2",
   "parents": [
     "building-materials",
-    "plants"
+    "plants",
+    "u竹"
   ],
   "props": {
     "en": "bamboo",

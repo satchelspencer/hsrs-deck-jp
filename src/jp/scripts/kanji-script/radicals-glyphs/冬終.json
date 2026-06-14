@@ -1,0 +1,17 @@
+{
+  "_id": "b1x796v18oo",
+  "name": "冬終",
+  "order": "2.1.6.6.5",
+  "params": {
+    "_g": "終",
+    "_r": "m冬"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "5",
+    "jp": "冬"
+  }
+}

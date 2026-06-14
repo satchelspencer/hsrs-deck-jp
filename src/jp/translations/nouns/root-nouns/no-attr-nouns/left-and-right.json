@@ -3,7 +3,9 @@
   "name": "left-and-right",
   "order": "3",
   "parents": [
-    "no-attr-nouns"
+    "no-attr-nouns",
+    "u左",
+    "u右"
   ],
   "props": {
     "en": "left and right",

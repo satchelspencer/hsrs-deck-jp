@@ -1,0 +1,17 @@
+{
+  "_id": "gn7c6vkz88f",
+  "name": "木殺",
+  "order": "2.6.7.3.1",
+  "params": {
+    "_g": "殺",
+    "_r": "m木"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "3",
+    "_sl": "4",
+    "jp": "木"
+  }
+}

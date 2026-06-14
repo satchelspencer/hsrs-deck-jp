@@ -4,7 +4,9 @@
   "name": "standpoint",
   "order": "4",
   "parents": [
-    "people-no"
+    "people-no",
+    "u立",
+    "u場"
   ],
   "props": {
     "en": "standpoint",

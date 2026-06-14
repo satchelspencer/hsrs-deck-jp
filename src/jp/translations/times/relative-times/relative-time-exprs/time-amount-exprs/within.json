@@ -3,7 +3,9 @@
   "name": "within",
   "order": "3",
   "parents": [
-    "time-amount-exprs"
+    "time-amount-exprs",
+    "u以",
+    "u内"
   ],
   "props": {
     "en": "within",

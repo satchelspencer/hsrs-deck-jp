@@ -1,0 +1,18 @@
+{
+  "_id": "oo3tw6ux0aa",
+  "name": "羊義",
+  "order": "3.3.8.9.4",
+  "params": {
+    "_1": "䒑義",
+    "_g": "義",
+    "_r": "m羊"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "羊"
+  }
+}

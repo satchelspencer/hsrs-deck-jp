@@ -1,0 +1,17 @@
+{
+  "_id": "9ojtdh1xqg6",
+  "name": "r肉",
+  "order": "1.5.8.4.5.1",
+  "params": {
+    "_g": "肉",
+    "_r": "m肉"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "肉"
+  }
+}

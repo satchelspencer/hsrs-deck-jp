@@ -4,7 +4,9 @@
   "name": "genuine",
   "order": "4",
   "parents": [
-    "na-people"
+    "na-people",
+    "u素",
+    "u直"
   ],
   "props": {
     "en": "genuine",

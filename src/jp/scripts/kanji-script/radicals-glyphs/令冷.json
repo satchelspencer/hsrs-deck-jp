@@ -1,0 +1,17 @@
+{
+  "_id": "1x1fr88s7zg",
+  "name": "令冷",
+  "order": "2.2.2.7.4",
+  "params": {
+    "_g": "冷",
+    "_r": "m令"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "3",
+    "_sl": "5",
+    "jp": "令"
+  }
+}

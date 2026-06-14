@@ -6,7 +6,8 @@
   "parents": [
     "tall-growing",
     "plants",
-    "building-materials"
+    "building-materials",
+    "u草"
   ],
   "props": {
     "en": "grass",

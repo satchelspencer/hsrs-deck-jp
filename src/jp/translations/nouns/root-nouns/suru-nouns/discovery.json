@@ -4,7 +4,9 @@
   "order": "4",
   "parents": [
     "suru-nouns",
-    "people-do-volitional"
+    "people-do-volitional",
+    "u発",
+    "u見"
   ],
   "props": {
     "_v": "discover",

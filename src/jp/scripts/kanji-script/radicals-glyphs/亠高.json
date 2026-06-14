@@ -1,0 +1,17 @@
+{
+  "_id": "i02ul5cnw28",
+  "name": "亠高",
+  "order": "1.2.9.3.1",
+  "params": {
+    "_g": "高",
+    "_r": "m亠"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "2",
+    "jp": "亠"
+  }
+}

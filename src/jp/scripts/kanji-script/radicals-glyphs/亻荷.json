@@ -1,0 +1,18 @@
+{
+  "_id": "d87wam3g7lb",
+  "desc": "variant of 人",
+  "name": "亻荷",
+  "order": "2.6.0.6.9",
+  "params": {
+    "_g": "荷",
+    "_r": "m亻"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "2",
+    "jp": "亻"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "zdue0t9t607",
+  "name": "口認",
+  "order": "4.1.0.0.5",
+  "params": {
+    "_g": "認",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

@@ -3,7 +3,10 @@
   "name": "insufficient",
   "order": "4",
   "parents": [
-    "na-attributive"
+    "na-attributive",
+    "u不",
+    "u十",
+    "u分"
   ],
   "props": {
     "en": "insufficient",

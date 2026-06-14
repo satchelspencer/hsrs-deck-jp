@@ -1,0 +1,18 @@
+{
+  "_id": "ayhg5eyk64h",
+  "desc": "variant of 艸",
+  "name": "艹茶",
+  "order": "1.9.2.8.6",
+  "params": {
+    "_g": "茶",
+    "_r": "m艹"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "艹"
+  }
+}

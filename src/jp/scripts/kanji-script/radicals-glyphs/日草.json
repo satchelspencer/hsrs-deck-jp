@@ -1,0 +1,18 @@
+{
+  "_id": "c3fa1q1cwoi",
+  "desc": "variant of 曰",
+  "name": "日草",
+  "order": "2.9.8.9.8",
+  "params": {
+    "_g": "草",
+    "_r": "m日"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "4",
+    "jp": "日"
+  }
+}

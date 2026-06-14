@@ -1,0 +1,18 @@
+{
+  "_id": "u0c4lvn605o",
+  "desc": "variant of 网",
+  "name": "罒漫",
+  "order": "3.9.6.5.7",
+  "params": {
+    "_g": "漫",
+    "_r": "m罒"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "5",
+    "jp": "罒"
+  }
+}

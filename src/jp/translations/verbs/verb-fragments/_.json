@@ -1,0 +1,10 @@
+{
+  "_id": "7dizphjy6co",
+  "name": "verb-fragments",
+  "parents": [
+    "verbs"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

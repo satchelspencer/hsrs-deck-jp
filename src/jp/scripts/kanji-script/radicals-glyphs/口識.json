@@ -1,0 +1,17 @@
+{
+  "_id": "rchi5qp96hw",
+  "name": "口識",
+  "order": "4.1.4.1.0",
+  "params": {
+    "_g": "識",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

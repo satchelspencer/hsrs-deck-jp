@@ -1,0 +1,17 @@
+{
+  "_id": "zhmhbdhchzv",
+  "name": "土赤",
+  "order": "2.4.6.6.2",
+  "params": {
+    "_g": "赤",
+    "_r": "m土"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "土"
+  }
+}

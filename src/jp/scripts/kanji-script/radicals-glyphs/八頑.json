@@ -1,0 +1,17 @@
+{
+  "_id": "7bcdutjuvsi",
+  "name": "八頑",
+  "order": "1.9.0.4.6",
+  "params": {
+    "_g": "頑",
+    "_r": "m八"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "12",
+    "_sl": "2",
+    "jp": "八"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "t4og9d7ay98",
+  "name": "土座",
+  "order": "1.4.3.9.1",
+  "params": {
+    "_g": "座",
+    "_r": "m土"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "3",
+    "jp": "土"
+  }
+}

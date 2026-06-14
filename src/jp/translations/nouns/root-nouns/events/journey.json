@@ -4,7 +4,8 @@
   "name": "journey",
   "order": "4",
   "parents": [
-    "events"
+    "events",
+    "u旅"
   ],
   "props": {
     "en": "journey",

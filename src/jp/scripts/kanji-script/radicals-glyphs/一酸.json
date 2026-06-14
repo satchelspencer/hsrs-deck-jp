@@ -1,0 +1,17 @@
+{
+  "_id": "8d35mv5s1gj",
+  "name": "一酸",
+  "order": "3.4.5.3.0",
+  "params": {
+    "_g": "酸",
+    "_r": "m一"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "1",
+    "jp": "一"
+  }
+}

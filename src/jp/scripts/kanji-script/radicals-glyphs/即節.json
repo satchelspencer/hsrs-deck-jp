@@ -1,0 +1,18 @@
+{
+  "_id": "vb59pcbrk1n",
+  "name": "即節",
+  "order": "2.9.5.2.5",
+  "params": {
+    "_1": "卩節",
+    "_g": "節",
+    "_r": "m即"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "7",
+    "jp": "即"
+  }
+}

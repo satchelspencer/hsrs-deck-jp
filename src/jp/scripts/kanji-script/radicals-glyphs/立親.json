@@ -1,0 +1,17 @@
+{
+  "_id": "vz3a1f693ad",
+  "name": "立親",
+  "order": "2.9.0.9.1",
+  "params": {
+    "_g": "親",
+    "_r": "m立"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "立"
+  }
+}

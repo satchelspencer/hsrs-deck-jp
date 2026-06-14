@@ -1,0 +1,17 @@
+{
+  "_id": "lh5ctb0elun",
+  "name": "火煙",
+  "order": "4.9.7.3.3",
+  "params": {
+    "_g": "煙",
+    "_r": "m火"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "火"
+  }
+}

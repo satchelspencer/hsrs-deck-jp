@@ -1,0 +1,18 @@
+{
+  "_id": "fhfp261qfbn",
+  "desc": "variant of 刀",
+  "name": "刂利",
+  "order": "1.2.4.5.0",
+  "params": {
+    "_g": "利",
+    "_r": "m刂"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "2",
+    "jp": "刂"
+  }
+}

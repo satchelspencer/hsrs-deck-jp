@@ -1,0 +1,17 @@
+{
+  "_id": "rzcsxj8fbk2",
+  "name": "r止",
+  "order": "1.4.3.7.1.1",
+  "params": {
+    "_g": "止",
+    "_r": "m止"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "止"
+  }
+}

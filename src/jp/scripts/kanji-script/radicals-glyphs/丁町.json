@@ -1,0 +1,17 @@
+{
+  "_id": "p9rabzn81kp",
+  "name": "丁町",
+  "order": "2.6.5.8.7",
+  "params": {
+    "_g": "町",
+    "_r": "m丁"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "2",
+    "jp": "丁"
+  }
+}

@@ -4,7 +4,8 @@
   "name": "counter-root-cups",
   "order": "2",
   "parents": [
-    "counter-roots-kango-full-h"
+    "counter-roots-kango-full-h",
+    "u杯"
   ],
   "props": {
     "_ec": "cups",

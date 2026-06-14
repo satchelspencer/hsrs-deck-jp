@@ -1,0 +1,18 @@
+{
+  "_id": "amsyild9sb0",
+  "desc": "variant of 肉",
+  "name": "月燃",
+  "order": "4.4.0.8.1",
+  "params": {
+    "_g": "燃",
+    "_r": "m月"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "4",
+    "jp": "月"
+  }
+}

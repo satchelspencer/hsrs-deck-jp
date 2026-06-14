@@ -1,0 +1,17 @@
+{
+  "_id": "hb5cgrh5ym1",
+  "name": "冂筒",
+  "order": "3.9.1.8.1",
+  "params": {
+    "_g": "筒",
+    "_r": "m冂"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "2",
+    "jp": "冂"
+  }
+}

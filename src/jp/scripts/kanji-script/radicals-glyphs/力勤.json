@@ -1,0 +1,17 @@
+{
+  "_id": "nq417d0qczo",
+  "name": "力勤",
+  "order": "4.9.3.4.5",
+  "params": {
+    "_g": "勤",
+    "_r": "m力"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "11",
+    "_sl": "2",
+    "jp": "力"
+  }
+}

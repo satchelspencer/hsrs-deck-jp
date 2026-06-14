@@ -1,0 +1,17 @@
+{
+  "_id": "3dmyqc0wsid",
+  "name": "r用",
+  "order": "2.4.0.6.0.1",
+  "params": {
+    "_g": "用",
+    "_r": "m用"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "用"
+  }
+}

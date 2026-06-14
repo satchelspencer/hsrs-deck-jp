@@ -1,0 +1,17 @@
+{
+  "_id": "bft8jy1u3xj",
+  "name": "林禁",
+  "order": "3.1.0.3.4",
+  "params": {
+    "_g": "禁",
+    "_r": "m林"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "8",
+    "jp": "林"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "dq86ublzucs",
+  "name": "布怖",
+  "order": "2.4.1.1.6",
+  "params": {
+    "_g": "怖",
+    "_r": "m布"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "5",
+    "jp": "布"
+  }
+}

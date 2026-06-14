@@ -1,0 +1,17 @@
+{
+  "_id": "x1m7bmzmfiq",
+  "name": "r毎",
+  "order": "1.9.7.6.2.1",
+  "params": {
+    "_g": "毎",
+    "_r": "m毎"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "毎"
+  }
+}

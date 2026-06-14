@@ -1,0 +1,17 @@
+{
+  "_id": "xyb7tdx7fl6",
+  "name": "付符",
+  "order": "1.6.0.8.5",
+  "params": {
+    "_g": "符",
+    "_r": "m付"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "5",
+    "jp": "付"
+  }
+}

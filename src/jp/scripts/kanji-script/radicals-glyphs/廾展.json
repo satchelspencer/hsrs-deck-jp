@@ -1,0 +1,17 @@
+{
+  "_id": "08qervzr4mz",
+  "name": "廾展",
+  "order": "3.9.6.0.3",
+  "params": {
+    "_g": "展",
+    "_r": "m廾"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "3",
+    "jp": "廾"
+  }
+}

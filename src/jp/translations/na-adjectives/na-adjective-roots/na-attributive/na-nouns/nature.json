@@ -4,7 +4,9 @@
   "order": "2",
   "parents": [
     "na-nouns",
-    "na-people-do"
+    "na-people-do",
+    "u自",
+    "u然"
   ],
   "props": {
     "_at": "natural",

@@ -1,0 +1,17 @@
+{
+  "_id": "oln2vwf6548",
+  "name": "r伝",
+  "order": "3.1.5.8.5.1",
+  "params": {
+    "_g": "伝",
+    "_r": "m伝"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "伝"
+  }
+}

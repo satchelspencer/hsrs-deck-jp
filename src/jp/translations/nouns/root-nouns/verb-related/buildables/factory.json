@@ -5,7 +5,9 @@
   "order": "4",
   "parents": [
     "buildables",
-    "places"
+    "places",
+    "u工",
+    "u場"
   ],
   "props": {
     "en": "factory",

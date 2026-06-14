@@ -7,7 +7,9 @@
     "high-low",
     "ken-buildings-countable",
     "places",
-    "categories"
+    "categories",
+    "u建",
+    "u物"
   ],
   "props": {
     "en": "building",

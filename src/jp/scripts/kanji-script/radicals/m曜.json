@@ -1,0 +1,10 @@
+{
+  "_id": "bmddc389koq",
+  "name": "m曜",
+  "parents": [
+    "radicals"
+  ],
+  "props": {
+    "_m": "weekday"
+  }
+}

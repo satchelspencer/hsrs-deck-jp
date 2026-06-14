@@ -6,7 +6,8 @@
   "parents": [
     "i-attributive-standard",
     "i-people",
-    "i-people-do"
+    "i-people-do",
+    "u遅"
   ],
   "props": {
     "en": "slow",

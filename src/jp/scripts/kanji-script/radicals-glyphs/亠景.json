@@ -1,0 +1,17 @@
+{
+  "_id": "8vr6v97djdu",
+  "name": "亠景",
+  "order": "3.4.1.6.1",
+  "params": {
+    "_g": "景",
+    "_r": "m亠"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "2",
+    "jp": "亠"
+  }
+}

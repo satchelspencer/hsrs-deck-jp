@@ -1,0 +1,17 @@
+{
+  "_id": "3bdq3w9tm7x",
+  "name": "口拾",
+  "order": "3.9.0.7.1",
+  "params": {
+    "_g": "拾",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

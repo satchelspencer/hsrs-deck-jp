@@ -1,0 +1,15 @@
+{
+  "_id": "f48f5accdut",
+  "name": "出",
+  "order": "1.2.8.3.6",
+  "params": {
+    "_wd": "u出"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "出",
+    "_st": "BQNNNQ1jAQECAwIFYwADAD4ARAVNHSRjAQEBAwEEYwADgQiDDWMAAQADAgJjC4MihTiGBE1WH2MBAQEDAQVjgQWBB4INYwABAAKBAwVNGUdjAQECAwEEY4EDgQmDD2MAAQEDAgNjDYQqhjuHBE1VQ2MBAQIDAQVjAAUACQAOYwACAAMABQ"
+  }
+}

@@ -4,7 +4,9 @@
   "name": "absence",
   "order": "3",
   "parents": [
-    "abstract-activities"
+    "abstract-activities",
+    "u留",
+    "u守"
   ],
   "props": {
     "en": "absence",

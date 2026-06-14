@@ -4,7 +4,9 @@
   "order": "2",
   "parents": [
     "containers",
-    "ko-countable"
+    "ko-countable",
+    "u茶",
+    "u碗"
   ],
   "props": {
     "en": "rice bowl",

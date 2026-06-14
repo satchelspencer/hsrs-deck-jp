@@ -5,7 +5,9 @@
   "order": "2",
   "parents": [
     "choosables",
-    "wago-countable"
+    "wago-countable",
+    "u目",
+    "u標"
   ],
   "props": {
     "en": "goal",

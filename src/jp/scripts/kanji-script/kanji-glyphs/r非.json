@@ -1,0 +1,17 @@
+{
+  "_id": "jb6zbk7peh9",
+  "name": "r非",
+  "order": "2.3.4.5.8.1",
+  "params": {
+    "_g": "非",
+    "_r": "m非"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "8",
+    "jp": "非"
+  }
+}

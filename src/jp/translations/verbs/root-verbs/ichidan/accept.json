@@ -5,7 +5,9 @@
   "order": "4",
   "parents": [
     "ichidan",
-    "people-do-volitional"
+    "people-do-volitional",
+    "u受",
+    "u入"
   ],
   "props": {
     "en": "accept",

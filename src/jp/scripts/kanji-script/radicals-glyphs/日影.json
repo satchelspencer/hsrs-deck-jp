@@ -1,0 +1,18 @@
+{
+  "_id": "qdjg1hqcv7q",
+  "desc": "variant of 曰",
+  "name": "日影",
+  "order": "4.2.0.6.9",
+  "params": {
+    "_g": "影",
+    "_r": "m日"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "日"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "s804oycxj4m",
+  "name": "口短",
+  "order": "2.2.5.0.0",
+  "params": {
+    "_g": "短",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

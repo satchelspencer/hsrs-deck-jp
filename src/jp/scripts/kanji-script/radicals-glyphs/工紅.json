@@ -1,0 +1,17 @@
+{
+  "_id": "1s9aga3nx3x",
+  "name": "工紅",
+  "order": "2.9.6.6.4",
+  "params": {
+    "_g": "紅",
+    "_r": "m工"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "3",
+    "jp": "工"
+  }
+}

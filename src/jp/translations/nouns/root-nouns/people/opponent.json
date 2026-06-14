@@ -4,7 +4,9 @@
   "name": "opponent",
   "order": "3",
   "parents": [
-    "people"
+    "people",
+    "u相",
+    "u手"
   ],
   "props": {
     "en": "opponent",

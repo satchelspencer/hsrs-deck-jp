@@ -4,7 +4,8 @@
   "name": "counter-root-slices",
   "order": "2",
   "parents": [
-    "counter-roots-kango-4+-only-k"
+    "counter-roots-kango-4+-only-k",
+    "u切"
   ],
   "props": {
     "_ec": "slices",

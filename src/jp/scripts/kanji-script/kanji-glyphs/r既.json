@@ -1,0 +1,17 @@
+{
+  "_id": "5sz15j3ov9p",
+  "name": "r既",
+  "order": "4.9.0.1.0.1",
+  "params": {
+    "_g": "既",
+    "_r": "m既"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "10",
+    "jp": "既"
+  }
+}

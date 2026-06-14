@@ -1,0 +1,17 @@
+{
+  "_id": "ig8ic9v913k",
+  "name": "米歯",
+  "order": "2.9.1.7.2",
+  "params": {
+    "_g": "歯",
+    "_r": "m米"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "6",
+    "jp": "米"
+  }
+}

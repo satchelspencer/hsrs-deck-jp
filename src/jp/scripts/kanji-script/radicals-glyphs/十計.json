@@ -1,0 +1,17 @@
+{
+  "_id": "9xociedie3m",
+  "name": "十計",
+  "order": "3.2.0.1.7",
+  "params": {
+    "_g": "計",
+    "_r": "m十"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "2",
+    "jp": "十"
+  }
+}

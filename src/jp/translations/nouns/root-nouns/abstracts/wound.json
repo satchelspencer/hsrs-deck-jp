@@ -5,7 +5,8 @@
   "order": "4",
   "parents": [
     "abstracts",
-    "ken-matters-countable"
+    "ken-matters-countable",
+    "u傷"
   ],
   "props": {
     "en": "wound",

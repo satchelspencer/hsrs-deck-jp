@@ -4,7 +4,9 @@
   "name": "terms",
   "order": "4",
   "parents": [
-    "readables"
+    "readables",
+    "u条",
+    "u件"
   ],
   "props": {
     "en": "terms",

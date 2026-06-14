@@ -1,0 +1,17 @@
+{
+  "_id": "97252s7yzci",
+  "name": "土壊",
+  "order": "3.2.8.1.7",
+  "params": {
+    "_g": "壊",
+    "_r": "m土"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "土"
+  }
+}

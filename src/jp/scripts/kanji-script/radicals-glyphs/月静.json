@@ -1,0 +1,18 @@
+{
+  "_id": "xdswftxha5x",
+  "desc": "variant of 肉",
+  "name": "月静",
+  "order": "1.1.4.0.2",
+  "params": {
+    "_g": "静",
+    "_r": "m月"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "4",
+    "jp": "月"
+  }
+}

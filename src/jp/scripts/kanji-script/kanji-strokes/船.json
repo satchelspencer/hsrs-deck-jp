@@ -1,0 +1,15 @@
+{
+  "_id": "yi88qh636to",
+  "name": "船",
+  "order": "3.6.0.7.4",
+  "params": {
+    "_wd": "u船"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "船",
+    "_st": "CwNNIQ5jAAEAAgAEY4EDggaECgNNEx5jAQECAwIFQxdIElgMXwVNFh9jBYEPgxKDYwMABAEEBGMAAgA4ADtjAAiEA4cBAk0eKEMgKiEtIi4ETR85YwEBAgMCBGMABAALABFjAAIAAwAEA00KOWMBAQIBBAFzHYckiQNNQRljAQEBAwAEY4IFhxGLFgNNSRRjBQAMEhMZYwICBAMFBARNOUBjAQECAgIEYwEGAgwDE2MAAQADAAQETTtBYwmBF4Mcg2MCAAMBAwNjgQWDDIUUA00_WGMHgQ6BFYFjAQACAAMA"
+  }
+}

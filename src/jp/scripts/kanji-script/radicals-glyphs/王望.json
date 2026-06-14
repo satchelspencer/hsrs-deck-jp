@@ -1,0 +1,18 @@
+{
+  "_id": "82i84a1a0rd",
+  "desc": "variant of 玉",
+  "name": "王望",
+  "order": "4.6.0.9.8",
+  "params": {
+    "_g": "望",
+    "_r": "m王"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "4",
+    "jp": "王"
+  }
+}

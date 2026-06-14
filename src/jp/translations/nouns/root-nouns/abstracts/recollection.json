@@ -4,7 +4,9 @@
   "name": "recollection",
   "order": "4",
   "parents": [
-    "abstracts"
+    "abstracts",
+    "u思",
+    "u出"
   ],
   "props": {
     "en": "recollection",

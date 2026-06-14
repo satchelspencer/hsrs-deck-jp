@@ -5,7 +5,9 @@
   "order": "4",
   "parents": [
     "shapes",
-    "no-attr-nouns"
+    "no-attr-nouns",
+    "u三",
+    "u角"
   ],
   "props": {
     "_at": "triangular",

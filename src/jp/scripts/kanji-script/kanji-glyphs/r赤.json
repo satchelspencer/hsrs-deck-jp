@@ -1,0 +1,18 @@
+{
+  "_id": "lrkpn1te7zl",
+  "name": "r赤",
+  "order": "2.4.6.6.2.1",
+  "params": {
+    "_1": "土赤",
+    "_g": "赤",
+    "_r": "m赤"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "7",
+    "jp": "赤"
+  }
+}

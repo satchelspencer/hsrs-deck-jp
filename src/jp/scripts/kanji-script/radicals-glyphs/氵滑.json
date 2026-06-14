@@ -1,0 +1,18 @@
+{
+  "_id": "8mpc4c2atdi",
+  "desc": "variant of 水",
+  "name": "氵滑",
+  "order": "3.9.3.0.3",
+  "params": {
+    "_g": "滑",
+    "_r": "m氵"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "氵"
+  }
+}

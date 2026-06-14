@@ -3,7 +3,8 @@
   "name": "neck",
   "order": "3",
   "parents": [
-    "body-parts"
+    "body-parts",
+    "u首"
   ],
   "props": {
     "en": "neck",

@@ -1,0 +1,17 @@
+{
+  "_id": "7wgz54o5dj7",
+  "name": "牛告",
+  "order": "3.3.6.6.8",
+  "params": {
+    "_g": "告",
+    "_r": "m牛"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "牛"
+  }
+}

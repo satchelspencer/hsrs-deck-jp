@@ -1,0 +1,17 @@
+{
+  "_id": "b99hef3z8hb",
+  "name": "千活",
+  "order": "2.3.6.1.1",
+  "params": {
+    "_g": "活",
+    "_r": "m千"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "3",
+    "jp": "千"
+  }
+}

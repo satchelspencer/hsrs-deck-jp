@@ -1,0 +1,17 @@
+{
+  "_id": "n7xabq9uxn2",
+  "name": "r池",
+  "order": "3.9.5.5.1.1",
+  "params": {
+    "_g": "池",
+    "_r": "m池"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "池"
+  }
+}

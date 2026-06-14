@@ -4,7 +4,9 @@
   "name": "reiwa-era",
   "order": "2",
   "parents": [
-    "eras"
+    "eras",
+    "u令",
+    "u和"
   ],
   "props": {
     "en": "reiwa era",

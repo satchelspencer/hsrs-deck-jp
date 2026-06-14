@@ -1,0 +1,17 @@
+{
+  "_id": "kchyzdr32la",
+  "name": "木査",
+  "order": "4.9.3.1.1",
+  "params": {
+    "_g": "査",
+    "_r": "m木"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "木"
+  }
+}

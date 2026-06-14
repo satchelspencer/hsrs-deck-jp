@@ -3,7 +3,8 @@
   "name": "red-color",
   "order": "3",
   "parents": [
-    "colors"
+    "colors",
+    "u赤"
   ],
   "props": {
     "en": "red color",

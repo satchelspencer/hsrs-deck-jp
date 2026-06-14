@@ -1,0 +1,11 @@
+{
+  "_id": "m6li1j93q8m",
+  "name": "katakana-reads",
+  "order": "2.1",
+  "parents": [
+    "kana-reads"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

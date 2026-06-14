@@ -1,0 +1,10 @@
+{
+  "_id": "12josey5qgq",
+  "name": "m京",
+  "parents": [
+    "radicals"
+  ],
+  "props": {
+    "_m": "capital, 10**16"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "_id": "uyxm2ov51w3",
+  "desc": "variant of 辶",
+  "name": "⻌過",
+  "order": "3.9.2.4.8",
+  "params": {
+    "_g": "過",
+    "_r": "m⻌"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "10",
+    "_sl": "3",
+    "jp": "⻌"
+  }
+}

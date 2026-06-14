@@ -4,7 +4,9 @@
   "name": "world",
   "order": "1",
   "parents": [
-    "places"
+    "places",
+    "u世",
+    "u界"
   ],
   "props": {
     "en": "world",

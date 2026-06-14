@@ -1,0 +1,10 @@
+{
+  "_id": "owcqlhqdid0",
+  "name": "m市",
+  "parents": [
+    "radicals"
+  ],
+  "props": {
+    "_m": "market, city, town"
+  }
+}

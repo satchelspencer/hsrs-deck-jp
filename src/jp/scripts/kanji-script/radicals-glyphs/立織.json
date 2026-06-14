@@ -1,0 +1,17 @@
+{
+  "_id": "0al6fplnhda",
+  "name": "立織",
+  "order": "4.4.1.3.5",
+  "params": {
+    "_g": "織",
+    "_r": "m立"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "5",
+    "jp": "立"
+  }
+}

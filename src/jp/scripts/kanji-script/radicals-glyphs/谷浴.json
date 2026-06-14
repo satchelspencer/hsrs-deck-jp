@@ -1,0 +1,18 @@
+{
+  "_id": "mznjn0fvaf4",
+  "name": "谷浴",
+  "order": "2.9.5.3.8",
+  "params": {
+    "_1": "口浴",
+    "_g": "浴",
+    "_r": "m谷"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "7",
+    "jp": "谷"
+  }
+}

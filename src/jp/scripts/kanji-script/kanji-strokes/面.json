@@ -1,0 +1,15 @@
+{
+  "_id": "81o8w2b3hy7",
+  "name": "面",
+  "order": "1.2.5.0.1",
+  "params": {
+    "_wd": "u面"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "面",
+    "_st": "CQRNFhRjBQEIAAwAQy0TQBFOEWMDAAYACgADTTQXYwAAAAEAAmOBA4QJiA0ETQ8oYwICAgMDBWMBDAIaAypjAAIAAwAFBU0SK2MUgjmFRYZjBQAHAgcGY4EMgxqGKWMAAoEDgQUDTScrYwEBAQICBGMACwEbASgDTUEoYwEBAgMCBGMAB4EggikCTSo3YwMAFIIXggJNKkdjBAASgRaCAk0WWGMPgTODQIM"
+  }
+}

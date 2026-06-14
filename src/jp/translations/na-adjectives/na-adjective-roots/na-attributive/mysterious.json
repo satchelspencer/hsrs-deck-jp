@@ -4,7 +4,10 @@
   "name": "mysterious",
   "order": "4",
   "parents": [
-    "na-attributive"
+    "na-attributive",
+    "u不",
+    "u思",
+    "u議"
   ],
   "props": {
     "en": "mysterious",

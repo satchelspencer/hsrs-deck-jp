@@ -1,0 +1,17 @@
+{
+  "_id": "i4ynl428xz9",
+  "name": "一剣",
+  "order": "4.3.7.6.1",
+  "params": {
+    "_g": "剣",
+    "_r": "m一"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "3",
+    "_sl": "1",
+    "jp": "一"
+  }
+}

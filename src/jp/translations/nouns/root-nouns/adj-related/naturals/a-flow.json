@@ -4,7 +4,8 @@
   "name": "a-flow",
   "order": "3",
   "parents": [
-    "naturals"
+    "naturals",
+    "u流"
   ],
   "props": {
     "en": "a flow",

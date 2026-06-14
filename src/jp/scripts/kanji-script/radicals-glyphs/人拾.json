@@ -1,0 +1,17 @@
+{
+  "_id": "b5gevx0d4kl",
+  "name": "人拾",
+  "order": "3.9.0.7.1",
+  "params": {
+    "_g": "拾",
+    "_r": "m人"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "2",
+    "jp": "人"
+  }
+}

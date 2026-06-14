@@ -1,0 +1,15 @@
+{
+  "_id": "2xtta7i5ki5",
+  "name": "直",
+  "order": "2.3.0.0.1",
+  "params": {
+    "_wd": "u直"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "直",
+    "_st": "CARNGRxjAgAFAAcAYxGCHYMuhGMDAAUABwADTTYNYwEBAgMCBWMAAwAJABQETSUlYwEBAgMCBWMAAQAYACZjAAEAAwAEBU0oKGMIgRyDH4NjAgAEAgQEYwABABYAJWMAAQADAAQCTSg1YwiBHIIigwJNKEJjCYEZgiKCAk0oUGMGAB2CIoIGTRQzYwEBAgMCBXOBHoIkYwADAAQDBGMVgyqEQIRjAwAGAQgB"
+  }
+}

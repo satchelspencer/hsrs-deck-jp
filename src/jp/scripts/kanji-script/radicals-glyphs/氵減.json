@@ -1,0 +1,18 @@
+{
+  "_id": "ub870d70j9n",
+  "desc": "variant of 水",
+  "name": "氵減",
+  "order": "3.2.7.0.9",
+  "params": {
+    "_g": "減",
+    "_r": "m氵"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "氵"
+  }
+}

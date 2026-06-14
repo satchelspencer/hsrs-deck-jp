@@ -4,7 +4,9 @@
   "name": "one-hand",
   "order": "4",
   "parents": [
-    "abstracts"
+    "abstracts",
+    "u片",
+    "u手"
   ],
   "props": {
     "en": "one hand",

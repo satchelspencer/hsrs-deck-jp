@@ -1,0 +1,17 @@
+{
+  "_id": "akzntkhhwio",
+  "name": "龷黄",
+  "order": "2.5.4.2.0",
+  "params": {
+    "_g": "黄",
+    "_r": "m龷"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "龷"
+  }
+}

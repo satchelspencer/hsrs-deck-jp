@@ -1,0 +1,17 @@
+{
+  "_id": "nryk233dsxe",
+  "name": "口常",
+  "order": "3.9.8.3.5",
+  "params": {
+    "_g": "常",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

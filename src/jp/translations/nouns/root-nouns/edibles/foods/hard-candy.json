@@ -3,7 +3,8 @@
   "name": "hard-candy",
   "order": "2",
   "parents": [
-    "foods"
+    "foods",
+    "u飴"
   ],
   "props": {
     "en": "hard candy",

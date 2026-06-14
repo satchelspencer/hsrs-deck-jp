@@ -1,0 +1,18 @@
+{
+  "_id": "a0k583hpkx7",
+  "desc": "variant of 辶",
+  "name": "⻌逆",
+  "order": "3.2.5.6.7",
+  "params": {
+    "_g": "逆",
+    "_r": "m⻌"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "3",
+    "jp": "⻌"
+  }
+}

@@ -5,7 +5,9 @@
   "parents": [
     "activities",
     "shiai-countable",
-    "sports"
+    "sports",
+    "u卓",
+    "u球"
   ],
   "props": {
     "en": "table tennis",

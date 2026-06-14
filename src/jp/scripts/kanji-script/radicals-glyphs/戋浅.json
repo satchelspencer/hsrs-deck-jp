@@ -1,0 +1,20 @@
+{
+  "_id": "bfupypam51r",
+  "desc": "variant of 戔",
+  "name": "戋浅",
+  "order": "3.3.1.7.1",
+  "params": {
+    "_1": "三浅",
+    "_2": "戈浅",
+    "_g": "浅",
+    "_r": "m戋"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "6",
+    "jp": "戋"
+  }
+}

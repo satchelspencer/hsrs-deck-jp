@@ -1,0 +1,17 @@
+{
+  "_id": "f05avwg0pty",
+  "name": "成城",
+  "order": "4.9.3.7.2",
+  "params": {
+    "_g": "城",
+    "_r": "m成"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "6",
+    "jp": "成"
+  }
+}

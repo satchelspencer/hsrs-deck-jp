@@ -6,7 +6,9 @@
   "parents": [
     "furniture",
     "sitables",
-    "wago-countable"
+    "wago-countable",
+    "u椅",
+    "u子"
   ],
   "props": {
     "en": "chair",

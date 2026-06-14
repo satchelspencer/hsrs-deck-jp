@@ -5,7 +5,8 @@
   "parents": [
     "containers",
     "ko-countable",
-    "wago-countable"
+    "wago-countable",
+    "u箱"
   ],
   "props": {
     "en": "box",

@@ -1,0 +1,18 @@
+{
+  "_id": "kd7ehxmn0v8",
+  "desc": "variant of 攴",
+  "name": "攵敗",
+  "order": "3.2.1.1.3",
+  "params": {
+    "_g": "敗",
+    "_r": "m攵"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "4",
+    "jp": "攵"
+  }
+}

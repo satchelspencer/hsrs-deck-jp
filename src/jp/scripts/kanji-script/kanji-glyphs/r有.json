@@ -1,0 +1,17 @@
+{
+  "_id": "gsclrel9v0h",
+  "name": "r有",
+  "order": "1.2.0.1.4.1",
+  "params": {
+    "_g": "有",
+    "_r": "m有"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "有"
+  }
+}

@@ -4,7 +4,8 @@
   "name": "counter-root-floors",
   "order": "1",
   "parents": [
-    "counter-roots-kango-full-k"
+    "counter-roots-kango-full-k",
+    "u階"
   ],
   "props": {
     "_ec": "floor",

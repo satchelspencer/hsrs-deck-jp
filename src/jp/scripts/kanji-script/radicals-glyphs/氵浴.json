@@ -1,0 +1,18 @@
+{
+  "_id": "8659vd4cxmu",
+  "desc": "variant of 水",
+  "name": "氵浴",
+  "order": "2.9.5.3.8",
+  "params": {
+    "_g": "浴",
+    "_r": "m氵"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "氵"
+  }
+}

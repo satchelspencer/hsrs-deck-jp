@@ -1,0 +1,18 @@
+{
+  "_id": "0bjxdin2mag",
+  "desc": "variant of 人",
+  "name": "亻借",
+  "order": "2.6.1.0.7",
+  "params": {
+    "_g": "借",
+    "_r": "m亻"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "2",
+    "jp": "亻"
+  }
+}

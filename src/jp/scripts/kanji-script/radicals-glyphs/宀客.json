@@ -1,0 +1,17 @@
+{
+  "_id": "qqacftojht7",
+  "name": "宀客",
+  "order": "3.6.3.5.6",
+  "params": {
+    "_g": "客",
+    "_r": "m宀"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "宀"
+  }
+}

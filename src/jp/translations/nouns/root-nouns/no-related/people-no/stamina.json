@@ -4,7 +4,9 @@
   "name": "stamina",
   "order": "4",
   "parents": [
-    "people-no"
+    "people-no",
+    "u体",
+    "u力"
   ],
   "props": {
     "en": "stamina",

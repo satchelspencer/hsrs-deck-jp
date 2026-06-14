@@ -1,0 +1,18 @@
+{
+  "_id": "hyi942jt6tc",
+  "desc": "variant of 阜",
+  "name": "⻖随",
+  "order": "4.9.4.2.5",
+  "params": {
+    "_g": "随",
+    "_r": "m⻖"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "⻖"
+  }
+}

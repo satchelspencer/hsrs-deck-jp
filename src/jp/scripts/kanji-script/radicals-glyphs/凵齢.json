@@ -1,0 +1,17 @@
+{
+  "_id": "9rmc399ro72",
+  "name": "凵齢",
+  "order": "4.9.3.0.6",
+  "params": {
+    "_g": "齢",
+    "_r": "m凵"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "11",
+    "_sl": "2",
+    "jp": "凵"
+  }
+}

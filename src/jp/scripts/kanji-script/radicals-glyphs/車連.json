@@ -1,0 +1,17 @@
+{
+  "_id": "ld77syrhl5c",
+  "name": "車連",
+  "order": "3.9.2.6.5",
+  "params": {
+    "_g": "連",
+    "_r": "m車"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "7",
+    "jp": "車"
+  }
+}

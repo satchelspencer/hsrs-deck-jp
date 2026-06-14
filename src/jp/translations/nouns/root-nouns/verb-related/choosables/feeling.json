@@ -4,7 +4,9 @@
   "name": "feeling",
   "order": "1",
   "parents": [
-    "choosables"
+    "choosables",
+    "u気",
+    "u持"
   ],
   "props": {
     "en": "feeling",

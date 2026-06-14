@@ -1,0 +1,18 @@
+{
+  "_id": "oixxz0a764z",
+  "desc": "variant of 水",
+  "name": "氵深",
+  "order": "2.1.9.2.9",
+  "params": {
+    "_g": "深",
+    "_r": "m氵"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "氵"
+  }
+}

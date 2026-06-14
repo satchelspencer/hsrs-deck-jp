@@ -1,0 +1,17 @@
+{
+  "_id": "knhl8i5w7to",
+  "name": "小景",
+  "order": "3.4.1.6.1",
+  "params": {
+    "_g": "景",
+    "_r": "m小"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "10",
+    "_sl": "3",
+    "jp": "小"
+  }
+}

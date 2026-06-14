@@ -1,0 +1,18 @@
+{
+  "_id": "olp652rvfg7",
+  "desc": "variant of 曰",
+  "name": "日指",
+  "order": "3.4.8.7.3",
+  "params": {
+    "_g": "指",
+    "_r": "m日"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "4",
+    "jp": "日"
+  }
+}

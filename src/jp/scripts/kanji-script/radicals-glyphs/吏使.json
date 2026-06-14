@@ -1,0 +1,18 @@
+{
+  "_id": "k7m6ah2hryn",
+  "name": "吏使",
+  "order": "1.2.7.0.0",
+  "params": {
+    "_1": "口使",
+    "_g": "使",
+    "_r": "m吏"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "3",
+    "_sl": "6",
+    "jp": "吏"
+  }
+}

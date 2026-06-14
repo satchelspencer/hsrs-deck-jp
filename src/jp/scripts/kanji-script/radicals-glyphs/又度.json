@@ -1,0 +1,17 @@
+{
+  "_id": "yfwxpoauqv4",
+  "name": "又度",
+  "order": "2.9.5.4.0",
+  "params": {
+    "_g": "度",
+    "_r": "m又"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "2",
+    "jp": "又"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "_id": "zcidsadapmz",
+  "desc": "variant of 衣",
+  "name": "m衤",
+  "parents": [
+    "radicals"
+  ],
+  "props": {
+    "_m": "clothes"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "_id": "imiv1m3glxm",
+  "name": "散",
+  "order": "2.9.3.0.1",
+  "params": {
+    "_wd": "u散"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "散",
+    "_st": "DARNEh5jAgAEAAYAYwaBE4MYg2MCAAMABQADTRkSYwEBAQICA2MBCAEOAhUDTSwPYwEBAQMBBGOCCoIOhBcETQwtYwIBBAAHAGMHgReDHYNjAgAEAAYABE0WNmMBAQECAQNjAAAAFwAhYwADAAUABQVNGDdjAQANghGDYwSBBAEEBGMABgAYACFjAAWCBYYAAk0YQmMGgQ6CE4ICTRhNYwUADoITggNNRRJjAAEAAgAEY4IJhxeQIwRNQydjAgADAAMAYwMADoMThGMBAAMABAADTVApYwABAQMABWOFFo8nnjADTTo0YwMBExodJWMCAgQECAU"
+  }
+}

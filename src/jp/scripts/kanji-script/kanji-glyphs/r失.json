@@ -1,0 +1,17 @@
+{
+  "_id": "iikul9vf7gc",
+  "name": "r失",
+  "order": "2.9.0.7.3.1",
+  "params": {
+    "_g": "失",
+    "_r": "m失"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "失"
+  }
+}

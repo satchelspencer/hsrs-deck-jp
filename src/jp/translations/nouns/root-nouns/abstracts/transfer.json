@@ -5,7 +5,9 @@
   "order": "4",
   "parents": [
     "abstracts",
-    "non-unique"
+    "non-unique",
+    "u乗",
+    "u換"
   ],
   "props": {
     "en": "a transfer",

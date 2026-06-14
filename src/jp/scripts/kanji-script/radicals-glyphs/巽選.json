@@ -1,0 +1,18 @@
+{
+  "_id": "d3isu88aowa",
+  "name": "巽選",
+  "order": "2.2.8.5.5",
+  "params": {
+    "_1": "共選",
+    "_g": "選",
+    "_r": "m巽"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "12",
+    "jp": "巽"
+  }
+}

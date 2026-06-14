@@ -1,0 +1,15 @@
+{
+  "_id": "ushoptlzeoo",
+  "name": "遊",
+  "order": "3.4.3.5.2",
+  "params": {
+    "_wd": "u遊"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "遊",
+    "_st": "DANNLwxjAQECAgIEYwAEAAcACgRNIR1jAgADAAUAYwWBDIIQg2MCAAMABQAFTS8oYwMBBQIJAmMCAAMCAwRjgQiHF4kbY4IEhAKGggNNLh9jAAEBAgEDY4IJhxmQIwNNRwtjAAEAAgACY4IGhA2KFQRNRxhjAQACAAMAYwWBCoIPg0NaFVsVXBUFTUQlYwEAAwAEAGMEgQqCD4RjAoECAQECQ1YmUitOLwNNTS9jBwgIEwMeY4IFhQCGgQRNPjljAgEFAAcAYwaBEIIXg2MCAAQABgACTQ8TYwMCCQcKCgdNCy9jAgEEAQUAUxksGyxzAwICA2OMDosLhBJjAgICBAAFY4IChQWICARNDE9jAwAJgg2Bcx4IIwljDAQUBh8H"
+  }
+}

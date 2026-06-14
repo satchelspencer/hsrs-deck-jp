@@ -1,0 +1,17 @@
+{
+  "_id": "vem8nwe6l96",
+  "name": "止歴",
+  "order": "3.4.9.1.1",
+  "params": {
+    "_g": "歴",
+    "_r": "m止"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "11",
+    "_sl": "4",
+    "jp": "止"
+  }
+}

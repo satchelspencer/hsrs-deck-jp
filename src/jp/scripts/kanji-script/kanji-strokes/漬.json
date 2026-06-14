@@ -1,0 +1,15 @@
+{
+  "_id": "u96gznoem0e",
+  "name": "漬",
+  "order": "3.6.4.5.4",
+  "params": {
+    "_wd": "u漬"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "漬",
+    "_st": "DgJNFRBjBAIKBwsKAk0OKmMEAQsFDAcDTRFbYwEBAwADgUMXVRpPHUkETSsWYwMABQAHAGMIgRqCIoNjAgAEAAYAA01AC2MBAQECAQRjAAcAEgAZBE0uIGMCAQQABgBjCIEXgx6DYwIAAwAFAARNJCtjAwEGAAoAYwuBHoMrg2MDAAcACgEETTAyYwEBAQIBA2MAAQARABtjAAMABAAGBU0zM2MDABuCHoJjAwAEAQQEYwAGABMAGmMAAgAFAAUCTTM9YwcAHIIhggJNM0hjBgAZgiKCAk0zU2MHABaCIYIDTTtWYwACAAKBA2ODAowHkgoCTUtXYwcDEAkSDA"
+  }
+}

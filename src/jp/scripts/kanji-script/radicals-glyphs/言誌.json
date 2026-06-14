@@ -1,0 +1,18 @@
+{
+  "_id": "kp06yrb3ptv",
+  "name": "言誌",
+  "order": "3.5.2.3.5",
+  "params": {
+    "_1": "口誌",
+    "_g": "誌",
+    "_r": "m言"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "7",
+    "jp": "言"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "v44h6uj1sh0",
+  "name": "寸醬",
+  "order": "1.9.4.0.0",
+  "params": {
+    "_g": "醬",
+    "_r": "m寸"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "9",
+    "_sl": "3",
+    "jp": "寸"
+  }
+}

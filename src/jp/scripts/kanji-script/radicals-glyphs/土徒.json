@@ -1,0 +1,17 @@
+{
+  "_id": "j1onm3q9l49",
+  "name": "土徒",
+  "order": "3.9.4.2.1",
+  "params": {
+    "_g": "徒",
+    "_r": "m土"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "3",
+    "jp": "土"
+  }
+}

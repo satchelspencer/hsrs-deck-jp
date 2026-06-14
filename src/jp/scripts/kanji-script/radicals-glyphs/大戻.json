@@ -1,0 +1,17 @@
+{
+  "_id": "5erhda9dp1e",
+  "name": "大戻",
+  "order": "2.2.0.4.5",
+  "params": {
+    "_g": "戻",
+    "_r": "m大"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "3",
+    "jp": "大"
+  }
+}

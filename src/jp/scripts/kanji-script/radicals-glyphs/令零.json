@@ -1,0 +1,17 @@
+{
+  "_id": "kkhnsz4kbnv",
+  "name": "令零",
+  "order": "2.9.8.6.7",
+  "params": {
+    "_g": "零",
+    "_r": "m令"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "9",
+    "_sl": "5",
+    "jp": "令"
+  }
+}

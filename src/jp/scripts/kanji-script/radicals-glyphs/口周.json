@@ -1,0 +1,17 @@
+{
+  "_id": "xrckyv64utt",
+  "name": "口周",
+  "order": "1.9.5.0.5",
+  "params": {
+    "_g": "周",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "_id": "acwki2es49p",
+  "desc": "variant of 手",
+  "name": "扌携",
+  "order": "2.9.4.3.1",
+  "params": {
+    "_g": "携",
+    "_r": "m扌"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "扌"
+  }
+}

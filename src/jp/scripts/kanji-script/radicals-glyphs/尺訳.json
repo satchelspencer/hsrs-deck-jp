@@ -1,0 +1,17 @@
+{
+  "_id": "o1lstrrdvgr",
+  "name": "尺訳",
+  "order": "3.6.7.0.4",
+  "params": {
+    "_g": "訳",
+    "_r": "m尺"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "4",
+    "jp": "尺"
+  }
+}

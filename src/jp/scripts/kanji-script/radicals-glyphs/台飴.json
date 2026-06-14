@@ -1,0 +1,17 @@
+{
+  "_id": "kv3jl1csnc7",
+  "name": "台飴",
+  "order": "2.9.6.0.8",
+  "params": {
+    "_g": "飴",
+    "_r": "m台"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "10",
+    "_sl": "5",
+    "jp": "台"
+  }
+}

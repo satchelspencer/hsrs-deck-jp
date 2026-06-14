@@ -4,7 +4,9 @@
   "order": "1",
   "parents": [
     "trains",
-    "reservables"
+    "reservables",
+    "u電",
+    "u車"
   ],
   "props": {
     "en": "train",

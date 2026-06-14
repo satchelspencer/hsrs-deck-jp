@@ -6,7 +6,9 @@
   "parents": [
     "suru-nouns",
     "te-iru-verbs-state",
-    "people-do-volitional"
+    "people-do-volitional",
+    "u禁",
+    "u止"
   ],
   "props": {
     "_pg": "prohibiting",

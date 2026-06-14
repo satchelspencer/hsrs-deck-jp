@@ -1,0 +1,17 @@
+{
+  "_id": "i90zl6jp5on",
+  "name": "友援",
+  "order": "4.5.0.6.5",
+  "params": {
+    "_g": "援",
+    "_r": "m友"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "9",
+    "_sl": "4",
+    "jp": "友"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "1yvlh425hp2",
+  "name": "心憩",
+  "order": "3.2.1.7.5",
+  "params": {
+    "_g": "憩",
+    "_r": "m心"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "13",
+    "_sl": "4",
+    "jp": "心"
+  }
+}

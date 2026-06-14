@@ -1,0 +1,17 @@
+{
+  "_id": "ixftb83j9to",
+  "name": "犬然",
+  "order": "2.2.5.0.1",
+  "params": {
+    "_g": "然",
+    "_r": "m犬"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "4",
+    "jp": "犬"
+  }
+}

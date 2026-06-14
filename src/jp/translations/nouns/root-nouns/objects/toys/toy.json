@@ -4,7 +4,9 @@
   "order": "2",
   "parents": [
     "toys",
-    "wago-countable"
+    "wago-countable",
+    "u玩",
+    "u具"
   ],
   "props": {
     "en": "toy",

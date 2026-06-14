@@ -2,7 +2,8 @@
   "_id": "4w2q9h4g9vc",
   "name": "north",
   "parents": [
-    "cardinal-directions"
+    "cardinal-directions",
+    "u北"
   ],
   "props": {
     "en": "north",

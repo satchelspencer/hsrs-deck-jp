@@ -1,0 +1,17 @@
+{
+  "_id": "umynhxip89s",
+  "name": "土郵",
+  "order": "2.9.4.4.6",
+  "params": {
+    "_g": "郵",
+    "_r": "m土"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "3",
+    "jp": "土"
+  }
+}

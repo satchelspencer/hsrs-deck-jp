@@ -5,7 +5,8 @@
   "order": "4",
   "parents": [
     "godan-ru",
-    "te-iru-verbs-continuous"
+    "te-iru-verbs-continuous",
+    "u張"
   ],
   "props": {
     "_pg": "tightening",

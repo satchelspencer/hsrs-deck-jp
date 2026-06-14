@@ -4,7 +4,9 @@
   "order": "1",
   "parents": [
     "products",
-    "reservables"
+    "reservables",
+    "u切",
+    "u符"
   ],
   "props": {
     "en": "ticket",

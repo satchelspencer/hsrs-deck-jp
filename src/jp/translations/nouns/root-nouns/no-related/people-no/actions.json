@@ -4,7 +4,9 @@
   "name": "actions",
   "order": "4",
   "parents": [
-    "people-no"
+    "people-no",
+    "u行",
+    "u為"
   ],
   "props": {
     "en": "actions",

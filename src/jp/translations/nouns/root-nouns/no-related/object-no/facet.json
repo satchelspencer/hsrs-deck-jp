@@ -4,7 +4,8 @@
   "name": "facet",
   "order": "4",
   "parents": [
-    "object-no"
+    "object-no",
+    "u面"
   ],
   "props": {
     "en": "facet",

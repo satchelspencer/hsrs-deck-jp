@@ -1,0 +1,17 @@
+{
+  "_id": "ld1i7igxoy9",
+  "name": "厶窓",
+  "order": "2.4.0.1.3",
+  "params": {
+    "_g": "窓",
+    "_r": "m厶"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "2",
+    "jp": "厶"
+  }
+}

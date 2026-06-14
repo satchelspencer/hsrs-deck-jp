@@ -1,0 +1,17 @@
+{
+  "_id": "cikmcqkf2c6",
+  "name": "口噂",
+  "order": "3.9.8.9.6",
+  "params": {
+    "_g": "噂",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

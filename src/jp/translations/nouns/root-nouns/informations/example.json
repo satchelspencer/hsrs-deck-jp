@@ -4,7 +4,8 @@
   "name": "example",
   "order": "4",
   "parents": [
-    "informations"
+    "informations",
+    "u例"
   ],
   "props": {
     "en": "example",

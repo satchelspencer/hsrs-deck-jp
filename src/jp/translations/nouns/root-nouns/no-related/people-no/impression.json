@@ -5,7 +5,9 @@
   "order": "4",
   "parents": [
     "people-no",
-    "good-bads"
+    "good-bads",
+    "u印",
+    "u象"
   ],
   "props": {
     "en": "impression",

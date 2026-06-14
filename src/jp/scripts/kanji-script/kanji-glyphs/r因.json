@@ -1,0 +1,17 @@
+{
+  "_id": "oabcypqruyd",
+  "name": "r因",
+  "order": "3.2.1.4.0.1",
+  "params": {
+    "_g": "因",
+    "_r": "m因"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "因"
+  }
+}

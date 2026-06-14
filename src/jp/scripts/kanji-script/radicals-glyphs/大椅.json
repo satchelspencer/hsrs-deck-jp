@@ -1,0 +1,17 @@
+{
+  "_id": "8nd375k10ey",
+  "name": "大椅",
+  "order": "2.9.1.4.1",
+  "params": {
+    "_g": "椅",
+    "_r": "m大"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "3",
+    "jp": "大"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "2cv2jruofwv",
+  "name": "旦場",
+  "order": "2.2.2.8.0",
+  "params": {
+    "_g": "場",
+    "_r": "m旦"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "5",
+    "jp": "旦"
+  }
+}

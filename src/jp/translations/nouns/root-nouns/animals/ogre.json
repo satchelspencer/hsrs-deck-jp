@@ -4,7 +4,8 @@
   "name": "ogre",
   "order": "4",
   "parents": [
-    "animals"
+    "animals",
+    "u鬼"
   ],
   "props": {
     "en": "ogre",

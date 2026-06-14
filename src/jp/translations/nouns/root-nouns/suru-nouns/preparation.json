@@ -6,7 +6,9 @@
   "parents": [
     "suru-nouns",
     "te-iru-verbs-continuous",
-    "people-do-volitional"
+    "people-do-volitional",
+    "u準",
+    "u備"
   ],
   "props": {
     "_pg": "preparing",

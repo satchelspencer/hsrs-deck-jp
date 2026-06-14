@@ -1,0 +1,17 @@
+{
+  "_id": "9um5c7awbol",
+  "name": "尸屋",
+  "order": "1.4.3.3.7",
+  "params": {
+    "_g": "屋",
+    "_r": "m尸"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "尸"
+  }
+}

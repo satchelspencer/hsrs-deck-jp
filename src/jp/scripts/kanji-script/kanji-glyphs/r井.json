@@ -1,0 +1,17 @@
+{
+  "_id": "uqm86szn4k6",
+  "name": "r井",
+  "order": "4.1.3.3.9.1",
+  "params": {
+    "_g": "井",
+    "_r": "m井"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "井"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "i3p1cqcw9uh",
+  "name": "厂厚",
+  "order": "3.3.6.3.8",
+  "params": {
+    "_g": "厚",
+    "_r": "m厂"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "2",
+    "jp": "厂"
+  }
+}

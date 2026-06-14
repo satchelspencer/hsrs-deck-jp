@@ -4,7 +4,8 @@
   "name": "cold-touch",
   "order": "2",
   "parents": [
-    "i-attributive-standard"
+    "i-attributive-standard",
+    "u冷"
   ],
   "props": {
     "_ad": "coldly to the touch",

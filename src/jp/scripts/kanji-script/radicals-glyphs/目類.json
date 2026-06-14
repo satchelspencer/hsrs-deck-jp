@@ -1,0 +1,17 @@
+{
+  "_id": "5smmcjwk1k1",
+  "name": "目類",
+  "order": "3.3.0.3.8",
+  "params": {
+    "_g": "類",
+    "_r": "m目"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "12",
+    "_sl": "5",
+    "jp": "目"
+  }
+}

@@ -3,7 +3,9 @@
   "name": "this-month",
   "order": "1",
   "parents": [
-    "wa-any-times"
+    "wa-any-times",
+    "u今",
+    "u月"
   ],
   "props": {
     "en": "this month",

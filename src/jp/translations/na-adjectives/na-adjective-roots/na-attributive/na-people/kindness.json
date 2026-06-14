@@ -4,7 +4,9 @@
   "name": "kindness",
   "order": "3",
   "parents": [
-    "na-people"
+    "na-people",
+    "u親",
+    "u切"
   ],
   "props": {
     "_at": "kind",

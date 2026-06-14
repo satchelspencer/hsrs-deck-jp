@@ -1,0 +1,17 @@
+{
+  "_id": "m5e515j2pzw",
+  "name": "r辺",
+  "order": "3.9.5.5.0.1",
+  "params": {
+    "_g": "辺",
+    "_r": "m辺"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "辺"
+  }
+}

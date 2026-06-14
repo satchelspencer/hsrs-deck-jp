@@ -4,7 +4,8 @@
   "name": "ceremony",
   "order": "4",
   "parents": [
-    "events"
+    "events",
+    "u式"
   ],
   "props": {
     "en": "ceremony",

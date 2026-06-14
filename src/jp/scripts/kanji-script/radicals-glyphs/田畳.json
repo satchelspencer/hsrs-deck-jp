@@ -1,0 +1,17 @@
+{
+  "_id": "qc9o1ux6d97",
+  "name": "田畳",
+  "order": "3.9.0.9.1",
+  "params": {
+    "_g": "畳",
+    "_r": "m田"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "田"
+  }
+}

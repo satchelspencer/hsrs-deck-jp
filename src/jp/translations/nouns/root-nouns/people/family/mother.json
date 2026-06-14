@@ -3,7 +3,8 @@
   "name": "mother",
   "order": "1",
   "parents": [
-    "family"
+    "family",
+    "u母"
   ],
   "props": {
     "en": "mother",

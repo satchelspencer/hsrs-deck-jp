@@ -4,7 +4,9 @@
   "order": "4",
   "parents": [
     "noun-no-relative-time-exprs",
-    "teiru-relative-time-exprs"
+    "teiru-relative-time-exprs",
+    "u最",
+    "u中"
   ],
   "props": {
     "en": "in the middle of",

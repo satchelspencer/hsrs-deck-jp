@@ -1,0 +1,18 @@
+{
+  "_id": "llvq1h2a83v",
+  "name": "頁額",
+  "order": "4.9.3.1.2",
+  "params": {
+    "_1": "貝額",
+    "_g": "額",
+    "_r": "m頁"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "10",
+    "_sl": "9",
+    "jp": "頁"
+  }
+}

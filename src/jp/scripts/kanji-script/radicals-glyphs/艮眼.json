@@ -1,0 +1,17 @@
+{
+  "_id": "le80endjszu",
+  "name": "艮眼",
+  "order": "2.9.8.8.5",
+  "params": {
+    "_g": "眼",
+    "_r": "m艮"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "6",
+    "jp": "艮"
+  }
+}

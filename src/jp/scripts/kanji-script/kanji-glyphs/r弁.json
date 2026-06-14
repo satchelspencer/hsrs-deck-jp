@@ -1,0 +1,17 @@
+{
+  "_id": "eew3a78q54p",
+  "name": "r弁",
+  "order": "2.9.9.9.1.1",
+  "params": {
+    "_g": "弁",
+    "_r": "m弁"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "弁"
+  }
+}

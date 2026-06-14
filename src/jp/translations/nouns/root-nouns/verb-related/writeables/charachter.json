@@ -4,7 +4,9 @@
   "name": "charachter",
   "order": "4",
   "parents": [
-    "writeables"
+    "writeables",
+    "u文",
+    "u字"
   ],
   "props": {
     "en": "charachter",

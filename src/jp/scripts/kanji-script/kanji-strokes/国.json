@@ -1,0 +1,15 @@
+{
+  "_id": "fj8ou9lizpb",
+  "name": "国",
+  "order": "1.4.6.4.6",
+  "params": {
+    "_wd": "u国"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "国",
+    "_st": "CARNExFjAQECAwIEYwAPAC0ASGMAAgAEAAYFTRYTQykRSg5VDmMDAAUCBQVjAA8AMABHYwACAAMABQRNIyJjAQAEAAYAYwqBFYMdg2MCAAQABgADTTUjYwEBAQIBBGMABAAZACIETSY0YwIAAwAFAGMIgRKCGYNjAQAEAAYABE0fS2MCAAQABQBjCoEagyWEYwIABQAGAAJNRDljAwIGBQgIAk0WXWMOgTCCQ4M"
+  }
+}

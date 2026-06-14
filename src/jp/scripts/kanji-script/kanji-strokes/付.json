@@ -1,0 +1,15 @@
+{
+  "_id": "rl3buv2xe9a",
+  "name": "付",
+  "order": "3.3.8.3.0",
+  "params": {
+    "_wd": "u付"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "付",
+    "_st": "BQNNJg9jAAIABIEGQyAfGS4NOwRNHSljAQECAgIEYwAKACAAK0MeWx5dHl8ETSkqYwIBBQEHAGMNgh2ELIVjAwAFAAYABE1KDWMBAQIDAgVjAA8ARABJYwAJhgOJAQJNMjljAwIJCgkN"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "a78811xswjp",
+  "name": "r広",
+  "order": "2.2.8.3.1.1",
+  "params": {
+    "_g": "広",
+    "_r": "m広"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "広"
+  }
+}

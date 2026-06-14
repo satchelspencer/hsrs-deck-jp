@@ -1,0 +1,17 @@
+{
+  "_id": "rjseeav9mth",
+  "name": "广康",
+  "order": "4.3.5.9.0",
+  "params": {
+    "_g": "康",
+    "_r": "m广"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "广"
+  }
+}

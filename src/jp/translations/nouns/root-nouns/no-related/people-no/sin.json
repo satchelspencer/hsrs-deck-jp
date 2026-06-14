@@ -4,7 +4,8 @@
   "name": "sin",
   "order": "4",
   "parents": [
-    "people-no"
+    "people-no",
+    "u罪"
   ],
   "props": {
     "en": "sin",

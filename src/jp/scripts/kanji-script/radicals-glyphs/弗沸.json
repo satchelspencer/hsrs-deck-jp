@@ -1,0 +1,17 @@
+{
+  "_id": "8zpzkuznfdz",
+  "name": "弗沸",
+  "order": "3.9.5.4.5",
+  "params": {
+    "_g": "沸",
+    "_r": "m弗"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "5",
+    "jp": "弗"
+  }
+}

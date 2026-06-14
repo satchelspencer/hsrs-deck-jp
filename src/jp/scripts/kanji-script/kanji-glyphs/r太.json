@@ -1,0 +1,17 @@
+{
+  "_id": "j18z1v5eeqi",
+  "name": "r太",
+  "order": "1.6.4.4.7.1",
+  "params": {
+    "_g": "太",
+    "_r": "m太"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "太"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "_id": "fvincd7pba6",
+  "name": "言談",
+  "order": "4.1.9.4.9",
+  "params": {
+    "_1": "口談",
+    "_g": "談",
+    "_r": "m言"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "7",
+    "jp": "言"
+  }
+}

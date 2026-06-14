@@ -1,0 +1,17 @@
+{
+  "_id": "h22z9hg3fvf",
+  "name": "木標",
+  "order": "2.3.0.3.4",
+  "params": {
+    "_g": "標",
+    "_r": "m木"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "木"
+  }
+}

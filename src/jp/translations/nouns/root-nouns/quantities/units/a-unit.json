@@ -5,7 +5,9 @@
   "order": "4",
   "parents": [
     "units",
-    "categories"
+    "categories",
+    "u単",
+    "u位"
   ],
   "props": {
     "en": "unit",

@@ -1,0 +1,17 @@
+{
+  "_id": "0c6ctte9x9h",
+  "name": "干岸",
+  "order": "3.9.0.9.4",
+  "params": {
+    "_g": "岸",
+    "_r": "m干"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "3",
+    "jp": "干"
+  }
+}

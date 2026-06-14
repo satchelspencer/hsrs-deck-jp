@@ -4,7 +4,8 @@
   "name": "skill",
   "order": "4",
   "parents": [
-    "learnables"
+    "learnables",
+    "u技"
   ],
   "props": {
     "en": "skill",

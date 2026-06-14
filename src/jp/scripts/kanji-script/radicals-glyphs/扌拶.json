@@ -1,0 +1,18 @@
+{
+  "_id": "n87zar3z79w",
+  "desc": "variant of 手",
+  "name": "扌拶",
+  "order": "3.9.6.6.5",
+  "params": {
+    "_g": "拶",
+    "_r": "m扌"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "扌"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "za9q7f4p5t0",
+  "name": "方敷",
+  "order": "4.9.0.4.6",
+  "params": {
+    "_g": "敷",
+    "_r": "m方"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "4",
+    "jp": "方"
+  }
+}

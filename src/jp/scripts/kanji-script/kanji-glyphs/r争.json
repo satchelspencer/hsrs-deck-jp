@@ -1,0 +1,17 @@
+{
+  "_id": "npmem484743",
+  "name": "r争",
+  "order": "1.1.4.0.2.1",
+  "params": {
+    "_g": "争",
+    "_r": "m争"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "争"
+  }
+}

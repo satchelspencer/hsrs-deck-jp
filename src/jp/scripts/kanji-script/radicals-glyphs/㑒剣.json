@@ -1,0 +1,20 @@
+{
+  "_id": "kspgs2mrsm5",
+  "desc": "variant of 僉",
+  "name": "㑒剣",
+  "order": "4.3.7.6.1",
+  "params": {
+    "_1": "一剣",
+    "_2": "口剣",
+    "_g": "剣",
+    "_r": "m㑒"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "8",
+    "jp": "㑒"
+  }
+}

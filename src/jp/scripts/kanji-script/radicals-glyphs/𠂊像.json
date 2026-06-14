@@ -1,0 +1,18 @@
+{
+  "_id": "trtnhfmn98g",
+  "desc": "variant of 勹",
+  "name": "𠂊像",
+  "order": "4.2.5.3.4",
+  "params": {
+    "_g": "像",
+    "_r": "m𠂊"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "3",
+    "_sl": "2",
+    "jp": "𠂊"
+  }
+}

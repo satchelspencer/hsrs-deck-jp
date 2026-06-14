@@ -1,0 +1,17 @@
+{
+  "_id": "q886xswldwf",
+  "name": "女妙",
+  "order": "3.9.6.8.1",
+  "params": {
+    "_g": "妙",
+    "_r": "m女"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "女"
+  }
+}

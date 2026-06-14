@@ -4,7 +4,9 @@
   "name": "after-all",
   "order": "4",
   "parents": [
-    "clause-adverbs"
+    "clause-adverbs",
+    "u結",
+    "u局"
   ],
   "props": {
     "en": "after all",

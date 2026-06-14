@@ -1,0 +1,17 @@
+{
+  "_id": "t1y3f8i1l37",
+  "name": "目額",
+  "order": "4.9.3.1.2",
+  "params": {
+    "_g": "額",
+    "_r": "m目"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "12",
+    "_sl": "5",
+    "jp": "目"
+  }
+}

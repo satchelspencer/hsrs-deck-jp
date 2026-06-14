@@ -1,0 +1,15 @@
+{
+  "_id": "tx6vvgz4rx6",
+  "name": "従",
+  "order": "4.3.3.4.4",
+  "params": {
+    "_wd": "u従"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "従",
+    "_st": "CgNNHRFjAAGBAoEDY4MEiQqQDwNNISJjAAEAAoEDQx0sFjYLQARNGDVjAQEBAgEDYwAEABoAJGMAAwAFAAYCTS4UYwMDCAsJDwNNTQ9jAAEAAgADY4IGhQ2JFARNKCtjAgEFAQgAYwuCG4QkhWMCAAUABwADTT8sYwEBAQIBA2MAAQAbACMDTUM9YwWBCYIOg2MBAAIAAwADTTA9YwABAAIAA2OCB4cUkB0DTS5KYwUDGA0iEmMCAQcDCwQ"
+  }
+}

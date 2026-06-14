@@ -1,0 +1,17 @@
+{
+  "_id": "2v9eq5uwdbc",
+  "name": "女桜",
+  "order": "2.9.2.4.0",
+  "params": {
+    "_g": "桜",
+    "_r": "m女"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "3",
+    "jp": "女"
+  }
+}

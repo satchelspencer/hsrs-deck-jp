@@ -4,7 +4,9 @@
   "name": "pushy",
   "order": "4",
   "parents": [
-    "na-people"
+    "na-people",
+    "u強",
+    "u引"
   ],
   "props": {
     "_ad": "pushily",

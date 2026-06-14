@@ -4,7 +4,9 @@
   "name": "recent",
   "order": "2",
   "parents": [
-    "wa-past-only-times"
+    "wa-past-only-times",
+    "u最",
+    "u近"
   ],
   "props": {
     "_at": "recent",

@@ -1,0 +1,17 @@
+{
+  "_id": "an4z1lyxzqo",
+  "name": "口避",
+  "order": "4.9.6.5.9",
+  "params": {
+    "_g": "避",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

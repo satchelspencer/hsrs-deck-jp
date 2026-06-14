@@ -1,0 +1,17 @@
+{
+  "_id": "isj5zdectqn",
+  "name": "龶麦",
+  "order": "2.9.1.7.3",
+  "params": {
+    "_g": "麦",
+    "_r": "m龶"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "龶"
+  }
+}

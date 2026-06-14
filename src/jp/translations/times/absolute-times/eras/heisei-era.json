@@ -5,7 +5,9 @@
   "order": "3",
   "parents": [
     "eras",
-    "ni-past-only-times"
+    "ni-past-only-times",
+    "u平",
+    "u成"
   ],
   "props": {
     "en": "heisei era",

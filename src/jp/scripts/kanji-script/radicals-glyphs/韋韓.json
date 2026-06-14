@@ -1,0 +1,18 @@
+{
+  "_id": "78ztt6e3qtp",
+  "name": "韋韓",
+  "order": "1.9.0.6.2",
+  "params": {
+    "_1": "口韓",
+    "_g": "韓",
+    "_r": "m韋"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "9",
+    "_sl": "10",
+    "jp": "韋"
+  }
+}

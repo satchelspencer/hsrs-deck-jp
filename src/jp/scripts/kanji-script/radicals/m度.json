@@ -1,0 +1,10 @@
+{
+  "_id": "78cpizxsyxs",
+  "name": "m度",
+  "parents": [
+    "radicals"
+  ],
+  "props": {
+    "_m": "degrees, occurrence, time"
+  }
+}

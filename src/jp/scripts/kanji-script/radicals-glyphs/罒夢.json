@@ -1,0 +1,18 @@
+{
+  "_id": "sku8k5j4mbg",
+  "desc": "variant of 网",
+  "name": "罒夢",
+  "order": "2.4.5.0.6",
+  "params": {
+    "_g": "夢",
+    "_r": "m罒"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "5",
+    "jp": "罒"
+  }
+}

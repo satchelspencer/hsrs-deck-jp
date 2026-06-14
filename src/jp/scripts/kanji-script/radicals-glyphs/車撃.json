@@ -1,0 +1,17 @@
+{
+  "_id": "qrmj62r5mec",
+  "name": "車撃",
+  "order": "4.1.0.3.5",
+  "params": {
+    "_g": "撃",
+    "_r": "m車"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "7",
+    "jp": "車"
+  }
+}

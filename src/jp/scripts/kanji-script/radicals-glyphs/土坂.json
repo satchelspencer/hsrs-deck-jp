@@ -1,0 +1,17 @@
+{
+  "_id": "8xiro7ys7o8",
+  "name": "土坂",
+  "order": "3.9.9.5.7",
+  "params": {
+    "_g": "坂",
+    "_r": "m土"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "土"
+  }
+}

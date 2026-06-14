@@ -1,0 +1,18 @@
+{
+  "_id": "dkj4lwz7fmp",
+  "desc": "variant of 土",
+  "name": "士声",
+  "order": "2.2.4.7.5",
+  "params": {
+    "_g": "声",
+    "_r": "m士"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "士"
+  }
+}

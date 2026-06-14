@@ -1,0 +1,14 @@
+{
+  "_id": "rln01drbrkg",
+  "name": "ぽ",
+  "params": {
+    "_kn": "hiragana-po"
+  },
+  "parents": [
+    "hiragana-glyphs"
+  ],
+  "props": {
+    "_st": "BQRNGRNjAQICBAIHY4MShyWEOGMDEAECBoYETTUVYwIBBAIGAWMHgQ6CEoRjAoEFgQaBBE02LWMCAQQCBwJjCYEQghWEYwOBBoEHgQZNSRdjAQICBAIHYwACAiMCLWMAEp4RnghjAIoViB6DYwUDDAgNCQNNXyNjigCJjgCOYwoACg4ADg",
+    "jp": "ぽ"
+  }
+}

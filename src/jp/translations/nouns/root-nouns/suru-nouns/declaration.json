@@ -5,7 +5,9 @@
   "order": "4",
   "parents": [
     "suru-nouns",
-    "organizations-do"
+    "organizations-do",
+    "u宣",
+    "u言"
   ],
   "props": {
     "_pg": "declaring",

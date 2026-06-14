@@ -5,7 +5,9 @@
   "order": "2",
   "parents": [
     "godan-ru",
-    "te-iru-verbs-state"
+    "te-iru-verbs-state",
+    "u流",
+    "u行"
   ],
   "props": {
     "_st": "popular",

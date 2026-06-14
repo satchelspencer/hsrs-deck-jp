@@ -1,0 +1,17 @@
+{
+  "_id": "l4n7fwz2x83",
+  "name": "允酸",
+  "order": "3.4.5.3.0",
+  "params": {
+    "_g": "酸",
+    "_r": "m允"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "4",
+    "jp": "允"
+  }
+}

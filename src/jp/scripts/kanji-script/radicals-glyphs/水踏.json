@@ -1,0 +1,17 @@
+{
+  "_id": "twa2z47lc3v",
+  "name": "水踏",
+  "order": "3.6.3.2.0",
+  "params": {
+    "_g": "踏",
+    "_r": "m水"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "4",
+    "jp": "水"
+  }
+}

@@ -3,7 +3,8 @@
   "name": "counter-root-countries",
   "order": "3",
   "parents": [
-    "counter-roots-kango-full-k"
+    "counter-roots-kango-full-k",
+    "u国"
   ],
   "props": {
     "_ec": "countries",

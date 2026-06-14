@@ -1,0 +1,17 @@
+{
+  "_id": "sahf24itzqw",
+  "name": "厶能",
+  "order": "3.1.2.3.5",
+  "params": {
+    "_g": "能",
+    "_r": "m厶"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "2",
+    "jp": "厶"
+  }
+}

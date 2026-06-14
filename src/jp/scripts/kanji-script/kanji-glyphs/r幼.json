@@ -1,0 +1,17 @@
+{
+  "_id": "k7zxzfktdff",
+  "name": "r幼",
+  "order": "4.9.5.0.4.1",
+  "params": {
+    "_g": "幼",
+    "_r": "m幼"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "幼"
+  }
+}

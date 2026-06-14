@@ -1,0 +1,15 @@
+{
+  "_id": "wzvayt6ewtn",
+  "name": "借",
+  "order": "2.6.1.0.7",
+  "params": {
+    "_wd": "u借"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "借",
+    "_st": "CgNNIRJjAAIABIEGQxskFzALPwRNGS1jAQECAgEEYwALAB4AKWMAAgAFAAYETS0iYwIABQAHAGMIgRiDH4NjAgAEAAYAA002FGMBAQECAgRjAAEBDwIaA01NDmMBAQECAQNjAAOCEoMfBE0lNWMDAQYACABjDYEagyqEYwMABQAIAARNMz5jAQEBAgEDYwABABMAG2MAAgAEAAQFTTU_YwIAEYIXg2MDAAUABQRjAAQAEAAaYwACAAQABQJNNk1jB4ETghuDAk02XWMGgROCG4I"
+  }
+}

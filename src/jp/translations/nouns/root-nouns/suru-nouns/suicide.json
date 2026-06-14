@@ -4,7 +4,9 @@
   "order": "4",
   "parents": [
     "suru-nouns",
-    "people-do"
+    "people-do",
+    "u自",
+    "u殺"
   ],
   "props": {
     "_v": "commit suicide",

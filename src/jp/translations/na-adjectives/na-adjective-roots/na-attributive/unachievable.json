@@ -4,7 +4,10 @@
   "name": "unachievable",
   "order": "4",
   "parents": [
-    "na-attributive"
+    "na-attributive",
+    "u不",
+    "u可",
+    "u能"
   ],
   "props": {
     "en": "unachievable",

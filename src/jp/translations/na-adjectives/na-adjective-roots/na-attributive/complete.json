@@ -4,7 +4,9 @@
   "name": "complete",
   "order": "4",
   "parents": [
-    "na-attributive"
+    "na-attributive",
+    "u完",
+    "u全"
   ],
   "props": {
     "_ad": "",

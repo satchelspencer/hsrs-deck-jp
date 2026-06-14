@@ -1,0 +1,17 @@
+{
+  "_id": "vxa4bleccjg",
+  "name": "r永",
+  "order": "1.9.5.4.5.1",
+  "params": {
+    "_g": "永",
+    "_r": "m永"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "永"
+  }
+}

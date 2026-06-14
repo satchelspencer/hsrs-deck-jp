@@ -3,7 +3,9 @@
   "name": "sugar",
   "order": "3",
   "parents": [
-    "ingredients"
+    "ingredients",
+    "u砂",
+    "u糖"
   ],
   "props": {
     "en": "sugar",

@@ -4,7 +4,9 @@
   "name": "hereafter",
   "order": "4",
   "parents": [
-    "clause-adverbs"
+    "clause-adverbs",
+    "u今",
+    "u後"
   ],
   "props": {
     "en": "hereafter",

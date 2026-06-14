@@ -1,0 +1,15 @@
+{
+  "_id": "3x10stsi1gx",
+  "name": "庭",
+  "order": "2.9.1.5.1",
+  "params": {
+    "_wd": "u庭"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "庭",
+    "_st": "CgNNNQtjAQECAgIEYwACAAMACQRNFRtjAwAGAQkAYxCBIYQyhWMEAAYACAADTRgcYwEBAQIBBEMaQhZRC1wDTU8gYwABAAKBAmODA4oHlAoETTY4YwEABAEFAGMHgRKCGoNjAgADAAUAA01GK2MBAQECAQRjAAMAEgAZBE05SmMBAAMABQBjBoEQgheCYwIAAwAEAAVNHypjAQADAQQBYwKBBIIHg2MCgQQAAwNjggSFC4gQBE0lPGMDgQWBCINjA4EFAAQDQy5HKFUbXQNNHUVjBQAlEzMZYwMBBQIJAw"
+  }
+}

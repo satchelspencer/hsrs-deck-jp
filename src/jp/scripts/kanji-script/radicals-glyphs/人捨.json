@@ -1,0 +1,17 @@
+{
+  "_id": "uyy0bb8w4j3",
+  "name": "人捨",
+  "order": "3.4.9.1.7",
+  "params": {
+    "_g": "捨",
+    "_r": "m人"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "2",
+    "jp": "人"
+  }
+}

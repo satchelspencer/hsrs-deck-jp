@@ -1,0 +1,19 @@
+{
+  "_id": "kvrpx3gymuj",
+  "name": "苟驚",
+  "order": "3.2.1.0.0",
+  "params": {
+    "_1": "艹驚",
+    "_2": "句驚",
+    "_g": "驚",
+    "_r": "m苟"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "8",
+    "jp": "苟"
+  }
+}

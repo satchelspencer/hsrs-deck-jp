@@ -1,0 +1,18 @@
+{
+  "_id": "v3vpp7d6pk1",
+  "desc": "variant of 人",
+  "name": "亻保",
+  "order": "3.9.1.1.2",
+  "params": {
+    "_g": "保",
+    "_r": "m亻"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "2",
+    "jp": "亻"
+  }
+}

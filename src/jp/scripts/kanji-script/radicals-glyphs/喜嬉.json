@@ -1,0 +1,18 @@
+{
+  "_id": "efex2chklxo",
+  "name": "喜嬉",
+  "order": "2.3.2.1.2",
+  "params": {
+    "_1": "吉嬉",
+    "_g": "嬉",
+    "_r": "m喜"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "12",
+    "jp": "喜"
+  }
+}

@@ -4,7 +4,9 @@
   "order": "3",
   "parents": [
     "transports",
-    "categories"
+    "categories",
+    "u乗",
+    "u物"
   ],
   "props": {
     "en": "vehicle",

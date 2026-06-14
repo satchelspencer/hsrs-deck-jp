@@ -4,7 +4,9 @@
   "name": "at-the-end",
   "order": "2",
   "parents": [
-    "wa-past-only-times"
+    "wa-past-only-times",
+    "u最",
+    "u後"
   ],
   "props": {
     "_at": "last",

@@ -1,0 +1,18 @@
+{
+  "_id": "os86zehwoz6",
+  "desc": "variant of 人",
+  "name": "亻濯",
+  "order": "2.9.0.1.2",
+  "params": {
+    "_g": "濯",
+    "_r": "m亻"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "10",
+    "_sl": "2",
+    "jp": "亻"
+  }
+}

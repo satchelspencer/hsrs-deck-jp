@@ -4,7 +4,8 @@
   "name": "fire",
   "order": "4",
   "parents": [
-    "lightables"
+    "lightables",
+    "u火"
   ],
   "props": {
     "en": "fire",

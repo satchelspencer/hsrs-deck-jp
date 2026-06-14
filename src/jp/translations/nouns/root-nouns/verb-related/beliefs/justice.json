@@ -4,7 +4,9 @@
   "name": "justice",
   "order": "4",
   "parents": [
-    "beliefs"
+    "beliefs",
+    "u正",
+    "u義"
   ],
   "props": {
     "en": "justice",

@@ -4,7 +4,9 @@
   "name": "wares",
   "order": "3",
   "parents": [
-    "products"
+    "products",
+    "u品",
+    "u物"
   ],
   "props": {
     "en": "wares",

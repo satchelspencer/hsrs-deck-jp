@@ -5,7 +5,9 @@
   "name": "earnest",
   "order": "4",
   "parents": [
-    "na-people"
+    "na-people",
+    "u本",
+    "u気"
   ],
   "props": {
     "en": "earnest",

@@ -5,7 +5,8 @@
   "order": "3",
   "parents": [
     "language",
-    "writeables"
+    "writeables",
+    "u字"
   ],
   "props": {
     "en": "glyph",

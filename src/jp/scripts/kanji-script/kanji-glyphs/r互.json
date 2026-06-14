@@ -1,0 +1,17 @@
+{
+  "_id": "r545jom50gx",
+  "name": "r互",
+  "order": "4.2.5.1.2.1",
+  "params": {
+    "_g": "互",
+    "_r": "m互"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "互"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "_id": "dezttdhpemi",
+  "desc": "variant of 火",
+  "name": "灬鮮",
+  "order": "4.9.6.0.6",
+  "params": {
+    "_g": "鮮",
+    "_r": "m灬"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "4",
+    "jp": "灬"
+  }
+}

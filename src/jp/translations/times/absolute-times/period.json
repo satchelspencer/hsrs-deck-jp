@@ -5,7 +5,9 @@
   "order": "4",
   "parents": [
     "absolute-times",
-    "abstracts"
+    "abstracts",
+    "u時",
+    "u期"
   ],
   "props": {
     "en": "period",

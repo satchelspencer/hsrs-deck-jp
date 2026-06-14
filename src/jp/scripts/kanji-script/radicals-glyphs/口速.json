@@ -1,0 +1,17 @@
+{
+  "_id": "471b6btqpbl",
+  "name": "口速",
+  "order": "3.1.9.3.8",
+  "params": {
+    "_g": "速",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "2",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

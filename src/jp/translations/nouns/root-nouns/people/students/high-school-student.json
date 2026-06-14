@@ -3,7 +3,10 @@
   "name": "high-school-student",
   "order": "2",
   "parents": [
-    "students"
+    "students",
+    "u高",
+    "u校",
+    "u生"
   ],
   "props": {
     "en": "high school student",

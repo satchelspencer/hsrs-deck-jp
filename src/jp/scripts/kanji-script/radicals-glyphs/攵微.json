@@ -1,0 +1,18 @@
+{
+  "_id": "w197gbuc2zp",
+  "desc": "variant of 攴",
+  "name": "攵微",
+  "order": "4.4.2.0.6",
+  "params": {
+    "_g": "微",
+    "_r": "m攵"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "10",
+    "_sl": "4",
+    "jp": "攵"
+  }
+}

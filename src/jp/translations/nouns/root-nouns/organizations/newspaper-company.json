@@ -3,7 +3,10 @@
   "name": "newspaper-company",
   "order": "3",
   "parents": [
-    "organizations"
+    "organizations",
+    "u新",
+    "u聞",
+    "u社"
   ],
   "props": {
     "en": "newspaper company",

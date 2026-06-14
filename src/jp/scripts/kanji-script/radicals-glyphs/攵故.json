@@ -1,0 +1,18 @@
+{
+  "_id": "hnxivif5oxw",
+  "desc": "variant of 攴",
+  "name": "攵故",
+  "order": "2.3.8.2.1",
+  "params": {
+    "_g": "故",
+    "_r": "m攵"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "4",
+    "jp": "攵"
+  }
+}

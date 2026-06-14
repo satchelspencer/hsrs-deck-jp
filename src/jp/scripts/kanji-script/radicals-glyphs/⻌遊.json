@@ -1,0 +1,18 @@
+{
+  "_id": "2f6t53kc8wk",
+  "desc": "variant of 辶",
+  "name": "⻌遊",
+  "order": "3.4.3.5.2",
+  "params": {
+    "_g": "遊",
+    "_r": "m⻌"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "10",
+    "_sl": "3",
+    "jp": "⻌"
+  }
+}

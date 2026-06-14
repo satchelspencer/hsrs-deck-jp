@@ -1,0 +1,17 @@
+{
+  "_id": "1mfqjq72rgq",
+  "name": "r扱",
+  "order": "4.2.1.6.0.1",
+  "params": {
+    "_g": "扱",
+    "_r": "m扱"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "扱"
+  }
+}

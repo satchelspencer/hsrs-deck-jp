@@ -1,0 +1,17 @@
+{
+  "_id": "bxttkzkemkb",
+  "name": "r兄",
+  "order": "1.9.6.4.2.1",
+  "params": {
+    "_g": "兄",
+    "_r": "m兄"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "兄"
+  }
+}

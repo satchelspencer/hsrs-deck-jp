@@ -1,0 +1,17 @@
+{
+  "_id": "cvc7gw7j7kg",
+  "name": "木床",
+  "order": "3.9.3.3.5",
+  "params": {
+    "_g": "床",
+    "_r": "m木"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "4",
+    "jp": "木"
+  }
+}

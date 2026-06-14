@@ -1,0 +1,18 @@
+{
+  "_id": "gad0yx1sqll",
+  "desc": "variant of 食",
+  "name": "⻞飴",
+  "order": "2.9.6.0.8",
+  "params": {
+    "_g": "飴",
+    "_r": "m⻞"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "9",
+    "jp": "⻞"
+  }
+}

@@ -6,7 +6,8 @@
   "parents": [
     "decorations",
     "objects",
-    "media"
+    "media",
+    "u絵"
   ],
   "props": {
     "en": "picture",

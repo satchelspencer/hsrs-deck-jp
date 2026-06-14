@@ -4,7 +4,8 @@
   "name": "sweat",
   "order": "4",
   "parents": [
-    "abstracts"
+    "abstracts",
+    "u汗"
   ],
   "props": {
     "en": "sweat",

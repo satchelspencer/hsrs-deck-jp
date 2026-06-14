@@ -1,0 +1,17 @@
+{
+  "_id": "r47t1cg99kr",
+  "name": "口含",
+  "order": "4.2.5.2.8",
+  "params": {
+    "_g": "含",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

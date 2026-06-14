@@ -3,7 +3,10 @@
   "name": "japanese",
   "order": "1",
   "parents": [
-    "languages"
+    "languages",
+    "u日",
+    "u本",
+    "u語"
   ],
   "props": {
     "en": "japanese",

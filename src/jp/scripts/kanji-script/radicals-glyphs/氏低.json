@@ -1,0 +1,17 @@
+{
+  "_id": "9chdosk8bue",
+  "name": "氏低",
+  "order": "2.3.4.8.6",
+  "params": {
+    "_g": "低",
+    "_r": "m氏"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "3",
+    "_sl": "4",
+    "jp": "氏"
+  }
+}

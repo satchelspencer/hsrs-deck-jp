@@ -1,0 +1,17 @@
+{
+  "_id": "mwafcr92jj6",
+  "name": "衣襲",
+  "order": "4.9.3.4.8",
+  "params": {
+    "_g": "襲",
+    "_r": "m衣"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "17",
+    "_sl": "6",
+    "jp": "衣"
+  }
+}

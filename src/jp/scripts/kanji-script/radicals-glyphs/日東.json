@@ -1,0 +1,18 @@
+{
+  "_id": "4dbnsmwhc62",
+  "desc": "variant of 曰",
+  "name": "日東",
+  "order": "2.2.8.0.7",
+  "params": {
+    "_g": "東",
+    "_r": "m日"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "2",
+    "_sl": "4",
+    "jp": "日"
+  }
+}

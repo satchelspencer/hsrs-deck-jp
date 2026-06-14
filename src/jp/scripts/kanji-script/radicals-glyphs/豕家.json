@@ -1,0 +1,17 @@
+{
+  "_id": "9epgaqscfj8",
+  "name": "豕家",
+  "order": "1.6.2.7.5",
+  "params": {
+    "_g": "家",
+    "_r": "m豕"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "7",
+    "jp": "豕"
+  }
+}

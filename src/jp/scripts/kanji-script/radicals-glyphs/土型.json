@@ -1,0 +1,17 @@
+{
+  "_id": "lqqfp1qptdl",
+  "name": "土型",
+  "order": "4.9.2.9.0",
+  "params": {
+    "_g": "型",
+    "_r": "m土"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "3",
+    "jp": "土"
+  }
+}

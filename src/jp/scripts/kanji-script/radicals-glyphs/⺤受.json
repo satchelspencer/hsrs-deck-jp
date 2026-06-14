@@ -1,0 +1,18 @@
+{
+  "_id": "ke8phnicthe",
+  "desc": "variant of 爪",
+  "name": "⺤受",
+  "order": "1.5.3.6.6",
+  "params": {
+    "_g": "受",
+    "_r": "m⺤"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "⺤"
+  }
+}

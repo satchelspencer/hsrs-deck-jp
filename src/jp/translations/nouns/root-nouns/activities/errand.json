@@ -6,7 +6,9 @@
   "parents": [
     "activities",
     "people-no",
-    "wago-countable"
+    "wago-countable",
+    "u用",
+    "u事"
   ],
   "props": {
     "en": "errand",

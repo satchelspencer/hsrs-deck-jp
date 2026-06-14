@@ -1,0 +1,17 @@
+{
+  "_id": "nkfpbegll1c",
+  "name": "r司",
+  "order": "1.9.3.5.7.1",
+  "params": {
+    "_g": "司",
+    "_r": "m司"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "司"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "_id": "ekibpvickxv",
+  "name": "早朝",
+  "order": "1.9.6.0.2",
+  "params": {
+    "_1": "日朝",
+    "_g": "朝",
+    "_r": "m早"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "3",
+    "_sl": "6",
+    "jp": "早"
+  }
+}

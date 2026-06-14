@@ -1,0 +1,17 @@
+{
+  "_id": "uuo9ayovfq0",
+  "name": "糸組",
+  "order": "2.9.6.1.9",
+  "params": {
+    "_g": "組",
+    "_r": "m糸"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "糸"
+  }
+}

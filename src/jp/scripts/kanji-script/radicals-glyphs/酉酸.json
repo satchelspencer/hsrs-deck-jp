@@ -1,0 +1,18 @@
+{
+  "_id": "145arkxjhv0",
+  "name": "酉酸",
+  "order": "3.4.5.3.0",
+  "params": {
+    "_1": "一酸",
+    "_g": "酸",
+    "_r": "m酉"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "7",
+    "jp": "酉"
+  }
+}

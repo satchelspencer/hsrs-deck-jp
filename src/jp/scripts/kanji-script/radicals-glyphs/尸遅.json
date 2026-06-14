@@ -1,0 +1,17 @@
+{
+  "_id": "4w8jdcl02hu",
+  "name": "尸遅",
+  "order": "2.4.1.0.5",
+  "params": {
+    "_g": "遅",
+    "_r": "m尸"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "尸"
+  }
+}

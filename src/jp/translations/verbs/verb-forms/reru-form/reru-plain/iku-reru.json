@@ -5,7 +5,8 @@
     "verb": "iku"
   },
   "parents": [
-    "reru-plain"
+    "reru-plain",
+    "u行"
   ],
   "props": {
     "jp": "verb.jp|r('行く', '行ける')|r('いく', 'いける')"

@@ -1,0 +1,17 @@
+{
+  "_id": "u45d0pibgmf",
+  "name": "口尋",
+  "order": "3.9.8.9.6",
+  "params": {
+    "_g": "尋",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

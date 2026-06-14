@@ -4,7 +4,8 @@
   "order": "3",
   "parents": [
     "informations",
-    "people-no"
+    "people-no",
+    "u考"
   ],
   "props": {
     "en": "idea",

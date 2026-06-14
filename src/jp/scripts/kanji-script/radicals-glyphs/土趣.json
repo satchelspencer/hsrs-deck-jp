@@ -1,0 +1,17 @@
+{
+  "_id": "c36x2uaoj35",
+  "name": "土趣",
+  "order": "3.6.9.4.2",
+  "params": {
+    "_g": "趣",
+    "_r": "m土"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "土"
+  }
+}

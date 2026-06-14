@@ -1,0 +1,17 @@
+{
+  "_id": "z8q7xcm9ghp",
+  "name": "r子",
+  "order": "1.3.0.4.6.1",
+  "params": {
+    "_g": "子",
+    "_r": "m子"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "子"
+  }
+}

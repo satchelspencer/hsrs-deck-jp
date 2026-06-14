@@ -1,0 +1,12 @@
+{
+  "_id": "e8n465g90ya",
+  "name": "hiragana-glyphs",
+  "order": "2.1",
+  "parents": [
+    "kana-writes"
+  ],
+  "props": {
+    "_tl": "_kn._tl"
+  },
+  "virtual": true
+}

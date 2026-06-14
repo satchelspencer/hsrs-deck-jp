@@ -1,0 +1,19 @@
+{
+  "_id": "kbsyfdpsj3g",
+  "name": "延誕",
+  "order": "1.9.5.6.0",
+  "params": {
+    "_1": "正誕",
+    "_2": "廴誕",
+    "_g": "誕",
+    "_r": "m延"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "8",
+    "jp": "延"
+  }
+}

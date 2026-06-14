@@ -1,0 +1,17 @@
+{
+  "_id": "x2alivplwp9",
+  "name": "言語",
+  "order": "1.9.2.4.6",
+  "params": {
+    "_g": "語",
+    "_r": "m言"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "7",
+    "jp": "言"
+  }
+}

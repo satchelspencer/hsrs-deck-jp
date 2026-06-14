@@ -5,7 +5,8 @@
   "order": "3",
   "parents": [
     "beliefs",
-    "abstracts"
+    "abstracts",
+    "u悪"
   ],
   "props": {
     "en": "evil",

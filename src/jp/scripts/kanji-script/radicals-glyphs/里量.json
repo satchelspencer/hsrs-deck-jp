@@ -1,0 +1,17 @@
+{
+  "_id": "oav4fja5l2b",
+  "name": "里量",
+  "order": "4.3.5.4.9",
+  "params": {
+    "_g": "量",
+    "_r": "m里"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "7",
+    "jp": "里"
+  }
+}

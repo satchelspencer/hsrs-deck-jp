@@ -1,0 +1,15 @@
+{
+  "_id": "lv3cqybza48",
+  "name": "速",
+  "order": "3.1.9.3.8",
+  "params": {
+    "_wd": "u速"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "速",
+    "_st": "CgRNLBljAgAFAQYAYwuBGYQihGMDAAQABgAETS8lYwEBAQEBAmMBAwIIAwxjAAEAAgACBE0xJmMKgR6EIoVjAgAEAgMEY4IFggaDCgNNNDRjCYEUgh2DYwEAAgADAARNQQpjAQECAgIDYwADACwAP2MABAAHAAgDTUEzYwABAAKBA2OFCJATmBcCTUY6YwYDDwoVEQJNFRNjBAIKCAsLB00NM2MCAQQBBQBzCYMLhGMCgQQAAgNjhg2HCgETYwEBAQOBBFMWURRRBE0QUmMDAAmBDoFjBwEeCCMJYwwEEQUaBQ"
+  }
+}

@@ -4,7 +4,9 @@
   "name": "sales-floor",
   "order": "3",
   "parents": [
-    "spaces"
+    "spaces",
+    "u売",
+    "u場"
   ],
   "props": {
     "en": "sales floor",

@@ -4,7 +4,8 @@
   "name": "various",
   "order": "2",
   "parents": [
-    "na-seeables"
+    "na-seeables",
+    "u色"
   ],
   "props": {
     "en": "various",

@@ -1,0 +1,17 @@
+{
+  "_id": "w4c0r02qcsd",
+  "name": "一低",
+  "order": "2.3.4.8.6",
+  "params": {
+    "_g": "低",
+    "_r": "m一"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "1",
+    "jp": "一"
+  }
+}

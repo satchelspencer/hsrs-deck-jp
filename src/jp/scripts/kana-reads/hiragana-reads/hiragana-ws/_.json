@@ -1,0 +1,10 @@
+{
+  "_id": "urmhpusz0yi",
+  "name": "hiragana-ws",
+  "parents": [
+    "hiragana-reads"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

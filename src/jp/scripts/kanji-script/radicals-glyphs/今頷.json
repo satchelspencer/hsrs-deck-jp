@@ -1,0 +1,17 @@
+{
+  "_id": "ia1lifdwbsd",
+  "name": "今頷",
+  "order": "4.9.7.5.0",
+  "params": {
+    "_g": "頷",
+    "_r": "m今"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "今"
+  }
+}

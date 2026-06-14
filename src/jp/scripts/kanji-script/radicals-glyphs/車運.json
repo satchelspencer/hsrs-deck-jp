@@ -1,0 +1,17 @@
+{
+  "_id": "4xc7lvws2od",
+  "name": "車運",
+  "order": "1.3.3.1.8",
+  "params": {
+    "_g": "運",
+    "_r": "m車"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "3",
+    "_sl": "7",
+    "jp": "車"
+  }
+}

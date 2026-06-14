@@ -3,7 +3,9 @@
   "name": "fire-disaster",
   "order": "4",
   "parents": [
-    "events"
+    "events",
+    "u火",
+    "u事"
   ],
   "props": {
     "en": "fire disaster",

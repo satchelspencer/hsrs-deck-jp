@@ -1,0 +1,18 @@
+{
+  "_id": "kl55bdbbdz0",
+  "desc": "variant of 吅",
+  "name": "⺍獣",
+  "order": "4.9.3.9.3",
+  "params": {
+    "_g": "獣",
+    "_r": "m⺍"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "⺍"
+  }
+}

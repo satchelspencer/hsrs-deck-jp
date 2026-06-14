@@ -1,0 +1,17 @@
+{
+  "_id": "px4vikr9lrx",
+  "name": "台治",
+  "order": "2.9.9.0.7",
+  "params": {
+    "_g": "治",
+    "_r": "m台"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "5",
+    "jp": "台"
+  }
+}

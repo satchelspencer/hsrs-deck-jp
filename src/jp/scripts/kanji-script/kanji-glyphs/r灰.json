@@ -1,0 +1,17 @@
+{
+  "_id": "iisa2miy5jm",
+  "name": "r灰",
+  "order": "3.9.2.9.6.1",
+  "params": {
+    "_g": "灰",
+    "_r": "m灰"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "灰"
+  }
+}

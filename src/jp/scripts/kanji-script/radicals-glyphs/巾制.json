@@ -1,0 +1,17 @@
+{
+  "_id": "o1k31pvyoka",
+  "name": "巾制",
+  "order": "4.9.9.0.9",
+  "params": {
+    "_g": "制",
+    "_r": "m巾"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "3",
+    "jp": "巾"
+  }
+}

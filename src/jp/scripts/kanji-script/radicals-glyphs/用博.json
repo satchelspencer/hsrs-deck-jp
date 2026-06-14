@@ -1,0 +1,17 @@
+{
+  "_id": "nu0gqticw6j",
+  "name": "用博",
+  "order": "3.3.6.8.2",
+  "params": {
+    "_g": "博",
+    "_r": "m用"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "5",
+    "jp": "用"
+  }
+}

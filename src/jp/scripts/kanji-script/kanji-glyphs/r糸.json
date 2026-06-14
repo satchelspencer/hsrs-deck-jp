@@ -1,0 +1,17 @@
+{
+  "_id": "r2ohks2u6ow",
+  "name": "r糸",
+  "order": "1.2.8.5.3.1",
+  "params": {
+    "_g": "糸",
+    "_r": "m糸"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "糸"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "_id": "ar9b7y7zsdh",
+  "desc": "variant of 彑",
+  "name": "⺕雪",
+  "order": "2.9.6.3.9",
+  "params": {
+    "_g": "雪",
+    "_r": "m⺕"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "9",
+    "_sl": "3",
+    "jp": "⺕"
+  }
+}

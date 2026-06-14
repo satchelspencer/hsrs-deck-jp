@@ -1,0 +1,17 @@
+{
+  "_id": "vlnpr1v67ag",
+  "name": "八預",
+  "order": "4.9.8.5.3",
+  "params": {
+    "_g": "預",
+    "_r": "m八"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "12",
+    "_sl": "2",
+    "jp": "八"
+  }
+}

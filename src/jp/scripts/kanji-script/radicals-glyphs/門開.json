@@ -1,0 +1,17 @@
+{
+  "_id": "nalfswgn8vj",
+  "name": "門開",
+  "order": "2.5.5.8.1",
+  "params": {
+    "_g": "開",
+    "_r": "m門"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "8",
+    "jp": "門"
+  }
+}

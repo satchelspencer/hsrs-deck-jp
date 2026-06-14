@@ -1,0 +1,17 @@
+{
+  "_id": "1svyzvweuzi",
+  "name": "八貴",
+  "order": "4.2.6.2.4",
+  "params": {
+    "_g": "貴",
+    "_r": "m八"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "11",
+    "_sl": "2",
+    "jp": "八"
+  }
+}

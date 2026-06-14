@@ -1,0 +1,15 @@
+{
+  "_id": "wdmkg3xtoqw",
+  "name": "傘",
+  "order": "1.5.4.1.3",
+  "params": {
+    "_wd": "u傘"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "傘",
+    "_st": "DANNNgpjAAEAAoEDQy8WICYKMANNNw1jBQUXEiAYYwMCBQQKBQNNJiZjAAEAAoEDY4IEhgmNDgJNJS1jBAIJBwoJA00kN2MAAQACAAJjgQSGCo0PAk0lP2MDAQkGCggDTUklYwABAAIAAmOBA4YJiw0CTUosYwQBCgYLCANNSjZjAAEAAgACY4IEhwqODgJNSj1jBAIJBgoJBE0PT2MDAQcBCwBjEIIngzeEYwQACAALAQRNNSBjAQECAgIEYwAMACsAOWMAAwAFAAc"
+  }
+}

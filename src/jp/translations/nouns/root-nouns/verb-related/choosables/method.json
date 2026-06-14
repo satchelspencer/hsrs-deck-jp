@@ -5,7 +5,9 @@
   "order": "3",
   "parents": [
     "choosables",
-    "wago-countable"
+    "wago-countable",
+    "u方",
+    "u法"
   ],
   "props": {
     "en": "method",

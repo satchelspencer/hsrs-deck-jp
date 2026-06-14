@@ -4,7 +4,10 @@
   "name": "parking-lot",
   "order": "3",
   "parents": [
-    "places"
+    "places",
+    "u駐",
+    "u車",
+    "u場"
   ],
   "props": {
     "en": "parking lot",

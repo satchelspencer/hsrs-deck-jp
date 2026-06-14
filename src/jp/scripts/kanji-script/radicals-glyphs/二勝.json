@@ -1,0 +1,17 @@
+{
+  "_id": "pn9jotm7k6b",
+  "name": "二勝",
+  "order": "3.1.9.3.6",
+  "params": {
+    "_g": "勝",
+    "_r": "m二"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "2",
+    "jp": "二"
+  }
+}

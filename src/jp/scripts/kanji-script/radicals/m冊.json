@@ -1,0 +1,10 @@
+{
+  "_id": "2d9qnqij0dy",
+  "name": "m冊",
+  "parents": [
+    "radicals"
+  ],
+  "props": {
+    "_m": "tome, counter for books"
+  }
+}

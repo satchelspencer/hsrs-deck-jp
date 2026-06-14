@@ -1,0 +1,17 @@
+{
+  "_id": "mvqekmhnhbl",
+  "name": "耳職",
+  "order": "3.9.0.4.3",
+  "params": {
+    "_g": "職",
+    "_r": "m耳"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "耳"
+  }
+}

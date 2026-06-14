@@ -1,0 +1,18 @@
+{
+  "_id": "7pfc4xpn7dl",
+  "name": "言訳",
+  "order": "3.6.7.0.4",
+  "params": {
+    "_1": "口訳",
+    "_g": "訳",
+    "_r": "m言"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "7",
+    "jp": "言"
+  }
+}

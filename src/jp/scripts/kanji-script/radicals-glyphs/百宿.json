@@ -1,0 +1,18 @@
+{
+  "_id": "9hq06usdll6",
+  "name": "百宿",
+  "order": "2.9.9.7.5",
+  "params": {
+    "_1": "白宿",
+    "_g": "宿",
+    "_r": "m百"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "6",
+    "jp": "百"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "gja3xy2kzko",
+  "name": "句局",
+  "order": "2.9.4.4.6",
+  "params": {
+    "_g": "局",
+    "_r": "m句"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "3",
+    "_sl": "5",
+    "jp": "句"
+  }
+}

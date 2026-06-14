@@ -1,0 +1,17 @@
+{
+  "_id": "20eq4qdzolw",
+  "name": "山微",
+  "order": "4.4.2.0.6",
+  "params": {
+    "_g": "微",
+    "_r": "m山"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "3",
+    "jp": "山"
+  }
+}

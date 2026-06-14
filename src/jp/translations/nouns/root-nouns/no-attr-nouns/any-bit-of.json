@@ -4,7 +4,9 @@
   "name": "any-bit-of",
   "order": "4",
   "parents": [
-    "no-attr-nouns"
+    "no-attr-nouns",
+    "u一",
+    "u切"
   ],
   "props": {
     "en": "any bit of",

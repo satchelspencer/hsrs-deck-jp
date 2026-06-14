@@ -1,0 +1,18 @@
+{
+  "_id": "koe8b3gc5gz",
+  "desc": "variant of 辶",
+  "name": "⻌迫",
+  "order": "4.4.1.1.0",
+  "params": {
+    "_g": "迫",
+    "_r": "m⻌"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "3",
+    "jp": "⻌"
+  }
+}

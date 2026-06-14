@@ -1,0 +1,17 @@
+{
+  "_id": "nvju4f40nrx",
+  "name": "止歯",
+  "order": "2.9.1.7.2",
+  "params": {
+    "_g": "歯",
+    "_r": "m止"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "止"
+  }
+}

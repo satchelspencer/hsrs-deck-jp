@@ -4,7 +4,9 @@
   "order": "2",
   "parents": [
     "family",
-    "categories"
+    "categories",
+    "u家",
+    "u族"
   ],
   "props": {
     "_pl": "family members",

@@ -1,0 +1,17 @@
+{
+  "_id": "pdswcd7v9tn",
+  "name": "三残",
+  "order": "2.9.1.7.4",
+  "params": {
+    "_g": "残",
+    "_r": "m三"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "3",
+    "jp": "三"
+  }
+}

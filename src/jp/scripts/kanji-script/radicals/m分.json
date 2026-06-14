@@ -1,0 +1,10 @@
+{
+  "_id": "g6pupx03ykp",
+  "name": "m分",
+  "parents": [
+    "radicals"
+  ],
+  "props": {
+    "_m": "part, minute of time, segment"
+  }
+}

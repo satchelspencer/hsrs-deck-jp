@@ -1,0 +1,17 @@
+{
+  "_id": "13pm5vqzkti",
+  "name": "心悲",
+  "order": "2.3.4.5.8",
+  "params": {
+    "_g": "悲",
+    "_r": "m心"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "9",
+    "_sl": "4",
+    "jp": "心"
+  }
+}

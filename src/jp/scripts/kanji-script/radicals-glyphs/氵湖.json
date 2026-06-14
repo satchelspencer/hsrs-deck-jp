@@ -1,0 +1,18 @@
+{
+  "_id": "rhz0gs9lzo5",
+  "desc": "variant of 水",
+  "name": "氵湖",
+  "order": "3.9.8.8.6",
+  "params": {
+    "_g": "湖",
+    "_r": "m氵"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "氵"
+  }
+}

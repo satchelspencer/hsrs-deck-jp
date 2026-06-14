@@ -1,0 +1,17 @@
+{
+  "_id": "ngra1d3bb2a",
+  "name": "目財",
+  "order": "1.9.8.6.4",
+  "params": {
+    "_g": "財",
+    "_r": "m目"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "目"
+  }
+}

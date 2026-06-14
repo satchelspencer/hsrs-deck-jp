@@ -3,7 +3,9 @@
   "name": "police",
   "order": "2",
   "parents": [
-    "organizations"
+    "organizations",
+    "u警",
+    "u察"
   ],
   "props": {
     "en": "police",

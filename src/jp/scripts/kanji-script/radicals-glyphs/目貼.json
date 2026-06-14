@@ -1,0 +1,17 @@
+{
+  "_id": "bo66qgcdnh8",
+  "name": "目貼",
+  "order": "3.9.7.0.2",
+  "params": {
+    "_g": "貼",
+    "_r": "m目"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "目"
+  }
+}

@@ -5,7 +5,9 @@
   "order": "3",
   "parents": [
     "languages",
-    "categories"
+    "categories",
+    "u言",
+    "u語"
   ],
   "props": {
     "en": "language",

@@ -5,7 +5,9 @@
   "order": "4",
   "parents": [
     "na-informations",
-    "na-people-do"
+    "na-people-do",
+    "u正",
+    "u確"
   ],
   "props": {
     "en": "accurate",

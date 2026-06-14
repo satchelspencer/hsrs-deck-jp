@@ -5,7 +5,9 @@
   "order": "4",
   "parents": [
     "roles",
-    "people-no"
+    "people-no",
+    "u部",
+    "u下"
   ],
   "props": {
     "en": "subordinate",

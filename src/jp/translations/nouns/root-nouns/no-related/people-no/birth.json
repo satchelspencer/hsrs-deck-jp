@@ -4,7 +4,8 @@
   "name": "birth",
   "order": "3",
   "parents": [
-    "people-no"
+    "people-no",
+    "u生"
   ],
   "props": {
     "en": "birth",

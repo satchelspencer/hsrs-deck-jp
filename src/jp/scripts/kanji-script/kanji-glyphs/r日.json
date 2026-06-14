@@ -1,0 +1,17 @@
+{
+  "_id": "3wjc74qlgm3",
+  "name": "r日",
+  "order": "1.1.3.6.4.1",
+  "params": {
+    "_g": "日",
+    "_r": "m日"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "日"
+  }
+}

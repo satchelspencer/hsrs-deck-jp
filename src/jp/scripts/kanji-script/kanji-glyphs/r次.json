@@ -1,0 +1,17 @@
+{
+  "_id": "2dlsdwxmgvz",
+  "name": "r次",
+  "order": "3.2.1.4.5.1",
+  "params": {
+    "_g": "次",
+    "_r": "m次"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "次"
+  }
+}

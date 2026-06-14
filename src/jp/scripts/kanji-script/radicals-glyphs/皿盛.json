@@ -1,0 +1,17 @@
+{
+  "_id": "aws9j5effv1",
+  "name": "皿盛",
+  "order": "3.9.6.6.4",
+  "params": {
+    "_g": "盛",
+    "_r": "m皿"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "5",
+    "jp": "皿"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "cojqnli1iy9",
+  "name": "冉講",
+  "order": "3.9.2.1.1",
+  "params": {
+    "_g": "講",
+    "_r": "m冉"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "13",
+    "_sl": "5",
+    "jp": "冉"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "dogiyiw8nt4",
+  "name": "大器",
+  "order": "3.6.3.0.6",
+  "params": {
+    "_g": "器",
+    "_r": "m大"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "3",
+    "jp": "大"
+  }
+}

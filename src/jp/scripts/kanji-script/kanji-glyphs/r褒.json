@@ -1,0 +1,18 @@
+{
+  "_id": "hhkamdok5hd",
+  "name": "r褒",
+  "order": "3.9.1.1.2.1",
+  "params": {
+    "_1": "保褒",
+    "_g": "褒",
+    "_r": "m褒"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "15",
+    "jp": "褒"
+  }
+}

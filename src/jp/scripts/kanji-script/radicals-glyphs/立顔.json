@@ -1,0 +1,17 @@
+{
+  "_id": "91cy6hc5ncs",
+  "name": "立顔",
+  "order": "2.4.0.5.0",
+  "params": {
+    "_g": "顔",
+    "_r": "m立"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "立"
+  }
+}

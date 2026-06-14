@@ -1,0 +1,17 @@
+{
+  "_id": "ku342dgar1p",
+  "name": "女妻",
+  "order": "3.6.1.1.2",
+  "params": {
+    "_g": "妻",
+    "_r": "m女"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "3",
+    "jp": "女"
+  }
+}

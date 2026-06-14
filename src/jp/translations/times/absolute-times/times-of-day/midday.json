@@ -4,7 +4,8 @@
   "name": "midday",
   "order": "1",
   "parents": [
-    "times-of-day"
+    "times-of-day",
+    "u昼"
   ],
   "props": {
     "en": "midday",

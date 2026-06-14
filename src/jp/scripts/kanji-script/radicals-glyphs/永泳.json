@@ -1,0 +1,17 @@
+{
+  "_id": "yyc8z2lf3ht",
+  "name": "永泳",
+  "order": "1.9.5.4.5",
+  "params": {
+    "_g": "泳",
+    "_r": "m永"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "5",
+    "jp": "永"
+  }
+}

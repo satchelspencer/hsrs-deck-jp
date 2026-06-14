@@ -1,0 +1,17 @@
+{
+  "_id": "sv7xkj4dsj1",
+  "name": "糸緑",
+  "order": "3.9.6.1.8",
+  "params": {
+    "_g": "緑",
+    "_r": "m糸"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "糸"
+  }
+}

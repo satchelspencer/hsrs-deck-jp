@@ -1,0 +1,18 @@
+{
+  "_id": "nznxfof4u9o",
+  "desc": "variant of 刀",
+  "name": "卩節",
+  "order": "2.9.5.2.5",
+  "params": {
+    "_g": "節",
+    "_r": "m卩"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "12",
+    "_sl": "2",
+    "jp": "卩"
+  }
+}

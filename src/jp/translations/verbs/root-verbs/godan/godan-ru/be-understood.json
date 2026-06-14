@@ -5,7 +5,8 @@
   "order": "1",
   "parents": [
     "godan-ru",
-    "info-verbs"
+    "info-verbs",
+    "u分"
   ],
   "props": {
     "en": "be understood",

@@ -4,7 +4,9 @@
   "name": "prospect",
   "order": "4",
   "parents": [
-    "verb-clause-nouns-any"
+    "verb-clause-nouns-any",
+    "u見",
+    "u込"
   ],
   "props": {
     "en": "prospect",

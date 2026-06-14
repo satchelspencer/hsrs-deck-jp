@@ -1,0 +1,18 @@
+{
+  "_id": "i05xain5h5f",
+  "desc": "variant of 辶",
+  "name": "⻌速",
+  "order": "3.1.9.3.8",
+  "params": {
+    "_g": "速",
+    "_r": "m⻌"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "3",
+    "jp": "⻌"
+  }
+}

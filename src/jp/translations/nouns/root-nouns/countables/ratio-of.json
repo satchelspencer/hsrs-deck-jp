@@ -5,7 +5,9 @@
   "order": "3",
   "parents": [
     "countables",
-    "object-no"
+    "object-no",
+    "u割",
+    "u合"
   ],
   "props": {
     "en": "ratio of",

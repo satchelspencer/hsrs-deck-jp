@@ -1,0 +1,17 @@
+{
+  "_id": "0512nsew1zk",
+  "name": "万励",
+  "order": "3.9.4.0.8",
+  "params": {
+    "_g": "励",
+    "_r": "m万"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "3",
+    "_sl": "3",
+    "jp": "万"
+  }
+}

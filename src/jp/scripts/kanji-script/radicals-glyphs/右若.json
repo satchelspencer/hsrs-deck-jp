@@ -1,0 +1,17 @@
+{
+  "_id": "7n6cut9we2j",
+  "name": "右若",
+  "order": "1.4.3.0.5",
+  "params": {
+    "_g": "若",
+    "_r": "m右"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "5",
+    "jp": "右"
+  }
+}

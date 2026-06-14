@@ -1,0 +1,17 @@
+{
+  "_id": "adfaa9j03ti",
+  "name": "r叱",
+  "order": "3.9.3.2.5.1",
+  "params": {
+    "_g": "叱",
+    "_r": "m叱"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "叱"
+  }
+}

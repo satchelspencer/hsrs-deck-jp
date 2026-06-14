@@ -4,7 +4,9 @@
   "name": "prior-to",
   "order": "4",
   "parents": [
-    "root-relative-time-exprs"
+    "root-relative-time-exprs",
+    "u以",
+    "u前"
   ],
   "props": {
     "en": "prior to",

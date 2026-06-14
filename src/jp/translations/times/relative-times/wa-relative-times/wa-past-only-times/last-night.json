@@ -4,7 +4,9 @@
   "name": "last-night",
   "order": "2",
   "parents": [
-    "wa-past-only-times"
+    "wa-past-only-times",
+    "u昨",
+    "u夜"
   ],
   "props": {
     "en": "last night",

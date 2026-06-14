@@ -4,7 +4,8 @@
   "name": "for-example",
   "order": "4",
   "parents": [
-    "clause-adverbs"
+    "clause-adverbs",
+    "u例"
   ],
   "props": {
     "en": "for example",

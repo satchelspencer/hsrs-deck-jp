@@ -1,0 +1,17 @@
+{
+  "_id": "8mxl9lammuj",
+  "name": "厂歴",
+  "order": "3.4.9.1.1",
+  "params": {
+    "_g": "歴",
+    "_r": "m厂"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "2",
+    "jp": "厂"
+  }
+}

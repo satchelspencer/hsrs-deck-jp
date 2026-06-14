@@ -1,0 +1,18 @@
+{
+  "_id": "dw0fs0e0f3e",
+  "desc": "variant of 曰",
+  "name": "日硬",
+  "order": "3.3.3.6.4",
+  "params": {
+    "_g": "硬",
+    "_r": "m日"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "4",
+    "jp": "日"
+  }
+}

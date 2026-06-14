@@ -1,0 +1,17 @@
+{
+  "_id": "02o0l5dsg5r",
+  "name": "水線",
+  "order": "2.6.4.8.2",
+  "params": {
+    "_g": "線",
+    "_r": "m水"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "12",
+    "_sl": "4",
+    "jp": "水"
+  }
+}

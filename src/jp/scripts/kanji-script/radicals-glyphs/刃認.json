@@ -1,0 +1,17 @@
+{
+  "_id": "r9lloysnowu",
+  "name": "刃認",
+  "order": "4.1.0.0.5",
+  "params": {
+    "_g": "認",
+    "_r": "m刃"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "3",
+    "jp": "刃"
+  }
+}

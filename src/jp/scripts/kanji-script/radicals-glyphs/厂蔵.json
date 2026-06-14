@@ -1,0 +1,17 @@
+{
+  "_id": "buiv3bk5hq2",
+  "name": "厂蔵",
+  "order": "2.9.1.8.6",
+  "params": {
+    "_g": "蔵",
+    "_r": "m厂"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "2",
+    "jp": "厂"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "xklhtm9i8rf",
+  "name": "木枚",
+  "order": "2.9.1.1.9",
+  "params": {
+    "_g": "枚",
+    "_r": "m木"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "木"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "lv38vchfr4k",
+  "name": "r冬",
+  "order": "2.1.6.6.5.1",
+  "params": {
+    "_g": "冬",
+    "_r": "m冬"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "冬"
+  }
+}

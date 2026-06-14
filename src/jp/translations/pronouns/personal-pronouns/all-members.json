@@ -3,7 +3,9 @@
   "name": "all-members",
   "order": "4",
   "parents": [
-    "personal-pronouns"
+    "personal-pronouns",
+    "u全",
+    "u員"
   ],
   "props": {
     "en": "all members",

@@ -1,0 +1,17 @@
+{
+  "_id": "t0lml83jg7n",
+  "name": "白宿",
+  "order": "2.9.9.7.5",
+  "params": {
+    "_g": "宿",
+    "_r": "m白"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "5",
+    "jp": "白"
+  }
+}

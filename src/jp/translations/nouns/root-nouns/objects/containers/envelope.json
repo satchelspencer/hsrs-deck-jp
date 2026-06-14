@@ -3,7 +3,9 @@
   "name": "envelope",
   "order": "3",
   "parents": [
-    "containers"
+    "containers",
+    "u封",
+    "u筒"
   ],
   "props": {
     "en": "envelope",

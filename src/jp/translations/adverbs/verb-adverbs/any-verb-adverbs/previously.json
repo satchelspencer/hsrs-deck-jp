@@ -4,7 +4,8 @@
   "name": "previously",
   "order": "4",
   "parents": [
-    "any-verb-adverbs"
+    "any-verb-adverbs",
+    "u既"
   ],
   "props": {
     "en": "previously",

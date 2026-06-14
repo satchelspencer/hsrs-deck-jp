@@ -1,0 +1,18 @@
+{
+  "_id": "s1bgyayrylu",
+  "desc": "variant of 彑",
+  "name": "⺕筆",
+  "order": "2.6.7.7.5",
+  "params": {
+    "_g": "筆",
+    "_r": "m⺕"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "3",
+    "jp": "⺕"
+  }
+}

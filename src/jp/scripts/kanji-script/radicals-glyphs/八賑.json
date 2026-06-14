@@ -1,0 +1,17 @@
+{
+  "_id": "7f5a61fojab",
+  "name": "八賑",
+  "order": "1.4.7.9.8",
+  "params": {
+    "_g": "賑",
+    "_r": "m八"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "2",
+    "jp": "八"
+  }
+}

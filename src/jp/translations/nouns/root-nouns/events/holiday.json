@@ -4,7 +4,9 @@
   "name": "holiday",
   "order": "3",
   "parents": [
-    "events"
+    "events",
+    "u休",
+    "u日"
   ],
   "props": {
     "en": "holiday",

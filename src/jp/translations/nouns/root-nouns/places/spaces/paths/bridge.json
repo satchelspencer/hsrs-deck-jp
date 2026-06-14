@@ -4,7 +4,8 @@
   "order": "2",
   "parents": [
     "paths",
-    "places"
+    "places",
+    "u橋"
   ],
   "props": {
     "en": "bridge",

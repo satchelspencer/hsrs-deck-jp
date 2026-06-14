@@ -1,0 +1,17 @@
+{
+  "_id": "vuywih5wcg0",
+  "name": "一噂",
+  "order": "3.9.8.9.6",
+  "params": {
+    "_g": "噂",
+    "_r": "m一"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "11",
+    "_sl": "1",
+    "jp": "一"
+  }
+}

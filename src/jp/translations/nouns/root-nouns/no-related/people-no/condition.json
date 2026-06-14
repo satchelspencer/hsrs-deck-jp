@@ -4,7 +4,9 @@
   "name": "condition",
   "order": "4",
   "parents": [
-    "people-no"
+    "people-no",
+    "u具",
+    "u合"
   ],
   "props": {
     "en": "condition",

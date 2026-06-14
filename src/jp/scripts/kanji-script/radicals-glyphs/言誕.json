@@ -1,0 +1,18 @@
+{
+  "_id": "5vlshn5f1qd",
+  "name": "言誕",
+  "order": "1.9.5.6.0",
+  "params": {
+    "_1": "口誕",
+    "_g": "誕",
+    "_r": "m言"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "7",
+    "jp": "言"
+  }
+}

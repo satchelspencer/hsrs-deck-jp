@@ -1,0 +1,15 @@
+{
+  "_id": "elvrszmk5m6",
+  "name": "味",
+  "order": "1.3.9.0.3",
+  "params": {
+    "_wd": "u味"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "味",
+    "_st": "CARNCiRjAQEBAgEEYwEEAQwCE2MAAgADAAUETQ0lYwWBDoITg2MDAAUBBARjgQWDC4QSA00OO2MDAAqBEIFjAgADAAQABE0tIWMCAQQBBgFjB4ERghmDYwIABAAGAARNKDRjAgEFAQgAYwmBF4MkhGMCAAUACAAETT4MYwEBAgMCBWMAAQA2AExjAAQABgAIA009M2MAAoEEggVjhwqUF58dA01BM2MEBhAUGBtjAgIEBAYF"
+  }
+}

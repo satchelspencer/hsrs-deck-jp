@@ -1,0 +1,15 @@
+{
+  "_id": "nyw3edas5cj",
+  "name": "医",
+  "order": "2.9.8.0.1",
+  "params": {
+    "_wd": "u医"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "医",
+    "_st": "BwRNEhRjAgEFAQcBYxKBJ4M6hGMDAAUABwEDTTAbYwAAAAEAAmOBBIYOjBIETS8mYwEAAwAEAGMHgQ6CFoNjAgAEAAUABE0gOWMCAAUACABjCoEbgyaEYwMABgAIAANNOihjAQEBAgEEQzs9NEokUQJNPTxDQ0RPTldRBk0WFWMBAgEDAQZjAA8AL4E8YwADAQQDBGMQgiyDPINjAwAGAAgB"
+  }
+}

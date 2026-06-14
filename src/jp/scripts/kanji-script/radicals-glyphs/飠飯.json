@@ -1,0 +1,18 @@
+{
+  "_id": "2hxu6d3amrn",
+  "desc": "variant of 食",
+  "name": "飠飯",
+  "order": "1.9.0.1.0",
+  "params": {
+    "_g": "飯",
+    "_r": "m飠"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "8",
+    "jp": "飠"
+  }
+}

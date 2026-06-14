@@ -1,0 +1,15 @@
+{
+  "_id": "ce9s9j3nkt8",
+  "name": "波",
+  "order": "4.3.8.1.1",
+  "params": {
+    "_wd": "u波"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "波",
+    "_st": "CAJNFRRjAwEHBAoHAk0OKWMEAQkGCggDTQ5ZYwIAAwAEgWMDhQeMCZIDTSkiYwEBAgICBGMAHoMrjjQDTSokYw6DIYYphmMKAAYFAAoDTT0MYwEBAgMCBGMAAQAaACQFTTI3YwEAAwEFAGMGgRKEFIRjBIEFAQQFY4YRkyClJgNNMT5jAwEWEiMcYwICBQQIBQ"
+  }
+}

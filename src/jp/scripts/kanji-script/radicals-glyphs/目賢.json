@@ -1,0 +1,17 @@
+{
+  "_id": "ren4in1ipfm",
+  "name": "目賢",
+  "order": "4.3.1.8.2",
+  "params": {
+    "_g": "賢",
+    "_r": "m目"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "10",
+    "_sl": "5",
+    "jp": "目"
+  }
+}

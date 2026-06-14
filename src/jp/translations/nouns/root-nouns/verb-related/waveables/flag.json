@@ -6,7 +6,8 @@
     "waveables",
     "objects",
     "raisables",
-    "country-no"
+    "country-no",
+    "u旗"
   ],
   "props": {
     "en": "flag",

@@ -1,0 +1,17 @@
+{
+  "_id": "khl6k2b6cju",
+  "name": "r令",
+  "order": "2.2.2.7.4.1",
+  "params": {
+    "_g": "令",
+    "_r": "m令"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "令"
+  }
+}

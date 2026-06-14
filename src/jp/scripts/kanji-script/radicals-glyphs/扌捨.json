@@ -1,0 +1,18 @@
+{
+  "_id": "raisserrn0g",
+  "desc": "variant of 手",
+  "name": "扌捨",
+  "order": "3.4.9.1.7",
+  "params": {
+    "_g": "捨",
+    "_r": "m扌"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "扌"
+  }
+}

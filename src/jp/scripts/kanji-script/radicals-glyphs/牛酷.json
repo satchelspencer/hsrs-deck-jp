@@ -1,0 +1,17 @@
+{
+  "_id": "wlhaguwk6hx",
+  "name": "牛酷",
+  "order": "3.3.6.6.8",
+  "params": {
+    "_g": "酷",
+    "_r": "m牛"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "4",
+    "jp": "牛"
+  }
+}

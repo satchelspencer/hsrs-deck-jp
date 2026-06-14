@@ -5,7 +5,9 @@
   "order": "1",
   "parents": [
     "people-no",
-    "choosables"
+    "choosables",
+    "u名",
+    "u前"
   ],
   "props": {
     "en": "name",

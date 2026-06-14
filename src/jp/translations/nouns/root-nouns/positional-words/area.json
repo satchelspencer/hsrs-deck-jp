@@ -4,7 +4,8 @@
   "name": "area",
   "order": "3",
   "parents": [
-    "positional-words"
+    "positional-words",
+    "u辺"
   ],
   "props": {
     "en": "area",

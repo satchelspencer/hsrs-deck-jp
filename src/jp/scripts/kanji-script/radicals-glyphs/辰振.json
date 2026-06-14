@@ -1,0 +1,18 @@
+{
+  "_id": "hlzz0ozhwty",
+  "name": "辰振",
+  "order": "4.3.7.6.0",
+  "params": {
+    "_1": "厂振",
+    "_g": "振",
+    "_r": "m辰"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "7",
+    "jp": "辰"
+  }
+}

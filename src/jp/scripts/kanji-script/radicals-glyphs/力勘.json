@@ -1,0 +1,17 @@
+{
+  "_id": "pa7s36yds6q",
+  "name": "力勘",
+  "order": "4.9.6.1.4",
+  "params": {
+    "_g": "勘",
+    "_r": "m力"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "10",
+    "_sl": "2",
+    "jp": "力"
+  }
+}

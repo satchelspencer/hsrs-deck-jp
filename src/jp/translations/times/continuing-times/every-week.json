@@ -3,7 +3,9 @@
   "name": "every-week",
   "order": "2",
   "parents": [
-    "continuing-times"
+    "continuing-times",
+    "u毎",
+    "u週"
   ],
   "props": {
     "en": "every week",

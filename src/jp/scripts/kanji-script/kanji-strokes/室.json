@@ -1,0 +1,15 @@
+{
+  "_id": "ert214pbb37",
+  "name": "室",
+  "order": "2.9.4.0.4",
+  "params": {
+    "_wd": "u室"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "室",
+    "_st": "CQNNNAljAQECAwIFYwAEAAcACgJNFBljAASDEIQTA00WG0MoGkoXWBdjCwAFBQAJBE0hJ2MBAAMBBQBDLyc8JkQlYwIABAAFAAVNMiljAAEAA4EEY4IEhQeKDGODA4IEAQNjB4EVhSCHAk1CL2MEAgoIDAwETR9OYwIABAAGAGMKgRiDIINjAwAFAAYAA000P2MBAQIDAgVjAAkAGQAaBE0UYWMCAQUBBwFjFIIpgzmDYwMABQAHAA"
+  }
+}

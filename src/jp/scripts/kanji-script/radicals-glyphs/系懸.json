@@ -1,0 +1,19 @@
+{
+  "_id": "0jerxcpwtfo",
+  "name": "系懸",
+  "order": "3.9.4.2.6",
+  "params": {
+    "_1": "丿懸",
+    "_2": "糸懸",
+    "_g": "懸",
+    "_r": "m系"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "10",
+    "_sl": "7",
+    "jp": "系"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "ykyafhavsiy",
+  "name": "子厚",
+  "order": "3.3.6.3.8",
+  "params": {
+    "_g": "厚",
+    "_r": "m子"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "3",
+    "jp": "子"
+  }
+}

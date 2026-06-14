@@ -5,7 +5,8 @@
   "order": "2",
   "parents": [
     "na-informations",
-    "na-preferables"
+    "na-preferables",
+    "u嫌"
   ],
   "props": {
     "en": "unpleasant",

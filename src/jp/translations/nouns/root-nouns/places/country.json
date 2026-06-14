@@ -6,7 +6,8 @@
   "parents": [
     "places",
     "kakoku-countable",
-    "categories"
+    "categories",
+    "u国"
   ],
   "props": {
     "_pl": "countries",

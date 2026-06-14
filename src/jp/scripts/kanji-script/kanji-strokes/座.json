@@ -1,0 +1,15 @@
+{
+  "_id": "j81o5qjdnzx",
+  "name": "座",
+  "order": "1.4.3.9.1",
+  "params": {
+    "_wd": "u座"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "座",
+    "_st": "CgNNNg5jAQECAwIEYwABAAUACARNFR1jAwEHAAoAYxCBIYIxg2MDAAYACQADTRgeYwEBAQIBA2OBFoIpjzwDTSspYwABAAKBA0MpMiQ4HT8CTSszYwMCBwYJCwNNTydjAAEAAgADY4IFhgyMEQJNTzJjBAMHBgkLA006I2MBAQECAQRjAAoAJwA1BE0lS2MCAAQBBgBjCYEUgh6DYwIABQAHAARNGl1jAwEHAQoAYw6BI4IwgmMDAAYACQE"
+  }
+}

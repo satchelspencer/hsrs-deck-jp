@@ -1,0 +1,17 @@
+{
+  "_id": "lpe8idmp3xr",
+  "name": "十璧",
+  "order": "4.9.1.8.5",
+  "params": {
+    "_g": "璧",
+    "_r": "m十"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "12",
+    "_sl": "2",
+    "jp": "十"
+  }
+}

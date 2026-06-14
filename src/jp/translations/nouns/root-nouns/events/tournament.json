@@ -5,7 +5,9 @@
   "order": "3",
   "parents": [
     "events",
-    "activities"
+    "activities",
+    "u大",
+    "u会"
   ],
   "props": {
     "en": "tournament",

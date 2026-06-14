@@ -1,0 +1,17 @@
+{
+  "_id": "ik10tptj9ng",
+  "name": "尺沢",
+  "order": "1.4.8.0.9",
+  "params": {
+    "_g": "沢",
+    "_r": "m尺"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "4",
+    "jp": "尺"
+  }
+}

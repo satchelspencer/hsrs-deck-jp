@@ -3,7 +3,8 @@
   "name": "sharpened",
   "order": "4",
   "parents": [
-    "i-attributive-standard"
+    "i-attributive-standard",
+    "u鋭"
   ],
   "props": {
     "en": "sharpened",

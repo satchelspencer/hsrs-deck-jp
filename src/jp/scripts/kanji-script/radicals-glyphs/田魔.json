@@ -1,0 +1,17 @@
+{
+  "_id": "fp6y1eff6og",
+  "name": "田魔",
+  "order": "4.2.7.8.0",
+  "params": {
+    "_g": "魔",
+    "_r": "m田"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "13",
+    "_sl": "5",
+    "jp": "田"
+  }
+}

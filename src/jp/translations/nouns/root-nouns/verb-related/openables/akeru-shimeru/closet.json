@@ -5,7 +5,9 @@
   "parents": [
     "akeru-shimeru",
     "containers",
-    "rooms"
+    "rooms",
+    "u押",
+    "u入"
   ],
   "props": {
     "en": "closet",

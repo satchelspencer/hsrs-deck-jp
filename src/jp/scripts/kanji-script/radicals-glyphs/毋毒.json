@@ -1,0 +1,18 @@
+{
+  "_id": "rsl7yaln4sc",
+  "desc": "variant of 母",
+  "name": "毋毒",
+  "order": "4.9.6.8.4",
+  "params": {
+    "_g": "毒",
+    "_r": "m毋"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "4",
+    "jp": "毋"
+  }
+}

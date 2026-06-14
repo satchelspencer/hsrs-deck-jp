@@ -1,0 +1,15 @@
+{
+  "_id": "f0de9dgsdm1",
+  "name": "昭",
+  "order": "3.9.6.0.0",
+  "params": {
+    "_wd": "u昭"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "昭",
+    "_st": "CQRNERpjAQEBAgEDcwAqACtjAAEAAgAEBU0TG0MWGyMYJRhjAQADAQMDYwACABoAK2MAAgADAAQCTRMyQxgxIjAmLwJNE0ljCIEMghODBk0xFmMCAQQBBgBjCoEYhB-FYwSBBQEFBGMAB4IThhpjgwaGBIgAA01CGWMBAQACAANjgwuJF5MhBE0zQmMBAQECAQNjAQUCDgMVYwABAAIAAwRNNUNjCoIahCGFYwMABQMEBWOBBIMMhRIDTTlZYwWBEoEcgmMBAAIABAA"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "_id": "0ar10mr43i0",
+  "name": "主",
+  "order": "2.9.6.3.7",
+  "params": {
+    "_wd": "u主"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "主",
+    "_st": "BQJNKw5jBQIMBw0KBE0ZJ2MDAQYBCQBjDYIahCiFYwMABQAIAANNNShjAQECAwIEYwAGACYALQRNHEFjAgAFAAcAYwuBGYMlhGMDAAYACAAETRBdYwMBBgEIAWMRgiqFPYVjAwAHAAgB"
+  }
+}

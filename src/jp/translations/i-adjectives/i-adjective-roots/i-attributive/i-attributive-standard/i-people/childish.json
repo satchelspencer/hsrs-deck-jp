@@ -4,7 +4,8 @@
   "name": "childish",
   "order": "4",
   "parents": [
-    "i-people"
+    "i-people",
+    "u幼"
   ],
   "props": {
     "en": "childish",

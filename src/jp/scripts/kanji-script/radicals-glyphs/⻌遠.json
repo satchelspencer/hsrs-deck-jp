@@ -1,0 +1,18 @@
+{
+  "_id": "zggygn4r854",
+  "desc": "variant of 辶",
+  "name": "⻌遠",
+  "order": "3.3.2.9.2",
+  "params": {
+    "_g": "遠",
+    "_r": "m⻌"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "11",
+    "_sl": "3",
+    "jp": "⻌"
+  }
+}

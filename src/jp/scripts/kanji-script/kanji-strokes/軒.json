@@ -1,0 +1,15 @@
+{
+  "_id": "0f0miuh15bs",
+  "name": "軒",
+  "order": "2.9.5.5.3",
+  "params": {
+    "_wd": "u軒"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "軒",
+    "_st": "CgRNERpjAgAEAQYAYwiBDoIWg2MCAAMABQAETRAnYwEAAQEBAmMBBAILAhJjAAIABAEFBU0SKGMJghOEG4VjBIEGAAUEYwAEgQmCD2MAAQADAAQCTRQyYwuCE4QdhQJNFT5jCIIQgxqEBE0MS2MCAQQABwBjCoEVgx2EYwIABAAGAARNIQtjAQEBAgEEYwABAD0ASWMABAAHAAgETTsYYwIABAAGAGMGgQ6CFIJjAgAEAAYABE05NGMCAQUABwBjCIEUgxyDYwIABAAGAARNShljAQECAgIEYwALACoAPWMABAAHAAk"
+  }
+}

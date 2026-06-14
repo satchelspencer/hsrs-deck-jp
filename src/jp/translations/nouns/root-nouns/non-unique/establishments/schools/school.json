@@ -3,7 +3,9 @@
   "name": "school",
   "order": "1",
   "parents": [
-    "schools"
+    "schools",
+    "u学",
+    "u校"
   ],
   "props": {
     "en": "school",

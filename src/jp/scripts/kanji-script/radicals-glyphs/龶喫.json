@@ -1,0 +1,17 @@
+{
+  "_id": "g5ca8sp2c1y",
+  "name": "龶喫",
+  "order": "2.9.7.6.0",
+  "params": {
+    "_g": "喫",
+    "_r": "m龶"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "4",
+    "jp": "龶"
+  }
+}

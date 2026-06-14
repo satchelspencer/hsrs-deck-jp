@@ -1,0 +1,18 @@
+{
+  "_id": "x9x0prxcx5r",
+  "name": "酉酔",
+  "order": "4.5.5.2.7",
+  "params": {
+    "_1": "一酔",
+    "_g": "酔",
+    "_r": "m酉"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "7",
+    "jp": "酉"
+  }
+}

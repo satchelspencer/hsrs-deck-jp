@@ -1,0 +1,18 @@
+{
+  "_id": "j3soies5s8c",
+  "desc": "variant of 水",
+  "name": "氵決",
+  "order": "3.2.3.0.4",
+  "params": {
+    "_g": "決",
+    "_r": "m氵"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "氵"
+  }
+}

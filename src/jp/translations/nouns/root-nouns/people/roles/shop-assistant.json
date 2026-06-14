@@ -4,7 +4,9 @@
   "name": "shop-assistant",
   "order": "3",
   "parents": [
-    "roles"
+    "roles",
+    "u店",
+    "u員"
   ],
   "props": {
     "en": "shop assistant",

@@ -1,0 +1,17 @@
+{
+  "_id": "p2w2cfj66rz",
+  "name": "r吸",
+  "order": "2.6.6.3.5.1",
+  "params": {
+    "_g": "吸",
+    "_r": "m吸"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "吸"
+  }
+}

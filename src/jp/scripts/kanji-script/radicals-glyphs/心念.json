@@ -1,0 +1,17 @@
+{
+  "_id": "jixz2ltpmfo",
+  "name": "心念",
+  "order": "2.9.1.7.4",
+  "params": {
+    "_g": "念",
+    "_r": "m心"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "4",
+    "jp": "心"
+  }
+}

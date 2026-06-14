@@ -1,0 +1,18 @@
+{
+  "_id": "grvw4chth5r",
+  "name": "r捲",
+  "order": "4.9.6.3.2.1",
+  "params": {
+    "_1": "扌捲",
+    "_g": "捲",
+    "_r": "m捲"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "11",
+    "jp": "捲"
+  }
+}

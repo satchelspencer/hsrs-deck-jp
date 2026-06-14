@@ -4,7 +4,9 @@
   "name": "finances",
   "order": "3",
   "parents": [
-    "people-no"
+    "people-no",
+    "u経",
+    "u済"
   ],
   "props": {
     "en": "finances",

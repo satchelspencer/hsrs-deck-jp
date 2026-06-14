@@ -1,0 +1,18 @@
+{
+  "_id": "rfikhtzyacz",
+  "name": "共供",
+  "order": "2.4.9.3.1",
+  "params": {
+    "_1": "八供",
+    "_g": "供",
+    "_r": "m共"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "3",
+    "_sl": "6",
+    "jp": "共"
+  }
+}

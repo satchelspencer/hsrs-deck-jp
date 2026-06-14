@@ -4,7 +4,8 @@
   "order": "3",
   "parents": [
     "noun-no-relative-time-exprs",
-    "teiru-relative-time-exprs"
+    "teiru-relative-time-exprs",
+    "u間"
   ],
   "props": {
     "en": "during",

@@ -3,7 +3,10 @@
   "name": "art-museum",
   "order": "3",
   "parents": [
-    "establishments"
+    "establishments",
+    "u美",
+    "u術",
+    "u館"
   ],
   "props": {
     "en": "art museum",

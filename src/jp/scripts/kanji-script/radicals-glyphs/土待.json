@@ -1,0 +1,17 @@
+{
+  "_id": "abjhsgn0wkh",
+  "name": "土待",
+  "order": "1.2.2.2.9",
+  "params": {
+    "_g": "待",
+    "_r": "m土"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "3",
+    "jp": "土"
+  }
+}

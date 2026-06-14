@@ -6,7 +6,9 @@
   "parents": [
     "toys",
     "ko-countable",
-    "wago-countable"
+    "wago-countable",
+    "u人",
+    "u形"
   ],
   "props": {
     "en": "doll",

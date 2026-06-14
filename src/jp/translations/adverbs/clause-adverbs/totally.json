@@ -5,7 +5,9 @@
   "name": "totally",
   "order": "2",
   "parents": [
-    "clause-adverbs"
+    "clause-adverbs",
+    "u全",
+    "u然"
   ],
   "props": {
     "en": "totally",

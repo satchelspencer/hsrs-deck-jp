@@ -1,0 +1,15 @@
+{
+  "_id": "el4tfzkdzww",
+  "name": "答",
+  "order": "3.5.1.2.3",
+  "params": {
+    "_wd": "u答"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "答",
+    "_st": "DANNHQxjAAEAAgADY4EFhg2MEgNNHRdjAwAKgg-CYwIAAwAEAAJNIBpjAgIGBwcKA01CC2MAAQACgQNjggSFCIkMA01AFmMEAA-CFoJjAgADAAQAA01LGGMAAQACAAJjgQKDBoYIA00zIGMAAQADgQRjhQqOFaEiA001ImMFBBURIhpjAwIGBAkEBE0nPWMBAAMBBQBDNTw7O0E7YwEAAwAEAARNI0tjAQEBAgEDYwIIAg0DE2MAAQACAAMETSVMYwuCG4MihGMDAAUCBARjgQeCCYUQA00oYGMIABKBHYJjAQADAAQA"
+  }
+}

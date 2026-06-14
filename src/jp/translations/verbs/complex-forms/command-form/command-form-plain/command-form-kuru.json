@@ -5,7 +5,8 @@
     "verb": "come"
   },
   "parents": [
-    "command-form-plain"
+    "command-form-plain",
+    "u来"
   ],
   "props": {
     "jp": "verb.jp|r('来る', '来い')|r('くる', 'こい')",

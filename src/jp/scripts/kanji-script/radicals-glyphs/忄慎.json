@@ -1,0 +1,18 @@
+{
+  "_id": "zgbllh1rq04",
+  "desc": "variant of 心",
+  "name": "忄慎",
+  "order": "4.2.0.4.0",
+  "params": {
+    "_g": "慎",
+    "_r": "m忄"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "忄"
+  }
+}

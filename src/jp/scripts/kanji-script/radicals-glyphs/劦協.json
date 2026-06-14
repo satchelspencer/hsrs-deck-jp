@@ -1,0 +1,17 @@
+{
+  "_id": "mmpxcs01juy",
+  "name": "劦協",
+  "order": "4.1.2.8.6",
+  "params": {
+    "_g": "協",
+    "_r": "m劦"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "3",
+    "_sl": "6",
+    "jp": "劦"
+  }
+}

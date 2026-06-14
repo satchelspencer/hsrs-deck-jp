@@ -1,0 +1,19 @@
+{
+  "_id": "9bwghaacwjx",
+  "name": "真慎",
+  "order": "4.2.0.4.0",
+  "params": {
+    "_1": "十慎",
+    "_2": "具慎",
+    "_g": "慎",
+    "_r": "m真"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "10",
+    "jp": "真"
+  }
+}

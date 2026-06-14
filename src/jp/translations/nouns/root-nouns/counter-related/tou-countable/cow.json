@@ -4,7 +4,8 @@
   "order": "2",
   "parents": [
     "tou-countable",
-    "animals"
+    "animals",
+    "u牛"
   ],
   "props": {
     "en": "cow",

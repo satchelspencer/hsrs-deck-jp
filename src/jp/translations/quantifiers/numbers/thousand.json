@@ -3,7 +3,8 @@
   "name": "thousand",
   "order": "2",
   "parents": [
-    "numbers"
+    "numbers",
+    "u千"
   ],
   "props": {
     "_fw": "１０００",

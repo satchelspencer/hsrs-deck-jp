@@ -1,0 +1,17 @@
+{
+  "_id": "hmc0r4n5fm8",
+  "name": "一論",
+  "order": "4.4.2.9.4",
+  "params": {
+    "_g": "論",
+    "_r": "m一"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "10",
+    "_sl": "1",
+    "jp": "一"
+  }
+}

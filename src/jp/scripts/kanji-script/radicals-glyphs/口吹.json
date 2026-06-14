@@ -1,0 +1,17 @@
+{
+  "_id": "wmnxmesoy3f",
+  "name": "口吹",
+  "order": "3.6.1.1.0",
+  "params": {
+    "_g": "吹",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "_id": "2vgr9ac5cea",
+  "name": "案",
+  "order": "3.4.3.3.1",
+  "params": {
+    "_wd": "u案"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "案",
+    "_st": "CgNNNwpjAQECAgIDYwACAAQABgJNGRZjAAOCDIMOA00aGGMOgjKFOYVjCgADBYIHBk0yHGMAAQACAANjggSFCowQY4EBgQIAAmMIgRUCHwVjBAIIAwsFA01EIGMAAQACAANjhAiNFqcbBE0NKmMDAAcACgBjEIIthD6FYwMABgAJAQRNGEdjAwEGAAoAYwmBHYMsg2MDAAcACgAETTU9YwEBAQIBBGMAAgATABxjAAIABAAGA000RmMAAQACgQNjhwqUFKIYA003R2MEAxUOHhNjAwIFAwkE"
+  }
+}

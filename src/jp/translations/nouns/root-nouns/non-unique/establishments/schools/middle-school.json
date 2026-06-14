@@ -4,7 +4,10 @@
   "name": "middle-school",
   "order": "2",
   "parents": [
-    "schools"
+    "schools",
+    "u中",
+    "u学",
+    "u校"
   ],
   "props": {
     "en": "middle school",

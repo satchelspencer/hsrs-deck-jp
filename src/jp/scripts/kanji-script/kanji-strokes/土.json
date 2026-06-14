@@ -1,0 +1,15 @@
+{
+  "_id": "mh207h77lcl",
+  "name": "土",
+  "order": "1.9.6.0.1",
+  "params": {
+    "_wd": "u土"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "土",
+    "_st": "AwRNGzNjAgAFAQYAQywyPjBML2MDAAQABgADTTQRYwEBAgMCBWMACgA9AD8ETQ9YYwIBBgEIAUMuVkVVWlRjBAAGAAcB"
+  }
+}

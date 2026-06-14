@@ -4,7 +4,9 @@
   "name": "comrade",
   "order": "4",
   "parents": [
-    "roles"
+    "roles",
+    "u仲",
+    "u間"
   ],
   "props": {
     "en": "comrade",

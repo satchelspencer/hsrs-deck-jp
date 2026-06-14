@@ -1,0 +1,18 @@
+{
+  "_id": "bhrqfohznr6",
+  "name": "r骨",
+  "order": "3.9.3.0.3.1",
+  "params": {
+    "_1": "月骨",
+    "_g": "骨",
+    "_r": "m骨"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "10",
+    "jp": "骨"
+  }
+}

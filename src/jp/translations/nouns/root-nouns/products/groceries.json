@@ -3,7 +3,10 @@
   "name": "groceries",
   "order": "3",
   "parents": [
-    "products"
+    "products",
+    "u食",
+    "u料",
+    "u品"
   ],
   "props": {
     "en": "groceries",

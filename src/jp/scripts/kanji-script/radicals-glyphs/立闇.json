@@ -1,0 +1,17 @@
+{
+  "_id": "2as8mz5szfe",
+  "name": "立闇",
+  "order": "4.1.9.3.2",
+  "params": {
+    "_g": "闇",
+    "_r": "m立"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "9",
+    "_sl": "5",
+    "jp": "立"
+  }
+}

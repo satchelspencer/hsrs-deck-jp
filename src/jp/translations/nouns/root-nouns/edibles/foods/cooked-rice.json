@@ -5,7 +5,8 @@
   "order": "1",
   "parents": [
     "foods",
-    "heated-edibles"
+    "heated-edibles",
+    "u飯"
   ],
   "props": {
     "en": "cooked rice",

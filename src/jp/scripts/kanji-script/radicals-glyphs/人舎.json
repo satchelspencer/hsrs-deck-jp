@@ -1,0 +1,17 @@
+{
+  "_id": "3pw28po271l",
+  "name": "人舎",
+  "order": "3.4.9.1.7",
+  "params": {
+    "_g": "舎",
+    "_r": "m人"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "2",
+    "jp": "人"
+  }
+}

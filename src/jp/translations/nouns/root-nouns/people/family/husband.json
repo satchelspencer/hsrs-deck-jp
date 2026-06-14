@@ -4,7 +4,9 @@
   "name": "husband",
   "order": "2",
   "parents": [
-    "family"
+    "family",
+    "u主",
+    "u人"
   ],
   "props": {
     "en": "husband",

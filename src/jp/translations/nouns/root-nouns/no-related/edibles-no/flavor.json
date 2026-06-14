@@ -3,7 +3,8 @@
   "name": "flavor",
   "order": "3",
   "parents": [
-    "edibles-no"
+    "edibles-no",
+    "u味"
   ],
   "props": {
     "en": "flavor",

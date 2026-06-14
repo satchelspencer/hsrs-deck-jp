@@ -1,0 +1,18 @@
+{
+  "_id": "g5oyc9q8m4j",
+  "desc": "variant of 艸",
+  "name": "艹警",
+  "order": "2.4.6.1.0",
+  "params": {
+    "_g": "警",
+    "_r": "m艹"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "艹"
+  }
+}

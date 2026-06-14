@@ -3,7 +3,8 @@
   "name": "island",
   "order": "3",
   "parents": [
-    "places"
+    "places",
+    "u島"
   ],
   "props": {
     "en": "island",

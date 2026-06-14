@@ -1,0 +1,10 @@
+{
+  "_id": "qbp0ksq6rsk",
+  "name": "kanji-uses",
+  "parents": [
+    "relationships"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

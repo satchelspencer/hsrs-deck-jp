@@ -1,0 +1,17 @@
+{
+  "_id": "7ozibt26z2n",
+  "name": "目頬",
+  "order": "4.3.6.1.5",
+  "params": {
+    "_g": "頬",
+    "_r": "m目"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "9",
+    "_sl": "5",
+    "jp": "目"
+  }
+}

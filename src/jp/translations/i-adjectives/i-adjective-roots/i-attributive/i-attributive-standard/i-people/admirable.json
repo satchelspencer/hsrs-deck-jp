@@ -4,7 +4,8 @@
   "name": "admirable",
   "order": "4",
   "parents": [
-    "i-people"
+    "i-people",
+    "u偉"
   ],
   "props": {
     "_ad": "admirably",

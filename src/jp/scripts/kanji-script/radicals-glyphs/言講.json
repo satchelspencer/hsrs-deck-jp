@@ -1,0 +1,18 @@
+{
+  "_id": "epwn6zd77bd",
+  "name": "言講",
+  "order": "3.9.2.1.1",
+  "params": {
+    "_1": "口講",
+    "_g": "講",
+    "_r": "m言"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "7",
+    "jp": "言"
+  }
+}

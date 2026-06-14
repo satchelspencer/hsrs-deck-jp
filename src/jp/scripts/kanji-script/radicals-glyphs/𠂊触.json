@@ -1,0 +1,18 @@
+{
+  "_id": "c9a74hwq0gx",
+  "desc": "variant of 勹",
+  "name": "𠂊触",
+  "order": "3.3.3.9.6",
+  "params": {
+    "_g": "触",
+    "_r": "m𠂊"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "2",
+    "jp": "𠂊"
+  }
+}

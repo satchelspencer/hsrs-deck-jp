@@ -1,0 +1,14 @@
+{
+  "_id": "6s916hu44tx",
+  "name": "ド",
+  "params": {
+    "_kn": "katakana-do"
+  },
+  "parents": [
+    "katakana-glyphs"
+  ],
+  "props": {
+    "_st": "BARNLBBjAQECAwIGYwAaADYAOmMABAALAA0CTTErYwwEEgsZEwJNQxtjAwIGBQgJAk1JFmMDAgcFCQg",
+    "jp": "ド"
+  }
+}

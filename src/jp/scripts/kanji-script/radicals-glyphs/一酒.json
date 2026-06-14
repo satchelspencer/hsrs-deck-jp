@@ -1,0 +1,17 @@
+{
+  "_id": "pykgo3tv2qg",
+  "name": "一酒",
+  "order": "2.6.4.1.1",
+  "params": {
+    "_g": "酒",
+    "_r": "m一"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "9",
+    "_sl": "1",
+    "jp": "一"
+  }
+}

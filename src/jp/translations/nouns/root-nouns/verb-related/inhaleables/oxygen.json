@@ -3,7 +3,9 @@
   "name": "oxygen",
   "order": "4",
   "parents": [
-    "inhaleables"
+    "inhaleables",
+    "u酸",
+    "u素"
   ],
   "props": {
     "en": "oxygen",

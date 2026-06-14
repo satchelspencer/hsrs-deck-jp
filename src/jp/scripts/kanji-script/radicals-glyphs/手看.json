@@ -1,0 +1,17 @@
+{
+  "_id": "y9jbi2o64nq",
+  "name": "手看",
+  "order": "3.9.1.6.6",
+  "params": {
+    "_g": "看",
+    "_r": "m手"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "手"
+  }
+}

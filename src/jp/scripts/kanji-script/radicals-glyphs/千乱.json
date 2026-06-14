@@ -1,0 +1,17 @@
+{
+  "_id": "c5ja1g9w2kh",
+  "name": "千乱",
+  "order": "4.9.1.6.0",
+  "params": {
+    "_g": "乱",
+    "_r": "m千"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "千"
+  }
+}

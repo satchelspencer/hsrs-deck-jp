@@ -4,7 +4,9 @@
   "name": "counter-root-weeks",
   "order": "3",
   "parents": [
-    "counter-roots-kango-full-s"
+    "counter-roots-kango-full-s",
+    "u週",
+    "u間"
   ],
   "props": {
     "_ec": "weeks",

@@ -1,0 +1,17 @@
+{
+  "_id": "pokgr5cdp2d",
+  "name": "口諦",
+  "order": "4.4.3.4.7",
+  "params": {
+    "_g": "諦",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

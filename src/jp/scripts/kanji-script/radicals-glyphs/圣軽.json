@@ -1,0 +1,17 @@
+{
+  "_id": "xod1y8ta0tz",
+  "name": "圣軽",
+  "order": "2.2.9.1.5",
+  "params": {
+    "_g": "軽",
+    "_r": "m圣"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "5",
+    "jp": "圣"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "c2kcisujrd4",
+  "name": "疒痛",
+  "order": "2.4.0.6.0",
+  "params": {
+    "_g": "痛",
+    "_r": "m疒"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "疒"
+  }
+}

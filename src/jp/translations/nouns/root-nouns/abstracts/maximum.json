@@ -4,7 +4,9 @@
   "name": "maximum",
   "order": "4",
   "parents": [
-    "abstracts"
+    "abstracts",
+    "u最",
+    "u大"
   ],
   "props": {
     "en": "maximum",

@@ -5,7 +5,9 @@
     "root": "day-of-the-month"
   },
   "parents": [
-    "counter-questions"
+    "counter-questions",
+    "u何",
+    "u日"
   ],
   "props": {
     "en": "how many days",

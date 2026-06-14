@@ -1,0 +1,18 @@
+{
+  "_id": "i5f7pgugryz",
+  "desc": "variant of 艸",
+  "name": "艹葉",
+  "order": "2.9.4.3.3",
+  "params": {
+    "_g": "葉",
+    "_r": "m艹"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "艹"
+  }
+}

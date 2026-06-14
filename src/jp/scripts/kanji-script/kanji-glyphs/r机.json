@@ -1,0 +1,17 @@
+{
+  "_id": "iafnghe4sof",
+  "name": "r机",
+  "order": "2.6.9.1.1.1",
+  "params": {
+    "_g": "机",
+    "_r": "m机"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "机"
+  }
+}

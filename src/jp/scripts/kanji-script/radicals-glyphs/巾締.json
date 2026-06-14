@@ -1,0 +1,17 @@
+{
+  "_id": "w7qknf8wog0",
+  "name": "巾締",
+  "order": "3.6.4.9.5",
+  "params": {
+    "_g": "締",
+    "_r": "m巾"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "13",
+    "_sl": "3",
+    "jp": "巾"
+  }
+}

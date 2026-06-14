@@ -1,0 +1,18 @@
+{
+  "_id": "xar62dejnd4",
+  "desc": "variant of 曰",
+  "name": "日提",
+  "order": "3.4.3.3.1",
+  "params": {
+    "_g": "提",
+    "_r": "m日"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "4",
+    "jp": "日"
+  }
+}

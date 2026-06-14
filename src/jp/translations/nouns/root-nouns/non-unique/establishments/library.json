@@ -4,7 +4,10 @@
   "order": "2",
   "parents": [
     "establishments",
-    "ken-buildings-countable"
+    "ken-buildings-countable",
+    "u図",
+    "u書",
+    "u館"
   ],
   "props": {
     "en": "library",

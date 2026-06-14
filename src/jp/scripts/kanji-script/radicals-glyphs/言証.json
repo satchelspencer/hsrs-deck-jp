@@ -1,0 +1,18 @@
+{
+  "_id": "bx9d0fsbksa",
+  "name": "言証",
+  "order": "4.2.6.6.1",
+  "params": {
+    "_1": "口証",
+    "_g": "証",
+    "_r": "m言"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "7",
+    "jp": "言"
+  }
+}

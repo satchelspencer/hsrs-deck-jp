@@ -1,0 +1,18 @@
+{
+  "_id": "x3akznlxw31",
+  "desc": "variant of 玉",
+  "name": "王理",
+  "order": "2.2.4.5.6",
+  "params": {
+    "_g": "理",
+    "_r": "m王"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "王"
+  }
+}

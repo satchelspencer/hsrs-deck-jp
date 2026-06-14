@@ -3,7 +3,9 @@
   "name": "strongest",
   "order": "4",
   "parents": [
-    "no-attr-nouns"
+    "no-attr-nouns",
+    "u最",
+    "u強"
   ],
   "props": {
     "en": "strongest",

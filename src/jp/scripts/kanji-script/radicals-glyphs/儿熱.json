@@ -1,0 +1,18 @@
+{
+  "_id": "jt9czpvg4h2",
+  "desc": "variant of 八",
+  "name": "儿熱",
+  "order": "2.3.5.6.8",
+  "params": {
+    "_g": "熱",
+    "_r": "m儿"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "2",
+    "jp": "儿"
+  }
+}

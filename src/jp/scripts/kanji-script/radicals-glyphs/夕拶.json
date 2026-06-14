@@ -1,0 +1,17 @@
+{
+  "_id": "t6l79631eft",
+  "name": "夕拶",
+  "order": "3.9.6.6.5",
+  "params": {
+    "_g": "拶",
+    "_r": "m夕"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "3",
+    "jp": "夕"
+  }
+}

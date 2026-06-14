@@ -5,7 +5,8 @@
   "order": "4",
   "parents": [
     "godan-u",
-    "te-iru-verbs-state"
+    "te-iru-verbs-state",
+    "u合"
   ],
   "props": {
     "_st": "matched",

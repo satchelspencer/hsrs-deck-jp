@@ -1,0 +1,17 @@
+{
+  "_id": "2zj0dvsirtd",
+  "name": "文済",
+  "order": "3.4.5.9.1",
+  "params": {
+    "_g": "済",
+    "_r": "m文"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "4",
+    "jp": "文"
+  }
+}

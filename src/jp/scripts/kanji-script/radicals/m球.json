@@ -1,0 +1,10 @@
+{
+  "_id": "400bzfv1d6b",
+  "name": "m球",
+  "parents": [
+    "radicals"
+  ],
+  "props": {
+    "_m": "ball, sphere"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "_id": "rep535z24bl",
+  "desc": "variant of 吅",
+  "name": "⺍単",
+  "order": "2.1.1.3.4",
+  "params": {
+    "_g": "単",
+    "_r": "m⺍"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "⺍"
+  }
+}

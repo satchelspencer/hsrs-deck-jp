@@ -4,7 +4,9 @@
   "name": "actual",
   "order": "3",
   "parents": [
-    "no-attr-nouns"
+    "no-attr-nouns",
+    "u実",
+    "u際"
   ],
   "props": {
     "en": "actual",

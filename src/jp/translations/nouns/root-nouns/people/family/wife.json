@@ -3,7 +3,8 @@
   "name": "wife",
   "order": "2",
   "parents": [
-    "family"
+    "family",
+    "u奥"
   ],
   "props": {
     "en": "wife",

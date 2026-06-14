@@ -1,0 +1,17 @@
+{
+  "_id": "so10vge0tab",
+  "name": "禾種",
+  "order": "3.3.0.3.8",
+  "params": {
+    "_g": "種",
+    "_r": "m禾"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "禾"
+  }
+}

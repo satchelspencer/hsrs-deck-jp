@@ -1,0 +1,17 @@
+{
+  "_id": "t75lk4bap4u",
+  "name": "r丈",
+  "order": "1.2.7.0.0.1",
+  "params": {
+    "_g": "丈",
+    "_r": "m丈"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "丈"
+  }
+}

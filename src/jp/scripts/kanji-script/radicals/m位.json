@@ -1,0 +1,10 @@
+{
+  "_id": "o2rxll5o12j",
+  "name": "m位",
+  "parents": [
+    "radicals"
+  ],
+  "props": {
+    "_m": "rank, grade, throne, crown"
+  }
+}

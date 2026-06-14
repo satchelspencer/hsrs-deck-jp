@@ -3,7 +3,9 @@
   "name": "infant",
   "order": "4",
   "parents": [
-    "people"
+    "people",
+    "u赤",
+    "u坊"
   ],
   "props": {
     "en": "infant",

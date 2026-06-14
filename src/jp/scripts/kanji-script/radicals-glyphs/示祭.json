@@ -1,0 +1,17 @@
+{
+  "_id": "rvvpzmgbwl9",
+  "name": "示祭",
+  "order": "2.4.6.1.0",
+  "params": {
+    "_g": "祭",
+    "_r": "m示"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "5",
+    "jp": "示"
+  }
+}

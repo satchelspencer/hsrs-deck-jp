@@ -1,0 +1,17 @@
+{
+  "_id": "pjibicz69wd",
+  "name": "比階",
+  "order": "1.9.6.6.8",
+  "params": {
+    "_g": "階",
+    "_r": "m比"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "4",
+    "jp": "比"
+  }
+}

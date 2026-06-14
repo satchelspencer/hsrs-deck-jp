@@ -1,0 +1,18 @@
+{
+  "_id": "g63hlnp3z25",
+  "desc": "variant of 邑",
+  "name": "⻏郵",
+  "order": "2.9.4.4.6",
+  "params": {
+    "_g": "郵",
+    "_r": "m⻏"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "9",
+    "_sl": "3",
+    "jp": "⻏"
+  }
+}

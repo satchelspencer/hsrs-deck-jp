@@ -1,0 +1,15 @@
+{
+  "_id": "kuytagktzfk",
+  "name": "楽",
+  "order": "1.1.3.6.4",
+  "params": {
+    "_wd": "u楽"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "楽",
+    "_st": "DQNNNQtjAAEAAgADY4EChAaHCARNKBdjAQECAgIDYwAEAQ8BFWMAAgADAAQFTSoYYwAAE4IVgmMCAAMBAwJjAAGBD4EXYwACAAIABAJNKyRjAwARghWCAk0sMmMEAA2BE4ECTRQUYwQCCgcLCgNNETZjAQEDAAQAYwGBB4gLjANNVxFjAAEAAoEDY4IDhgeKCQJNTSljBQIMBw8MBE0RRGMBAAUBCQFjD4EmhDiEYwQABwAJAQRNNDdjAQECAwIEYwAFABkAI2MAAgAEAAUDTTFDYwABgQOCBEMpTx1ZEl4DTTlDQz5IUlZZWmMCAQMCBQI"
+  }
+}

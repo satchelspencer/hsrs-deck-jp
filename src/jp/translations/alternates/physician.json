@@ -6,7 +6,9 @@
   "parents": [
     "alternates",
     "people",
-    "roles"
+    "roles",
+    "u医",
+    "u師"
   ],
   "props": {
     "en": "doctor",

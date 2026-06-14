@@ -1,0 +1,17 @@
+{
+  "_id": "5o3et3tzsy9",
+  "name": "朮術",
+  "order": "3.6.1.0.6",
+  "params": {
+    "_g": "術",
+    "_r": "m朮"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "5",
+    "jp": "朮"
+  }
+}

@@ -4,7 +4,9 @@
   "name": "truth",
   "order": "4",
   "parents": [
-    "informations"
+    "informations",
+    "u真",
+    "u実"
   ],
   "props": {
     "en": "truth",

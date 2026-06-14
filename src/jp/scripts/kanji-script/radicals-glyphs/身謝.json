@@ -1,0 +1,17 @@
+{
+  "_id": "onok4zadjy8",
+  "name": "身謝",
+  "order": "3.6.4.0.9",
+  "params": {
+    "_g": "謝",
+    "_r": "m身"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "7",
+    "jp": "身"
+  }
+}

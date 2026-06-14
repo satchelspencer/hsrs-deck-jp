@@ -1,0 +1,17 @@
+{
+  "_id": "wc7b0v0sg6n",
+  "name": "立章",
+  "order": "3.6.1.5.6",
+  "params": {
+    "_g": "章",
+    "_r": "m立"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "立"
+  }
+}

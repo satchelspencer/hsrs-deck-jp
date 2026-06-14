@@ -1,0 +1,17 @@
+{
+  "_id": "q4voa2ifbhk",
+  "name": "又賢",
+  "order": "4.3.1.8.2",
+  "params": {
+    "_g": "賢",
+    "_r": "m又"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "2",
+    "jp": "又"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "_id": "tk96tr4evtp",
+  "name": "早韓",
+  "order": "1.9.0.6.2",
+  "params": {
+    "_1": "日韓",
+    "_g": "韓",
+    "_r": "m早"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "3",
+    "_sl": "6",
+    "jp": "早"
+  }
+}

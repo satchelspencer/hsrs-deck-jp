@@ -1,0 +1,17 @@
+{
+  "_id": "bhscd24qnsy",
+  "name": "巾飾",
+  "order": "3.3.5.2.9",
+  "params": {
+    "_g": "飾",
+    "_r": "m巾"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "11",
+    "_sl": "3",
+    "jp": "巾"
+  }
+}

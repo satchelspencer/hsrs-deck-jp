@@ -4,7 +4,8 @@
   "order": "3",
   "parents": [
     "abstracts",
-    "relative-time-no"
+    "relative-time-no",
+    "u動"
   ],
   "props": {
     "en": "movement",

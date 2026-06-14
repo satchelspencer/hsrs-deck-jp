@@ -4,7 +4,9 @@
   "name": "alone",
   "order": "3",
   "parents": [
-    "verb-adverbs"
+    "verb-adverbs",
+    "u一",
+    "u人"
   ],
   "props": {
     "en": "alone",

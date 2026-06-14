@@ -5,7 +5,8 @@
   "parents": [
     "audibles",
     "raisables",
-    "thins"
+    "thins",
+    "u声"
   ],
   "props": {
     "en": "voice",

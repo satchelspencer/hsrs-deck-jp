@@ -1,0 +1,14 @@
+{
+  "_id": "3w3wkgb3opx",
+  "name": "ル",
+  "params": {
+    "_kn": "katakana-ru"
+  },
+  "parents": [
+    "katakana-glyphs"
+  ],
+  "props": {
+    "_st": "AgNNIiBjAQICAwIFY4EXiSmRMgVNORRjAgECAwIFYwACADAANGMACwEKCQNjCogRjxqa",
+    "jp": "ル"
+  }
+}

@@ -2,7 +2,9 @@
   "_id": "vop4zgen6i",
   "name": "sunday",
   "parents": [
-    "days-of-week"
+    "days-of-week",
+    "u日",
+    "u曜"
   ],
   "props": {
     "en": "sunday",

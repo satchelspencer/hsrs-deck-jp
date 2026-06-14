@@ -1,0 +1,17 @@
+{
+  "_id": "hm82l6aewbh",
+  "name": "雨雪",
+  "order": "2.9.6.3.9",
+  "params": {
+    "_g": "雪",
+    "_r": "m雨"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "8",
+    "jp": "雨"
+  }
+}

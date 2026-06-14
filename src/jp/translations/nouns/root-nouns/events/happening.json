@@ -4,7 +4,10 @@
   "name": "happening",
   "order": "4",
   "parents": [
-    "events"
+    "events",
+    "u出",
+    "u来",
+    "u事"
   ],
   "props": {
     "en": "happening",

@@ -3,7 +3,8 @@
   "name": "rumor",
   "order": "3",
   "parents": [
-    "informations"
+    "informations",
+    "u噂"
   ],
   "props": {
     "en": "rumor",

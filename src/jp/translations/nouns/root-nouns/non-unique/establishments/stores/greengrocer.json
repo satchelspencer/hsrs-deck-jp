@@ -4,7 +4,10 @@
   "name": "greengrocer",
   "order": "2",
   "parents": [
-    "stores"
+    "stores",
+    "u八",
+    "u百",
+    "u屋"
   ],
   "props": {
     "en": "greengrocer",

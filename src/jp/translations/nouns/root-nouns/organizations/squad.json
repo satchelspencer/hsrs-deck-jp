@@ -4,7 +4,8 @@
   "name": "squad",
   "order": "4",
   "parents": [
-    "organizations"
+    "organizations",
+    "u班"
   ],
   "props": {
     "en": "squad",

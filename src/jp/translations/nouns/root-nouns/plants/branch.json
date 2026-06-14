@@ -6,7 +6,8 @@
   "parents": [
     "plants",
     "objects",
-    "snappers"
+    "snappers",
+    "u枝"
   ],
   "props": {
     "en": "branch",

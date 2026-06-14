@@ -1,0 +1,18 @@
+{
+  "_id": "bxoa7a58yu4",
+  "desc": "variant of 人",
+  "name": "亻僕",
+  "order": "2.6.1.8.7",
+  "params": {
+    "_g": "僕",
+    "_r": "m亻"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "2",
+    "jp": "亻"
+  }
+}

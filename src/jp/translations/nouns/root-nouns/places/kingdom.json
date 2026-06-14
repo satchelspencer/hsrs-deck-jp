@@ -3,7 +3,9 @@
   "name": "kingdom",
   "order": "4",
   "parents": [
-    "places"
+    "places",
+    "u王",
+    "u国"
   ],
   "props": {
     "en": "kingdom",

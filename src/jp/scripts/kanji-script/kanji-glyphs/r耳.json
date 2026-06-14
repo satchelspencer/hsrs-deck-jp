@@ -1,0 +1,17 @@
+{
+  "_id": "ljmnlayvwc1",
+  "name": "r耳",
+  "order": "1.2.6.8.6.1",
+  "params": {
+    "_g": "耳",
+    "_r": "m耳"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "耳"
+  }
+}

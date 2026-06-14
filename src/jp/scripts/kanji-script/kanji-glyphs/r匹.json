@@ -1,0 +1,17 @@
+{
+  "_id": "p2fg72p1eb9",
+  "name": "r匹",
+  "order": "2.9.3.5.1.1",
+  "params": {
+    "_g": "匹",
+    "_r": "m匹"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "匹"
+  }
+}

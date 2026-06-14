@@ -1,0 +1,17 @@
+{
+  "_id": "x85exf6l9z8",
+  "name": "刀契",
+  "order": "2.9.7.6.0",
+  "params": {
+    "_g": "契",
+    "_r": "m刀"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "2",
+    "jp": "刀"
+  }
+}

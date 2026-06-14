@@ -3,7 +3,8 @@
   "name": "below",
   "order": "2",
   "parents": [
-    "positional-words"
+    "positional-words",
+    "u下"
   ],
   "props": {
     "en": "below",

@@ -1,0 +1,17 @@
+{
+  "_id": "0t97b3d4wsh",
+  "name": "非輩",
+  "order": "4.9.0.8.8",
+  "params": {
+    "_g": "輩",
+    "_r": "m非"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "8",
+    "jp": "非"
+  }
+}

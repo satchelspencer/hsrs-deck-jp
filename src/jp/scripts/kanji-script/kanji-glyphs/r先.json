@@ -1,0 +1,17 @@
+{
+  "_id": "sp42surc1ch",
+  "name": "r先",
+  "order": "1.2.0.6.2.1",
+  "params": {
+    "_g": "先",
+    "_r": "m先"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "先"
+  }
+}

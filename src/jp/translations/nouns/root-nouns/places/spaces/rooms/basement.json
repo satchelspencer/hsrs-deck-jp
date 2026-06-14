@@ -4,7 +4,9 @@
   "name": "basement",
   "order": "4",
   "parents": [
-    "rooms"
+    "rooms",
+    "u地",
+    "u下"
   ],
   "props": {
     "en": "basement",

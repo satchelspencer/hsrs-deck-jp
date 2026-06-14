@@ -1,0 +1,17 @@
+{
+  "_id": "dgueh8hwqti",
+  "name": "土場",
+  "order": "2.2.2.8.0",
+  "params": {
+    "_g": "場",
+    "_r": "m土"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "土"
+  }
+}

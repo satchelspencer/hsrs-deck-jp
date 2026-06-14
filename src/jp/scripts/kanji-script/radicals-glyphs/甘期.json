@@ -1,0 +1,17 @@
+{
+  "_id": "4ww0szurbuw",
+  "name": "甘期",
+  "order": "3.9.8.1.0",
+  "params": {
+    "_g": "期",
+    "_r": "m甘"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "甘"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "_id": "jb1fxb5q4cm",
+  "desc": "variant of 土",
+  "name": "士読",
+  "order": "1.4.8.3.6",
+  "params": {
+    "_g": "読",
+    "_r": "m士"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "3",
+    "jp": "士"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "3fskqmoz0xd",
+  "name": "心惑",
+  "order": "4.9.1.3.1",
+  "params": {
+    "_g": "惑",
+    "_r": "m心"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "9",
+    "_sl": "4",
+    "jp": "心"
+  }
+}

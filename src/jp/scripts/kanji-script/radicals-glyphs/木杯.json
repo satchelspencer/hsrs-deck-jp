@@ -1,0 +1,17 @@
+{
+  "_id": "fix5813n9zc",
+  "name": "木杯",
+  "order": "2.9.3.0.4",
+  "params": {
+    "_g": "杯",
+    "_r": "m木"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "木"
+  }
+}

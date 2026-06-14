@@ -1,0 +1,18 @@
+{
+  "_id": "klltjjlwfu7",
+  "desc": "variant of 肉",
+  "name": "月揃",
+  "order": "4.9.5.5.0",
+  "params": {
+    "_g": "揃",
+    "_r": "m月"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "4",
+    "jp": "月"
+  }
+}

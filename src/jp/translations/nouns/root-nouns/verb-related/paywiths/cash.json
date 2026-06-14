@@ -4,7 +4,9 @@
   "name": "cash",
   "order": "1",
   "parents": [
-    "paywiths"
+    "paywiths",
+    "u現",
+    "u金"
   ],
   "props": {
     "en": "cash",

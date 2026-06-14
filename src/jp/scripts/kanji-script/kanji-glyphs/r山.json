@@ -1,0 +1,17 @@
+{
+  "_id": "kqr6gi3uzj1",
+  "name": "r山",
+  "order": "1.2.8.3.6.1",
+  "params": {
+    "_g": "山",
+    "_r": "m山"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "山"
+  }
+}

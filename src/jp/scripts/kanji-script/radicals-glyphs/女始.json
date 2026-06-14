@@ -1,0 +1,17 @@
+{
+  "_id": "bsvw3kpoktu",
+  "name": "女始",
+  "order": "2.2.1.0.9",
+  "params": {
+    "_g": "始",
+    "_r": "m女"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "女"
+  }
+}

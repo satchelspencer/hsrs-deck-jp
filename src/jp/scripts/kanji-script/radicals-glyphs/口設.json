@@ -1,0 +1,17 @@
+{
+  "_id": "j3aebokn5r6",
+  "name": "口設",
+  "order": "4.9.6.8.1",
+  "params": {
+    "_g": "設",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

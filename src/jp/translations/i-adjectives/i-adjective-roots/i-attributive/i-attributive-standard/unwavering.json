@@ -3,7 +3,8 @@
   "name": "unwavering",
   "order": "4",
   "parents": [
-    "i-attributive-standard"
+    "i-attributive-standard",
+    "u固"
   ],
   "props": {
     "en": "unwavering",

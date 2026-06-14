@@ -5,7 +5,8 @@
   "order": "3",
   "parents": [
     "counter-roots-kango-full-k",
-    "media"
+    "media",
+    "u曲"
   ],
   "props": {
     "_ec": "songs",

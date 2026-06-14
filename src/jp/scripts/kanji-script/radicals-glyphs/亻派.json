@@ -1,0 +1,18 @@
+{
+  "_id": "2jvqycunxnw",
+  "desc": "variant of 人",
+  "name": "亻派",
+  "order": "2.3.1.6.8",
+  "params": {
+    "_g": "派",
+    "_r": "m亻"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "2",
+    "jp": "亻"
+  }
+}

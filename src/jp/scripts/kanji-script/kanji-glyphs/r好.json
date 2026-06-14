@@ -1,0 +1,17 @@
+{
+  "_id": "kfbr7owt6h1",
+  "name": "r好",
+  "order": "1.3.0.4.6.1",
+  "params": {
+    "_g": "好",
+    "_r": "m好"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "好"
+  }
+}

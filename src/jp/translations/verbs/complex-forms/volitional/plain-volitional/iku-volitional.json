@@ -5,7 +5,8 @@
     "verb": "iku"
   },
   "parents": [
-    "plain-volitional"
+    "plain-volitional",
+    "u行"
   ],
   "props": {
     "jp": "verb.jp|r('行く', '行こう')|r('いく', 'いこう')"

@@ -1,0 +1,19 @@
+{
+  "_id": "v9vqiltdfmr",
+  "name": "麻磨",
+  "order": "2.5.6.1.0",
+  "params": {
+    "_1": "广磨",
+    "_2": "林磨",
+    "_g": "磨",
+    "_r": "m麻"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "11",
+    "jp": "麻"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "_id": "nr1grwivbpv",
+  "name": "自息",
+  "order": "1.9.6.8.5",
+  "params": {
+    "_1": "目息",
+    "_g": "息",
+    "_r": "m自"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "自"
+  }
+}

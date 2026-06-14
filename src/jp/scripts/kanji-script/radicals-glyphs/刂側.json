@@ -1,0 +1,18 @@
+{
+  "_id": "p15fmyupe4r",
+  "desc": "variant of 刀",
+  "name": "刂側",
+  "order": "2.6.2.6.2",
+  "params": {
+    "_g": "側",
+    "_r": "m刂"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "10",
+    "_sl": "2",
+    "jp": "刂"
+  }
+}

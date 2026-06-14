@@ -3,7 +3,8 @@
   "name": "chicken",
   "order": "3",
   "parents": [
-    "wa-countable"
+    "wa-countable",
+    "u鶏"
   ],
   "props": {
     "en": "chicken animal",

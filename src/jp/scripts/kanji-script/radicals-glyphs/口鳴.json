@@ -1,0 +1,17 @@
+{
+  "_id": "p5av7rlgxo0",
+  "name": "口鳴",
+  "order": "3.5.3.7.4",
+  "params": {
+    "_g": "鳴",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

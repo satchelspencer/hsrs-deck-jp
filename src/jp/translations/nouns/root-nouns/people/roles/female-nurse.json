@@ -3,7 +3,10 @@
   "name": "female-nurse",
   "order": "4",
   "parents": [
-    "roles"
+    "roles",
+    "u看",
+    "u護",
+    "u婦"
   ],
   "props": {
     "en": "female nurse",

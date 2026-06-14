@@ -1,0 +1,18 @@
+{
+  "_id": "d4uyz5luwp8",
+  "desc": "variant of 手",
+  "name": "扌抗",
+  "order": "4.5.4.2.8",
+  "params": {
+    "_g": "抗",
+    "_r": "m扌"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "扌"
+  }
+}

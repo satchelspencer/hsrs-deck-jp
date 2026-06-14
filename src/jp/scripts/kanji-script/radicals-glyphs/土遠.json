@@ -1,0 +1,17 @@
+{
+  "_id": "8k96ys4ml8w",
+  "name": "土遠",
+  "order": "3.3.2.9.2",
+  "params": {
+    "_g": "遠",
+    "_r": "m土"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "土"
+  }
+}

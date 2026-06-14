@@ -6,7 +6,9 @@
   "parents": [
     "machines",
     "non-unique",
-    "dai-countable"
+    "dai-countable",
+    "u装",
+    "u置"
   ],
   "props": {
     "en": "device",

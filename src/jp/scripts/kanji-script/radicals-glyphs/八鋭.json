@@ -1,0 +1,17 @@
+{
+  "_id": "qfxlu3gge3q",
+  "name": "八鋭",
+  "order": "4.5.9.3.6",
+  "params": {
+    "_g": "鋭",
+    "_r": "m八"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "9",
+    "_sl": "2",
+    "jp": "八"
+  }
+}

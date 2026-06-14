@@ -1,0 +1,17 @@
+{
+  "_id": "5tkbfdt13yb",
+  "name": "力労",
+  "order": "4.2.7.3.4",
+  "params": {
+    "_g": "労",
+    "_r": "m力"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "2",
+    "jp": "力"
+  }
+}

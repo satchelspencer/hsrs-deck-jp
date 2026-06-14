@@ -4,7 +4,9 @@
   "name": "all-at-once",
   "order": "4",
   "parents": [
-    "continuous-adverbs"
+    "continuous-adverbs",
+    "u一",
+    "u気"
   ],
   "props": {
     "en": "all at once",

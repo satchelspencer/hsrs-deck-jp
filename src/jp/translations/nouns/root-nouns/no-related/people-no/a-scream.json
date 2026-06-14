@@ -5,7 +5,9 @@
   "order": "4",
   "parents": [
     "people-no",
-    "audibles"
+    "audibles",
+    "u悲",
+    "u鳴"
   ],
   "props": {
     "en": "a scream",

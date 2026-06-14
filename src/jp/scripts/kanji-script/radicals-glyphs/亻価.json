@@ -1,0 +1,18 @@
+{
+  "_id": "8yw056vy6bx",
+  "desc": "variant of 人",
+  "name": "亻価",
+  "order": "4.2.5.8.5",
+  "params": {
+    "_g": "価",
+    "_r": "m亻"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "2",
+    "jp": "亻"
+  }
+}

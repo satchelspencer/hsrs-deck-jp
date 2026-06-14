@@ -5,7 +5,9 @@
   "order": "3",
   "parents": [
     "suru-nouns",
-    "do-to-establishments"
+    "do-to-establishments",
+    "u利",
+    "u用"
   ],
   "props": {
     "_v": "utilize",

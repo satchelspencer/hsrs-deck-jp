@@ -1,0 +1,17 @@
+{
+  "_id": "xv4mgtd4hgg",
+  "name": "䒑詳",
+  "order": "3.2.4.0.7",
+  "params": {
+    "_g": "詳",
+    "_r": "m䒑"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "3",
+    "jp": "䒑"
+  }
+}

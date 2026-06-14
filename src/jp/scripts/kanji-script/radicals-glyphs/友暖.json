@@ -1,0 +1,17 @@
+{
+  "_id": "bi1f7c7cb4h",
+  "name": "友暖",
+  "order": "1.4.3.0.7",
+  "params": {
+    "_g": "暖",
+    "_r": "m友"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "10",
+    "_sl": "4",
+    "jp": "友"
+  }
+}

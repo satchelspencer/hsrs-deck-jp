@@ -1,0 +1,17 @@
+{
+  "_id": "t97zqj2sdew",
+  "name": "弓弾",
+  "order": "3.9.2.4.1",
+  "params": {
+    "_g": "弾",
+    "_r": "m弓"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "弓"
+  }
+}

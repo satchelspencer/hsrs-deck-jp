@@ -1,0 +1,17 @@
+{
+  "_id": "kl4zp7afgct",
+  "name": "禾香",
+  "order": "4.6.2.4.9",
+  "params": {
+    "_g": "香",
+    "_r": "m禾"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "禾"
+  }
+}

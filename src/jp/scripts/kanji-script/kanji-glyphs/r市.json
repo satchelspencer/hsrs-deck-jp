@@ -1,0 +1,17 @@
+{
+  "_id": "6b4uj22kvft",
+  "name": "r市",
+  "order": "1.9.2.1.7.1",
+  "params": {
+    "_g": "市",
+    "_r": "m市"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "市"
+  }
+}

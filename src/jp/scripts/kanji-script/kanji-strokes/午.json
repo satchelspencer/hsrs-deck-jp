@@ -1,0 +1,15 @@
+{
+  "_id": "gmckg0ocrtx",
+  "name": "午",
+  "order": "2.9.1.1.0",
+  "params": {
+    "_wd": "u午"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "午",
+    "_st": "BANNJgljAAEAAgADQyMSGx4SJwRNIBtjAwAEAAYAYw2BFYMhhWMCAAUABgAETQ43YwMBBwEKAGMUgiuFP4ZjBAAHAAkABE01HGMBAQICAgRjAAEALAA9YwADAAUABg"
+  }
+}

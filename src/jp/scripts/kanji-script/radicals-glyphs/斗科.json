@@ -1,0 +1,17 @@
+{
+  "_id": "w80wfgr5f1w",
+  "name": "斗科",
+  "order": "3.9.8.5.9",
+  "params": {
+    "_g": "科",
+    "_r": "m斗"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "4",
+    "jp": "斗"
+  }
+}

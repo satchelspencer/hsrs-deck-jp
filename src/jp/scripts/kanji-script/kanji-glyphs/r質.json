@@ -1,0 +1,18 @@
+{
+  "_id": "3cqtj2jemdj",
+  "name": "r質",
+  "order": "2.6.3.8.0.1",
+  "params": {
+    "_1": "貝質",
+    "_g": "質",
+    "_r": "m質"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "15",
+    "jp": "質"
+  }
+}

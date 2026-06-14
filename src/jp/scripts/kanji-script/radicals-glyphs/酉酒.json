@@ -1,0 +1,18 @@
+{
+  "_id": "mkvrbl1cmib",
+  "name": "酉酒",
+  "order": "2.6.4.1.1",
+  "params": {
+    "_1": "一酒",
+    "_g": "酒",
+    "_r": "m酉"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "7",
+    "jp": "酉"
+  }
+}

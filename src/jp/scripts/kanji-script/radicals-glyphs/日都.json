@@ -1,0 +1,18 @@
+{
+  "_id": "gwaewonpqid",
+  "desc": "variant of 曰",
+  "name": "日都",
+  "order": "3.9.3.4.4",
+  "params": {
+    "_g": "都",
+    "_r": "m日"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "4",
+    "jp": "日"
+  }
+}

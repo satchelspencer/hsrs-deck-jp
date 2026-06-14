@@ -1,0 +1,18 @@
+{
+  "_id": "owcrfdipu0g",
+  "desc": "variant of 肉",
+  "name": "月精",
+  "order": "4.9.6.8.1",
+  "params": {
+    "_g": "精",
+    "_r": "m月"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "11",
+    "_sl": "4",
+    "jp": "月"
+  }
+}

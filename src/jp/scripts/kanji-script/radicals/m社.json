@@ -1,0 +1,10 @@
+{
+  "_id": "0nxfwdk6chv",
+  "name": "m社",
+  "parents": [
+    "radicals"
+  ],
+  "props": {
+    "_m": "company, firm, office"
+  }
+}

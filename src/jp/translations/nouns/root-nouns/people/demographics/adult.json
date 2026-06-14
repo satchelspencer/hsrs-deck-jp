@@ -3,7 +3,9 @@
   "name": "adult",
   "order": "2",
   "parents": [
-    "demographics"
+    "demographics",
+    "u大",
+    "u人"
   ],
   "props": {
     "en": "adult",

@@ -3,7 +3,9 @@
   "name": "sound-of-footsteps",
   "order": "4",
   "parents": [
-    "audibles"
+    "audibles",
+    "u足",
+    "u音"
   ],
   "props": {
     "en": "sound of footsteps",

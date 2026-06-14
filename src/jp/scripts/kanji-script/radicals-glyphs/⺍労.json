@@ -1,0 +1,18 @@
+{
+  "_id": "35r4dcbehve",
+  "desc": "variant of 吅",
+  "name": "⺍労",
+  "order": "4.2.7.3.4",
+  "params": {
+    "_g": "労",
+    "_r": "m⺍"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "⺍"
+  }
+}

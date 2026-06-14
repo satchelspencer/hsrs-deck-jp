@@ -1,0 +1,17 @@
+{
+  "_id": "cudeluypa3j",
+  "name": "木械",
+  "order": "3.5.1.0.7",
+  "params": {
+    "_g": "械",
+    "_r": "m木"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "木"
+  }
+}

@@ -4,7 +4,9 @@
   "name": "white-person",
   "order": "3",
   "parents": [
-    "people-groups"
+    "people-groups",
+    "u白",
+    "u人"
   ],
   "props": {
     "en": "white person",

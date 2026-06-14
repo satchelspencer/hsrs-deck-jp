@@ -1,0 +1,17 @@
+{
+  "_id": "vj6p79m7928",
+  "name": "心誌",
+  "order": "3.5.2.3.5",
+  "params": {
+    "_g": "誌",
+    "_r": "m心"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "11",
+    "_sl": "4",
+    "jp": "心"
+  }
+}

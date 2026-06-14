@@ -4,7 +4,9 @@
   "name": "large-amount-of",
   "order": "4",
   "parents": [
-    "no-attr-nouns"
+    "no-attr-nouns",
+    "u大",
+    "u量"
   ],
   "props": {
     "en": "large amount of",

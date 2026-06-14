@@ -1,0 +1,17 @@
+{
+  "_id": "j0tomox1mum",
+  "name": "糸締",
+  "order": "3.6.4.9.5",
+  "params": {
+    "_g": "締",
+    "_r": "m糸"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "糸"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "hctt35hoz3t",
+  "name": "r安",
+  "order": "1.2.8.4.1.1",
+  "params": {
+    "_g": "安",
+    "_r": "m安"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "安"
+  }
+}

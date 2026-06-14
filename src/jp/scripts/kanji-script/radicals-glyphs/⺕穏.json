@@ -1,0 +1,18 @@
+{
+  "_id": "17vqe9ii27q",
+  "desc": "variant of 彑",
+  "name": "⺕穏",
+  "order": "4.4.6.6.1",
+  "params": {
+    "_g": "穏",
+    "_r": "m⺕"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "10",
+    "_sl": "3",
+    "jp": "⺕"
+  }
+}

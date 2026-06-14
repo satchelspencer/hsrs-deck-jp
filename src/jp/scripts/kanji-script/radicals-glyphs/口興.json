@@ -1,0 +1,17 @@
+{
+  "_id": "z0c7pm6qf9g",
+  "name": "口興",
+  "order": "3.5.6.3.4",
+  "params": {
+    "_g": "興",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

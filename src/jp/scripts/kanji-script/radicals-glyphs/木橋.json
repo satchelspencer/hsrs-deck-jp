@@ -1,0 +1,17 @@
+{
+  "_id": "wa70kwslwau",
+  "name": "木橋",
+  "order": "2.9.1.6.4",
+  "params": {
+    "_g": "橋",
+    "_r": "m木"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "木"
+  }
+}

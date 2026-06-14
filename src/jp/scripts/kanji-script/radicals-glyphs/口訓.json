@@ -1,0 +1,17 @@
+{
+  "_id": "0frp8e9ds9a",
+  "name": "口訓",
+  "order": "4.9.2.3.0",
+  "params": {
+    "_g": "訓",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "n5v3d8elwon",
+  "name": "方旅",
+  "order": "2.5.2.0.7",
+  "params": {
+    "_g": "旅",
+    "_r": "m方"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "方"
+  }
+}

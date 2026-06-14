@@ -1,0 +1,17 @@
+{
+  "_id": "revronwuoud",
+  "name": "r予",
+  "order": "1.9.5.8.8.1",
+  "params": {
+    "_g": "予",
+    "_r": "m予"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "予"
+  }
+}

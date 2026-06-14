@@ -1,0 +1,17 @@
+{
+  "_id": "colt0vs7hgi",
+  "name": "r民",
+  "order": "1.9.4.6.0.1",
+  "params": {
+    "_g": "民",
+    "_r": "m民"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "民"
+  }
+}

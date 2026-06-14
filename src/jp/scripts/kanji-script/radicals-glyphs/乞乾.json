@@ -1,0 +1,17 @@
+{
+  "_id": "1l8ty4exwna",
+  "name": "乞乾",
+  "order": "3.3.6.6.1",
+  "params": {
+    "_g": "乾",
+    "_r": "m乞"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "9",
+    "_sl": "3",
+    "jp": "乞"
+  }
+}

@@ -4,7 +4,9 @@
   "name": "fool",
   "order": "4",
   "parents": [
-    "abstracts"
+    "abstracts",
+    "u馬",
+    "u鹿"
   ],
   "props": {
     "en": "fool",

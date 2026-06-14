@@ -4,7 +4,9 @@
   "name": "fact",
   "order": "3",
   "parents": [
-    "informations"
+    "informations",
+    "u事",
+    "u実"
   ],
   "props": {
     "en": "fact",

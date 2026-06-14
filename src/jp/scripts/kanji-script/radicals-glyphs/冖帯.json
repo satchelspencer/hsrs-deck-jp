@@ -1,0 +1,17 @@
+{
+  "_id": "9swu2fm39a8",
+  "name": "冖帯",
+  "order": "2.9.4.3.1",
+  "params": {
+    "_g": "帯",
+    "_r": "m冖"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "2",
+    "jp": "冖"
+  }
+}

@@ -4,7 +4,9 @@
   "order": "4",
   "parents": [
     "country-no",
-    "categories"
+    "categories",
+    "u通",
+    "u貨"
   ],
   "props": {
     "_pl": "currencies",

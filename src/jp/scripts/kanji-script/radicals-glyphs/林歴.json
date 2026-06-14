@@ -1,0 +1,17 @@
+{
+  "_id": "6cedzg5ipse",
+  "name": "林歴",
+  "order": "3.4.9.1.1",
+  "params": {
+    "_g": "歴",
+    "_r": "m林"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "3",
+    "_sl": "8",
+    "jp": "林"
+  }
+}

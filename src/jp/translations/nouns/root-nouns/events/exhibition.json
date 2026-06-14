@@ -3,7 +3,10 @@
   "name": "exhibition",
   "order": "3",
   "parents": [
-    "events"
+    "events",
+    "u展",
+    "u覧",
+    "u会"
   ],
   "props": {
     "en": "exhibition",

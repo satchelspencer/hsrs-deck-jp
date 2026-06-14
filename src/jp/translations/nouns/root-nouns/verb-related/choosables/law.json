@@ -6,7 +6,9 @@
     "choosables",
     "protectables",
     "learnables",
-    "writeables"
+    "writeables",
+    "u法",
+    "u律"
   ],
   "props": {
     "en": "law",

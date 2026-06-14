@@ -1,0 +1,17 @@
+{
+  "_id": "5cdp6fa2vu7",
+  "name": "木膝",
+  "order": "4.9.0.6.4",
+  "params": {
+    "_g": "膝",
+    "_r": "m木"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "4",
+    "jp": "木"
+  }
+}

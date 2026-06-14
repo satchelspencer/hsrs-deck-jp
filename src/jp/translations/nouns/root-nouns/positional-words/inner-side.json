@@ -4,7 +4,9 @@
   "name": "inner-side",
   "order": "4",
   "parents": [
-    "positional-words"
+    "positional-words",
+    "u内",
+    "u側"
   ],
   "props": {
     "en": "inner side",

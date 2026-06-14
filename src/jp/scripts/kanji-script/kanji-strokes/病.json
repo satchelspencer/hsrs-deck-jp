@@ -1,0 +1,15 @@
+{
+  "_id": "dlkrny2p0ku",
+  "name": "病",
+  "order": "2.4.0.1.5",
+  "params": {
+    "_wd": "u病"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "病",
+    "_st": "CgNNOgtjAQECAwIEYwABAAUACQRNHRtjBAEIAAwAYw6BHYMphGMEAAcACwADTR8cYwEBAQMBBWOBHIEtkD4CTQ8mYwMCBwcICQNNCkRjAQEDAQQAYwWCCYYOiQRNKypjAgAFAAgAYweBFoIfg2MCAAUABwAETSk8YwEBAQMBBGMABAAUAB1jAAMABQAGBU0sPmMHACmEKoRjAwAFAgUFYwAFABsAHWMACYYDiQADTT8sYwEBAQIBBGMADoQejyUCTUJFYwUCDAoNDg"
+  }
+}

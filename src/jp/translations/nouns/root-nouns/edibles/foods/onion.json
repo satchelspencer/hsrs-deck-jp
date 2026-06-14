@@ -5,7 +5,8 @@
   "parents": [
     "foods",
     "cuttables",
-    "ko-countable"
+    "ko-countable",
+    "u玉"
   ],
   "props": {
     "en": "onion",

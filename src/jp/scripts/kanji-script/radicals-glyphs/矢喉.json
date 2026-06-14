@@ -1,0 +1,17 @@
+{
+  "_id": "v8yrl1neuti",
+  "name": "矢喉",
+  "order": "3.9.7.4.4",
+  "params": {
+    "_g": "喉",
+    "_r": "m矢"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "5",
+    "jp": "矢"
+  }
+}

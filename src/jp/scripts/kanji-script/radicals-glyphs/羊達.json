@@ -1,0 +1,18 @@
+{
+  "_id": "ja2rbgng5am",
+  "name": "羊達",
+  "order": "2.4.8.6.3",
+  "params": {
+    "_1": "䒑達",
+    "_g": "達",
+    "_r": "m羊"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "6",
+    "jp": "羊"
+  }
+}

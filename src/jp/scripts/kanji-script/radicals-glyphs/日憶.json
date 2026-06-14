@@ -1,0 +1,18 @@
+{
+  "_id": "wjc412448mq",
+  "desc": "variant of 曰",
+  "name": "日憶",
+  "order": "4.3.1.6.2",
+  "params": {
+    "_g": "憶",
+    "_r": "m日"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "9",
+    "_sl": "4",
+    "jp": "日"
+  }
+}

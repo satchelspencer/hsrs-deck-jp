@@ -1,0 +1,17 @@
+{
+  "_id": "56lyg84e6jc",
+  "name": "大寄",
+  "order": "3.9.6.5.0",
+  "params": {
+    "_g": "寄",
+    "_r": "m大"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "3",
+    "jp": "大"
+  }
+}

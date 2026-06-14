@@ -1,0 +1,11 @@
+{
+  "_id": "v42539qatvs",
+  "desc": "variant of 夾",
+  "name": "m夹",
+  "parents": [
+    "radicals"
+  ],
+  "props": {
+    "_m": "insert between"
+  }
+}

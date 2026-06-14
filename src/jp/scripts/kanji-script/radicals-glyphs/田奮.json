@@ -1,0 +1,17 @@
+{
+  "_id": "tv750x3miur",
+  "name": "田奮",
+  "order": "4.9.6.8.0",
+  "params": {
+    "_g": "奮",
+    "_r": "m田"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "12",
+    "_sl": "5",
+    "jp": "田"
+  }
+}

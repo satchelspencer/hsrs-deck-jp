@@ -1,0 +1,10 @@
+{
+  "_id": "dnn83ppku9y",
+  "name": "m課",
+  "parents": [
+    "radicals"
+  ],
+  "props": {
+    "_m": "chapter, lesson, section"
+  }
+}

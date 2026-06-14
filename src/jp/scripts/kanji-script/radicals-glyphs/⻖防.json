@@ -1,0 +1,18 @@
+{
+  "_id": "0bdx3k1aqsc",
+  "desc": "variant of 阜",
+  "name": "⻖防",
+  "order": "4.4.0.6.0",
+  "params": {
+    "_g": "防",
+    "_r": "m⻖"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "⻖"
+  }
+}

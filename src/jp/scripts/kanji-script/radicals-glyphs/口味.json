@@ -1,0 +1,17 @@
+{
+  "_id": "1u9mhldgqvr",
+  "name": "口味",
+  "order": "1.3.9.0.3",
+  "params": {
+    "_g": "味",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

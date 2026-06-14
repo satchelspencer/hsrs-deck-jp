@@ -5,7 +5,9 @@
   "name": "excuse-my-leaving",
   "order": "2",
   "parents": [
-    "fixed-phrases"
+    "fixed-phrases",
+    "u失",
+    "u礼"
   ],
   "props": {
     "en": "excuse my leaving",

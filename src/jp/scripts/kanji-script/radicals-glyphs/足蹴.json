@@ -1,0 +1,17 @@
+{
+  "_id": "occh5e2rwva",
+  "name": "足蹴",
+  "order": "2.3.8.1.6",
+  "params": {
+    "_g": "蹴",
+    "_r": "m足"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "7",
+    "jp": "足"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "973d572pyl7",
+  "name": "广磨",
+  "order": "2.5.6.1.0",
+  "params": {
+    "_g": "磨",
+    "_r": "m广"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "广"
+  }
+}

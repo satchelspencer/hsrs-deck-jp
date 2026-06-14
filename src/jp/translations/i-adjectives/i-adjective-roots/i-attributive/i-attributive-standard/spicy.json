@@ -3,7 +3,8 @@
   "name": "spicy",
   "order": "2",
   "parents": [
-    "i-attributive-standard"
+    "i-attributive-standard",
+    "u辛"
   ],
   "props": {
     "_ad": "spicily",

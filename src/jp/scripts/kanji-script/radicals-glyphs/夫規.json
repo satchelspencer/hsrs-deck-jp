@@ -1,0 +1,17 @@
+{
+  "_id": "8xkt94beo5m",
+  "name": "夫規",
+  "order": "3.4.5.1.1",
+  "params": {
+    "_g": "規",
+    "_r": "m夫"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "夫"
+  }
+}

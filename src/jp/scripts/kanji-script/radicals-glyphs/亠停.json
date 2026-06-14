@@ -1,0 +1,17 @@
+{
+  "_id": "j74bh3sz293",
+  "name": "亠停",
+  "order": "4.1.9.6.1",
+  "params": {
+    "_g": "停",
+    "_r": "m亠"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "3",
+    "_sl": "2",
+    "jp": "亠"
+  }
+}

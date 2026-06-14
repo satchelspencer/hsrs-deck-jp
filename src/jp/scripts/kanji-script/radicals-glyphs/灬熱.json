@@ -1,0 +1,18 @@
+{
+  "_id": "ou47qhnvue2",
+  "desc": "variant of 火",
+  "name": "灬熱",
+  "order": "2.3.5.6.8",
+  "params": {
+    "_g": "熱",
+    "_r": "m灬"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "12",
+    "_sl": "4",
+    "jp": "灬"
+  }
+}

@@ -5,7 +5,8 @@
   "order": "4",
   "parents": [
     "godan-su",
-    "te-iru-verbs-state"
+    "te-iru-verbs-state",
+    "u増"
   ],
   "props": {
     "_st": "intensified",

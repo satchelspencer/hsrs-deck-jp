@@ -3,7 +3,9 @@
   "name": "soy-sauce",
   "order": "1",
   "parents": [
-    "ingredients"
+    "ingredients",
+    "u醬",
+    "u油"
   ],
   "props": {
     "en": "soy sauce",

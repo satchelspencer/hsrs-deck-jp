@@ -5,7 +5,8 @@
   "order": "3",
   "parents": [
     "furniture",
-    "wago-countable"
+    "wago-countable",
+    "u棚"
   ],
   "props": {
     "en": "shelf",

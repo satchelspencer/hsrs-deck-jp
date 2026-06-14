@@ -1,0 +1,17 @@
+{
+  "_id": "q3dmfbtb4b7",
+  "name": "尸握",
+  "order": "4.9.6.0.9",
+  "params": {
+    "_g": "握",
+    "_r": "m尸"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "3",
+    "jp": "尸"
+  }
+}

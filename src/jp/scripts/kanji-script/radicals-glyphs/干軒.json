@@ -1,0 +1,17 @@
+{
+  "_id": "rf0gw4l6plh",
+  "name": "干軒",
+  "order": "2.9.5.5.3",
+  "params": {
+    "_g": "軒",
+    "_r": "m干"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "3",
+    "jp": "干"
+  }
+}

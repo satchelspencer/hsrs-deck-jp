@@ -3,7 +3,9 @@
   "name": "rooftop",
   "order": "3",
   "parents": [
-    "places"
+    "places",
+    "u屋",
+    "u上"
   ],
   "props": {
     "en": "rooftop",

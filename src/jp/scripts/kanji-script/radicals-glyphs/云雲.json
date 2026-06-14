@@ -1,0 +1,17 @@
+{
+  "_id": "gm69cugs2qb",
+  "name": "云雲",
+  "order": "1.9.9.2.6",
+  "params": {
+    "_g": "雲",
+    "_r": "m云"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "9",
+    "_sl": "4",
+    "jp": "云"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "_id": "5gsrxdpmeum",
+  "name": "告",
+  "order": "4.1.1.0.1",
+  "params": {
+    "_wd": "u告"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "告",
+    "_st": "BwNNIxRjAAEAAgACQyEcHSUVLQRNISJjAgADAAQAYwmBFoIgg2MCAAQABwADTTUKYwEBAgMCBGMABQAiACgETQ07YwIBBQEHAWMUgi-FQoZjAwAFAAcBBE0eSGMBAQICAgRjAQkCDwMVYwABAAMABARNIUpjDYIfhSmGYwQABgEFBWOBBoMNhhQDTSRhYwqBGYIjgmMCAAQABQA"
+  }
+}

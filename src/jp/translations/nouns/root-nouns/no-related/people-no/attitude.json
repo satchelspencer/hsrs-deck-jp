@@ -4,7 +4,9 @@
   "name": "attitude",
   "order": "3",
   "parents": [
-    "people-no"
+    "people-no",
+    "u態",
+    "u度"
   ],
   "props": {
     "en": "attitude",

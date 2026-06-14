@@ -3,7 +3,9 @@
   "name": "long-distance-train",
   "order": "4",
   "parents": [
-    "trains"
+    "trains",
+    "u汽",
+    "u車"
   ],
   "props": {
     "en": "long distance train",

@@ -1,0 +1,18 @@
+{
+  "_id": "xsc8nbu8dph",
+  "desc": "variant of 氷",
+  "name": "冫凄",
+  "order": "3.6.1.1.2",
+  "params": {
+    "_g": "凄",
+    "_r": "m冫"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "2",
+    "jp": "冫"
+  }
+}

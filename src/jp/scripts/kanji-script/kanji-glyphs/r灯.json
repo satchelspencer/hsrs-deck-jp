@@ -1,0 +1,17 @@
+{
+  "_id": "q929z4qu19d",
+  "name": "r灯",
+  "order": "4.9.0.2.0.1",
+  "params": {
+    "_g": "灯",
+    "_r": "m灯"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "灯"
+  }
+}

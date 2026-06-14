@@ -4,7 +4,10 @@
   "name": "government-worker",
   "order": "4",
   "parents": [
-    "roles"
+    "roles",
+    "u公",
+    "u務",
+    "u員"
   ],
   "props": {
     "en": "government worker",

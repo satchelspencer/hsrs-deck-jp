@@ -4,7 +4,9 @@
   "name": "wasteful",
   "order": "4",
   "parents": [
-    "na-attributive"
+    "na-attributive",
+    "u無",
+    "u駄"
   ],
   "props": {
     "en": "wasteful",

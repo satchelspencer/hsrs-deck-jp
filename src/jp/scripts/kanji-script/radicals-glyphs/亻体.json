@@ -1,0 +1,18 @@
+{
+  "_id": "y8a16sz84dg",
+  "desc": "variant of 人",
+  "name": "亻体",
+  "order": "2.4.1.8.7",
+  "params": {
+    "_g": "体",
+    "_r": "m亻"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "2",
+    "jp": "亻"
+  }
+}

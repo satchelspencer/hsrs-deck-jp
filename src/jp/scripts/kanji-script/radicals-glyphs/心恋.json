@@ -1,0 +1,17 @@
+{
+  "_id": "lvzik3pdpsy",
+  "name": "心恋",
+  "order": "4.9.3.2.0",
+  "params": {
+    "_g": "恋",
+    "_r": "m心"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "4",
+    "jp": "心"
+  }
+}

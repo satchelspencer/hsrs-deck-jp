@@ -1,0 +1,18 @@
+{
+  "_id": "dnfe350iokx",
+  "name": "自鼻",
+  "order": "2.9.0.4.2",
+  "params": {
+    "_1": "目鼻",
+    "_g": "鼻",
+    "_r": "m自"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "自"
+  }
+}

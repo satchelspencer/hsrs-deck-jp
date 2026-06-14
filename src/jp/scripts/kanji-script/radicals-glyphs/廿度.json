@@ -1,0 +1,17 @@
+{
+  "_id": "gpwftcqkok6",
+  "name": "廿度",
+  "order": "2.9.5.4.0",
+  "params": {
+    "_g": "度",
+    "_r": "m廿"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "4",
+    "jp": "廿"
+  }
+}

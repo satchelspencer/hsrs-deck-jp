@@ -1,0 +1,17 @@
+{
+  "_id": "xhn2msgt3x1",
+  "name": "白皆",
+  "order": "1.9.6.6.8",
+  "params": {
+    "_g": "皆",
+    "_r": "m白"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "5",
+    "jp": "白"
+  }
+}

@@ -4,7 +4,8 @@
   "name": "counter-root-flats",
   "order": "2",
   "parents": [
-    "counter-roots-kango-simple"
+    "counter-roots-kango-simple",
+    "u枚"
   ],
   "props": {
     "_ec": "flats",

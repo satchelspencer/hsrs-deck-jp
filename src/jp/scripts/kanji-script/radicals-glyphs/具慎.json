@@ -1,0 +1,19 @@
+{
+  "_id": "dtphvbeajs0",
+  "name": "具慎",
+  "order": "4.2.0.4.0",
+  "params": {
+    "_1": "目慎",
+    "_2": "八慎",
+    "_g": "慎",
+    "_r": "m具"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "8",
+    "jp": "具"
+  }
+}

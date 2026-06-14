@@ -1,0 +1,18 @@
+{
+  "_id": "idm9u5gf20b",
+  "desc": "variant of 土",
+  "name": "士結",
+  "order": "2.9.0.0.1",
+  "params": {
+    "_g": "結",
+    "_r": "m士"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "3",
+    "jp": "士"
+  }
+}

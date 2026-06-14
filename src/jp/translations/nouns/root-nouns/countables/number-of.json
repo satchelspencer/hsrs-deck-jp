@@ -4,7 +4,8 @@
   "order": "2",
   "parents": [
     "countables",
-    "object-no"
+    "object-no",
+    "u数"
   ],
   "props": {
     "en": "number of",

@@ -1,0 +1,17 @@
+{
+  "_id": "jj5d53iopkz",
+  "name": "r女",
+  "order": "1.2.8.4.1.1",
+  "params": {
+    "_g": "女",
+    "_r": "m女"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "女"
+  }
+}

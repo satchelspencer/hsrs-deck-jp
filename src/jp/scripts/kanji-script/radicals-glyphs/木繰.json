@@ -1,0 +1,17 @@
+{
+  "_id": "bkt05xzbogn",
+  "name": "木繰",
+  "order": "4.6.8.2.2",
+  "params": {
+    "_g": "繰",
+    "_r": "m木"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "16",
+    "_sl": "4",
+    "jp": "木"
+  }
+}

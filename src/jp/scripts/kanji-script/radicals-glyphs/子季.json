@@ -1,0 +1,17 @@
+{
+  "_id": "vyymcetuvou",
+  "name": "子季",
+  "order": "2.9.5.2.5",
+  "params": {
+    "_g": "季",
+    "_r": "m子"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "3",
+    "jp": "子"
+  }
+}

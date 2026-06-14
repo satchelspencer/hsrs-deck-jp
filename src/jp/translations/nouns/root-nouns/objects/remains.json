@@ -4,7 +4,9 @@
   "name": "remains",
   "order": "4",
   "parents": [
-    "objects"
+    "objects",
+    "u遺",
+    "u体"
   ],
   "props": {
     "en": "remains",

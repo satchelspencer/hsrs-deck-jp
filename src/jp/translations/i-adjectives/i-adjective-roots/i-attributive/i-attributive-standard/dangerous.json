@@ -6,7 +6,8 @@
   "order": "2",
   "parents": [
     "i-attributive-standard",
-    "i-people-do"
+    "i-people-do",
+    "u危"
   ],
   "props": {
     "en": "dangerous",

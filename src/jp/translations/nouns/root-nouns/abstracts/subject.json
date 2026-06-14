@@ -4,7 +4,9 @@
   "name": "subject",
   "order": "4",
   "parents": [
-    "abstracts"
+    "abstracts",
+    "u対",
+    "u象"
   ],
   "props": {
     "en": "subject",

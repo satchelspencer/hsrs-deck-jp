@@ -1,0 +1,17 @@
+{
+  "_id": "hhbadz7ok4b",
+  "name": "r入",
+  "order": "1.4.6.0.3.1",
+  "params": {
+    "_g": "入",
+    "_r": "m入"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "2",
+    "jp": "入"
+  }
+}

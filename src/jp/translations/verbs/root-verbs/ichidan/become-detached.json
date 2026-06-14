@@ -5,7 +5,8 @@
   "order": "4",
   "parents": [
     "ichidan",
-    "te-iru-verbs-state"
+    "te-iru-verbs-state",
+    "u外"
   ],
   "props": {
     "_st": "detached",

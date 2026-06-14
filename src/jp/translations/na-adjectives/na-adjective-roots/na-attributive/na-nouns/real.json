@@ -4,7 +4,9 @@
   "name": "real",
   "order": "1.2",
   "parents": [
-    "na-nouns"
+    "na-nouns",
+    "u本",
+    "u当"
   ],
   "props": {
     "_ad": "in reality",

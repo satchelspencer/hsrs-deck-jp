@@ -1,0 +1,18 @@
+{
+  "_id": "vnv24s92yni",
+  "name": "粦隣",
+  "order": "2.9.2.0.3",
+  "params": {
+    "_1": "米隣",
+    "_g": "隣",
+    "_r": "m粦"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "13",
+    "jp": "粦"
+  }
+}

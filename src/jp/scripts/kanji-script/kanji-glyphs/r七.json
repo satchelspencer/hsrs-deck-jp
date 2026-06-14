@@ -1,0 +1,17 @@
+{
+  "_id": "via6wpqer2w",
+  "name": "r七",
+  "order": "1.3.1.1.9.1",
+  "params": {
+    "_g": "七",
+    "_r": "m七"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "2",
+    "jp": "七"
+  }
+}

@@ -3,7 +3,8 @@
   "name": "train-station",
   "order": "1",
   "parents": [
-    "establishments"
+    "establishments",
+    "u駅"
   ],
   "props": {
     "en": "train station",

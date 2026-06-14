@@ -4,7 +4,8 @@
   "name": "ship",
   "order": "3",
   "parents": [
-    "transports"
+    "transports",
+    "u船"
   ],
   "props": {
     "en": "ship",

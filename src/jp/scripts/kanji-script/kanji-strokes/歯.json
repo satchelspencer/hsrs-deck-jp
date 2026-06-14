@@ -1,0 +1,15 @@
+{
+  "_id": "l5f8bi84r0d",
+  "name": "歯",
+  "order": "2.9.1.7.2",
+  "params": {
+    "_wd": "u歯"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "歯",
+    "_st": "DANNNAxjAQECAwIFYwAGAA4AFgNNNxpjB4EMgROCYwIAAwAFAANNHhZjAQECAgIEYwADAAkADwRNDypjBAEHAQsBYxSCKoQ5hWMEAAcACgECTSUxYwICBgYHCQNNRi9jAAEAAoEDY4IChAWGBwRNIUBjAwAFAAYAYwiBGIMgg2MCAAQABQAETTUuYwEBAQIBAmMAAAAYACJjAAIABAAEA00zP2MAAQABgQJjhAaLDZIQAk06RWMEAgsGDwsFTRgzYwEBAQMBBGMAA4IlgiZzAQMDA0MqXkRcVFsETVQtYwEBAgMCBGMAAQAWgSljAAIABAAH"
+  }
+}

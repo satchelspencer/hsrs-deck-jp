@@ -1,0 +1,17 @@
+{
+  "_id": "bcxasaxgj4v",
+  "name": "目頃",
+  "order": "3.9.3.3.3",
+  "params": {
+    "_g": "頃",
+    "_r": "m目"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "5",
+    "jp": "目"
+  }
+}

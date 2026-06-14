@@ -1,0 +1,17 @@
+{
+  "_id": "yj54vpacbzf",
+  "name": "竹答",
+  "order": "3.5.1.2.3",
+  "params": {
+    "_g": "答",
+    "_r": "m竹"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "竹"
+  }
+}

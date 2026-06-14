@@ -1,0 +1,17 @@
+{
+  "_id": "x0380vgtrln",
+  "name": "目懸",
+  "order": "3.9.4.2.6",
+  "params": {
+    "_g": "懸",
+    "_r": "m目"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "目"
+  }
+}

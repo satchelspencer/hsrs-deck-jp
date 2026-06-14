@@ -1,0 +1,17 @@
+{
+  "_id": "upgp96ndvdk",
+  "name": "冖売",
+  "order": "1.4.8.3.6",
+  "params": {
+    "_g": "売",
+    "_r": "m冖"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "2",
+    "jp": "冖"
+  }
+}

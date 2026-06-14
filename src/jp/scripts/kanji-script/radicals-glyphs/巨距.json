@@ -1,0 +1,17 @@
+{
+  "_id": "r1se55njz0b",
+  "name": "巨距",
+  "order": "4.3.0.4.0",
+  "params": {
+    "_g": "距",
+    "_r": "m巨"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "5",
+    "jp": "巨"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "_id": "vdxroxi9ums",
+  "name": "咸減",
+  "order": "3.2.7.0.9",
+  "params": {
+    "_1": "口減",
+    "_g": "減",
+    "_r": "m咸"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "9",
+    "jp": "咸"
+  }
+}

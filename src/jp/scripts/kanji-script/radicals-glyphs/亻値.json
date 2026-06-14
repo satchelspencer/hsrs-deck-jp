@@ -1,0 +1,18 @@
+{
+  "_id": "p9a7lk3pq7z",
+  "desc": "variant of 人",
+  "name": "亻値",
+  "order": "2.2.7.9.9",
+  "params": {
+    "_g": "値",
+    "_r": "m亻"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "2",
+    "jp": "亻"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "_id": "7pk5ymucmx5",
+  "desc": "variant of 手",
+  "name": "扌揃",
+  "order": "4.9.5.5.0",
+  "params": {
+    "_g": "揃",
+    "_r": "m扌"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "扌"
+  }
+}

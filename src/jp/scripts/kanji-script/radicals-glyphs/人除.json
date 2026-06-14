@@ -1,0 +1,17 @@
+{
+  "_id": "wcrhfeyxoio",
+  "name": "人除",
+  "order": "1.9.1.3.5",
+  "params": {
+    "_g": "除",
+    "_r": "m人"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "2",
+    "jp": "人"
+  }
+}

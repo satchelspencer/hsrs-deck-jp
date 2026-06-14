@@ -1,0 +1,17 @@
+{
+  "_id": "jmgb7tvma61",
+  "name": "r六",
+  "order": "1.3.6.9.8.1",
+  "params": {
+    "_g": "六",
+    "_r": "m六"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "六"
+  }
+}

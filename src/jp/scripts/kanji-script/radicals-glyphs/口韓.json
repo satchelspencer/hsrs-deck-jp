@@ -1,0 +1,17 @@
+{
+  "_id": "6y3wxqoqe2u",
+  "name": "口韓",
+  "order": "1.9.0.6.2",
+  "params": {
+    "_g": "韓",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "12",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

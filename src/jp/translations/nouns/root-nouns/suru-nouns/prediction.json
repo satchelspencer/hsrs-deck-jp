@@ -4,7 +4,9 @@
   "order": "4",
   "parents": [
     "suru-nouns",
-    "do-to-subclause"
+    "do-to-subclause",
+    "u予",
+    "u想"
   ],
   "props": {
     "_v": "predict",

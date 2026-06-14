@@ -1,0 +1,17 @@
+{
+  "_id": "sphyvggmcm7",
+  "name": "雨零",
+  "order": "2.9.8.6.7",
+  "params": {
+    "_g": "零",
+    "_r": "m雨"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "8",
+    "jp": "雨"
+  }
+}

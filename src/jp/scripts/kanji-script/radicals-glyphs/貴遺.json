@@ -1,0 +1,19 @@
+{
+  "_id": "ly4txjavwct",
+  "name": "貴遺",
+  "order": "4.2.6.2.4",
+  "params": {
+    "_1": "中遺",
+    "_2": "貝遺",
+    "_g": "遺",
+    "_r": "m貴"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "12",
+    "jp": "貴"
+  }
+}

@@ -5,7 +5,9 @@
   "order": "4",
   "parents": [
     "activities",
-    "events"
+    "events",
+    "u注",
+    "u射"
   ],
   "props": {
     "en": "injection",

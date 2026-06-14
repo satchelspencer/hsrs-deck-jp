@@ -1,0 +1,15 @@
+{
+  "_id": "ycem63su6m4",
+  "name": "猫",
+  "order": "1.6.9.5.7",
+  "params": {
+    "_wd": "u猫"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "猫",
+    "_st": "CwNNJBRjAAEAAoECQx4dGCQLLQJNExNjHBgSVQZIA00fL2MAAQACAAJjhAmJD5MYBE0qIGMDAAUABwBjDIEdgymEYwIABAAGAANNNxJjAQECAgIDQzofOyk7LQNNUBFjAQEBAgEDY4ILgg-EGQRNLzRjAQEBAgIEYwEJAhQDIGMAAgAEAAYFTTI2Yw2BGYMkg2MEAAYBBgVjgQeCFIQfYwACgQSBBgNNRDZjAQEBAgEDYwAIABkAIAJNM0ZjBYEjgiaCAk01WmMKgReBIoE"
+  }
+}

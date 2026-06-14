@@ -1,0 +1,17 @@
+{
+  "_id": "4c4fsacw306",
+  "name": "r功",
+  "order": "2.2.1.6.8.1",
+  "params": {
+    "_g": "功",
+    "_r": "m功"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "功"
+  }
+}

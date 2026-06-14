@@ -1,0 +1,17 @@
+{
+  "_id": "wlgr5dw5don",
+  "name": "禾科",
+  "order": "3.9.8.5.9",
+  "params": {
+    "_g": "科",
+    "_r": "m禾"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "禾"
+  }
+}

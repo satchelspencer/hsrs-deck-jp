@@ -1,0 +1,15 @@
+{
+  "_id": "v2fa99339gc",
+  "name": "庫",
+  "order": "2.9.1.8.6",
+  "params": {
+    "_wd": "u庫"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "庫",
+    "_st": "CgNNNgpjAQECAwIEYwABAAQACARNFxljAgEFAQcBYxGBJ4Q1hWMDAAUABgEDTRoaYwEBAQIBA2OBFIMqkjgETSYlYwEAAwAFAGMLgRiDI4RjAgAEAAUABE0lMGMBAQICAgNjAQQBCgIRYwABAAMBBQVNJzFjC4EbgyWEYwMABAAEA2MABIIKhBFjAAGBA4EEAk0qO2MKgRmCJIMCTStGYwuBFYIggwRNHFNjAwEGAQkAQzZSSVBUT2MDAAUACAEETTkbYwEBAgMCBGMAAQAsAD5jAAMABgAH"
+  }
+}

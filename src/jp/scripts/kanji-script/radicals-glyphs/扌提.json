@@ -1,0 +1,18 @@
+{
+  "_id": "pu5vbqareb2",
+  "desc": "variant of 手",
+  "name": "扌提",
+  "order": "3.4.3.3.1",
+  "params": {
+    "_g": "提",
+    "_r": "m扌"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "扌"
+  }
+}

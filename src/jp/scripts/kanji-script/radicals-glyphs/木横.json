@@ -1,0 +1,17 @@
+{
+  "_id": "3ivxpshdxzt",
+  "name": "木横",
+  "order": "2.9.4.0.7",
+  "params": {
+    "_g": "横",
+    "_r": "m木"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "木"
+  }
+}

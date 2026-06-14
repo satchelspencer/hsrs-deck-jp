@@ -1,0 +1,14 @@
+{
+  "_id": "2e8ilivysn8",
+  "name": "ふ",
+  "params": {
+    "_kn": "hiragana-fu"
+  },
+  "parents": [
+    "hiragana-glyphs"
+  ],
+  "props": {
+    "_st": "BANNKxBjBAMIBQ0GYwoBBAOCBgNNLC9jAgUICQ4SYwsNAB6TFgNNEUljAQQCCAUKYwEBAIMNiQNNUD5jBQMKBwsJYwcJAAWFBw",
+    "jp": "ふ"
+  }
+}

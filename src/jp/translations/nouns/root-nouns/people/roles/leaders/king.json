@@ -4,7 +4,8 @@
   "name": "king",
   "order": "4",
   "parents": [
-    "leaders"
+    "leaders",
+    "u王"
   ],
   "props": {
     "en": "king",

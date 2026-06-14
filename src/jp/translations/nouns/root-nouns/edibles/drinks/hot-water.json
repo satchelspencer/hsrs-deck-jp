@@ -4,7 +4,8 @@
   "order": "3",
   "parents": [
     "drinks",
-    "heated-edibles"
+    "heated-edibles",
+    "u湯"
   ],
   "props": {
     "en": "hot water",

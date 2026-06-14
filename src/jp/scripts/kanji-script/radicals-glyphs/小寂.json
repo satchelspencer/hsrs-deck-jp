@@ -1,0 +1,17 @@
+{
+  "_id": "ev37cqfvime",
+  "name": "小寂",
+  "order": "3.9.1.3.5",
+  "params": {
+    "_g": "寂",
+    "_r": "m小"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "3",
+    "jp": "小"
+  }
+}

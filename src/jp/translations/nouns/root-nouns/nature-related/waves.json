@@ -3,7 +3,8 @@
   "name": "waves",
   "order": "4",
   "parents": [
-    "nature-related"
+    "nature-related",
+    "u波"
   ],
   "props": {
     "en": "waves",

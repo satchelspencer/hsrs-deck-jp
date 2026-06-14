@@ -4,7 +4,8 @@
   "order": "1",
   "parents": [
     "animals",
-    "hiki-countable"
+    "hiki-countable",
+    "u犬"
   ],
   "props": {
     "en": "dog",

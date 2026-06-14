@@ -1,0 +1,18 @@
+{
+  "_id": "7bcxf30p0es",
+  "name": "辰賑",
+  "order": "1.4.7.9.8",
+  "params": {
+    "_1": "厂賑",
+    "_g": "賑",
+    "_r": "m辰"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "7",
+    "jp": "辰"
+  }
+}

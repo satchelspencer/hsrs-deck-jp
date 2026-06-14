@@ -4,7 +4,9 @@
   "name": "auditorium",
   "order": "3",
   "parents": [
-    "spaces"
+    "spaces",
+    "u講",
+    "u堂"
   ],
   "props": {
     "en": "auditorium",

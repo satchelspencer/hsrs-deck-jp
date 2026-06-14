@@ -1,0 +1,17 @@
+{
+  "_id": "aybajgr6hsf",
+  "name": "口館",
+  "order": "2.9.7.7.5",
+  "params": {
+    "_g": "館",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "12",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

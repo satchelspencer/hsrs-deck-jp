@@ -4,7 +4,8 @@
   "name": "light",
   "order": "3",
   "parents": [
-    "seeables"
+    "seeables",
+    "u光"
   ],
   "props": {
     "en": "light",

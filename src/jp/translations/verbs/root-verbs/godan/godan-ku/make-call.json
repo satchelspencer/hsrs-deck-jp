@@ -6,7 +6,8 @@
   "parents": [
     "godan-ku",
     "animals-do",
-    "te-iru-verbs-continuous"
+    "te-iru-verbs-continuous",
+    "u鳴"
   ],
   "props": {
     "_pg": "making animal call",

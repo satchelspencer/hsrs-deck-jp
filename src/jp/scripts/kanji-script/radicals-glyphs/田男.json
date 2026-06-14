@@ -1,0 +1,17 @@
+{
+  "_id": "80gj47rzl89",
+  "name": "田男",
+  "order": "1.9.3.6.2",
+  "params": {
+    "_g": "男",
+    "_r": "m田"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "田"
+  }
+}

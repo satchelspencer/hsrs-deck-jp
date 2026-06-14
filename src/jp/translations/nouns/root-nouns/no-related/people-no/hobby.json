@@ -3,7 +3,9 @@
   "name": "hobby",
   "order": "3",
   "parents": [
-    "people-no"
+    "people-no",
+    "u趣",
+    "u味"
   ],
   "props": {
     "en": "hobby",

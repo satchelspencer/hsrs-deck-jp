@@ -1,0 +1,17 @@
+{
+  "_id": "r0o7mjl3bky",
+  "name": "土倒",
+  "order": "3.5.2.1.7",
+  "params": {
+    "_g": "倒",
+    "_r": "m土"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "3",
+    "jp": "土"
+  }
+}

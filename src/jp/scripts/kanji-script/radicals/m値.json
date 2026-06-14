@@ -1,0 +1,10 @@
+{
+  "_id": "33pzz5wiqm5",
+  "name": "m値",
+  "parents": [
+    "radicals"
+  ],
+  "props": {
+    "_m": "price, cost, value"
+  }
+}

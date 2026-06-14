@@ -6,7 +6,8 @@
   "parents": [
     "godan-ru",
     "openables-do",
-    "te-iru-verbs-state"
+    "te-iru-verbs-state",
+    "u閉"
   ],
   "props": {
     "_st": "closed",

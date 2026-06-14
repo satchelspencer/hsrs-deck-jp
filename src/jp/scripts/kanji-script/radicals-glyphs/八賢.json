@@ -1,0 +1,17 @@
+{
+  "_id": "pg0635jf4ae",
+  "name": "八賢",
+  "order": "4.3.1.8.2",
+  "params": {
+    "_g": "賢",
+    "_r": "m八"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "15",
+    "_sl": "2",
+    "jp": "八"
+  }
+}

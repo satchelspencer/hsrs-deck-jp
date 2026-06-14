@@ -1,0 +1,14 @@
+{
+  "_id": "lrk9sf9kgsb",
+  "name": "kanji-strokes",
+  "order": "2",
+  "params": {
+    "_wd": "kanji-uses"
+  },
+  "parents": [
+    "kanji-script"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

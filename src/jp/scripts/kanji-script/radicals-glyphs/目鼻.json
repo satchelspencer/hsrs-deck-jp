@@ -1,0 +1,17 @@
+{
+  "_id": "b87srgd3xi8",
+  "name": "目鼻",
+  "order": "2.9.0.4.2",
+  "params": {
+    "_g": "鼻",
+    "_r": "m目"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "2",
+    "_sl": "5",
+    "jp": "目"
+  }
+}

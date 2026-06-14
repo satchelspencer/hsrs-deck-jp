@@ -3,7 +3,9 @@
   "name": "english",
   "order": "1",
   "parents": [
-    "languages"
+    "languages",
+    "u英",
+    "u語"
   ],
   "props": {
     "en": "english",

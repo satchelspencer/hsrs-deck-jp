@@ -1,0 +1,17 @@
+{
+  "_id": "9d8cgv5xu17",
+  "name": "立職",
+  "order": "3.9.0.4.3",
+  "params": {
+    "_g": "職",
+    "_r": "m立"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "5",
+    "jp": "立"
+  }
+}

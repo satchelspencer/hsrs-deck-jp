@@ -1,0 +1,17 @@
+{
+  "_id": "mca515q9dfm",
+  "name": "朋崩",
+  "order": "4.4.0.1.6",
+  "params": {
+    "_g": "崩",
+    "_r": "m朋"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "8",
+    "jp": "朋"
+  }
+}

@@ -3,7 +3,8 @@
   "name": "white",
   "order": "1",
   "parents": [
-    "color-adjs"
+    "color-adjs",
+    "u白"
   ],
   "props": {
     "en": "white",

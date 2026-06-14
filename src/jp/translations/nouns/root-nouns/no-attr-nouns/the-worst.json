@@ -4,7 +4,9 @@
   "name": "the-worst",
   "order": "4",
   "parents": [
-    "no-attr-nouns"
+    "no-attr-nouns",
+    "u最",
+    "u悪"
   ],
   "props": {
     "_at": "worst",

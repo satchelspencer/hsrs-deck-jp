@@ -3,7 +3,9 @@
   "name": "barber",
   "order": "3",
   "parents": [
-    "roles"
+    "roles",
+    "u床",
+    "u屋"
   ],
   "props": {
     "en": "barber",

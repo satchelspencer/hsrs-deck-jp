@@ -1,0 +1,18 @@
+{
+  "_id": "rc64kerubme",
+  "desc": "variant of 火",
+  "name": "灬黒",
+  "order": "1.4.2.1.2",
+  "params": {
+    "_g": "黒",
+    "_r": "m灬"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "4",
+    "jp": "灬"
+  }
+}

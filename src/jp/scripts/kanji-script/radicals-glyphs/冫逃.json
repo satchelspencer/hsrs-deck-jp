@@ -1,0 +1,18 @@
+{
+  "_id": "zyio77chd9c",
+  "desc": "variant of 氷",
+  "name": "冫逃",
+  "order": "3.4.1.2.9",
+  "params": {
+    "_g": "逃",
+    "_r": "m冫"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "2",
+    "_sl": "2",
+    "jp": "冫"
+  }
+}

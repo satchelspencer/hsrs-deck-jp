@@ -1,0 +1,17 @@
+{
+  "_id": "5fgo63vja50",
+  "name": "土室",
+  "order": "2.9.4.0.4",
+  "params": {
+    "_g": "室",
+    "_r": "m土"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "3",
+    "jp": "土"
+  }
+}

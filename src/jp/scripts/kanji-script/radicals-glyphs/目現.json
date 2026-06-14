@@ -1,0 +1,17 @@
+{
+  "_id": "q1v15a2z48z",
+  "name": "目現",
+  "order": "1.9.7.2.1",
+  "params": {
+    "_g": "現",
+    "_r": "m目"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "5",
+    "jp": "目"
+  }
+}

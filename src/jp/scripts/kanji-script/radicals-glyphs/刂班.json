@@ -1,0 +1,18 @@
+{
+  "_id": "jjprv7p1tc7",
+  "desc": "variant of 刀",
+  "name": "刂班",
+  "order": "4.3.8.9.0",
+  "params": {
+    "_g": "班",
+    "_r": "m刂"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "2",
+    "jp": "刂"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "b58v0c1mnn0",
+  "name": "厂励",
+  "order": "3.9.4.0.8",
+  "params": {
+    "_g": "励",
+    "_r": "m厂"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "2",
+    "jp": "厂"
+  }
+}

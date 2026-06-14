@@ -1,0 +1,17 @@
+{
+  "_id": "qtlh5rsaz0a",
+  "name": "冊論",
+  "order": "4.4.2.9.4",
+  "params": {
+    "_g": "論",
+    "_r": "m冊"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "11",
+    "_sl": "5",
+    "jp": "冊"
+  }
+}

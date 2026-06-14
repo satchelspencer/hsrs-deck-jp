@@ -1,0 +1,17 @@
+{
+  "_id": "6cl6d4rla8r",
+  "name": "千話",
+  "order": "1.2.9.6.7",
+  "params": {
+    "_g": "話",
+    "_r": "m千"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "3",
+    "jp": "千"
+  }
+}

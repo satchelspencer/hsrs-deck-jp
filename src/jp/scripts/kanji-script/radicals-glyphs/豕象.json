@@ -1,0 +1,17 @@
+{
+  "_id": "phbq7bgtr08",
+  "name": "豕象",
+  "order": "4.2.5.3.4",
+  "params": {
+    "_g": "象",
+    "_r": "m豕"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "7",
+    "jp": "豕"
+  }
+}

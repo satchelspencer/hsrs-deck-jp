@@ -1,0 +1,17 @@
+{
+  "_id": "35q9baweoco",
+  "name": "弔第",
+  "order": "4.3.7.1.9",
+  "params": {
+    "_g": "第",
+    "_r": "m弔"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "4",
+    "jp": "弔"
+  }
+}

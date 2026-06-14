@@ -1,0 +1,18 @@
+{
+  "_id": "9tvkc1ms6qv",
+  "desc": "variant of 网",
+  "name": "罒寧",
+  "order": "3.2.6.5.7",
+  "params": {
+    "_g": "寧",
+    "_r": "m罒"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "5",
+    "jp": "罒"
+  }
+}

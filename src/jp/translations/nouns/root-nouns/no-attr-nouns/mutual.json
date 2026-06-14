@@ -4,7 +4,8 @@
   "name": "mutual",
   "order": "4",
   "parents": [
-    "no-attr-nouns"
+    "no-attr-nouns",
+    "u互"
   ],
   "props": {
     "en": "mutual",

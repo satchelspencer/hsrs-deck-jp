@@ -1,0 +1,17 @@
+{
+  "_id": "v3i1hj5jfsy",
+  "name": "八供",
+  "order": "2.4.9.3.1",
+  "params": {
+    "_g": "供",
+    "_r": "m八"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "2",
+    "jp": "八"
+  }
+}

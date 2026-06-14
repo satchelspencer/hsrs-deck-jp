@@ -5,7 +5,9 @@
   "order": "4",
   "parents": [
     "suru-nouns",
-    "people-do"
+    "people-do",
+    "u自",
+    "u覚"
   ],
   "props": {
     "_v": "be aware of",

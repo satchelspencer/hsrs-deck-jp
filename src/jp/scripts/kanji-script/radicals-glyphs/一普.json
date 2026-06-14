@@ -1,0 +1,17 @@
+{
+  "_id": "1l94mh5rhj3",
+  "name": "一普",
+  "order": "3.6.9.2.9",
+  "params": {
+    "_g": "普",
+    "_r": "m一"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "3",
+    "_sl": "1",
+    "jp": "一"
+  }
+}

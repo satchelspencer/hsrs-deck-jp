@@ -4,7 +4,9 @@
   "name": "flashy",
   "order": "4",
   "parents": [
-    "na-attributive"
+    "na-attributive",
+    "u派",
+    "u手"
   ],
   "props": {
     "en": "flashy",

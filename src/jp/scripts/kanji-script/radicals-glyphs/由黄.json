@@ -1,0 +1,17 @@
+{
+  "_id": "de2sv686m5p",
+  "name": "由黄",
+  "order": "2.5.4.2.0",
+  "params": {
+    "_g": "黄",
+    "_r": "m由"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "5",
+    "jp": "由"
+  }
+}

@@ -3,7 +3,9 @@
   "name": "week-before-last",
   "order": "2",
   "parents": [
-    "wa-past-only-times"
+    "wa-past-only-times",
+    "u先",
+    "u週"
   ],
   "props": {
     "en": "week before last",

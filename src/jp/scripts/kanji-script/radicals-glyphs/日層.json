@@ -1,0 +1,18 @@
+{
+  "_id": "rrz8t1bvzud",
+  "desc": "variant of 曰",
+  "name": "日層",
+  "order": "3.9.5.0.2",
+  "params": {
+    "_g": "層",
+    "_r": "m日"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "11",
+    "_sl": "4",
+    "jp": "日"
+  }
+}

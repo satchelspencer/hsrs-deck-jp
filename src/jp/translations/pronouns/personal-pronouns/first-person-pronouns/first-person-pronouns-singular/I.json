@@ -5,7 +5,8 @@
   "name": "I",
   "order": "1",
   "parents": [
-    "first-person-pronouns-singular"
+    "first-person-pronouns-singular",
+    "u私"
   ],
   "props": {
     "en": "I",

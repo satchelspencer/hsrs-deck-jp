@@ -1,0 +1,17 @@
+{
+  "_id": "hdn8vlfmxlo",
+  "name": "天関",
+  "order": "3.3.9.6.0",
+  "params": {
+    "_g": "関",
+    "_r": "m天"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "11",
+    "_sl": "4",
+    "jp": "天"
+  }
+}

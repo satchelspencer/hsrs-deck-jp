@@ -1,0 +1,18 @@
+{
+  "_id": "tpf66qs7lqg",
+  "desc": "variant of 攴",
+  "name": "攵数",
+  "order": "2.4.1.4.4",
+  "params": {
+    "_g": "数",
+    "_r": "m攵"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "10",
+    "_sl": "4",
+    "jp": "攵"
+  }
+}

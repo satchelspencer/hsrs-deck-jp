@@ -1,0 +1,17 @@
+{
+  "_id": "qute4dg090g",
+  "name": "可椅",
+  "order": "2.9.1.4.1",
+  "params": {
+    "_g": "椅",
+    "_r": "m可"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "5",
+    "jp": "可"
+  }
+}

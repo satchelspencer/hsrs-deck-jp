@@ -4,7 +4,9 @@
   "name": "proper",
   "order": "4",
   "parents": [
-    "no-attr-nouns"
+    "no-attr-nouns",
+    "u当",
+    "u然"
   ],
   "props": {
     "en": "proper",

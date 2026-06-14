@@ -1,0 +1,17 @@
+{
+  "_id": "hzkugmippeh",
+  "name": "口噛",
+  "order": "3.9.6.5.0",
+  "params": {
+    "_g": "噛",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

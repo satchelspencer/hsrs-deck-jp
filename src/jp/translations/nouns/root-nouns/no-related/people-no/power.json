@@ -4,7 +4,8 @@
   "name": "power",
   "order": "3",
   "parents": [
-    "people-no"
+    "people-no",
+    "u力"
   ],
   "props": {
     "en": "power",

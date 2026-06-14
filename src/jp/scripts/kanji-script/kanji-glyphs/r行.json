@@ -1,0 +1,17 @@
+{
+  "_id": "ogd4pe2goyu",
+  "name": "r行",
+  "order": "1.1.8.7.7.1",
+  "params": {
+    "_g": "行",
+    "_r": "m行"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "行"
+  }
+}

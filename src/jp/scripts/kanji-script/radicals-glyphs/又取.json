@@ -1,0 +1,17 @@
+{
+  "_id": "eo21e9l60wz",
+  "name": "又取",
+  "order": "2.9.0.3.7",
+  "params": {
+    "_g": "取",
+    "_r": "m又"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "2",
+    "jp": "又"
+  }
+}

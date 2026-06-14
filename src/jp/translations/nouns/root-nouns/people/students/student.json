@@ -4,7 +4,9 @@
   "order": "1",
   "parents": [
     "students",
-    "school-no"
+    "school-no",
+    "u学",
+    "u生"
   ],
   "props": {
     "en": "student",

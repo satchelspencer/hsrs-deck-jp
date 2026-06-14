@@ -1,0 +1,17 @@
+{
+  "_id": "czo0gwp1fsl",
+  "name": "r反",
+  "order": "1.9.0.1.0.1",
+  "params": {
+    "_g": "反",
+    "_r": "m反"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "反"
+  }
+}

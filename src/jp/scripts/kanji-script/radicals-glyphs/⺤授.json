@@ -1,0 +1,18 @@
+{
+  "_id": "03alpzws9v7",
+  "desc": "variant of 爪",
+  "name": "⺤授",
+  "order": "1.5.3.6.6",
+  "params": {
+    "_g": "授",
+    "_r": "m⺤"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "4",
+    "jp": "⺤"
+  }
+}

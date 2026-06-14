@@ -1,0 +1,15 @@
+{
+  "_id": "hovvhtynysx",
+  "name": "火",
+  "order": "1.9.3.0.5",
+  "params": {
+    "_wd": "u火"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "火",
+    "_st": "BAJNGCJjAwMJDQoSA01TG2MBAQADAARjggWHDI0RA001DmMBAQIDAgVDNkUoUBVcA001MmMMDhkcIiRjAwIFBAgF"
+  }
+}

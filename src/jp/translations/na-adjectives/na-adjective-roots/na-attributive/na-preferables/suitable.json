@@ -4,7 +4,9 @@
   "name": "suitable",
   "order": "3",
   "parents": [
-    "na-preferables"
+    "na-preferables",
+    "u適",
+    "u当"
   ],
   "props": {
     "_ad": "suitably",

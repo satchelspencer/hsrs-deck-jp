@@ -1,0 +1,18 @@
+{
+  "_id": "trb0id4tctx",
+  "desc": "variant of 阜",
+  "name": "⻖障",
+  "order": "3.6.1.5.6",
+  "params": {
+    "_g": "障",
+    "_r": "m⻖"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "⻖"
+  }
+}

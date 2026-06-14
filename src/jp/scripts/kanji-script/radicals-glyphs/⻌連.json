@@ -1,0 +1,18 @@
+{
+  "_id": "q66tsatwbpv",
+  "desc": "variant of 辶",
+  "name": "⻌連",
+  "order": "3.9.2.6.5",
+  "params": {
+    "_g": "連",
+    "_r": "m⻌"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "3",
+    "jp": "⻌"
+  }
+}

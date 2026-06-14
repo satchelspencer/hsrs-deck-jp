@@ -1,0 +1,17 @@
+{
+  "_id": "tn789ofw657",
+  "name": "口璧",
+  "order": "4.9.1.8.5",
+  "params": {
+    "_g": "璧",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

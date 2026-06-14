@@ -1,0 +1,18 @@
+{
+  "_id": "orivzaj3slp",
+  "desc": "variant of 水",
+  "name": "氵満",
+  "order": "4.9.1.5.1",
+  "params": {
+    "_g": "満",
+    "_r": "m氵"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "氵"
+  }
+}

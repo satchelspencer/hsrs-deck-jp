@@ -4,7 +4,9 @@
   "name": "coast",
   "order": "3",
   "parents": [
-    "places"
+    "places",
+    "u海",
+    "u岸"
   ],
   "props": {
     "en": "coast",

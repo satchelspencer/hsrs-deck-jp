@@ -1,0 +1,17 @@
+{
+  "_id": "56gva4dm2g7",
+  "name": "冖読",
+  "order": "1.4.8.3.6",
+  "params": {
+    "_g": "読",
+    "_r": "m冖"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "11",
+    "_sl": "2",
+    "jp": "冖"
+  }
+}

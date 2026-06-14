@@ -1,0 +1,17 @@
+{
+  "_id": "ku8saq41lum",
+  "name": "r氷",
+  "order": "2.5.5.3.1.1",
+  "params": {
+    "_g": "氷",
+    "_r": "m氷"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "氷"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "1gi0um1lm2r",
+  "name": "冖掃",
+  "order": "1.9.1.3.5",
+  "params": {
+    "_g": "掃",
+    "_r": "m冖"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "2",
+    "jp": "冖"
+  }
+}

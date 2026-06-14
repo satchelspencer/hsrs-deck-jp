@@ -1,0 +1,18 @@
+{
+  "_id": "s7fvnulm1gv",
+  "desc": "variant of 曰",
+  "name": "日暖",
+  "order": "1.4.3.0.7",
+  "params": {
+    "_g": "暖",
+    "_r": "m日"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "日"
+  }
+}

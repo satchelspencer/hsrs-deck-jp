@@ -1,0 +1,18 @@
+{
+  "_id": "sdco539nno5",
+  "desc": "variant of 人",
+  "name": "亻携",
+  "order": "2.9.4.3.1",
+  "params": {
+    "_g": "携",
+    "_r": "m亻"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "2",
+    "jp": "亻"
+  }
+}

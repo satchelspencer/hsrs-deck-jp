@@ -3,7 +3,9 @@
   "name": "limited-express-train",
   "order": "4",
   "parents": [
-    "trains"
+    "trains",
+    "u特",
+    "u急"
   ],
   "props": {
     "en": "limited express train",

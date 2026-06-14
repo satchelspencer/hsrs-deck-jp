@@ -1,0 +1,17 @@
+{
+  "_id": "ox34swvwm59",
+  "name": "金鉄",
+  "order": "2.9.0.7.3",
+  "params": {
+    "_g": "鉄",
+    "_r": "m金"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "8",
+    "jp": "金"
+  }
+}

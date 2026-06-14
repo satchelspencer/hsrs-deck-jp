@@ -1,0 +1,17 @@
+{
+  "_id": "99w1yo8n9ma",
+  "name": "廾戒",
+  "order": "3.5.1.0.7",
+  "params": {
+    "_g": "戒",
+    "_r": "m廾"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "2",
+    "_sl": "3",
+    "jp": "廾"
+  }
+}

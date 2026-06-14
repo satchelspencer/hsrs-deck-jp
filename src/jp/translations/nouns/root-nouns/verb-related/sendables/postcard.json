@@ -4,7 +4,9 @@
   "name": "postcard",
   "order": "2",
   "parents": [
-    "sendables"
+    "sendables",
+    "u葉",
+    "u書"
   ],
   "props": {
     "en": "postcard",

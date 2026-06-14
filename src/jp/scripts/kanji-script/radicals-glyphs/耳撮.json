@@ -1,0 +1,17 @@
+{
+  "_id": "d8d8c6geldz",
+  "name": "耳撮",
+  "order": "3.6.8.7.8",
+  "params": {
+    "_g": "撮",
+    "_r": "m耳"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "6",
+    "jp": "耳"
+  }
+}

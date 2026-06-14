@@ -1,0 +1,17 @@
+{
+  "_id": "7csdunv8mlh",
+  "name": "犬燃",
+  "order": "4.4.0.8.1",
+  "params": {
+    "_g": "燃",
+    "_r": "m犬"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "9",
+    "_sl": "4",
+    "jp": "犬"
+  }
+}

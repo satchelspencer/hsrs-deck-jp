@@ -1,0 +1,17 @@
+{
+  "_id": "inynxt7bap4",
+  "name": "土園",
+  "order": "1.9.0.1.5",
+  "params": {
+    "_g": "園",
+    "_r": "m土"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "3",
+    "_sl": "3",
+    "jp": "土"
+  }
+}

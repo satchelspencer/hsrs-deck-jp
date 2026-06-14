@@ -3,7 +3,9 @@
   "name": "appropriate",
   "order": "4",
   "parents": [
-    "na-attributive"
+    "na-attributive",
+    "u適",
+    "u切"
   ],
   "props": {
     "en": "appropriate",

@@ -4,7 +4,9 @@
   "name": "on-track",
   "order": "4",
   "parents": [
-    "na-attributive"
+    "na-attributive",
+    "u順",
+    "u調"
   ],
   "props": {
     "_ad": "smoothly",

@@ -1,0 +1,18 @@
+{
+  "_id": "p8sq7sim3cf",
+  "desc": "variant of 手",
+  "name": "扌拠",
+  "order": "4.2.6.6.1",
+  "params": {
+    "_g": "拠",
+    "_r": "m扌"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "扌"
+  }
+}

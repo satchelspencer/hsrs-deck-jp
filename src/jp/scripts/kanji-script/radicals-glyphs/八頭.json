@@ -1,0 +1,17 @@
+{
+  "_id": "5qqr9v8p4o4",
+  "name": "八頭",
+  "order": "1.6.3.7.1",
+  "params": {
+    "_g": "頭",
+    "_r": "m八"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "15",
+    "_sl": "2",
+    "jp": "八"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "1rg1ex8z3cf",
+  "name": "口喧",
+  "order": "3.9.7.3.6",
+  "params": {
+    "_g": "喧",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

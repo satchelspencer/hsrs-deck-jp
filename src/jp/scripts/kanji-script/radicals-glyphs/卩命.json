@@ -1,0 +1,18 @@
+{
+  "_id": "8cr56nksa1g",
+  "desc": "variant of 刀",
+  "name": "卩命",
+  "order": "3.6.8.4.7",
+  "params": {
+    "_g": "命",
+    "_r": "m卩"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "2",
+    "jp": "卩"
+  }
+}

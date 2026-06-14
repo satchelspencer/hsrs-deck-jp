@@ -1,0 +1,17 @@
+{
+  "_id": "7th7b1o0i3p",
+  "name": "口景",
+  "order": "3.4.1.6.1",
+  "params": {
+    "_g": "景",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

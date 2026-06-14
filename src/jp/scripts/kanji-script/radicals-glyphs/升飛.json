@@ -1,0 +1,17 @@
+{
+  "_id": "xden1txhv38",
+  "name": "升飛",
+  "order": "2.5.9.6.1",
+  "params": {
+    "_g": "飛",
+    "_r": "m升"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "4",
+    "jp": "升"
+  }
+}

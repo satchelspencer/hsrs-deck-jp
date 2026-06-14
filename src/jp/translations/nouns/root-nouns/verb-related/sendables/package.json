@@ -4,7 +4,9 @@
   "name": "package",
   "order": "2",
   "parents": [
-    "sendables"
+    "sendables",
+    "u荷",
+    "u物"
   ],
   "props": {
     "en": "package",

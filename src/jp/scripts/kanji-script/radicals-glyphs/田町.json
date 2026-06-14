@@ -1,0 +1,17 @@
+{
+  "_id": "k4bpqyvqain",
+  "name": "田町",
+  "order": "2.6.5.8.7",
+  "params": {
+    "_g": "町",
+    "_r": "m田"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "田"
+  }
+}

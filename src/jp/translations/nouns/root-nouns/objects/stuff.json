@@ -6,7 +6,8 @@
   "parents": [
     "objects",
     "products",
-    "thing-words"
+    "thing-words",
+    "u物"
   ],
   "props": {
     "en": "stuff",

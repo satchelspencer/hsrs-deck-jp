@@ -1,0 +1,17 @@
+{
+  "_id": "uv5xrtkhlpd",
+  "name": "心懸",
+  "order": "3.9.4.2.6",
+  "params": {
+    "_g": "懸",
+    "_r": "m心"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "17",
+    "_sl": "4",
+    "jp": "心"
+  }
+}

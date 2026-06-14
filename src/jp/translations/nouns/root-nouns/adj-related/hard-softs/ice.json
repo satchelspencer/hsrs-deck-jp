@@ -4,7 +4,8 @@
   "order": "2",
   "parents": [
     "hard-softs",
-    "ko-countable"
+    "ko-countable",
+    "u氷"
   ],
   "props": {
     "en": "ice",

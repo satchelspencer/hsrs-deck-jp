@@ -1,0 +1,17 @@
+{
+  "_id": "lw3h2gyg0uj",
+  "name": "二済",
+  "order": "3.4.5.9.1",
+  "params": {
+    "_g": "済",
+    "_r": "m二"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "9",
+    "_sl": "2",
+    "jp": "二"
+  }
+}

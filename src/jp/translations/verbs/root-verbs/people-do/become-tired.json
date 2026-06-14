@@ -6,7 +6,8 @@
   "parents": [
     "people-do",
     "te-iru-verbs-state",
-    "ichidan"
+    "ichidan",
+    "u疲"
   ],
   "props": {
     "_st": "tired",

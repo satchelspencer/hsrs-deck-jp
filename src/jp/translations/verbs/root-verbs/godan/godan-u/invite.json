@@ -6,7 +6,8 @@
   "parents": [
     "godan-u",
     "do-to-people",
-    "people-do-volitional"
+    "people-do-volitional",
+    "u誘"
   ],
   "props": {
     "en": "invite",

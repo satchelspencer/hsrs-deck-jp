@@ -1,0 +1,17 @@
+{
+  "_id": "i677mpozhnc",
+  "name": "心優",
+  "order": "1.2.6.6.8",
+  "params": {
+    "_g": "優",
+    "_r": "m心"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "11",
+    "_sl": "4",
+    "jp": "心"
+  }
+}

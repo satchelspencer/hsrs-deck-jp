@@ -1,0 +1,18 @@
+{
+  "_id": "g4lujqt32c8",
+  "desc": "variant of 曰",
+  "name": "日卓",
+  "order": "2.9.1.9.4",
+  "params": {
+    "_g": "卓",
+    "_r": "m日"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "3",
+    "_sl": "4",
+    "jp": "日"
+  }
+}

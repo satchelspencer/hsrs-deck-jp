@@ -1,0 +1,17 @@
+{
+  "_id": "96jx1zsq1a8",
+  "name": "三浅",
+  "order": "3.3.1.7.1",
+  "params": {
+    "_g": "浅",
+    "_r": "m三"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "3",
+    "jp": "三"
+  }
+}

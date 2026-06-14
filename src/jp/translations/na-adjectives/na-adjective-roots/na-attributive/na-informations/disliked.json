@@ -6,7 +6,8 @@
   "parents": [
     "na-informations",
     "na-preferables",
-    "na-people-do"
+    "na-people-do",
+    "u嫌"
   ],
   "props": {
     "en": "disliked",

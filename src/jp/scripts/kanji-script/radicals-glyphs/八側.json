@@ -1,0 +1,17 @@
+{
+  "_id": "ewex63path3",
+  "name": "八側",
+  "order": "2.6.2.6.2",
+  "params": {
+    "_g": "側",
+    "_r": "m八"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "2",
+    "jp": "八"
+  }
+}

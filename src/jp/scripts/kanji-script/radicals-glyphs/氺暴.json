@@ -1,0 +1,18 @@
+{
+  "_id": "8i1ct4j0n7p",
+  "desc": "variant of 水",
+  "name": "氺暴",
+  "order": "4.6.5.9.2",
+  "params": {
+    "_g": "暴",
+    "_r": "m氺"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "11",
+    "_sl": "5",
+    "jp": "氺"
+  }
+}

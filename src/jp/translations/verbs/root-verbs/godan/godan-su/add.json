@@ -5,7 +5,8 @@
   "order": "3",
   "parents": [
     "godan-su",
-    "do-to-quantities"
+    "do-to-quantities",
+    "u足"
   ],
   "props": {
     "en": "add",

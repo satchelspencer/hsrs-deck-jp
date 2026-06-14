@@ -1,0 +1,17 @@
+{
+  "_id": "guszm2an3ho",
+  "name": "尸尾",
+  "order": "3.9.5.0.5",
+  "params": {
+    "_g": "尾",
+    "_r": "m尸"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "尸"
+  }
+}

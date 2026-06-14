@@ -1,0 +1,18 @@
+{
+  "_id": "yed10jdbs8q",
+  "name": "酉配",
+  "order": "2.6.6.3.1",
+  "params": {
+    "_1": "一配",
+    "_g": "配",
+    "_r": "m酉"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "7",
+    "jp": "酉"
+  }
+}

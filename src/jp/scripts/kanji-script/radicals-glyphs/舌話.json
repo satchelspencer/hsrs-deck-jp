@@ -1,0 +1,18 @@
+{
+  "_id": "usswcdikcyi",
+  "name": "舌話",
+  "order": "1.2.9.6.7",
+  "params": {
+    "_1": "千話",
+    "_g": "話",
+    "_r": "m舌"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "6",
+    "jp": "舌"
+  }
+}

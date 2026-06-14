@@ -3,7 +3,8 @@
   "name": "next",
   "order": "3",
   "parents": [
-    "no-attr-nouns"
+    "no-attr-nouns",
+    "u次"
   ],
   "props": {
     "en": "next",

@@ -1,0 +1,17 @@
+{
+  "_id": "dtw707kc4e2",
+  "name": "力勉",
+  "order": "1.2.5.8.6",
+  "params": {
+    "_g": "勉",
+    "_r": "m力"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "9",
+    "_sl": "2",
+    "jp": "力"
+  }
+}

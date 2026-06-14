@@ -4,7 +4,9 @@
   "name": "cause",
   "order": "3",
   "parents": [
-    "informations"
+    "informations",
+    "u原",
+    "u因"
   ],
   "props": {
     "en": "cause",

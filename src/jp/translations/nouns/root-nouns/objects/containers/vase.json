@@ -3,7 +3,9 @@
   "name": "vase",
   "order": "3",
   "parents": [
-    "containers"
+    "containers",
+    "u花",
+    "u瓶"
   ],
   "props": {
     "en": "vase",

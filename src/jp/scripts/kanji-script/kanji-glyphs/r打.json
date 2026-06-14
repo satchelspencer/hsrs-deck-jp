@@ -1,0 +1,17 @@
+{
+  "_id": "f51jl52orq0",
+  "name": "r打",
+  "order": "3.6.8.6.6.1",
+  "params": {
+    "_g": "打",
+    "_r": "m打"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "打"
+  }
+}

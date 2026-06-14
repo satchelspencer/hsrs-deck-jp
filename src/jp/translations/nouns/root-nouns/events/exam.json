@@ -5,7 +5,9 @@
   "order": "3",
   "parents": [
     "events",
-    "takeonables"
+    "takeonables",
+    "u試",
+    "u験"
   ],
   "props": {
     "en": "exam",

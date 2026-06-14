@@ -1,0 +1,18 @@
+{
+  "_id": "5i7gkoe7ut7",
+  "desc": "variant of 八",
+  "name": "儿規",
+  "order": "3.4.5.1.1",
+  "params": {
+    "_g": "規",
+    "_r": "m儿"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "10",
+    "_sl": "2",
+    "jp": "儿"
+  }
+}

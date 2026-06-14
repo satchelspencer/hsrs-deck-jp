@@ -1,0 +1,17 @@
+{
+  "_id": "beo6cxhv9my",
+  "name": "r小",
+  "order": "1.2.5.8.0.1",
+  "params": {
+    "_g": "小",
+    "_r": "m小"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "小"
+  }
+}

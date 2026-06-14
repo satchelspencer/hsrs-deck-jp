@@ -1,0 +1,17 @@
+{
+  "_id": "ns23cfxx683",
+  "name": "宀案",
+  "order": "3.4.3.3.1",
+  "params": {
+    "_g": "案",
+    "_r": "m宀"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "宀"
+  }
+}

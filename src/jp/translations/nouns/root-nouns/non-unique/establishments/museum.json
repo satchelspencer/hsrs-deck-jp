@@ -4,7 +4,10 @@
   "order": "3",
   "parents": [
     "establishments",
-    "ken-buildings-countable"
+    "ken-buildings-countable",
+    "u博",
+    "u物",
+    "u館"
   ],
   "props": {
     "en": "museum",

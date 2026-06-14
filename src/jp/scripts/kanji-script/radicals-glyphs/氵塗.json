@@ -1,0 +1,18 @@
+{
+  "_id": "n6ttlhoo2hz",
+  "desc": "variant of 水",
+  "name": "氵塗",
+  "order": "3.2.5.8.7",
+  "params": {
+    "_g": "塗",
+    "_r": "m氵"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "氵"
+  }
+}

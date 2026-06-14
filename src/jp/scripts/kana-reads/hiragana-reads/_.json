@@ -1,0 +1,11 @@
+{
+  "_id": "mr0j3y0fknd",
+  "name": "hiragana-reads",
+  "order": "1.0",
+  "parents": [
+    "kana-reads"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

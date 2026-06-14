@@ -1,0 +1,18 @@
+{
+  "_id": "2141a29ddx5",
+  "desc": "variant of 辶",
+  "name": "⻌随",
+  "order": "4.9.4.2.5",
+  "params": {
+    "_g": "随",
+    "_r": "m⻌"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "10",
+    "_sl": "3",
+    "jp": "⻌"
+  }
+}

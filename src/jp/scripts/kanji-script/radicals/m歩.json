@@ -1,0 +1,10 @@
+{
+  "_id": "p1choe5b08l",
+  "name": "m歩",
+  "parents": [
+    "radicals"
+  ],
+  "props": {
+    "_m": "walk, counter for steps"
+  }
+}

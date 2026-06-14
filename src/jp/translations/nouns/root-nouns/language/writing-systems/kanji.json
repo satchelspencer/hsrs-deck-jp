@@ -5,7 +5,9 @@
   "order": "3",
   "parents": [
     "writing-systems",
-    "writeables"
+    "writeables",
+    "u漢",
+    "u字"
   ],
   "props": {
     "en": "kanji",

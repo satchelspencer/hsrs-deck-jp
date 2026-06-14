@@ -6,7 +6,9 @@
   "parents": [
     "quantities",
     "verb-adverbs",
-    "abstracts"
+    "abstracts",
+    "u半",
+    "u分"
   ],
   "props": {
     "_ad": "halfway",

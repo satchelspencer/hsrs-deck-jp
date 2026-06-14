@@ -1,0 +1,17 @@
+{
+  "_id": "prysb6gvw3t",
+  "name": "口舐",
+  "order": "4.9.5.6.7",
+  "params": {
+    "_g": "舐",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

@@ -4,7 +4,9 @@
   "name": "countryside",
   "order": "3",
   "parents": [
-    "places"
+    "places",
+    "u田",
+    "u舎"
   ],
   "props": {
     "en": "countryside",

@@ -1,0 +1,18 @@
+{
+  "_id": "wcwbaa6flq6",
+  "name": "r言",
+  "order": "1.2.8.7.3.1",
+  "params": {
+    "_1": "口言",
+    "_g": "言",
+    "_r": "m言"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "7",
+    "jp": "言"
+  }
+}

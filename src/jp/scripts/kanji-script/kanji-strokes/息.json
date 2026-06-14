@@ -1,0 +1,15 @@
+{
+  "_id": "dc8vdps3uan",
+  "name": "息",
+  "order": "1.9.6.8.5",
+  "params": {
+    "_wd": "u息"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "息",
+    "_st": "CgNNNgpjAAEAAoEDY4IEhQeKDARNJRpjAQEBAgEEYwACABkAI2MAAgADAAQFTSccYwmCF4QchGMDAAUBBQRjAAUAFwAhYwACAAMABAJNJyhjC4IXhCGFAk0nNWMKghWDIIUCTSdBYwiBF4MghAJNGFBjAASFC4gPA00gTkMsXTdkVGNjCAAJgwCJAk02SmMDBgYJCAUCTVRHYwYECQgKCw"
+  }
+}

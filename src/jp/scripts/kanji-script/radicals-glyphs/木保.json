@@ -1,0 +1,17 @@
+{
+  "_id": "3pup0csc56g",
+  "name": "木保",
+  "order": "3.9.1.1.2",
+  "params": {
+    "_g": "保",
+    "_r": "m木"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "4",
+    "jp": "木"
+  }
+}

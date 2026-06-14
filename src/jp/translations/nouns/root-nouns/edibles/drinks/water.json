@@ -5,7 +5,8 @@
   "order": "1",
   "parents": [
     "drinks",
-    "flowing"
+    "flowing",
+    "u水"
   ],
   "props": {
     "en": "water",

@@ -3,7 +3,8 @@
   "name": "frightful",
   "order": "4",
   "parents": [
-    "i-attributive-standard"
+    "i-attributive-standard",
+    "u恐"
   ],
   "props": {
     "en": "frightful",

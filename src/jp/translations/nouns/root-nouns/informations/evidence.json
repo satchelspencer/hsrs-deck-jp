@@ -3,7 +3,9 @@
   "name": "evidence",
   "order": "4",
   "parents": [
-    "informations"
+    "informations",
+    "u証",
+    "u拠"
   ],
   "props": {
     "en": "evidence",

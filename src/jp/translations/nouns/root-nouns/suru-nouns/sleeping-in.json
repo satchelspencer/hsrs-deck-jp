@@ -4,7 +4,9 @@
   "name": "sleeping-in",
   "order": "3",
   "parents": [
-    "suru-nouns"
+    "suru-nouns",
+    "u寝",
+    "u坊"
   ],
   "props": {
     "_v": "sleep in",

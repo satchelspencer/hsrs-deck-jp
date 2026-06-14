@@ -2,7 +2,8 @@
   "_id": "qf1ct3967sn",
   "name": "south",
   "parents": [
-    "cardinal-directions"
+    "cardinal-directions",
+    "u南"
   ],
   "props": {
     "en": "south",

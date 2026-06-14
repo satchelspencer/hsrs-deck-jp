@@ -1,0 +1,17 @@
+{
+  "_id": "088s1f1w1e2",
+  "name": "目眺",
+  "order": "4.9.9.7.3",
+  "params": {
+    "_g": "眺",
+    "_r": "m目"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "目"
+  }
+}

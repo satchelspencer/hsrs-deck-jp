@@ -1,0 +1,17 @@
+{
+  "_id": "aapoa8be8su",
+  "name": "口記",
+  "order": "3.2.1.2.2",
+  "params": {
+    "_g": "記",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

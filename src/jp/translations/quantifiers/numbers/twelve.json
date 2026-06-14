@@ -3,7 +3,9 @@
   "name": "twelve",
   "parents": [
     "numbers",
-    "month-numbers"
+    "month-numbers",
+    "u十",
+    "u二"
   ],
   "props": {
     "_fw": "１２",

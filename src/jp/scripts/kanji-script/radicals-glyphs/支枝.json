@@ -1,0 +1,17 @@
+{
+  "_id": "6wowx92bkte",
+  "name": "支枝",
+  "order": "4.9.1.5.6",
+  "params": {
+    "_g": "枝",
+    "_r": "m支"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "4",
+    "jp": "支"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "_id": "xr8w91belwy",
+  "desc": "variant of 母",
+  "name": "毋悔",
+  "order": "4.9.1.5.9",
+  "params": {
+    "_g": "悔",
+    "_r": "m毋"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "4",
+    "jp": "毋"
+  }
+}

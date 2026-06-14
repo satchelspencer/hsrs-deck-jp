@@ -2,7 +2,8 @@
   "_id": "874y8qbuyas",
   "name": "east",
   "parents": [
-    "cardinal-directions"
+    "cardinal-directions",
+    "u東"
   ],
   "props": {
     "en": "east",

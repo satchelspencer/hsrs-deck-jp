@@ -3,7 +3,10 @@
   "name": "chinese",
   "order": "2",
   "parents": [
-    "languages"
+    "languages",
+    "u中",
+    "u国",
+    "u語"
   ],
   "props": {
     "en": "chinese",

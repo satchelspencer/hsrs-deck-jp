@@ -1,0 +1,17 @@
+{
+  "_id": "1fwdjeqx76i",
+  "name": "彡髪",
+  "order": "1.9.0.6.6",
+  "params": {
+    "_g": "髪",
+    "_r": "m彡"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "3",
+    "jp": "彡"
+  }
+}

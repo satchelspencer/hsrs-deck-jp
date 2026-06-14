@@ -1,0 +1,17 @@
+{
+  "_id": "40vg2ks71ec",
+  "name": "勺約",
+  "order": "3.4.7.0.0",
+  "params": {
+    "_g": "約",
+    "_r": "m勺"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "3",
+    "jp": "勺"
+  }
+}

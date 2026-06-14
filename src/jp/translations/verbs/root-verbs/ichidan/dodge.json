@@ -4,7 +4,8 @@
   "name": "dodge",
   "order": "4",
   "parents": [
-    "ichidan"
+    "ichidan",
+    "u避"
   ],
   "props": {
     "en": "dodge",

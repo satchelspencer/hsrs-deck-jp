@@ -4,7 +4,9 @@
   "order": "2",
   "parents": [
     "kire-countable",
-    "foods"
+    "foods",
+    "u刺",
+    "u身"
   ],
   "props": {
     "en": "sashimi",

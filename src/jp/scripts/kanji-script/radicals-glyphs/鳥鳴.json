@@ -1,0 +1,18 @@
+{
+  "_id": "l9zldoo07eh",
+  "name": "鳥鳴",
+  "order": "3.5.3.7.4",
+  "params": {
+    "_1": "灬鳴",
+    "_g": "鳴",
+    "_r": "m鳥"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "11",
+    "jp": "鳥"
+  }
+}

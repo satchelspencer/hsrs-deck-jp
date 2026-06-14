@@ -5,7 +5,8 @@
   "name": "please",
   "order": "1",
   "parents": [
-    "fixed-phrases"
+    "fixed-phrases",
+    "u願"
   ],
   "props": {
     "en": "please",

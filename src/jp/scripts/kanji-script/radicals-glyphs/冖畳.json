@@ -1,0 +1,17 @@
+{
+  "_id": "6lm5a55i7kd",
+  "name": "冖畳",
+  "order": "3.9.0.9.1",
+  "params": {
+    "_g": "畳",
+    "_r": "m冖"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "2",
+    "jp": "冖"
+  }
+}

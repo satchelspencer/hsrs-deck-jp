@@ -1,0 +1,17 @@
+{
+  "_id": "ftvhlw3z38e",
+  "name": "r戸",
+  "order": "2.2.0.4.5.1",
+  "params": {
+    "_g": "戸",
+    "_r": "m戸"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "戸"
+  }
+}

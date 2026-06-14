@@ -1,0 +1,10 @@
+{
+  "_id": "nwm1y88izb8",
+  "name": "m班",
+  "parents": [
+    "radicals"
+  ],
+  "props": {
+    "_m": "squad, corps, unit, group"
+  }
+}

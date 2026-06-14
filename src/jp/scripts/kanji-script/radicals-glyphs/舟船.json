@@ -1,0 +1,17 @@
+{
+  "_id": "7jufolzrb9i",
+  "name": "舟船",
+  "order": "3.6.0.7.4",
+  "params": {
+    "_g": "船",
+    "_r": "m舟"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "舟"
+  }
+}

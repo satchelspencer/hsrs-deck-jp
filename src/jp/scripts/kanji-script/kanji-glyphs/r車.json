@@ -1,0 +1,17 @@
+{
+  "_id": "4w28gzbyizn",
+  "name": "r車",
+  "order": "1.3.3.1.8.1",
+  "params": {
+    "_g": "車",
+    "_r": "m車"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "7",
+    "jp": "車"
+  }
+}

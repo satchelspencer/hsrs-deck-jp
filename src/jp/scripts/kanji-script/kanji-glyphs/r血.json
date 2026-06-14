@@ -1,0 +1,17 @@
+{
+  "_id": "xnd26m9glx2",
+  "name": "r血",
+  "order": "3.9.6.7.9.1",
+  "params": {
+    "_g": "血",
+    "_r": "m血"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "血"
+  }
+}

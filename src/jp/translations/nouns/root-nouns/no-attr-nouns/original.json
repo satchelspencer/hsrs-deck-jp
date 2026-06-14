@@ -4,7 +4,8 @@
   "name": "original",
   "order": "4",
   "parents": [
-    "no-attr-nouns"
+    "no-attr-nouns",
+    "u元"
   ],
   "props": {
     "en": "original",

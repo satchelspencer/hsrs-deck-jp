@@ -1,0 +1,17 @@
+{
+  "_id": "pvtzw1c9snr",
+  "name": "亠卒",
+  "order": "2.9.0.7.6",
+  "params": {
+    "_g": "卒",
+    "_r": "m亠"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "2",
+    "jp": "亠"
+  }
+}

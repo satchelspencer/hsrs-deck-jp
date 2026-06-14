@@ -1,0 +1,18 @@
+{
+  "_id": "xhug40zw4mt",
+  "desc": "variant of 水",
+  "name": "氺康",
+  "order": "4.3.5.9.0",
+  "params": {
+    "_g": "康",
+    "_r": "m氺"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "5",
+    "jp": "氺"
+  }
+}

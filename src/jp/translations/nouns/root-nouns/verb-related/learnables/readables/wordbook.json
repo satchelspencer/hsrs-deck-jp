@@ -5,7 +5,9 @@
   "parents": [
     "readables",
     "satsu-countable",
-    "learnables"
+    "learnables",
+    "u辞",
+    "u典"
   ],
   "props": {
     "en": "wordbook",

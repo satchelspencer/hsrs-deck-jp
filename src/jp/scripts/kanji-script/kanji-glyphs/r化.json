@@ -1,0 +1,17 @@
+{
+  "_id": "5hac6wvpdfg",
+  "name": "r化",
+  "order": "1.4.6.8.5.1",
+  "params": {
+    "_g": "化",
+    "_r": "m化"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "化"
+  }
+}

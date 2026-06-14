@@ -6,7 +6,9 @@
   "parents": [
     "abstracts",
     "relative-time-no",
-    "informations"
+    "informations",
+    "u事",
+    "u情"
   ],
   "props": {
     "en": "conditions",

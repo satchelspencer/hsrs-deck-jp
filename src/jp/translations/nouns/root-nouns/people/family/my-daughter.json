@@ -3,7 +3,8 @@
   "name": "my-daughter",
   "order": "1",
   "parents": [
-    "family"
+    "family",
+    "u娘"
   ],
   "props": {
     "en": "my daughter",

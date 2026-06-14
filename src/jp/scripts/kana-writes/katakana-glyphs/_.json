@@ -1,0 +1,12 @@
+{
+  "_id": "xjj7r84tep5",
+  "name": "katakana-glyphs",
+  "order": "2.1",
+  "parents": [
+    "kana-writes"
+  ],
+  "props": {
+    "_tl": "_kn._tl+' (katakana)'"
+  },
+  "virtual": true
+}

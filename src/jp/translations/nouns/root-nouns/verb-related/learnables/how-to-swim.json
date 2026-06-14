@@ -3,7 +3,9 @@
   "name": "how-to-swim",
   "order": "4",
   "parents": [
-    "learnables"
+    "learnables",
+    "u泳",
+    "u方"
   ],
   "props": {
     "en": "how to swim",

@@ -1,0 +1,17 @@
+{
+  "_id": "2x5mvjfcp48",
+  "name": "口獣",
+  "order": "4.9.3.9.3",
+  "params": {
+    "_g": "獣",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "10",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

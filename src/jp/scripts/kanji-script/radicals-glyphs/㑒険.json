@@ -1,0 +1,20 @@
+{
+  "_id": "dx3at3tpef3",
+  "desc": "variant of 僉",
+  "name": "㑒険",
+  "order": "2.1.4.1.8",
+  "params": {
+    "_1": "一険",
+    "_2": "口険",
+    "_g": "険",
+    "_r": "m㑒"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "8",
+    "jp": "㑒"
+  }
+}

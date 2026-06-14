@@ -3,7 +3,8 @@
   "name": "bright",
   "order": "2",
   "parents": [
-    "i-attributive-standard"
+    "i-attributive-standard",
+    "u明"
   ],
   "props": {
     "en": "bright",

@@ -1,0 +1,15 @@
+{
+  "_id": "kb8lrxrizcv",
+  "name": "菓",
+  "order": "1.9.2.7.2",
+  "params": {
+    "_wd": "u菓"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "菓",
+    "_st": "CwRNFhdjAgEGAQkAYw2BJIMxg2MCAAUABwADTScLYwEBAQICA2MBBwIOAhADTUcKYwABAAMABGOCBoMJhQ4ETR8jYwEBAQICA2MBBAINAxNjAAIBAwEDBU0hJWMEgR6DJ4RjBQAHAQYGY4EDggqDD2MAAYEDgQMCTSMvYwiBIoQqhAJNJDpjB4EegyaDBE0QRWMDAQYBCgBjDYEshDuFYwMABQAIAQRNNiRjAQEBAgEEYwAIACQANGMAAgAEAAYDTTNEYwABgQKCA0MqTxxYEVwDTTtEYwQDDQwVEWMCAgUECQU"
+  }
+}

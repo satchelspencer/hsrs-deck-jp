@@ -1,0 +1,17 @@
+{
+  "_id": "f5963lwk131",
+  "name": "目夏",
+  "order": "2.9.1.4.9",
+  "params": {
+    "_g": "夏",
+    "_r": "m目"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "3",
+    "_sl": "5",
+    "jp": "目"
+  }
+}

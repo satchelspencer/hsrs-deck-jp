@@ -1,0 +1,17 @@
+{
+  "_id": "wdpwrelrrpz",
+  "name": "尸展",
+  "order": "3.9.6.0.3",
+  "params": {
+    "_g": "展",
+    "_r": "m尸"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "尸"
+  }
+}

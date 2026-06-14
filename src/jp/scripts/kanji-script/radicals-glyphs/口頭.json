@@ -1,0 +1,17 @@
+{
+  "_id": "ow2c44w0zc5",
+  "name": "口頭",
+  "order": "1.6.3.7.1",
+  "params": {
+    "_g": "頭",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "2",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

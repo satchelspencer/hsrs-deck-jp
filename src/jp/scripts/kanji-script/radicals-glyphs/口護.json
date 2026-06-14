@@ -1,0 +1,17 @@
+{
+  "_id": "ym19largjf8",
+  "name": "口護",
+  "order": "3.9.1.6.6",
+  "params": {
+    "_g": "護",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

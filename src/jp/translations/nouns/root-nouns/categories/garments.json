@@ -5,7 +5,9 @@
   "order": "3",
   "parents": [
     "categories",
-    "clothing"
+    "clothing",
+    "u衣",
+    "u類"
   ],
   "props": {
     "_pl": "garments",

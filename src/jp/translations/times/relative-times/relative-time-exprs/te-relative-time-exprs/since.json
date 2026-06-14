@@ -3,7 +3,9 @@
   "name": "since",
   "order": "4",
   "parents": [
-    "te-relative-time-exprs"
+    "te-relative-time-exprs",
+    "u以",
+    "u来"
   ],
   "props": {
     "en": "since",

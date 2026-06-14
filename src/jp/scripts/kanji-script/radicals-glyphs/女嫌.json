@@ -1,0 +1,17 @@
+{
+  "_id": "v7wlw2gkarz",
+  "name": "女嫌",
+  "order": "1.6.2.7.1",
+  "params": {
+    "_g": "嫌",
+    "_r": "m女"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "女"
+  }
+}

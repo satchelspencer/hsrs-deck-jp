@@ -1,0 +1,18 @@
+{
+  "_id": "bzamb8k2ps5",
+  "name": "毎海",
+  "order": "1.9.7.6.2",
+  "params": {
+    "_1": "毋海",
+    "_g": "海",
+    "_r": "m毎"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "6",
+    "jp": "毎"
+  }
+}

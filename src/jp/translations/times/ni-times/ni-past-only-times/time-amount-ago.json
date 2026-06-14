@@ -6,7 +6,8 @@
     "amount": "time-amounts"
   },
   "parents": [
-    "ni-past-only-times"
+    "ni-past-only-times",
+    "u前"
   ],
   "props": {
     "en": "amount.en+' ago'",

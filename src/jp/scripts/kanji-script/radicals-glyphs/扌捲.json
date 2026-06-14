@@ -1,0 +1,18 @@
+{
+  "_id": "rq40qu8azv4",
+  "desc": "variant of 手",
+  "name": "扌捲",
+  "order": "4.9.6.3.2",
+  "params": {
+    "_g": "捲",
+    "_r": "m扌"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "扌"
+  }
+}

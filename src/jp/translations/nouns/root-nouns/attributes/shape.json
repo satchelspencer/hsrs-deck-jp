@@ -4,7 +4,8 @@
   "name": "shape",
   "order": "3",
   "parents": [
-    "attributes"
+    "attributes",
+    "u形"
   ],
   "props": {
     "en": "shape",

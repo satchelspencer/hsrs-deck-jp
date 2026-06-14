@@ -1,0 +1,17 @@
+{
+  "_id": "qjme90je5ez",
+  "name": "二巻",
+  "order": "3.9.8.4.6",
+  "params": {
+    "_g": "巻",
+    "_r": "m二"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "3",
+    "_sl": "2",
+    "jp": "二"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "hcnvk2nip4s",
+  "name": "口難",
+  "order": "2.2.6.5.3",
+  "params": {
+    "_g": "難",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

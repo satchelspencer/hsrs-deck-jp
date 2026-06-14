@@ -6,7 +6,8 @@
     "hour": "counter-ji"
   },
   "parents": [
-    "date-times"
+    "date-times",
+    "u半"
   ],
   "props": {
     "en": "hour.en|r(' oclock', ':30')",

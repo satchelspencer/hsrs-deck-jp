@@ -1,0 +1,18 @@
+{
+  "_id": "86bzcpnccm6",
+  "desc": "variant of 水",
+  "name": "氵酒",
+  "order": "2.6.4.1.1",
+  "params": {
+    "_g": "酒",
+    "_r": "m氵"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "氵"
+  }
+}

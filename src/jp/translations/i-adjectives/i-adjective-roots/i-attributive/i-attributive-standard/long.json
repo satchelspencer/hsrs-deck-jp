@@ -4,7 +4,8 @@
   "name": "long",
   "order": "2",
   "parents": [
-    "i-attributive-standard"
+    "i-attributive-standard",
+    "u長"
   ],
   "props": {
     "en": "long",

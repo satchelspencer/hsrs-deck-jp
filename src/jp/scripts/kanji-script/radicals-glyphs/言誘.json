@@ -1,0 +1,18 @@
+{
+  "_id": "obmjb4b5lud",
+  "name": "言誘",
+  "order": "4.5.2.8.5",
+  "params": {
+    "_1": "口誘",
+    "_g": "誘",
+    "_r": "m言"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "7",
+    "jp": "言"
+  }
+}

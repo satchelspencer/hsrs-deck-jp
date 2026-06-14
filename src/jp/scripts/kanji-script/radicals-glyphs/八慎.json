@@ -1,0 +1,17 @@
+{
+  "_id": "v3osyqnbug2",
+  "name": "八慎",
+  "order": "4.2.0.4.0",
+  "params": {
+    "_g": "慎",
+    "_r": "m八"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "12",
+    "_sl": "2",
+    "jp": "八"
+  }
+}

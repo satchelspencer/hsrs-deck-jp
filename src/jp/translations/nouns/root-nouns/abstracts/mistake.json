@@ -4,7 +4,9 @@
   "name": "mistake",
   "order": "4",
   "parents": [
-    "abstracts"
+    "abstracts",
+    "u間",
+    "u違"
   ],
   "props": {
     "en": "mistake",

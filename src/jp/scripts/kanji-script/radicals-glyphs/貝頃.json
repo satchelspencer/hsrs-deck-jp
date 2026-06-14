@@ -1,0 +1,19 @@
+{
+  "_id": "ch2zjheixxo",
+  "name": "貝頃",
+  "order": "3.9.3.3.3",
+  "params": {
+    "_1": "目頃",
+    "_2": "八頃",
+    "_g": "頃",
+    "_r": "m貝"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "7",
+    "jp": "貝"
+  }
+}

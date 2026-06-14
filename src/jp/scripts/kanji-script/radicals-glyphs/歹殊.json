@@ -1,0 +1,17 @@
+{
+  "_id": "fzqdc27zjcd",
+  "name": "歹殊",
+  "order": "4.9.1.2.1",
+  "params": {
+    "_g": "殊",
+    "_r": "m歹"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "歹"
+  }
+}

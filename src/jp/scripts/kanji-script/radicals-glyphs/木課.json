@@ -1,0 +1,17 @@
+{
+  "_id": "98s39cv25sl",
+  "name": "木課",
+  "order": "4.9.4.8.9",
+  "params": {
+    "_g": "課",
+    "_r": "m木"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "12",
+    "_sl": "4",
+    "jp": "木"
+  }
+}

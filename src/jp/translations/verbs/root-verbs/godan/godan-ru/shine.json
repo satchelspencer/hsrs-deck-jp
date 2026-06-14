@@ -5,7 +5,8 @@
   "order": "3",
   "parents": [
     "godan-ru",
-    "te-iru-verbs-continuous"
+    "te-iru-verbs-continuous",
+    "u光"
   ],
   "props": {
     "_pg": "shining",

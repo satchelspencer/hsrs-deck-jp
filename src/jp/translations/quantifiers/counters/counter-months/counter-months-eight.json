@@ -5,7 +5,9 @@
     "number": "eight"
   },
   "parents": [
-    "counter-months"
+    "counter-months",
+    "u八",
+    "u月"
   ],
   "props": {
     "en": "august",

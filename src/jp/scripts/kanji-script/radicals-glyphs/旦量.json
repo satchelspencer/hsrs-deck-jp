@@ -1,0 +1,17 @@
+{
+  "_id": "k6ugaoqicwb",
+  "name": "旦量",
+  "order": "4.3.5.4.9",
+  "params": {
+    "_g": "量",
+    "_r": "m旦"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "旦"
+  }
+}

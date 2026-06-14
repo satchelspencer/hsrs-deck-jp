@@ -1,0 +1,18 @@
+{
+  "_id": "e0k64z1j3d2",
+  "desc": "variant of 彑",
+  "name": "⺕糖",
+  "order": "3.9.4.8.0",
+  "params": {
+    "_g": "糖",
+    "_r": "m⺕"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "10",
+    "_sl": "3",
+    "jp": "⺕"
+  }
+}

@@ -3,7 +3,9 @@
   "name": "mathematics",
   "order": "3",
   "parents": [
-    "sciences"
+    "sciences",
+    "u数",
+    "u学"
   ],
   "props": {
     "en": "mathematics",

@@ -1,0 +1,19 @@
+{
+  "_id": "wqsew2ekzis",
+  "name": "走起",
+  "order": "1.6.6.4.0",
+  "params": {
+    "_1": "土起",
+    "_2": "龰起",
+    "_g": "起",
+    "_r": "m走"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "7",
+    "jp": "走"
+  }
+}

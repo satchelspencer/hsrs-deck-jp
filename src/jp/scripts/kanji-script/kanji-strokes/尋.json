@@ -1,0 +1,15 @@
+{
+  "_id": "a9bol79gaqz",
+  "name": "尋",
+  "order": "3.9.8.9.6",
+  "params": {
+    "_wd": "u尋"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "尋",
+    "_st": "DAZNIA5jAwEGAQgAYwuBGYIhg2MDAAQCBARjgQWBCIIPYwABAAKBBANNHxljAgAEAQcAYw2BH4MlgwNNHiRjAgAEAAYAYw2BG4MkhARNFy9jAQADAAQAYwQAC4IPgmMBAAMABAADTSIwYwEBAQIBA2MAAgAGAAgDTRU9YwEBAgEEAGMHgg6EFocETTcrYwEAAQECAmMBAgEFAghjAAEAAwEEBE06LWMIgRGCF4NjAwAEAQMEY4EDgQWCBwNNPDdjBQAMgRKBYwEAAwAEAARNDkhjAwEIAQsAYxSDLIQ9hmMDAAcACgEETUU7YwEBAQIBBGMABgAZAB1jAAuFAocBAk0oTmMCAgYHBwo"
+  }
+}

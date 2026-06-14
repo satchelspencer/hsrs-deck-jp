@@ -1,0 +1,17 @@
+{
+  "_id": "93mxi7j7qq3",
+  "name": "子遊",
+  "order": "3.4.3.5.2",
+  "params": {
+    "_g": "遊",
+    "_r": "m子"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "3",
+    "jp": "子"
+  }
+}

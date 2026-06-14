@@ -1,0 +1,17 @@
+{
+  "_id": "i81kj9qfbak",
+  "name": "r収",
+  "order": "4.9.7.0.6.1",
+  "params": {
+    "_g": "収",
+    "_r": "m収"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "収"
+  }
+}

@@ -4,7 +4,8 @@
   "name": "leaf",
   "order": "3",
   "parents": [
-    "plants"
+    "plants",
+    "u葉"
   ],
   "props": {
     "en": "leaf",

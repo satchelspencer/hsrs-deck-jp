@@ -1,0 +1,17 @@
+{
+  "_id": "iqvcp29g121",
+  "name": "犬獣",
+  "order": "4.9.3.9.3",
+  "params": {
+    "_g": "獣",
+    "_r": "m犬"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "13",
+    "_sl": "4",
+    "jp": "犬"
+  }
+}

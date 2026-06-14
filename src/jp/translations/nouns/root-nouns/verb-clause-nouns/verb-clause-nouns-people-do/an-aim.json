@@ -4,7 +4,9 @@
   "name": "an-aim",
   "order": "4",
   "parents": [
-    "verb-clause-nouns-people-do"
+    "verb-clause-nouns-people-do",
+    "u意",
+    "u図"
   ],
   "props": {
     "en": "an aim",

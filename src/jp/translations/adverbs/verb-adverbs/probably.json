@@ -4,7 +4,9 @@
   "order": "2",
   "parents": [
     "verb-adverbs",
-    "i-adverbs"
+    "i-adverbs",
+    "u多",
+    "u分"
   ],
   "props": {
     "en": "probably",

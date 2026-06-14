@@ -1,0 +1,10 @@
+{
+  "_id": "hzhigko9nkx",
+  "name": "m客",
+  "parents": [
+    "radicals"
+  ],
+  "props": {
+    "_m": "guest, visitor, customer"
+  }
+}

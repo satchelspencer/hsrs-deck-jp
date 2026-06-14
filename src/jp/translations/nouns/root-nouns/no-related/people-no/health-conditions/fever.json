@@ -3,7 +3,8 @@
   "name": "fever",
   "order": "3",
   "parents": [
-    "health-conditions"
+    "health-conditions",
+    "u熱"
   ],
   "props": {
     "en": "fever",

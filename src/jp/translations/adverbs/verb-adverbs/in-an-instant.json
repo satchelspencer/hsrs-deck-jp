@@ -4,7 +4,9 @@
   "name": "in-an-instant",
   "order": "4",
   "parents": [
-    "verb-adverbs"
+    "verb-adverbs",
+    "u一",
+    "u瞬"
   ],
   "props": {
     "en": "in an instant",

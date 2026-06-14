@@ -1,0 +1,18 @@
+{
+  "_id": "ptxzbrpgmzu",
+  "desc": "variant of 水",
+  "name": "氵波",
+  "order": "4.3.8.1.1",
+  "params": {
+    "_g": "波",
+    "_r": "m氵"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "氵"
+  }
+}

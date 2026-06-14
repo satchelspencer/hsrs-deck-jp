@@ -1,0 +1,17 @@
+{
+  "_id": "9m1v0zj54s6",
+  "name": "并餅",
+  "order": "2.9.1.2.9",
+  "params": {
+    "_g": "餅",
+    "_r": "m并"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "10",
+    "_sl": "6",
+    "jp": "并"
+  }
+}

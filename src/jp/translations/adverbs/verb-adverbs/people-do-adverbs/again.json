@@ -4,7 +4,8 @@
   "name": "again",
   "order": "4",
   "parents": [
-    "people-do-adverbs"
+    "people-do-adverbs",
+    "u改"
   ],
   "props": {
     "en": "again",

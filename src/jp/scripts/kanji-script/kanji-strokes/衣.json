@@ -1,0 +1,15 @@
+{
+  "_id": "q2crt0aifzj",
+  "name": "衣",
+  "order": "3.9.4.2.8",
+  "params": {
+    "_wd": "u衣"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "衣",
+    "_st": "BgNNNA1jAQECAwIFYwACAAkACwRNDSFjAwEGAQkAYxCBKoU6hmMDAAYACgADTS8iYwABAAKBA0MrLR47DkYFTSY2YwEBAQIBBGMADAAfACFjAAMBAwMBYwSEDosPjQNNTSdjAAEAAoEDY4MEiAiSDwNNLjNjBAEZFSUdYwMCBgQKBQ"
+  }
+}

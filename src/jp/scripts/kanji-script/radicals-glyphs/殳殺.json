@@ -1,0 +1,17 @@
+{
+  "_id": "8nao6b9i1cy",
+  "name": "殳殺",
+  "order": "2.6.7.3.1",
+  "params": {
+    "_g": "殺",
+    "_r": "m殳"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "4",
+    "jp": "殳"
+  }
+}

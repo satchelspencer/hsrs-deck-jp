@@ -1,0 +1,17 @@
+{
+  "_id": "f8hv5l8qhya",
+  "name": "二券",
+  "order": "4.2.8.3.0",
+  "params": {
+    "_g": "券",
+    "_r": "m二"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "3",
+    "_sl": "2",
+    "jp": "二"
+  }
+}

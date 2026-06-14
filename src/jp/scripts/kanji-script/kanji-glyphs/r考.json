@@ -1,0 +1,17 @@
+{
+  "_id": "44svgi6856z",
+  "name": "r考",
+  "order": "2.2.8.4.8.1",
+  "params": {
+    "_g": "考",
+    "_r": "m考"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "考"
+  }
+}

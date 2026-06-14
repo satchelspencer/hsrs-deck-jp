@@ -3,7 +3,8 @@
   "name": "horse",
   "order": "3",
   "parents": [
-    "tou-countable"
+    "tou-countable",
+    "u馬"
   ],
   "props": {
     "en": "horse",

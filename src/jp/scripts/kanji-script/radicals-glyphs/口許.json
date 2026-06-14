@@ -1,0 +1,17 @@
+{
+  "_id": "aon8r85rkny",
+  "name": "口許",
+  "order": "3.6.1.1.3",
+  "params": {
+    "_g": "許",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

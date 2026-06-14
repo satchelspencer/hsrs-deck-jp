@@ -1,0 +1,17 @@
+{
+  "_id": "mf6n7874w5o",
+  "name": "厂振",
+  "order": "4.3.7.6.0",
+  "params": {
+    "_g": "振",
+    "_r": "m厂"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "2",
+    "jp": "厂"
+  }
+}

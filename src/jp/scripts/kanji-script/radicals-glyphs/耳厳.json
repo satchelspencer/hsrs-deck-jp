@@ -1,0 +1,17 @@
+{
+  "_id": "csw755am34q",
+  "name": "耳厳",
+  "order": "3.2.0.4.8",
+  "params": {
+    "_g": "厳",
+    "_r": "m耳"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "6",
+    "jp": "耳"
+  }
+}

@@ -4,7 +4,8 @@
   "name": "a-lie",
   "order": "3",
   "parents": [
-    "breath-outables"
+    "breath-outables",
+    "u嘘"
   ],
   "props": {
     "en": "a lie",

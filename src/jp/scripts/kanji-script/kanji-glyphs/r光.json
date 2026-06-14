@@ -1,0 +1,17 @@
+{
+  "_id": "8dtwvi4nddm",
+  "name": "r光",
+  "order": "3.3.6.1.1.1",
+  "params": {
+    "_g": "光",
+    "_r": "m光"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "光"
+  }
+}

@@ -5,7 +5,9 @@
   "parents": [
     "objects",
     "products",
-    "documents"
+    "documents",
+    "u新",
+    "u聞"
   ],
   "props": {
     "en": "newspaper",

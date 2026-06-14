@@ -5,7 +5,8 @@
   "order": "3",
   "parents": [
     "ichidan",
-    "objects-do"
+    "objects-do",
+    "u割"
   ],
   "props": {
     "en": "be smashed",

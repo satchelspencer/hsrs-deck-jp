@@ -1,0 +1,18 @@
+{
+  "_id": "i3ykbatus2u",
+  "desc": "variant of 人",
+  "name": "亻備",
+  "order": "3.2.5.0.2",
+  "params": {
+    "_g": "備",
+    "_r": "m亻"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "2",
+    "jp": "亻"
+  }
+}

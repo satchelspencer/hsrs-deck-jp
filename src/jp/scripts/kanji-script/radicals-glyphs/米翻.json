@@ -1,0 +1,17 @@
+{
+  "_id": "waproo2jee8",
+  "name": "米翻",
+  "order": "3.6.7.0.4",
+  "params": {
+    "_g": "翻",
+    "_r": "m米"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "2",
+    "_sl": "6",
+    "jp": "米"
+  }
+}

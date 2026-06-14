@@ -1,0 +1,10 @@
+{
+  "_id": "cl4kzvucts2",
+  "name": "m線",
+  "parents": [
+    "radicals"
+  ],
+  "props": {
+    "_m": "line, track"
+  }
+}

@@ -4,7 +4,9 @@
   "name": "facial-expression",
   "order": "4",
   "parents": [
-    "people-no"
+    "people-no",
+    "u表",
+    "u情"
   ],
   "props": {
     "en": "facial expression",

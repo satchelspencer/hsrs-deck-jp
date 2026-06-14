@@ -1,0 +1,17 @@
+{
+  "_id": "p7oiuywodcp",
+  "name": "土到",
+  "order": "3.5.2.1.7",
+  "params": {
+    "_g": "到",
+    "_r": "m土"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "3",
+    "jp": "土"
+  }
+}

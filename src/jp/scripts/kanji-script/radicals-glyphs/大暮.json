@@ -1,0 +1,17 @@
+{
+  "_id": "cnn1a06p9ag",
+  "name": "大暮",
+  "order": "3.6.5.3.8",
+  "params": {
+    "_g": "暮",
+    "_r": "m大"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "3",
+    "jp": "大"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "w2j2gdvnaig",
+  "name": "氏紙",
+  "order": "1.2.8.5.3",
+  "params": {
+    "_g": "紙",
+    "_r": "m氏"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "4",
+    "jp": "氏"
+  }
+}

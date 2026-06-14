@@ -4,7 +4,8 @@
   "name": "counter-root-footwear",
   "order": "3",
   "parents": [
-    "counter-roots-kango-full-s"
+    "counter-roots-kango-full-s",
+    "u足"
   ],
   "props": {
     "_ec": "footpairs",

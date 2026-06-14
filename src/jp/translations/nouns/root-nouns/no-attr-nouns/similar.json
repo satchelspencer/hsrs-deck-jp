@@ -3,7 +3,9 @@
   "name": "similar",
   "order": "4",
   "parents": [
-    "no-attr-nouns"
+    "no-attr-nouns",
+    "u同",
+    "u様"
   ],
   "props": {
     "_at": "",

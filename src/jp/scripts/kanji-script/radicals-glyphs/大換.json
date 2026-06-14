@@ -1,0 +1,17 @@
+{
+  "_id": "4ng2g9ebbkk",
+  "name": "大換",
+  "order": "1.9.1.1.3",
+  "params": {
+    "_g": "換",
+    "_r": "m大"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "10",
+    "_sl": "3",
+    "jp": "大"
+  }
+}

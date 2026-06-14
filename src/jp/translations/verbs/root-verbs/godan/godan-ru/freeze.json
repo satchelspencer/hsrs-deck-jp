@@ -5,7 +5,8 @@
   "order": "4",
   "parents": [
     "godan-ru",
-    "te-iru-verbs-state"
+    "te-iru-verbs-state",
+    "u凍"
   ],
   "props": {
     "_st": "frozen",

@@ -1,0 +1,17 @@
+{
+  "_id": "va0leu693jd",
+  "name": "口糖",
+  "order": "3.9.4.8.0",
+  "params": {
+    "_g": "糖",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "14",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

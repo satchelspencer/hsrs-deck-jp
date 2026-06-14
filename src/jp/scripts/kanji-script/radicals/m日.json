@@ -1,0 +1,11 @@
+{
+  "_id": "bov76io9miy",
+  "desc": "variant of 曰",
+  "name": "m日",
+  "parents": [
+    "radicals"
+  ],
+  "props": {
+    "_m": "day, sun, Japan"
+  }
+}

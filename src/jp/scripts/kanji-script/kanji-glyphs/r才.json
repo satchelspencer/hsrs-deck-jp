@@ -1,0 +1,17 @@
+{
+  "_id": "16dz7l3lcl2",
+  "name": "r才",
+  "order": "1.9.1.6.5.1",
+  "params": {
+    "_g": "才",
+    "_r": "m才"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "才"
+  }
+}

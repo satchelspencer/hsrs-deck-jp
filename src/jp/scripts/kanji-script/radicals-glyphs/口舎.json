@@ -1,0 +1,17 @@
+{
+  "_id": "eizteyd04ti",
+  "name": "口舎",
+  "order": "3.4.9.1.7",
+  "params": {
+    "_g": "舎",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

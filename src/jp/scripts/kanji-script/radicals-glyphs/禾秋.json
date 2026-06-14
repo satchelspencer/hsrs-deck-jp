@@ -1,0 +1,17 @@
+{
+  "_id": "l6vaubwi80l",
+  "name": "禾秋",
+  "order": "2.9.5.2.1",
+  "params": {
+    "_g": "秋",
+    "_r": "m禾"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "禾"
+  }
+}

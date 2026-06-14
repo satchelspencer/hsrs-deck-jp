@@ -1,0 +1,17 @@
+{
+  "_id": "e6f29c5iy0p",
+  "name": "心恥",
+  "order": "3.9.3.6.4",
+  "params": {
+    "_g": "恥",
+    "_r": "m心"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "4",
+    "jp": "心"
+  }
+}

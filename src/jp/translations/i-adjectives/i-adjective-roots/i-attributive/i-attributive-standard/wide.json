@@ -4,7 +4,8 @@
   "name": "wide",
   "order": "2",
   "parents": [
-    "i-attributive-standard"
+    "i-attributive-standard",
+    "u広"
   ],
   "props": {
     "en": "wide",

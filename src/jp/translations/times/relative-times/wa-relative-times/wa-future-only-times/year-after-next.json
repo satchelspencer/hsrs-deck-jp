@@ -3,7 +3,10 @@
   "name": "year-after-next",
   "order": "2",
   "parents": [
-    "wa-future-only-times"
+    "wa-future-only-times",
+    "u再",
+    "u来",
+    "u年"
   ],
   "props": {
     "en": "year after next",

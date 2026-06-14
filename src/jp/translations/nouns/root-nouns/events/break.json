@@ -4,7 +4,8 @@
   "name": "break",
   "order": "1",
   "parents": [
-    "events"
+    "events",
+    "u休"
   ],
   "props": {
     "en": "a break",

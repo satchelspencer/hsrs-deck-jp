@@ -1,0 +1,17 @@
+{
+  "_id": "nlk7xlld5pa",
+  "name": "目題",
+  "order": "2.9.9.7.5",
+  "params": {
+    "_g": "題",
+    "_r": "m目"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "12",
+    "_sl": "5",
+    "jp": "目"
+  }
+}

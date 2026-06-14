@@ -4,7 +4,9 @@
   "order": "3",
   "parents": [
     "musical-instruments",
-    "categories"
+    "categories",
+    "u楽",
+    "u器"
   ],
   "props": {
     "en": "musical instrument",

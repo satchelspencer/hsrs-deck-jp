@@ -3,7 +3,9 @@
   "name": "fruit",
   "order": "2",
   "parents": [
-    "foods"
+    "foods",
+    "u果",
+    "u物"
   ],
   "props": {
     "en": "fruit",

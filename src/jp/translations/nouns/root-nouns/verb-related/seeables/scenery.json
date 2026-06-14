@@ -5,7 +5,9 @@
   "order": "3",
   "parents": [
     "seeables",
-    "places-no"
+    "places-no",
+    "u景",
+    "u色"
   ],
   "props": {
     "en": "scenery",

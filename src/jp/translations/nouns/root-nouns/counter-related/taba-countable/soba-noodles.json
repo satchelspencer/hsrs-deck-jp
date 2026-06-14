@@ -4,7 +4,9 @@
   "order": "2",
   "parents": [
     "taba-countable",
-    "foods"
+    "foods",
+    "u蕎",
+    "u麦"
   ],
   "props": {
     "en": "soba noodles",

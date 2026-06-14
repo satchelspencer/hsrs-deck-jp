@@ -1,0 +1,17 @@
+{
+  "_id": "sfq20ejmwho",
+  "name": "八員",
+  "order": "3.9.6.2.4",
+  "params": {
+    "_g": "員",
+    "_r": "m八"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "9",
+    "_sl": "2",
+    "jp": "八"
+  }
+}

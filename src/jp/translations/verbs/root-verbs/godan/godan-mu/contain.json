@@ -5,7 +5,8 @@
   "order": "4",
   "parents": [
     "godan-mu",
-    "te-iru-verbs-state"
+    "te-iru-verbs-state",
+    "u含"
   ],
   "props": {
     "_st": "containing",

@@ -1,0 +1,18 @@
+{
+  "_id": "aniq03drbcl",
+  "name": "毎悔",
+  "order": "4.9.1.5.9",
+  "params": {
+    "_1": "毋悔",
+    "_g": "悔",
+    "_r": "m毎"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "6",
+    "jp": "毎"
+  }
+}

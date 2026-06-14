@@ -1,0 +1,17 @@
+{
+  "_id": "h02vp75mf8p",
+  "name": "乂図",
+  "order": "1.5.2.8.9",
+  "params": {
+    "_g": "図",
+    "_r": "m乂"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "2",
+    "jp": "乂"
+  }
+}

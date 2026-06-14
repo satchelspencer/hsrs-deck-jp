@@ -4,7 +4,8 @@
   "name": "counter-root-books",
   "order": "1",
   "parents": [
-    "counter-roots-kango-full-s"
+    "counter-roots-kango-full-s",
+    "u冊"
   ],
   "props": {
     "_ec": "books",

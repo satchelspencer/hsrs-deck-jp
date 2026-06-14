@@ -1,0 +1,17 @@
+{
+  "_id": "wntz7k9gi1g",
+  "name": "十置",
+  "order": "2.9.7.9.0",
+  "params": {
+    "_g": "置",
+    "_r": "m十"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "2",
+    "jp": "十"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "_id": "anjzsyfv7vw",
+  "name": "m派",
+  "parents": [
+    "radicals"
+  ],
+  "props": {
+    "_m": "faction, group, party, clique"
+  }
+}

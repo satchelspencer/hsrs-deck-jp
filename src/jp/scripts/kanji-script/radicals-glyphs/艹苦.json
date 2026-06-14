@@ -1,0 +1,18 @@
+{
+  "_id": "pszijg7nldp",
+  "desc": "variant of 艸",
+  "name": "艹苦",
+  "order": "3.2.6.2.0",
+  "params": {
+    "_g": "苦",
+    "_r": "m艹"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "艹"
+  }
+}

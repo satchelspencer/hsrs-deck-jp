@@ -1,0 +1,17 @@
+{
+  "_id": "s8qxva270nc",
+  "name": "方訪",
+  "order": "2.9.1.1.3",
+  "params": {
+    "_g": "訪",
+    "_r": "m方"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "4",
+    "jp": "方"
+  }
+}

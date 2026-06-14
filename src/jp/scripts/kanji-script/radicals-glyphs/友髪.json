@@ -1,0 +1,17 @@
+{
+  "_id": "6ssvtjxp1ub",
+  "name": "友髪",
+  "order": "1.9.0.6.6",
+  "params": {
+    "_g": "髪",
+    "_r": "m友"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "11",
+    "_sl": "4",
+    "jp": "友"
+  }
+}

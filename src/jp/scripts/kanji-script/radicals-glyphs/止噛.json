@@ -1,0 +1,17 @@
+{
+  "_id": "phd9ay0k5kh",
+  "name": "止噛",
+  "order": "3.9.6.5.0",
+  "params": {
+    "_g": "噛",
+    "_r": "m止"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "4",
+    "jp": "止"
+  }
+}

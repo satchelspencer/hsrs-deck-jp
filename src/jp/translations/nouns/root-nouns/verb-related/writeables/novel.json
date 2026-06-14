@@ -5,7 +5,9 @@
   "order": "2",
   "parents": [
     "writeables",
-    "documents"
+    "documents",
+    "u小",
+    "u説"
   ],
   "props": {
     "en": "novel",

@@ -1,0 +1,17 @@
+{
+  "_id": "w8fqvg3x5e2",
+  "name": "亡慌",
+  "order": "4.9.0.7.1",
+  "params": {
+    "_g": "慌",
+    "_r": "m亡"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "3",
+    "jp": "亡"
+  }
+}

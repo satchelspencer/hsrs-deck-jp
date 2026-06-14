@@ -4,7 +4,8 @@
   "name": "finger",
   "order": "3",
   "parents": [
-    "body-parts"
+    "body-parts",
+    "u指"
   ],
   "props": {
     "en": "finger",

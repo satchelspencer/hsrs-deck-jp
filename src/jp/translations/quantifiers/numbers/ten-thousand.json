@@ -3,7 +3,9 @@
   "name": "ten-thousand",
   "order": "9",
   "parents": [
-    "numbers"
+    "numbers",
+    "u一",
+    "u万"
   ],
   "props": {
     "_fw": "１００００",

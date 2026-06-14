@@ -5,7 +5,8 @@
   "order": "2",
   "parents": [
     "godan-ru",
-    "events-do"
+    "events-do",
+    "u終"
   ],
   "props": {
     "en": "end",

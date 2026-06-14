@@ -3,7 +3,9 @@
   "name": "history",
   "order": "3",
   "parents": [
-    "sciences"
+    "sciences",
+    "u歴",
+    "u史"
   ],
   "props": {
     "en": "history",

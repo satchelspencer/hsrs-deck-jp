@@ -5,7 +5,8 @@
   "order": "3",
   "parents": [
     "ichidan",
-    "te-iru-verbs-state"
+    "te-iru-verbs-state",
+    "u暮"
   ],
   "props": {
     "_st": "dark",

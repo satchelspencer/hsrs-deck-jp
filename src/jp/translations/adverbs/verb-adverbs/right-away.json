@@ -4,7 +4,8 @@
   "name": "right-away",
   "order": "2",
   "parents": [
-    "verb-adverbs"
+    "verb-adverbs",
+    "u直"
   ],
   "props": {
     "en": "right away",

@@ -1,0 +1,10 @@
+{
+  "_id": "huk910i3vg",
+  "name": "kana-writes",
+  "parents": [
+    "scripts"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

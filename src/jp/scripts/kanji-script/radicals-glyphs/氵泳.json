@@ -1,0 +1,18 @@
+{
+  "_id": "f298d2z4btl",
+  "desc": "variant of 水",
+  "name": "氵泳",
+  "order": "1.9.5.4.5",
+  "params": {
+    "_g": "泳",
+    "_r": "m氵"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "氵"
+  }
+}

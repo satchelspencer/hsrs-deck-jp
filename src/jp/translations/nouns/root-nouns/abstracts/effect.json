@@ -4,7 +4,9 @@
   "name": "effect",
   "order": "4",
   "parents": [
-    "abstracts"
+    "abstracts",
+    "u効",
+    "u果"
   ],
   "props": {
     "en": "effect",

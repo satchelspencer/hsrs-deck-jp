@@ -1,0 +1,18 @@
+{
+  "_id": "zh9ppgp8pap",
+  "name": "关送",
+  "order": "2.6.5.5.6",
+  "params": {
+    "_1": "天送",
+    "_g": "送",
+    "_r": "m关"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "关"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "_id": "bradg3gkjdi",
+  "desc": "variant of 刀",
+  "name": "刂制",
+  "order": "4.9.9.0.9",
+  "params": {
+    "_g": "制",
+    "_r": "m刂"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "2",
+    "jp": "刂"
+  }
+}

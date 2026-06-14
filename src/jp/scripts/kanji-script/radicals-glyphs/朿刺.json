@@ -1,0 +1,18 @@
+{
+  "_id": "1ncbcv1er4s",
+  "name": "朿刺",
+  "order": "2.9.3.5.2",
+  "params": {
+    "_1": "冂刺",
+    "_g": "刺",
+    "_r": "m朿"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "朿"
+  }
+}

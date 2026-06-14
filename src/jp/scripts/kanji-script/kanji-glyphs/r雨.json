@@ -1,0 +1,17 @@
+{
+  "_id": "qepqarxzept",
+  "name": "r雨",
+  "order": "1.6.5.2.0.1",
+  "params": {
+    "_g": "雨",
+    "_r": "m雨"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "8",
+    "jp": "雨"
+  }
+}

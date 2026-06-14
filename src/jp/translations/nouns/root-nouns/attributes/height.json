@@ -4,7 +4,8 @@
   "name": "height",
   "order": "3",
   "parents": [
-    "attributes"
+    "attributes",
+    "u縦"
   ],
   "props": {
     "en": "height",

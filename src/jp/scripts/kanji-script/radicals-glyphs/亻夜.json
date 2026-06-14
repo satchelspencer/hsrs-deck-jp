@@ -1,0 +1,18 @@
+{
+  "_id": "q8h9xcrto62",
+  "desc": "variant of 人",
+  "name": "亻夜",
+  "order": "1.6.7.6.8",
+  "params": {
+    "_g": "夜",
+    "_r": "m亻"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "3",
+    "_sl": "2",
+    "jp": "亻"
+  }
+}

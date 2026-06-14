@@ -4,7 +4,8 @@
   "name": "sudden",
   "order": "3",
   "parents": [
-    "na-attributive"
+    "na-attributive",
+    "u急"
   ],
   "props": {
     "en": "sudden",

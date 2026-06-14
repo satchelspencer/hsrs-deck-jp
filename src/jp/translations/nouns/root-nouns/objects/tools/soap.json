@@ -4,7 +4,8 @@
   "order": "1",
   "parents": [
     "tools",
-    "ko-countable"
+    "ko-countable",
+    "u石"
   ],
   "props": {
     "en": "soap",

@@ -3,7 +3,8 @@
   "name": "clear-weather",
   "order": "2",
   "parents": [
-    "weather"
+    "weather",
+    "u晴"
   ],
   "props": {
     "en": "clear weather",

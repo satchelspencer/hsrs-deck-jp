@@ -1,0 +1,17 @@
+{
+  "_id": "wqq5c6tudeg",
+  "name": "大参",
+  "order": "4.3.7.0.4",
+  "params": {
+    "_g": "参",
+    "_r": "m大"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "3",
+    "_sl": "3",
+    "jp": "大"
+  }
+}

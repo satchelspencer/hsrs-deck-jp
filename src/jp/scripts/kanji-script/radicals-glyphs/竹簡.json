@@ -1,0 +1,17 @@
+{
+  "_id": "2lsh213grg8",
+  "name": "竹簡",
+  "order": "2.1.1.3.4",
+  "params": {
+    "_g": "簡",
+    "_r": "m竹"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "竹"
+  }
+}

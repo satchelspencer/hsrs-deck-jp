@@ -1,0 +1,18 @@
+{
+  "_id": "aw518kfh5c5",
+  "desc": "variant of 彑",
+  "name": "⺕急",
+  "order": "2.9.7.5.3",
+  "params": {
+    "_g": "急",
+    "_r": "m⺕"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "3",
+    "_sl": "3",
+    "jp": "⺕"
+  }
+}

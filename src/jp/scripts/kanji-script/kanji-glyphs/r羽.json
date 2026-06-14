@@ -1,0 +1,17 @@
+{
+  "_id": "2auctff7l3b",
+  "name": "r羽",
+  "order": "1.9.1.4.5.1",
+  "params": {
+    "_g": "羽",
+    "_r": "m羽"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "羽"
+  }
+}

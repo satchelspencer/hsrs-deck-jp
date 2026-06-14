@@ -1,0 +1,18 @@
+{
+  "_id": "kth9rp7ou53",
+  "name": "馬駐",
+  "order": "3.9.3.5.0",
+  "params": {
+    "_1": "灬駐",
+    "_g": "駐",
+    "_r": "m馬"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "10",
+    "jp": "馬"
+  }
+}

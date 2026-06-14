@@ -4,7 +4,8 @@
   "name": "home",
   "order": "1",
   "parents": [
-    "spaces"
+    "spaces",
+    "u家"
   ],
   "props": {
     "en": "home",

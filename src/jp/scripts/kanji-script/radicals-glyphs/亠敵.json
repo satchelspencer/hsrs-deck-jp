@@ -1,0 +1,17 @@
+{
+  "_id": "dfcujzat9l0",
+  "name": "亠敵",
+  "order": "4.4.5.2.7",
+  "params": {
+    "_g": "敵",
+    "_r": "m亠"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "2",
+    "jp": "亠"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "c93c73iwysj",
+  "name": "r缶",
+  "order": "3.3.5.8.1.1",
+  "params": {
+    "_g": "缶",
+    "_r": "m缶"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "缶"
+  }
+}

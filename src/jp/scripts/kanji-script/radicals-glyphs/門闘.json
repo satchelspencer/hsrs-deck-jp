@@ -1,0 +1,17 @@
+{
+  "_id": "klkecaeyvwe",
+  "name": "門闘",
+  "order": "4.9.2.2.7",
+  "params": {
+    "_g": "闘",
+    "_r": "m門"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "8",
+    "jp": "門"
+  }
+}

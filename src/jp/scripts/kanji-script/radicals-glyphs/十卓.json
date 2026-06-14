@@ -1,0 +1,17 @@
+{
+  "_id": "2hcca5or9po",
+  "name": "十卓",
+  "order": "2.9.1.9.4",
+  "params": {
+    "_g": "卓",
+    "_r": "m十"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "2",
+    "jp": "十"
+  }
+}

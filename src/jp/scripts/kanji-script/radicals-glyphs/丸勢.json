@@ -1,0 +1,17 @@
+{
+  "_id": "pcafmcawuqs",
+  "name": "丸勢",
+  "order": "3.9.0.0.3",
+  "params": {
+    "_g": "勢",
+    "_r": "m丸"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "9",
+    "_sl": "3",
+    "jp": "丸"
+  }
+}

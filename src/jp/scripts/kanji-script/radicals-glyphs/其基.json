@@ -1,0 +1,19 @@
+{
+  "_id": "nsbnc4ybqmw",
+  "name": "其基",
+  "order": "2.9.9.6.9",
+  "params": {
+    "_1": "甘基",
+    "_2": "八基",
+    "_g": "基",
+    "_r": "m其"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "8",
+    "jp": "其"
+  }
+}

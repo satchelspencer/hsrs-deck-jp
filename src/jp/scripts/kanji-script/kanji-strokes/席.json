@@ -1,0 +1,15 @@
+{
+  "_id": "8oceruwn1rn",
+  "name": "席",
+  "order": "3.4.3.5.1",
+  "params": {
+    "_wd": "u席"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "席",
+    "_st": "CgNNNwpjAQECAgIEYwACAAUABwRNFxhjBAEHAQoAYw-CIYMwhWMDAAYACQADTRoZYwEBAQIBBGMAFYQtkTwETR8pYwMBBgAJAGMJgRyDKIRjAwAGAAkABE0sH2MBAQECAQJjAQQBDwIVYwABAAIAAgNNRBtjAQEBAgEDQ0UkQy9CNQNNMDhjBAALghGCYwIAAwAEAARNIkRjAQECAgIDYwEEAgoDE2MAAQACAAMFTSRGQypFT0FRQWMDAAQDBARjgQiBC4MSY4EEhAGGgQRNOTpjAQEBAwEEYwAEABcAImMAAgAEAAU"
+  }
+}

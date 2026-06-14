@@ -1,0 +1,17 @@
+{
+  "_id": "pxa4074ndid",
+  "name": "龰走",
+  "order": "1.6.6.4.0",
+  "params": {
+    "_g": "走",
+    "_r": "m龰"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "4",
+    "jp": "龰"
+  }
+}

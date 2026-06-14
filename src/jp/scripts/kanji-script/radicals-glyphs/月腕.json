@@ -1,0 +1,18 @@
+{
+  "_id": "fxp41mxfvj9",
+  "desc": "variant of 肉",
+  "name": "月腕",
+  "order": "1.9.4.1.8",
+  "params": {
+    "_g": "腕",
+    "_r": "m月"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "月"
+  }
+}

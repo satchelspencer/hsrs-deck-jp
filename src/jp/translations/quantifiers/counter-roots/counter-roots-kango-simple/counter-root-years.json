@@ -6,7 +6,8 @@
   "parents": [
     "counter-roots-kango-simple",
     "units",
-    "be-requiredables"
+    "be-requiredables",
+    "u年"
   ],
   "props": {
     "_ec": "years",

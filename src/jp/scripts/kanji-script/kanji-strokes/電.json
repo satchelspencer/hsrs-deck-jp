@@ -1,0 +1,15 @@
+{
+  "_id": "c5lxw4xd1tb",
+  "name": "電",
+  "order": "1.6.5.2.0",
+  "params": {
+    "_wd": "u電"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "電",
+    "_st": "DQRNIxBjAgEFAAcAYwaBEIIXg2MCAAQABgACTRQdYwAGggyDEQNNFSBDJh5GGlYZYwkAAgaBCgRNMxFjAQECAgIEYwAEABEAGGMAAgAEAAQCTSEkYwMBCAIKAwJNHy1jAwEIAwoEAk1CIWMEAQgCCQMCTUIqYwMBBwMIBARNGjhjAQEBAgEDYwAFAxYDFmMAAAACAAMFTRw5YwuBKYQshGMEAAUCBQVjAAGCCoQSYwABgQKBAwJNHURjB4EkgyyEAk0fUEMqTzxOR00FTTA6YwEBAQMBBWMABQANABNjAA0BDxUPYxMAFIMUiw"
+  }
+}

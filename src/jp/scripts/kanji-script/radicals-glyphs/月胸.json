@@ -1,0 +1,18 @@
+{
+  "_id": "9qg4q2c38eb",
+  "desc": "variant of 肉",
+  "name": "月胸",
+  "order": "4.9.6.2.6",
+  "params": {
+    "_g": "胸",
+    "_r": "m月"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "月"
+  }
+}

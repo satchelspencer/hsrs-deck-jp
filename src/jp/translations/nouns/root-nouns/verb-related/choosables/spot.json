@@ -6,7 +6,9 @@
   "parents": [
     "choosables",
     "kashou-countable",
-    "places"
+    "places",
+    "u場",
+    "u所"
   ],
   "props": {
     "en": "spot",

@@ -4,7 +4,9 @@
   "order": "3",
   "parents": [
     "tools",
-    "categories"
+    "categories",
+    "u道",
+    "u具"
   ],
   "props": {
     "en": "tool",

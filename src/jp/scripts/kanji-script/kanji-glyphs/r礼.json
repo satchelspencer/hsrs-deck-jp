@@ -1,0 +1,17 @@
+{
+  "_id": "e60er31rfk1",
+  "name": "r礼",
+  "order": "2.9.1.4.7.1",
+  "params": {
+    "_g": "礼",
+    "_r": "m礼"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "礼"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "_id": "jbbvy0bo6x6",
+  "desc": "variant of 曰",
+  "name": "日障",
+  "order": "3.6.1.5.6",
+  "params": {
+    "_g": "障",
+    "_r": "m日"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "9",
+    "_sl": "4",
+    "jp": "日"
+  }
+}

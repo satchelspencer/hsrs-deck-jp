@@ -3,7 +3,9 @@
   "name": "girl",
   "order": "1",
   "parents": [
-    "demographics"
+    "demographics",
+    "u女",
+    "u子"
   ],
   "props": {
     "en": "girl",

@@ -3,7 +3,9 @@
   "name": "brown-color",
   "order": "3",
   "parents": [
-    "colors"
+    "colors",
+    "u茶",
+    "u色"
   ],
   "props": {
     "en": "brown color",

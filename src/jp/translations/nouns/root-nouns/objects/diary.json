@@ -3,7 +3,9 @@
   "name": "diary",
   "order": "3",
   "parents": [
-    "objects"
+    "objects",
+    "u日",
+    "u記"
   ],
   "props": {
     "en": "diary",

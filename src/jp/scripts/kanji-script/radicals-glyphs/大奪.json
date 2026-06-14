@@ -1,0 +1,17 @@
+{
+  "_id": "405d6wmm1zf",
+  "name": "大奪",
+  "order": "4.9.5.8.8",
+  "params": {
+    "_g": "奪",
+    "_r": "m大"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "大"
+  }
+}

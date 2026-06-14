@@ -1,0 +1,15 @@
+{
+  "_id": "i5lgrw68307",
+  "name": "瓶",
+  "order": "3.9.2.1.0",
+  "params": {
+    "_wd": "u瓶"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "瓶",
+    "_st": "CwJNEhFjAgIGCAcMA00tDmMAAAABAAFjgQOECIgOBE0PI2MCAQQABgBjBoERgxiEYwIABAAGAARNCzljAQEDAQQBYwuBGoQlhGMCAAMAAwADTRkmYwEBAQIBBGMAEgEnjTYETSgkYwEBAQIBA2MAAQAjADNjAAQABgAIBE02FWMDAQUABwBjCIETgxqDYwIABAAGAANNQhhjAQEBAgEEY4EIiTSMPgNNNFtjAgEDAQUAYwaDDYYSiQdNQypjAQADAAQAYwOBCYIMg2MCAAMBAwNjgQSDGIUjY4MSghQHFGMJAAmBCYoCTUQ4YwICBggHCw"
+  }
+}

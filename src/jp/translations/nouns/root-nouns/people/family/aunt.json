@@ -3,7 +3,9 @@
   "name": "aunt",
   "order": "2",
   "parents": [
-    "family"
+    "family",
+    "u伯",
+    "u母"
   ],
   "props": {
     "en": "aunt",

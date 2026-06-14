@@ -1,0 +1,18 @@
+{
+  "_id": "r1zejfcb95e",
+  "desc": "variant of 曰",
+  "name": "日野",
+  "order": "1.9.5.8.8",
+  "params": {
+    "_g": "野",
+    "_r": "m日"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "日"
+  }
+}

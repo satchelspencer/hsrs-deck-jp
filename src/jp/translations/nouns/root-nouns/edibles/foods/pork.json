@@ -3,7 +3,9 @@
   "name": "pork",
   "order": "2",
   "parents": [
-    "foods"
+    "foods",
+    "u豚",
+    "u肉"
   ],
   "props": {
     "en": "pork",

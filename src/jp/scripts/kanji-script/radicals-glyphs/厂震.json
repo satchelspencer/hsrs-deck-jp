@@ -1,0 +1,17 @@
+{
+  "_id": "5jv1vehgzpv",
+  "name": "厂震",
+  "order": "3.6.6.5.0",
+  "params": {
+    "_g": "震",
+    "_r": "m厂"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "9",
+    "_sl": "2",
+    "jp": "厂"
+  }
+}

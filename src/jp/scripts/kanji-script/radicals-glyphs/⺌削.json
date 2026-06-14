@@ -1,0 +1,18 @@
+{
+  "_id": "pic5nm7odip",
+  "desc": "variant of 小",
+  "name": "⺌削",
+  "order": "4.2.4.0.9",
+  "params": {
+    "_g": "削",
+    "_r": "m⺌"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "⺌"
+  }
+}

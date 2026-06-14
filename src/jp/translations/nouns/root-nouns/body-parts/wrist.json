@@ -4,7 +4,9 @@
   "order": "4",
   "parents": [
     "body-parts",
-    "symmetric-body-parts"
+    "symmetric-body-parts",
+    "u手",
+    "u首"
   ],
   "props": {
     "en": "wrist",

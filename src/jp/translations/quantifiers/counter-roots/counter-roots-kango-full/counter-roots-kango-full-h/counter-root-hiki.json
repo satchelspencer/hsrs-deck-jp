@@ -4,7 +4,8 @@
   "name": "counter-root-hiki",
   "order": "2",
   "parents": [
-    "counter-roots-kango-full-h"
+    "counter-roots-kango-full-h",
+    "u匹"
   ],
   "props": {
     "_ec": "critters",

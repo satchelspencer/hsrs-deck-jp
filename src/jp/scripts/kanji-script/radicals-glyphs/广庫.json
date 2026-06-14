@@ -1,0 +1,17 @@
+{
+  "_id": "72q2do4yhgv",
+  "name": "广庫",
+  "order": "2.9.1.8.6",
+  "params": {
+    "_g": "庫",
+    "_r": "m广"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "广"
+  }
+}

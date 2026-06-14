@@ -1,0 +1,17 @@
+{
+  "_id": "e58psakmev1",
+  "name": "厂臓",
+  "order": "4.9.5.6.1",
+  "params": {
+    "_g": "臓",
+    "_r": "m厂"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "2",
+    "jp": "厂"
+  }
+}

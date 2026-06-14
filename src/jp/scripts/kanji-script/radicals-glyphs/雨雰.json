@@ -1,0 +1,17 @@
+{
+  "_id": "p4bdlts1sc2",
+  "name": "雨雰",
+  "order": "4.1.3.3.9",
+  "params": {
+    "_g": "雰",
+    "_r": "m雨"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "8",
+    "jp": "雨"
+  }
+}

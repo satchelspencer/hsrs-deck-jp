@@ -1,0 +1,18 @@
+{
+  "_id": "2dc8t08imbd",
+  "desc": "variant of 犬",
+  "name": "⺨狙",
+  "order": "4.9.5.5.2",
+  "params": {
+    "_g": "狙",
+    "_r": "m⺨"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "⺨"
+  }
+}

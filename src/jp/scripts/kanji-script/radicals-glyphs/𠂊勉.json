@@ -1,0 +1,18 @@
+{
+  "_id": "v3cdvluu1mp",
+  "desc": "variant of 勹",
+  "name": "𠂊勉",
+  "order": "1.2.5.8.6",
+  "params": {
+    "_g": "勉",
+    "_r": "m𠂊"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "2",
+    "jp": "𠂊"
+  }
+}

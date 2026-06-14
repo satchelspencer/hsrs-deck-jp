@@ -1,0 +1,17 @@
+{
+  "_id": "tmz51q7ivyx",
+  "name": "目真",
+  "order": "2.2.4.6.1",
+  "params": {
+    "_g": "真",
+    "_r": "m目"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "3",
+    "_sl": "5",
+    "jp": "目"
+  }
+}

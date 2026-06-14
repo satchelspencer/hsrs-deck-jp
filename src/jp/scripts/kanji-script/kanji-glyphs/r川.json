@@ -1,0 +1,17 @@
+{
+  "_id": "srxvz87h55p",
+  "name": "r川",
+  "order": "1.9.5.5.2.1",
+  "params": {
+    "_g": "川",
+    "_r": "m川"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "川"
+  }
+}

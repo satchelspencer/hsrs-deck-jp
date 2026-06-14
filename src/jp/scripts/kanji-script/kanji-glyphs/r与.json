@@ -1,0 +1,17 @@
+{
+  "_id": "73zxysn2bs4",
+  "name": "r与",
+  "order": "2.2.4.6.1.1",
+  "params": {
+    "_g": "与",
+    "_r": "m与"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "与"
+  }
+}

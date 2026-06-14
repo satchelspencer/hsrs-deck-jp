@@ -1,0 +1,17 @@
+{
+  "_id": "okksuyjoao1",
+  "name": "r仕",
+  "order": "1.2.3.9.1.1",
+  "params": {
+    "_g": "仕",
+    "_r": "m仕"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "仕"
+  }
+}

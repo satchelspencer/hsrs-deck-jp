@@ -1,0 +1,18 @@
+{
+  "_id": "f9rfcwi3cbm",
+  "name": "曲典",
+  "order": "4.9.1.0.5",
+  "params": {
+    "_1": "廾典",
+    "_g": "典",
+    "_r": "m曲"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "曲"
+  }
+}

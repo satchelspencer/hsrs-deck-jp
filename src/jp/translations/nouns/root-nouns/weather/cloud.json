@@ -3,7 +3,8 @@
   "name": "cloud",
   "order": "3",
   "parents": [
-    "weather"
+    "weather",
+    "u雲"
   ],
   "props": {
     "en": "cloud",

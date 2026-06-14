@@ -4,7 +4,9 @@
   "name": "audience",
   "order": "4",
   "parents": [
-    "people"
+    "people",
+    "u観",
+    "u客"
   ],
   "props": {
     "en": "audience",

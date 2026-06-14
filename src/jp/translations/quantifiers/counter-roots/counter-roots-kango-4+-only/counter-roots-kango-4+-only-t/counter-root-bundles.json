@@ -4,7 +4,8 @@
   "name": "counter-root-bundles",
   "order": "4",
   "parents": [
-    "counter-roots-kango-4+-only-t"
+    "counter-roots-kango-4+-only-t",
+    "u束"
   ],
   "props": {
     "_ec": "bundles",

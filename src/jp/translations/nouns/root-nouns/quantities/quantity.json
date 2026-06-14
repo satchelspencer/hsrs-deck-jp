@@ -4,7 +4,8 @@
   "name": "quantity",
   "order": "4",
   "parents": [
-    "quantities"
+    "quantities",
+    "u量"
   ],
   "props": {
     "en": "quantity",

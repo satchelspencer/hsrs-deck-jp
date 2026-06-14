@@ -5,7 +5,9 @@
   "order": "3",
   "parents": [
     "absolute-times",
-    "ni-any-times"
+    "ni-any-times",
+    "u年",
+    "u度"
   ],
   "props": {
     "en": "fiscal year",

@@ -3,7 +3,9 @@
   "name": "music",
   "order": "1",
   "parents": [
-    "audibles"
+    "audibles",
+    "u音",
+    "u楽"
   ],
   "props": {
     "en": "music",

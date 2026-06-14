@@ -1,0 +1,18 @@
+{
+  "_id": "1nsmgak2lnv",
+  "desc": "variant of 彑",
+  "name": "⺕事",
+  "order": "1.2.3.9.1",
+  "params": {
+    "_g": "事",
+    "_r": "m⺕"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "3",
+    "jp": "⺕"
+  }
+}

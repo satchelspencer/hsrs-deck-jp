@@ -1,0 +1,17 @@
+{
+  "_id": "yz2or2mgu5t",
+  "name": "女腰",
+  "order": "4.9.3.1.0",
+  "params": {
+    "_g": "腰",
+    "_r": "m女"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "11",
+    "_sl": "3",
+    "jp": "女"
+  }
+}

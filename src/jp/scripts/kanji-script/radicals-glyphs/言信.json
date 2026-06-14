@@ -1,0 +1,18 @@
+{
+  "_id": "s4qcngvhl2o",
+  "name": "言信",
+  "order": "2.3.9.9.9",
+  "params": {
+    "_1": "口信",
+    "_g": "信",
+    "_r": "m言"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "3",
+    "_sl": "7",
+    "jp": "言"
+  }
+}

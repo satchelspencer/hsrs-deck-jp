@@ -1,0 +1,17 @@
+{
+  "_id": "hnoljkiaovq",
+  "name": "亠装",
+  "order": "3.9.1.0.3",
+  "params": {
+    "_g": "装",
+    "_r": "m亠"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "2",
+    "jp": "亠"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "euzfxekyn6b",
+  "name": "彡修",
+  "order": "4.1.5.1.2",
+  "params": {
+    "_g": "修",
+    "_r": "m彡"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "3",
+    "jp": "彡"
+  }
+}

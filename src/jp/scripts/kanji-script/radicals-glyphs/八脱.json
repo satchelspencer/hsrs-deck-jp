@@ -1,0 +1,17 @@
+{
+  "_id": "mk21rnuuile",
+  "name": "八脱",
+  "order": "2.9.9.1.0",
+  "params": {
+    "_g": "脱",
+    "_r": "m八"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "2",
+    "jp": "八"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "cd34kk2o53w",
+  "name": "r冗",
+  "order": "4.1.9.4.9.1",
+  "params": {
+    "_g": "冗",
+    "_r": "m冗"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "冗"
+  }
+}

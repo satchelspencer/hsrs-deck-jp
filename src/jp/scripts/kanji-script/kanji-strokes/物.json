@@ -1,0 +1,15 @@
+{
+  "_id": "xe2my4wqk4k",
+  "name": "物",
+  "order": "1.3.8.4.2",
+  "params": {
+    "_wd": "u物"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "物",
+    "_st": "CANNGBljAAEAAgADY4EGhRKLGQRNGCdjAQACAAMAYwaBDIIQg2MCAAQABQAETSMOYwEBAQMBBGMAAQA0AEhjAAMABgAHA00PRmMBAQIBBABDFEUnOSw1A01DEGMAAQACAANjggeIEZEZBk07J2MCAAMABQBjB4ETgxqFYwWBBgIFB2OBBIYlkTFjgwSFAoiBA01CKmMAAQACAANjhQmKEJQZA01QKGMBAQADAARjhQuMGZsn"
+  }
+}

@@ -4,7 +4,9 @@
   "name": "habits",
   "order": "3",
   "parents": [
-    "healthfuls"
+    "healthfuls",
+    "u習",
+    "u慣"
   ],
   "props": {
     "en": "habits",

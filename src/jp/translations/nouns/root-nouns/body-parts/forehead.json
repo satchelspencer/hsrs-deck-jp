@@ -3,7 +3,8 @@
   "name": "forehead",
   "order": "4",
   "parents": [
-    "body-parts"
+    "body-parts",
+    "u額"
   ],
   "props": {
     "en": "forehead",

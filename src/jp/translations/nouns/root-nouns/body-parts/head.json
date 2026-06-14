@@ -5,7 +5,8 @@
   "parents": [
     "body-parts",
     "waveables",
-    "raisables"
+    "raisables",
+    "u頭"
   ],
   "props": {
     "en": "head",

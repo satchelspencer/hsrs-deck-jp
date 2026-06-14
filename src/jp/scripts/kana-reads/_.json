@@ -1,0 +1,10 @@
+{
+  "_id": "phtx5ae4dem",
+  "name": "kana-reads",
+  "parents": [
+    "scripts"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

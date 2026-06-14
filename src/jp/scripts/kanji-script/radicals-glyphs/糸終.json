@@ -1,0 +1,17 @@
+{
+  "_id": "lppdc37u7oc",
+  "name": "糸終",
+  "order": "2.1.6.6.5",
+  "params": {
+    "_g": "終",
+    "_r": "m糸"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "糸"
+  }
+}

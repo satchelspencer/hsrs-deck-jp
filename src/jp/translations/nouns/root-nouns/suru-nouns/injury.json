@@ -5,7 +5,9 @@
   "order": "3",
   "parents": [
     "suru-nouns",
-    "people-do"
+    "people-do",
+    "u怪",
+    "u我"
   ],
   "props": {
     "_v": "get injured",

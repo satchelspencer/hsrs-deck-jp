@@ -1,0 +1,18 @@
+{
+  "_id": "4yz24unvaoj",
+  "desc": "variant of 人",
+  "name": "亻維",
+  "order": "4.9.9.1.2",
+  "params": {
+    "_g": "維",
+    "_r": "m亻"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "2",
+    "jp": "亻"
+  }
+}

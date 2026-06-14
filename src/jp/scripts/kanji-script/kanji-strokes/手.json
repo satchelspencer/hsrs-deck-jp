@@ -1,0 +1,15 @@
+{
+  "_id": "pcosthx59up",
+  "name": "手",
+  "order": "1.4.3.7.1",
+  "params": {
+    "_wd": "u手"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "手",
+    "_st": "BANNPQxjAAGBAoIDY4MDjgidDARNGitjAgAEAQYAQy4pOidHJmMCAAUABwAETQ0_YwMBBQEHAGMXgi6GRIdjAgAFAAcAA00xGEM8Hz9AOlpjgguJAooB"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "_id": "a84a8iuausj",
+  "desc": "variant of 曰",
+  "name": "日晩",
+  "order": "1.9.7.0.8",
+  "params": {
+    "_g": "晩",
+    "_r": "m日"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "日"
+  }
+}

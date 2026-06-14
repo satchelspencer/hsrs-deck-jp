@@ -3,7 +3,8 @@
   "name": "blue-color",
   "order": "3",
   "parents": [
-    "colors"
+    "colors",
+    "u青"
   ],
   "props": {
     "en": "blue color",

@@ -1,0 +1,17 @@
+{
+  "_id": "vhf5lnkj8x3",
+  "name": "用薄",
+  "order": "3.2.5.0.4",
+  "params": {
+    "_g": "薄",
+    "_r": "m用"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "5",
+    "jp": "用"
+  }
+}

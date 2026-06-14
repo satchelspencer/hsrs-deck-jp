@@ -4,7 +4,9 @@
   "name": "park",
   "order": "1",
   "parents": [
-    "places"
+    "places",
+    "u公",
+    "u園"
   ],
   "props": {
     "en": "park",

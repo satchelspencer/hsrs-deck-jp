@@ -5,7 +5,9 @@
   "order": "3",
   "parents": [
     "suru-nouns",
-    "people-do-volitional"
+    "people-do-volitional",
+    "u退",
+    "u院"
   ],
   "props": {
     "_v": "leave the hospital ",

@@ -1,0 +1,17 @@
+{
+  "_id": "ui3f7mm4809",
+  "name": "土越",
+  "order": "3.9.7.7.4",
+  "params": {
+    "_g": "越",
+    "_r": "m土"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "土"
+  }
+}

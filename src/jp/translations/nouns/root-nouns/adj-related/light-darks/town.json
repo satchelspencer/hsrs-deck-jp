@@ -5,7 +5,8 @@
   "order": "2",
   "parents": [
     "light-darks",
-    "places"
+    "places",
+    "u町"
   ],
   "props": {
     "en": "town",

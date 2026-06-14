@@ -1,0 +1,17 @@
+{
+  "_id": "4b6996y8wg2",
+  "name": "口褒",
+  "order": "3.9.1.1.2",
+  "params": {
+    "_g": "褒",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

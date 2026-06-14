@@ -3,7 +3,9 @@
   "name": "eternal",
   "order": "4",
   "parents": [
-    "no-attr-nouns"
+    "no-attr-nouns",
+    "u永",
+    "u遠"
   ],
   "props": {
     "en": "eternal",

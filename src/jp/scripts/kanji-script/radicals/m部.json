@@ -1,0 +1,10 @@
+{
+  "_id": "u3w50og7v29",
+  "name": "m部",
+  "parents": [
+    "radicals"
+  ],
+  "props": {
+    "_m": "section, bureau, dept, class"
+  }
+}

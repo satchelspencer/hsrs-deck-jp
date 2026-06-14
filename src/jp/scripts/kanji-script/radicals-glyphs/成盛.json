@@ -1,0 +1,17 @@
+{
+  "_id": "ompfm79tu30",
+  "name": "成盛",
+  "order": "3.9.6.6.4",
+  "params": {
+    "_g": "盛",
+    "_r": "m成"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "成"
+  }
+}

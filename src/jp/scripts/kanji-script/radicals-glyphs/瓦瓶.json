@@ -1,0 +1,17 @@
+{
+  "_id": "j3ny5y4xf99",
+  "name": "瓦瓶",
+  "order": "3.9.2.1.0",
+  "params": {
+    "_g": "瓶",
+    "_r": "m瓦"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "5",
+    "jp": "瓦"
+  }
+}

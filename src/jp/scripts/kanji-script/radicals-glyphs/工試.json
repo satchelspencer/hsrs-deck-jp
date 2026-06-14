@@ -1,0 +1,17 @@
+{
+  "_id": "0z91zfjd87p",
+  "name": "工試",
+  "order": "3.9.6.5.1",
+  "params": {
+    "_g": "試",
+    "_r": "m工"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "9",
+    "_sl": "3",
+    "jp": "工"
+  }
+}

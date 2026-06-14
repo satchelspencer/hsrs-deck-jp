@@ -1,0 +1,17 @@
+{
+  "_id": "ax1t5hwrwkg",
+  "name": "彳役",
+  "order": "3.9.6.1.6",
+  "params": {
+    "_g": "役",
+    "_r": "m彳"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "彳"
+  }
+}

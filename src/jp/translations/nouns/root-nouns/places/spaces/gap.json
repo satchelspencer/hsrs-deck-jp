@@ -4,7 +4,9 @@
   "name": "gap",
   "order": "4",
   "parents": [
-    "spaces"
+    "spaces",
+    "u隙",
+    "u間"
   ],
   "props": {
     "en": "gap",

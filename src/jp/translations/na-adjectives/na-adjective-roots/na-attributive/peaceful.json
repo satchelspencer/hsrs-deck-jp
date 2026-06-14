@@ -3,7 +3,8 @@
   "name": "peaceful",
   "order": "4",
   "parents": [
-    "na-attributive"
+    "na-attributive",
+    "u穏"
   ],
   "props": {
     "en": "peaceful",

@@ -1,0 +1,17 @@
+{
+  "_id": "8y6jlnpywqx",
+  "name": "r外",
+  "order": "1.9.3.7.9.1",
+  "params": {
+    "_g": "外",
+    "_r": "m外"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "外"
+  }
+}

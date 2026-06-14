@@ -1,0 +1,18 @@
+{
+  "_id": "j12t6wq643f",
+  "desc": "variant of 彑",
+  "name": "⺕妻",
+  "order": "3.6.1.1.2",
+  "params": {
+    "_g": "妻",
+    "_r": "m⺕"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "2",
+    "_sl": "3",
+    "jp": "⺕"
+  }
+}

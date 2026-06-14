@@ -5,7 +5,9 @@
   "order": "4",
   "parents": [
     "events",
-    "units"
+    "units",
+    "u行",
+    "u事"
   ],
   "props": {
     "en": "event",

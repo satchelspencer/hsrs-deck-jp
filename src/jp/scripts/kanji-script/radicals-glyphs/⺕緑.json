@@ -1,0 +1,18 @@
+{
+  "_id": "1vd40udg8e0",
+  "desc": "variant of 彑",
+  "name": "⺕緑",
+  "order": "3.9.6.1.8",
+  "params": {
+    "_g": "緑",
+    "_r": "m⺕"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "3",
+    "jp": "⺕"
+  }
+}

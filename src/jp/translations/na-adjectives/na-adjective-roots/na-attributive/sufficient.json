@@ -4,7 +4,9 @@
   "name": "sufficient",
   "order": "3",
   "parents": [
-    "na-attributive"
+    "na-attributive",
+    "u十",
+    "u分"
   ],
   "props": {
     "en": "sufficient",

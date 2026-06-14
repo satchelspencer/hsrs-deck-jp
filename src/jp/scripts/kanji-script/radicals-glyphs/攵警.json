@@ -1,0 +1,18 @@
+{
+  "_id": "c5xen3ay30e",
+  "desc": "variant of 攴",
+  "name": "攵警",
+  "order": "2.4.6.1.0",
+  "params": {
+    "_g": "警",
+    "_r": "m攵"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "9",
+    "_sl": "4",
+    "jp": "攵"
+  }
+}

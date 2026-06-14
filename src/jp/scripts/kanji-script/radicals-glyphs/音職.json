@@ -1,0 +1,19 @@
+{
+  "_id": "kbdwbv6ajue",
+  "name": "音職",
+  "order": "3.9.0.4.3",
+  "params": {
+    "_1": "立職",
+    "_2": "日職",
+    "_g": "職",
+    "_r": "m音"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "9",
+    "jp": "音"
+  }
+}

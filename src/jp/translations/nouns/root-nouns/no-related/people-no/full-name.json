@@ -3,7 +3,9 @@
   "name": "full-name",
   "order": "2",
   "parents": [
-    "people-no"
+    "people-no",
+    "u氏",
+    "u名"
   ],
   "props": {
     "en": "full name",

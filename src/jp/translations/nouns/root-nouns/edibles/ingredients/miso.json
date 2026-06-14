@@ -3,7 +3,9 @@
   "name": "miso",
   "order": "3",
   "parents": [
-    "ingredients"
+    "ingredients",
+    "u味",
+    "u噌"
   ],
   "props": {
     "en": "miso",

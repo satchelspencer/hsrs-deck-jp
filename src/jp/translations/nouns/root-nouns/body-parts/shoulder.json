@@ -4,7 +4,8 @@
   "order": "4",
   "parents": [
     "body-parts",
-    "symmetric-body-parts"
+    "symmetric-body-parts",
+    "u肩"
   ],
   "props": {
     "en": "shoulder",

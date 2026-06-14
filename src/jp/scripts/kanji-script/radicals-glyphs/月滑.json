@@ -1,0 +1,18 @@
+{
+  "_id": "8hobxahp524",
+  "desc": "variant of 肉",
+  "name": "月滑",
+  "order": "3.9.3.0.3",
+  "params": {
+    "_g": "滑",
+    "_r": "m月"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "10",
+    "_sl": "4",
+    "jp": "月"
+  }
+}

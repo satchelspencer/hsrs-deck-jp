@@ -1,0 +1,18 @@
+{
+  "_id": "57bmtsdphts",
+  "name": "羊遅",
+  "order": "2.4.1.0.5",
+  "params": {
+    "_1": "䒑遅",
+    "_g": "遅",
+    "_r": "m羊"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "6",
+    "jp": "羊"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "cr2oix3kjpa",
+  "name": "欠歌",
+  "order": "1.5.1.1.2",
+  "params": {
+    "_g": "歌",
+    "_r": "m欠"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "11",
+    "_sl": "4",
+    "jp": "欠"
+  }
+}

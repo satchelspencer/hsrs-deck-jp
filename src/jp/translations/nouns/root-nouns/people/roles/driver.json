@@ -3,7 +3,10 @@
   "name": "driver",
   "order": "3",
   "parents": [
-    "roles"
+    "roles",
+    "u運",
+    "u転",
+    "u手"
   ],
   "props": {
     "en": "driver",

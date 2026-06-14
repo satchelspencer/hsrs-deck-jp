@@ -1,0 +1,17 @@
+{
+  "_id": "oh2a5491kll",
+  "name": "r王",
+  "order": "1.4.6.4.6.1",
+  "params": {
+    "_g": "王",
+    "_r": "m王"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "王"
+  }
+}

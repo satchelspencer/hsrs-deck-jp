@@ -1,0 +1,17 @@
+{
+  "_id": "h5ivv8qdca2",
+  "name": "r中",
+  "order": "1.2.5.8.6.1",
+  "params": {
+    "_g": "中",
+    "_r": "m中"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "中"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "_id": "pst3matoapa",
+  "name": "咼過",
+  "order": "3.9.2.4.8",
+  "params": {
+    "_1": "口過",
+    "_g": "過",
+    "_r": "m咼"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "9",
+    "jp": "咼"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "pbwne36s0c1",
+  "name": "少歩",
+  "order": "2.3.5.7.2",
+  "params": {
+    "_g": "歩",
+    "_r": "m少"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "4",
+    "jp": "少"
+  }
+}

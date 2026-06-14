@@ -1,0 +1,18 @@
+{
+  "_id": "535682lbink",
+  "desc": "variant of 艸",
+  "name": "艹臓",
+  "order": "4.9.5.6.1",
+  "params": {
+    "_g": "臓",
+    "_r": "m艹"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "3",
+    "jp": "艹"
+  }
+}

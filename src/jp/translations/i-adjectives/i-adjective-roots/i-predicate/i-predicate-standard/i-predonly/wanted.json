@@ -4,7 +4,8 @@
   "name": "wanted",
   "order": "1",
   "parents": [
-    "i-predonly"
+    "i-predonly",
+    "u欲"
   ],
   "props": {
     "en": "wanted",

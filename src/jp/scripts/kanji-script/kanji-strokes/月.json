@@ -1,0 +1,15 @@
+{
+  "_id": "13ctcjypdrj",
+  "name": "月",
+  "order": "1.6.6.0.2",
+  "params": {
+    "_wd": "u月"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "月",
+    "_st": "BANNIhBjAQEBAgIEYwAiAjuLSQVNJBNjBIEfhSGFYwQABgEGBWMAAwAxAEZjAA2GBIkCAk0lJmMKgRuEJIQCTSU6YwmBG4MkhA"
+  }
+}

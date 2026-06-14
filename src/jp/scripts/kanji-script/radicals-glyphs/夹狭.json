@@ -1,0 +1,18 @@
+{
+  "_id": "gsgwjows3qj",
+  "desc": "variant of 夾",
+  "name": "夹狭",
+  "order": "3.3.9.8.9",
+  "params": {
+    "_g": "狭",
+    "_r": "m夹"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "6",
+    "jp": "夹"
+  }
+}

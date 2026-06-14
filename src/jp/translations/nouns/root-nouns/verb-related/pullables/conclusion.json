@@ -5,7 +5,9 @@
   "order": "4",
   "parents": [
     "pullables",
-    "choosables"
+    "choosables",
+    "u結",
+    "u論"
   ],
   "props": {
     "en": "conclusion",

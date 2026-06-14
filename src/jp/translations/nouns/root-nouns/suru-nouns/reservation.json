@@ -5,7 +5,9 @@
   "order": "3",
   "parents": [
     "suru-nouns",
-    "people-do-volitional"
+    "people-do-volitional",
+    "u予",
+    "u約"
   ],
   "props": {
     "_v": "reserve",

@@ -1,0 +1,17 @@
+{
+  "_id": "6ugsx192k89",
+  "name": "广応",
+  "order": "4.1.1.9.8",
+  "params": {
+    "_g": "応",
+    "_r": "m广"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "广"
+  }
+}

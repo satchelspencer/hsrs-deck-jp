@@ -4,7 +4,9 @@
   "name": "scene",
   "order": "4",
   "parents": [
-    "seeables"
+    "seeables",
+    "u光",
+    "u景"
   ],
   "props": {
     "en": "scene",

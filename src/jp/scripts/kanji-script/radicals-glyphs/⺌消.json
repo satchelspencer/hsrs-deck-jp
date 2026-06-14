@@ -1,0 +1,18 @@
+{
+  "_id": "6p08gzsmcpv",
+  "desc": "variant of 小",
+  "name": "⺌消",
+  "order": "1.3.5.7.4",
+  "params": {
+    "_g": "消",
+    "_r": "m⺌"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "3",
+    "jp": "⺌"
+  }
+}

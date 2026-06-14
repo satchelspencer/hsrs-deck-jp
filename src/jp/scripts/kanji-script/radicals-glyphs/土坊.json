@@ -1,0 +1,17 @@
+{
+  "_id": "f69zgb9v41u",
+  "name": "土坊",
+  "order": "3.9.5.6.9",
+  "params": {
+    "_g": "坊",
+    "_r": "m土"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "土"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "r6iqfy7ybm7",
+  "name": "卯留",
+  "order": "3.9.5.9.4",
+  "params": {
+    "_g": "留",
+    "_r": "m卯"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "卯"
+  }
+}

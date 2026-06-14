@@ -1,0 +1,17 @@
+{
+  "_id": "jakgzvzg2bd",
+  "name": "心愛",
+  "order": "1.4.2.0.7",
+  "params": {
+    "_g": "愛",
+    "_r": "m心"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "4",
+    "jp": "心"
+  }
+}

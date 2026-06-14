@@ -1,0 +1,10 @@
+{
+  "_id": "arzxz8f7n2k",
+  "name": "m巻",
+  "parents": [
+    "radicals"
+  ],
+  "props": {
+    "_m": "scroll, volume, book, part"
+  }
+}

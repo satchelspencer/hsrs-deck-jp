@@ -3,7 +3,9 @@
   "name": "velocity",
   "order": "4",
   "parents": [
-    "quantities"
+    "quantities",
+    "u速",
+    "u度"
   ],
   "props": {
     "en": "velocity",

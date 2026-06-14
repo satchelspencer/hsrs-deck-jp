@@ -1,0 +1,17 @@
+{
+  "_id": "plep69cxxz4",
+  "name": "圭掛",
+  "order": "2.9.2.1.6",
+  "params": {
+    "_g": "掛",
+    "_r": "m圭"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "6",
+    "jp": "圭"
+  }
+}

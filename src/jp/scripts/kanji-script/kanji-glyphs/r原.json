@@ -1,0 +1,18 @@
+{
+  "_id": "adzwqsmufzz",
+  "name": "r原",
+  "order": "1.9.4.0.8.1",
+  "params": {
+    "_1": "厂原",
+    "_g": "原",
+    "_r": "m原"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "10",
+    "jp": "原"
+  }
+}

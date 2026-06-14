@@ -4,7 +4,8 @@
   "order": "3",
   "parents": [
     "weather",
-    "shiners"
+    "shiners",
+    "u星"
   ],
   "props": {
     "en": "star",

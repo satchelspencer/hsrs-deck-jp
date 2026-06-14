@@ -1,0 +1,15 @@
+{
+  "_id": "0mwe0iqqnqd",
+  "name": "紙",
+  "order": "1.2.8.5.3",
+  "params": {
+    "_wd": "u紙"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "紙",
+    "_st": "CgVNGhJjAAEAAgAEY4MGhguJEWMAAYEDAANjAwEHAgoEBU0mG0MmHCYdJR9jhgiOFZUdY4ICAAQCA2MFgRCGFocCTSQxYwICBwgHDARNHD5jAQEBAgIEYwAGABIAGkMdXh1gHWEDTRJIYwABAQIABGOBBIMJhw8CTSZFYwMDBQkFDANNUA9jAAGBAoIDQ0gXPRw0IAVNMiBjAQECAwIGc4EugTJzAAUDAlNDUEVPBE03M2MCAAQABgBjCYIQgxqFYwMABAAGAARNRBxjAQICBAIGQ0g4T1BdW2MGBQWFBYg"
+  }
+}

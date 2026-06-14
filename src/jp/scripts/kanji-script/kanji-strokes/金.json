@@ -1,0 +1,15 @@
+{
+  "_id": "v30ijcdae0j",
+  "name": "金",
+  "order": "1.9.7.2.1",
+  "params": {
+    "_wd": "u金"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "金",
+    "_st": "CANNNAxjAAIABIEFQzAYIS8POgNNNBJjCggiHyUhYwMCBAMGAwRNIi9jAgEEAAYAYweBDoIYg2MCAAQABgAETR5BYwIBBAAGAGMJgRGCH4NjAgAFAAcAA00zMWMBAQEEAQRjAAQAJwAoAk0fS2MDAwcJCQwDTUlIYwABAAKBBENGT0JTP1YETRNfYwMBBgAJAGMRgSGCNINjAwAGAAkB"
+  }
+}

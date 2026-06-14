@@ -1,0 +1,18 @@
+{
+  "_id": "h8u0hac5ovc",
+  "name": "足踏",
+  "order": "3.6.3.2.0",
+  "params": {
+    "_1": "口踏",
+    "_g": "踏",
+    "_r": "m足"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "7",
+    "jp": "足"
+  }
+}

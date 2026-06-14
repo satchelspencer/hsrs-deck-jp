@@ -1,0 +1,17 @@
+{
+  "_id": "8htqkr1ha1o",
+  "name": "r正",
+  "order": "1.9.5.6.0.1",
+  "params": {
+    "_g": "正",
+    "_r": "m正"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "正"
+  }
+}

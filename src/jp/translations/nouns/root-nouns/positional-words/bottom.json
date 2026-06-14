@@ -4,7 +4,8 @@
   "name": "bottom",
   "order": "4",
   "parents": [
-    "positional-words"
+    "positional-words",
+    "u底"
   ],
   "props": {
     "en": "bottom",

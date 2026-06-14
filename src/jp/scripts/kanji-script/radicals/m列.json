@@ -1,0 +1,10 @@
+{
+  "_id": "usklr506tzc",
+  "name": "m列",
+  "parents": [
+    "radicals"
+  ],
+  "props": {
+    "_m": "file, row, rank, tier, column"
+  }
+}

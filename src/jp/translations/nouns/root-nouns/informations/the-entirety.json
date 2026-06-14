@@ -5,7 +5,9 @@
   "order": "4",
   "parents": [
     "informations",
-    "seeables"
+    "seeables",
+    "u全",
+    "u体"
   ],
   "props": {
     "en": "the entirety",

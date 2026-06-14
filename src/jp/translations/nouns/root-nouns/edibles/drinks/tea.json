@@ -5,7 +5,8 @@
   "order": "1",
   "parents": [
     "drinks",
-    "heated-edibles"
+    "heated-edibles",
+    "u茶"
   ],
   "props": {
     "en": "tea",

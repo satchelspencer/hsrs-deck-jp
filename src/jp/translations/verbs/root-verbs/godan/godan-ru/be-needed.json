@@ -4,7 +4,8 @@
   "name": "be-needed",
   "order": "1",
   "parents": [
-    "godan-ru"
+    "godan-ru",
+    "u要"
   ],
   "props": {
     "en": "be needed",

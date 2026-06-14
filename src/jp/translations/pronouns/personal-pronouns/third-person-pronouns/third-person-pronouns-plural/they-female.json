@@ -5,7 +5,9 @@
     "pronoun": "she"
   },
   "parents": [
-    "third-person-pronouns-plural"
+    "third-person-pronouns-plural",
+    "u彼",
+    "u女"
   ],
   "props": {
     "en": "those girls",

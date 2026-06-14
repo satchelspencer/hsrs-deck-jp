@@ -1,0 +1,17 @@
+{
+  "_id": "q4ig0dbv4ml",
+  "name": "艮銀",
+  "order": "2.9.7.5.0",
+  "params": {
+    "_g": "銀",
+    "_r": "m艮"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "9",
+    "_sl": "6",
+    "jp": "艮"
+  }
+}

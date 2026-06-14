@@ -1,0 +1,18 @@
+{
+  "_id": "li622iqrahy",
+  "desc": "variant of 人",
+  "name": "亻旅",
+  "order": "2.5.2.0.7",
+  "params": {
+    "_g": "旅",
+    "_r": "m亻"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "2",
+    "jp": "亻"
+  }
+}

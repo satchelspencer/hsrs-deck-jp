@@ -1,0 +1,17 @@
+{
+  "_id": "odpnpcv1iuz",
+  "name": "丶球",
+  "order": "1.9.5.8.8",
+  "params": {
+    "_g": "球",
+    "_r": "m丶"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "11",
+    "_sl": "1",
+    "jp": "丶"
+  }
+}

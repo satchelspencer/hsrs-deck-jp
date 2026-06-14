@@ -6,7 +6,8 @@
   "parents": [
     "godan-ku",
     "ni-destination-verbs",
-    "te-iru-verbs-state"
+    "te-iru-verbs-state",
+    "u届"
   ],
   "props": {
     "en": "reach",

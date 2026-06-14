@@ -1,0 +1,17 @@
+{
+  "_id": "erv6oa6hbt4",
+  "name": "示宗",
+  "order": "3.9.4.8.5",
+  "params": {
+    "_g": "宗",
+    "_r": "m示"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "5",
+    "jp": "示"
+  }
+}

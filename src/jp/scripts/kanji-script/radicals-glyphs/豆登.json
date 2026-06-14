@@ -1,0 +1,18 @@
+{
+  "_id": "3fby0fxh5t2",
+  "name": "豆登",
+  "order": "3.9.1.5.0",
+  "params": {
+    "_1": "口登",
+    "_g": "登",
+    "_r": "m豆"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "7",
+    "jp": "豆"
+  }
+}

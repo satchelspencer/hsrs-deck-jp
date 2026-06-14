@@ -5,7 +5,9 @@
   "parents": [
     "foods",
     "quantities",
-    "categories"
+    "categories",
+    "u食",
+    "u物"
   ],
   "props": {
     "en": "food",

@@ -1,0 +1,17 @@
+{
+  "_id": "60k2elloxn9",
+  "name": "厶室",
+  "order": "2.9.4.0.4",
+  "params": {
+    "_g": "室",
+    "_r": "m厶"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "2",
+    "jp": "厶"
+  }
+}

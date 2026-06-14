@@ -1,0 +1,17 @@
+{
+  "_id": "k1n5avyth48",
+  "name": "女婦",
+  "order": "4.9.8.9.1",
+  "params": {
+    "_g": "婦",
+    "_r": "m女"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "女"
+  }
+}

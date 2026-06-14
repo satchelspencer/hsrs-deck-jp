@@ -1,0 +1,11 @@
+{
+  "_id": "6yb3jrncu86",
+  "desc": "variant of 刀",
+  "name": "m刂",
+  "parents": [
+    "radicals"
+  ],
+  "props": {
+    "_m": "knife"
+  }
+}

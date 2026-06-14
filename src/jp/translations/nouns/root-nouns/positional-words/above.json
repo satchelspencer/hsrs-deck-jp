@@ -3,7 +3,8 @@
   "name": "above",
   "order": "1.2",
   "parents": [
-    "positional-words"
+    "positional-words",
+    "u上"
   ],
   "props": {
     "en": "above",

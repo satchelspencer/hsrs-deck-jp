@@ -1,0 +1,17 @@
+{
+  "_id": "ho2r1j9g8iv",
+  "name": "r米",
+  "order": "1.1.5.0.8.1",
+  "params": {
+    "_g": "米",
+    "_r": "m米"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "米"
+  }
+}

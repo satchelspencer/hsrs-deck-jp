@@ -4,7 +4,9 @@
   "name": "crowd",
   "order": "3",
   "parents": [
-    "people"
+    "people",
+    "u大",
+    "u勢"
   ],
   "props": {
     "en": "crowd",

@@ -1,0 +1,17 @@
+{
+  "_id": "txlft5jgmig",
+  "name": "厂岸",
+  "order": "3.9.0.9.4",
+  "params": {
+    "_g": "岸",
+    "_r": "m厂"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "2",
+    "jp": "厂"
+  }
+}

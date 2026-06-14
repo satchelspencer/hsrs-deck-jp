@@ -1,0 +1,17 @@
+{
+  "_id": "8gap5m8xlu0",
+  "name": "皿盗",
+  "order": "3.9.6.5.4",
+  "params": {
+    "_g": "盗",
+    "_r": "m皿"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "5",
+    "jp": "皿"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "v2k3wftr26m",
+  "name": "米噛",
+  "order": "3.9.6.5.0",
+  "params": {
+    "_g": "噛",
+    "_r": "m米"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "6",
+    "jp": "米"
+  }
+}

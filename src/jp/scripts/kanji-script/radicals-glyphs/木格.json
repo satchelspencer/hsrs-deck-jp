@@ -1,0 +1,17 @@
+{
+  "_id": "l51l9z9ifhd",
+  "name": "木格",
+  "order": "3.9.0.9.0",
+  "params": {
+    "_g": "格",
+    "_r": "m木"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "木"
+  }
+}

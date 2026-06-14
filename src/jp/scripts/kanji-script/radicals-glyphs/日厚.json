@@ -1,0 +1,18 @@
+{
+  "_id": "3vnndy5bcdo",
+  "desc": "variant of 曰",
+  "name": "日厚",
+  "order": "3.3.6.3.8",
+  "params": {
+    "_g": "厚",
+    "_r": "m日"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "3",
+    "_sl": "4",
+    "jp": "日"
+  }
+}

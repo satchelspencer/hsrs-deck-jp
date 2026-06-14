@@ -1,0 +1,17 @@
+{
+  "_id": "b6166qq15vc",
+  "name": "口嘘",
+  "order": "3.9.2.0.2",
+  "params": {
+    "_g": "嘘",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "_id": "7aefs1qajwt",
+  "name": "都",
+  "order": "3.9.3.4.4",
+  "params": {
+    "_wd": "u都"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "都",
+    "_st": "CwRNFRxjAQADAAQAQx4cJRsrGmMBAAQABQADTSMMYwEBAQICBGMACAAVABgETQorYwMABQAIAGMJgRqDI4RjAgAFAAcAA003EWMAAQADgQRDKycfNw1FBE0cOWMAAQECAQNjAAEAEQAZYwACAAQABAVNHjhjAgAPghOCYwIAAwEDA2MAAwAQABpjAAIABAAFAk0eRmMEABGCFYICTR5VYwWBD4EVggVNQxZjAQADAQQAYwWBDIIPg2MDgQUBBAVjgQOGDokSAk1RKmMSDBInAiAETUQYYwEBAgICA2MAAQAtAEBjAAMABgAI"
+  }
+}

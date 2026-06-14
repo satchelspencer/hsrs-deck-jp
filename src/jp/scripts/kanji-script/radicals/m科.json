@@ -1,0 +1,10 @@
+{
+  "_id": "tvtyjenc52t",
+  "name": "m科",
+  "parents": [
+    "radicals"
+  ],
+  "props": {
+    "_m": "department, course, section"
+  }
+}

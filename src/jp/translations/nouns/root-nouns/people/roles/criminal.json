@@ -4,7 +4,10 @@
   "name": "criminal",
   "order": "3",
   "parents": [
-    "roles"
+    "roles",
+    "u犯",
+    "u罪",
+    "u者"
   ],
   "props": {
     "en": "criminal",

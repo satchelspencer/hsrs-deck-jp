@@ -1,0 +1,17 @@
+{
+  "_id": "l2d3953bg58",
+  "name": "甘勘",
+  "order": "4.9.6.1.4",
+  "params": {
+    "_g": "勘",
+    "_r": "m甘"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "甘"
+  }
+}

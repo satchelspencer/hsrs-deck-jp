@@ -1,0 +1,17 @@
+{
+  "_id": "5qga3hzqoy7",
+  "name": "r身",
+  "order": "2.9.3.5.2.1",
+  "params": {
+    "_g": "身",
+    "_r": "m身"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "7",
+    "jp": "身"
+  }
+}

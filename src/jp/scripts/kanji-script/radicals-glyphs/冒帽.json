@@ -1,0 +1,19 @@
+{
+  "_id": "mh4cpmtctfy",
+  "name": "冒帽",
+  "order": "1.9.9.3.8",
+  "params": {
+    "_1": "日帽",
+    "_2": "目帽",
+    "_g": "帽",
+    "_r": "m冒"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "9",
+    "jp": "冒"
+  }
+}

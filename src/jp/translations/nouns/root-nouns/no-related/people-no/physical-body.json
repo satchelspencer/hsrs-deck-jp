@@ -4,7 +4,9 @@
   "name": "physical-body",
   "order": "4",
   "parents": [
-    "people-no"
+    "people-no",
+    "u肉",
+    "u体"
   ],
   "props": {
     "en": "physical body",

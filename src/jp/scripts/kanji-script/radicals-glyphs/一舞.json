@@ -1,0 +1,17 @@
+{
+  "_id": "s5pwy4tkoj2",
+  "name": "一舞",
+  "order": "3.9.8.8.3",
+  "params": {
+    "_g": "舞",
+    "_r": "m一"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "3",
+    "_sl": "1",
+    "jp": "一"
+  }
+}

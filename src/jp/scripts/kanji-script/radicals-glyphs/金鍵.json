@@ -1,0 +1,17 @@
+{
+  "_id": "y0skx3rbpb0",
+  "name": "金鍵",
+  "order": "2.9.7.5.3",
+  "params": {
+    "_g": "鍵",
+    "_r": "m金"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "8",
+    "jp": "金"
+  }
+}

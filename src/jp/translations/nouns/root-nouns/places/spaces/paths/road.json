@@ -4,7 +4,9 @@
   "name": "road",
   "order": "2",
   "parents": [
-    "paths"
+    "paths",
+    "u道",
+    "u路"
   ],
   "props": {
     "en": "road",

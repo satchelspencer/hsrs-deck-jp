@@ -3,7 +3,9 @@
   "name": "this-year",
   "order": "1",
   "parents": [
-    "wa-any-times"
+    "wa-any-times",
+    "u今",
+    "u年"
   ],
   "props": {
     "en": "this year",

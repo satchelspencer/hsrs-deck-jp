@@ -1,0 +1,18 @@
+{
+  "_id": "wtoxp4jg0q0",
+  "desc": "variant of 辶",
+  "name": "⻌遅",
+  "order": "2.4.1.0.5",
+  "params": {
+    "_g": "遅",
+    "_r": "m⻌"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "10",
+    "_sl": "3",
+    "jp": "⻌"
+  }
+}

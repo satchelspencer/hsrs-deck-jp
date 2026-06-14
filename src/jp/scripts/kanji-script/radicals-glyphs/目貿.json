@@ -1,0 +1,17 @@
+{
+  "_id": "80qjjlqtqwz",
+  "name": "目貿",
+  "order": "3.9.8.4.2",
+  "params": {
+    "_g": "貿",
+    "_r": "m目"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "5",
+    "jp": "目"
+  }
+}

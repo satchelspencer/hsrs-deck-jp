@@ -1,0 +1,17 @@
+{
+  "_id": "c84ktaip1xo",
+  "name": "車軒",
+  "order": "2.9.5.5.3",
+  "params": {
+    "_g": "軒",
+    "_r": "m車"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "7",
+    "jp": "車"
+  }
+}

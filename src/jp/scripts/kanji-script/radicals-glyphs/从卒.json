@@ -1,0 +1,17 @@
+{
+  "_id": "dwgrcr7hdfk",
+  "name": "从卒",
+  "order": "2.9.0.7.6",
+  "params": {
+    "_g": "卒",
+    "_r": "m从"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "3",
+    "_sl": "4",
+    "jp": "从"
+  }
+}

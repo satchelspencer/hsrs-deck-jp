@@ -1,0 +1,18 @@
+{
+  "_id": "siv9zdzliqb",
+  "name": "言記",
+  "order": "3.2.1.2.2",
+  "params": {
+    "_1": "口記",
+    "_g": "記",
+    "_r": "m言"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "7",
+    "jp": "言"
+  }
+}

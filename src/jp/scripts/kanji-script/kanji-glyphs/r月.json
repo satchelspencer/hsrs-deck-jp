@@ -1,0 +1,17 @@
+{
+  "_id": "gwk0e0i93mt",
+  "name": "r月",
+  "order": "1.1.4.0.2.1",
+  "params": {
+    "_g": "月",
+    "_r": "m月"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "月"
+  }
+}

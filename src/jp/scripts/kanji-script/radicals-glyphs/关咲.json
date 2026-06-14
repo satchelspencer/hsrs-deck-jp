@@ -1,0 +1,18 @@
+{
+  "_id": "3bcykc1t4ep",
+  "name": "关咲",
+  "order": "3.9.8.5.3",
+  "params": {
+    "_1": "天咲",
+    "_g": "咲",
+    "_r": "m关"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "6",
+    "jp": "关"
+  }
+}

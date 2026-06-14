@@ -5,7 +5,9 @@
   "order": "4",
   "parents": [
     "electrics",
-    "objects"
+    "objects",
+    "u電",
+    "u灯"
   ],
   "props": {
     "en": "electric lamp",

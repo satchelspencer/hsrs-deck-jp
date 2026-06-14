@@ -7,7 +7,9 @@
     "suru-nouns",
     "ni-person-verbs",
     "people-do-volitional",
-    "do-to-quote"
+    "do-to-quote",
+    "u指",
+    "u示"
   ],
   "props": {
     "_pg": "instructing",

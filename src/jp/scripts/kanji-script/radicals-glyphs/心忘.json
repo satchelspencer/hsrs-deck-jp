@@ -1,0 +1,17 @@
+{
+  "_id": "11haofw6v24",
+  "name": "心忘",
+  "order": "3.2.3.6.5",
+  "params": {
+    "_g": "忘",
+    "_r": "m心"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "4",
+    "jp": "心"
+  }
+}

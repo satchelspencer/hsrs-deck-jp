@@ -1,0 +1,17 @@
+{
+  "_id": "busg1g04syw",
+  "name": "古固",
+  "order": "2.9.7.7.4",
+  "params": {
+    "_g": "固",
+    "_r": "m古"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "3",
+    "_sl": "5",
+    "jp": "古"
+  }
+}

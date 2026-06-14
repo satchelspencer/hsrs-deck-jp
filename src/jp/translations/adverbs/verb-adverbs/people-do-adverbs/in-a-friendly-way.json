@@ -3,7 +3,9 @@
   "name": "in-a-friendly-way",
   "order": "4",
   "parents": [
-    "people-do-adverbs"
+    "people-do-adverbs",
+    "u仲",
+    "u良"
   ],
   "props": {
     "en": "in a friendly way",

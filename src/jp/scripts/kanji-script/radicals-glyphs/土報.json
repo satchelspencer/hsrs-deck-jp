@@ -1,0 +1,17 @@
+{
+  "_id": "63qggtuma7e",
+  "name": "土報",
+  "order": "3.9.7.1.6",
+  "params": {
+    "_g": "報",
+    "_r": "m土"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "土"
+  }
+}

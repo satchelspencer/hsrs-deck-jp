@@ -1,0 +1,18 @@
+{
+  "_id": "271isuvlnhv",
+  "name": "各路",
+  "order": "2.5.1.5.3",
+  "params": {
+    "_1": "夂路",
+    "_g": "路",
+    "_r": "m各"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "6",
+    "jp": "各"
+  }
+}

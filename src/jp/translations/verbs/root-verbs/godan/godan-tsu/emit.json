@@ -5,7 +5,8 @@
   "order": "4",
   "parents": [
     "godan-tsu",
-    "te-iru-verbs-continuous"
+    "te-iru-verbs-continuous",
+    "u放"
   ],
   "props": {
     "_pg": "emitting",

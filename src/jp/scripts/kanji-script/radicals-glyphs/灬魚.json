@@ -1,0 +1,18 @@
+{
+  "_id": "qlz06uhkmzb",
+  "desc": "variant of 火",
+  "name": "灬魚",
+  "order": "1.6.7.2.4",
+  "params": {
+    "_g": "魚",
+    "_r": "m灬"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "4",
+    "jp": "灬"
+  }
+}

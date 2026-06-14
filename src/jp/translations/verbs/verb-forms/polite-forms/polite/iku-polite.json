@@ -5,7 +5,8 @@
     "verb": "iku"
   },
   "parents": [
-    "polite"
+    "polite",
+    "u行"
   ],
   "props": {
     "jp": "verb.jp|r('行く', '行きます')|r('いく', 'いきます')"

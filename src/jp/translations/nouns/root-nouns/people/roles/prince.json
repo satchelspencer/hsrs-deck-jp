@@ -4,7 +4,9 @@
   "name": "prince",
   "order": "4",
   "parents": [
-    "roles"
+    "roles",
+    "u王",
+    "u子"
   ],
   "props": {
     "en": "prince",

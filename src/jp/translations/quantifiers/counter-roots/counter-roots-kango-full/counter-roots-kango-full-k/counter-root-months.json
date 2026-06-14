@@ -4,7 +4,8 @@
   "name": "counter-root-months",
   "order": "2",
   "parents": [
-    "counter-roots-kango-full-k"
+    "counter-roots-kango-full-k",
+    "u月"
   ],
   "props": {
     "_ec": "months",

@@ -4,7 +4,8 @@
   "name": "you-kimi",
   "order": "2",
   "parents": [
-    "second-person-pronouns-singular"
+    "second-person-pronouns-singular",
+    "u君"
   ],
   "props": {
     "en": "you",

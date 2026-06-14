@@ -1,0 +1,17 @@
+{
+  "_id": "kbh6pqi3bf6",
+  "name": "占貼",
+  "order": "3.9.7.0.2",
+  "params": {
+    "_g": "貼",
+    "_r": "m占"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "5",
+    "jp": "占"
+  }
+}

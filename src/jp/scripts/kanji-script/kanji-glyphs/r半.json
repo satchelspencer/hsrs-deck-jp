@@ -1,0 +1,17 @@
+{
+  "_id": "b5fg6u8fdbl",
+  "name": "r半",
+  "order": "3.9.5.5.3.1",
+  "params": {
+    "_g": "半",
+    "_r": "m半"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "半"
+  }
+}

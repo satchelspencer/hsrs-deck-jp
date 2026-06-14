@@ -3,7 +3,9 @@
   "name": "japan",
   "order": "1",
   "parents": [
-    "countries"
+    "countries",
+    "u日",
+    "u本"
   ],
   "props": {
     "_ad": "japanese",

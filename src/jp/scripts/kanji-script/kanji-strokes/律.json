@@ -1,0 +1,15 @@
+{
+  "_id": "thn0eablwxn",
+  "name": "律",
+  "order": "3.4.8.1.8",
+  "params": {
+    "_wd": "u律"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "律",
+    "_st": "CQNNIAxjAAEAAoEDY4MFiw2TEgNNISJjAAEAAoEDY4MHihCTGgRNGjJjAQEBAgEEYwAAABcAI2MABAAGAAcFTS8ZYwIABAAFAGMJgRODHIRjAwAEAQQEY4EEggyEFQRNKSZjAwAGAAoAYw-CHIMohGMDAAWBCAAETS8yYwIABAAGAGMKghCCGYNjAgAEAAYABE0tQGMCAQUABwBjCoITgxuEYwIABAAHAARNJU5jAwEGAAgAYw2CH4QqhGMDAAUABwAETT8LYwEBAgMCBGMAAQA2AExjAAMABgAI"
+  }
+}

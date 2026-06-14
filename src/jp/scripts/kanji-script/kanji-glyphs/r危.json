@@ -1,0 +1,17 @@
+{
+  "_id": "c0cilzyr1x5",
+  "name": "r危",
+  "order": "2.1.4.1.8.1",
+  "params": {
+    "_g": "危",
+    "_r": "m危"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "危"
+  }
+}

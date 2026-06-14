@@ -1,0 +1,18 @@
+{
+  "_id": "w3sxi0hh7of",
+  "desc": "variant of 刀",
+  "name": "卩報",
+  "order": "3.9.7.1.6",
+  "params": {
+    "_g": "報",
+    "_r": "m卩"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "9",
+    "_sl": "2",
+    "jp": "卩"
+  }
+}

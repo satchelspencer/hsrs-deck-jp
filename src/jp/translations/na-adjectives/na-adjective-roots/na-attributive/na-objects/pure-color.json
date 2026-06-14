@@ -6,7 +6,8 @@
     "color": "colors"
   },
   "parents": [
-    "na-objects"
+    "na-objects",
+    "u真"
   ],
   "props": {
     "en": "'pure '+color.en|r(' color', '')",

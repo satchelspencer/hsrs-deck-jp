@@ -3,7 +3,9 @@
   "name": "yesterday",
   "order": "1",
   "parents": [
-    "wa-past-only-times"
+    "wa-past-only-times",
+    "u昨",
+    "u日"
   ],
   "props": {
     "en": "yesterday",

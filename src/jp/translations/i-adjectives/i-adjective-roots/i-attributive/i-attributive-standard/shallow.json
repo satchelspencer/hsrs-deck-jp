@@ -3,7 +3,8 @@
   "name": "shallow",
   "order": "3",
   "parents": [
-    "i-attributive-standard"
+    "i-attributive-standard",
+    "u浅"
   ],
   "props": {
     "en": "shallow",

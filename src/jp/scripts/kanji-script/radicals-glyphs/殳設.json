@@ -1,0 +1,17 @@
+{
+  "_id": "kxqyibg0mmu",
+  "name": "殳設",
+  "order": "4.9.6.8.1",
+  "params": {
+    "_g": "設",
+    "_r": "m殳"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "4",
+    "jp": "殳"
+  }
+}

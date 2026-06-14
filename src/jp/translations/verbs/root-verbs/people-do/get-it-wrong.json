@@ -5,7 +5,9 @@
   "order": "2",
   "parents": [
     "people-do",
-    "ichidan"
+    "ichidan",
+    "u間",
+    "u違"
   ],
   "props": {
     "en": "get it wrong",

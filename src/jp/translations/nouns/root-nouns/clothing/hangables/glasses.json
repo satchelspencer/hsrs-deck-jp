@@ -3,7 +3,9 @@
   "name": "glasses",
   "order": "2",
   "parents": [
-    "hangables"
+    "hangables",
+    "u眼",
+    "u鏡"
   ],
   "props": {
     "en": "glasses",

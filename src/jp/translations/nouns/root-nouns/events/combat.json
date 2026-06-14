@@ -4,7 +4,9 @@
   "name": "combat",
   "order": "4",
   "parents": [
-    "events"
+    "events",
+    "u戦",
+    "u闘"
   ],
   "props": {
     "en": "combat",

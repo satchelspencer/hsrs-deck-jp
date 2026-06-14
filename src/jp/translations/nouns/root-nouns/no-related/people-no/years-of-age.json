@@ -5,7 +5,9 @@
   "order": "4",
   "parents": [
     "people-no",
-    "quantities"
+    "quantities",
+    "u年",
+    "u齢"
   ],
   "props": {
     "en": "years of age",

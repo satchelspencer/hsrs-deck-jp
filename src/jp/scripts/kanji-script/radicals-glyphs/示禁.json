@@ -1,0 +1,17 @@
+{
+  "_id": "6hfd8ftti4l",
+  "name": "示禁",
+  "order": "3.1.0.3.4",
+  "params": {
+    "_g": "禁",
+    "_r": "m示"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "9",
+    "_sl": "5",
+    "jp": "示"
+  }
+}

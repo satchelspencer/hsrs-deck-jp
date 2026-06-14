@@ -4,7 +4,9 @@
   "name": "a-beautiful-person",
   "order": "4",
   "parents": [
-    "people"
+    "people",
+    "u美",
+    "u人"
   ],
   "props": {
     "en": "a beautiful woman",

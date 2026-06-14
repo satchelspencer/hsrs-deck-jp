@@ -1,0 +1,17 @@
+{
+  "_id": "udpw4vn1t6x",
+  "name": "門闇",
+  "order": "4.1.9.3.2",
+  "params": {
+    "_g": "闇",
+    "_r": "m門"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "8",
+    "jp": "門"
+  }
+}

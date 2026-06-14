@@ -3,7 +3,9 @@
   "name": "smile-face",
   "order": "3",
   "parents": [
-    "naturals"
+    "naturals",
+    "u笑",
+    "u顔"
   ],
   "props": {
     "en": "smile face",

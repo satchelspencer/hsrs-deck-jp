@@ -1,0 +1,18 @@
+{
+  "_id": "nfjdknwyazf",
+  "desc": "variant of 吅",
+  "name": "⺍弾",
+  "order": "3.9.2.4.1",
+  "params": {
+    "_g": "弾",
+    "_r": "m⺍"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "3",
+    "jp": "⺍"
+  }
+}

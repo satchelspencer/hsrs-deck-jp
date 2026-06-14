@@ -1,0 +1,17 @@
+{
+  "_id": "9w402y4rwcq",
+  "name": "戸肩",
+  "order": "4.9.5.9.1",
+  "params": {
+    "_g": "肩",
+    "_r": "m戸"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "戸"
+  }
+}

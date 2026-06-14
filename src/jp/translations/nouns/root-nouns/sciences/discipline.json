@@ -5,7 +5,9 @@
   "order": "4",
   "parents": [
     "sciences",
-    "categories"
+    "categories",
+    "u学",
+    "u問"
   ],
   "props": {
     "en": "discipline",

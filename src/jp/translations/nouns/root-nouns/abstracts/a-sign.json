@@ -5,7 +5,9 @@
   "order": "4",
   "parents": [
     "abstracts",
-    "people-no"
+    "people-no",
+    "u気",
+    "u配"
   ],
   "props": {
     "en": "a sign",

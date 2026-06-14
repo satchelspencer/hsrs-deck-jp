@@ -1,0 +1,17 @@
+{
+  "_id": "h8mua72vv3s",
+  "name": "壬庭",
+  "order": "2.9.1.5.1",
+  "params": {
+    "_g": "庭",
+    "_r": "m壬"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "4",
+    "jp": "壬"
+  }
+}

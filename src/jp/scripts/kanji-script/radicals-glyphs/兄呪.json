@@ -1,0 +1,17 @@
+{
+  "_id": "sp1bl5djvh7",
+  "name": "兄呪",
+  "order": "4.9.2.1.6",
+  "params": {
+    "_g": "呪",
+    "_r": "m兄"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "5",
+    "jp": "兄"
+  }
+}

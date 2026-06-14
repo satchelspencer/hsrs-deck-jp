@@ -1,0 +1,17 @@
+{
+  "_id": "jqid5rn3pdt",
+  "name": "牛解",
+  "order": "4.2.3.5.4",
+  "params": {
+    "_g": "解",
+    "_r": "m牛"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "10",
+    "_sl": "4",
+    "jp": "牛"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "4xivzwzpu0j",
+  "name": "r西",
+  "order": "1.9.4.0.0.1",
+  "params": {
+    "_g": "西",
+    "_r": "m西"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "西"
+  }
+}

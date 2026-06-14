@@ -5,7 +5,11 @@
     "number": "twenty-four"
   },
   "parents": [
-    "counter-days"
+    "counter-days",
+    "u二",
+    "u十",
+    "u四",
+    "u日"
   ],
   "props": {
     "jp": "二十~四日",

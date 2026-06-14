@@ -1,0 +1,18 @@
+{
+  "_id": "tb7cp3wptka",
+  "name": "关関",
+  "order": "3.3.9.6.0",
+  "params": {
+    "_1": "天関",
+    "_g": "関",
+    "_r": "m关"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "9",
+    "_sl": "6",
+    "jp": "关"
+  }
+}

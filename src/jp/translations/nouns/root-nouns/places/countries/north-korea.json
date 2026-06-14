@@ -3,7 +3,10 @@
   "name": "north-korea",
   "order": "4",
   "parents": [
-    "countries"
+    "countries",
+    "u北",
+    "u朝",
+    "u鮮"
   ],
   "props": {
     "_ad": "north korean",

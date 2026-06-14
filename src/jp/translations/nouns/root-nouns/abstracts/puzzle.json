@@ -4,7 +4,8 @@
   "name": "puzzle",
   "order": "4",
   "parents": [
-    "abstracts"
+    "abstracts",
+    "u謎"
   ],
   "props": {
     "en": "puzzle",

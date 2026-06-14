@@ -3,7 +3,8 @@
   "name": "laughter",
   "order": "4",
   "parents": [
-    "people-no"
+    "people-no",
+    "u笑"
   ],
   "props": {
     "en": "laughter",

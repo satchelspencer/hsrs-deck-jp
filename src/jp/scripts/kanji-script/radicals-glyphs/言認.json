@@ -1,0 +1,18 @@
+{
+  "_id": "otmhb3b7j14",
+  "name": "言認",
+  "order": "4.1.0.0.5",
+  "params": {
+    "_1": "口認",
+    "_g": "認",
+    "_r": "m言"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "7",
+    "jp": "言"
+  }
+}

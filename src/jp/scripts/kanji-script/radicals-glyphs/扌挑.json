@@ -1,0 +1,18 @@
+{
+  "_id": "pglthwnkhrz",
+  "desc": "variant of 手",
+  "name": "扌挑",
+  "order": "4.1.8.5.5",
+  "params": {
+    "_g": "挑",
+    "_r": "m扌"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "扌"
+  }
+}

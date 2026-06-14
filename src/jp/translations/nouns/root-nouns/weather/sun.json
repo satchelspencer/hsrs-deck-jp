@@ -4,7 +4,9 @@
   "order": "3",
   "parents": [
     "weather",
-    "shiners"
+    "shiners",
+    "u太",
+    "u陽"
   ],
   "props": {
     "en": "sun",

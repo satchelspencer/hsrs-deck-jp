@@ -1,0 +1,17 @@
+{
+  "_id": "eae37a1kyou",
+  "name": "身射",
+  "order": "3.6.4.0.9",
+  "params": {
+    "_g": "射",
+    "_r": "m身"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "7",
+    "jp": "身"
+  }
+}

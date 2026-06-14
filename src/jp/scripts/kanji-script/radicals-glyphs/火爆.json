@@ -1,0 +1,17 @@
+{
+  "_id": "kg8w3w0dqhh",
+  "name": "火爆",
+  "order": "4.6.5.9.2",
+  "params": {
+    "_g": "爆",
+    "_r": "m火"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "火"
+  }
+}

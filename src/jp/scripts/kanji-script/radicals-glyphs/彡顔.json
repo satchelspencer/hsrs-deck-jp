@@ -1,0 +1,17 @@
+{
+  "_id": "dskilrufqai",
+  "name": "彡顔",
+  "order": "2.4.0.5.0",
+  "params": {
+    "_g": "顔",
+    "_r": "m彡"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "3",
+    "jp": "彡"
+  }
+}

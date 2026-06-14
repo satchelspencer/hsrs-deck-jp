@@ -4,7 +4,9 @@
   "name": "hallway",
   "order": "2",
   "parents": [
-    "rooms"
+    "rooms",
+    "u廊",
+    "u下"
   ],
   "props": {
     "en": "hallway",

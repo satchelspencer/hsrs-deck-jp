@@ -4,7 +4,8 @@
   "name": "continuation",
   "order": "4",
   "parents": [
-    "abstracts"
+    "abstracts",
+    "u続"
   ],
   "props": {
     "en": "continuation",

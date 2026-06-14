@@ -3,7 +3,8 @@
   "name": "lake",
   "order": "3",
   "parents": [
-    "places"
+    "places",
+    "u湖"
   ],
   "props": {
     "en": "lake",

@@ -1,0 +1,19 @@
+{
+  "_id": "pqosdoilzz0",
+  "name": "貝預",
+  "order": "4.9.8.5.3",
+  "params": {
+    "_1": "目預",
+    "_2": "八預",
+    "_g": "預",
+    "_r": "m貝"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "7",
+    "jp": "貝"
+  }
+}

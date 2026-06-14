@@ -1,0 +1,15 @@
+{
+  "_id": "n3noy15lerd",
+  "name": "描",
+  "order": "4.2.0.7.3",
+  "params": {
+    "_wd": "u描"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "描",
+    "_st": "CwRNECNjAgAEAAYAYwWBDIIUg2MBAAIABAAETSAPYwEBAgICBWMADwA2AEFjAA6GBIgCA00PQmMBAQIBBQBjBoQKhhaOBE0sJ2MDAQUBCABjDIIahCaEYwIABQAHAANNORRjAQEBAgEDYwEKAhUCGQNNUxJjAQEBAgAEY4ILghCEGwRNMjdjAQEBAgEDYwEIAhIDHWMAAgAEAAYFTTU6YwuCG4MjhGMDAAYABgRjgQaCEYMaYwACgQSBBgNNRjpjAQEBAgEDYwAIABUAGwJNNkljDIEcgyWEAk04WmMIgReCIYM"
+  }
+}

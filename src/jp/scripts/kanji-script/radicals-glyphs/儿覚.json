@@ -1,0 +1,18 @@
+{
+  "_id": "3jvniw1x0fg",
+  "desc": "variant of 八",
+  "name": "儿覚",
+  "order": "2.3.7.3.8",
+  "params": {
+    "_g": "覚",
+    "_r": "m儿"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "11",
+    "_sl": "2",
+    "jp": "儿"
+  }
+}

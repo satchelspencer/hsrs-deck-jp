@@ -4,7 +4,9 @@
   "name": "opportunity",
   "order": "3",
   "parents": [
-    "people-no"
+    "people-no",
+    "u機",
+    "u会"
   ],
   "props": {
     "en": "opportunity",

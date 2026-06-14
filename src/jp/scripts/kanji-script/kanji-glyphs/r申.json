@@ -1,0 +1,17 @@
+{
+  "_id": "g3qr5vjm0ru",
+  "name": "r申",
+  "order": "2.3.5.1.7.1",
+  "params": {
+    "_g": "申",
+    "_r": "m申"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "申"
+  }
+}

@@ -4,7 +4,9 @@
   "name": "household",
   "order": "3",
   "parents": [
-    "organizations"
+    "organizations",
+    "u家",
+    "u庭"
   ],
   "props": {
     "en": "household",

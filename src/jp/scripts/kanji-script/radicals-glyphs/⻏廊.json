@@ -1,0 +1,18 @@
+{
+  "_id": "7f22sgyd5el",
+  "desc": "variant of 邑",
+  "name": "⻏廊",
+  "order": "2.9.3.4.4",
+  "params": {
+    "_g": "廊",
+    "_r": "m⻏"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "10",
+    "_sl": "3",
+    "jp": "⻏"
+  }
+}

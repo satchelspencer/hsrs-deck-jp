@@ -1,0 +1,17 @@
+{
+  "_id": "xukp89i890g",
+  "name": "口辞",
+  "order": "1.9.0.0.9",
+  "params": {
+    "_g": "辞",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

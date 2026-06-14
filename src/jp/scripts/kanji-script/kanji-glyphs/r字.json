@@ -1,0 +1,17 @@
+{
+  "_id": "ag42jti6u9c",
+  "name": "r字",
+  "order": "3.9.3.4.6.1",
+  "params": {
+    "_g": "字",
+    "_r": "m字"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "字"
+  }
+}

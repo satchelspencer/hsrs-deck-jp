@@ -1,0 +1,17 @@
+{
+  "_id": "0k7vkcgexq3",
+  "name": "r介",
+  "order": "1.3.4.3.4.1",
+  "params": {
+    "_g": "介",
+    "_r": "m介"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "介"
+  }
+}

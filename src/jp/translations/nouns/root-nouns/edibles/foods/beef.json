@@ -3,7 +3,9 @@
   "name": "beef",
   "order": "2",
   "parents": [
-    "foods"
+    "foods",
+    "u牛",
+    "u肉"
   ],
   "props": {
     "en": "beef",

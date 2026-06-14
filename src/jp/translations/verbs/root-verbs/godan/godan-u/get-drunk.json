@@ -6,7 +6,8 @@
   "parents": [
     "godan-u",
     "te-iru-verbs-state",
-    "people-do-volitional"
+    "people-do-volitional",
+    "u酔"
   ],
   "props": {
     "_st": "drunk",

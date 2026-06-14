@@ -1,0 +1,15 @@
+{
+  "_id": "qadvmx04nso",
+  "name": "腹",
+  "order": "1.9.5.6.5",
+  "params": {
+    "_wd": "u腹"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "腹",
+    "_st": "DQNNERdjAQEBAgEDQxM8EVIJXgVNExhjBYEOgw-DYwMABAEEA2MAAwAsAD9jAAuGBIgCAk0UKmMGgQyCEoICTRM9YwWBDYITgwNNOA1jAAEAAgADY4MHhQuLEgRNORZjAgADAAQAYwWBEYIXg2MBAAMABQAETTciYwEBAQIBAmMAAQELAhFjAAIAAwADBU04I2MGgRSDGIRjAgAEAQQDYwACgguCEGMAAoEEgQQCTTosYweBEoMZgwJNOzZjBgAPghaCA007PGMAAQACAANjggWGC40RBU09QmMAAAIAAwBjA4ELgw6EYwKBBAEDA0NNSz1bLWEDTTlJYwMCEAwaE2MCAgUDCAU"
+  }
+}

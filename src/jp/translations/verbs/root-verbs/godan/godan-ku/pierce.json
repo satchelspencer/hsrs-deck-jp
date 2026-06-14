@@ -5,7 +5,8 @@
   "order": "4",
   "parents": [
     "godan-ku",
-    "te-iru-verbs-continuous"
+    "te-iru-verbs-continuous",
+    "u貫"
   ],
   "props": {
     "_pg": "piercing",

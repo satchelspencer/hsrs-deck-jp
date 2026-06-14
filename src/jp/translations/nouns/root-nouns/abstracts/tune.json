@@ -4,7 +4,9 @@
   "name": "tune",
   "order": "4",
   "parents": [
-    "abstracts"
+    "abstracts",
+    "u調",
+    "u子"
   ],
   "props": {
     "en": "tune",

@@ -4,7 +4,8 @@
   "name": "portal",
   "order": "4",
   "parents": [
-    "akeru-shimeru"
+    "akeru-shimeru",
+    "u扉"
   ],
   "props": {
     "en": "portal",

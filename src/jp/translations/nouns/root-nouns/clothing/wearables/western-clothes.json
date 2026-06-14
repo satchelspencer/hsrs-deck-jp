@@ -4,7 +4,9 @@
   "name": "western-clothes",
   "order": "2",
   "parents": [
-    "wearables"
+    "wearables",
+    "u洋",
+    "u服"
   ],
   "props": {
     "en": "western clothes",

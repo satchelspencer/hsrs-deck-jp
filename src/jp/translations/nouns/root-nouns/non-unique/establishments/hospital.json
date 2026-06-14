@@ -6,7 +6,9 @@
   "parents": [
     "establishments",
     "organizations",
-    "ken-buildings-countable"
+    "ken-buildings-countable",
+    "u病",
+    "u院"
   ],
   "props": {
     "en": "hospital",

@@ -1,0 +1,17 @@
+{
+  "_id": "cl0riayey48",
+  "name": "口謝",
+  "order": "3.6.4.0.9",
+  "params": {
+    "_g": "謝",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

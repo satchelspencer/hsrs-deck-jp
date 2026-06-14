@@ -3,7 +3,9 @@
   "name": "desperate",
   "order": "4",
   "parents": [
-    "na-attributive"
+    "na-attributive",
+    "u必",
+    "u死"
   ],
   "props": {
     "en": "desperate",

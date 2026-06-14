@@ -1,0 +1,17 @@
+{
+  "_id": "w99yxwkf7za",
+  "name": "r大",
+  "order": "1.1.5.0.3.1",
+  "params": {
+    "_g": "大",
+    "_r": "m大"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "大"
+  }
+}

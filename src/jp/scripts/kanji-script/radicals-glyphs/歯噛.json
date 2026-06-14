@@ -1,0 +1,21 @@
+{
+  "_id": "e0jefs888ly",
+  "desc": "variant of 齒",
+  "name": "歯噛",
+  "order": "3.9.6.5.0",
+  "params": {
+    "_1": "止噛",
+    "_2": "米噛",
+    "_3": "凵噛",
+    "_g": "噛",
+    "_r": "m歯"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "12",
+    "jp": "歯"
+  }
+}

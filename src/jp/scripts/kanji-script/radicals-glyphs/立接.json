@@ -1,0 +1,17 @@
+{
+  "_id": "rnad2yaomwd",
+  "name": "立接",
+  "order": "4.2.1.6.9",
+  "params": {
+    "_g": "接",
+    "_r": "m立"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "5",
+    "jp": "立"
+  }
+}

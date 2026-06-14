@@ -1,0 +1,17 @@
+{
+  "_id": "rovt37w5zum",
+  "name": "r白",
+  "order": "1.1.3.6.4.1",
+  "params": {
+    "_g": "白",
+    "_r": "m白"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "白"
+  }
+}

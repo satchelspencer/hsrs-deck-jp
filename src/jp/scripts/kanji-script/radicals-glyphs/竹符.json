@@ -1,0 +1,17 @@
+{
+  "_id": "ivqa2w6hkfm",
+  "name": "竹符",
+  "order": "1.6.0.8.5",
+  "params": {
+    "_g": "符",
+    "_r": "m竹"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "竹"
+  }
+}

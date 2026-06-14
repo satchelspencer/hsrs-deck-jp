@@ -1,0 +1,17 @@
+{
+  "_id": "0yhzkqie7ks",
+  "name": "木想",
+  "order": "4.2.5.3.4",
+  "params": {
+    "_g": "想",
+    "_r": "m木"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "木"
+  }
+}

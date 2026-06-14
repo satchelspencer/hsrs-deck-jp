@@ -3,7 +3,9 @@
   "name": "business-suit",
   "order": "2",
   "parents": [
-    "wearables"
+    "wearables",
+    "u背",
+    "u広"
   ],
   "props": {
     "en": "business suit",

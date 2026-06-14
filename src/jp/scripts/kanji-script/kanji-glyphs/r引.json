@@ -1,0 +1,17 @@
+{
+  "_id": "1x4xu8pdwp7",
+  "name": "r引",
+  "order": "1.5.9.6.0.1",
+  "params": {
+    "_g": "引",
+    "_r": "m引"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "引"
+  }
+}

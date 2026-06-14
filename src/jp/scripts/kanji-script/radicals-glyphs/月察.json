@@ -1,0 +1,18 @@
+{
+  "_id": "gzn0kjda804",
+  "desc": "variant of 肉",
+  "name": "月察",
+  "order": "2.4.6.1.0",
+  "params": {
+    "_g": "察",
+    "_r": "m月"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "4",
+    "jp": "月"
+  }
+}

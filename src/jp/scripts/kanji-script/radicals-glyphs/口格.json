@@ -1,0 +1,17 @@
+{
+  "_id": "dsggw6nzhss",
+  "name": "口格",
+  "order": "3.9.0.9.0",
+  "params": {
+    "_g": "格",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

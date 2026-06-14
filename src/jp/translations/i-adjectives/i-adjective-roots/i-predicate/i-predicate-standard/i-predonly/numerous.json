@@ -4,7 +4,8 @@
   "name": "numerous",
   "order": "3",
   "parents": [
-    "i-predonly"
+    "i-predonly",
+    "u多"
   ],
   "props": {
     "en": "numerous",

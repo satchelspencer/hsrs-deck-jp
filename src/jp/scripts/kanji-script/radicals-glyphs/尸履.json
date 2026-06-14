@@ -1,0 +1,17 @@
+{
+  "_id": "0ndi0zuasqi",
+  "name": "尸履",
+  "order": "3.9.8.7.7",
+  "params": {
+    "_g": "履",
+    "_r": "m尸"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "尸"
+  }
+}

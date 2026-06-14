@@ -5,7 +5,9 @@
   "order": "3",
   "parents": [
     "electrics",
-    "suru-nouns"
+    "suru-nouns",
+    "u暖",
+    "u房"
   ],
   "props": {
     "en": "heating",

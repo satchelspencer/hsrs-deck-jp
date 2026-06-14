@@ -1,0 +1,18 @@
+{
+  "_id": "x6yuqpw8clk",
+  "name": "𠦝朝",
+  "order": "1.9.6.0.2",
+  "params": {
+    "_1": "早朝",
+    "_g": "朝",
+    "_r": "m𠦝"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "8",
+    "jp": "𠦝"
+  }
+}

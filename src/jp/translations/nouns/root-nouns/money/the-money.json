@@ -5,7 +5,8 @@
   "parents": [
     "money",
     "divisible",
-    "quantities"
+    "quantities",
+    "u金"
   ],
   "props": {
     "en": "money",

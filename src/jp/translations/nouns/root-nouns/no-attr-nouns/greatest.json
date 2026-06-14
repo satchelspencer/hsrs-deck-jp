@@ -4,7 +4,8 @@
   "name": "greatest",
   "order": "4",
   "parents": [
-    "no-attr-nouns"
+    "no-attr-nouns",
+    "u何"
   ],
   "props": {
     "en": "greatest",

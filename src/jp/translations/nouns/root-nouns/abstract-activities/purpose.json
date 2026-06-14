@@ -4,7 +4,8 @@
   "name": "purpose",
   "order": "3",
   "parents": [
-    "abstract-activities"
+    "abstract-activities",
+    "u用"
   ],
   "props": {
     "en": "purpose",

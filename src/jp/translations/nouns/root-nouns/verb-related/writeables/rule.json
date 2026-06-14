@@ -4,7 +4,9 @@
   "name": "rule",
   "order": "3",
   "parents": [
-    "writeables"
+    "writeables",
+    "u規",
+    "u則"
   ],
   "props": {
     "en": "rule",

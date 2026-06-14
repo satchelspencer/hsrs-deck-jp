@@ -1,0 +1,17 @@
+{
+  "_id": "2b39k8zo8cz",
+  "name": "布希",
+  "order": "4.9.8.2.8",
+  "params": {
+    "_g": "希",
+    "_r": "m布"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "3",
+    "_sl": "5",
+    "jp": "布"
+  }
+}

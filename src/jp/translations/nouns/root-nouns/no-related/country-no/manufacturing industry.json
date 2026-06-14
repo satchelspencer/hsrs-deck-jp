@@ -3,7 +3,9 @@
   "name": "manufacturing industry",
   "order": "4",
   "parents": [
-    "country-no"
+    "country-no",
+    "u工",
+    "u業"
   ],
   "props": {
     "en": "manufacturing industry",

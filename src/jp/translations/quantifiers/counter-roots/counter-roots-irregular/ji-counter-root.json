@@ -3,7 +3,8 @@
   "name": "ji-counter-root",
   "order": "1",
   "parents": [
-    "counter-roots-irregular"
+    "counter-roots-irregular",
+    "u時"
   ],
   "props": {
     "_ec": "o'clock",

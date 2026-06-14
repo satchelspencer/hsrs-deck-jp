@@ -1,0 +1,17 @@
+{
+  "_id": "v1s73hbcbvb",
+  "name": "r任",
+  "order": "4.1.0.1.0.1",
+  "params": {
+    "_g": "任",
+    "_r": "m任"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "任"
+  }
+}

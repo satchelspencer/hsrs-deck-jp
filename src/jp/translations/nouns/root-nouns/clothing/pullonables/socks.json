@@ -4,7 +4,9 @@
   "order": "2",
   "parents": [
     "pullonables",
-    "soku-countable"
+    "soku-countable",
+    "u靴",
+    "u下"
   ],
   "props": {
     "en": "socks",

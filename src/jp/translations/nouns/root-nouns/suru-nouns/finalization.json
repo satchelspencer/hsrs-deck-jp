@@ -5,7 +5,9 @@
   "order": "3",
   "parents": [
     "suru-nouns",
-    "te-iru-verbs-state"
+    "te-iru-verbs-state",
+    "u完",
+    "u了"
   ],
   "props": {
     "_pg": "finalizing",

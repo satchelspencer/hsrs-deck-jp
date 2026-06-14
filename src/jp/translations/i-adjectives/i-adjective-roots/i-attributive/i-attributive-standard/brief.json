@@ -4,7 +4,8 @@
   "name": "brief",
   "order": "2",
   "parents": [
-    "i-attributive-standard"
+    "i-attributive-standard",
+    "u短"
   ],
   "props": {
     "en": "brief",

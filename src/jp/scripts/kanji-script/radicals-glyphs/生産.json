@@ -1,0 +1,17 @@
+{
+  "_id": "run4mcns1in",
+  "name": "生産",
+  "order": "3.9.8.2.9",
+  "params": {
+    "_g": "産",
+    "_r": "m生"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "5",
+    "jp": "生"
+  }
+}

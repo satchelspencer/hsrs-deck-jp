@@ -1,0 +1,17 @@
+{
+  "_id": "q7gzslvz1uc",
+  "name": "十直",
+  "order": "2.2.7.9.9",
+  "params": {
+    "_g": "直",
+    "_r": "m十"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "2",
+    "jp": "十"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "211kg5djkdj",
+  "name": "r自",
+  "order": "1.9.6.8.5.1",
+  "params": {
+    "_g": "自",
+    "_r": "m自"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "自"
+  }
+}

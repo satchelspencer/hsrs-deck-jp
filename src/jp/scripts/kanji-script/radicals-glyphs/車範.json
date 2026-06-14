@@ -1,0 +1,17 @@
+{
+  "_id": "5eh857t3rw6",
+  "name": "車範",
+  "order": "4.9.8.6.3",
+  "params": {
+    "_g": "範",
+    "_r": "m車"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "7",
+    "jp": "車"
+  }
+}

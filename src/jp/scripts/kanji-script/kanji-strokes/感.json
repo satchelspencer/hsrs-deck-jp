@@ -1,0 +1,15 @@
+{
+  "_id": "mmm55ypb52c",
+  "name": "感",
+  "order": "1.1.3.5.0",
+  "params": {
+    "_wd": "u感"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "感",
+    "_st": "DQNNGBxjAQEBAgEEYwEPgSSMKwRNGR1jAgAFAAYAYwqBHoQqhmMDAAQABgAETR8rYwEAAgAEAEMnKi0pMCljAgADAAQABE0eNWMBAAEBAQJjAQMCBgIKYwABAAIAAgRNITZjCIEOgxODYwIAAwEDA2OBA4IFgwkDTSNCYwUACYEQgWMBAAEAAgAETTULYwEBAwIDBWMEFQwsIDRjBwMFAASIA01PJWMAAQACAANjgQaIFJEeAk1ICmMDAgkFCggCTRZUY4EEhAyHEANNJFFjCQ4SEyoTYwgACIICiAJNN05jAQMECAUEAk1XTkNaUFxTX1c"
+  }
+}

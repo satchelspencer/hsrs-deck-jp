@@ -1,0 +1,17 @@
+{
+  "_id": "4pinglrkcjd",
+  "name": "r甘",
+  "order": "2.2.7.8.8.1",
+  "params": {
+    "_g": "甘",
+    "_r": "m甘"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "甘"
+  }
+}

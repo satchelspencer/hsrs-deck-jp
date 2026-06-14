@@ -5,7 +5,9 @@
   "order": "3",
   "parents": [
     "na-people",
-    "na-people-do"
+    "na-people-do",
+    "u普",
+    "u通"
   ],
   "props": {
     "en": "normal",

@@ -5,7 +5,9 @@
   "order": "3",
   "parents": [
     "people-no",
-    "abstract-activities"
+    "abstract-activities",
+    "u興",
+    "u味"
   ],
   "props": {
     "en": "curiosity",

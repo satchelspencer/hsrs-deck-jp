@@ -4,7 +4,9 @@
   "name": "a-few-days-ago",
   "order": "4",
   "parents": [
-    "wa-past-only-times"
+    "wa-past-only-times",
+    "u先",
+    "u日"
   ],
   "props": {
     "_at": "",

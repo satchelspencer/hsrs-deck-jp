@@ -1,0 +1,17 @@
+{
+  "_id": "ekidtt1gf08",
+  "name": "示漂",
+  "order": "4.2.4.8.6",
+  "params": {
+    "_g": "漂",
+    "_r": "m示"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "10",
+    "_sl": "5",
+    "jp": "示"
+  }
+}

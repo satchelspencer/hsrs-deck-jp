@@ -1,0 +1,18 @@
+{
+  "_id": "vtq86nkxeuj",
+  "name": "衣壊",
+  "order": "3.2.8.1.7",
+  "params": {
+    "_1": "亠壊",
+    "_g": "壊",
+    "_r": "m衣"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "11",
+    "_sl": "6",
+    "jp": "衣"
+  }
+}

@@ -4,7 +4,9 @@
   "name": "habitual",
   "order": "4",
   "parents": [
-    "no-attr-nouns"
+    "no-attr-nouns",
+    "u普",
+    "u段"
   ],
   "props": {
     "en": "habitual",

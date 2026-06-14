@@ -1,0 +1,18 @@
+{
+  "_id": "g3vc1g4rty4",
+  "desc": "variant of 土",
+  "name": "士捨",
+  "order": "3.4.9.1.7",
+  "params": {
+    "_g": "捨",
+    "_r": "m士"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "3",
+    "jp": "士"
+  }
+}

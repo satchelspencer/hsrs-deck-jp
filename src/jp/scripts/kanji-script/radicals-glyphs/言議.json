@@ -1,0 +1,18 @@
+{
+  "_id": "ypghqa4s66l",
+  "name": "言議",
+  "order": "3.3.8.9.4",
+  "params": {
+    "_1": "口議",
+    "_g": "議",
+    "_r": "m言"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "7",
+    "jp": "言"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "56svmiwchci",
+  "name": "未妹",
+  "order": "1.9.9.0.3",
+  "params": {
+    "_g": "妹",
+    "_r": "m未"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "5",
+    "jp": "未"
+  }
+}

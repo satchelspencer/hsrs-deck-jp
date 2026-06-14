@@ -3,7 +3,9 @@
   "name": "black-tea",
   "order": "2",
   "parents": [
-    "drinks"
+    "drinks",
+    "u紅",
+    "u茶"
   ],
   "props": {
     "en": "black tea",

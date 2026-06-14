@@ -1,0 +1,14 @@
+{
+  "_id": "32fr83d81nr",
+  "name": "ニ",
+  "params": {
+    "_kn": "katakana-ni"
+  },
+  "parents": [
+    "katakana-glyphs"
+  ],
+  "props": {
+    "_st": "AgRNISNjAwEEAgcBYwyBEoIbg2MDAAYACAAETRRLYwMBBQEJAWMUgyWENIRjBAAIAQsC",
+    "jp": "ニ"
+  }
+}

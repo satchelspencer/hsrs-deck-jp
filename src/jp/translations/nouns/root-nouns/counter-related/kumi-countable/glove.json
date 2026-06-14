@@ -5,7 +5,9 @@
   "order": "2",
   "parents": [
     "kumi-countable",
-    "clothing"
+    "clothing",
+    "u手",
+    "u袋"
   ],
   "props": {
     "en": "glove",

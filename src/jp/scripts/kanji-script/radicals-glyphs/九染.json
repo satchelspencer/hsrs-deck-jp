@@ -1,0 +1,17 @@
+{
+  "_id": "97x6d1teipn",
+  "name": "九染",
+  "order": "4.9.8.6.4",
+  "params": {
+    "_g": "染",
+    "_r": "m九"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "2",
+    "jp": "九"
+  }
+}

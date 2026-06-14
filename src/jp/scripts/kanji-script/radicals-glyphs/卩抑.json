@@ -1,0 +1,18 @@
+{
+  "_id": "m4g4ovm98kl",
+  "desc": "variant of 刀",
+  "name": "卩抑",
+  "order": "4.4.5.5.1",
+  "params": {
+    "_g": "抑",
+    "_r": "m卩"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "2",
+    "jp": "卩"
+  }
+}

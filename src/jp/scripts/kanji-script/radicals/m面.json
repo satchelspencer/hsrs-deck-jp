@@ -1,0 +1,10 @@
+{
+  "_id": "7mcmxegkkrj",
+  "name": "m面",
+  "parents": [
+    "radicals"
+  ],
+  "props": {
+    "_m": "mask, face, features, surface"
+  }
+}

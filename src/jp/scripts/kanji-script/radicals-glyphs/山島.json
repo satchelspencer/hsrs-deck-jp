@@ -1,0 +1,17 @@
+{
+  "_id": "c8fm9jmdq1a",
+  "name": "山島",
+  "order": "3.9.9.0.7",
+  "params": {
+    "_g": "島",
+    "_r": "m山"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "3",
+    "jp": "山"
+  }
+}

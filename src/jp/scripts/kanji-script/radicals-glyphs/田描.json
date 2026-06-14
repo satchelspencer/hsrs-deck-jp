@@ -1,0 +1,17 @@
+{
+  "_id": "608kec9oc1w",
+  "name": "田描",
+  "order": "4.2.0.7.3",
+  "params": {
+    "_g": "描",
+    "_r": "m田"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "5",
+    "jp": "田"
+  }
+}

@@ -5,7 +5,9 @@
   "order": "3",
   "parents": [
     "places-no",
-    "good-bads"
+    "good-bads",
+    "u交",
+    "u通"
   ],
   "props": {
     "en": "traffic",

@@ -1,0 +1,18 @@
+{
+  "_id": "robiajxswdj",
+  "desc": "variant of 八",
+  "name": "儿晩",
+  "order": "1.9.7.0.8",
+  "params": {
+    "_g": "晩",
+    "_r": "m儿"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "11",
+    "_sl": "2",
+    "jp": "儿"
+  }
+}

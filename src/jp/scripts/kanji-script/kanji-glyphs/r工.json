@@ -1,0 +1,17 @@
+{
+  "_id": "tt6zopwas1w",
+  "name": "r工",
+  "order": "1.9.2.3.1.1",
+  "params": {
+    "_g": "工",
+    "_r": "m工"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "工"
+  }
+}

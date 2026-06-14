@@ -1,0 +1,17 @@
+{
+  "_id": "hsnsvcdqcyd",
+  "name": "r成",
+  "order": "2.2.1.6.8.1",
+  "params": {
+    "_g": "成",
+    "_r": "m成"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "成"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "e73t3e0putb",
+  "name": "弓強",
+  "order": "1.2.5.8.6",
+  "params": {
+    "_g": "強",
+    "_r": "m弓"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "弓"
+  }
+}

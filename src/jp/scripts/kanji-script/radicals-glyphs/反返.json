@@ -1,0 +1,17 @@
+{
+  "_id": "z4p6o4lxc18",
+  "name": "反返",
+  "order": "2.5.6.3.8",
+  "params": {
+    "_g": "返",
+    "_r": "m反"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "反"
+  }
+}

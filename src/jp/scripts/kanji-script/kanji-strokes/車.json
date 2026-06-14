@@ -1,0 +1,15 @@
+{
+  "_id": "faj3fbcwacq",
+  "name": "車",
+  "order": "1.6.5.2.0",
+  "params": {
+    "_wd": "u車"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "車",
+    "_st": "BwRNGhpjAwEGAAkAYwuBGoMnhGMDAAUACAAETRwmYwEBAgICA2MBBAILAxNjAAIAAwEFBU0eJ2MPgiSEMIRjAwAEAgQDYwAEgg6DFGMAAYECgQMCTSEzYw6BIoQvhAJNIj9DLj5BPE07BE0QTmMEAQcBCwBjE4IohTmFYwMABwAKAQRNNQxjAQECAwIGYwABADEAR2MABAAHAAk"
+  }
+}

@@ -6,7 +6,9 @@
   "order": "2",
   "parents": [
     "na-predonly",
-    "na-people-do"
+    "na-people-do",
+    "u上",
+    "u手"
   ],
   "props": {
     "_ad": "skillfully",

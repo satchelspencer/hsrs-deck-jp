@@ -3,7 +3,8 @@
   "name": "hot-touch",
   "order": "2",
   "parents": [
-    "i-attributive-standard"
+    "i-attributive-standard",
+    "u熱"
   ],
   "props": {
     "_ad": "hotly to the touch",

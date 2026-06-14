@@ -3,7 +3,9 @@
   "name": "grammar-word",
   "order": "3",
   "parents": [
-    "learnables"
+    "learnables",
+    "u文",
+    "u法"
   ],
   "props": {
     "en": "grammar",

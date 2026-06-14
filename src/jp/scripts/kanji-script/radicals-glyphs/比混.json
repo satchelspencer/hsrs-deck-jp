@@ -1,0 +1,17 @@
+{
+  "_id": "hfaswow75ox",
+  "name": "比混",
+  "order": "4.9.1.6.0",
+  "params": {
+    "_g": "混",
+    "_r": "m比"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "4",
+    "jp": "比"
+  }
+}

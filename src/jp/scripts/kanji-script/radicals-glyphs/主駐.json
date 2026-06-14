@@ -1,0 +1,17 @@
+{
+  "_id": "b9me6w7kryr",
+  "name": "主駐",
+  "order": "3.9.3.5.0",
+  "params": {
+    "_g": "駐",
+    "_r": "m主"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "11",
+    "_sl": "5",
+    "jp": "主"
+  }
+}

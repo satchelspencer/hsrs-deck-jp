@@ -1,0 +1,17 @@
+{
+  "_id": "v5d8h6b3twk",
+  "name": "米迷",
+  "order": "4.9.3.8.3",
+  "params": {
+    "_g": "迷",
+    "_r": "m米"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "米"
+  }
+}

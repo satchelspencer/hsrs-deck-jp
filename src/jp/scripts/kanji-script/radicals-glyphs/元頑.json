@@ -1,0 +1,17 @@
+{
+  "_id": "6cf5y03smdt",
+  "name": "元頑",
+  "order": "1.9.0.4.6",
+  "params": {
+    "_g": "頑",
+    "_r": "m元"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "元"
+  }
+}

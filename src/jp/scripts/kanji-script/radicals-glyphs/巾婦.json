@@ -1,0 +1,17 @@
+{
+  "_id": "ctab3l8kcy3",
+  "name": "巾婦",
+  "order": "4.9.8.9.1",
+  "params": {
+    "_g": "婦",
+    "_r": "m巾"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "9",
+    "_sl": "3",
+    "jp": "巾"
+  }
+}

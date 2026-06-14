@@ -1,0 +1,17 @@
+{
+  "_id": "ztfrd3mhll8",
+  "name": "亠流",
+  "order": "2.4.0.2.6",
+  "params": {
+    "_g": "流",
+    "_r": "m亠"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "2",
+    "jp": "亠"
+  }
+}

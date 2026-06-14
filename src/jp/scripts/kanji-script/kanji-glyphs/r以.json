@@ -1,0 +1,17 @@
+{
+  "_id": "h7qtdga5bov",
+  "name": "r以",
+  "order": "2.9.6.6.1.1",
+  "params": {
+    "_g": "以",
+    "_r": "m以"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "以"
+  }
+}

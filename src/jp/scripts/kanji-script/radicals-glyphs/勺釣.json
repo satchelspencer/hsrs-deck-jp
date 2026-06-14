@@ -1,0 +1,17 @@
+{
+  "_id": "zdtza771lqg",
+  "name": "勺釣",
+  "order": "3.9.0.0.0",
+  "params": {
+    "_g": "釣",
+    "_r": "m勺"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "9",
+    "_sl": "3",
+    "jp": "勺"
+  }
+}

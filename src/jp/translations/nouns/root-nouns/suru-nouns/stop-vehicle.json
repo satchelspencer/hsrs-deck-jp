@@ -6,7 +6,9 @@
   "parents": [
     "suru-nouns",
     "te-iru-verbs-state",
-    "events"
+    "events",
+    "u停",
+    "u車"
   ],
   "props": {
     "_pg": "making a stop",

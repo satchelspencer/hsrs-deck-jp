@@ -1,0 +1,15 @@
+{
+  "_id": "k92ggaoo2eq",
+  "name": "番",
+  "order": "1.9.3.2.3",
+  "params": {
+    "_wd": "u番"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "番",
+    "_st": "DANNQQpjAAKBAoIDY4cDkQehCQJNHxpjAwIHBggJA01KE2MAAQACgQNjggSECIgNBE0TKWMCAQUBCABjEYIphDWFYwMABgAIAQRNNBRjAQECAgIEYwAFABUAHmMAAgAEAAUDTTEnYwABAAKBA0MpMyE7FUEDTTgnYwUDFA4dFGMCAQUDCAQETR1CYwEBAgICBGMBCAESAhtjAAEAAgADBU0fQ2MPgiCEKoRjAwAFAgUEY4EGghKFHGMAAQACgQMDTTVDQzVENkQ2RmMABwAWABgCTSFRYwaBJIMqgwJNImFjCoEagiaC"
+  }
+}

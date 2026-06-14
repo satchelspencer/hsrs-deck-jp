@@ -1,0 +1,10 @@
+{
+  "_id": "f9txf3rrwxs",
+  "name": "m棚",
+  "parents": [
+    "radicals"
+  ],
+  "props": {
+    "_m": "shelf, ledge, rack, mount"
+  }
+}

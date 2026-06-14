@@ -1,0 +1,15 @@
+{
+  "_id": "1nh4w2h2zgr",
+  "name": "使",
+  "order": "1.2.7.0.0",
+  "params": {
+    "_wd": "u使"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "使",
+    "_st": "CANNIRJjAAIABIEGQxsiFS0KOQRNGStjAQECAwIEYwALACEALUMaXhpgGmEETSwfYwEABAAFAGMIgRaDIIRjAgAEAAUABE0rK2MBAQICAgNjAQQCCQINYwABAAIAAwRNLi1jCIEbhCSEYwQABgIFBWOBBIIGhAsDTTA8YwUAF4IhgmMCAAMABAADTT8NYwEBAQMBBUNCRkNRJV8DTSxEYwcAHBApF2MDAQQCCAM"
+  }
+}

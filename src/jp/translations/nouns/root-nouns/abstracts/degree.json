@@ -5,7 +5,9 @@
   "order": "4",
   "parents": [
     "abstracts",
-    "high-low"
+    "high-low",
+    "u程",
+    "u度"
   ],
   "props": {
     "en": "degree",

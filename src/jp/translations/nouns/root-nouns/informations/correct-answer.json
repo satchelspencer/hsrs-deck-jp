@@ -4,7 +4,9 @@
   "name": "correct-answer",
   "order": "4",
   "parents": [
-    "informations"
+    "informations",
+    "u正",
+    "u解"
   ],
   "props": {
     "en": "correct answer",

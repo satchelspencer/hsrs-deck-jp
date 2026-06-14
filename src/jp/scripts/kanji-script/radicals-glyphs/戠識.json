@@ -1,0 +1,18 @@
+{
+  "_id": "ydhhh0d3mzm",
+  "name": "戠識",
+  "order": "4.1.4.1.0",
+  "params": {
+    "_1": "音識",
+    "_g": "識",
+    "_r": "m戠"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "12",
+    "jp": "戠"
+  }
+}

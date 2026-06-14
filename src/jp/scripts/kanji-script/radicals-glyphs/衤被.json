@@ -1,0 +1,18 @@
+{
+  "_id": "gucu2h3kqk8",
+  "desc": "variant of 衣",
+  "name": "衤被",
+  "order": "2.9.5.5.3",
+  "params": {
+    "_g": "被",
+    "_r": "m衤"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "衤"
+  }
+}

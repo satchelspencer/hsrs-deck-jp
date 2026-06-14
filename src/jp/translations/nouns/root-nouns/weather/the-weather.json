@@ -5,7 +5,9 @@
   "parents": [
     "weather",
     "hot-cold-weather",
-    "categories"
+    "categories",
+    "u天",
+    "u気"
   ],
   "props": {
     "_pl": "weather",

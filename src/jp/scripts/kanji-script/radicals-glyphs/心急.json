@@ -1,0 +1,17 @@
+{
+  "_id": "b0y4fn5045m",
+  "name": "心急",
+  "order": "2.9.7.5.3",
+  "params": {
+    "_g": "急",
+    "_r": "m心"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "4",
+    "jp": "心"
+  }
+}

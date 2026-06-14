@@ -5,7 +5,9 @@
   "order": "4",
   "parents": [
     "past-relative-time-exprs",
-    "abstracts"
+    "abstracts",
+    "u瞬",
+    "u間"
   ],
   "props": {
     "en": "the instant",

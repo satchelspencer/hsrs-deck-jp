@@ -3,7 +3,8 @@
   "name": "my-older-sister",
   "order": "1",
   "parents": [
-    "family"
+    "family",
+    "u姉"
   ],
   "props": {
     "en": "my older sister",

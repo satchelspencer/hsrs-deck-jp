@@ -1,0 +1,17 @@
+{
+  "_id": "qvdl4belm61",
+  "name": "口剣",
+  "order": "4.3.7.6.1",
+  "params": {
+    "_g": "剣",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

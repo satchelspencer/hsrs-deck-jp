@@ -1,0 +1,17 @@
+{
+  "_id": "29houggr2n6",
+  "name": "亠袋",
+  "order": "2.5.0.0.0",
+  "params": {
+    "_g": "袋",
+    "_r": "m亠"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "2",
+    "jp": "亠"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "n3hrissp1vq",
+  "name": "耳取",
+  "order": "2.9.0.3.7",
+  "params": {
+    "_g": "取",
+    "_r": "m耳"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "耳"
+  }
+}

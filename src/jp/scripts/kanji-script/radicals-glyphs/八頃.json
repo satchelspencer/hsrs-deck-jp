@@ -1,0 +1,17 @@
+{
+  "_id": "ayouzi0rtnh",
+  "name": "八頃",
+  "order": "3.9.3.3.3",
+  "params": {
+    "_g": "頃",
+    "_r": "m八"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "10",
+    "_sl": "2",
+    "jp": "八"
+  }
+}

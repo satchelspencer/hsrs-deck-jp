@@ -1,0 +1,17 @@
+{
+  "_id": "wau1157o55s",
+  "name": "r切",
+  "order": "1.6.0.8.5.1",
+  "params": {
+    "_g": "切",
+    "_r": "m切"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "切"
+  }
+}

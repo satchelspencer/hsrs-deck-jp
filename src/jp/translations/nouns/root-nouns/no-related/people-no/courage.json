@@ -4,7 +4,9 @@
   "name": "courage",
   "order": "4",
   "parents": [
-    "people-no"
+    "people-no",
+    "u勇",
+    "u気"
   ],
   "props": {
     "en": "courage",

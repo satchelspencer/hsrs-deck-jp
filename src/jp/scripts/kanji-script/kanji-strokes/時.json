@@ -1,0 +1,15 @@
+{
+  "_id": "q00eicx6syw",
+  "name": "時",
+  "order": "1.2.4.1.5",
+  "params": {
+    "_wd": "u時"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "時",
+    "_st": "CgRNEB5jAQEBAgEDYwABAB4AKWMAAgAEAAQFTRIfYwWBEIISgmMCAAMCAwNjAAIAGQApYwACAAMABAJNEzRjBYEOghKCAk0SS2MGgQuCE4METTMdYwEABAAFAGMKgRCCGoNjAgAEAAUAA01EC2MBAQICAgRjAAgAGwAcBE0tLWMBAAQBBgBjC4EagyeEYwIABAAFAARNLj1jAQAEAQUAYwyBG4MnhGMCAAQABgAETU4uYwEBAgMCBWMADAAiACdjAAqFAogAAk05RmMDAgcGBwk"
+  }
+}

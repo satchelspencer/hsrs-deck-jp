@@ -1,0 +1,18 @@
+{
+  "_id": "uob8svohjxr",
+  "desc": "variant of 辶",
+  "name": "⻌通",
+  "order": "2.9.9.8.4",
+  "params": {
+    "_g": "通",
+    "_r": "m⻌"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "3",
+    "jp": "⻌"
+  }
+}

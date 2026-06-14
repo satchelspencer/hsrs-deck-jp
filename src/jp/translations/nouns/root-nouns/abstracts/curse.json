@@ -3,7 +3,8 @@
   "name": "curse",
   "order": "4",
   "parents": [
-    "abstracts"
+    "abstracts",
+    "u呪"
   ],
   "props": {
     "en": "curse",

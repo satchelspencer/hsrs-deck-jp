@@ -1,0 +1,18 @@
+{
+  "_id": "apuz9lx5evn",
+  "desc": "variant of 曰",
+  "name": "日温",
+  "order": "2.5.4.7.1",
+  "params": {
+    "_g": "温",
+    "_r": "m日"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "4",
+    "jp": "日"
+  }
+}

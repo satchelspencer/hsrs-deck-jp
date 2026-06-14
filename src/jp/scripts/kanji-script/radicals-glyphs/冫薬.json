@@ -1,0 +1,18 @@
+{
+  "_id": "xyjf3cugrg3",
+  "desc": "variant of 氷",
+  "name": "冫薬",
+  "order": "2.4.7.5.5",
+  "params": {
+    "_g": "薬",
+    "_r": "m冫"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "9",
+    "_sl": "2",
+    "jp": "冫"
+  }
+}

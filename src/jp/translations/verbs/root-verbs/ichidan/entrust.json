@@ -6,7 +6,8 @@
   "parents": [
     "ichidan",
     "ni-person-verbs",
-    "people-do-volitional"
+    "people-do-volitional",
+    "u任"
   ],
   "props": {
     "en": "entrust",

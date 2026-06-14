@@ -5,7 +5,8 @@
   "order": "3",
   "parents": [
     "te-iru-verbs-continuous",
-    "ichidan"
+    "ichidan",
+    "u流"
   ],
   "props": {
     "en": "flow",

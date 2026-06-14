@@ -1,0 +1,18 @@
+{
+  "_id": "0q9bgho73zh",
+  "desc": "variant of 氷",
+  "name": "冫挑",
+  "order": "4.1.8.5.5",
+  "params": {
+    "_g": "挑",
+    "_r": "m冫"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "2",
+    "jp": "冫"
+  }
+}

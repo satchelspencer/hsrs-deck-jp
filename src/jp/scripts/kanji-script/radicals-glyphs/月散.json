@@ -1,0 +1,18 @@
+{
+  "_id": "g7zbpa1fmfe",
+  "desc": "variant of 肉",
+  "name": "月散",
+  "order": "2.9.3.0.1",
+  "params": {
+    "_g": "散",
+    "_r": "m月"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "4",
+    "jp": "月"
+  }
+}

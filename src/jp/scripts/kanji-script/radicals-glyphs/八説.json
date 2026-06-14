@@ -1,0 +1,17 @@
+{
+  "_id": "oo998s33ps7",
+  "name": "八説",
+  "order": "2.9.4.5.0",
+  "params": {
+    "_g": "説",
+    "_r": "m八"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "2",
+    "jp": "八"
+  }
+}

@@ -4,7 +4,9 @@
   "order": "3",
   "parents": [
     "activities",
-    "sports"
+    "sports",
+    "u水",
+    "u泳"
   ],
   "props": {
     "en": "swimming",

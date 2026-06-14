@@ -5,7 +5,9 @@
   "order": "2",
   "parents": [
     "activities",
-    "do-togethers"
+    "do-togethers",
+    "u散",
+    "u歩"
   ],
   "props": {
     "en": "a walk",

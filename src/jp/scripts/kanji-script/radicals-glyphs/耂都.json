@@ -1,0 +1,18 @@
+{
+  "_id": "nz084fbq3iu",
+  "desc": "variant of 老",
+  "name": "耂都",
+  "order": "3.9.3.4.4",
+  "params": {
+    "_g": "都",
+    "_r": "m耂"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "耂"
+  }
+}

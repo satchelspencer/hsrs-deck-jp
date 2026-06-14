@@ -3,7 +3,9 @@
   "name": "last-year",
   "order": "1",
   "parents": [
-    "wa-past-only-times"
+    "wa-past-only-times",
+    "u去",
+    "u年"
   ],
   "props": {
     "en": "last year",

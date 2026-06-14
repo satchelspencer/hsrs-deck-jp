@@ -1,0 +1,17 @@
+{
+  "_id": "pxanashzr8o",
+  "name": "厂唇",
+  "order": "4.9.5.5.5",
+  "params": {
+    "_g": "唇",
+    "_r": "m厂"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "2",
+    "jp": "厂"
+  }
+}

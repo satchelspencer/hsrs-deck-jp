@@ -1,0 +1,17 @@
+{
+  "_id": "0hbyh2xx19l",
+  "name": "r円",
+  "order": "1.5.5.8.5.1",
+  "params": {
+    "_g": "円",
+    "_r": "m円"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "円"
+  }
+}

@@ -3,7 +3,9 @@
   "name": "lunch",
   "order": "1",
   "parents": [
-    "meals"
+    "meals",
+    "u昼",
+    "u飯"
   ],
   "props": {
     "en": "lunch",

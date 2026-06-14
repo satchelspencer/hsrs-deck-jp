@@ -4,7 +4,9 @@
   "name": "thief",
   "order": "3",
   "parents": [
-    "roles"
+    "roles",
+    "u泥",
+    "u棒"
   ],
   "props": {
     "en": "thief",

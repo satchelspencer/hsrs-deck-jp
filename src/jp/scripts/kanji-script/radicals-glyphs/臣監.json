@@ -1,0 +1,17 @@
+{
+  "_id": "gq31zuyd3tq",
+  "name": "臣監",
+  "order": "4.1.6.6.6",
+  "params": {
+    "_g": "監",
+    "_r": "m臣"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "7",
+    "jp": "臣"
+  }
+}

@@ -3,7 +3,8 @@
   "name": "gate",
   "order": "3",
   "parents": [
-    "spaces"
+    "spaces",
+    "u門"
   ],
   "props": {
     "en": "gate",

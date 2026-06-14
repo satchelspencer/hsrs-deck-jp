@@ -1,0 +1,18 @@
+{
+  "_id": "7wjx6gadmlw",
+  "name": "垂郵",
+  "order": "2.9.4.4.6",
+  "params": {
+    "_1": "土郵",
+    "_g": "郵",
+    "_r": "m垂"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "8",
+    "jp": "垂"
+  }
+}

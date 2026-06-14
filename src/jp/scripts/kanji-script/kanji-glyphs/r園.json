@@ -1,0 +1,18 @@
+{
+  "_id": "0ddayuqcbmk",
+  "name": "r園",
+  "order": "1.9.0.1.5.1",
+  "params": {
+    "_1": "袁園",
+    "_g": "園",
+    "_r": "m園"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "13",
+    "jp": "園"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "_id": "p4g3y3v61m0",
+  "desc": "variant of 肉",
+  "name": "月臓",
+  "order": "4.9.5.6.1",
+  "params": {
+    "_g": "臓",
+    "_r": "m月"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "月"
+  }
+}

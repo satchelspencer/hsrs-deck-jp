@@ -1,0 +1,17 @@
+{
+  "_id": "nz8054ko911",
+  "name": "土粧",
+  "order": "4.2.1.2.6",
+  "params": {
+    "_g": "粧",
+    "_r": "m土"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "10",
+    "_sl": "3",
+    "jp": "土"
+  }
+}

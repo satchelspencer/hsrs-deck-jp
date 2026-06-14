@@ -4,7 +4,8 @@
   "name": "ones-turn",
   "order": "4",
   "parents": [
-    "people-no"
+    "people-no",
+    "u番"
   ],
   "props": {
     "en": "a turn",

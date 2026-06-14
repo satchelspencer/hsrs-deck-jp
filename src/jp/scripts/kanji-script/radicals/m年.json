@@ -1,0 +1,10 @@
+{
+  "_id": "xia2e5k0fy8",
+  "name": "m年",
+  "parents": [
+    "radicals"
+  ],
+  "props": {
+    "_m": "year, counter for years"
+  }
+}

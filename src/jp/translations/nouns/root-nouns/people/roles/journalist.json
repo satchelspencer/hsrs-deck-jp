@@ -4,7 +4,9 @@
   "name": "journalist",
   "order": "3",
   "parents": [
-    "roles"
+    "roles",
+    "u記",
+    "u者"
   ],
   "props": {
     "en": "journalist",

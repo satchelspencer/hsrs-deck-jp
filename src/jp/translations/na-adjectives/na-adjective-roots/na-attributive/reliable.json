@@ -4,7 +4,9 @@
   "name": "reliable",
   "order": "4",
   "parents": [
-    "na-attributive"
+    "na-attributive",
+    "u確",
+    "u実"
   ],
   "props": {
     "_ad": "reliably",

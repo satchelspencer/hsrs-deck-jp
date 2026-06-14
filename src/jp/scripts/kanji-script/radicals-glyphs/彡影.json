@@ -1,0 +1,17 @@
+{
+  "_id": "elvz75nogta",
+  "name": "彡影",
+  "order": "4.2.0.6.9",
+  "params": {
+    "_g": "影",
+    "_r": "m彡"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "13",
+    "_sl": "3",
+    "jp": "彡"
+  }
+}

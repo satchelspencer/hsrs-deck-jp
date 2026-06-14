@@ -1,0 +1,19 @@
+{
+  "_id": "rvqi5uqiilw",
+  "name": "建健",
+  "order": "4.3.5.9.0",
+  "params": {
+    "_1": "聿健",
+    "_2": "廴健",
+    "_g": "健",
+    "_r": "m建"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "3",
+    "_sl": "9",
+    "jp": "建"
+  }
+}

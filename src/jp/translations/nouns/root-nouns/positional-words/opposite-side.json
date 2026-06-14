@@ -4,7 +4,8 @@
   "name": "opposite-side",
   "order": "3",
   "parents": [
-    "positional-words"
+    "positional-words",
+    "u向"
   ],
   "props": {
     "en": "opposite side",

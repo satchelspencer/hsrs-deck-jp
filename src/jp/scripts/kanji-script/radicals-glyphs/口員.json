@@ -1,0 +1,17 @@
+{
+  "_id": "op14dop13m6",
+  "name": "口員",
+  "order": "3.9.6.2.4",
+  "params": {
+    "_g": "員",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

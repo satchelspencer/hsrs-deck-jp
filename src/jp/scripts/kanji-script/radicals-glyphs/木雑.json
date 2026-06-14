@@ -1,0 +1,17 @@
+{
+  "_id": "hre04rpljyz",
+  "name": "木雑",
+  "order": "3.1.7.3.2",
+  "params": {
+    "_g": "雑",
+    "_r": "m木"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "3",
+    "_sl": "4",
+    "jp": "木"
+  }
+}

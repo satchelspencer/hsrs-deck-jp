@@ -4,7 +4,9 @@
   "order": "7",
   "parents": [
     "numbers",
-    "month-numbers"
+    "month-numbers",
+    "u二",
+    "u十"
   ],
   "props": {
     "_fw": "２０",

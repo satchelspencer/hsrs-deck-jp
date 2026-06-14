@@ -4,7 +4,9 @@
   "name": "black-person",
   "order": "2",
   "parents": [
-    "people-groups"
+    "people-groups",
+    "u黒",
+    "u人"
   ],
   "props": {
     "en": "black person",

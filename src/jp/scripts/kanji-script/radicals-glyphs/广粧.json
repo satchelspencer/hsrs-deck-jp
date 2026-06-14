@@ -1,0 +1,17 @@
+{
+  "_id": "aa1gf1batgq",
+  "name": "广粧",
+  "order": "4.2.1.2.6",
+  "params": {
+    "_g": "粧",
+    "_r": "m广"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "3",
+    "jp": "广"
+  }
+}

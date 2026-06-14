@@ -1,0 +1,15 @@
+{
+  "_id": "99cexxcb9bd",
+  "name": "理",
+  "order": "2.2.4.5.6",
+  "params": {
+    "_wd": "u理"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "理",
+    "_st": "CwRNDBxjAgEDAQUAYweBDoITg2MBAAIABAADTRoeYwEBAgMCBHMAKAArBE0PNGMBAAIBBABjBoEOgxGEYwEAAgADAANNDVNjAQEDAQQBYwaCEYgWigRNLhNjAQECAgIDYwEGAxMEHWMAAQADAAQFTTEVYwyCH4UohWMDAAUCBQNjAAWCE4QcYwACgQSBBQJNMyRjBoEfgyeEAk01NGMKgRaCI4MDTUQVYwEBAQIBA2MADQA7AEAETTRFYwEABAAFAGMJgRCCGYNjAgAEAAYABE0oW2MCAQQBBgFjEYIjhC-EYwMABAAGAQ"
+  }
+}

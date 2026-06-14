@@ -4,7 +4,8 @@
   "name": "counter-root-beasts",
   "order": "2",
   "parents": [
-    "counter-roots-kango-full-t"
+    "counter-roots-kango-full-t",
+    "u頭"
   ],
   "props": {
     "_ec": "beasts",

@@ -3,7 +3,8 @@
   "name": "month-of-the-year",
   "order": "1",
   "parents": [
-    "counter-roots-irregular"
+    "counter-roots-irregular",
+    "u月"
   ],
   "props": {
     "_ec": "month of the year",

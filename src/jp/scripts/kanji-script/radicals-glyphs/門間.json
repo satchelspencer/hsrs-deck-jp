@@ -1,0 +1,17 @@
+{
+  "_id": "kdmib92j4hd",
+  "name": "門間",
+  "order": "1.2.4.1.5",
+  "params": {
+    "_g": "間",
+    "_r": "m門"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "8",
+    "jp": "門"
+  }
+}

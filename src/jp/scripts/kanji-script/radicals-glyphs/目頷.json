@@ -1,0 +1,17 @@
+{
+  "_id": "8ucyn4xm6c9",
+  "name": "目頷",
+  "order": "4.9.7.5.0",
+  "params": {
+    "_g": "頷",
+    "_r": "m目"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "10",
+    "_sl": "5",
+    "jp": "目"
+  }
+}

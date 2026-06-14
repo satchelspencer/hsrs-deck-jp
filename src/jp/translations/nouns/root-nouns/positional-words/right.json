@@ -3,7 +3,8 @@
   "name": "right",
   "order": "1",
   "parents": [
-    "positional-words"
+    "positional-words",
+    "u右"
   ],
   "props": {
     "en": "right",

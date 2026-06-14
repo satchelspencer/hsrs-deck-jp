@@ -4,7 +4,9 @@
   "name": "woman-formal",
   "order": "3",
   "parents": [
-    "demographics"
+    "demographics",
+    "u女",
+    "u性"
   ],
   "props": {
     "en": "woman",

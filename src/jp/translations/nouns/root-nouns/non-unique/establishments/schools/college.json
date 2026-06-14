@@ -4,7 +4,9 @@
   "name": "college",
   "order": "2",
   "parents": [
-    "schools"
+    "schools",
+    "u大",
+    "u学"
   ],
   "props": {
     "en": "college",

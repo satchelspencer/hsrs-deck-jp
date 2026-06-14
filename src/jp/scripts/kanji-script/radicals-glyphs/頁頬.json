@@ -1,0 +1,18 @@
+{
+  "_id": "dsw8jdvbeed",
+  "name": "頁頬",
+  "order": "4.3.6.1.5",
+  "params": {
+    "_1": "貝頬",
+    "_g": "頬",
+    "_r": "m頁"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "9",
+    "jp": "頁"
+  }
+}

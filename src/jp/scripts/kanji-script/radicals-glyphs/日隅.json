@@ -1,0 +1,18 @@
+{
+  "_id": "27sk10113m5",
+  "desc": "variant of 曰",
+  "name": "日隅",
+  "order": "3.9.6.8.8",
+  "params": {
+    "_g": "隅",
+    "_r": "m日"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "4",
+    "jp": "日"
+  }
+}

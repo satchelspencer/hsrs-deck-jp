@@ -1,0 +1,17 @@
+{
+  "_id": "4qwaf32878t",
+  "name": "r友",
+  "order": "1.4.3.0.7.1",
+  "params": {
+    "_g": "友",
+    "_r": "m友"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "友"
+  }
+}

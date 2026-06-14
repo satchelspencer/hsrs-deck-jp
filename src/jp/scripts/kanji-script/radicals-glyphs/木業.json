@@ -1,0 +1,17 @@
+{
+  "_id": "1q3stgb8m4m",
+  "name": "木業",
+  "order": "1.5.3.6.6",
+  "params": {
+    "_g": "業",
+    "_r": "m木"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "10",
+    "_sl": "4",
+    "jp": "木"
+  }
+}

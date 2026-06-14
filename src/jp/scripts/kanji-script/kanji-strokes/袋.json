@@ -1,0 +1,15 @@
+{
+  "_id": "bjdxba74a18",
+  "name": "袋",
+  "order": "2.5.0.0.0",
+  "params": {
+    "_wd": "u袋"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "袋",
+    "_st": "CwNNJQ1jAAEAA4EEY4QHiA6SFwRNHh1jAQEBAgEDYwAGAAwAEWMAAgAEAAUETSwdYwIBBQAHAGMHghGEGYVjAgAFgQcABE03C2MCAQICAwRDQB1GKFcyYwYDBQAFgwJNTwtjAwEIBAkGA001MGMBAQIDAgRjAAIAAwAGBE0XPmMDAQcACgBjDYIfhCyEYwMABoEJAANNMTxjAAKBA4IEY4UGjxKcGAVNKU1jAQEBAgEDYwAKAA8AEXMBAwMBYwGBDYkPiwNNSkBjAAAAAQABY4EChQWLCQNNMURjAwEWDyAWYwMCBwQKBQ"
+  }
+}

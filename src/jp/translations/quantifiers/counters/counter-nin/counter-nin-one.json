@@ -5,7 +5,9 @@
     "number": "one"
   },
   "parents": [
-    "counter-nin"
+    "counter-nin",
+    "u一",
+    "u人"
   ],
   "props": {
     "jp": "一人",

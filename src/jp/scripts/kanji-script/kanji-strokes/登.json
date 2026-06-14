@@ -1,0 +1,15 @@
+{
+  "_id": "suarscdnrlf",
+  "name": "登",
+  "order": "3.9.1.5.0",
+  "params": {
+    "_wd": "u登"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "登",
+    "_st": "DAVNGxRjAgEDAQUAYwWBCYIOg2MEgQUBBARDMB0fMQ83Ak0WHmMEAQoGCggDTUYSYwABAAKBAmOBAoIDhQYDTTUWQzsZTihWLmMDAgUECAQDTVMYYwABAAGBAmOCAoQFiAcETSUtYwIABAAFAGMHgQ-CFoNjAgADAAQABE0iN2MBAQEBAQJjAQMCCAMNYwABAAIAAwRNJDhjCoEagx-DYwIABAIDBGOBA4IGgwsDTShHYweBE4IagmMBAAMABAACTSVOYwICBgcGCgNNREpjAAEAAgACY4EDhAeHCwRNFVtjAwEJAQsBYw-BHoIvgmMFAAgACgE"
+  }
+}

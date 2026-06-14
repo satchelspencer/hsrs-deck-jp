@@ -1,0 +1,15 @@
+{
+  "_id": "a3ru5po74v5",
+  "name": "問",
+  "order": "2.6.3.8.0",
+  "params": {
+    "_wd": "u問"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "問",
+    "_st": "CwRNEg9jAQECAwIFYwABADIAR2MABAAHAAgFTRURYwaBD4MThGMDAAUABQNjAAOBD4EWYwACAAQABAJNFR1jB4EOghWDAk0VKmMIgQ2CFIIETUAMYwEBAgICBGMAAQANABRjAAIAAwAEBU1DDmMGgQ6CFINjAwAFAQUDYwAUAEAATmMACYYEioECTUMZYweBEYIWggJNQyVjBoEPgheCBE0kOWMBAQICAgNjAQQCCwMRYwABAAIAAwRNJzxjCYEVghuDYwMABQEEBGOBBIIIhA4DTSpPYwSBEIEXgmMBAAIAAwA"
+  }
+}

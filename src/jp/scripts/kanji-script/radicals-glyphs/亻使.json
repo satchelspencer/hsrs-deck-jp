@@ -1,0 +1,18 @@
+{
+  "_id": "h8h163lutou",
+  "desc": "variant of 人",
+  "name": "亻使",
+  "order": "1.2.7.0.0",
+  "params": {
+    "_g": "使",
+    "_r": "m亻"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "2",
+    "jp": "亻"
+  }
+}

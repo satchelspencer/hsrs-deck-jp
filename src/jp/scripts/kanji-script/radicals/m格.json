@@ -1,0 +1,10 @@
+{
+  "_id": "shjpibug48u",
+  "name": "m格",
+  "parents": [
+    "radicals"
+  ],
+  "props": {
+    "_m": "status, rank, capacity"
+  }
+}

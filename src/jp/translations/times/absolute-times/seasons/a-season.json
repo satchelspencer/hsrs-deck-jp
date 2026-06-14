@@ -4,7 +4,9 @@
   "name": "a-season",
   "parents": [
     "seasons",
-    "categories"
+    "categories",
+    "u季",
+    "u節"
   ],
   "props": {
     "_pl": "seasons",

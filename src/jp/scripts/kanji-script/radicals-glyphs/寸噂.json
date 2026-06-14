@@ -1,0 +1,17 @@
+{
+  "_id": "zy1aqbiwcpd",
+  "name": "寸噂",
+  "order": "3.9.8.9.6",
+  "params": {
+    "_g": "噂",
+    "_r": "m寸"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "13",
+    "_sl": "3",
+    "jp": "寸"
+  }
+}

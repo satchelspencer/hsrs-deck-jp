@@ -1,0 +1,17 @@
+{
+  "_id": "quaivnqwmn1",
+  "name": "米料",
+  "order": "2.5.5.6.8",
+  "params": {
+    "_g": "料",
+    "_r": "m米"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "米"
+  }
+}

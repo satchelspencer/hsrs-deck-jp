@@ -1,0 +1,18 @@
+{
+  "_id": "u5ucz6isczi",
+  "desc": "variant of 示",
+  "name": "礻祝",
+  "order": "2.6.6.6.6",
+  "params": {
+    "_g": "祝",
+    "_r": "m礻"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "礻"
+  }
+}

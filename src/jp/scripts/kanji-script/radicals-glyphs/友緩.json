@@ -1,0 +1,17 @@
+{
+  "_id": "2sa22moiw69",
+  "name": "友緩",
+  "order": "3.4.7.6.2",
+  "params": {
+    "_g": "緩",
+    "_r": "m友"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "12",
+    "_sl": "4",
+    "jp": "友"
+  }
+}

@@ -4,7 +4,9 @@
   "name": "incident",
   "order": "4",
   "parents": [
-    "ken-matters-countable"
+    "ken-matters-countable",
+    "u事",
+    "u件"
   ],
   "props": {
     "en": "incident",

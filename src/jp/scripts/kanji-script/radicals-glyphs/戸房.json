@@ -1,0 +1,17 @@
+{
+  "_id": "i3u1owg7jfc",
+  "name": "戸房",
+  "order": "3.9.3.6.0",
+  "params": {
+    "_g": "房",
+    "_r": "m戸"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "戸"
+  }
+}

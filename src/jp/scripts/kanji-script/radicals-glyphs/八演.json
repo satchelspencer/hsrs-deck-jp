@@ -1,0 +1,17 @@
+{
+  "_id": "hsip82krs28",
+  "name": "八演",
+  "order": "4.3.9.0.4",
+  "params": {
+    "_g": "演",
+    "_r": "m八"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "13",
+    "_sl": "2",
+    "jp": "八"
+  }
+}

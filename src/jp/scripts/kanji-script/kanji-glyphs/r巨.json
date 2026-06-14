@@ -1,0 +1,17 @@
+{
+  "_id": "bmcr8ifs6tg",
+  "name": "r巨",
+  "order": "4.3.0.4.0.1",
+  "params": {
+    "_g": "巨",
+    "_r": "m巨"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "巨"
+  }
+}

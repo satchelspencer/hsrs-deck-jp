@@ -3,7 +3,8 @@
   "name": "spanish",
   "order": "2",
   "parents": [
-    "languages"
+    "languages",
+    "u語"
   ],
   "props": {
     "en": "spanish",

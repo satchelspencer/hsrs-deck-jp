@@ -1,0 +1,18 @@
+{
+  "_id": "z1f3249bv8y",
+  "desc": "variant of 手",
+  "name": "扌授",
+  "order": "1.5.3.6.6",
+  "params": {
+    "_g": "授",
+    "_r": "m扌"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "扌"
+  }
+}

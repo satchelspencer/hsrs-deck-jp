@@ -1,0 +1,17 @@
+{
+  "_id": "5bxb9aunpmv",
+  "name": "又服",
+  "order": "1.6.8.1.2",
+  "params": {
+    "_g": "服",
+    "_r": "m又"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "2",
+    "jp": "又"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "_id": "pgv25bx8q8t",
+  "name": "景",
+  "order": "3.4.1.6.1",
+  "params": {
+    "_wd": "u景"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "景",
+    "_st": "DARNHg9jAQEBAgEDYwEDAgsDEGMAAgEDAQQFTSEQYwaBIYQphGMDAAUBBQRjAAODCoQPY4ECgQOBBAJNIxpjCYEfgymEAk0lJGMMgRuCJYMDTTUlYwEBAQIBA2MAAQAEAAUETQ8xYwMABgEKAGMPgS6EPYRjAwAGAAkABE0kOWMBAQECAgJjAQIBBwIMYwABAAIBAwRNJjpjCIEZgx6DYwIABAIDBGOBAoIFgwkDTSlIYweBEIIagmMBAAMABAAETTZJYwEBAgICBGMABAANABBjAAqGAogAA00gUGMAAAABAAFjgQOGCYwNAk1LUGMEAwoKCw4"
+  }
+}

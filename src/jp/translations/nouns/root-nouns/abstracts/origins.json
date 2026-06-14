@@ -4,7 +4,8 @@
   "name": "origins",
   "order": "4",
   "parents": [
-    "abstracts"
+    "abstracts",
+    "u出"
   ],
   "props": {
     "en": "origins",

@@ -3,7 +3,10 @@
   "name": "hiragana-word",
   "order": "2",
   "parents": [
-    "writing-systems"
+    "writing-systems",
+    "u平",
+    "u仮",
+    "u名"
   ],
   "props": {
     "en": "hiragana",

@@ -6,7 +6,9 @@
   "parents": [
     "any-verb-adverbs",
     "i-adverbs",
-    "na-adverbs"
+    "na-adverbs",
+    "u多",
+    "u少"
   ],
   "props": {
     "en": "somewhat",

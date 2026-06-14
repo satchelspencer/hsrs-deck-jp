@@ -5,7 +5,9 @@
   "parents": [
     "objects",
     "sendables",
-    "writeables"
+    "writeables",
+    "u手",
+    "u紙"
   ],
   "props": {
     "en": "letter",

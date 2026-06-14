@@ -4,7 +4,9 @@
   "order": "3",
   "parents": [
     "informations",
-    "learnables"
+    "learnables",
+    "u地",
+    "u理"
   ],
   "props": {
     "en": "geography",

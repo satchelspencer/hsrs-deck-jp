@@ -1,0 +1,18 @@
+{
+  "_id": "qus23anebnq",
+  "name": "果課",
+  "order": "4.9.4.8.9",
+  "params": {
+    "_1": "木課",
+    "_g": "課",
+    "_r": "m果"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "8",
+    "jp": "果"
+  }
+}

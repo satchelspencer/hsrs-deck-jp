@@ -1,0 +1,17 @@
+{
+  "_id": "lj0kr0i1oiu",
+  "name": "羽曜",
+  "order": "1.9.1.4.5",
+  "params": {
+    "_g": "曜",
+    "_r": "m羽"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "6",
+    "jp": "羽"
+  }
+}

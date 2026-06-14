@@ -1,0 +1,18 @@
+{
+  "_id": "9cvn7eq4sb3",
+  "desc": "variant of 夾",
+  "name": "夹挟",
+  "order": "4.9.4.0.8",
+  "params": {
+    "_g": "挟",
+    "_r": "m夹"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "6",
+    "jp": "夹"
+  }
+}

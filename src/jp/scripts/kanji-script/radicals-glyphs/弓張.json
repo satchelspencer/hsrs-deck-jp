@@ -1,0 +1,17 @@
+{
+  "_id": "wzu35rnpbjv",
+  "name": "弓張",
+  "order": "1.9.0.4.6",
+  "params": {
+    "_g": "張",
+    "_r": "m弓"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "弓"
+  }
+}

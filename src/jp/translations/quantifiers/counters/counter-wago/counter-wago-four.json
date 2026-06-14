@@ -5,7 +5,8 @@
     "number": "four"
   },
   "parents": [
-    "counter-wago"
+    "counter-wago",
+    "u四"
   ],
   "props": {
     "en": null,

@@ -1,0 +1,18 @@
+{
+  "_id": "rwmwns6g7cc",
+  "name": "冓講",
+  "order": "3.9.2.1.1",
+  "params": {
+    "_1": "再講",
+    "_g": "講",
+    "_r": "m冓"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "10",
+    "jp": "冓"
+  }
+}

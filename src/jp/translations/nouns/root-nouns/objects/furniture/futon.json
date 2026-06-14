@@ -3,7 +3,9 @@
   "name": "futon",
   "order": "3",
   "parents": [
-    "furniture"
+    "furniture",
+    "u布",
+    "u団"
   ],
   "props": {
     "en": "futon",

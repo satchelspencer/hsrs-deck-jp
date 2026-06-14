@@ -4,7 +4,9 @@
   "order": "2",
   "parents": [
     "ascendables",
-    "spaces"
+    "spaces",
+    "u階",
+    "u段"
   ],
   "props": {
     "en": "stairs",

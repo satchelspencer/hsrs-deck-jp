@@ -1,0 +1,18 @@
+{
+  "_id": "hblkq03n0an",
+  "desc": "variant of 辶",
+  "name": "⻌退",
+  "order": "3.9.2.3.1",
+  "params": {
+    "_g": "退",
+    "_r": "m⻌"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "3",
+    "jp": "⻌"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "_id": "x11uc6ird2o",
+  "desc": "variant of 攴",
+  "name": "攵散",
+  "order": "2.9.3.0.1",
+  "params": {
+    "_g": "散",
+    "_r": "m攵"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "9",
+    "_sl": "4",
+    "jp": "攵"
+  }
+}

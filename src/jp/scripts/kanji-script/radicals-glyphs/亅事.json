@@ -1,0 +1,17 @@
+{
+  "_id": "hesbd9z4nrd",
+  "name": "亅事",
+  "order": "1.2.3.9.1",
+  "params": {
+    "_g": "事",
+    "_r": "m亅"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "1",
+    "jp": "亅"
+  }
+}

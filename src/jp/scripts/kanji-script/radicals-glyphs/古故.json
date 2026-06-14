@@ -1,0 +1,17 @@
+{
+  "_id": "9e4hm6l0cit",
+  "name": "古故",
+  "order": "2.3.8.2.1",
+  "params": {
+    "_g": "故",
+    "_r": "m古"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "古"
+  }
+}

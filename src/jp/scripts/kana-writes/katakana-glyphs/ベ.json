@@ -1,0 +1,14 @@
+{
+  "_id": "buvt6ibvbi1",
+  "name": "ベ",
+  "params": {
+    "_kn": "katakana-be"
+  },
+  "parents": [
+    "katakana-glyphs"
+  ],
+  "props": {
+    "_st": "AwZNEDFjAwIFAQeBYwSECYgMi2MDgweFDIFjCwoaFyUfYwQDCAcLCQJNQxtjAwIGBQgJAk1JFmMDAgcFCQg",
+    "jp": "ベ"
+  }
+}

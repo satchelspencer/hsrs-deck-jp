@@ -1,0 +1,17 @@
+{
+  "_id": "ggyycitsfpv",
+  "name": "示察",
+  "order": "2.4.6.1.0",
+  "params": {
+    "_g": "察",
+    "_r": "m示"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "10",
+    "_sl": "5",
+    "jp": "示"
+  }
+}

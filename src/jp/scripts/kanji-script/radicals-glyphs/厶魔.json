@@ -1,0 +1,17 @@
+{
+  "_id": "i6qnlfvcpik",
+  "name": "厶魔",
+  "order": "4.2.7.8.0",
+  "params": {
+    "_g": "魔",
+    "_r": "m厶"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "20",
+    "_sl": "2",
+    "jp": "厶"
+  }
+}

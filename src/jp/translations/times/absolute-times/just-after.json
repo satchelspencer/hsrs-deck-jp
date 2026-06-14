@@ -3,7 +3,9 @@
   "name": "just-after",
   "order": "4",
   "parents": [
-    "absolute-times"
+    "absolute-times",
+    "u直",
+    "u後"
   ],
   "props": {
     "en": "just after",

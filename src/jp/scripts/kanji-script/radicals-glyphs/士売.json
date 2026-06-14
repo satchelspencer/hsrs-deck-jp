@@ -1,0 +1,18 @@
+{
+  "_id": "usc38rjn6jp",
+  "desc": "variant of 土",
+  "name": "士売",
+  "order": "1.4.8.3.6",
+  "params": {
+    "_g": "売",
+    "_r": "m士"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "士"
+  }
+}

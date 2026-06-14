@@ -1,0 +1,17 @@
+{
+  "_id": "jw0nei3fozs",
+  "name": "土塗",
+  "order": "3.2.5.8.7",
+  "params": {
+    "_g": "塗",
+    "_r": "m土"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "11",
+    "_sl": "3",
+    "jp": "土"
+  }
+}

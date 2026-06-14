@@ -1,0 +1,17 @@
+{
+  "_id": "htnc0nbh17c",
+  "name": "木構",
+  "order": "3.9.2.2.3",
+  "params": {
+    "_g": "構",
+    "_r": "m木"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "木"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "ta3lalkptq0",
+  "name": "門聞",
+  "order": "1.2.6.8.6",
+  "params": {
+    "_g": "聞",
+    "_r": "m門"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "8",
+    "jp": "門"
+  }
+}

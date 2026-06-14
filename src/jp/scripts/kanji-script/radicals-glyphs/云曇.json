@@ -1,0 +1,17 @@
+{
+  "_id": "tr3xgj8a85h",
+  "name": "云曇",
+  "order": "1.9.9.2.6",
+  "params": {
+    "_g": "曇",
+    "_r": "m云"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "13",
+    "_sl": "4",
+    "jp": "云"
+  }
+}

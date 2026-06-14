@@ -1,0 +1,17 @@
+{
+  "_id": "r6m300nh1ru",
+  "name": "元完",
+  "order": "2.9.4.7.4",
+  "params": {
+    "_g": "完",
+    "_r": "m元"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "4",
+    "jp": "元"
+  }
+}

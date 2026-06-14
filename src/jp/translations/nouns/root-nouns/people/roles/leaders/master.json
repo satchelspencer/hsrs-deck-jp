@@ -4,7 +4,8 @@
   "name": "master",
   "order": "4",
   "parents": [
-    "leaders"
+    "leaders",
+    "u主"
   ],
   "props": {
     "en": "master",

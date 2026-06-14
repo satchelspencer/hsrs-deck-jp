@@ -1,0 +1,17 @@
+{
+  "_id": "fir3605h95d",
+  "name": "r夫",
+  "order": "1.6.7.6.6.1",
+  "params": {
+    "_g": "夫",
+    "_r": "m夫"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "夫"
+  }
+}

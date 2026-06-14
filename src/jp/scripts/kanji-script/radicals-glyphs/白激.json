@@ -1,0 +1,17 @@
+{
+  "_id": "a329ahlzzyq",
+  "name": "白激",
+  "order": "4.2.1.6.7",
+  "params": {
+    "_g": "激",
+    "_r": "m白"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "5",
+    "jp": "白"
+  }
+}

@@ -3,7 +3,9 @@
   "name": "traditional-inn",
   "order": "3",
   "parents": [
-    "establishments"
+    "establishments",
+    "u旅",
+    "u館"
   ],
   "props": {
     "en": "traditional inn",

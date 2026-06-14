@@ -1,0 +1,15 @@
+{
+  "_id": "lek7ymbb39y",
+  "name": "汽",
+  "order": "4.9.3.0.2",
+  "params": {
+    "_wd": "u汽"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "汽",
+    "_st": "BwJNEhNjBAEKBgsIAk0OKWMEAQoGCwgDTQ5YYwIBAwAEgWMDhQWKCJADTTILYwABAAOBBUMvFSkgIicETTAZYwEAAgADAGMHgRGDGYVjAQADgQQABE0tJWMCAAMABQBjCIEPghaEYwIABIEFgQZNJjRjAgEEAQYAYwyCGIUhh2MDgQMBAwNjgxcCJAwtYwUFBgQFhg"
+  }
+}

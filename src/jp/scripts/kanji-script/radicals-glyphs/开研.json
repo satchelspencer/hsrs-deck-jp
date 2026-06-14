@@ -1,0 +1,18 @@
+{
+  "_id": "rnsvp0xeqih",
+  "desc": "variant of 幵",
+  "name": "开研",
+  "order": "3.4.8.3.4",
+  "params": {
+    "_g": "研",
+    "_r": "m开"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "4",
+    "jp": "开"
+  }
+}

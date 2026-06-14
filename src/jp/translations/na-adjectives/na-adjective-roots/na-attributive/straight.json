@@ -3,7 +3,9 @@
   "name": "straight",
   "order": "2",
   "parents": [
-    "na-attributive"
+    "na-attributive",
+    "u真",
+    "u直"
   ],
   "props": {
     "en": "straight",

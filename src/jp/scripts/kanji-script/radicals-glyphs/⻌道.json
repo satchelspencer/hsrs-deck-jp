@@ -1,0 +1,18 @@
+{
+  "_id": "8ystngfnzdb",
+  "desc": "variant of 辶",
+  "name": "⻌道",
+  "order": "1.9.7.8.0",
+  "params": {
+    "_g": "道",
+    "_r": "m⻌"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "10",
+    "_sl": "3",
+    "jp": "⻌"
+  }
+}

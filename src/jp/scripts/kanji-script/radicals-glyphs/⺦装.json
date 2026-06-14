@@ -1,0 +1,18 @@
+{
+  "_id": "ihwcjddov81",
+  "desc": "variant of 爿",
+  "name": "⺦装",
+  "order": "3.9.1.0.3",
+  "params": {
+    "_g": "装",
+    "_r": "m⺦"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "⺦"
+  }
+}

@@ -5,7 +5,9 @@
   "order": "4",
   "parents": [
     "suru-nouns",
-    "te-iru-verbs-continuous"
+    "te-iru-verbs-continuous",
+    "u刺",
+    "u激"
   ],
   "props": {
     "_pg": "stimulating",

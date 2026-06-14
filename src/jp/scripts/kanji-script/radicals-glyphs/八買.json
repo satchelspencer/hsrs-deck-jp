@@ -1,0 +1,17 @@
+{
+  "_id": "g7ejm7qpbwq",
+  "name": "八買",
+  "order": "1.3.6.7.8",
+  "params": {
+    "_g": "買",
+    "_r": "m八"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "11",
+    "_sl": "2",
+    "jp": "八"
+  }
+}

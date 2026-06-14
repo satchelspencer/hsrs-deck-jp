@@ -1,0 +1,15 @@
+{
+  "_id": "xli0zefafud",
+  "name": "食",
+  "order": "1.3.8.3.9",
+  "params": {
+    "_wd": "u食"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "食",
+    "_st": "CQNNNQtjAAEAA4EEQy0ZICkONANNNRBjBQUaFCIZYwMCBQMJAwNNNB1jAQECAgIEYwACAAMABgZNJihjAQACAQQBYwmBFoMXg2MCAAMBAwNDRCpDNUI-YwABAAEAAgJNKTRDLzM8MkIyAk0pQGMHgRGCGYIFTSYoYwEBAgMCBGMACQAsAC9jAAQBBQQDYwOCB4ULiANNSkBjAAEAA4EEY4MEhAWHCANNNEdDOEdNWlFdYwICBQMIBA"
+  }
+}

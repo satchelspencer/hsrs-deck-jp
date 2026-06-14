@@ -1,0 +1,19 @@
+{
+  "_id": "fx5sutqzffm",
+  "name": "次姿",
+  "order": "4.1.1.7.2",
+  "params": {
+    "_1": "冫姿",
+    "_2": "欠姿",
+    "_g": "姿",
+    "_r": "m次"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "次"
+  }
+}

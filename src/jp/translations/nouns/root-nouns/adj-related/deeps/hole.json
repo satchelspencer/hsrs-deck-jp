@@ -4,7 +4,8 @@
   "name": "hole",
   "order": "3",
   "parents": [
-    "deeps"
+    "deeps",
+    "u穴"
   ],
   "props": {
     "en": "hole",

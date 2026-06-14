@@ -4,7 +4,9 @@
   "name": "senior",
   "order": "4",
   "parents": [
-    "roles"
+    "roles",
+    "u先",
+    "u輩"
   ],
   "props": {
     "en": "senior",

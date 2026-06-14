@@ -1,0 +1,17 @@
+{
+  "_id": "77hmhzfg00g",
+  "name": "又趣",
+  "order": "3.6.9.4.2",
+  "params": {
+    "_g": "趣",
+    "_r": "m又"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "14",
+    "_sl": "2",
+    "jp": "又"
+  }
+}

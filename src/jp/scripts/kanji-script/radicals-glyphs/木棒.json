@@ -1,0 +1,17 @@
+{
+  "_id": "0cmx1g0rc3c",
+  "name": "木棒",
+  "order": "3.9.3.5.6",
+  "params": {
+    "_g": "棒",
+    "_r": "m木"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "木"
+  }
+}

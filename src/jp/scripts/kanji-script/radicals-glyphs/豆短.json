@@ -1,0 +1,18 @@
+{
+  "_id": "qs0sk1ef07u",
+  "name": "豆短",
+  "order": "2.2.5.0.0",
+  "params": {
+    "_1": "口短",
+    "_g": "短",
+    "_r": "m豆"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "7",
+    "jp": "豆"
+  }
+}

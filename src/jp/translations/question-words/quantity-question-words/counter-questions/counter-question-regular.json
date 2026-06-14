@@ -5,7 +5,8 @@
     "root": "counter-roots"
   },
   "parents": [
-    "counter-questions"
+    "counter-questions",
+    "u何"
   ],
   "props": {
     "en": "'how many '+root._ec",

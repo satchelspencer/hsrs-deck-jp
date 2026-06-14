@@ -3,7 +3,8 @@
   "name": "for-the-first-time",
   "order": "2",
   "parents": [
-    "verb-adverbs"
+    "verb-adverbs",
+    "u初"
   ],
   "props": {
     "en": "for the first time",

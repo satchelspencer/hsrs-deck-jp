@@ -3,7 +3,9 @@
   "name": "feasible",
   "order": "4",
   "parents": [
-    "na-attributive"
+    "na-attributive",
+    "u可",
+    "u能"
   ],
   "props": {
     "_ad": "feasibly",

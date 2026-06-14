@@ -1,0 +1,18 @@
+{
+  "_id": "5mdtk14d6xy",
+  "desc": "variant of 曰",
+  "name": "日裏",
+  "order": "3.9.9.0.5",
+  "params": {
+    "_g": "裏",
+    "_r": "m日"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "3",
+    "_sl": "4",
+    "jp": "日"
+  }
+}

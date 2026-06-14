@@ -11,7 +11,8 @@
   },
   "parents": [
     "requests",
-    "common-kudasai"
+    "common-kudasai",
+    "u下"
   ],
   "props": {
     "en": "counter.en+' of '+noun.en+' '+'please'",

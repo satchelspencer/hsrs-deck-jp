@@ -6,7 +6,9 @@
   "parents": [
     "media",
     "products",
-    "readables"
+    "readables",
+    "u漫",
+    "u画"
   ],
   "props": {
     "en": "manga",

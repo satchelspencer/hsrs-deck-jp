@@ -3,7 +3,8 @@
   "name": "astonishment",
   "order": "4",
   "parents": [
-    "people-no"
+    "people-no",
+    "u驚"
   ],
   "props": {
     "en": "astonishment",

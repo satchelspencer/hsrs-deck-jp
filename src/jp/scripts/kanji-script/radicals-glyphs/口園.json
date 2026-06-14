@@ -1,0 +1,17 @@
+{
+  "_id": "02fqcbkh2yr",
+  "name": "口園",
+  "order": "1.9.0.1.5",
+  "params": {
+    "_g": "園",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

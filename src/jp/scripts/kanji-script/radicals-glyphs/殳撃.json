@@ -1,0 +1,17 @@
+{
+  "_id": "fy08gtt8jv5",
+  "name": "殳撃",
+  "order": "4.1.0.3.5",
+  "params": {
+    "_g": "撃",
+    "_r": "m殳"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "4",
+    "jp": "殳"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "v6l7ozhsdqe",
+  "name": "r式",
+  "order": "3.9.6.5.1.1",
+  "params": {
+    "_g": "式",
+    "_r": "m式"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "式"
+  }
+}

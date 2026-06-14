@@ -1,0 +1,17 @@
+{
+  "_id": "9uiii8qjtgq",
+  "name": "比麗",
+  "order": "1.3.4.6.2",
+  "params": {
+    "_g": "麗",
+    "_r": "m比"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "16",
+    "_sl": "4",
+    "jp": "比"
+  }
+}

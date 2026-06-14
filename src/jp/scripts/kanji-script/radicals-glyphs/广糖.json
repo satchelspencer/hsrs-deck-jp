@@ -1,0 +1,17 @@
+{
+  "_id": "ygx26adckn0",
+  "name": "广糖",
+  "order": "3.9.4.8.0",
+  "params": {
+    "_g": "糖",
+    "_r": "m广"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "3",
+    "jp": "广"
+  }
+}

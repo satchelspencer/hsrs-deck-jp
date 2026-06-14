@@ -1,0 +1,18 @@
+{
+  "_id": "4wt46ug5cae",
+  "name": "言詳",
+  "order": "3.2.4.0.7",
+  "params": {
+    "_1": "口詳",
+    "_g": "詳",
+    "_r": "m言"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "7",
+    "jp": "言"
+  }
+}

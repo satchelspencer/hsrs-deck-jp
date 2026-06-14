@@ -1,0 +1,18 @@
+{
+  "_id": "7ze1dpypywj",
+  "name": "r確",
+  "order": "2.4.8.4.3.1",
+  "params": {
+    "_1": "石確",
+    "_g": "確",
+    "_r": "m確"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "15",
+    "jp": "確"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "v97wdxsbxw2",
+  "name": "甘旗",
+  "order": "3.9.1.0.2",
+  "params": {
+    "_g": "旗",
+    "_r": "m甘"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "5",
+    "jp": "甘"
+  }
+}

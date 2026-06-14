@@ -4,7 +4,8 @@
   "name": "definitely",
   "order": "3",
   "parents": [
-    "verb-adverbs"
+    "verb-adverbs",
+    "u必"
   ],
   "props": {
     "en": "definitely",

@@ -1,0 +1,18 @@
+{
+  "_id": "vr95z25807s",
+  "desc": "variant of 曰",
+  "name": "日借",
+  "order": "2.6.1.0.7",
+  "params": {
+    "_g": "借",
+    "_r": "m日"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "4",
+    "jp": "日"
+  }
+}

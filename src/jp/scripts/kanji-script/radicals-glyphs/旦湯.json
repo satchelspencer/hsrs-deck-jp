@@ -1,0 +1,17 @@
+{
+  "_id": "gpaxwvbeba0",
+  "name": "旦湯",
+  "order": "3.9.5.7.6",
+  "params": {
+    "_g": "湯",
+    "_r": "m旦"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "5",
+    "jp": "旦"
+  }
+}

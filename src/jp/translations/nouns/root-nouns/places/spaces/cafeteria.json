@@ -4,7 +4,9 @@
   "name": "cafeteria",
   "order": "2",
   "parents": [
-    "spaces"
+    "spaces",
+    "u食",
+    "u堂"
   ],
   "props": {
     "en": "cafeteria",

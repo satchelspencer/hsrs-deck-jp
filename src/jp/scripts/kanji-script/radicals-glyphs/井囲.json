@@ -1,0 +1,17 @@
+{
+  "_id": "3yy42vlpovd",
+  "name": "井囲",
+  "order": "4.1.3.3.9",
+  "params": {
+    "_g": "囲",
+    "_r": "m井"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "3",
+    "_sl": "4",
+    "jp": "井"
+  }
+}

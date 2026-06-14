@@ -7,7 +7,8 @@
     "pronoun": "you-kimi"
   },
   "parents": [
-    "second-person-pronouns-plural"
+    "second-person-pronouns-plural",
+    "u君"
   ],
   "props": {
     "en": "you all",

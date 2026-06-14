@@ -6,7 +6,8 @@
     "form": "plain-negative"
   },
   "parents": [
-    "verb-kudasai"
+    "verb-kudasai",
+    "u下"
   ],
   "props": {
     "en": "'please '+form.en",

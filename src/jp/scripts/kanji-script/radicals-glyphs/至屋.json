@@ -1,0 +1,19 @@
+{
+  "_id": "ektmhrl6nbw",
+  "name": "至屋",
+  "order": "1.4.3.3.7",
+  "params": {
+    "_1": "厶屋",
+    "_2": "土屋",
+    "_g": "屋",
+    "_r": "m至"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "6",
+    "jp": "至"
+  }
+}

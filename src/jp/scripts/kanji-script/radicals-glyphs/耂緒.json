@@ -1,0 +1,18 @@
+{
+  "_id": "qw0aa4q5sgr",
+  "desc": "variant of 老",
+  "name": "耂緒",
+  "order": "2.5.6.9.8",
+  "params": {
+    "_g": "緒",
+    "_r": "m耂"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "4",
+    "jp": "耂"
+  }
+}

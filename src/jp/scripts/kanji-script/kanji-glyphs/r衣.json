@@ -1,0 +1,17 @@
+{
+  "_id": "j2jkhxfl8up",
+  "name": "r衣",
+  "order": "1.9.0.1.5.1",
+  "params": {
+    "_g": "衣",
+    "_r": "m衣"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "衣"
+  }
+}

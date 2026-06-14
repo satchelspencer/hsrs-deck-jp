@@ -1,0 +1,17 @@
+{
+  "_id": "ky0db8u656b",
+  "name": "小涼",
+  "order": "2.5.6.2.4",
+  "params": {
+    "_g": "涼",
+    "_r": "m小"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "9",
+    "_sl": "3",
+    "jp": "小"
+  }
+}

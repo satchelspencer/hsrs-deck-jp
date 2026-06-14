@@ -3,7 +3,9 @@
   "name": "politics",
   "order": "4",
   "parents": [
-    "choosables"
+    "choosables",
+    "u政",
+    "u治"
   ],
   "props": {
     "en": "politics",

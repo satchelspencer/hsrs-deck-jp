@@ -4,7 +4,9 @@
   "name": "limit",
   "order": "4",
   "parents": [
-    "abstracts"
+    "abstracts",
+    "u限",
+    "u界"
   ],
   "props": {
     "en": "limit",

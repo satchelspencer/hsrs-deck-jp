@@ -4,7 +4,9 @@
   "name": "hell",
   "order": "4",
   "parents": [
-    "places"
+    "places",
+    "u地",
+    "u獄"
   ],
   "props": {
     "en": "hell",

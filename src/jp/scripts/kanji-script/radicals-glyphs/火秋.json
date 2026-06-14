@@ -1,0 +1,17 @@
+{
+  "_id": "xd9s2m1c43a",
+  "name": "火秋",
+  "order": "2.9.5.2.1",
+  "params": {
+    "_g": "秋",
+    "_r": "m火"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "4",
+    "jp": "火"
+  }
+}

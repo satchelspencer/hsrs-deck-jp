@@ -3,7 +3,9 @@
   "name": "next-month",
   "order": "1",
   "parents": [
-    "wa-future-only-times"
+    "wa-future-only-times",
+    "u来",
+    "u月"
   ],
   "props": {
     "en": "next month",

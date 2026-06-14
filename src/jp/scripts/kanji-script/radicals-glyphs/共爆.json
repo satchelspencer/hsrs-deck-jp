@@ -1,0 +1,18 @@
+{
+  "_id": "1szi5qsb12n",
+  "name": "共爆",
+  "order": "4.6.5.9.2",
+  "params": {
+    "_1": "八爆",
+    "_g": "爆",
+    "_r": "m共"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "9",
+    "_sl": "6",
+    "jp": "共"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "_id": "lel04vopbvm",
+  "desc": "variant of 曰",
+  "name": "日黒",
+  "order": "1.4.2.1.2",
+  "params": {
+    "_g": "黒",
+    "_r": "m日"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "日"
+  }
+}

@@ -3,7 +3,9 @@
   "name": "postage-stamp",
   "order": "3",
   "parents": [
-    "products"
+    "products",
+    "u切",
+    "u手"
   ],
   "props": {
     "en": "postage stamp",

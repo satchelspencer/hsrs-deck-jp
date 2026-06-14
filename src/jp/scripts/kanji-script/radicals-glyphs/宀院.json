@@ -1,0 +1,17 @@
+{
+  "_id": "0v3ed3y5juz",
+  "name": "宀院",
+  "order": "2.9.4.7.4",
+  "params": {
+    "_g": "院",
+    "_r": "m宀"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "3",
+    "jp": "宀"
+  }
+}

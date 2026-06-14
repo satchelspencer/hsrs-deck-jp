@@ -7,7 +7,8 @@
     "pronoun": "I"
   },
   "parents": [
-    "first-person-pronouns-plural"
+    "first-person-pronouns-plural",
+    "u私"
   ],
   "props": {
     "en": "we",

@@ -1,0 +1,17 @@
+{
+  "_id": "7iz0ya2n1qq",
+  "name": "八選",
+  "order": "2.2.8.5.5",
+  "params": {
+    "_g": "選",
+    "_r": "m八"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "11",
+    "_sl": "2",
+    "jp": "八"
+  }
+}

@@ -4,7 +4,10 @@
   "name": "nurse",
   "order": "3",
   "parents": [
-    "roles"
+    "roles",
+    "u看",
+    "u護",
+    "u師"
   ],
   "props": {
     "en": "nurse",

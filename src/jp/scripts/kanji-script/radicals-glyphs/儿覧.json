@@ -1,0 +1,18 @@
+{
+  "_id": "cmeed8cdy1s",
+  "desc": "variant of 八",
+  "name": "儿覧",
+  "order": "3.9.6.0.3",
+  "params": {
+    "_g": "覧",
+    "_r": "m儿"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "16",
+    "_sl": "2",
+    "jp": "儿"
+  }
+}

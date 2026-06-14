@@ -5,7 +5,8 @@
   "order": "3",
   "parents": [
     "animal-no",
-    "hard-softs"
+    "hard-softs",
+    "u毛"
   ],
   "props": {
     "en": "fur",

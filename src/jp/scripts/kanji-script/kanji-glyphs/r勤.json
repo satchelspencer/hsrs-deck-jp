@@ -1,0 +1,18 @@
+{
+  "_id": "ambevllz8xh",
+  "name": "r勤",
+  "order": "4.9.3.4.5.1",
+  "params": {
+    "_1": "力勤",
+    "_g": "勤",
+    "_r": "m勤"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "12",
+    "jp": "勤"
+  }
+}

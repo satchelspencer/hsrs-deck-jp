@@ -1,0 +1,17 @@
+{
+  "_id": "pwgawky1bu7",
+  "name": "皮波",
+  "order": "4.3.8.1.1",
+  "params": {
+    "_g": "波",
+    "_r": "m皮"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "5",
+    "jp": "皮"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "hng8tucp4tx",
+  "name": "立識",
+  "order": "4.1.4.1.0",
+  "params": {
+    "_g": "識",
+    "_r": "m立"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "5",
+    "jp": "立"
+  }
+}

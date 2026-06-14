@@ -1,0 +1,19 @@
+{
+  "_id": "14vv42f0qr8",
+  "desc": "variant of 戌",
+  "name": "戍機",
+  "order": "2.9.8.5.5",
+  "params": {
+    "_1": "一機",
+    "_g": "機",
+    "_r": "m戍"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "11",
+    "_sl": "6",
+    "jp": "戍"
+  }
+}

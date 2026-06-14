@@ -1,0 +1,17 @@
+{
+  "_id": "nudxrfxcozo",
+  "name": "宀寝",
+  "order": "1.5.2.3.9",
+  "params": {
+    "_g": "寝",
+    "_r": "m宀"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "宀"
+  }
+}

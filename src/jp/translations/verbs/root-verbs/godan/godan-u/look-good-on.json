@@ -6,7 +6,9 @@
   "parents": [
     "godan-u",
     "ni-person-verbs",
-    "te-iru-verbs-state"
+    "te-iru-verbs-state",
+    "u似",
+    "u合"
   ],
   "props": {
     "_st": "good looking on",

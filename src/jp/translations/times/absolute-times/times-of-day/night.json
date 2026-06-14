@@ -4,7 +4,8 @@
   "name": "night",
   "order": "1",
   "parents": [
-    "times-of-day"
+    "times-of-day",
+    "u夜"
   ],
   "props": {
     "en": "night",

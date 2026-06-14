@@ -4,7 +4,8 @@
   "order": "2",
   "parents": [
     "people-do",
-    "ichidan"
+    "ichidan",
+    "u似"
   ],
   "props": {
     "en": "resemble",

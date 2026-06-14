@@ -1,0 +1,17 @@
+{
+  "_id": "0enowiau9r0",
+  "name": "戸戻",
+  "order": "2.2.0.4.5",
+  "params": {
+    "_g": "戻",
+    "_r": "m戸"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "戸"
+  }
+}

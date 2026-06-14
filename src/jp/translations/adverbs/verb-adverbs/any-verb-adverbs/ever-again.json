@@ -5,7 +5,9 @@
   "name": "ever-again",
   "order": "4",
   "parents": [
-    "any-verb-adverbs"
+    "any-verb-adverbs",
+    "u二",
+    "u度"
   ],
   "props": {
     "en": "ever again",

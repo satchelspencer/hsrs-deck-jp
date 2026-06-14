@@ -1,0 +1,17 @@
+{
+  "_id": "p9iej2b67ys",
+  "name": "目見",
+  "order": "1.2.6.9.3",
+  "params": {
+    "_g": "見",
+    "_r": "m目"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "目"
+  }
+}

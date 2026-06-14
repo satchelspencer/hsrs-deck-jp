@@ -4,7 +4,9 @@
   "name": "man-formal",
   "order": "3",
   "parents": [
-    "demographics"
+    "demographics",
+    "u男",
+    "u性"
   ],
   "props": {
     "en": "man",

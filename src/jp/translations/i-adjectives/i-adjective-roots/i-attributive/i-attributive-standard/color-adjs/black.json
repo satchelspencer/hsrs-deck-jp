@@ -3,7 +3,8 @@
   "name": "black",
   "order": "1",
   "parents": [
-    "color-adjs"
+    "color-adjs",
+    "u黒"
   ],
   "props": {
     "en": "black",

@@ -1,0 +1,18 @@
+{
+  "_id": "ldgnqg9kqjs",
+  "name": "共選",
+  "order": "2.2.8.5.5",
+  "params": {
+    "_1": "八選",
+    "_g": "選",
+    "_r": "m共"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "6",
+    "jp": "共"
+  }
+}

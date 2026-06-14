@@ -3,7 +3,8 @@
   "name": "type",
   "order": "4",
   "parents": [
-    "object-no"
+    "object-no",
+    "u型"
   ],
   "props": {
     "en": "type",

@@ -1,0 +1,18 @@
+{
+  "_id": "48b46si29ky",
+  "desc": "variant of 曰",
+  "name": "日電",
+  "order": "1.6.5.2.0",
+  "params": {
+    "_g": "電",
+    "_r": "m日"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "9",
+    "_sl": "4",
+    "jp": "日"
+  }
+}

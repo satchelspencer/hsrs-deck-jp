@@ -1,0 +1,18 @@
+{
+  "_id": "bn9drmoegt6",
+  "name": "r呪",
+  "order": "4.9.2.1.6.1",
+  "params": {
+    "_1": "兄呪",
+    "_g": "呪",
+    "_r": "m呪"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "8",
+    "jp": "呪"
+  }
+}

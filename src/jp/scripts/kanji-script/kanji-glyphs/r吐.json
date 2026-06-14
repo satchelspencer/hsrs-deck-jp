@@ -1,0 +1,17 @@
+{
+  "_id": "byhzlcz8c8s",
+  "name": "r吐",
+  "order": "3.9.6.4.4.1",
+  "params": {
+    "_g": "吐",
+    "_r": "m吐"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "吐"
+  }
+}

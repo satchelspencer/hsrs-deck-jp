@@ -4,7 +4,9 @@
   "name": "what-in-world-of-life",
   "order": "4",
   "parents": [
-    "question-adverbs"
+    "question-adverbs",
+    "u一",
+    "u体"
   ],
   "props": {
     "en": "what in the world",

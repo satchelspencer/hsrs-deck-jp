@@ -4,7 +4,9 @@
   "order": "3",
   "parents": [
     "countables",
-    "country-no"
+    "country-no",
+    "u人",
+    "u口"
   ],
   "props": {
     "en": "population",

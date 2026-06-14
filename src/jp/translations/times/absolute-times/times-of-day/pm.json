@@ -5,7 +5,9 @@
   "order": "2",
   "parents": [
     "times-of-day",
-    "am-pm"
+    "am-pm",
+    "u午",
+    "u後"
   ],
   "props": {
     "en": "p.m.",

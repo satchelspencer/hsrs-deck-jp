@@ -1,0 +1,17 @@
+{
+  "_id": "1gnva12co91",
+  "name": "r交",
+  "order": "1.3.3.1.4.1",
+  "params": {
+    "_g": "交",
+    "_r": "m交"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "交"
+  }
+}

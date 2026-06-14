@@ -1,0 +1,17 @@
+{
+  "_id": "xxvdl3mg74b",
+  "name": "旦得",
+  "order": "3.4.4.4.1",
+  "params": {
+    "_g": "得",
+    "_r": "m旦"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "5",
+    "jp": "旦"
+  }
+}

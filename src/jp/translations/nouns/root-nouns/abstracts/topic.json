@@ -5,7 +5,9 @@
   "order": "4",
   "parents": [
     "abstracts",
-    "informations-no"
+    "informations-no",
+    "u話",
+    "u題"
   ],
   "props": {
     "en": "topic",

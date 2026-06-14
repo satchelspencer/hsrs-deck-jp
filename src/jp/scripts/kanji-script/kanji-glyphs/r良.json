@@ -1,0 +1,18 @@
+{
+  "_id": "yhqc8lp07cr",
+  "name": "r良",
+  "order": "1.9.0.1.3.1",
+  "params": {
+    "_1": "艮良",
+    "_g": "良",
+    "_r": "m良"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "7",
+    "jp": "良"
+  }
+}

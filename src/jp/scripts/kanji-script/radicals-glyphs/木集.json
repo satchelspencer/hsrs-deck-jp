@@ -1,0 +1,17 @@
+{
+  "_id": "lx4j86wzgtg",
+  "name": "木集",
+  "order": "2.4.0.5.8",
+  "params": {
+    "_g": "集",
+    "_r": "m木"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "9",
+    "_sl": "4",
+    "jp": "木"
+  }
+}

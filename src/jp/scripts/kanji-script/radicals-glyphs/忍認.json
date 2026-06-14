@@ -1,0 +1,19 @@
+{
+  "_id": "gocqjyqaix5",
+  "name": "忍認",
+  "order": "4.1.0.0.5",
+  "params": {
+    "_1": "刃認",
+    "_2": "心認",
+    "_g": "認",
+    "_r": "m忍"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "7",
+    "jp": "忍"
+  }
+}

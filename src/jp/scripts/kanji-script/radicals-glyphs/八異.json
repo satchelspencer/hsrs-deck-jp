@@ -1,0 +1,17 @@
+{
+  "_id": "2tyvmra8cs2",
+  "name": "八異",
+  "order": "4.3.8.8.0",
+  "params": {
+    "_g": "異",
+    "_r": "m八"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "10",
+    "_sl": "2",
+    "jp": "八"
+  }
+}

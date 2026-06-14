@@ -1,0 +1,19 @@
+{
+  "_id": "sebbc8jjbgf",
+  "name": "安案",
+  "order": "3.4.3.3.1",
+  "params": {
+    "_1": "宀案",
+    "_2": "女案",
+    "_g": "案",
+    "_r": "m安"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "安"
+  }
+}

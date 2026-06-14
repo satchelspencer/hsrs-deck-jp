@@ -1,0 +1,17 @@
+{
+  "_id": "4ly614ip044",
+  "name": "可寄",
+  "order": "3.9.6.5.0",
+  "params": {
+    "_g": "寄",
+    "_r": "m可"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "5",
+    "jp": "可"
+  }
+}

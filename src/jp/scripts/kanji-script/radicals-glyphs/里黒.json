@@ -1,0 +1,18 @@
+{
+  "_id": "41inpxdmymb",
+  "name": "里黒",
+  "order": "1.4.2.1.2",
+  "params": {
+    "_1": "日黒",
+    "_g": "黒",
+    "_r": "m里"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "7",
+    "jp": "里"
+  }
+}

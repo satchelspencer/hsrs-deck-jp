@@ -4,7 +4,8 @@
   "name": "counter-root-longs",
   "order": "3",
   "parents": [
-    "counter-roots-kango-full-h"
+    "counter-roots-kango-full-h",
+    "u本"
   ],
   "props": {
     "_ec": "longs",

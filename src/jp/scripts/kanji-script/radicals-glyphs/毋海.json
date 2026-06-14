@@ -1,0 +1,18 @@
+{
+  "_id": "nknpa1hc4rn",
+  "desc": "variant of 母",
+  "name": "毋海",
+  "order": "1.9.7.6.2",
+  "params": {
+    "_g": "海",
+    "_r": "m毋"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "4",
+    "jp": "毋"
+  }
+}

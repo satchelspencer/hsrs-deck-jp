@@ -1,0 +1,17 @@
+{
+  "_id": "ki79jl71hd7",
+  "name": "广席",
+  "order": "3.4.3.5.1",
+  "params": {
+    "_g": "席",
+    "_r": "m广"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "广"
+  }
+}

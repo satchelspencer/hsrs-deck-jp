@@ -4,7 +4,8 @@
   "order": "2",
   "parents": [
     "good-bads",
-    "events"
+    "events",
+    "u夢"
   ],
   "props": {
     "en": "dream",

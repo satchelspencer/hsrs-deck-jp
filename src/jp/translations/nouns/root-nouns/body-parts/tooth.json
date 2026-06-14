@@ -5,7 +5,8 @@
   "parents": [
     "body-parts",
     "polishables",
-    "symmetric-body-parts"
+    "symmetric-body-parts",
+    "u歯"
   ],
   "props": {
     "en": "tooth",

@@ -6,7 +6,8 @@
   "name": "verb-koto-form",
   "order": "2",
   "parents": [
-    "verb-nom-forms"
+    "verb-nom-forms",
+    "u事"
   ],
   "props": {
     "en": "plain.verb._n",

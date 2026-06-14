@@ -1,0 +1,17 @@
+{
+  "_id": "24bdby4hvh6",
+  "name": "口浴",
+  "order": "2.9.5.3.8",
+  "params": {
+    "_g": "浴",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

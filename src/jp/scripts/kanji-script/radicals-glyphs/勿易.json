@@ -1,0 +1,17 @@
+{
+  "_id": "0rs54ddwxaw",
+  "name": "勿易",
+  "order": "3.4.1.3.4",
+  "params": {
+    "_g": "易",
+    "_r": "m勿"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "4",
+    "jp": "勿"
+  }
+}

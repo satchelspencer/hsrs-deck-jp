@@ -4,7 +4,8 @@
   "name": "at-times",
   "order": "4",
   "parents": [
-    "clause-adverbs"
+    "clause-adverbs",
+    "u時"
   ],
   "props": {
     "en": "at times",

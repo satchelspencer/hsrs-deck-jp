@@ -5,7 +5,8 @@
   "order": "3",
   "parents": [
     "counter-roots-kango-3+-only-s",
-    "choosables"
+    "choosables",
+    "u席"
   ],
   "props": {
     "_ec": "seats",

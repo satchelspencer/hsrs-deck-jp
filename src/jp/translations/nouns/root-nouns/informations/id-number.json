@@ -4,7 +4,9 @@
   "name": "id-number",
   "order": "2",
   "parents": [
-    "informations"
+    "informations",
+    "u番",
+    "u号"
   ],
   "props": {
     "en": "id number",

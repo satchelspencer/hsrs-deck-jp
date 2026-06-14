@@ -1,0 +1,18 @@
+{
+  "_id": "sqlo18n1c90",
+  "desc": "variant of 水",
+  "name": "氵泊",
+  "order": "2.9.6.3.5",
+  "params": {
+    "_g": "泊",
+    "_r": "m氵"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "氵"
+  }
+}

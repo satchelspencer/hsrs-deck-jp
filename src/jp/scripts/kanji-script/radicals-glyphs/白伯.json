@@ -1,0 +1,17 @@
+{
+  "_id": "prq8g7gulm3",
+  "name": "白伯",
+  "order": "2.9.8.5.9",
+  "params": {
+    "_g": "伯",
+    "_r": "m白"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "3",
+    "_sl": "5",
+    "jp": "白"
+  }
+}

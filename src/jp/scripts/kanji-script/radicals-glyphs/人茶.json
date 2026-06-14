@@ -1,0 +1,17 @@
+{
+  "_id": "c1qv4zg5dsq",
+  "name": "人茶",
+  "order": "1.9.2.8.6",
+  "params": {
+    "_g": "茶",
+    "_r": "m人"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "2",
+    "jp": "人"
+  }
+}

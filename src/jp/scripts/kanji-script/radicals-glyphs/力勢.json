@@ -1,0 +1,17 @@
+{
+  "_id": "iiaf4rell7a",
+  "name": "力勢",
+  "order": "3.9.0.0.3",
+  "params": {
+    "_g": "勢",
+    "_r": "m力"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "12",
+    "_sl": "2",
+    "jp": "力"
+  }
+}

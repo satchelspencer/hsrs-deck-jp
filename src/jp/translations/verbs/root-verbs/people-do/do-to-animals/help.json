@@ -6,7 +6,8 @@
   "parents": [
     "do-to-animals",
     "ichidan",
-    "people-do-volitional"
+    "people-do-volitional",
+    "u助"
   ],
   "props": {
     "en": "help",

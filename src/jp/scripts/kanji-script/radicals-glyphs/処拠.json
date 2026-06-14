@@ -1,0 +1,17 @@
+{
+  "_id": "ttdo51gvg37",
+  "name": "処拠",
+  "order": "4.2.6.6.1",
+  "params": {
+    "_g": "拠",
+    "_r": "m処"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "5",
+    "jp": "処"
+  }
+}

@@ -4,7 +4,8 @@
   "name": "breast",
   "order": "4",
   "parents": [
-    "body-parts"
+    "body-parts",
+    "u胸"
   ],
   "props": {
     "en": "breast",

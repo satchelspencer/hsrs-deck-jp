@@ -3,7 +3,9 @@
   "name": "both-sides",
   "order": "3",
   "parents": [
-    "positional-words"
+    "positional-words",
+    "u両",
+    "u方"
   ],
   "props": {
     "en": "both sides",

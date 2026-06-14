@@ -1,0 +1,17 @@
+{
+  "_id": "wbbqr9pf261",
+  "name": "五語",
+  "order": "1.9.2.4.6",
+  "params": {
+    "_g": "語",
+    "_r": "m五"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "4",
+    "jp": "五"
+  }
+}

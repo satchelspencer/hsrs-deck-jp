@@ -1,0 +1,17 @@
+{
+  "_id": "8qefuqfut5s",
+  "name": "中遺",
+  "order": "4.2.6.2.4",
+  "params": {
+    "_g": "遺",
+    "_r": "m中"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "中"
+  }
+}

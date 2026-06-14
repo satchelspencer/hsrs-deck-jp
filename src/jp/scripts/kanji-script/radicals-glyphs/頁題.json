@@ -1,0 +1,18 @@
+{
+  "_id": "360zaoqbnpd",
+  "name": "頁題",
+  "order": "2.9.9.7.5",
+  "params": {
+    "_1": "貝題",
+    "_g": "題",
+    "_r": "m頁"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "10",
+    "_sl": "9",
+    "jp": "頁"
+  }
+}

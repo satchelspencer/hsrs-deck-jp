@@ -5,7 +5,8 @@
     "verb": "go"
   },
   "parents": [
-    "command-form-plain"
+    "command-form-plain",
+    "u行"
   ],
   "props": {
     "jp": "verb.jp|r('行く', '行け')|r('いく', 'いけ')",

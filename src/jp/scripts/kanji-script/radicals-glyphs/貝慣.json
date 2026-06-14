@@ -1,0 +1,19 @@
+{
+  "_id": "iwyyp3sptjt",
+  "name": "貝慣",
+  "order": "2.3.5.5.5",
+  "params": {
+    "_1": "目慣",
+    "_2": "八慣",
+    "_g": "慣",
+    "_r": "m貝"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "7",
+    "jp": "貝"
+  }
+}

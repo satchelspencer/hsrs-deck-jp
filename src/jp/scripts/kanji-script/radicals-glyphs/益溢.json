@@ -1,0 +1,18 @@
+{
+  "_id": "bgpkru81d3d",
+  "name": "益溢",
+  "order": "4.9.3.3.5",
+  "params": {
+    "_1": "皿溢",
+    "_g": "溢",
+    "_r": "m益"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "10",
+    "jp": "益"
+  }
+}

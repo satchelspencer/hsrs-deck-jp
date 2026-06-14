@@ -4,7 +4,9 @@
   "order": "4",
   "parents": [
     "good-bads",
-    "relative-time-no"
+    "relative-time-no",
+    "u状",
+    "u況"
   ],
   "props": {
     "en": "situation",

@@ -5,7 +5,8 @@
   "order": "3",
   "parents": [
     "edibles-no",
-    "people-no"
+    "people-no",
+    "u匂"
   ],
   "props": {
     "en": "scent",

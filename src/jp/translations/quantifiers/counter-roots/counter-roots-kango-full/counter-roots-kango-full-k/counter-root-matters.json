@@ -4,7 +4,8 @@
   "name": "counter-root-matters",
   "order": "3",
   "parents": [
-    "counter-roots-kango-full-k"
+    "counter-roots-kango-full-k",
+    "u件"
   ],
   "props": {
     "_ec": "matters",

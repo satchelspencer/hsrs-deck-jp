@@ -1,0 +1,17 @@
+{
+  "_id": "5jeqnvo29ej",
+  "name": "凵歯",
+  "order": "2.9.1.7.2",
+  "params": {
+    "_g": "歯",
+    "_r": "m凵"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "11",
+    "_sl": "2",
+    "jp": "凵"
+  }
+}

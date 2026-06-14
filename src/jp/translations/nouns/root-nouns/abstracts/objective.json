@@ -6,7 +6,9 @@
   "parents": [
     "abstracts",
     "wago-countable",
-    "relative-time-no"
+    "relative-time-no",
+    "u目",
+    "u的"
   ],
   "props": {
     "en": "objective",

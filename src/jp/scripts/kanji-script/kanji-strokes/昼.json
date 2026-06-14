@@ -1,0 +1,15 @@
+{
+  "_id": "nur5x3yaay2",
+  "name": "昼",
+  "order": "1.9.3.4.1",
+  "params": {
+    "_wd": "u昼"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "昼",
+    "_st": "CQVNHhFjAQEEAQUBYwiBHIQlhGMDAAUCBARjgQOCBoMKA00hIWMGgRuDJoRjAgAEAAUAA00gEmMBAQECAQNDISkbPg9HA00-IENFK040VjtjAgIFBAgEBE0iNmMBAQICAgNjAQUCFgIXYwAAAAIAAwVNJDhjCIEdgx-DYwIABAEDA2MABIIQghdjAAEAAQACAk0mQ2MFABiCHoMCTSdQYwYAFIIcggRNFFxjAgEFAQgBYxGBI4Q2hGMDAAYACAE"
+  }
+}

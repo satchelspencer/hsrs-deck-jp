@@ -4,7 +4,8 @@
   "order": "1",
   "parents": [
     "i-attributive-standard",
-    "i-people-do"
+    "i-people-do",
+    "u早"
   ],
   "props": {
     "_ad": "earlier",

@@ -1,0 +1,17 @@
+{
+  "_id": "1qxdvg0jynj",
+  "name": "心認",
+  "order": "4.1.0.0.5",
+  "params": {
+    "_g": "認",
+    "_r": "m心"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "11",
+    "_sl": "4",
+    "jp": "心"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "g52h8ru1fns",
+  "name": "立響",
+  "order": "4.6.1.6.1",
+  "params": {
+    "_g": "響",
+    "_r": "m立"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "12",
+    "_sl": "5",
+    "jp": "立"
+  }
+}

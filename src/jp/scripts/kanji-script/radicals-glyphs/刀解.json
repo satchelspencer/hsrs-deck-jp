@@ -1,0 +1,17 @@
+{
+  "_id": "7zw985c3hct",
+  "name": "刀解",
+  "order": "4.2.3.5.4",
+  "params": {
+    "_g": "解",
+    "_r": "m刀"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "2",
+    "jp": "刀"
+  }
+}

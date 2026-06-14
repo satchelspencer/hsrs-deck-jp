@@ -1,0 +1,17 @@
+{
+  "_id": "uerh1evdtib",
+  "name": "r去",
+  "order": "1.9.8.5.5.1",
+  "params": {
+    "_g": "去",
+    "_r": "m去"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "去"
+  }
+}

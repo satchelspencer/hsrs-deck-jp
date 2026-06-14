@@ -1,0 +1,17 @@
+{
+  "_id": "kdk2mcfx555",
+  "name": "口悪",
+  "order": "1.3.3.1.4",
+  "params": {
+    "_g": "悪",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "2",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

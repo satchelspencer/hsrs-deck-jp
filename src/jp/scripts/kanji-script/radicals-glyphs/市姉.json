@@ -1,0 +1,17 @@
+{
+  "_id": "ds7hia9ohan",
+  "name": "市姉",
+  "order": "1.9.2.1.7",
+  "params": {
+    "_g": "姉",
+    "_r": "m市"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "5",
+    "jp": "市"
+  }
+}

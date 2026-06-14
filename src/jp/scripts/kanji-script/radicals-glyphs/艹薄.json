@@ -1,0 +1,18 @@
+{
+  "_id": "gkbwmge744e",
+  "desc": "variant of 艸",
+  "name": "艹薄",
+  "order": "3.2.5.0.4",
+  "params": {
+    "_g": "薄",
+    "_r": "m艹"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "艹"
+  }
+}

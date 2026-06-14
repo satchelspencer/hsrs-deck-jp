@@ -4,7 +4,9 @@
   "order": "4",
   "parents": [
     "suru-nouns",
-    "te-iru-verbs-continuous"
+    "te-iru-verbs-continuous",
+    "u発",
+    "u生"
   ],
   "props": {
     "_pg": "breaking out",

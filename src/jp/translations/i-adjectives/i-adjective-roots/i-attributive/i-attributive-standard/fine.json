@@ -4,7 +4,8 @@
   "name": "fine",
   "order": "3",
   "parents": [
-    "i-attributive-standard"
+    "i-attributive-standard",
+    "u細"
   ],
   "props": {
     "en": "fine",

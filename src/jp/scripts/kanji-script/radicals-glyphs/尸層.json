@@ -1,0 +1,17 @@
+{
+  "_id": "t5ozoyh8wmy",
+  "name": "尸層",
+  "order": "3.9.5.0.2",
+  "params": {
+    "_g": "層",
+    "_r": "m尸"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "尸"
+  }
+}

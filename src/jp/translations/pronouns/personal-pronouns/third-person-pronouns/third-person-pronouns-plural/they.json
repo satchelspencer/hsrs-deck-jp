@@ -5,7 +5,8 @@
     "pronoun": "he"
   },
   "parents": [
-    "third-person-pronouns-plural"
+    "third-person-pronouns-plural",
+    "u彼"
   ],
   "props": {
     "en": "they",

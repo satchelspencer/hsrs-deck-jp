@@ -1,0 +1,19 @@
+{
+  "_id": "rvcxovvscaa",
+  "name": "枼葉",
+  "order": "2.9.4.3.3",
+  "params": {
+    "_1": "世葉",
+    "_2": "木葉",
+    "_g": "葉",
+    "_r": "m枼"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "9",
+    "jp": "枼"
+  }
+}

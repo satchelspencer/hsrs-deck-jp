@@ -1,0 +1,17 @@
+{
+  "_id": "ahkl08n7as8",
+  "name": "口和",
+  "order": "2.9.6.5.6",
+  "params": {
+    "_g": "和",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

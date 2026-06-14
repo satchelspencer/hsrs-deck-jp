@@ -4,7 +4,8 @@
   "name": "fragrance",
   "order": "4",
   "parents": [
-    "abstracts"
+    "abstracts",
+    "u香"
   ],
   "props": {
     "en": "fragrance",

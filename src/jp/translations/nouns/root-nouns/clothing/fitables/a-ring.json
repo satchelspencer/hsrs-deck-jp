@@ -6,7 +6,9 @@
   "parents": [
     "fitables",
     "ko-countable",
-    "accessories"
+    "accessories",
+    "u指",
+    "u輪"
   ],
   "props": {
     "en": "a ring",

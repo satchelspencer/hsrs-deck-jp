@@ -1,0 +1,17 @@
+{
+  "_id": "50b0103t16n",
+  "name": "宀室",
+  "order": "2.9.4.0.4",
+  "params": {
+    "_g": "室",
+    "_r": "m宀"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "宀"
+  }
+}

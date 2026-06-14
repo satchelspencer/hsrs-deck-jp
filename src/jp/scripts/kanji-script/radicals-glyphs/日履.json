@@ -1,0 +1,18 @@
+{
+  "_id": "00v9yqwbhdn",
+  "desc": "variant of 曰",
+  "name": "日履",
+  "order": "3.9.8.7.7",
+  "params": {
+    "_g": "履",
+    "_r": "m日"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "9",
+    "_sl": "4",
+    "jp": "日"
+  }
+}

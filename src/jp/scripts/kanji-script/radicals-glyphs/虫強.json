@@ -1,0 +1,18 @@
+{
+  "_id": "se6af1dwp3d",
+  "name": "虫強",
+  "order": "1.2.5.8.6",
+  "params": {
+    "_1": "中強",
+    "_g": "強",
+    "_r": "m虫"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "6",
+    "jp": "虫"
+  }
+}

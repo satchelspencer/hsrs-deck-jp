@@ -1,0 +1,17 @@
+{
+  "_id": "i3kc6lczeju",
+  "name": "朋棚",
+  "order": "1.9.1.3.1",
+  "params": {
+    "_g": "棚",
+    "_r": "m朋"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "8",
+    "jp": "朋"
+  }
+}

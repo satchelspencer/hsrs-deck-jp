@@ -6,7 +6,9 @@
   "parents": [
     "godan-ku",
     "te-iru-verbs-state",
-    "people-do-volitional"
+    "people-do-volitional",
+    "u落",
+    "u着"
   ],
   "props": {
     "_st": "calmed down",

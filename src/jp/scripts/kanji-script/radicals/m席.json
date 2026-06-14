@@ -1,0 +1,10 @@
+{
+  "_id": "dst6tmvnrge",
+  "name": "m席",
+  "parents": [
+    "radicals"
+  ],
+  "props": {
+    "_m": "seat, mat, occasion, place"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "tbda54ctv3q",
+  "name": "禾誘",
+  "order": "4.5.2.8.5",
+  "params": {
+    "_g": "誘",
+    "_r": "m禾"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "5",
+    "jp": "禾"
+  }
+}

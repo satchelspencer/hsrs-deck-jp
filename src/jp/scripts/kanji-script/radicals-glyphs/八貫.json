@@ -1,0 +1,17 @@
+{
+  "_id": "vkiujo99m00",
+  "name": "八貫",
+  "order": "2.3.5.5.5",
+  "params": {
+    "_g": "貫",
+    "_r": "m八"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "10",
+    "_sl": "2",
+    "jp": "八"
+  }
+}

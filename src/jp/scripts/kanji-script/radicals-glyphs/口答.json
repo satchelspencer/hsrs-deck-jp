@@ -1,0 +1,17 @@
+{
+  "_id": "fcc9kl97192",
+  "name": "口答",
+  "order": "3.5.1.2.3",
+  "params": {
+    "_g": "答",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "10",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

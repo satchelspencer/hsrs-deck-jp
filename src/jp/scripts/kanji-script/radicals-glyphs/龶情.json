@@ -1,0 +1,17 @@
+{
+  "_id": "sd7lyzatw0c",
+  "name": "龶情",
+  "order": "4.2.8.3.1",
+  "params": {
+    "_g": "情",
+    "_r": "m龶"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "4",
+    "jp": "龶"
+  }
+}

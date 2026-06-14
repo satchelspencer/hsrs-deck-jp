@@ -1,0 +1,15 @@
+{
+  "_id": "4r37sqyc1kq",
+  "name": "技",
+  "order": "4.1.1.6.1",
+  "params": {
+    "_wd": "u技"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "技",
+    "_st": "BwRNDihjAgADAAUAYwWBDIISg2MBAAMABAAETR4QYwEBAgMCBWMADwA1AEFjAA2GBIgCA00NQ2MBAQMBBABjCIcMiRaSBE0uI2MDAQQABwBjB4IVhByFYwIABQAGAANNQA1jAQECAwIEYwABABoAIAVNMTZjAgAEAAcAYwOBFIUWhWMDgQQBAwRDSUU9VyhfA00vPGMFABcSJR1jAwIFAwgE"
+  }
+}

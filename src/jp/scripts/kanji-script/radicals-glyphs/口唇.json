@@ -1,0 +1,17 @@
+{
+  "_id": "qzbp7zp55q9",
+  "name": "口唇",
+  "order": "4.9.5.5.5",
+  "params": {
+    "_g": "唇",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

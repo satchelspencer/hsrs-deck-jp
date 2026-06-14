@@ -1,0 +1,18 @@
+{
+  "_id": "hwcnvpbr7lk",
+  "desc": "variant of 玉",
+  "name": "王現",
+  "order": "1.9.7.2.1",
+  "params": {
+    "_g": "現",
+    "_r": "m王"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "王"
+  }
+}

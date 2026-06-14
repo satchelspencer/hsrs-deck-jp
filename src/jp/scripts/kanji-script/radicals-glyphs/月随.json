@@ -1,0 +1,18 @@
+{
+  "_id": "mudd2lbn0xw",
+  "desc": "variant of 肉",
+  "name": "月随",
+  "order": "4.9.4.2.5",
+  "params": {
+    "_g": "随",
+    "_r": "m月"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "4",
+    "jp": "月"
+  }
+}

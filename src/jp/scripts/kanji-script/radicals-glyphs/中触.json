@@ -1,0 +1,17 @@
+{
+  "_id": "c3cbmt4x4o0",
+  "name": "中触",
+  "order": "3.3.3.9.6",
+  "params": {
+    "_g": "触",
+    "_r": "m中"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "4",
+    "jp": "中"
+  }
+}

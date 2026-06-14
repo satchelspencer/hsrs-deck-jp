@@ -4,7 +4,9 @@
   "name": "texture",
   "order": "4",
   "parents": [
-    "object-no"
+    "object-no",
+    "u感",
+    "u触"
   ],
   "props": {
     "en": "texture",

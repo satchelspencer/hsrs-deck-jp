@@ -1,0 +1,15 @@
+{
+  "_id": "dh9860bdo4m",
+  "name": "活",
+  "order": "2.3.6.1.1",
+  "params": {
+    "_wd": "u活"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "活",
+    "_st": "CQJNFhNjBAEKBgsIAk0PLmMEAQsGDAgDTRBYYwMABAAFgmMDhgaLCZIDTU4PYwABgQKCA2OHBI8IoQsETSUxYwIABgAHAGMNgR6DLIRjAwAFAAcAA01AG2MBAAICAgRjAAEAGQAjBE0vQ2MBAQEBAgNjAQUCDwIWYwABAAMABARNMURjDIEdgiSDYwMABAEDA2OBBYQPhRUDTTRdYwgAEYEbgmMCAAQABQA"
+  }
+}

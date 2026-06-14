@@ -1,0 +1,15 @@
+{
+  "_id": "4yksbqinst8",
+  "name": "毒",
+  "order": "4.9.6.8.4",
+  "params": {
+    "_wd": "u毒"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "毒",
+    "_st": "CARNJBZjAgEEAQYAYweBFIIcg2MCAAQABgADTTYKYwEBAgICBGMABwAXAB4ETSIiYwIBBAEGAGMIgRWCHINjAgAEAAYABE0TMGMDAQcBCgBjDoElhDOFYwMABwAKAAZNJzdjAQEBAgEEY4IJhQ-KFWOCAgAEAQNjDYEbAScIYwQCCAULCQZNKTljAQADAAQAYwqCFYMZhGMDAAUBBQRjgQyDG4onY4IEhgOJAANNODtjAQEBAgAEY4EFhA2GFQRNC0ljBAEIAQsAQyVIQUZURWMEAAgACwE"
+  }
+}

@@ -7,7 +7,8 @@
     "pronoun": "you-omae"
   },
   "parents": [
-    "second-person-pronouns-plural"
+    "second-person-pronouns-plural",
+    "u前"
   ],
   "props": {
     "en": "you all",

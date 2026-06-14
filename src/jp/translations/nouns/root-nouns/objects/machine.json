@@ -5,7 +5,9 @@
   "order": "3",
   "parents": [
     "objects",
-    "categories"
+    "categories",
+    "u機",
+    "u械"
   ],
   "props": {
     "en": "machine",

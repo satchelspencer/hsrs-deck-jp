@@ -4,7 +4,9 @@
   "name": "life-existence",
   "order": "3",
   "parents": [
-    "people-no"
+    "people-no",
+    "u生",
+    "u命"
   ],
   "props": {
     "en": "life existence",

@@ -1,0 +1,20 @@
+{
+  "_id": "h9xjowu9gf1",
+  "desc": "variant of 齊",
+  "name": "斉済",
+  "order": "3.4.5.9.1",
+  "params": {
+    "_1": "文済",
+    "_2": "二済",
+    "_g": "済",
+    "_r": "m斉"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "8",
+    "jp": "斉"
+  }
+}

@@ -6,7 +6,8 @@
   "parents": [
     "i-attributive-standard",
     "i-people",
-    "i-places"
+    "i-places",
+    "u美"
   ],
   "props": {
     "en": "beautiful",

@@ -1,0 +1,17 @@
+{
+  "_id": "tzzay78kh2e",
+  "name": "r人",
+  "order": "1.3.3.0.2.1",
+  "params": {
+    "_g": "人",
+    "_r": "m人"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "2",
+    "jp": "人"
+  }
+}

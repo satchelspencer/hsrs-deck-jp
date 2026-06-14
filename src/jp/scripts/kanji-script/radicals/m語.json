@@ -1,0 +1,10 @@
+{
+  "_id": "rl2sfypqhcl",
+  "name": "m語",
+  "parents": [
+    "radicals"
+  ],
+  "props": {
+    "_m": "word, speech, language"
+  }
+}

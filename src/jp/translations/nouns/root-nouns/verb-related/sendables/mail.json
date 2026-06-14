@@ -4,7 +4,9 @@
   "name": "mail",
   "order": "3",
   "parents": [
-    "sendables"
+    "sendables",
+    "u郵",
+    "u便"
   ],
   "props": {
     "en": "mail",

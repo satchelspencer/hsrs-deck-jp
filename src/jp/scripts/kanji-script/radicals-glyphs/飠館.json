@@ -1,0 +1,18 @@
+{
+  "_id": "dak2975bm53",
+  "desc": "variant of 食",
+  "name": "飠館",
+  "order": "2.9.7.7.5",
+  "params": {
+    "_g": "館",
+    "_r": "m飠"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "8",
+    "jp": "飠"
+  }
+}

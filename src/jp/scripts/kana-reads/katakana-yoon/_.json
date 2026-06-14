@@ -1,0 +1,14 @@
+{
+  "_id": "gugrty5f3qv",
+  "name": "katakana-yoon",
+  "order": "2.1",
+  "params": {
+    "iis": "katakana-iis"
+  },
+  "parents": [
+    "kana-reads"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

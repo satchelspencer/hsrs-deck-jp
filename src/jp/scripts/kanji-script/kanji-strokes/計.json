@@ -1,0 +1,15 @@
+{
+  "_id": "cukaz8g635m",
+  "name": "計",
+  "order": "3.2.0.1.7",
+  "params": {
+    "_wd": "u計"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "計",
+    "_st": "CQJNHhBjAgIGBwcJBE0MJGMCAAQABgBjCYERgxmEYwIABAAFAARNFS9jAQACAAMAYwQAC4IPg2MBAAIAAwAETRU6YwEAAgADAGMEAAqBDoJjAgADAAQABE0WSGMBAQECAQJjAQMCCQMPYwABAAIBAwRNGEljBoEPgxSEYwIABAEDAmOBA4IJgw0DTRtZYwSBCoIRgmMBAAIAAwAETTQwYwEABAEGAGMLghiEI4VjAgAEAAUABE1KDWMBAQIDAgRjAAQAOABMYwADAAYABw"
+  }
+}

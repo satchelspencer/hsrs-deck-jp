@@ -4,7 +4,8 @@
   "name": "flame",
   "order": "4",
   "parents": [
-    "seeables"
+    "seeables",
+    "u炎"
   ],
   "props": {
     "en": "flame",

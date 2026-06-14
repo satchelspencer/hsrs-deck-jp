@@ -1,0 +1,17 @@
+{
+  "_id": "lpmucgwhrfb",
+  "name": "木菓",
+  "order": "1.9.2.7.2",
+  "params": {
+    "_g": "菓",
+    "_r": "m木"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "4",
+    "jp": "木"
+  }
+}

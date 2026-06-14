@@ -3,7 +3,9 @@
   "name": "classroom",
   "order": "2",
   "parents": [
-    "spaces"
+    "spaces",
+    "u教",
+    "u室"
   ],
   "props": {
     "en": "classroom",

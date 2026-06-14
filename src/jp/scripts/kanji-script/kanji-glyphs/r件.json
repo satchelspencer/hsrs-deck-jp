@@ -1,0 +1,17 @@
+{
+  "_id": "lqtx10w1iew",
+  "name": "r件",
+  "order": "3.9.4.7.0.1",
+  "params": {
+    "_g": "件",
+    "_r": "m件"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "件"
+  }
+}

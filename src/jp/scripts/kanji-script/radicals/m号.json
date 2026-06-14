@@ -1,0 +1,10 @@
+{
+  "_id": "rw8rok6y4te",
+  "name": "m号",
+  "parents": [
+    "radicals"
+  ],
+  "props": {
+    "_m": "nickname, number, item, title"
+  }
+}

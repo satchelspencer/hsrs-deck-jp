@@ -1,0 +1,18 @@
+{
+  "_id": "4ykn7nvepla",
+  "desc": "variant of 肉",
+  "name": "月醬",
+  "order": "1.9.4.0.0",
+  "params": {
+    "_g": "醬",
+    "_r": "m月"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "4",
+    "jp": "月"
+  }
+}

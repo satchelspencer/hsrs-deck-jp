@@ -4,7 +4,9 @@
   "name": "last-year-written",
   "order": "3",
   "parents": [
-    "wa-past-only-times"
+    "wa-past-only-times",
+    "u昨",
+    "u年"
   ],
   "props": {
     "en": "last year",

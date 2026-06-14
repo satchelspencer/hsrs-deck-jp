@@ -1,0 +1,17 @@
+{
+  "_id": "7y5hvv2y0d5",
+  "name": "土社",
+  "order": "2.3.2.1.1",
+  "params": {
+    "_g": "社",
+    "_r": "m土"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "3",
+    "jp": "土"
+  }
+}

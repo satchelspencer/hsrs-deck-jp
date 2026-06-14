@@ -1,0 +1,18 @@
+{
+  "_id": "iih172u7liu",
+  "name": "甶魔",
+  "order": "4.2.7.8.0",
+  "params": {
+    "_1": "田魔",
+    "_g": "魔",
+    "_r": "m甶"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "12",
+    "_sl": "6",
+    "jp": "甶"
+  }
+}

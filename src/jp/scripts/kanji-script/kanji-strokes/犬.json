@@ -1,0 +1,15 @@
+{
+  "_id": "36rbfuc1lhh",
+  "name": "犬",
+  "order": "1.9.9.5.6",
+  "params": {
+    "_wd": "u犬"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "犬",
+    "_st": "BARNEi5jAgEFAQgAYw6CJYQzhmMDAAYACAADTTIQYwEBAgICBEM2MC9QEVwDTTQtYwgMGCAjKmMCAgUECAUCTUMUYwcECQcLCw"
+  }
+}

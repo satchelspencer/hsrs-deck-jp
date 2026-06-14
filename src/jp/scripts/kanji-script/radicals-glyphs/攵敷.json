@@ -1,0 +1,18 @@
+{
+  "_id": "upni15lot0d",
+  "desc": "variant of 攴",
+  "name": "攵敷",
+  "order": "4.9.0.4.6",
+  "params": {
+    "_g": "敷",
+    "_r": "m攵"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "12",
+    "_sl": "4",
+    "jp": "攵"
+  }
+}

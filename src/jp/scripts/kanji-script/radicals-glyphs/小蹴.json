@@ -1,0 +1,17 @@
+{
+  "_id": "e0amoj7vuf9",
+  "name": "小蹴",
+  "order": "2.3.8.1.6",
+  "params": {
+    "_g": "蹴",
+    "_r": "m小"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "13",
+    "_sl": "3",
+    "jp": "小"
+  }
+}

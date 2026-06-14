@@ -1,0 +1,17 @@
+{
+  "_id": "jo0cei6peeq",
+  "name": "土時",
+  "order": "1.2.4.1.5",
+  "params": {
+    "_g": "時",
+    "_r": "m土"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "3",
+    "jp": "土"
+  }
+}

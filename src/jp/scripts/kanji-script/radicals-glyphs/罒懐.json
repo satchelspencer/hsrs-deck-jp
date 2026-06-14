@@ -1,0 +1,18 @@
+{
+  "_id": "qu0sg1orojd",
+  "desc": "variant of 网",
+  "name": "罒懐",
+  "order": "4.6.8.7.4",
+  "params": {
+    "_g": "懐",
+    "_r": "m罒"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "5",
+    "jp": "罒"
+  }
+}

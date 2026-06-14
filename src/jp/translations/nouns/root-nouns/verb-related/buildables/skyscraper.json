@@ -6,7 +6,9 @@
   "parents": [
     "buildables",
     "places",
-    "ken-buildings-countable"
+    "ken-buildings-countable",
+    "u高",
+    "u層"
   ],
   "props": {
     "en": "skyscraper",

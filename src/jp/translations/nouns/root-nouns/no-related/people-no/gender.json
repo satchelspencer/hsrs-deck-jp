@@ -4,7 +4,8 @@
   "name": "gender",
   "order": "4",
   "parents": [
-    "people-no"
+    "people-no",
+    "u性"
   ],
   "props": {
     "en": "gender",

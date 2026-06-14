@@ -4,7 +4,8 @@
   "name": "reverse-side",
   "order": "3",
   "parents": [
-    "positional-words"
+    "positional-words",
+    "u裏"
   ],
   "props": {
     "en": "reverse side",

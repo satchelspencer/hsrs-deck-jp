@@ -1,0 +1,15 @@
+{
+  "_id": "6gmb2ecsnxr",
+  "name": "掃",
+  "order": "1.9.1.3.5",
+  "params": {
+    "_wd": "u掃"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "掃",
+    "_st": "CwRNDydjAgAEAAYAYwWBC4ISgmMBAAIAAwAETR4PYwEBAgMCBmMADwA2AEJjAA6GBIgCA00MRWMBAQMBBABjBYQJhxWQBk00D2MCAAQABgBjBQARghaCYwMABoEFA2OBBIILghBjAAIABIEFA001GmMCAQMBBQFjBwATghqCA00zJWMCAQQBBgFjBgARghmCAk0uLmMABYINgxADTS8xYw2CIIMshGMJAAIGgQgETTQ-YwEBAQIBA2MABwAMABFjAAIAAwAFBU02P2MEgRyDHoNjAgAEAQQEYwAGAA2BE2OBBoUAhoEETUQxYwEBAQIBBGMABQAaACdjAAQABwAH"
+  }
+}

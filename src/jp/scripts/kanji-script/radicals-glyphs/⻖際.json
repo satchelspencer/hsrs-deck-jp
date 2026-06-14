@@ -1,0 +1,18 @@
+{
+  "_id": "jp41ol9n35r",
+  "desc": "variant of 阜",
+  "name": "⻖際",
+  "order": "3.2.6.8.1",
+  "params": {
+    "_g": "際",
+    "_r": "m⻖"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "⻖"
+  }
+}

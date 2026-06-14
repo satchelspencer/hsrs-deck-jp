@@ -1,0 +1,18 @@
+{
+  "_id": "9w77watnhu0",
+  "desc": "variant of 八",
+  "name": "儿続",
+  "order": "2.2.0.9.6",
+  "params": {
+    "_g": "続",
+    "_r": "m儿"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "12",
+    "_sl": "2",
+    "jp": "儿"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "la9dqsyq3y8",
+  "name": "木染",
+  "order": "4.9.8.6.4",
+  "params": {
+    "_g": "染",
+    "_r": "m木"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "4",
+    "jp": "木"
+  }
+}

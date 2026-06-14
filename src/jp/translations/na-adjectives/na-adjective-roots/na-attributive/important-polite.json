@@ -4,7 +4,9 @@
   "name": "important-polite",
   "order": "4",
   "parents": [
-    "na-attributive"
+    "na-attributive",
+    "u重",
+    "u要"
   ],
   "props": {
     "en": "important",

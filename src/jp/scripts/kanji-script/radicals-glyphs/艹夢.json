@@ -1,0 +1,18 @@
+{
+  "_id": "5suzhyekxjz",
+  "desc": "variant of 艸",
+  "name": "艹夢",
+  "order": "2.4.5.0.6",
+  "params": {
+    "_g": "夢",
+    "_r": "m艹"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "艹"
+  }
+}

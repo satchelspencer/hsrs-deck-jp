@@ -4,7 +4,10 @@
   "name": "all-good",
   "order": "1",
   "parents": [
-    "na-predonly"
+    "na-predonly",
+    "u大",
+    "u丈",
+    "u夫"
   ],
   "props": {
     "en": "all good",

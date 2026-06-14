@@ -1,0 +1,18 @@
+{
+  "_id": "3jrgvjjqtmo",
+  "name": "羊鮮",
+  "order": "4.9.6.0.6",
+  "params": {
+    "_1": "䒑鮮",
+    "_g": "鮮",
+    "_r": "m羊"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "12",
+    "_sl": "6",
+    "jp": "羊"
+  }
+}

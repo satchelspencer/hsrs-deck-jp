@@ -1,0 +1,18 @@
+{
+  "_id": "w6jcrv9tnw4",
+  "desc": "variant of 示",
+  "name": "礻社",
+  "order": "2.3.2.1.1",
+  "params": {
+    "_g": "社",
+    "_r": "m礻"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "礻"
+  }
+}

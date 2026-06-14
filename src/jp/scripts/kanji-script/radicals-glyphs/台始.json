@@ -1,0 +1,17 @@
+{
+  "_id": "1w37asujdun",
+  "name": "台始",
+  "order": "2.2.1.0.9",
+  "params": {
+    "_g": "始",
+    "_r": "m台"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "5",
+    "jp": "台"
+  }
+}

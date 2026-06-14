@@ -3,7 +3,8 @@
   "name": "renewed",
   "order": "4",
   "parents": [
-    "na-attributive"
+    "na-attributive",
+    "u新"
   ],
   "props": {
     "_ad": "anew",

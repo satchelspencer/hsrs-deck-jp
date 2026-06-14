@@ -5,7 +5,9 @@
   "order": "3",
   "parents": [
     "language",
-    "learnables"
+    "learnables",
+    "u言",
+    "u葉"
   ],
   "props": {
     "en": "word",

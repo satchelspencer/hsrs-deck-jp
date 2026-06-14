@@ -1,0 +1,18 @@
+{
+  "_id": "rfwps12vr8l",
+  "desc": "variant of 曰",
+  "name": "日香",
+  "order": "4.6.2.4.9",
+  "params": {
+    "_g": "香",
+    "_r": "m日"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "4",
+    "jp": "日"
+  }
+}

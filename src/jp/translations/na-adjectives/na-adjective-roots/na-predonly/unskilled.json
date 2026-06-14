@@ -5,7 +5,9 @@
   "order": "2",
   "parents": [
     "na-predonly",
-    "na-people-do"
+    "na-people-do",
+    "u下",
+    "u手"
   ],
   "props": {
     "en": "unskilled",

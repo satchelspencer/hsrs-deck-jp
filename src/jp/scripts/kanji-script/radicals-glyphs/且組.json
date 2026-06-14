@@ -1,0 +1,17 @@
+{
+  "_id": "89d2cs2ir8o",
+  "name": "且組",
+  "order": "2.9.6.1.9",
+  "params": {
+    "_g": "組",
+    "_r": "m且"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "5",
+    "jp": "且"
+  }
+}

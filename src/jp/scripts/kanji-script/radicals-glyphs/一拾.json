@@ -1,0 +1,17 @@
+{
+  "_id": "6jk18bw83iq",
+  "name": "一拾",
+  "order": "3.9.0.7.1",
+  "params": {
+    "_g": "拾",
+    "_r": "m一"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "1",
+    "jp": "一"
+  }
+}

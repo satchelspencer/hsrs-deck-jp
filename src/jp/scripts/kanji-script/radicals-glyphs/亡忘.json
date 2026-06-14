@@ -1,0 +1,17 @@
+{
+  "_id": "ffeog6e23il",
+  "name": "亡忘",
+  "order": "3.2.3.6.5",
+  "params": {
+    "_g": "忘",
+    "_r": "m亡"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "亡"
+  }
+}

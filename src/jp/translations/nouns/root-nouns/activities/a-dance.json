@@ -3,7 +3,8 @@
   "name": "a-dance",
   "order": "3",
   "parents": [
-    "activities"
+    "activities",
+    "u踊"
   ],
   "props": {
     "en": "a dance",

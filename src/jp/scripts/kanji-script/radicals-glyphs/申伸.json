@@ -1,0 +1,17 @@
+{
+  "_id": "cdxelkwejam",
+  "name": "申伸",
+  "order": "2.3.5.1.7",
+  "params": {
+    "_g": "伸",
+    "_r": "m申"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "3",
+    "_sl": "5",
+    "jp": "申"
+  }
+}

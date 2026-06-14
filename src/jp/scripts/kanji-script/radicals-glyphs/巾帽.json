@@ -1,0 +1,17 @@
+{
+  "_id": "ghzwjtuykly",
+  "name": "巾帽",
+  "order": "1.9.9.3.8",
+  "params": {
+    "_g": "帽",
+    "_r": "m巾"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "巾"
+  }
+}

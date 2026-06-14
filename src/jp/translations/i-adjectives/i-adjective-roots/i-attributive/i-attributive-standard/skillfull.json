@@ -5,7 +5,9 @@
   "order": "3",
   "parents": [
     "i-attributive-standard",
-    "i-people-do"
+    "i-people-do",
+    "u上",
+    "u手"
   ],
   "props": {
     "en": "skillfull",

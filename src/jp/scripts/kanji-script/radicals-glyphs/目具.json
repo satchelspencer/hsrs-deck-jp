@@ -1,0 +1,17 @@
+{
+  "_id": "m5bkpweadmb",
+  "name": "目具",
+  "order": "2.2.4.6.1",
+  "params": {
+    "_g": "具",
+    "_r": "m目"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "目"
+  }
+}

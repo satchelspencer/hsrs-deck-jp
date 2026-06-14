@@ -1,0 +1,17 @@
+{
+  "_id": "tw3ts7bavcc",
+  "name": "木果",
+  "order": "1.9.2.7.2",
+  "params": {
+    "_g": "果",
+    "_r": "m木"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "4",
+    "jp": "木"
+  }
+}

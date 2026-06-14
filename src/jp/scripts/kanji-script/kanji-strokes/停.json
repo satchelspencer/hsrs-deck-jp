@@ -1,0 +1,15 @@
+{
+  "_id": "fskipeep25t",
+  "name": "停",
+  "order": "4.1.9.6.1",
+  "params": {
+    "_wd": "u停"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "停",
+    "_st": "CwNNIRNjAAIAA4EFQxsjFi8KOwRNGSpjAQEBAwEEYwAKAB0AKWMAAwAFAAcDTUEMYwEBAgICA2MAAgAEAAYETSwZYwIABAAFAGMLgRmDJIRjAgAEAAUABE00IWMBAQEBAQJjAQIBBQIIYwABAAIBAwRNNyFjBoERghaDYwMABQAEA2OBAoEEggcDTTksYwSBDYITgmMBAAMABAACTSs0YwAEgg2DDwNNLTZjDYIfhC-FYwmBBAUACARNMUBjAQAEAQUAYwuBEYIbg2MCAAMABQAETUNAYwEBAQIBBGMACgAVABljAAmFAYiB"
+  }
+}

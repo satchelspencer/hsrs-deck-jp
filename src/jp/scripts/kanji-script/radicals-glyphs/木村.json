@@ -1,0 +1,17 @@
+{
+  "_id": "1avl36qfxxl",
+  "name": "木村",
+  "order": "2.9.7.3.9",
+  "params": {
+    "_g": "村",
+    "_r": "m木"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "木"
+  }
+}

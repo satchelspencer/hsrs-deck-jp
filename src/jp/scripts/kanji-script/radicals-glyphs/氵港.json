@@ -1,0 +1,18 @@
+{
+  "_id": "3iue7wamris",
+  "desc": "variant of 水",
+  "name": "氵港",
+  "order": "3.9.6.5.1",
+  "params": {
+    "_g": "港",
+    "_r": "m氵"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "氵"
+  }
+}

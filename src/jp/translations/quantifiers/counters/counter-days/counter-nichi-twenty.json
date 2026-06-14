@@ -5,7 +5,10 @@
     "number": "twenty"
   },
   "parents": [
-    "counter-days"
+    "counter-days",
+    "u二",
+    "u十",
+    "u日"
   ],
   "props": {
     "jp": "二十日",

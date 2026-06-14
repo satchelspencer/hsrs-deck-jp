@@ -1,0 +1,17 @@
+{
+  "_id": "z3j6gom2v29",
+  "name": "巾掃",
+  "order": "1.9.1.3.5",
+  "params": {
+    "_g": "掃",
+    "_r": "m巾"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "9",
+    "_sl": "3",
+    "jp": "巾"
+  }
+}

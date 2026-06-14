@@ -5,7 +5,8 @@
   "name": "without-thinking",
   "order": "4",
   "parents": [
-    "people-do-adverbs"
+    "people-do-adverbs",
+    "u思"
   ],
   "props": {
     "en": "without thinking",

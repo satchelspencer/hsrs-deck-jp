@@ -1,0 +1,10 @@
+{
+  "_id": "ex0ndqwwqg0",
+  "name": "m門",
+  "parents": [
+    "radicals"
+  ],
+  "props": {
+    "_m": "gate, counter for cannons"
+  }
+}

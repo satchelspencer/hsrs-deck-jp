@@ -4,7 +4,8 @@
   "name": "tear",
   "order": "3",
   "parents": [
-    "flowing"
+    "flowing",
+    "u涙"
   ],
   "props": {
     "en": "tear",

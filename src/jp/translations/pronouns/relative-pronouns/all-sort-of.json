@@ -6,7 +6,8 @@
     "noun": "non-unique"
   },
   "parents": [
-    "relative-pronouns"
+    "relative-pronouns",
+    "u色"
   ],
   "props": {
     "en": "'all sorts of '+noun.en",

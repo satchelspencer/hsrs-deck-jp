@@ -1,0 +1,17 @@
+{
+  "_id": "s0hz2mbj2zb",
+  "name": "廿渡",
+  "order": "3.4.4.7.3",
+  "params": {
+    "_g": "渡",
+    "_r": "m廿"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "4",
+    "jp": "廿"
+  }
+}

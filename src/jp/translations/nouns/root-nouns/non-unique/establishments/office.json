@@ -3,7 +3,10 @@
   "name": "office",
   "order": "3",
   "parents": [
-    "establishments"
+    "establishments",
+    "u事",
+    "u務",
+    "u所"
   ],
   "props": {
     "en": "office",

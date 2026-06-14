@@ -3,7 +3,8 @@
   "name": "hindi",
   "order": "2",
   "parents": [
-    "languages"
+    "languages",
+    "u語"
   ],
   "props": {
     "en": "hindi",

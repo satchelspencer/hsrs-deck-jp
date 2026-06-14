@@ -3,7 +3,10 @@
   "name": "birthday",
   "order": "1",
   "parents": [
-    "events"
+    "events",
+    "u誕",
+    "u生",
+    "u日"
   ],
   "props": {
     "en": "birthday",

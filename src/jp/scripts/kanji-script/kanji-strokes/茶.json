@@ -1,0 +1,15 @@
+{
+  "_id": "lwp77pb4r5n",
+  "name": "茶",
+  "order": "1.9.2.8.6",
+  "params": {
+    "_wd": "u茶"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "茶",
+    "_st": "CQRNExtjAgEFAQcBQyoaRBhTF2MEAAYACAEDTSUQYwEBAgICA2MBBwIOAhADTUQMYwACAAMABGOCB4IKhBIDTTQjYwACAAOBBWOFCI8WoR8DTTUmYwYEGBEgF2MDAgYDCgQETSNEYwEABAEHAGMHgROCHINjAwAEAAUABE00NmMBAQIDAgZjAAAAFAAfYwAEAAYABwNNJ09jAAEAAoEDY4IDhgiMDAJNRU9jBQMMCg4O"
+  }
+}

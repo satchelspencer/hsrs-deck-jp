@@ -3,7 +3,9 @@
   "name": "yellow-color",
   "order": "3",
   "parents": [
-    "colors"
+    "colors",
+    "u黄",
+    "u色"
   ],
   "props": {
     "en": "yellow color",

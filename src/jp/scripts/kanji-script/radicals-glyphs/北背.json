@@ -1,0 +1,17 @@
+{
+  "_id": "exw68uoj7lg",
+  "name": "北背",
+  "order": "2.9.6.8.5",
+  "params": {
+    "_g": "背",
+    "_r": "m北"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "北"
+  }
+}

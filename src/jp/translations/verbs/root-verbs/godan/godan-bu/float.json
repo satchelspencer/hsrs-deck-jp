@@ -6,7 +6,8 @@
   "parents": [
     "godan-bu",
     "objects-do",
-    "te-iru-verbs-continuous"
+    "te-iru-verbs-continuous",
+    "u浮"
   ],
   "props": {
     "en": "float",

@@ -4,7 +4,8 @@
   "name": "trip-back",
   "order": "3",
   "parents": [
-    "events"
+    "events",
+    "u帰"
   ],
   "props": {
     "en": "trip back",

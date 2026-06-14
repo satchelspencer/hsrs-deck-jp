@@ -1,0 +1,17 @@
+{
+  "_id": "a3kfcwy39xg",
+  "name": "正整",
+  "order": "4.9.5.3.8",
+  "params": {
+    "_g": "整",
+    "_r": "m正"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "12",
+    "_sl": "5",
+    "jp": "正"
+  }
+}

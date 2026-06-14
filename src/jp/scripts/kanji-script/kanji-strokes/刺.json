@@ -1,0 +1,15 @@
+{
+  "_id": "e47actj3y8l",
+  "name": "刺",
+  "order": "2.9.3.5.2",
+  "params": {
+    "_wd": "u刺"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "刺",
+    "_st": "CARNERpjAwAFAAcAYwaBEIIZg2MCAAQABgAETRIoYwEBAQICBGMAAQEGAQtjAAMBBQEGBU0UKWMHgRiDH4RjBIEFAAQFYwAEgQiCC2OCBYQChQAETSMMYwEBAQIBBGMAAwA1AEljAAUACAAJA00kNWMAAoEDggVDHEUXSwxVAk0oPmMHAwwHEA4ETUQYYwEBAgICBGMACgAVABxjAAMABQAGBE1XDGMBAQIDAgVjAA8ARABJYwANhwKJAA"
+  }
+}

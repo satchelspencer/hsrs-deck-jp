@@ -1,0 +1,18 @@
+{
+  "_id": "nb1lexb4do6",
+  "desc": "variant of 曰",
+  "name": "日乾",
+  "order": "3.3.6.6.1",
+  "params": {
+    "_g": "乾",
+    "_r": "m日"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "3",
+    "_sl": "4",
+    "jp": "日"
+  }
+}

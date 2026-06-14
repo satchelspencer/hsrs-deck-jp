@@ -1,0 +1,17 @@
+{
+  "_id": "5d5rcxl9j4g",
+  "name": "r氏",
+  "order": "1.2.8.5.3.1",
+  "params": {
+    "_g": "氏",
+    "_r": "m氏"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "氏"
+  }
+}

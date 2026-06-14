@@ -5,7 +5,8 @@
   "parents": [
     "furniture",
     "high-low",
-    "dai-countable"
+    "dai-countable",
+    "u机"
   ],
   "props": {
     "en": "desk",

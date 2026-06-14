@@ -1,0 +1,17 @@
+{
+  "_id": "3jy4r5dmn6i",
+  "name": "寸闘",
+  "order": "4.9.2.2.7",
+  "params": {
+    "_g": "闘",
+    "_r": "m寸"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "16",
+    "_sl": "3",
+    "jp": "寸"
+  }
+}

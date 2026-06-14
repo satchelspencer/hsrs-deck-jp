@@ -1,0 +1,17 @@
+{
+  "_id": "oz7uqteb6c4",
+  "name": "亅議",
+  "order": "3.3.8.9.4",
+  "params": {
+    "_g": "議",
+    "_r": "m亅"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "16",
+    "_sl": "1",
+    "jp": "亅"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "jplh0e85jwg",
+  "name": "八漬",
+  "order": "3.6.4.5.4",
+  "params": {
+    "_g": "漬",
+    "_r": "m八"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "13",
+    "_sl": "2",
+    "jp": "八"
+  }
+}

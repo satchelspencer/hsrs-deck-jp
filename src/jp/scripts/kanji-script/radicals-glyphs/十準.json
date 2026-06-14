@@ -1,0 +1,17 @@
+{
+  "_id": "0orfa9f1194",
+  "name": "十準",
+  "order": "3.2.5.0.2",
+  "params": {
+    "_g": "準",
+    "_r": "m十"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "12",
+    "_sl": "2",
+    "jp": "十"
+  }
+}

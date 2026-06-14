@@ -1,0 +1,17 @@
+{
+  "_id": "jpaahj13z4i",
+  "name": "女妹",
+  "order": "1.9.9.0.3",
+  "params": {
+    "_g": "妹",
+    "_r": "m女"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "女"
+  }
+}

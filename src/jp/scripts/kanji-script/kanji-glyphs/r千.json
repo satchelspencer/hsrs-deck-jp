@@ -1,0 +1,17 @@
+{
+  "_id": "7b3fohajpho",
+  "name": "r千",
+  "order": "1.2.7.8.6.1",
+  "params": {
+    "_g": "千",
+    "_r": "m千"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "千"
+  }
+}

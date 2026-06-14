@@ -4,7 +4,8 @@
   "name": "sour",
   "order": "3",
   "parents": [
-    "i-attributive-standard"
+    "i-attributive-standard",
+    "u酸"
   ],
   "props": {
     "en": "sour",

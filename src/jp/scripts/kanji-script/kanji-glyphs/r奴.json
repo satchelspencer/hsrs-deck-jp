@@ -1,0 +1,17 @@
+{
+  "_id": "mv6afk9t28l",
+  "name": "r奴",
+  "order": "2.3.2.4.7.1",
+  "params": {
+    "_g": "奴",
+    "_r": "m奴"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "奴"
+  }
+}

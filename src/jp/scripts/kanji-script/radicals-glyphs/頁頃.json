@@ -1,0 +1,18 @@
+{
+  "_id": "x9ysl2ku6os",
+  "name": "頁頃",
+  "order": "3.9.3.3.3",
+  "params": {
+    "_1": "貝頃",
+    "_g": "頃",
+    "_r": "m頁"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "3",
+    "_sl": "9",
+    "jp": "頁"
+  }
+}

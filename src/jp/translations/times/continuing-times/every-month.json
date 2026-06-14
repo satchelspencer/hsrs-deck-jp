@@ -3,7 +3,9 @@
   "name": "every-month",
   "order": "2",
   "parents": [
-    "continuing-times"
+    "continuing-times",
+    "u毎",
+    "u月"
   ],
   "props": {
     "_at": "monthly",

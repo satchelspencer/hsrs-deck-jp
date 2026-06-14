@@ -1,0 +1,18 @@
+{
+  "_id": "8anl7aetf12",
+  "name": "里野",
+  "order": "1.9.5.8.8",
+  "params": {
+    "_1": "日野",
+    "_g": "野",
+    "_r": "m里"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "7",
+    "jp": "里"
+  }
+}

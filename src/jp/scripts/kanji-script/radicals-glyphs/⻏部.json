@@ -1,0 +1,18 @@
+{
+  "_id": "6yz790amytz",
+  "desc": "variant of 邑",
+  "name": "⻏部",
+  "order": "1.4.3.3.7",
+  "params": {
+    "_g": "部",
+    "_r": "m⻏"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "9",
+    "_sl": "3",
+    "jp": "⻏"
+  }
+}

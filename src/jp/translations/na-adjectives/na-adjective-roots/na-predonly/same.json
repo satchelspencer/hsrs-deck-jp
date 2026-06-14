@@ -4,7 +4,8 @@
   "name": "same",
   "order": "2",
   "parents": [
-    "na-predonly"
+    "na-predonly",
+    "u同"
   ],
   "props": {
     "en": "same",

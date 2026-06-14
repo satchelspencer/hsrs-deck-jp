@@ -5,7 +5,9 @@
   "order": "3",
   "parents": [
     "godan-u",
-    "people-do"
+    "people-do",
+    "u間",
+    "u合"
   ],
   "props": {
     "en": "be in time",

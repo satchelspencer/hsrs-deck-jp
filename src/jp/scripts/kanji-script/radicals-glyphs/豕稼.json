@@ -1,0 +1,17 @@
+{
+  "_id": "xbyh9zahdrv",
+  "name": "豕稼",
+  "order": "4.2.4.3.1",
+  "params": {
+    "_g": "稼",
+    "_r": "m豕"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "9",
+    "_sl": "7",
+    "jp": "豕"
+  }
+}

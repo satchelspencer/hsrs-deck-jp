@@ -1,0 +1,17 @@
+{
+  "_id": "isar1wa90a6",
+  "name": "糸練",
+  "order": "2.2.8.0.7",
+  "params": {
+    "_g": "練",
+    "_r": "m糸"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "糸"
+  }
+}

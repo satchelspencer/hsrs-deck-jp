@@ -4,7 +4,8 @@
   "name": "vicinity",
   "order": "4",
   "parents": [
-    "positional-words"
+    "positional-words",
+    "u辺"
   ],
   "props": {
     "en": "vicinity",

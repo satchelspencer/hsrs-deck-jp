@@ -4,7 +4,9 @@
   "name": "appearance",
   "order": "4",
   "parents": [
-    "attributes"
+    "attributes",
+    "u見",
+    "u目"
   ],
   "props": {
     "en": "appearance",

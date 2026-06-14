@@ -1,0 +1,18 @@
+{
+  "_id": "j5y8i0n2nli",
+  "name": "甶鬼",
+  "order": "4.2.7.8.0",
+  "params": {
+    "_1": "田鬼",
+    "_g": "鬼",
+    "_r": "m甶"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "甶"
+  }
+}

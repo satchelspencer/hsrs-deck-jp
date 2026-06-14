@@ -5,7 +5,8 @@
   "parents": [
     "plants",
     "decorations",
-    "bloomers"
+    "bloomers",
+    "u花"
   ],
   "props": {
     "en": "flower",

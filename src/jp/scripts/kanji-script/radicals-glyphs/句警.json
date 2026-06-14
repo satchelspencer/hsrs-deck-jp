@@ -1,0 +1,17 @@
+{
+  "_id": "cfjbk82y29y",
+  "name": "句警",
+  "order": "2.4.6.1.0",
+  "params": {
+    "_g": "警",
+    "_r": "m句"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "5",
+    "jp": "句"
+  }
+}

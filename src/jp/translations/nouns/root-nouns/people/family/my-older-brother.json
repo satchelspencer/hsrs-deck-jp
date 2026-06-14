@@ -3,7 +3,8 @@
   "name": "my-older-brother",
   "order": "1",
   "parents": [
-    "family"
+    "family",
+    "u兄"
   ],
   "props": {
     "en": "my older brother",

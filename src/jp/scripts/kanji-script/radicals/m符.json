@@ -1,0 +1,10 @@
+{
+  "_id": "26wctv8k9u6",
+  "name": "m符",
+  "parents": [
+    "radicals"
+  ],
+  "props": {
+    "_m": "token, sign, mark, tally"
+  }
+}

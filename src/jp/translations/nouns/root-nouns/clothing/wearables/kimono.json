@@ -4,7 +4,9 @@
   "name": "kimono",
   "order": "3",
   "parents": [
-    "wearables"
+    "wearables",
+    "u着",
+    "u物"
   ],
   "props": {
     "en": "kimono",

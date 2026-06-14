@@ -1,0 +1,18 @@
+{
+  "_id": "66o9wukvq0g",
+  "desc": "variant of 肉",
+  "name": "月脱",
+  "order": "2.9.9.1.0",
+  "params": {
+    "_g": "脱",
+    "_r": "m月"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "月"
+  }
+}

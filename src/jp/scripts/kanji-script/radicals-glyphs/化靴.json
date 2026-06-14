@@ -1,0 +1,17 @@
+{
+  "_id": "o2vwr1p9irz",
+  "name": "化靴",
+  "order": "1.4.6.8.5",
+  "params": {
+    "_g": "靴",
+    "_r": "m化"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "10",
+    "_sl": "4",
+    "jp": "化"
+  }
+}

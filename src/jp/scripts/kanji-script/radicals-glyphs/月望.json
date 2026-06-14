@@ -1,0 +1,18 @@
+{
+  "_id": "ynhu2p22bw8",
+  "desc": "variant of 肉",
+  "name": "月望",
+  "order": "4.6.0.9.8",
+  "params": {
+    "_g": "望",
+    "_r": "m月"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "4",
+    "jp": "月"
+  }
+}

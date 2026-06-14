@@ -1,0 +1,17 @@
+{
+  "_id": "dkq75pp1qus",
+  "name": "言話",
+  "order": "1.2.9.6.7",
+  "params": {
+    "_g": "話",
+    "_r": "m言"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "7",
+    "jp": "言"
+  }
+}

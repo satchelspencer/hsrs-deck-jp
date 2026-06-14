@@ -1,0 +1,18 @@
+{
+  "_id": "gvnlgcvhes5",
+  "desc": "variant of 心",
+  "name": "忄情",
+  "order": "4.2.8.3.1",
+  "params": {
+    "_g": "情",
+    "_r": "m忄"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "忄"
+  }
+}

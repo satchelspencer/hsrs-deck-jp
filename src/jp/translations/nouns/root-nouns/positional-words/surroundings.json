@@ -4,7 +4,8 @@
   "name": "surroundings",
   "order": "3",
   "parents": [
-    "positional-words"
+    "positional-words",
+    "u周"
   ],
   "props": {
     "en": "surroundings",

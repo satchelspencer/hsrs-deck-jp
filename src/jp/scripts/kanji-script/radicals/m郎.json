@@ -1,0 +1,10 @@
+{
+  "_id": "r2lfiii0e6g",
+  "name": "m郎",
+  "parents": [
+    "radicals"
+  ],
+  "props": {
+    "_m": "son, counter for sons"
+  }
+}

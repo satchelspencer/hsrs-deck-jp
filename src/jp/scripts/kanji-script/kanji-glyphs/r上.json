@@ -1,0 +1,17 @@
+{
+  "_id": "hg6d0nqebbp",
+  "name": "r上",
+  "order": "1.2.2.9.6.1",
+  "params": {
+    "_g": "上",
+    "_r": "m上"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "上"
+  }
+}

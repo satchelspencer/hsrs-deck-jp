@@ -1,0 +1,17 @@
+{
+  "_id": "rx4kags7b0b",
+  "name": "平評",
+  "order": "4.2.5.8.5",
+  "params": {
+    "_g": "評",
+    "_r": "m平"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "5",
+    "jp": "平"
+  }
+}

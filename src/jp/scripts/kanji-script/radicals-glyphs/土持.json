@@ -1,0 +1,17 @@
+{
+  "_id": "cekor2pu1zl",
+  "name": "土持",
+  "order": "1.2.1.7.8",
+  "params": {
+    "_g": "持",
+    "_r": "m土"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "3",
+    "jp": "土"
+  }
+}

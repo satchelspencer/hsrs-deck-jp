@@ -1,0 +1,17 @@
+{
+  "_id": "9vedyjwkus2",
+  "name": "寸射",
+  "order": "3.6.4.0.9",
+  "params": {
+    "_g": "射",
+    "_r": "m寸"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "3",
+    "jp": "寸"
+  }
+}

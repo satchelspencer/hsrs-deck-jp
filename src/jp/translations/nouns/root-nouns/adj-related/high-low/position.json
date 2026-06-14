@@ -6,7 +6,9 @@
   "parents": [
     "high-low",
     "kashou-countable",
-    "places"
+    "places",
+    "u位",
+    "u置"
   ],
   "props": {
     "en": "position",

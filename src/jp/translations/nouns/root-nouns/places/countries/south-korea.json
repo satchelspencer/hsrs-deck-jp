@@ -3,7 +3,9 @@
   "name": "south-korea",
   "order": "1",
   "parents": [
-    "countries"
+    "countries",
+    "u韓",
+    "u国"
   ],
   "props": {
     "_ad": "korean",

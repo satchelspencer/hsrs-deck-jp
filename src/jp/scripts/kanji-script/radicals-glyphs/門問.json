@@ -1,0 +1,17 @@
+{
+  "_id": "g0uyxe345p0",
+  "name": "門問",
+  "order": "2.6.3.8.0",
+  "params": {
+    "_g": "問",
+    "_r": "m門"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "8",
+    "jp": "門"
+  }
+}

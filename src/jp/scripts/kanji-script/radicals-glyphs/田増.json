@@ -1,0 +1,17 @@
+{
+  "_id": "odmso8v1mg6",
+  "name": "田増",
+  "order": "3.2.0.3.6",
+  "params": {
+    "_g": "増",
+    "_r": "m田"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "5",
+    "jp": "田"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "wrb4burry7h",
+  "name": "大奥",
+  "order": "2.9.7.7.1",
+  "params": {
+    "_g": "奥",
+    "_r": "m大"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "10",
+    "_sl": "3",
+    "jp": "大"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "_id": "rgm3gnj1dst",
+  "desc": "variant of 曰",
+  "name": "日慢",
+  "order": "4.1.5.6.3",
+  "params": {
+    "_g": "慢",
+    "_r": "m日"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "4",
+    "jp": "日"
+  }
+}

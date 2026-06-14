@@ -1,0 +1,17 @@
+{
+  "_id": "lnfmfei55hs",
+  "name": "木薬",
+  "order": "2.4.7.5.5",
+  "params": {
+    "_g": "薬",
+    "_r": "m木"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "13",
+    "_sl": "4",
+    "jp": "木"
+  }
+}

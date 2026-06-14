@@ -6,7 +6,8 @@
     "form": "verb-te-form-pos"
   },
   "parents": [
-    "verb-kudasai"
+    "verb-kudasai",
+    "u下"
   ],
   "props": {
     "en": "'please '+form.en|r(' and', '')",

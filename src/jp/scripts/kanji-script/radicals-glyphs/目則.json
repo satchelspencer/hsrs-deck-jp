@@ -1,0 +1,17 @@
+{
+  "_id": "f2ofdha4atl",
+  "name": "目則",
+  "order": "2.6.2.6.2",
+  "params": {
+    "_g": "則",
+    "_r": "m目"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "目"
+  }
+}

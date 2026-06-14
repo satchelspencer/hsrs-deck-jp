@@ -5,7 +5,8 @@
   "parents": [
     "polishables",
     "sitables",
-    "places"
+    "places",
+    "u床"
   ],
   "props": {
     "en": "floor",

@@ -1,0 +1,18 @@
+{
+  "_id": "t8lxjzrsbww",
+  "name": "r島",
+  "order": "3.9.9.0.7.1",
+  "params": {
+    "_1": "山島",
+    "_g": "島",
+    "_r": "m島"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "10",
+    "jp": "島"
+  }
+}

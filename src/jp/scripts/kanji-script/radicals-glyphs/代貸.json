@@ -1,0 +1,17 @@
+{
+  "_id": "k73exo6p3dm",
+  "name": "代貸",
+  "order": "2.6.6.6.3",
+  "params": {
+    "_g": "貸",
+    "_r": "m代"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "代"
+  }
+}

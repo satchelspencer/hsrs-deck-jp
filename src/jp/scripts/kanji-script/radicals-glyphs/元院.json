@@ -1,0 +1,17 @@
+{
+  "_id": "qrfr4enz2e4",
+  "name": "元院",
+  "order": "2.9.4.7.4",
+  "params": {
+    "_g": "院",
+    "_r": "m元"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "4",
+    "jp": "元"
+  }
+}

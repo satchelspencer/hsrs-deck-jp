@@ -1,0 +1,19 @@
+{
+  "_id": "ccinpc2joql",
+  "name": "祭際",
+  "order": "3.2.6.8.1",
+  "params": {
+    "_1": "月際",
+    "_2": "示際",
+    "_g": "際",
+    "_r": "m祭"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "11",
+    "jp": "祭"
+  }
+}

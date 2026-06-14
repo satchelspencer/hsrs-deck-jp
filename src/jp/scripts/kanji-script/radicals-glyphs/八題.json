@@ -1,0 +1,17 @@
+{
+  "_id": "sx8vm6ipq5p",
+  "name": "八題",
+  "order": "2.9.9.7.5",
+  "params": {
+    "_g": "題",
+    "_r": "m八"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "17",
+    "_sl": "2",
+    "jp": "八"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "bjrve5vu849",
+  "name": "召昭",
+  "order": "3.9.6.0.0",
+  "params": {
+    "_g": "昭",
+    "_r": "m召"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "5",
+    "jp": "召"
+  }
+}

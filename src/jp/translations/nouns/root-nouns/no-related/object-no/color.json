@@ -4,7 +4,8 @@
   "order": "2",
   "parents": [
     "object-no",
-    "categories"
+    "categories",
+    "u色"
   ],
   "props": {
     "en": "color",

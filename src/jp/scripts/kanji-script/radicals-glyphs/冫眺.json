@@ -1,0 +1,18 @@
+{
+  "_id": "ymkd6vjj671",
+  "desc": "variant of 氷",
+  "name": "冫眺",
+  "order": "4.9.9.7.3",
+  "params": {
+    "_g": "眺",
+    "_r": "m冫"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "2",
+    "jp": "冫"
+  }
+}

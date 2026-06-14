@@ -1,0 +1,17 @@
+{
+  "_id": "1re4pnibwis",
+  "name": "父郊",
+  "order": "3.9.9.8.8",
+  "params": {
+    "_g": "郊",
+    "_r": "m父"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "3",
+    "_sl": "4",
+    "jp": "父"
+  }
+}

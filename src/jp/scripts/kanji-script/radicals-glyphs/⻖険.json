@@ -1,0 +1,18 @@
+{
+  "_id": "lpj45t8lpah",
+  "desc": "variant of 阜",
+  "name": "⻖険",
+  "order": "2.1.4.1.8",
+  "params": {
+    "_g": "険",
+    "_r": "m⻖"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "⻖"
+  }
+}

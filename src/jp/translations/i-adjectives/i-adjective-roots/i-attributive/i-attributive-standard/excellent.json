@@ -5,7 +5,9 @@
   "order": "3",
   "parents": [
     "i-attributive-standard",
-    "i-people-do"
+    "i-people-do",
+    "u素",
+    "u晴"
   ],
   "props": {
     "en": "excellent",

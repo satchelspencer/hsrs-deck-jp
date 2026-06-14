@@ -1,0 +1,10 @@
+{
+  "_id": "eqp0jvnzjqq",
+  "name": "m数",
+  "parents": [
+    "radicals"
+  ],
+  "props": {
+    "_m": "number, strength, fate, law"
+  }
+}

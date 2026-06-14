@@ -6,7 +6,9 @@
   "parents": [
     "suru-nouns",
     "people-do-volitional",
-    "do-to-subclause"
+    "do-to-subclause",
+    "u否",
+    "u定"
   ],
   "props": {
     "_v": "deny",

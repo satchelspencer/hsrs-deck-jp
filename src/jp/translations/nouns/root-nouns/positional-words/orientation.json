@@ -5,7 +5,9 @@
   "order": "4",
   "parents": [
     "positional-words",
-    "categories"
+    "categories",
+    "u方",
+    "u向"
   ],
   "props": {
     "en": "orientation",

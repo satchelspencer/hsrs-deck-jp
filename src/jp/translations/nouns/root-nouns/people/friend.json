@@ -3,7 +3,9 @@
   "name": "friend",
   "order": "2",
   "parents": [
-    "people"
+    "people",
+    "u友",
+    "u達"
   ],
   "props": {
     "en": "friend",

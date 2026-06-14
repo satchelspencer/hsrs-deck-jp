@@ -1,0 +1,19 @@
+{
+  "_id": "vrek2qmzmko",
+  "name": "貝貿",
+  "order": "3.9.8.4.2",
+  "params": {
+    "_1": "目貿",
+    "_2": "八貿",
+    "_g": "貿",
+    "_r": "m貝"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "7",
+    "jp": "貝"
+  }
+}

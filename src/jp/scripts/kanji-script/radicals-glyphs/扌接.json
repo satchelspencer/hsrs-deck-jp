@@ -1,0 +1,18 @@
+{
+  "_id": "e6o99fv23h0",
+  "desc": "variant of 手",
+  "name": "扌接",
+  "order": "4.2.1.6.9",
+  "params": {
+    "_g": "接",
+    "_r": "m扌"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "扌"
+  }
+}

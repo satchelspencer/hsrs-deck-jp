@@ -1,0 +1,18 @@
+{
+  "_id": "wevlsdguj27",
+  "desc": "variant of 艸",
+  "name": "艹英",
+  "order": "1.9.2.4.6",
+  "params": {
+    "_g": "英",
+    "_r": "m艹"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "艹"
+  }
+}

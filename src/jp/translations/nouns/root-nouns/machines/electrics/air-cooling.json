@@ -4,7 +4,9 @@
   "name": "air-cooling",
   "order": "4",
   "parents": [
-    "electrics"
+    "electrics",
+    "u冷",
+    "u房"
   ],
   "props": {
     "en": "air cooling",

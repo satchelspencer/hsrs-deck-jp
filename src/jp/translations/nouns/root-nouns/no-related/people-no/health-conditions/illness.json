@@ -3,7 +3,9 @@
   "name": "illness",
   "order": "2",
   "parents": [
-    "health-conditions"
+    "health-conditions",
+    "u病",
+    "u気"
   ],
   "props": {
     "en": "illness",

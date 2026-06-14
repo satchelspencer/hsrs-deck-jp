@@ -1,0 +1,17 @@
+{
+  "_id": "co9sh2sf3is",
+  "name": "尺昼",
+  "order": "1.9.3.4.1",
+  "params": {
+    "_g": "昼",
+    "_r": "m尺"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "尺"
+  }
+}

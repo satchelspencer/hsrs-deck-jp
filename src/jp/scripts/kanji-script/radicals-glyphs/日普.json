@@ -1,0 +1,18 @@
+{
+  "_id": "jgm0is0gbhr",
+  "desc": "variant of 曰",
+  "name": "日普",
+  "order": "3.6.9.2.9",
+  "params": {
+    "_g": "普",
+    "_r": "m日"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "9",
+    "_sl": "4",
+    "jp": "日"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "_id": "cmeldeqgco5",
+  "desc": "variant of 火",
+  "name": "灬点",
+  "order": "1.6.0.6.1",
+  "params": {
+    "_g": "点",
+    "_r": "m灬"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "4",
+    "jp": "灬"
+  }
+}

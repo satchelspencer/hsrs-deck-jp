@@ -1,0 +1,18 @@
+{
+  "_id": "u8du8jgeblm",
+  "name": "朱殊",
+  "order": "4.9.1.2.1",
+  "params": {
+    "_1": "未殊",
+    "_g": "殊",
+    "_r": "m朱"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "6",
+    "jp": "朱"
+  }
+}

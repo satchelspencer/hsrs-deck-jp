@@ -1,0 +1,18 @@
+{
+  "_id": "k09y7f8zbj5",
+  "desc": "variant of 曰",
+  "name": "日昔",
+  "order": "2.6.1.0.7",
+  "params": {
+    "_g": "昔",
+    "_r": "m日"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "4",
+    "jp": "日"
+  }
+}

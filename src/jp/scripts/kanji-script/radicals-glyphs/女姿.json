@@ -1,0 +1,17 @@
+{
+  "_id": "wiwslgqsv73",
+  "name": "女姿",
+  "order": "4.1.1.7.2",
+  "params": {
+    "_g": "姿",
+    "_r": "m女"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "3",
+    "jp": "女"
+  }
+}

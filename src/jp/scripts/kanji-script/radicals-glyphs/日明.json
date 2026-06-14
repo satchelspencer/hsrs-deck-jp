@@ -1,0 +1,18 @@
+{
+  "_id": "i100dickaou",
+  "desc": "variant of 曰",
+  "name": "日明",
+  "order": "1.9.0.3.3",
+  "params": {
+    "_g": "明",
+    "_r": "m日"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "日"
+  }
+}

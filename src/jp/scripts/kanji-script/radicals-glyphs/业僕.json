@@ -1,0 +1,17 @@
+{
+  "_id": "cgno0f3vtf6",
+  "name": "业僕",
+  "order": "2.6.1.8.7",
+  "params": {
+    "_g": "僕",
+    "_r": "m业"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "3",
+    "_sl": "5",
+    "jp": "业"
+  }
+}

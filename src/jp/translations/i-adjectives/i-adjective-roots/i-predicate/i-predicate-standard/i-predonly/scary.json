@@ -4,7 +4,8 @@
   "name": "scary",
   "order": "2",
   "parents": [
-    "i-predonly"
+    "i-predonly",
+    "u怖"
   ],
   "props": {
     "_ad": "scarily",

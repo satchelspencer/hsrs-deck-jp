@@ -1,0 +1,18 @@
+{
+  "_id": "5vb09plraiy",
+  "name": "酉酷",
+  "order": "3.3.6.6.8",
+  "params": {
+    "_1": "一酷",
+    "_g": "酷",
+    "_r": "m酉"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "7",
+    "jp": "酉"
+  }
+}

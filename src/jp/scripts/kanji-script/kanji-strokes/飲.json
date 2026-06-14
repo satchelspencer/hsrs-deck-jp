@@ -1,0 +1,15 @@
+{
+  "_id": "h7ppder6qc6",
+  "name": "飲",
+  "order": "1.3.5.0.9",
+  "params": {
+    "_wd": "u飲"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "飲",
+    "_st": "DANNIA9jAAEAAgADY4MIjBWVHAJNIhRjBQIMBg8LA00hIGMBAQECAQNjAAQABgAIBk0ULmMCAQMABQBjBoEPgxCDYwIAAwEDA2OBBYIOgxNjAAIAAwADAk0XOmMEgQ2CE4MCTRZFYwaBDIIRggVNFC9jAQEBAgEDYwAGACUAJ0MVXRZeGltjAoIHhQ2IAk0lSmMCAgQHBQwDTT4OYwABAAIAA0M8GjgoMTIETTomYwIAAwAFAGMCABWFF4ZjB4EEBYMLA01BMGMBAgEDAQVDP0U5VSpgA01BPWMEBw8WFx1jAgIEBQcG"
+  }
+}

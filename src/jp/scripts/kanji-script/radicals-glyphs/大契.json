@@ -1,0 +1,17 @@
+{
+  "_id": "ly5rdp7y0aw",
+  "name": "大契",
+  "order": "2.9.7.6.0",
+  "params": {
+    "_g": "契",
+    "_r": "m大"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "3",
+    "jp": "大"
+  }
+}

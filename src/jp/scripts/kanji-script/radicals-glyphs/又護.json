@@ -1,0 +1,17 @@
+{
+  "_id": "rlbv6zw56ma",
+  "name": "又護",
+  "order": "3.9.1.6.6",
+  "params": {
+    "_g": "護",
+    "_r": "m又"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "19",
+    "_sl": "2",
+    "jp": "又"
+  }
+}

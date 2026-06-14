@@ -1,0 +1,15 @@
+{
+  "_id": "42iv4y1281v",
+  "name": "剣",
+  "order": "4.3.7.6.1",
+  "params": {
+    "_wd": "u剣"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "剣",
+    "_st": "CgNNKRBjAAEAA4EEY4MHjBSbIQJNKxZjBQILBw4LBE0dK2MAAAMABABjBAAKghGDYwEAAgADAARNFzhjAQEBAgECYwEFAQYCCmMAAQEDAQQETRk5YwmBFoMdg2MDAAQBBARjgQSBBYIIA00bRmMFABCCGIJjAQADAAQAA00oLmMBAQECAQRjABiDI5YuAk0rSUMxTjdVOlwETUYhYwEBAgMCBWMACgASABhDR0FHQ0dFBE1aEGMBAQIDAgVjAA8AQABFYwANhwKJAA"
+  }
+}

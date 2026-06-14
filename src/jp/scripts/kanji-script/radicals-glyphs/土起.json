@@ -1,0 +1,17 @@
+{
+  "_id": "dolf5t5zrj2",
+  "name": "土起",
+  "order": "1.6.6.4.0",
+  "params": {
+    "_g": "起",
+    "_r": "m土"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "土"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "zl7deebxyh3",
+  "name": "广店",
+  "order": "1.5.9.5.1",
+  "params": {
+    "_g": "店",
+    "_r": "m广"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "广"
+  }
+}

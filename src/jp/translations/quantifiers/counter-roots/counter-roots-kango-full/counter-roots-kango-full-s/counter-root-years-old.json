@@ -4,7 +4,8 @@
   "name": "counter-root-years-old",
   "order": "1",
   "parents": [
-    "counter-roots-kango-full-s"
+    "counter-roots-kango-full-s",
+    "u歳"
   ],
   "props": {
     "_ec": "years old",

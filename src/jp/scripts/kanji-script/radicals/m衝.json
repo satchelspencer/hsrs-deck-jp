@@ -1,0 +1,10 @@
+{
+  "_id": "msaa89lfzcw",
+  "name": "m衝",
+  "parents": [
+    "radicals"
+  ],
+  "props": {
+    "_m": "collide, brunt, highway"
+  }
+}

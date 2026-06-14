@@ -1,0 +1,17 @@
+{
+  "_id": "8x86f59s42y",
+  "name": "人命",
+  "order": "3.6.8.4.7",
+  "params": {
+    "_g": "命",
+    "_r": "m人"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "2",
+    "jp": "人"
+  }
+}

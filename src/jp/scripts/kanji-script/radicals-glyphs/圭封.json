@@ -1,0 +1,17 @@
+{
+  "_id": "waz3qm89vt8",
+  "name": "圭封",
+  "order": "3.9.1.8.1",
+  "params": {
+    "_g": "封",
+    "_r": "m圭"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "圭"
+  }
+}

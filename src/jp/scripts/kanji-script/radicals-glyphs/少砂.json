@@ -1,0 +1,17 @@
+{
+  "_id": "c128nvw6bw4",
+  "name": "少砂",
+  "order": "2.6.4.0.7",
+  "params": {
+    "_g": "砂",
+    "_r": "m少"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "4",
+    "jp": "少"
+  }
+}

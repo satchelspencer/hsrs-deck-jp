@@ -4,7 +4,9 @@
   "name": "technique",
   "order": "4",
   "parents": [
-    "learnables"
+    "learnables",
+    "u技",
+    "u術"
   ],
   "props": {
     "en": "technique",

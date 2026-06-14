@@ -1,0 +1,17 @@
+{
+  "_id": "3byqqt8r7xi",
+  "name": "八嫌",
+  "order": "1.6.2.7.1",
+  "params": {
+    "_g": "嫌",
+    "_r": "m八"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "2",
+    "jp": "八"
+  }
+}

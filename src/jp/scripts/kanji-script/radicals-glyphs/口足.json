@@ -1,0 +1,17 @@
+{
+  "_id": "ocjgs067wmu",
+  "name": "口足",
+  "order": "1.9.3.6.5",
+  "params": {
+    "_g": "足",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

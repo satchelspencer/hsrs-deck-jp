@@ -5,7 +5,9 @@
   "order": "4",
   "parents": [
     "naturals",
-    "do-togethers"
+    "do-togethers",
+    "u行",
+    "u動"
   ],
   "props": {
     "en": "behavior",

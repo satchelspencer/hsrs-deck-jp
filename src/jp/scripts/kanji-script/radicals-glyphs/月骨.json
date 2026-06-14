@@ -1,0 +1,18 @@
+{
+  "_id": "b1xfrh3o7xg",
+  "desc": "variant of 肉",
+  "name": "月骨",
+  "order": "3.9.3.0.3",
+  "params": {
+    "_g": "骨",
+    "_r": "m月"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "4",
+    "jp": "月"
+  }
+}

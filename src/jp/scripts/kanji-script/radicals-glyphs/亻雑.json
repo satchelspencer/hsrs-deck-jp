@@ -1,0 +1,18 @@
+{
+  "_id": "xgrmlj9qi0x",
+  "desc": "variant of 人",
+  "name": "亻雑",
+  "order": "3.1.7.3.2",
+  "params": {
+    "_g": "雑",
+    "_r": "m亻"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "2",
+    "jp": "亻"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "vqwxhlxid2v",
+  "name": "r分",
+  "order": "1.2.8.7.8.1",
+  "params": {
+    "_g": "分",
+    "_r": "m分"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "分"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "xenxmfyb1py",
+  "name": "木親",
+  "order": "2.9.0.9.1",
+  "params": {
+    "_g": "親",
+    "_r": "m木"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "4",
+    "jp": "木"
+  }
+}

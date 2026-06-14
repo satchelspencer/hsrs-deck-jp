@@ -1,0 +1,18 @@
+{
+  "_id": "rgch27p6usp",
+  "name": "馬駅",
+  "order": "1.5.0.1.8",
+  "params": {
+    "_1": "灬駅",
+    "_g": "駅",
+    "_r": "m馬"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "10",
+    "jp": "馬"
+  }
+}

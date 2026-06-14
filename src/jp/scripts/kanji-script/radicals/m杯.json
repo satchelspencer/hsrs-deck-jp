@@ -1,0 +1,10 @@
+{
+  "_id": "o9bcy0v4hua",
+  "name": "m杯",
+  "parents": [
+    "radicals"
+  ],
+  "props": {
+    "_m": "counter for cupfuls"
+  }
+}

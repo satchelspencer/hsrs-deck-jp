@@ -4,7 +4,9 @@
   "order": "3",
   "parents": [
     "objects",
-    "wago-countable"
+    "wago-countable",
+    "u時",
+    "u計"
   ],
   "props": {
     "en": "clock",

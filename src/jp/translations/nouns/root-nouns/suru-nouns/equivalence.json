@@ -4,7 +4,9 @@
   "name": "equivalence",
   "order": "4",
   "parents": [
-    "suru-nouns"
+    "suru-nouns",
+    "u相",
+    "u当"
   ],
   "props": {
     "_v": "is equivalent",

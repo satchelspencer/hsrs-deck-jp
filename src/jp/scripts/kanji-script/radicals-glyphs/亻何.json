@@ -1,0 +1,18 @@
+{
+  "_id": "46idm79jhyx",
+  "desc": "variant of 人",
+  "name": "亻何",
+  "order": "1.9.3.3.8",
+  "params": {
+    "_g": "何",
+    "_r": "m亻"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "2",
+    "jp": "亻"
+  }
+}

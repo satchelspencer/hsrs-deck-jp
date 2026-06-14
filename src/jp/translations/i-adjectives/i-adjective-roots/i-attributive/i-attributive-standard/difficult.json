@@ -5,7 +5,8 @@
   "order": "2",
   "parents": [
     "i-attributive-standard",
-    "i-people-do"
+    "i-people-do",
+    "u難"
   ],
   "props": {
     "en": "difficult",

@@ -6,7 +6,8 @@
   "parents": [
     "readables",
     "media",
-    "relative-time-no"
+    "relative-time-no",
+    "u話"
   ],
   "props": {
     "en": "story",

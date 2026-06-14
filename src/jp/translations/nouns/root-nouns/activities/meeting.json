@@ -5,7 +5,9 @@
   "order": "3",
   "parents": [
     "activities",
-    "events"
+    "events",
+    "u会",
+    "u議"
   ],
   "props": {
     "en": "meeting",

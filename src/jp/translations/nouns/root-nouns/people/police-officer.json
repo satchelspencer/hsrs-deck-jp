@@ -3,7 +3,9 @@
   "name": "police-officer",
   "order": "2",
   "parents": [
-    "people"
+    "people",
+    "u警",
+    "u官"
   ],
   "props": {
     "en": "police officer",

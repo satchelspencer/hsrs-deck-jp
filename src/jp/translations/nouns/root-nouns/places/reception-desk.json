@@ -4,7 +4,9 @@
   "name": "reception-desk",
   "order": "3",
   "parents": [
-    "places"
+    "places",
+    "u受",
+    "u付"
   ],
   "props": {
     "en": "reception desk",

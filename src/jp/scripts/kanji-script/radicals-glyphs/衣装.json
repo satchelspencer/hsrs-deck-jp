@@ -1,0 +1,18 @@
+{
+  "_id": "vo9ry98emwq",
+  "name": "衣装",
+  "order": "3.9.1.0.3",
+  "params": {
+    "_1": "亠装",
+    "_g": "装",
+    "_r": "m衣"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "6",
+    "jp": "衣"
+  }
+}

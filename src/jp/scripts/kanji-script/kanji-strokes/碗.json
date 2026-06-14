@@ -1,0 +1,15 @@
+{
+  "_id": "uzzfcu8pclj",
+  "name": "碗",
+  "order": "2.9.1.3.8",
+  "params": {
+    "_wd": "u碗"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "碗",
+    "_st": "DQRNChtjAQACAAIAYwiBDoIZgmMBAAIAAgADTRceYwABAAIAA0MWKBA4CEIDTRA3YwABAQEBAmMBBQITAxsETRE4YweCDoMRg2MBAAIBAgNjgQaCD4MXAk0UUUMaURtQI08DTUMOYwEAAgICA2MAAwAHAAoCTTAcYwAEgw6EEANNMR5jBoElhCuEYwoAAAeCCANNNSZjAAEBAgADY4IHhxKOHAVNNjNjAAABAAIAYwIABYEIgmMCAAMBAgNDPkE0UydeAk0wPmMDAgYHBwkGTUovYwEAAgADAGMDgQqCDINjAoEDAQMEYwAEghGEGGOCB4MDhQAFTUktYwECAQMBBmMADgAWAB1jAA4DDwwPYwsADIEMjA"
+  }
+}

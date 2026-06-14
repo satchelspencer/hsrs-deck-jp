@@ -1,0 +1,17 @@
+{
+  "_id": "bul7vkgoqba",
+  "name": "龶青",
+  "order": "1.1.4.0.2",
+  "params": {
+    "_g": "青",
+    "_r": "m龶"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "龶"
+  }
+}

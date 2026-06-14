@@ -4,7 +4,8 @@
   "name": "counter-root-rooteds",
   "order": "4",
   "parents": [
-    "counter-roots-kango-3+-only-k"
+    "counter-roots-kango-3+-only-k",
+    "u株"
   ],
   "props": {
     "_ec": "roots",

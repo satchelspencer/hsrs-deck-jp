@@ -1,0 +1,17 @@
+{
+  "_id": "gyhbfu1h8zb",
+  "name": "尸壁",
+  "order": "2.4.0.0.6",
+  "params": {
+    "_g": "壁",
+    "_r": "m尸"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "尸"
+  }
+}

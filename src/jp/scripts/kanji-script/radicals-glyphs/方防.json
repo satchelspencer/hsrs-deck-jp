@@ -1,0 +1,17 @@
+{
+  "_id": "ad74l01t5sl",
+  "name": "方防",
+  "order": "4.4.0.6.0",
+  "params": {
+    "_g": "防",
+    "_r": "m方"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "4",
+    "jp": "方"
+  }
+}

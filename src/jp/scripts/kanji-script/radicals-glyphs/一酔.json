@@ -1,0 +1,17 @@
+{
+  "_id": "mevphfje92m",
+  "name": "一酔",
+  "order": "4.5.5.2.7",
+  "params": {
+    "_g": "酔",
+    "_r": "m一"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "1",
+    "jp": "一"
+  }
+}

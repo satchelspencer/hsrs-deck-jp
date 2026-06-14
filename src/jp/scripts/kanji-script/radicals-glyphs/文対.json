@@ -1,0 +1,17 @@
+{
+  "_id": "i2idqsocqg7",
+  "name": "文対",
+  "order": "4.1.1.9.8",
+  "params": {
+    "_g": "対",
+    "_r": "m文"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "文"
+  }
+}

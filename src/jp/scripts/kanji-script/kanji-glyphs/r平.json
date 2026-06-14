@@ -1,0 +1,17 @@
+{
+  "_id": "4g14ys12cr7",
+  "name": "r平",
+  "order": "1.9.3.3.6.1",
+  "params": {
+    "_g": "平",
+    "_r": "m平"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "平"
+  }
+}

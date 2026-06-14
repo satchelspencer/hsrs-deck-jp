@@ -4,7 +4,9 @@
   "order": "1",
   "parents": [
     "spaces",
-    "wago-countable"
+    "wago-countable",
+    "u出",
+    "u口"
   ],
   "props": {
     "en": "exit",

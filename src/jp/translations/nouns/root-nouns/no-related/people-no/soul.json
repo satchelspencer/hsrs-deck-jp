@@ -4,7 +4,8 @@
   "name": "soul",
   "order": "4",
   "parents": [
-    "people-no"
+    "people-no",
+    "u魂"
   ],
   "props": {
     "en": "soul",

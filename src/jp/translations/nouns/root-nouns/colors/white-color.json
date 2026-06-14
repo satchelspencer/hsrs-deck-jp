@@ -3,7 +3,8 @@
   "name": "white-color",
   "order": "3",
   "parents": [
-    "colors"
+    "colors",
+    "u白"
   ],
   "props": {
     "en": "white color",

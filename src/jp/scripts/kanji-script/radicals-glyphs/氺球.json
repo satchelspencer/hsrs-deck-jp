@@ -1,0 +1,18 @@
+{
+  "_id": "gc7nprka3pj",
+  "desc": "variant of 水",
+  "name": "氺球",
+  "order": "1.9.5.8.8",
+  "params": {
+    "_g": "球",
+    "_r": "m氺"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "5",
+    "jp": "氺"
+  }
+}

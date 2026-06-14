@@ -1,0 +1,17 @@
+{
+  "_id": "j0qccdq1kqm",
+  "name": "糸懸",
+  "order": "3.9.4.2.6",
+  "params": {
+    "_g": "懸",
+    "_r": "m糸"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "11",
+    "_sl": "6",
+    "jp": "糸"
+  }
+}

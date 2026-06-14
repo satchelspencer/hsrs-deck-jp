@@ -4,7 +4,9 @@
   "name": "sickness-checkin",
   "order": "3",
   "parents": [
-    "come-go-reasons"
+    "come-go-reasons",
+    "u見",
+    "u舞"
   ],
   "props": {
     "en": "sickness checkin",

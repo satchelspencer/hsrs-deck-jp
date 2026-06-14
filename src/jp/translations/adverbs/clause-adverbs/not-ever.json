@@ -5,7 +5,8 @@
   "name": "not-ever",
   "order": "4",
   "parents": [
-    "clause-adverbs"
+    "clause-adverbs",
+    "u決"
   ],
   "props": {
     "en": "not ever",

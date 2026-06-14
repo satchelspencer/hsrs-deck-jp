@@ -1,0 +1,17 @@
+{
+  "_id": "7gm06wcgckw",
+  "name": "口遠",
+  "order": "3.3.2.9.2",
+  "params": {
+    "_g": "遠",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

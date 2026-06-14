@@ -1,0 +1,17 @@
+{
+  "_id": "1tloobh343h",
+  "name": "r士",
+  "order": "1.2.3.9.1.1",
+  "params": {
+    "_g": "士",
+    "_r": "m士"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "士"
+  }
+}

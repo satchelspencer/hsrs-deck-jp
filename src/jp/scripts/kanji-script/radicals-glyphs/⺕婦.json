@@ -1,0 +1,18 @@
+{
+  "_id": "bsk4tonxd6t",
+  "desc": "variant of 彑",
+  "name": "⺕婦",
+  "order": "4.9.8.9.1",
+  "params": {
+    "_g": "婦",
+    "_r": "m⺕"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "3",
+    "jp": "⺕"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "_id": "4xejd1bbxu3",
+  "desc": "variant of 艸",
+  "name": "艹菓",
+  "order": "1.9.2.7.2",
+  "params": {
+    "_g": "菓",
+    "_r": "m艹"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "艹"
+  }
+}

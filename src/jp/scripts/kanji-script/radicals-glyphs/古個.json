@@ -1,0 +1,17 @@
+{
+  "_id": "izs00o64h58",
+  "name": "古個",
+  "order": "2.9.7.7.4",
+  "params": {
+    "_g": "個",
+    "_r": "m古"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "5",
+    "jp": "古"
+  }
+}

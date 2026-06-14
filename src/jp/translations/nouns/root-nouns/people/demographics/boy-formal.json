@@ -5,7 +5,9 @@
   "name": "boy-formal",
   "order": "4",
   "parents": [
-    "demographics"
+    "demographics",
+    "u男",
+    "u子"
   ],
   "props": {
     "en": "boy",

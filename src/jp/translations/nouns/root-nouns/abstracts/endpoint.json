@@ -4,7 +4,8 @@
   "name": "endpoint",
   "order": "4",
   "parents": [
-    "abstracts"
+    "abstracts",
+    "u切"
   ],
   "props": {
     "en": "endpoint",

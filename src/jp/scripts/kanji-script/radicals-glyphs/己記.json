@@ -1,0 +1,18 @@
+{
+  "_id": "js7se9yosml",
+  "desc": "variant of 巳",
+  "name": "己記",
+  "order": "3.2.1.2.2",
+  "params": {
+    "_g": "記",
+    "_r": "m己"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "3",
+    "jp": "己"
+  }
+}

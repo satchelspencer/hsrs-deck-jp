@@ -1,0 +1,17 @@
+{
+  "_id": "o2te20bpgx7",
+  "name": "㕣船",
+  "order": "3.6.0.7.4",
+  "params": {
+    "_g": "船",
+    "_r": "m㕣"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "5",
+    "jp": "㕣"
+  }
+}

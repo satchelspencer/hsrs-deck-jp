@@ -3,7 +3,9 @@
   "name": "this-time",
   "order": "3",
   "parents": [
-    "wa-future-only-times"
+    "wa-future-only-times",
+    "u今",
+    "u回"
   ],
   "props": {
     "en": "this time",

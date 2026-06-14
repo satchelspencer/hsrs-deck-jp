@@ -5,7 +5,8 @@
     "past": "plain-past"
   },
   "parents": [
-    "verb-hogaii"
+    "verb-hogaii",
+    "u方"
   ],
   "props": {
     "en": "'it would be better to '+past.verb.en",

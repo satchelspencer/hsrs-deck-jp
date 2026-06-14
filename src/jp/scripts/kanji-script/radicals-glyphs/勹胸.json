@@ -1,0 +1,17 @@
+{
+  "_id": "gpsmg2nc7lo",
+  "name": "勹胸",
+  "order": "4.9.6.2.6",
+  "params": {
+    "_g": "胸",
+    "_r": "m勹"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "2",
+    "jp": "勹"
+  }
+}

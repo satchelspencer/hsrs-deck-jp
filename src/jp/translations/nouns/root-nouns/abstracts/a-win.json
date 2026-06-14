@@ -5,7 +5,8 @@
   "order": "3",
   "parents": [
     "abstracts",
-    "non-unique"
+    "non-unique",
+    "u勝"
   ],
   "props": {
     "en": "a win",

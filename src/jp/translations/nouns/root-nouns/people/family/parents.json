@@ -4,7 +4,9 @@
   "name": "parents",
   "order": "2",
   "parents": [
-    "family"
+    "family",
+    "u両",
+    "u親"
   ],
   "props": {
     "en": "parents",

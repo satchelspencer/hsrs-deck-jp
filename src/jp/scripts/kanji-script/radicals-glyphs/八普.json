@@ -1,0 +1,17 @@
+{
+  "_id": "k1vc5nzbsla",
+  "name": "八普",
+  "order": "3.6.9.2.9",
+  "params": {
+    "_g": "普",
+    "_r": "m八"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "2",
+    "jp": "八"
+  }
+}

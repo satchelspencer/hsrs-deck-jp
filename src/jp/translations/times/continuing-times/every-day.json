@@ -4,7 +4,9 @@
   "order": "2",
   "parents": [
     "continuing-times",
-    "abstracts"
+    "abstracts",
+    "u毎",
+    "u日"
   ],
   "props": {
     "en": "every day",

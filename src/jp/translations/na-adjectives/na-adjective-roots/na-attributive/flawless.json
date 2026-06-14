@@ -4,7 +4,9 @@
   "name": "flawless",
   "order": "4",
   "parents": [
-    "na-attributive"
+    "na-attributive",
+    "u完",
+    "u璧"
   ],
   "props": {
     "en": "flawless",

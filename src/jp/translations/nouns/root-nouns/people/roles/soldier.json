@@ -3,7 +3,9 @@
   "name": "soldier",
   "order": "4",
   "parents": [
-    "roles"
+    "roles",
+    "u兵",
+    "u士"
   ],
   "props": {
     "en": "soldier",

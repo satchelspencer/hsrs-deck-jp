@@ -1,0 +1,17 @@
+{
+  "_id": "z1k269tgsjj",
+  "name": "r下",
+  "order": "1.9.0.3.9.1",
+  "params": {
+    "_g": "下",
+    "_r": "m下"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "下"
+  }
+}

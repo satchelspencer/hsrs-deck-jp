@@ -5,7 +5,9 @@
   "parents": [
     "akeru-shimeru",
     "containers",
-    "wago-countable"
+    "wago-countable",
+    "u引",
+    "u出"
   ],
   "props": {
     "en": "drawer",

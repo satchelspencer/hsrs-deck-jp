@@ -1,0 +1,17 @@
+{
+  "_id": "ea11rrrlql6",
+  "name": "臣賢",
+  "order": "4.3.1.8.2",
+  "params": {
+    "_g": "賢",
+    "_r": "m臣"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "7",
+    "jp": "臣"
+  }
+}

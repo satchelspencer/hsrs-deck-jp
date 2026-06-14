@@ -1,0 +1,17 @@
+{
+  "_id": "fa5utjsde5p",
+  "name": "工差",
+  "order": "2.9.2.4.4",
+  "params": {
+    "_g": "差",
+    "_r": "m工"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "3",
+    "jp": "工"
+  }
+}

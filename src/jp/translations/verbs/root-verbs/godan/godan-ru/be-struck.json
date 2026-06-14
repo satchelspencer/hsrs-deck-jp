@@ -4,7 +4,8 @@
   "name": "be-struck",
   "order": "3",
   "parents": [
-    "godan-ru"
+    "godan-ru",
+    "u当"
   ],
   "props": {
     "en": "be struck",

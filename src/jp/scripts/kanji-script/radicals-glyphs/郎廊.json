@@ -1,0 +1,18 @@
+{
+  "_id": "3klbqxahbzt",
+  "name": "郎廊",
+  "order": "2.9.3.4.4",
+  "params": {
+    "_1": "⻏廊",
+    "_g": "廊",
+    "_r": "m郎"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "9",
+    "jp": "郎"
+  }
+}

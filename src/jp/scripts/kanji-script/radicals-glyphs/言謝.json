@@ -1,0 +1,18 @@
+{
+  "_id": "1rpfic0gbnm",
+  "name": "言謝",
+  "order": "3.6.4.0.9",
+  "params": {
+    "_1": "口謝",
+    "_g": "謝",
+    "_r": "m言"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "7",
+    "jp": "言"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "zabw016l1bi",
+  "name": "臣緊",
+  "order": "4.1.9.9.3",
+  "params": {
+    "_g": "緊",
+    "_r": "m臣"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "7",
+    "jp": "臣"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "itucw6vcnjt",
+  "name": "凡恐",
+  "order": "3.9.6.6.0",
+  "params": {
+    "_g": "恐",
+    "_r": "m凡"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "3",
+    "jp": "凡"
+  }
+}

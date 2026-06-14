@@ -1,0 +1,17 @@
+{
+  "_id": "lb8n4krjiod",
+  "name": "一酷",
+  "order": "3.3.6.6.8",
+  "params": {
+    "_g": "酷",
+    "_r": "m一"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "1",
+    "jp": "一"
+  }
+}

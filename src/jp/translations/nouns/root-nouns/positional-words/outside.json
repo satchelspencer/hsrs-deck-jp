@@ -5,7 +5,8 @@
   "order": "1",
   "parents": [
     "positional-words",
-    "places"
+    "places",
+    "u外"
   ],
   "props": {
     "en": "outside",

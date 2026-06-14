@@ -4,7 +4,8 @@
   "name": "god",
   "order": "3",
   "parents": [
-    "beliefs"
+    "beliefs",
+    "u神"
   ],
   "props": {
     "en": "god",

@@ -1,0 +1,17 @@
+{
+  "_id": "u42wxfwnow1",
+  "name": "口踊",
+  "order": "3.3.6.5.6",
+  "params": {
+    "_g": "踊",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "3ak794ya5za",
+  "name": "立意",
+  "order": "2.3.3.8.7",
+  "params": {
+    "_g": "意",
+    "_r": "m立"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "立"
+  }
+}

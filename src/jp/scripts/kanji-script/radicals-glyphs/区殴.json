@@ -1,0 +1,17 @@
+{
+  "_id": "8dn6qquc66y",
+  "name": "区殴",
+  "order": "4.9.5.3.1",
+  "params": {
+    "_g": "殴",
+    "_r": "m区"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "区"
+  }
+}

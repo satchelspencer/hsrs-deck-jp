@@ -1,0 +1,17 @@
+{
+  "_id": "5lq658z825l",
+  "name": "心息",
+  "order": "1.9.6.8.5",
+  "params": {
+    "_g": "息",
+    "_r": "m心"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "4",
+    "jp": "心"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "kh82avafwxv",
+  "name": "土幸",
+  "order": "2.3.4.6.8",
+  "params": {
+    "_g": "幸",
+    "_r": "m土"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "土"
+  }
+}

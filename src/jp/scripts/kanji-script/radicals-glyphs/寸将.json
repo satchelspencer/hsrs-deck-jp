@@ -1,0 +1,17 @@
+{
+  "_id": "ygjfky3bbpn",
+  "name": "寸将",
+  "order": "3.6.2.6.8",
+  "params": {
+    "_g": "将",
+    "_r": "m寸"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "3",
+    "jp": "寸"
+  }
+}

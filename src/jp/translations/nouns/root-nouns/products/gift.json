@@ -3,7 +3,9 @@
   "name": "gift",
   "order": "3",
   "parents": [
-    "products"
+    "products",
+    "u贈",
+    "u物"
   ],
   "props": {
     "en": "gift",

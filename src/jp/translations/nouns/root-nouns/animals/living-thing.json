@@ -4,7 +4,9 @@
   "name": "living-thing",
   "order": "4",
   "parents": [
-    "animals"
+    "animals",
+    "u生",
+    "u物"
   ],
   "props": {
     "en": "living thing",

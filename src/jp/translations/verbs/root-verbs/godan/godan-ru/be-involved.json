@@ -6,7 +6,8 @@
   "parents": [
     "godan-ru",
     "te-iru-verbs-state",
-    "people-do"
+    "people-do",
+    "u関"
   ],
   "props": {
     "_st": "involved",

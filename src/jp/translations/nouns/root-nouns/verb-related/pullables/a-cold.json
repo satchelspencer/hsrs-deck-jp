@@ -4,7 +4,9 @@
   "name": "a-cold",
   "order": "2",
   "parents": [
-    "pullables"
+    "pullables",
+    "u風",
+    "u邪"
   ],
   "props": {
     "en": "a cold",

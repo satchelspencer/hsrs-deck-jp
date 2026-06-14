@@ -1,0 +1,17 @@
+{
+  "_id": "er7yra8ce9s",
+  "name": "夭橋",
+  "order": "2.9.1.6.4",
+  "params": {
+    "_g": "橋",
+    "_r": "m夭"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "4",
+    "jp": "夭"
+  }
+}

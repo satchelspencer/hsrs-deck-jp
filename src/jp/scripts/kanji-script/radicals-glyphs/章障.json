@@ -1,0 +1,18 @@
+{
+  "_id": "0po9kjfi6ej",
+  "name": "章障",
+  "order": "3.6.1.5.6",
+  "params": {
+    "_1": "早障",
+    "_g": "障",
+    "_r": "m章"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "11",
+    "jp": "章"
+  }
+}

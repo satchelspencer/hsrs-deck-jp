@@ -3,7 +3,8 @@
   "name": "deep",
   "order": "2",
   "parents": [
-    "i-attributive-standard"
+    "i-attributive-standard",
+    "u深"
   ],
   "props": {
     "en": "deep",

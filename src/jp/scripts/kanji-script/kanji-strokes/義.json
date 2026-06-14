@@ -1,0 +1,15 @@
+{
+  "_id": "sqvshcpvsor",
+  "name": "義",
+  "order": "3.9.3.0.0",
+  "params": {
+    "_wd": "u義"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "義",
+    "_st": "DQJNIwtjAwIJBwoKA01DCmMAAQABAAJjggOEB4kLBE0fG2MCAAUABwBjCIEagyODYwIABQAHAANNNRtjAQEBAgEDYwADAAkADgRNIyVjAgAEAAYAYwiBFYMcg2MCAAQABgAETRkwYwIBBgAIAGMJgR-DLIRjAwAGAAkAA00sM2MAAYECgQJjhAKJBJIIBE0RRWMEAQgADABjDoImhTeGYwQABwALAARNKDtjAQEBAgEDYwAJAB8AImMACIUAh4EDTRFVYwEBAgEEAGMBgRWJHIsETTsxYwEBAgMDBWMDEwwjGixjBQMFAASEA01RRWMAAQACgQNDTE1CVzFeAk1GMmMDAgkFCgg"
+  }
+}

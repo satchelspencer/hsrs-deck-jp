@@ -1,0 +1,17 @@
+{
+  "_id": "8datqqmn05a",
+  "name": "犬状",
+  "order": "4.1.9.5.3",
+  "params": {
+    "_g": "状",
+    "_r": "m犬"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "4",
+    "jp": "犬"
+  }
+}

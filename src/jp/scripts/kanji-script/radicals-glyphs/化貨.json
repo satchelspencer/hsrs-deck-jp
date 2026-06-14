@@ -1,0 +1,17 @@
+{
+  "_id": "z813z0hfdyw",
+  "name": "化貨",
+  "order": "4.9.1.9.0",
+  "params": {
+    "_g": "貨",
+    "_r": "m化"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "化"
+  }
+}

@@ -6,7 +6,10 @@
   "parents": [
     "products",
     "reservables",
-    "mai-countable"
+    "mai-countable",
+    "u入",
+    "u場",
+    "u券"
   ],
   "props": {
     "en": "admission ticket",

@@ -5,7 +5,9 @@
   "order": "4",
   "parents": [
     "suru-nouns",
-    "people-do-volitional"
+    "people-do-volitional",
+    "u注",
+    "u目"
   ],
   "props": {
     "_pg": "paying attention",

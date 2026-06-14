@@ -4,7 +4,8 @@
   "name": "everybody-formal",
   "order": "3",
   "parents": [
-    "personal-pronouns"
+    "personal-pronouns",
+    "u皆"
   ],
   "props": {
     "en": "everybody",

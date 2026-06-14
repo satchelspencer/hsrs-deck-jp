@@ -1,0 +1,17 @@
+{
+  "_id": "6apaj1iuspu",
+  "name": "口険",
+  "order": "2.1.4.1.8",
+  "params": {
+    "_g": "険",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "_id": "c16dcudeber",
+  "name": "交",
+  "order": "2.9.2.4.4",
+  "params": {
+    "_wd": "u交"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "交",
+    "_st": "BgNNNAxjAQECAgIEYwAEAAkADARNFh9jAgEFAQgBYw-CIYQxhGMDAAUACAEDTScnYwABAAKBBEMjMBw3FjwCTUQmYwgEDgkSDwNNQzNjAAIAA4EFQztIKFgTXwNNIztjBAAeFi8hYwQCBwQLBQ"
+  }
+}

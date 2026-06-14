@@ -1,0 +1,18 @@
+{
+  "_id": "1qj7qixci9v",
+  "desc": "variant of 刀",
+  "name": "刂帰",
+  "order": "2.6.2.5.4",
+  "params": {
+    "_g": "帰",
+    "_r": "m刂"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "2",
+    "jp": "刂"
+  }
+}

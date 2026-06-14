@@ -1,0 +1,17 @@
+{
+  "_id": "2rhwsl52345",
+  "name": "冂刺",
+  "order": "2.9.3.5.2",
+  "params": {
+    "_g": "刺",
+    "_r": "m冂"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "2",
+    "_sl": "2",
+    "jp": "冂"
+  }
+}

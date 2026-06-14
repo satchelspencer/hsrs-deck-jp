@@ -1,0 +1,18 @@
+{
+  "_id": "g0lwhd4su51",
+  "desc": "variant of 吅",
+  "name": "⺍覚",
+  "order": "2.3.7.3.8",
+  "params": {
+    "_g": "覚",
+    "_r": "m⺍"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "⺍"
+  }
+}

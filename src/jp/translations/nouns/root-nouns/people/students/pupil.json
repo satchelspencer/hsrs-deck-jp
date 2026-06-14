@@ -4,7 +4,9 @@
   "name": "pupil",
   "order": "3",
   "parents": [
-    "students"
+    "students",
+    "u生",
+    "u徒"
   ],
   "props": {
     "en": "pupil",

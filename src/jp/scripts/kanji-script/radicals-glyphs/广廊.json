@@ -1,0 +1,17 @@
+{
+  "_id": "a1i0jwka0a5",
+  "name": "广廊",
+  "order": "2.9.3.4.4",
+  "params": {
+    "_g": "廊",
+    "_r": "m广"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "广"
+  }
+}

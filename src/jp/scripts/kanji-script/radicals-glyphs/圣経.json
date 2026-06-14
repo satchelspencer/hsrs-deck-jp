@@ -1,0 +1,17 @@
+{
+  "_id": "oyck5f4bcyp",
+  "name": "圣経",
+  "order": "3.2.1.8.8",
+  "params": {
+    "_g": "経",
+    "_r": "m圣"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "5",
+    "jp": "圣"
+  }
+}

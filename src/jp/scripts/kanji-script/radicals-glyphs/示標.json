@@ -1,0 +1,17 @@
+{
+  "_id": "avt5gpxa7gb",
+  "name": "示標",
+  "order": "2.3.0.3.4",
+  "params": {
+    "_g": "標",
+    "_r": "m示"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "11",
+    "_sl": "5",
+    "jp": "示"
+  }
+}

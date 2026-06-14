@@ -1,0 +1,17 @@
+{
+  "_id": "if3m7fncd4y",
+  "name": "言誤",
+  "order": "4.9.2.6.3",
+  "params": {
+    "_g": "誤",
+    "_r": "m言"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "7",
+    "jp": "言"
+  }
+}

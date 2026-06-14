@@ -1,0 +1,17 @@
+{
+  "_id": "h2iuwrthfbm",
+  "name": "一険",
+  "order": "2.1.4.1.8",
+  "params": {
+    "_g": "険",
+    "_r": "m一"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "1",
+    "jp": "一"
+  }
+}

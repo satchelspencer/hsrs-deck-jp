@@ -1,0 +1,17 @@
+{
+  "_id": "vtot0mjxefa",
+  "name": "五悟",
+  "order": "4.1.1.6.4",
+  "params": {
+    "_g": "悟",
+    "_r": "m五"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "4",
+    "jp": "五"
+  }
+}

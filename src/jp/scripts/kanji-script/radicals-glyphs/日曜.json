@@ -1,0 +1,18 @@
+{
+  "_id": "b1akj9knswt",
+  "desc": "variant of 曰",
+  "name": "日曜",
+  "order": "1.9.1.4.5",
+  "params": {
+    "_g": "曜",
+    "_r": "m日"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "日"
+  }
+}

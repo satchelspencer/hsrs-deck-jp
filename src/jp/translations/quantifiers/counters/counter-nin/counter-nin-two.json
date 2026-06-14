@@ -5,7 +5,9 @@
     "number": "two"
   },
   "parents": [
-    "counter-nin"
+    "counter-nin",
+    "u二",
+    "u人"
   ],
   "props": {
     "jp": "二人",

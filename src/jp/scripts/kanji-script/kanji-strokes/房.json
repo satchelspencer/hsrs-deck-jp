@@ -1,0 +1,15 @@
+{
+  "_id": "c5prbvxzoc4",
+  "name": "房",
+  "order": "3.9.3.6.0",
+  "params": {
+    "_wd": "u房"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "房",
+    "_st": "CARNFBBjAwEHAQoBYwyBIoMwg2MDAAeBCgAFTR0cYwIBBQEHAWMMgh-DKIRjAwAFAQQEY4EDggeDCgNNICtjAQAdgymEYwMABQAHAANNHx1jAQEBAwEEQx05GEsNVwNNOy9jAQEBAgEEYwACAAMABgRNIztjAgEFAQgAYwqBGoMlhGMCAAYACAEFTTdDYwUCCwMSBWMDAAMCAgVjggWJEYwUY4MDhQKHgQNNNz1jAAEAAgADY4MHixSaHA"
+  }
+}

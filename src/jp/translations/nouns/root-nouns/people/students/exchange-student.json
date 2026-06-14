@@ -4,7 +4,10 @@
   "name": "exchange-student",
   "order": "3",
   "parents": [
-    "students"
+    "students",
+    "u留",
+    "u学",
+    "u生"
   ],
   "props": {
     "en": "exchange student",

@@ -3,7 +3,9 @@
   "name": "kitchen",
   "order": "2",
   "parents": [
-    "rooms"
+    "rooms",
+    "u台",
+    "u所"
   ],
   "props": {
     "en": "kitchen",

@@ -4,7 +4,8 @@
   "name": "once-more",
   "order": "4",
   "parents": [
-    "verb-clause-adverbs"
+    "verb-clause-adverbs",
+    "u再"
   ],
   "props": {
     "en": "once more",

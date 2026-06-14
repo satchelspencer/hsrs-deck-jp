@@ -4,7 +4,8 @@
   "name": "quiet",
   "order": "1.1",
   "parents": [
-    "na-place"
+    "na-place",
+    "u静"
   ],
   "props": {
     "en": "quiet",

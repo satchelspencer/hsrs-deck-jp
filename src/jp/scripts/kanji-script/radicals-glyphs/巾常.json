@@ -1,0 +1,17 @@
+{
+  "_id": "czjxa8qvmov",
+  "name": "巾常",
+  "order": "3.9.8.3.5",
+  "params": {
+    "_g": "常",
+    "_r": "m巾"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "9",
+    "_sl": "3",
+    "jp": "巾"
+  }
+}

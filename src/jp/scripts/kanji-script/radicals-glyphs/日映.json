@@ -1,0 +1,18 @@
+{
+  "_id": "miff5c6s2b5",
+  "desc": "variant of 曰",
+  "name": "日映",
+  "order": "1.4.9.4.1",
+  "params": {
+    "_g": "映",
+    "_r": "m日"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "日"
+  }
+}

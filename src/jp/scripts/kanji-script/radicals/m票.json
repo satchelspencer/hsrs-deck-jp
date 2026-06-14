@@ -1,0 +1,10 @@
+{
+  "_id": "ii5xam6z7cm",
+  "name": "m票",
+  "parents": [
+    "radicals"
+  ],
+  "props": {
+    "_m": "ballot, label, ticket, sign"
+  }
+}

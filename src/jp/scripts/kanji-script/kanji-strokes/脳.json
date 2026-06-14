@@ -1,0 +1,15 @@
+{
+  "_id": "mpma7tunikb",
+  "name": "脳",
+  "order": "3.1.3.7.0",
+  "params": {
+    "_wd": "u脳"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "脳",
+    "_st": "CwNNFRZjAQEBAgEDYwEggjiKQQVNFhhjA4ENgw6DYwIAAwEDA2MAAwAsAD5jAAuGA4gCAk0XKGMFAAyCEIICTRY5YwQAC4EQgQJNLxtjBAQHCggOAk1AFGMDAwYLCBADTV0SYwEBAAOBBGODBIUHig4DTVEuYwABAAIAA2OFDIwWlxwCTTw3YwcDEg0WFAVNMjtjAQEBAgEDYwADABEAF2MAAgADAgNjCAAigyeDBE1dN2MBAQECAQRjAASBEIIZYwACAAWBBg"
+  }
+}

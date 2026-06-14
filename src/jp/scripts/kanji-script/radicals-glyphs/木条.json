@@ -1,0 +1,17 @@
+{
+  "_id": "741idlsgkie",
+  "name": "木条",
+  "order": "4.4.6.2.8",
+  "params": {
+    "_g": "条",
+    "_r": "m木"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "4",
+    "jp": "木"
+  }
+}

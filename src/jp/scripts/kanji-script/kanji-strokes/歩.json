@@ -1,0 +1,15 @@
+{
+  "_id": "2aa8q6iuumt",
+  "name": "歩",
+  "order": "2.3.5.7.2",
+  "params": {
+    "_wd": "u歩"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "歩",
+    "_st": "CANNNgtjAQECAwIEYwAFAA4AFwNNOhhjCIENghODYwIAAwAEAANNIBZjAQECAgIDYwADAQkBDwRNEipjAwEGAQkAYw6BKYQ4hmMDAAYACQAETTgqYwEBAQIBBGMACQASABVjAAeEA4cAA00nM2MAAQACgQNDJDodQBZFAk1NLmMGAgwHDwwDTU04YwABAAOBBENGRzBZGmE"
+  }
+}

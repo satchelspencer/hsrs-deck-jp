@@ -1,0 +1,18 @@
+{
+  "_id": "d3cpub6c87u",
+  "desc": "variant of 老",
+  "name": "耂暑",
+  "order": "1.6.7.0.7",
+  "params": {
+    "_g": "暑",
+    "_r": "m耂"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "4",
+    "jp": "耂"
+  }
+}

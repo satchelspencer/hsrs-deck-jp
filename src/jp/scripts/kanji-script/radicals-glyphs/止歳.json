@@ -1,0 +1,17 @@
+{
+  "_id": "teanx2mm9ek",
+  "name": "止歳",
+  "order": "1.9.2.6.2",
+  "params": {
+    "_g": "歳",
+    "_r": "m止"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "止"
+  }
+}

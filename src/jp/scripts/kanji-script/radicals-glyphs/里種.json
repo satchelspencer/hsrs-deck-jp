@@ -1,0 +1,17 @@
+{
+  "_id": "p3c0ubwedig",
+  "name": "里種",
+  "order": "3.3.0.3.8",
+  "params": {
+    "_g": "種",
+    "_r": "m里"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "7",
+    "jp": "里"
+  }
+}

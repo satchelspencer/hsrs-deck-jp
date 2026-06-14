@@ -1,0 +1,17 @@
+{
+  "_id": "do60dq8k3jl",
+  "name": "冋橋",
+  "order": "2.9.1.6.4",
+  "params": {
+    "_g": "橋",
+    "_r": "m冋"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "12",
+    "_sl": "5",
+    "jp": "冋"
+  }
+}

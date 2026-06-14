@@ -1,0 +1,17 @@
+{
+  "_id": "up8dhoniga7",
+  "name": "斤所",
+  "order": "2.2.2.8.0",
+  "params": {
+    "_g": "所",
+    "_r": "m斤"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "4",
+    "jp": "斤"
+  }
+}

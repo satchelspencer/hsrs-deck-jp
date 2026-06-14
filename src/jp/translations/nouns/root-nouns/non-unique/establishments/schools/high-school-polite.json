@@ -4,7 +4,11 @@
   "name": "high-school-polite",
   "order": "4",
   "parents": [
-    "schools"
+    "schools",
+    "u高",
+    "u等",
+    "u学",
+    "u校"
   ],
   "props": {
     "en": "senior high school",

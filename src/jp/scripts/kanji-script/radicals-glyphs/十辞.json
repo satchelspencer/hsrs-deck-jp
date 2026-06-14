@@ -1,0 +1,17 @@
+{
+  "_id": "dz8qodq9i9a",
+  "name": "十辞",
+  "order": "1.9.0.0.9",
+  "params": {
+    "_g": "辞",
+    "_r": "m十"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "12",
+    "_sl": "2",
+    "jp": "十"
+  }
+}

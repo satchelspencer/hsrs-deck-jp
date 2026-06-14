@@ -1,0 +1,17 @@
+{
+  "_id": "99a3mp8f693",
+  "name": "十協",
+  "order": "4.1.2.8.6",
+  "params": {
+    "_g": "協",
+    "_r": "m十"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "2",
+    "jp": "十"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "nqn9q6nb88y",
+  "name": "广床",
+  "order": "3.9.3.3.5",
+  "params": {
+    "_g": "床",
+    "_r": "m广"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "广"
+  }
+}

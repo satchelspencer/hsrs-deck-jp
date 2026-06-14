@@ -1,0 +1,17 @@
+{
+  "_id": "eqa3ubzxnj9",
+  "name": "口使",
+  "order": "1.2.7.0.0",
+  "params": {
+    "_g": "使",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "_id": "ifznsk3tchu",
+  "desc": "variant of 手",
+  "name": "扌折",
+  "order": "3.5.4.6.0",
+  "params": {
+    "_g": "折",
+    "_r": "m扌"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "扌"
+  }
+}

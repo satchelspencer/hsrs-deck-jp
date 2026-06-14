@@ -1,0 +1,17 @@
+{
+  "_id": "p1ozdfsiy7t",
+  "name": "口保",
+  "order": "3.9.1.1.2",
+  "params": {
+    "_g": "保",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "3",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

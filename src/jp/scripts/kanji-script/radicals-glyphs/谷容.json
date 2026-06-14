@@ -1,0 +1,18 @@
+{
+  "_id": "zkcyrjza2eu",
+  "name": "谷容",
+  "order": "4.1.8.1.0",
+  "params": {
+    "_1": "口容",
+    "_g": "容",
+    "_r": "m谷"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "7",
+    "jp": "谷"
+  }
+}

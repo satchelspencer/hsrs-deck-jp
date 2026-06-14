@@ -3,7 +3,8 @@
   "name": "street",
   "order": "1",
   "parents": [
-    "paths"
+    "paths",
+    "u道"
   ],
   "props": {
     "en": "street",

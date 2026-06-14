@@ -5,7 +5,8 @@
   "name": "certain",
   "order": "2",
   "parents": [
-    "na-informations"
+    "na-informations",
+    "u確"
   ],
   "props": {
     "en": "certain",

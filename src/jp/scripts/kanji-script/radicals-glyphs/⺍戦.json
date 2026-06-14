@@ -1,0 +1,18 @@
+{
+  "_id": "dxt8w5oigh1",
+  "desc": "variant of 吅",
+  "name": "⺍戦",
+  "order": "3.3.2.6.6",
+  "params": {
+    "_g": "戦",
+    "_r": "m⺍"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "⺍"
+  }
+}

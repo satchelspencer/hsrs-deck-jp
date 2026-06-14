@@ -4,7 +4,9 @@
   "name": "my-wife-polite",
   "order": "4",
   "parents": [
-    "family"
+    "family",
+    "u家",
+    "u内"
   ],
   "props": {
     "en": "my wife",

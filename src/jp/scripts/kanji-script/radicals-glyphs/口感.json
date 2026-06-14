@@ -1,0 +1,17 @@
+{
+  "_id": "cmyk4e96wt1",
+  "name": "口感",
+  "order": "1.1.3.5.0",
+  "params": {
+    "_g": "感",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

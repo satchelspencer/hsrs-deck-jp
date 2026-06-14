@@ -4,7 +4,8 @@
   "order": "1",
   "parents": [
     "deeps",
-    "places"
+    "places",
+    "u森"
   ],
   "props": {
     "en": "forest",

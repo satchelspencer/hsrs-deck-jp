@@ -1,0 +1,17 @@
+{
+  "_id": "6yg36na63p5",
+  "name": "方施",
+  "order": "4.9.6.8.1",
+  "params": {
+    "_g": "施",
+    "_r": "m方"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "方"
+  }
+}

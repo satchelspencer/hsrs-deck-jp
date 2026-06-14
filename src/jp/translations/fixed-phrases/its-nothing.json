@@ -5,7 +5,8 @@
   "name": "its-nothing",
   "order": "3",
   "parents": [
-    "fixed-phrases"
+    "fixed-phrases",
+    "u何"
   ],
   "props": {
     "en": "it's nothing",

@@ -1,0 +1,18 @@
+{
+  "_id": "vzpw2ud16pl",
+  "desc": "variant of 刀",
+  "name": "卩服",
+  "order": "1.6.8.1.2",
+  "params": {
+    "_g": "服",
+    "_r": "m卩"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "2",
+    "jp": "卩"
+  }
+}

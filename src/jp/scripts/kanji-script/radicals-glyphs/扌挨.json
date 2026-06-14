@@ -1,0 +1,18 @@
+{
+  "_id": "82q0n4jkvxr",
+  "desc": "variant of 手",
+  "name": "扌挨",
+  "order": "3.9.6.6.5",
+  "params": {
+    "_g": "挨",
+    "_r": "m扌"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "扌"
+  }
+}

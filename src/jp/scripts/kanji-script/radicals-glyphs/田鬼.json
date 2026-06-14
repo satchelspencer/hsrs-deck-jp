@@ -1,0 +1,17 @@
+{
+  "_id": "sejc7ufw2m5",
+  "name": "田鬼",
+  "order": "4.2.7.8.0",
+  "params": {
+    "_g": "鬼",
+    "_r": "m田"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "2",
+    "_sl": "5",
+    "jp": "田"
+  }
+}

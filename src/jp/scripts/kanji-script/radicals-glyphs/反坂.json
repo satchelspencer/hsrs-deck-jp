@@ -1,0 +1,17 @@
+{
+  "_id": "ytrit4hfgqo",
+  "name": "反坂",
+  "order": "3.9.9.5.7",
+  "params": {
+    "_g": "坂",
+    "_r": "m反"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "4",
+    "jp": "反"
+  }
+}

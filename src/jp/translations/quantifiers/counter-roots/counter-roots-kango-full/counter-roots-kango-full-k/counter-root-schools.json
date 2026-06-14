@@ -4,7 +4,8 @@
   "name": "counter-root-schools",
   "order": "3",
   "parents": [
-    "counter-roots-kango-full-k"
+    "counter-roots-kango-full-k",
+    "u校"
   ],
   "props": {
     "_ec": "schools",

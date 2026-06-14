@@ -1,0 +1,10 @@
+{
+  "_id": "wzyu0yn732b",
+  "name": "m路",
+  "parents": [
+    "radicals"
+  ],
+  "props": {
+    "_m": "path, route, road, distance"
+  }
+}

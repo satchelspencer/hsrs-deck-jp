@@ -1,0 +1,18 @@
+{
+  "_id": "gfdmqaam84j",
+  "name": "r医",
+  "order": "2.9.8.0.1.1",
+  "params": {
+    "_1": "矢医",
+    "_g": "医",
+    "_r": "m医"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "7",
+    "jp": "医"
+  }
+}

@@ -4,7 +4,9 @@
   "name": "honest",
   "order": "4",
   "parents": [
-    "na-people"
+    "na-people",
+    "u正",
+    "u直"
   ],
   "props": {
     "en": "honest",

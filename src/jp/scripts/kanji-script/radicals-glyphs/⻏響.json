@@ -1,0 +1,18 @@
+{
+  "_id": "kq0a0vuhmpa",
+  "desc": "variant of 邑",
+  "name": "⻏響",
+  "order": "4.6.1.6.1",
+  "params": {
+    "_g": "響",
+    "_r": "m⻏"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "9",
+    "_sl": "3",
+    "jp": "⻏"
+  }
+}

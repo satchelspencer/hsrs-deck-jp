@@ -1,0 +1,17 @@
+{
+  "_id": "slkkjtyomx6",
+  "name": "彳微",
+  "order": "4.4.2.0.6",
+  "params": {
+    "_g": "微",
+    "_r": "m彳"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "彳"
+  }
+}

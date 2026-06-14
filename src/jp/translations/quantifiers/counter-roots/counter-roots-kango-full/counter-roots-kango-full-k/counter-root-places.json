@@ -3,7 +3,8 @@
   "name": "counter-root-places",
   "order": "2",
   "parents": [
-    "counter-roots-kango-full-k"
+    "counter-roots-kango-full-k",
+    "u所"
   ],
   "props": {
     "_ec": "places",

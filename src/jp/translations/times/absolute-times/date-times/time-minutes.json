@@ -9,7 +9,8 @@
     "root": "counter-root-minutes"
   },
   "parents": [
-    "date-times"
+    "date-times",
+    "u過"
   ],
   "props": {
     "en": "counter.en+' past the hour'",

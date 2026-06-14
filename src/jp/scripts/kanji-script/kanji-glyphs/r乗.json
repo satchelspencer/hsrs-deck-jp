@@ -1,0 +1,18 @@
+{
+  "_id": "w9xclmqvwdj",
+  "name": "r乗",
+  "order": "1.5.7.5.0.1",
+  "params": {
+    "_1": "木乗",
+    "_g": "乗",
+    "_r": "m乗"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "9",
+    "jp": "乗"
+  }
+}

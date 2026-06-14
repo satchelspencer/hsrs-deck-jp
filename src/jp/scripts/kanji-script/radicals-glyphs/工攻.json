@@ -1,0 +1,17 @@
+{
+  "_id": "l6j9l0fg0mh",
+  "name": "工攻",
+  "order": "4.2.1.5.4",
+  "params": {
+    "_g": "攻",
+    "_r": "m工"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "工"
+  }
+}

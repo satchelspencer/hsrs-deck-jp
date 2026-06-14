@@ -1,0 +1,18 @@
+{
+  "_id": "v0fdxjmigas",
+  "name": "r固",
+  "order": "2.9.7.7.4.1",
+  "params": {
+    "_1": "古固",
+    "_g": "固",
+    "_r": "m固"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "8",
+    "jp": "固"
+  }
+}

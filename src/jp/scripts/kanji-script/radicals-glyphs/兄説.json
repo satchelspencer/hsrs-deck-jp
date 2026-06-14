@@ -1,0 +1,17 @@
+{
+  "_id": "vukqb76regq",
+  "name": "兄説",
+  "order": "2.9.4.5.0",
+  "params": {
+    "_g": "説",
+    "_r": "m兄"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "10",
+    "_sl": "5",
+    "jp": "兄"
+  }
+}

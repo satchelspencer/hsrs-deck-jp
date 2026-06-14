@@ -1,0 +1,17 @@
+{
+  "_id": "2ohkdb5v79l",
+  "name": "欠飲",
+  "order": "1.3.5.0.9",
+  "params": {
+    "_g": "飲",
+    "_r": "m欠"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "9",
+    "_sl": "4",
+    "jp": "欠"
+  }
+}

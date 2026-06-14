@@ -3,7 +3,10 @@
   "name": "foreigner",
   "order": "1",
   "parents": [
-    "people-groups"
+    "people-groups",
+    "u外",
+    "u国",
+    "u人"
   ],
   "props": {
     "en": "foreigner",

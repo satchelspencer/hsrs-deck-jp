@@ -1,0 +1,17 @@
+{
+  "_id": "0y55hoggn8x",
+  "name": "禾季",
+  "order": "2.9.5.2.5",
+  "params": {
+    "_g": "季",
+    "_r": "m禾"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "禾"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "lycx6qu2xcj",
+  "name": "r母",
+  "order": "1.9.7.5.9.1",
+  "params": {
+    "_g": "母",
+    "_r": "m母"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "母"
+  }
+}

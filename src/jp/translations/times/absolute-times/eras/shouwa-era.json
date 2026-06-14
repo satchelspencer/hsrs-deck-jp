@@ -5,7 +5,9 @@
   "order": "3",
   "parents": [
     "eras",
-    "ni-past-only-times"
+    "ni-past-only-times",
+    "u昭",
+    "u和"
   ],
   "props": {
     "en": "shouwa era",

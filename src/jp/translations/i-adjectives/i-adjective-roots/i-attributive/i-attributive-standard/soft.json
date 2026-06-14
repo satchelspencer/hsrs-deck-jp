@@ -4,7 +4,8 @@
   "name": "soft",
   "order": "3",
   "parents": [
-    "i-attributive-standard"
+    "i-attributive-standard",
+    "u柔"
   ],
   "props": {
     "en": "soft",

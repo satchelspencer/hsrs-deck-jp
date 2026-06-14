@@ -3,7 +3,9 @@
   "name": "literature",
   "order": "3",
   "parents": [
-    "readables"
+    "readables",
+    "u文",
+    "u学"
   ],
   "props": {
     "en": "literature",

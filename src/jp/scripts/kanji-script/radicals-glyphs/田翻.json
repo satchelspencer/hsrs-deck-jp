@@ -1,0 +1,17 @@
+{
+  "_id": "4gc1w81zbtn",
+  "name": "田翻",
+  "order": "3.6.7.0.4",
+  "params": {
+    "_g": "翻",
+    "_r": "m田"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "5",
+    "jp": "田"
+  }
+}

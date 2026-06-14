@@ -1,0 +1,18 @@
+{
+  "_id": "kgjzvdaqo09",
+  "desc": "variant of 人",
+  "name": "亻誰",
+  "order": "1.9.8.6.4",
+  "params": {
+    "_g": "誰",
+    "_r": "m亻"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "2",
+    "jp": "亻"
+  }
+}

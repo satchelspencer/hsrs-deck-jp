@@ -1,0 +1,17 @@
+{
+  "_id": "38fxh5gr89z",
+  "name": "r卵",
+  "order": "2.9.8.6.7.1",
+  "params": {
+    "_g": "卵",
+    "_r": "m卵"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "7",
+    "jp": "卵"
+  }
+}

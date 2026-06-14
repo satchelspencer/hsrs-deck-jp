@@ -1,0 +1,18 @@
+{
+  "_id": "wsqig5h23qp",
+  "desc": "variant of 人",
+  "name": "亻住",
+  "order": "1.9.7.7.5",
+  "params": {
+    "_g": "住",
+    "_r": "m亻"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "2",
+    "jp": "亻"
+  }
+}

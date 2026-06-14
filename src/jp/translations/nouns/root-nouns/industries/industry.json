@@ -4,7 +4,9 @@
   "name": "industry",
   "order": "4",
   "parents": [
-    "industries"
+    "industries",
+    "u産",
+    "u業"
   ],
   "props": {
     "en": "industry",

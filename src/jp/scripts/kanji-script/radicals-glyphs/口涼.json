@@ -1,0 +1,17 @@
+{
+  "_id": "cq9wy89b5ds",
+  "name": "口涼",
+  "order": "2.5.6.2.4",
+  "params": {
+    "_g": "涼",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

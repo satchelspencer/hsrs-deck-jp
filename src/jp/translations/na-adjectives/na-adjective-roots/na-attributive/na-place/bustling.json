@@ -4,7 +4,8 @@
   "name": "bustling",
   "order": "1",
   "parents": [
-    "na-place"
+    "na-place",
+    "u賑"
   ],
   "props": {
     "en": "bustling",

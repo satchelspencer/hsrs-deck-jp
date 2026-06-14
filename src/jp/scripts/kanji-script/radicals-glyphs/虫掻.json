@@ -1,0 +1,18 @@
+{
+  "_id": "rafr8308yjm",
+  "name": "虫掻",
+  "order": "3.2.1.1.2",
+  "params": {
+    "_1": "中掻",
+    "_g": "掻",
+    "_r": "m虫"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "6",
+    "jp": "虫"
+  }
+}

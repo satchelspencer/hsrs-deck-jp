@@ -1,0 +1,17 @@
+{
+  "_id": "ut7x1woxkma",
+  "name": "寸等",
+  "order": "4.9.8.1.0",
+  "params": {
+    "_g": "等",
+    "_r": "m寸"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "10",
+    "_sl": "3",
+    "jp": "寸"
+  }
+}

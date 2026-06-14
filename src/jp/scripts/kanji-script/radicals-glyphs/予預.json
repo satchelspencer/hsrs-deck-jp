@@ -1,0 +1,17 @@
+{
+  "_id": "4f2zb989lwl",
+  "name": "予預",
+  "order": "4.9.8.5.3",
+  "params": {
+    "_g": "預",
+    "_r": "m予"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "予"
+  }
+}

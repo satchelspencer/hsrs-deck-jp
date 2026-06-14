@@ -1,0 +1,17 @@
+{
+  "_id": "5me87vvn6c6",
+  "name": "臣覧",
+  "order": "3.9.6.0.3",
+  "params": {
+    "_g": "覧",
+    "_r": "m臣"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "7",
+    "jp": "臣"
+  }
+}

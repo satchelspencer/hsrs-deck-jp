@@ -1,0 +1,17 @@
+{
+  "_id": "7l1wfzn5lfs",
+  "name": "八頷",
+  "order": "4.9.7.5.0",
+  "params": {
+    "_g": "頷",
+    "_r": "m八"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "15",
+    "_sl": "2",
+    "jp": "八"
+  }
+}

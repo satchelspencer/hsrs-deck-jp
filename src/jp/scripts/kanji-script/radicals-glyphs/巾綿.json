@@ -1,0 +1,17 @@
+{
+  "_id": "byu8jkjh653",
+  "name": "巾綿",
+  "order": "3.9.0.2.3",
+  "params": {
+    "_g": "綿",
+    "_r": "m巾"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "12",
+    "_sl": "3",
+    "jp": "巾"
+  }
+}

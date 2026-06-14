@@ -1,0 +1,17 @@
+{
+  "_id": "cd8xrln0sty",
+  "name": "寸持",
+  "order": "1.2.1.7.8",
+  "params": {
+    "_g": "持",
+    "_r": "m寸"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "3",
+    "jp": "寸"
+  }
+}

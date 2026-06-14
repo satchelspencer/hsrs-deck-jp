@@ -3,7 +3,8 @@
   "name": "rain",
   "order": "2",
   "parents": [
-    "falling-weather"
+    "falling-weather",
+    "u雨"
   ],
   "props": {
     "en": "rain",

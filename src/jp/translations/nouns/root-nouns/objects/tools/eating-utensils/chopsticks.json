@@ -4,7 +4,8 @@
   "order": "1",
   "parents": [
     "eating-utensils",
-    "snappers"
+    "snappers",
+    "u箸"
   ],
   "props": {
     "en": "chopsticks",

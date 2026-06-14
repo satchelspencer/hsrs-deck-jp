@@ -1,0 +1,18 @@
+{
+  "_id": "n7jcu0z1xvu",
+  "desc": "variant of 巳",
+  "name": "己起",
+  "order": "1.6.6.4.0",
+  "params": {
+    "_g": "起",
+    "_r": "m己"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "3",
+    "jp": "己"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "i4evoomdnbc",
+  "name": "毛尾",
+  "order": "3.9.5.0.5",
+  "params": {
+    "_g": "尾",
+    "_r": "m毛"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "4",
+    "jp": "毛"
+  }
+}

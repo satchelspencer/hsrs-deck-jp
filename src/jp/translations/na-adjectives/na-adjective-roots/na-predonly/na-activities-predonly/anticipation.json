@@ -5,7 +5,8 @@
   "order": "3",
   "parents": [
     "na-activities-predonly",
-    "na-people-do"
+    "na-people-do",
+    "u楽"
   ],
   "props": {
     "_at": "anticipated",

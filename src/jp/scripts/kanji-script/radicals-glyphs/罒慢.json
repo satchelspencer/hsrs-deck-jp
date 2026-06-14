@@ -1,0 +1,18 @@
+{
+  "_id": "3nyb9i0bcv9",
+  "desc": "variant of 网",
+  "name": "罒慢",
+  "order": "4.1.5.6.3",
+  "params": {
+    "_g": "慢",
+    "_r": "m罒"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "5",
+    "jp": "罒"
+  }
+}

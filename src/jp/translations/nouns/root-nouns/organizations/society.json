@@ -4,7 +4,9 @@
   "name": "society",
   "order": "3",
   "parents": [
-    "organizations"
+    "organizations",
+    "u社",
+    "u会"
   ],
   "props": {
     "_at": "societal",

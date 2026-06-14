@@ -1,0 +1,17 @@
+{
+  "_id": "17jxq3faw7w",
+  "name": "r北",
+  "order": "2.9.6.8.5.1",
+  "params": {
+    "_g": "北",
+    "_r": "m北"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "北"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "_id": "ksjk1sqqamx",
+  "desc": "variant of 心",
+  "name": "忄悩",
+  "order": "4.5.2.3.8",
+  "params": {
+    "_g": "悩",
+    "_r": "m忄"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "忄"
+  }
+}

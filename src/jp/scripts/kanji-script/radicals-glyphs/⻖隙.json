@@ -1,0 +1,18 @@
+{
+  "_id": "i07cy1qvh3y",
+  "desc": "variant of 阜",
+  "name": "⻖隙",
+  "order": "4.9.1.3.0",
+  "params": {
+    "_g": "隙",
+    "_r": "m⻖"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "⻖"
+  }
+}

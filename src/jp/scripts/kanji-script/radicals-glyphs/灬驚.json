@@ -1,0 +1,18 @@
+{
+  "_id": "kh7cb74th87",
+  "desc": "variant of 火",
+  "name": "灬驚",
+  "order": "3.2.1.0.0",
+  "params": {
+    "_g": "驚",
+    "_r": "m灬"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "19",
+    "_sl": "4",
+    "jp": "灬"
+  }
+}

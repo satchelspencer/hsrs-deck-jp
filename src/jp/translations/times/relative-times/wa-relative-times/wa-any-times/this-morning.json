@@ -3,7 +3,9 @@
   "name": "this-morning",
   "order": "1",
   "parents": [
-    "wa-any-times"
+    "wa-any-times",
+    "u今",
+    "u朝"
   ],
   "props": {
     "en": "this morning",

@@ -4,7 +4,8 @@
   "name": "nook",
   "order": "3",
   "parents": [
-    "positional-words"
+    "positional-words",
+    "u隅"
   ],
   "props": {
     "en": "nook",

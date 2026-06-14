@@ -1,0 +1,17 @@
+{
+  "_id": "okkpacukmug",
+  "name": "耳趣",
+  "order": "3.6.9.4.2",
+  "params": {
+    "_g": "趣",
+    "_r": "m耳"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "6",
+    "jp": "耳"
+  }
+}

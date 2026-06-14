@@ -1,0 +1,17 @@
+{
+  "_id": "dh2rm78t4zq",
+  "name": "女婚",
+  "order": "2.9.0.0.1",
+  "params": {
+    "_g": "婚",
+    "_r": "m女"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "女"
+  }
+}

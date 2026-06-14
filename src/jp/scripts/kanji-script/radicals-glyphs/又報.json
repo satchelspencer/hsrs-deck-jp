@@ -1,0 +1,17 @@
+{
+  "_id": "7q9hozxjpqx",
+  "name": "又報",
+  "order": "3.9.7.1.6",
+  "params": {
+    "_g": "報",
+    "_r": "m又"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "11",
+    "_sl": "2",
+    "jp": "又"
+  }
+}

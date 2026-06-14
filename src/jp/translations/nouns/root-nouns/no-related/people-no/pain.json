@@ -3,7 +3,8 @@
   "name": "pain",
   "order": "4",
   "parents": [
-    "people-no"
+    "people-no",
+    "u痛"
   ],
   "props": {
     "en": "pain",

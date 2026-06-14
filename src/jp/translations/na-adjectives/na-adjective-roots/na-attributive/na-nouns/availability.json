@@ -3,7 +3,8 @@
   "name": "availability",
   "order": "2",
   "parents": [
-    "na-nouns"
+    "na-nouns",
+    "u暇"
   ],
   "props": {
     "_ad": "",

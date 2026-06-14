@@ -1,0 +1,17 @@
+{
+  "_id": "wdxjiioel9i",
+  "name": "目眼",
+  "order": "2.9.8.8.5",
+  "params": {
+    "_g": "眼",
+    "_r": "m目"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "目"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "pzwtir918m5",
+  "name": "雨漏",
+  "order": "4.9.1.7.2",
+  "params": {
+    "_g": "漏",
+    "_r": "m雨"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "8",
+    "jp": "雨"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "uycpq920pkt",
+  "name": "七嘘",
+  "order": "3.9.2.0.2",
+  "params": {
+    "_g": "嘘",
+    "_r": "m七"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "2",
+    "jp": "七"
+  }
+}

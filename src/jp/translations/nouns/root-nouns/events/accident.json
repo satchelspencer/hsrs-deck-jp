@@ -4,7 +4,9 @@
   "name": "accident",
   "order": "2",
   "parents": [
-    "events"
+    "events",
+    "u事",
+    "u故"
   ],
   "props": {
     "en": "accident",

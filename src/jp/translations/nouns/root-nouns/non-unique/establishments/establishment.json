@@ -5,7 +5,9 @@
   "order": "4",
   "parents": [
     "establishments",
-    "categories"
+    "categories",
+    "u施",
+    "u設"
   ],
   "props": {
     "en": "establishment",

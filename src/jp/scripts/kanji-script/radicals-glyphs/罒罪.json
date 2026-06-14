@@ -1,0 +1,18 @@
+{
+  "_id": "gvb3ybs6ope",
+  "desc": "variant of 网",
+  "name": "罒罪",
+  "order": "3.9.2.7.7",
+  "params": {
+    "_g": "罪",
+    "_r": "m罒"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "罒"
+  }
+}

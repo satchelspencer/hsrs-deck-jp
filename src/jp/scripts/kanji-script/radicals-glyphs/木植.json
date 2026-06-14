@@ -1,0 +1,17 @@
+{
+  "_id": "a570ocgi1x4",
+  "name": "木植",
+  "order": "3.9.1.3.6",
+  "params": {
+    "_g": "植",
+    "_r": "m木"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "木"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "_id": "ekisos2vbgi",
+  "name": "射謝",
+  "order": "3.6.4.0.9",
+  "params": {
+    "_1": "身謝",
+    "_2": "寸謝",
+    "_g": "謝",
+    "_r": "m射"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "10",
+    "jp": "射"
+  }
+}

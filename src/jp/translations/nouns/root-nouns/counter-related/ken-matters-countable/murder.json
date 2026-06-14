@@ -4,7 +4,9 @@
   "name": "murder",
   "order": "3",
   "parents": [
-    "ken-matters-countable"
+    "ken-matters-countable",
+    "u殺",
+    "u人"
   ],
   "props": {
     "en": "murder",

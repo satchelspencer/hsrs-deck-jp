@@ -1,0 +1,17 @@
+{
+  "_id": "lecdix1azoz",
+  "name": "八貿",
+  "order": "3.9.8.4.2",
+  "params": {
+    "_g": "貿",
+    "_r": "m八"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "11",
+    "_sl": "2",
+    "jp": "八"
+  }
+}

@@ -4,7 +4,9 @@
   "name": "in-the-center",
   "order": "3",
   "parents": [
-    "positional-words"
+    "positional-words",
+    "u真",
+    "u中"
   ],
   "props": {
     "en": "in the center",

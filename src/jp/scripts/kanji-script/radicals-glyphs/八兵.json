@@ -1,0 +1,17 @@
+{
+  "_id": "ybhcmw4hmhn",
+  "name": "八兵",
+  "order": "4.9.6.6.1",
+  "params": {
+    "_g": "兵",
+    "_r": "m八"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "2",
+    "jp": "八"
+  }
+}

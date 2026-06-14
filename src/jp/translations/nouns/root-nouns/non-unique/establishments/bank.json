@@ -4,7 +4,9 @@
   "order": "2",
   "parents": [
     "establishments",
-    "organizations"
+    "organizations",
+    "u銀",
+    "u行"
   ],
   "props": {
     "en": "bank",

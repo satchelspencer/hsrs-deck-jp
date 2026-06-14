@@ -1,0 +1,17 @@
+{
+  "_id": "qbdc3yebl2k",
+  "name": "r天",
+  "order": "1.5.0.5.7.1",
+  "params": {
+    "_g": "天",
+    "_r": "m天"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "天"
+  }
+}

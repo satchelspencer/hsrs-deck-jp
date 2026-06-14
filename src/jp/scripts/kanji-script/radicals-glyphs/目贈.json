@@ -1,0 +1,17 @@
+{
+  "_id": "xl2ytqjah02",
+  "name": "目贈",
+  "order": "3.9.1.1.2",
+  "params": {
+    "_g": "贈",
+    "_r": "m目"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "目"
+  }
+}

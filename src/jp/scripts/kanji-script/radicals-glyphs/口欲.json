@@ -1,0 +1,17 @@
+{
+  "_id": "zroguwtbo3v",
+  "name": "口欲",
+  "order": "1.5.7.7.3",
+  "params": {
+    "_g": "欲",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

@@ -3,7 +3,8 @@
   "name": "bitter",
   "order": "3",
   "parents": [
-    "i-foods"
+    "i-foods",
+    "u苦"
   ],
   "props": {
     "en": "bitter",

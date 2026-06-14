@@ -1,0 +1,17 @@
+{
+  "_id": "1tjzje3f9yv",
+  "name": "主注",
+  "order": "2.6.1.2.1",
+  "params": {
+    "_g": "注",
+    "_r": "m主"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "5",
+    "jp": "主"
+  }
+}

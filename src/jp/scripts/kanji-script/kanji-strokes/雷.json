@@ -1,0 +1,15 @@
+{
+  "_id": "5qup9xxd30o",
+  "name": "雷",
+  "order": "4.9.3.5.3",
+  "params": {
+    "_wd": "u雷"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "雷",
+    "_st": "DQRNHQ9jAwAFAQgAYwiBF4Mig2MCAAUABwACTREeYwAGggyEEgNNEh9DKB1HGlgaYwkABAQACARNNRBjAQEBAgEDYwAAABEAG2MAAwAGAAYCTSElYwMBBwMJBQJNHy9jAwEIBAoGAk1EImMFAQgECQUCTUMtYwQBCAQKBgRNGUBjAQEBAwEEYwEIAhEDGmMAAgADAAUFTRxBYw6BJYMzhGMFAAUCBAVjgQaCD4QWYwACgQOBBQNNNEJjAQEBAgEEYwAIABMAFwJNHk9jDIEpgzODAk0fXmMKgR6CLoI"
+  }
+}

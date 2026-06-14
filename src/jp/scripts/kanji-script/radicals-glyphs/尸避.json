@@ -1,0 +1,17 @@
+{
+  "_id": "9764gfyaerw",
+  "name": "尸避",
+  "order": "4.9.6.5.9",
+  "params": {
+    "_g": "避",
+    "_r": "m尸"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "尸"
+  }
+}

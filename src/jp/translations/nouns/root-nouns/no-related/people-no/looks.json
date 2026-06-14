@@ -4,7 +4,9 @@
   "name": "looks",
   "order": "3",
   "parents": [
-    "people-no"
+    "people-no",
+    "u格",
+    "u好"
   ],
   "props": {
     "en": "looks",

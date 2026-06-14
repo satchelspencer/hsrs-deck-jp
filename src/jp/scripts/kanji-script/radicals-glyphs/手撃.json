@@ -1,0 +1,17 @@
+{
+  "_id": "crof2gtja5l",
+  "name": "手撃",
+  "order": "4.1.0.3.5",
+  "params": {
+    "_g": "撃",
+    "_r": "m手"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "12",
+    "_sl": "4",
+    "jp": "手"
+  }
+}

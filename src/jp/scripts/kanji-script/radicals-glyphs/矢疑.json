@@ -1,0 +1,17 @@
+{
+  "_id": "8br86es9csn",
+  "name": "矢疑",
+  "order": "4.9.4.3.4",
+  "params": {
+    "_g": "疑",
+    "_r": "m矢"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "3",
+    "_sl": "5",
+    "jp": "矢"
+  }
+}

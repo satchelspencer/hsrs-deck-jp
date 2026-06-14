@@ -5,7 +5,8 @@
   "name": "a-moment-ago",
   "order": "4",
   "parents": [
-    "verb-clause-adverbs"
+    "verb-clause-adverbs",
+    "u先"
   ],
   "props": {
     "en": "a moment ago",

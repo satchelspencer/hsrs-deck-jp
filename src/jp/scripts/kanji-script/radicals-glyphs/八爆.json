@@ -1,0 +1,17 @@
+{
+  "_id": "mhv7tsdhlhu",
+  "name": "八爆",
+  "order": "4.6.5.9.2",
+  "params": {
+    "_g": "爆",
+    "_r": "m八"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "13",
+    "_sl": "2",
+    "jp": "八"
+  }
+}

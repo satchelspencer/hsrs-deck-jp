@@ -1,0 +1,17 @@
+{
+  "_id": "eua7g5vl340",
+  "name": "口違",
+  "order": "1.4.0.2.8",
+  "params": {
+    "_g": "違",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

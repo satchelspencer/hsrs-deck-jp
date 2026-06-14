@@ -1,0 +1,18 @@
+{
+  "_id": "lajlmp9hasd",
+  "desc": "variant of 辶",
+  "name": "⻌避",
+  "order": "4.9.6.5.9",
+  "params": {
+    "_g": "避",
+    "_r": "m⻌"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "14",
+    "_sl": "3",
+    "jp": "⻌"
+  }
+}

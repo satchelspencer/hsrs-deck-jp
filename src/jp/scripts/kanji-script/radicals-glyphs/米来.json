@@ -1,0 +1,17 @@
+{
+  "_id": "uyn3cvn23ey",
+  "name": "米来",
+  "order": "1.1.5.0.8",
+  "params": {
+    "_g": "来",
+    "_r": "m米"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "2",
+    "_sl": "6",
+    "jp": "米"
+  }
+}

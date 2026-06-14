@@ -3,7 +3,8 @@
   "name": "he",
   "order": "1",
   "parents": [
-    "third-person-pronouns-singular"
+    "third-person-pronouns-singular",
+    "u彼"
   ],
   "props": {
     "en": "he",

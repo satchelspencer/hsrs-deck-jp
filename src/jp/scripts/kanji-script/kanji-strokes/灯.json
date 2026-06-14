@@ -1,0 +1,15 @@
+{
+  "_id": "7pgsunaxzfg",
+  "name": "灯",
+  "order": "4.9.0.2.0",
+  "params": {
+    "_wd": "u灯"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "灯",
+    "_st": "BgJNDCdjAgMEDAQQA00uHWMAAQACgQNjgQGJCY0LA00dEGMBAQECAQNDHkMbTQtdAk0fQGMFAwwLDQ8ETTUaYwIBBQEHAGMJgReDIINjAwAFAAYBBE1OHGMBAQIDAgVjABAAMwA5YwAJhgOKAA"
+  }
+}

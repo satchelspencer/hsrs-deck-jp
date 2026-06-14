@@ -3,7 +3,10 @@
   "name": "refrigerator",
   "order": "2",
   "parents": [
-    "appliances"
+    "appliances",
+    "u冷",
+    "u蔵",
+    "u庫"
   ],
   "props": {
     "en": "refrigerator",

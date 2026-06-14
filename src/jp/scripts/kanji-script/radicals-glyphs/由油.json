@@ -1,0 +1,17 @@
+{
+  "_id": "4l28t4ycs3i",
+  "name": "由油",
+  "order": "1.9.4.0.0",
+  "params": {
+    "_g": "油",
+    "_r": "m由"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "5",
+    "jp": "由"
+  }
+}

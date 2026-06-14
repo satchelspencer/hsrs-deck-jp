@@ -1,0 +1,17 @@
+{
+  "_id": "h8wfpvje5q7",
+  "name": "雨震",
+  "order": "3.6.6.5.0",
+  "params": {
+    "_g": "震",
+    "_r": "m雨"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "8",
+    "jp": "雨"
+  }
+}

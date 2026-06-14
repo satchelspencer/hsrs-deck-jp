@@ -1,0 +1,17 @@
+{
+  "_id": "bta0vnxw3pt",
+  "name": "r方",
+  "order": "2.4.4.8.6.1",
+  "params": {
+    "_g": "方",
+    "_r": "m方"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "方"
+  }
+}

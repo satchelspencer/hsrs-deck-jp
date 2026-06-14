@@ -4,7 +4,8 @@
   "name": "width",
   "order": "2",
   "parents": [
-    "attributes"
+    "attributes",
+    "u横"
   ],
   "props": {
     "en": "width",

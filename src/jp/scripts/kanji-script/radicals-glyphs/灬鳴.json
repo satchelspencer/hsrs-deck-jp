@@ -1,0 +1,18 @@
+{
+  "_id": "1umbtk678bw",
+  "desc": "variant of 火",
+  "name": "灬鳴",
+  "order": "3.5.3.7.4",
+  "params": {
+    "_g": "鳴",
+    "_r": "m灬"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "11",
+    "_sl": "4",
+    "jp": "灬"
+  }
+}

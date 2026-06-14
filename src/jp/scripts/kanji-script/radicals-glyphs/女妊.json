@@ -1,0 +1,17 @@
+{
+  "_id": "s1apo4tx3sg",
+  "name": "女妊",
+  "order": "4.1.9.4.6",
+  "params": {
+    "_g": "妊",
+    "_r": "m女"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "女"
+  }
+}

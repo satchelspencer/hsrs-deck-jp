@@ -1,0 +1,17 @@
+{
+  "_id": "4jxselgnuih",
+  "name": "口過",
+  "order": "3.9.2.4.8",
+  "params": {
+    "_g": "過",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

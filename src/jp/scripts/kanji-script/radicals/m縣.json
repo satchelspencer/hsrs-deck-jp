@@ -1,0 +1,10 @@
+{
+  "_id": "btjgub3bniq",
+  "name": "m縣",
+  "parents": [
+    "radicals"
+  ],
+  "props": {
+    "_m": "county, district, subdivision"
+  }
+}

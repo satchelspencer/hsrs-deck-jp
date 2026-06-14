@@ -1,0 +1,10 @@
+{
+  "_id": "fveawq0hk0y",
+  "name": "m報",
+  "parents": [
+    "radicals"
+  ],
+  "props": {
+    "_m": "report, news, reward"
+  }
+}

@@ -4,7 +4,8 @@
   "name": "rapport",
   "order": "4",
   "parents": [
-    "abstracts"
+    "abstracts",
+    "u仲"
   ],
   "props": {
     "en": "rapport",

@@ -3,7 +3,8 @@
   "name": "day-of-the-month",
   "order": "1",
   "parents": [
-    "counter-roots-irregular"
+    "counter-roots-irregular",
+    "u日"
   ],
   "props": {
     "_ec": "day of the month",

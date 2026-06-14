@@ -5,7 +5,9 @@
   "order": "3",
   "parents": [
     "appliances",
-    "categories"
+    "categories",
+    "u家",
+    "u電"
   ],
   "props": {
     "en": "appliance",

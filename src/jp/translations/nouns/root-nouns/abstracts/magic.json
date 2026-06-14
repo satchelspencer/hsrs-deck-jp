@@ -4,7 +4,9 @@
   "name": "magic",
   "order": "4",
   "parents": [
-    "abstracts"
+    "abstracts",
+    "u魔",
+    "u法"
   ],
   "props": {
     "en": "magic",

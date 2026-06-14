@@ -1,0 +1,17 @@
+{
+  "_id": "1wahvrupmym",
+  "name": "小余",
+  "order": "1.9.1.3.5",
+  "params": {
+    "_g": "余",
+    "_r": "m小"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "3",
+    "jp": "小"
+  }
+}

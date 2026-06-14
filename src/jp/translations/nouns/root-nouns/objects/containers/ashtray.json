@@ -3,7 +3,9 @@
   "name": "ashtray",
   "order": "3",
   "parents": [
-    "containers"
+    "containers",
+    "u灰",
+    "u皿"
   ],
   "props": {
     "en": "ashtray",

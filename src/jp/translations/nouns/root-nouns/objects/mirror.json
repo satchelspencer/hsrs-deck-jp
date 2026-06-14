@@ -6,7 +6,8 @@
     "objects",
     "polishables",
     "shiners",
-    "wago-countable"
+    "wago-countable",
+    "u鏡"
   ],
   "props": {
     "en": "mirror",

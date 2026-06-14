@@ -1,0 +1,17 @@
+{
+  "_id": "xmaic7gscgm",
+  "name": "冂敵",
+  "order": "4.4.5.2.7",
+  "params": {
+    "_g": "敵",
+    "_r": "m冂"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "2",
+    "jp": "冂"
+  }
+}

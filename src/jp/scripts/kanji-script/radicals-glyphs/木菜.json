@@ -1,0 +1,17 @@
+{
+  "_id": "fc0ttw7z2y3",
+  "name": "木菜",
+  "order": "2.9.8.4.6",
+  "params": {
+    "_g": "菜",
+    "_r": "m木"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "4",
+    "jp": "木"
+  }
+}

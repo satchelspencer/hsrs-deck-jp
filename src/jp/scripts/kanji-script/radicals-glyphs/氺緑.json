@@ -1,0 +1,18 @@
+{
+  "_id": "hplkbi2st3f",
+  "desc": "variant of 水",
+  "name": "氺緑",
+  "order": "3.9.6.1.8",
+  "params": {
+    "_g": "緑",
+    "_r": "m氺"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "10",
+    "_sl": "5",
+    "jp": "氺"
+  }
+}

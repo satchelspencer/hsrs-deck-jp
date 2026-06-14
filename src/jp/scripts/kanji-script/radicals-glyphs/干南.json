@@ -1,0 +1,17 @@
+{
+  "_id": "94smncdstle",
+  "name": "干南",
+  "order": "2.9.3.8.0",
+  "params": {
+    "_g": "南",
+    "_r": "m干"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "3",
+    "jp": "干"
+  }
+}

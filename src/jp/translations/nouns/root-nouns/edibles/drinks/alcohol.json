@@ -3,7 +3,8 @@
   "name": "alcohol",
   "order": "2",
   "parents": [
-    "drinks"
+    "drinks",
+    "u酒"
   ],
   "props": {
     "en": "alcohol",

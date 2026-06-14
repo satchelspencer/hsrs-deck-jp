@@ -1,0 +1,18 @@
+{
+  "_id": "58toev394ki",
+  "desc": "variant of 辶",
+  "name": "⻌迷",
+  "order": "4.9.3.8.3",
+  "params": {
+    "_g": "迷",
+    "_r": "m⻌"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "3",
+    "jp": "⻌"
+  }
+}

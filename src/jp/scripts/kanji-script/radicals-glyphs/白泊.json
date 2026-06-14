@@ -1,0 +1,17 @@
+{
+  "_id": "gab57n1c3zu",
+  "name": "白泊",
+  "order": "2.9.6.3.5",
+  "params": {
+    "_g": "泊",
+    "_r": "m白"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "5",
+    "jp": "白"
+  }
+}

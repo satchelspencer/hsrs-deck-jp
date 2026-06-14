@@ -1,0 +1,17 @@
+{
+  "_id": "1kw414ns6ei",
+  "name": "r名",
+  "order": "1.2.0.1.4.1",
+  "params": {
+    "_g": "名",
+    "_r": "m名"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "名"
+  }
+}

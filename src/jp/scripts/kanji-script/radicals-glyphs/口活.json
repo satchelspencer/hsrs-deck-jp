@@ -1,0 +1,17 @@
+{
+  "_id": "zaeds9ud48b",
+  "name": "口活",
+  "order": "2.3.6.1.1",
+  "params": {
+    "_g": "活",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

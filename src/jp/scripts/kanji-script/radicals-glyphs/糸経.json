@@ -1,0 +1,17 @@
+{
+  "_id": "vqg60zafdfg",
+  "name": "糸経",
+  "order": "3.2.1.8.8",
+  "params": {
+    "_g": "経",
+    "_r": "m糸"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "糸"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "x5l6p9ryaxa",
+  "name": "口課",
+  "order": "4.9.4.8.9",
+  "params": {
+    "_g": "課",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

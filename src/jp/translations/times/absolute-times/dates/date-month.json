@@ -7,7 +7,8 @@
   },
   "parents": [
     "dates",
-    "ni-any-times"
+    "ni-any-times",
+    "u月"
   ],
   "props": {
     "en": "month.en",

@@ -1,0 +1,15 @@
+{
+  "_id": "vch10smluiy",
+  "name": "掻",
+  "order": "3.2.1.1.2",
+  "params": {
+    "_wd": "u掻"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "掻",
+    "_st": "CwRNDyZjAgAEAAYAYwWBCoIRgmMBAAIABAAETR0OYwEBAgMCBWMADwA_AERjAA6GBIgCA00OQmMBAQMBBABDE0AfNyYyBU0xE2MCAAQABgBjBoERgxWEYwOBBAECBENGIzwsLDUDTTEbYwUAEwwgE2MEAgcECwUETTA8YwEBAQIBAmMBAwEGAgpjAAEBAwEFBE0yPWMKgRmDIINjAwAFAQQEY4EDgQWDCgNNNUtjBYERghqDYwIABAAFAANNQjBjAQEBAgEEYwAGABsAJANNLltjAgIDAgQBYwuCGIUjhwJNUE9jBAMKCwsP"
+  }
+}

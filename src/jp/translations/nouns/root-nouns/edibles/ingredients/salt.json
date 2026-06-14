@@ -3,7 +3,8 @@
   "name": "salt",
   "order": "1",
   "parents": [
-    "ingredients"
+    "ingredients",
+    "u塩"
   ],
   "props": {
     "en": "salt",

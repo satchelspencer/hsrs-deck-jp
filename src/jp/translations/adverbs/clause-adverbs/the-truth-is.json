@@ -4,7 +4,8 @@
   "name": "the-truth-is",
   "order": "4",
   "parents": [
-    "clause-adverbs"
+    "clause-adverbs",
+    "u実"
   ],
   "props": {
     "en": "the truth is",

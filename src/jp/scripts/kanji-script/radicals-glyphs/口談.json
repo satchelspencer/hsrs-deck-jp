@@ -1,0 +1,17 @@
+{
+  "_id": "ivp6nf24ksq",
+  "name": "口談",
+  "order": "4.1.9.4.9",
+  "params": {
+    "_g": "談",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

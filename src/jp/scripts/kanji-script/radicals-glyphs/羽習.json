@@ -1,0 +1,17 @@
+{
+  "_id": "chgevaz1bhv",
+  "name": "羽習",
+  "order": "2.2.8.0.7",
+  "params": {
+    "_g": "習",
+    "_r": "m羽"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "羽"
+  }
+}

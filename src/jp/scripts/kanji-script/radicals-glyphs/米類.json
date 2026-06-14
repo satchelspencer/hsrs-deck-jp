@@ -1,0 +1,17 @@
+{
+  "_id": "ljql0asbros",
+  "name": "米類",
+  "order": "3.3.0.3.8",
+  "params": {
+    "_g": "類",
+    "_r": "m米"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "米"
+  }
+}

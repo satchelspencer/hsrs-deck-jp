@@ -1,0 +1,15 @@
+{
+  "_id": "721yxcykbd6",
+  "name": "巡",
+  "order": "2.9.6.0.3",
+  "params": {
+    "_wd": "u巡"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "巡",
+    "_st": "BgZNMRNjAQEBAwAEY4MHhQ6KF2OBAoECAAJjBgYKCwwRYwECAgUCBwZNQhRjAQEBAwAEY4IIhQ6JF2MAAQACAAJjBQUJCgwRYwECAgUDCAZNVRRjAQEBAwAEY4IHhg2KFWOBAQACAAJjBQUJCQwPYwEDAgYDCQJNEhFjBAIKBwsKB00KMmMCAQQABQBjA4EJgwuEcwMBAgJjiA-ICgETYwEBAQMABHOKCI0KBE0LUWMDAAmBDoFjCQAgBiQHQ0taU1tcWw"
+  }
+}

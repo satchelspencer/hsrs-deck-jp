@@ -5,7 +5,9 @@
   "name": "out-of-the-blue",
   "order": "4",
   "parents": [
-    "any-verb-adverbs"
+    "any-verb-adverbs",
+    "u不",
+    "u意"
   ],
   "props": {
     "en": "out of the blue",

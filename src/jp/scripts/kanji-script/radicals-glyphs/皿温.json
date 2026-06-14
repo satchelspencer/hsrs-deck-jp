@@ -1,0 +1,17 @@
+{
+  "_id": "fh8ah2abfn4",
+  "name": "皿温",
+  "order": "2.5.4.7.1",
+  "params": {
+    "_g": "温",
+    "_r": "m皿"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "5",
+    "jp": "皿"
+  }
+}

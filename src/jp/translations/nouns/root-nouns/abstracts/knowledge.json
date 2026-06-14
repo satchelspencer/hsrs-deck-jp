@@ -4,7 +4,9 @@
   "name": "knowledge",
   "order": "4",
   "parents": [
-    "abstracts"
+    "abstracts",
+    "u知",
+    "u識"
   ],
   "props": {
     "en": "knowledge",

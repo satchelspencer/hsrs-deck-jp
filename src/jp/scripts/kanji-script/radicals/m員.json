@@ -1,0 +1,10 @@
+{
+  "_id": "jg8blwxqecr",
+  "name": "m員",
+  "parents": [
+    "radicals"
+  ],
+  "props": {
+    "_m": "employee, member, number"
+  }
+}

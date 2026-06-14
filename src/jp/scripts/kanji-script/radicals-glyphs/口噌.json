@@ -1,0 +1,17 @@
+{
+  "_id": "ovb48o3prn9",
+  "name": "口噌",
+  "order": "3.9.2.9.9",
+  "params": {
+    "_g": "噌",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

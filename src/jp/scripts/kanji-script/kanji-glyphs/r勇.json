@@ -1,0 +1,18 @@
+{
+  "_id": "gwoczq0kvhv",
+  "name": "r勇",
+  "order": "4.9.5.5.6.1",
+  "params": {
+    "_1": "男勇",
+    "_g": "勇",
+    "_r": "m勇"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "9",
+    "jp": "勇"
+  }
+}

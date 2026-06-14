@@ -4,7 +4,9 @@
   "order": "2",
   "parents": [
     "foods",
-    "raws"
+    "raws",
+    "u野",
+    "u菜"
   ],
   "props": {
     "en": "vegetable",

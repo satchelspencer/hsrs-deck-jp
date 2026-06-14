@@ -1,0 +1,17 @@
+{
+  "_id": "ycp8gyqht3u",
+  "name": "品繰",
+  "order": "4.6.8.2.2",
+  "params": {
+    "_g": "繰",
+    "_r": "m品"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "9",
+    "jp": "品"
+  }
+}

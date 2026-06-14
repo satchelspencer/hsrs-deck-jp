@@ -1,0 +1,17 @@
+{
+  "_id": "ina1zgagsei",
+  "name": "八頼",
+  "order": "2.3.5.0.2",
+  "params": {
+    "_g": "頼",
+    "_r": "m八"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "15",
+    "_sl": "2",
+    "jp": "八"
+  }
+}

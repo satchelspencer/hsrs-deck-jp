@@ -1,0 +1,17 @@
+{
+  "_id": "bfck0ijawtd",
+  "name": "口証",
+  "order": "4.2.6.6.1",
+  "params": {
+    "_g": "証",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

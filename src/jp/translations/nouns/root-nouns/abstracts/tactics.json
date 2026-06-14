@@ -4,7 +4,9 @@
   "name": "tactics",
   "order": "4",
   "parents": [
-    "abstracts"
+    "abstracts",
+    "u作",
+    "u戦"
   ],
   "props": {
     "en": "tactics",

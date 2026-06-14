@@ -4,7 +4,8 @@
   "name": "military",
   "order": "4",
   "parents": [
-    "organizations"
+    "organizations",
+    "u軍"
   ],
   "props": {
     "en": "military",

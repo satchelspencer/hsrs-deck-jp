@@ -1,0 +1,18 @@
+{
+  "_id": "9raodo1lda0",
+  "name": "首道",
+  "order": "1.9.7.8.0",
+  "params": {
+    "_1": "自道",
+    "_g": "道",
+    "_r": "m首"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "9",
+    "jp": "首"
+  }
+}

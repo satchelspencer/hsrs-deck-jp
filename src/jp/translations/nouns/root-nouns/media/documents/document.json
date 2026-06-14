@@ -5,7 +5,9 @@
   "order": "4",
   "parents": [
     "documents",
-    "categories"
+    "categories",
+    "u文",
+    "u書"
   ],
   "props": {
     "en": "document",

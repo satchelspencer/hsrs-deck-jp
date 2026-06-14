@@ -1,0 +1,17 @@
+{
+  "_id": "a4zx996r20n",
+  "name": "r叩",
+  "order": "4.5.1.1.1.1",
+  "params": {
+    "_g": "叩",
+    "_r": "m叩"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "叩"
+  }
+}

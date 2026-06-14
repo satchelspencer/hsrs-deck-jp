@@ -4,7 +4,9 @@
   "order": "2",
   "parents": [
     "furniture",
-    "categories"
+    "categories",
+    "u家",
+    "u具"
   ],
   "props": {
     "en": "furniture",

@@ -4,7 +4,8 @@
   "name": "how-come-casual",
   "order": "2",
   "parents": [
-    "adverb-question-words"
+    "adverb-question-words",
+    "u何"
   ],
   "props": {
     "en": "how come",

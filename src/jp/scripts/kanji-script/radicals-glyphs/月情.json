@@ -1,0 +1,18 @@
+{
+  "_id": "pec6b71hd87",
+  "desc": "variant of 肉",
+  "name": "月情",
+  "order": "4.2.8.3.1",
+  "params": {
+    "_g": "情",
+    "_r": "m月"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "4",
+    "jp": "月"
+  }
+}

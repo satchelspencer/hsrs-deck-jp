@@ -1,0 +1,17 @@
+{
+  "_id": "ilrk37n8ys5",
+  "name": "石確",
+  "order": "2.4.8.4.3",
+  "params": {
+    "_g": "確",
+    "_r": "m石"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "石"
+  }
+}

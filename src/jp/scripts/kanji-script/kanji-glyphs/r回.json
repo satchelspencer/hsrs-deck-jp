@@ -1,0 +1,17 @@
+{
+  "_id": "tpua40h5qup",
+  "name": "r回",
+  "order": "1.9.2.1.4.1",
+  "params": {
+    "_g": "回",
+    "_r": "m回"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "回"
+  }
+}

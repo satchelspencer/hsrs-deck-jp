@@ -3,7 +3,10 @@
   "name": "day-before-yesterday",
   "order": "2",
   "parents": [
-    "wa-past-only-times"
+    "wa-past-only-times",
+    "u一",
+    "u昨",
+    "u日"
   ],
   "props": {
     "en": "day before yesterday",

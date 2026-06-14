@@ -1,0 +1,10 @@
+{
+  "_id": "6g56ahr5hi0",
+  "name": "m弾",
+  "parents": [
+    "radicals"
+  ],
+  "props": {
+    "_m": "bullet, twang, flip, snap"
+  }
+}

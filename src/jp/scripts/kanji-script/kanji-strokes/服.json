@@ -1,0 +1,15 @@
+{
+  "_id": "5nd4wcql5wg",
+  "name": "服",
+  "order": "1.6.8.1.2",
+  "params": {
+    "_wd": "u服"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "服",
+    "_st": "CANNFBRjAQEBAgEDYwAqgjeJRQVNFxVjAgAMgw6DYwIABAEEBGMAAQAoAD1jAAyGBokDAk0XKEMcJyMmJyYCTRY5Qxs5ITgnNwZNMRFjAQACAQUBQz8RTA9OD2MDAAcABgVjggWDCYUNY4QIiASKAQRNNBJjAQEBAgEDYwADAC4AQWMABAAHAAgFTTgyYwIBBAEGAGMCABGFEoVjA4EEAQQDQ1BBRlE9WgNNOztjAwEQEhscYwICBAQIBg"
+  }
+}

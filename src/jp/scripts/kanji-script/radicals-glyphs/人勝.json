@@ -1,0 +1,17 @@
+{
+  "_id": "1ls973vjoki",
+  "name": "人勝",
+  "order": "3.1.9.3.6",
+  "params": {
+    "_g": "勝",
+    "_r": "m人"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "9",
+    "_sl": "2",
+    "jp": "人"
+  }
+}

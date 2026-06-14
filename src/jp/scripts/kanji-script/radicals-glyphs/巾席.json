@@ -1,0 +1,17 @@
+{
+  "_id": "8p6ezxswbmc",
+  "name": "巾席",
+  "order": "3.4.3.5.1",
+  "params": {
+    "_g": "席",
+    "_r": "m巾"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "3",
+    "jp": "巾"
+  }
+}

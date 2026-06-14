@@ -4,7 +4,8 @@
   "name": "shake",
   "order": "3",
   "parents": [
-    "ichidan"
+    "ichidan",
+    "u揺"
   ],
   "props": {
     "en": "shake",

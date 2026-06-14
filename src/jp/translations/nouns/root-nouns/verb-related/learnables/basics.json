@@ -4,7 +4,9 @@
   "name": "basics",
   "order": "2",
   "parents": [
-    "learnables"
+    "learnables",
+    "u基",
+    "u本"
   ],
   "props": {
     "_at": "basic",

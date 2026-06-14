@@ -1,0 +1,17 @@
+{
+  "_id": "b1ukocdr0er",
+  "name": "八旗",
+  "order": "3.9.1.0.2",
+  "params": {
+    "_g": "旗",
+    "_r": "m八"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "13",
+    "_sl": "2",
+    "jp": "八"
+  }
+}

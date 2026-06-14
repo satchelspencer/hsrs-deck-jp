@@ -4,7 +4,9 @@
   "name": "selection",
   "order": "4",
   "parents": [
-    "suru-nouns"
+    "suru-nouns",
+    "u選",
+    "u択"
   ],
   "props": {
     "_v": "select it",

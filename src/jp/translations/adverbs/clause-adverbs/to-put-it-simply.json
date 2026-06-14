@@ -4,7 +4,8 @@
   "name": "to-put-it-simply",
   "order": "4",
   "parents": [
-    "clause-adverbs"
+    "clause-adverbs",
+    "u要"
   ],
   "props": {
     "en": "to put it simply",

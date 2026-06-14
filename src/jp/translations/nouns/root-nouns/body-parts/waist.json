@@ -4,7 +4,8 @@
   "name": "waist",
   "order": "4",
   "parents": [
-    "body-parts"
+    "body-parts",
+    "u腰"
   ],
   "props": {
     "en": "waist",

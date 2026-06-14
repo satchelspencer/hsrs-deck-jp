@@ -4,7 +4,8 @@
   "name": "thin-weak",
   "order": "3",
   "parents": [
-    "i-attributive-standard"
+    "i-attributive-standard",
+    "u薄"
   ],
   "props": {
     "en": "thin",

@@ -1,0 +1,18 @@
+{
+  "_id": "1ui09acv8nq",
+  "name": "戠職",
+  "order": "3.9.0.4.3",
+  "params": {
+    "_1": "音職",
+    "_g": "職",
+    "_r": "m戠"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "12",
+    "jp": "戠"
+  }
+}

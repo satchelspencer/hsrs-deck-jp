@@ -5,7 +5,9 @@
   "order": "3",
   "parents": [
     "i-adverbs",
-    "na-adverbs"
+    "na-adverbs",
+    "u大",
+    "u体"
   ],
   "props": {
     "en": "approximately",

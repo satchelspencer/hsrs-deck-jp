@@ -1,0 +1,10 @@
+{
+  "_id": "2yc15r2fron",
+  "name": "m県",
+  "parents": [
+    "radicals"
+  ],
+  "props": {
+    "_m": "prefecture"
+  }
+}

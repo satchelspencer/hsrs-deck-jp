@@ -5,7 +5,9 @@
   "parents": [
     "weather",
     "hot-cold-weather",
-    "inhaleables"
+    "inhaleables",
+    "u空",
+    "u気"
   ],
   "props": {
     "en": "air",

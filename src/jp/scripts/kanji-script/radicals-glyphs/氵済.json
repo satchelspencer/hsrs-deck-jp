@@ -1,0 +1,18 @@
+{
+  "_id": "zbcn28rfe1t",
+  "desc": "variant of 水",
+  "name": "氵済",
+  "order": "3.4.5.9.1",
+  "params": {
+    "_g": "済",
+    "_r": "m氵"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "氵"
+  }
+}

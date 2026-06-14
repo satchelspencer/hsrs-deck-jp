@@ -1,0 +1,17 @@
+{
+  "_id": "qoa6n5oblwa",
+  "name": "丿舞",
+  "order": "3.9.8.8.3",
+  "params": {
+    "_g": "舞",
+    "_r": "m丿"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "1",
+    "jp": "丿"
+  }
+}

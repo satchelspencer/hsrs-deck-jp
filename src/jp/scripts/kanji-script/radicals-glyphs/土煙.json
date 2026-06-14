@@ -1,0 +1,17 @@
+{
+  "_id": "lo8f4rhuzqd",
+  "name": "土煙",
+  "order": "4.9.7.3.3",
+  "params": {
+    "_g": "煙",
+    "_r": "m土"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "11",
+    "_sl": "3",
+    "jp": "土"
+  }
+}

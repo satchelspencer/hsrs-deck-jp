@@ -1,0 +1,17 @@
+{
+  "_id": "ztxyca3jmos",
+  "name": "r同",
+  "order": "2.9.8.8.0.1",
+  "params": {
+    "_g": "同",
+    "_r": "m同"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "同"
+  }
+}

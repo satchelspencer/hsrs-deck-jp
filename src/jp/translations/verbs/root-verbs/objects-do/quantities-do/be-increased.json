@@ -5,7 +5,8 @@
   "parents": [
     "quantities-do",
     "te-iru-verbs-state",
-    "ichidan"
+    "ichidan",
+    "u増"
   ],
   "props": {
     "_st": "increased",

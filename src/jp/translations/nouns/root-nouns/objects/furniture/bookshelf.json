@@ -3,7 +3,9 @@
   "name": "bookshelf",
   "order": "1",
   "parents": [
-    "furniture"
+    "furniture",
+    "u本",
+    "u棚"
   ],
   "props": {
     "en": "bookshelf",

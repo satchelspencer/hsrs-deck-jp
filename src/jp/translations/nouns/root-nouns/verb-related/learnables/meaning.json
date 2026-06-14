@@ -4,7 +4,9 @@
   "name": "meaning",
   "order": "2",
   "parents": [
-    "learnables"
+    "learnables",
+    "u意",
+    "u味"
   ],
   "props": {
     "en": "meaning",

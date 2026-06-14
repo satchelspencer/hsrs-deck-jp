@@ -1,0 +1,15 @@
+{
+  "_id": "a2afulmejga",
+  "name": "走",
+  "order": "2.3.2.0.1",
+  "params": {
+    "_wd": "u走"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "走",
+    "_st": "BwRNHh1jAgAFAQYAQy8cPRpGGWMDAAQABgADTTQMYwEBAgMCBWMABQAaABoETQ8wYwIBBgEJAWMZgySEPYZjBAAGAAgAA001MWMBAQIDAgVjAAYAFgAbA005QGMIgQ-CEoJjAgADAAMAA00lPGMAAQADAARjggeJE5UcA00iSmMKAigRMhNDVl1aXl1e"
+  }
+}

@@ -4,7 +4,9 @@
   "name": "state-of-affairs",
   "order": "4",
   "parents": [
-    "abstracts"
+    "abstracts",
+    "u事",
+    "u態"
   ],
   "props": {
     "en": "state of affairs",

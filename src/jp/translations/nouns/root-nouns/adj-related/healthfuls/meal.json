@@ -3,7 +3,9 @@
   "name": "meal",
   "order": "3",
   "parents": [
-    "healthfuls"
+    "healthfuls",
+    "u食",
+    "u事"
   ],
   "props": {
     "en": "meal",

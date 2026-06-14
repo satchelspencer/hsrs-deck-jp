@@ -1,0 +1,17 @@
+{
+  "_id": "shecy8xs4ek",
+  "name": "耳聞",
+  "order": "1.2.6.8.6",
+  "params": {
+    "_g": "聞",
+    "_r": "m耳"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "9",
+    "_sl": "6",
+    "jp": "耳"
+  }
+}

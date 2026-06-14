@@ -1,0 +1,17 @@
+{
+  "_id": "bjd1525oo2y",
+  "name": "木椅",
+  "order": "2.9.1.4.1",
+  "params": {
+    "_g": "椅",
+    "_r": "m木"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "木"
+  }
+}

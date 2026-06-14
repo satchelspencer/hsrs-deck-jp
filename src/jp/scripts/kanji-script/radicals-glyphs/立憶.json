@@ -1,0 +1,17 @@
+{
+  "_id": "d5ty498pd4h",
+  "name": "立憶",
+  "order": "4.3.1.6.2",
+  "params": {
+    "_g": "憶",
+    "_r": "m立"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "5",
+    "jp": "立"
+  }
+}

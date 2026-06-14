@@ -1,0 +1,17 @@
+{
+  "_id": "k4ximqnqsf5",
+  "name": "匹勘",
+  "order": "4.9.6.1.4",
+  "params": {
+    "_g": "勘",
+    "_r": "m匹"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "4",
+    "jp": "匹"
+  }
+}

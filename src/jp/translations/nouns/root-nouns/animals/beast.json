@@ -4,7 +4,8 @@
   "name": "beast",
   "order": "4",
   "parents": [
-    "animals"
+    "animals",
+    "u獣"
   ],
   "props": {
     "en": "beast",

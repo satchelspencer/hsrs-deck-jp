@@ -5,7 +5,9 @@
   "order": "1",
   "parents": [
     "na-place",
-    "na-people"
+    "na-people",
+    "u綺",
+    "u麗"
   ],
   "props": {
     "_ad": "prettily",

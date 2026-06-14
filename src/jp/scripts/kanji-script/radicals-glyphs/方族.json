@@ -1,0 +1,17 @@
+{
+  "_id": "ptaaiu9rmrm",
+  "name": "方族",
+  "order": "2.4.4.8.6",
+  "params": {
+    "_g": "族",
+    "_r": "m方"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "方"
+  }
+}

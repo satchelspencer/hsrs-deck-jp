@@ -1,0 +1,18 @@
+{
+  "_id": "640dmxdhdjd",
+  "desc": "variant of 艸",
+  "name": "艹蔵",
+  "order": "2.9.1.8.6",
+  "params": {
+    "_g": "蔵",
+    "_r": "m艹"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "艹"
+  }
+}

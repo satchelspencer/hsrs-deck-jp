@@ -1,0 +1,17 @@
+{
+  "_id": "asih5r9mviu",
+  "name": "寸耐",
+  "order": "4.5.7.9.8",
+  "params": {
+    "_g": "耐",
+    "_r": "m寸"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "3",
+    "jp": "寸"
+  }
+}

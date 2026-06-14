@@ -1,0 +1,18 @@
+{
+  "_id": "o7btxe335vf",
+  "desc": "variant of 犬",
+  "name": "⺨狭",
+  "order": "3.3.9.8.9",
+  "params": {
+    "_g": "狭",
+    "_r": "m⺨"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "⺨"
+  }
+}

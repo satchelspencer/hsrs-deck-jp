@@ -4,7 +4,8 @@
   "order": "1",
   "parents": [
     "footwear",
-    "polishables"
+    "polishables",
+    "u靴"
   ],
   "props": {
     "en": "shoes",

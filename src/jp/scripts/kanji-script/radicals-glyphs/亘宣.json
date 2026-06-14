@@ -1,0 +1,18 @@
+{
+  "_id": "tmh38ycmcu2",
+  "name": "亘宣",
+  "order": "3.9.7.3.6",
+  "params": {
+    "_1": "旦宣",
+    "_g": "宣",
+    "_r": "m亘"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "6",
+    "jp": "亘"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "aj29u00dnnz",
+  "name": "r弱",
+  "order": "2.3.5.6.9.1",
+  "params": {
+    "_g": "弱",
+    "_r": "m弱"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "10",
+    "jp": "弱"
+  }
+}

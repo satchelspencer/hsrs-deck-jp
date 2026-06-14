@@ -5,7 +5,8 @@
   "order": "4",
   "parents": [
     "people",
-    "people-no"
+    "people-no",
+    "u敵"
   ],
   "props": {
     "en": "enemy",

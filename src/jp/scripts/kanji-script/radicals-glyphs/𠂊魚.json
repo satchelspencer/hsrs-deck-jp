@@ -1,0 +1,18 @@
+{
+  "_id": "ennf2xbt1r1",
+  "desc": "variant of 勹",
+  "name": "𠂊魚",
+  "order": "1.6.7.2.4",
+  "params": {
+    "_g": "魚",
+    "_r": "m𠂊"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "2",
+    "jp": "𠂊"
+  }
+}

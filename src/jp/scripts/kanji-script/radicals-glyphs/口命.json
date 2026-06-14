@@ -1,0 +1,17 @@
+{
+  "_id": "v11oqwytrp4",
+  "name": "口命",
+  "order": "3.6.8.4.7",
+  "params": {
+    "_g": "命",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

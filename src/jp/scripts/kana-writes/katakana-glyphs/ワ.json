@@ -1,0 +1,14 @@
+{
+  "_id": "un6tulvxnpi",
+  "name": "ワ",
+  "params": {
+    "_kn": "katakana-wa"
+  },
+  "parents": [
+    "katakana-glyphs"
+  ],
+  "props": {
+    "_st": "AgRNGRhjAgECAwIFYwEKAQgCE2MAAwEHAQkFTRwaYwMABQAIAGMOgRuCKoRjCIEJAQgHY4UblTCsPg",
+    "jp": "ワ"
+  }
+}

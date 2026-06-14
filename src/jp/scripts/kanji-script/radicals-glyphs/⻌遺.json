@@ -1,0 +1,18 @@
+{
+  "_id": "utkuhmvf2ui",
+  "desc": "variant of 辶",
+  "name": "⻌遺",
+  "order": "4.2.6.2.4",
+  "params": {
+    "_g": "遺",
+    "_r": "m⻌"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "13",
+    "_sl": "3",
+    "jp": "⻌"
+  }
+}

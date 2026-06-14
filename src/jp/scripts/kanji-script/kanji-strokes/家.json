@@ -1,0 +1,15 @@
+{
+  "_id": "5g576gzgq32",
+  "name": "家",
+  "order": "1.6.2.7.5",
+  "params": {
+    "_wd": "u家"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "家",
+    "_st": "CgNNNAtjAQECAgIEYwADAAUACAJNGxdjAASDDoQQA00cG0MqGUkWUBVjDIEBCAAJBE0hKGMBAAQBBQBjCIEUgxqEYwIAAwAFAANNMypjAAEAAoEDQzAxJzgbPQNNMDFjCAgOGQcsY4IGiAGJAANNMThjAAEAAoEDY4MEiwqWDgNNNUJjAAEAAoEDY4MFjg6eFANNTS1jAAEAAoEDY4MDiQmSDANNOz9jBAMSDxkVYwICBAMHBA"
+  }
+}

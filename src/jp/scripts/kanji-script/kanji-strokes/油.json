@@ -1,0 +1,15 @@
+{
+  "_id": "iu5mkhtkxns",
+  "name": "油",
+  "order": "1.9.4.0.0",
+  "params": {
+    "_wd": "u油"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "油",
+    "_st": "CAJNFhBjAwEJBgkIAk0PJWMEAQkGCggDTQ1ZYwIAAwAEgmMEhwmPDZcETSoqYwEBAgICA2MBDAEZAidjAAEAAwAEBU0sLGMPgiGELIVjBQAHAQcGY4EIgxiEJGMAAoEEgQUDTUIRYwEBAgMCBGMADgA6AD4CTS0_YwmBJIMvhAJNLlVjC4EdgiuC"
+  }
+}

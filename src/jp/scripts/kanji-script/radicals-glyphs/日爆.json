@@ -1,0 +1,18 @@
+{
+  "_id": "zzmh0q40nf7",
+  "desc": "variant of 曰",
+  "name": "日爆",
+  "order": "4.6.5.9.2",
+  "params": {
+    "_g": "爆",
+    "_r": "m日"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "4",
+    "jp": "日"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "ju17ixc96j2",
+  "name": "广底",
+  "order": "4.9.7.8.1",
+  "params": {
+    "_g": "底",
+    "_r": "m广"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "广"
+  }
+}

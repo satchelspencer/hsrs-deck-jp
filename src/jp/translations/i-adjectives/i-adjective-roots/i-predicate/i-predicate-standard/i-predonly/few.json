@@ -4,7 +4,8 @@
   "name": "few",
   "order": "2",
   "parents": [
-    "i-predonly"
+    "i-predonly",
+    "u少"
   ],
   "props": {
     "en": "few",

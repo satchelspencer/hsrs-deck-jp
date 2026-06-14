@@ -5,7 +5,8 @@
   "order": "3",
   "parents": [
     "root-relative-time-exprs",
-    "past-relative-time-exprs"
+    "past-relative-time-exprs",
+    "u頃"
   ],
   "props": {
     "en": "around when",

@@ -1,0 +1,17 @@
+{
+  "_id": "s90c40bynw4",
+  "name": "尸漏",
+  "order": "4.9.1.7.2",
+  "params": {
+    "_g": "漏",
+    "_r": "m尸"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "3",
+    "jp": "尸"
+  }
+}

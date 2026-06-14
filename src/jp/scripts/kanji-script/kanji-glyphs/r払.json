@@ -1,0 +1,17 @@
+{
+  "_id": "xbnn1tu20ha",
+  "name": "r払",
+  "order": "2.9.5.6.0.1",
+  "params": {
+    "_g": "払",
+    "_r": "m払"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "払"
+  }
+}

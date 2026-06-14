@@ -1,0 +1,18 @@
+{
+  "_id": "9bb3cn26qxa",
+  "name": "言設",
+  "order": "4.9.6.8.1",
+  "params": {
+    "_1": "口設",
+    "_g": "設",
+    "_r": "m言"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "7",
+    "jp": "言"
+  }
+}

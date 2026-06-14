@@ -1,0 +1,17 @@
+{
+  "_id": "jwme99og3hz",
+  "name": "木相",
+  "order": "2.9.0.5.0",
+  "params": {
+    "_g": "相",
+    "_r": "m木"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "木"
+  }
+}

@@ -4,7 +4,9 @@
   "name": "health",
   "order": "4",
   "parents": [
-    "na-nouns"
+    "na-nouns",
+    "u健",
+    "u康"
   ],
   "props": {
     "_ad": "healthfully",

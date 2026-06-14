@@ -5,7 +5,9 @@
   "order": "4",
   "parents": [
     "suru-nouns",
-    "te-iru-verbs-state"
+    "te-iru-verbs-state",
+    "u妊",
+    "u娠"
   ],
   "props": {
     "_st": "pregnant",

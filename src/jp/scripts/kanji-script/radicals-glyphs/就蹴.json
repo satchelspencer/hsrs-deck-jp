@@ -1,0 +1,19 @@
+{
+  "_id": "vnkh8gsukgt",
+  "name": "就蹴",
+  "order": "2.3.8.1.6",
+  "params": {
+    "_1": "京蹴",
+    "_2": "尤蹴",
+    "_g": "蹴",
+    "_r": "m就"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "12",
+    "jp": "就"
+  }
+}

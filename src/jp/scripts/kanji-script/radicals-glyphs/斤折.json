@@ -1,0 +1,17 @@
+{
+  "_id": "x2fnijyqtpk",
+  "name": "斤折",
+  "order": "3.5.4.6.0",
+  "params": {
+    "_g": "折",
+    "_r": "m斤"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "4",
+    "jp": "斤"
+  }
+}

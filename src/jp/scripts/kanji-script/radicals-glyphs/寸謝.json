@@ -1,0 +1,17 @@
+{
+  "_id": "z9tidk1rx57",
+  "name": "寸謝",
+  "order": "3.6.4.0.9",
+  "params": {
+    "_g": "謝",
+    "_r": "m寸"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "15",
+    "_sl": "3",
+    "jp": "寸"
+  }
+}

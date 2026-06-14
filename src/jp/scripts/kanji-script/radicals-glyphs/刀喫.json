@@ -1,0 +1,17 @@
+{
+  "_id": "auz6dwpsxud",
+  "name": "刀喫",
+  "order": "2.9.7.6.0",
+  "params": {
+    "_g": "喫",
+    "_r": "m刀"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "2",
+    "jp": "刀"
+  }
+}

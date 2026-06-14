@@ -1,0 +1,18 @@
+{
+  "_id": "w6jbubd4zdw",
+  "desc": "variant of 人",
+  "name": "亻低",
+  "order": "2.3.4.8.6",
+  "params": {
+    "_g": "低",
+    "_r": "m亻"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "2",
+    "jp": "亻"
+  }
+}

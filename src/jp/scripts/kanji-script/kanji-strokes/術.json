@@ -1,0 +1,15 @@
+{
+  "_id": "cnogt8a24kx",
+  "name": "術",
+  "order": "3.6.1.0.6",
+  "params": {
+    "_wd": "u術"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "術",
+    "_st": "CwNNGw9jAAEAAoEDY4IDhwiODgNNHCBjAAEAAgADQxkqEzMKPQRNFzFjAQEBAgEDYwAAABgAImMABAAHAAgETSQlYwIAAwEEAGMFAA2CE4NjAQADAAQABE0xD2MBAQICAgNjAAUALgBBYwAEAAgACQNNKC9jAAEAAgADQyg8JUYhUAJNOzFjAgUFEgYZAk06D2MCAgYHBwoETUkXYwIAAwAFAGMDgQeCCoJjAQADAAQABE1EKWMBAAQABQBjB4EPgxaEYwIAAwAFAARNVCljAQEBAwEEYwAPACcALGMACIcAiIE"
+  }
+}

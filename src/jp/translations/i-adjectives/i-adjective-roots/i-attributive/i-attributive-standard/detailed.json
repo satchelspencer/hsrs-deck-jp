@@ -4,7 +4,8 @@
   "name": "detailed",
   "order": "3",
   "parents": [
-    "i-attributive-standard"
+    "i-attributive-standard",
+    "u詳"
   ],
   "props": {
     "en": "detailed",

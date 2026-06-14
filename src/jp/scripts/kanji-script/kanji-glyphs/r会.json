@@ -1,0 +1,17 @@
+{
+  "_id": "36mxubcvy97",
+  "name": "r会",
+  "order": "1.9.2.7.3.1",
+  "params": {
+    "_g": "会",
+    "_r": "m会"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "会"
+  }
+}

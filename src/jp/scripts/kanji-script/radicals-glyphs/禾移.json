@@ -1,0 +1,17 @@
+{
+  "_id": "1zfkad1bps5",
+  "name": "禾移",
+  "order": "3.6.0.9.8",
+  "params": {
+    "_g": "移",
+    "_r": "m禾"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "禾"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "_id": "wwsb8it5f1f",
+  "name": "呑橋",
+  "order": "2.9.1.6.4",
+  "params": {
+    "_1": "夭橋",
+    "_g": "橋",
+    "_r": "m呑"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "7",
+    "jp": "呑"
+  }
+}

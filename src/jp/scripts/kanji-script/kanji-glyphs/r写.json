@@ -1,0 +1,17 @@
+{
+  "_id": "0iycs1u29lr",
+  "name": "r写",
+  "order": "2.2.4.6.1.1",
+  "params": {
+    "_g": "写",
+    "_r": "m写"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "写"
+  }
+}

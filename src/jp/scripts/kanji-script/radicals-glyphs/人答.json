@@ -1,0 +1,17 @@
+{
+  "_id": "i3pqqsuxpax",
+  "name": "人答",
+  "order": "3.5.1.2.3",
+  "params": {
+    "_g": "答",
+    "_r": "m人"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "2",
+    "jp": "人"
+  }
+}

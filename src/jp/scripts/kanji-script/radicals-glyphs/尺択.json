@@ -1,0 +1,17 @@
+{
+  "_id": "9tjwz0h5b8e",
+  "name": "尺択",
+  "order": "4.9.8.3.0",
+  "params": {
+    "_g": "択",
+    "_r": "m尺"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "4",
+    "jp": "尺"
+  }
+}

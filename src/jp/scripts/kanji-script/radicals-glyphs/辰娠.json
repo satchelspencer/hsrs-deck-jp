@@ -1,0 +1,18 @@
+{
+  "_id": "d8ngxniiyr1",
+  "name": "辰娠",
+  "order": "4.1.9.4.6",
+  "params": {
+    "_1": "厂娠",
+    "_g": "娠",
+    "_r": "m辰"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "7",
+    "jp": "辰"
+  }
+}

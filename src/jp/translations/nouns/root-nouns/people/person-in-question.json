@@ -4,7 +4,9 @@
   "name": "person-in-question",
   "order": "4",
   "parents": [
-    "people"
+    "people",
+    "u本",
+    "u人"
   ],
   "props": {
     "en": "the person in question",

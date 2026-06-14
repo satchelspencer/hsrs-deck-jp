@@ -3,7 +3,9 @@
   "name": "tomorrow",
   "order": "1",
   "parents": [
-    "wa-future-only-times"
+    "wa-future-only-times",
+    "u明",
+    "u日"
   ],
   "props": {
     "en": "tomorrow",

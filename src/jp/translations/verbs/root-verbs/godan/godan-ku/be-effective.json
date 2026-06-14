@@ -5,7 +5,8 @@
   "order": "4",
   "parents": [
     "godan-ku",
-    "te-iru-verbs-state"
+    "te-iru-verbs-state",
+    "u効"
   ],
   "props": {
     "_st": "effective",

@@ -1,0 +1,18 @@
+{
+  "_id": "nz0m7q152d1",
+  "desc": "variant of 襾",
+  "name": "覀価",
+  "order": "4.2.5.8.5",
+  "params": {
+    "_g": "価",
+    "_r": "m覀"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "3",
+    "_sl": "6",
+    "jp": "覀"
+  }
+}

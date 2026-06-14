@@ -1,0 +1,17 @@
+{
+  "_id": "rv1lt5n7y7o",
+  "name": "十草",
+  "order": "2.9.8.9.8",
+  "params": {
+    "_g": "草",
+    "_r": "m十"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "2",
+    "jp": "十"
+  }
+}

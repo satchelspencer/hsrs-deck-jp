@@ -1,0 +1,19 @@
+{
+  "_id": "m6oaiqkihko",
+  "name": "䏍態",
+  "order": "3.1.2.3.5",
+  "params": {
+    "_1": "厶態",
+    "_2": "月態",
+    "_g": "態",
+    "_r": "m䏍"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "䏍"
+  }
+}

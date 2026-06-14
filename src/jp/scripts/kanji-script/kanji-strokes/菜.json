@@ -1,0 +1,15 @@
+{
+  "_id": "ij71prf5zci",
+  "name": "菜",
+  "order": "2.9.8.4.6",
+  "params": {
+    "_wd": "u菜"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "菜",
+    "_st": "CwRNFBhjAwEGAQgAYw2CJIQyhWMDAAYACQADTSUNYwEBAgICA0MoFikcKh8DTUUJYwABAQMBBENFEUMWQRwDTTsdYwABAAGBAmOCAosGmgkCTR8uYwICBgcHCQJNMSpjAgEFBgYIA01LJGMAAAABAAJjggOFCIwMBE0XQWMBAAUBCABjDIEhhC6EYwQABgAIAARNNTZjAQECAwIEYwACABgAJGMAAwAFAAYDTTNAYwABgQKBBEMqTR1XEVwDTThBYwQDFBAcFWMDAgUDCAQ"
+  }
+}

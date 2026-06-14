@@ -1,0 +1,17 @@
+{
+  "_id": "45mbmxdpck8",
+  "name": "宀碗",
+  "order": "2.9.1.3.8",
+  "params": {
+    "_g": "碗",
+    "_r": "m宀"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "3",
+    "jp": "宀"
+  }
+}

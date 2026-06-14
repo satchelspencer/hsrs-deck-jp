@@ -1,0 +1,18 @@
+{
+  "_id": "oim860og7hu",
+  "desc": "variant of 肉",
+  "name": "月際",
+  "order": "3.2.6.8.1",
+  "params": {
+    "_g": "際",
+    "_r": "m月"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "4",
+    "jp": "月"
+  }
+}

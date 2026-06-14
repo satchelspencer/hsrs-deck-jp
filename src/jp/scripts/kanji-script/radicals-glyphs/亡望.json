@@ -1,0 +1,17 @@
+{
+  "_id": "rv7damsbfn2",
+  "name": "亡望",
+  "order": "4.6.0.9.8",
+  "params": {
+    "_g": "望",
+    "_r": "m亡"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "亡"
+  }
+}

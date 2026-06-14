@@ -4,7 +4,10 @@
   "name": "elementary-school",
   "order": "2",
   "parents": [
-    "schools"
+    "schools",
+    "u小",
+    "u学",
+    "u校"
   ],
   "props": {
     "en": "elementary school",

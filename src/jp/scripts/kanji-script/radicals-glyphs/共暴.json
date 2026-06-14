@@ -1,0 +1,18 @@
+{
+  "_id": "ckv6sb0en5n",
+  "name": "共暴",
+  "order": "4.6.5.9.2",
+  "params": {
+    "_1": "八暴",
+    "_g": "暴",
+    "_r": "m共"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "6",
+    "jp": "共"
+  }
+}

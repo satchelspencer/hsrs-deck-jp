@@ -1,0 +1,17 @@
+{
+  "_id": "z5qtfuerawo",
+  "name": "金釣",
+  "order": "3.9.0.0.0",
+  "params": {
+    "_g": "釣",
+    "_r": "m金"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "8",
+    "jp": "金"
+  }
+}

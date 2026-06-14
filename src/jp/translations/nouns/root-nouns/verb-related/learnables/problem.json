@@ -7,7 +7,9 @@
     "learnables",
     "choosables",
     "wago-countable",
-    "relative-time-no"
+    "relative-time-no",
+    "u問",
+    "u題"
   ],
   "props": {
     "en": "problem",

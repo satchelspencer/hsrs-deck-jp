@@ -1,0 +1,17 @@
+{
+  "_id": "lslwd46hos0",
+  "name": "皮彼",
+  "order": "1.9.1.8.5",
+  "params": {
+    "_g": "彼",
+    "_r": "m皮"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "5",
+    "jp": "皮"
+  }
+}

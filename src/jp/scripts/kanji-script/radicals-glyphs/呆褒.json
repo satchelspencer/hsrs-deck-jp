@@ -1,0 +1,19 @@
+{
+  "_id": "lhzwcbt4ell",
+  "name": "呆褒",
+  "order": "3.9.1.1.2",
+  "params": {
+    "_1": "口褒",
+    "_2": "木褒",
+    "_g": "褒",
+    "_r": "m呆"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "7",
+    "jp": "呆"
+  }
+}

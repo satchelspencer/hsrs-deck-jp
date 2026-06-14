@@ -1,0 +1,17 @@
+{
+  "_id": "6lnfbnhmcrk",
+  "name": "又暇",
+  "order": "2.9.2.5.9",
+  "params": {
+    "_g": "暇",
+    "_r": "m又"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "12",
+    "_sl": "2",
+    "jp": "又"
+  }
+}

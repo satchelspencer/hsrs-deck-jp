@@ -1,0 +1,17 @@
+{
+  "_id": "caqefossk8k",
+  "name": "八贈",
+  "order": "3.9.1.1.2",
+  "params": {
+    "_g": "贈",
+    "_r": "m八"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "2",
+    "jp": "八"
+  }
+}

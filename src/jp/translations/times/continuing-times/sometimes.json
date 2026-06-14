@@ -5,7 +5,8 @@
   "order": "1",
   "parents": [
     "continuing-times",
-    "verb-adverbs"
+    "verb-adverbs",
+    "u時"
   ],
   "props": {
     "_at": "occasional",

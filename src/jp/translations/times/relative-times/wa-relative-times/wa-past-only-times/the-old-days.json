@@ -4,7 +4,8 @@
   "name": "the-old-days",
   "order": "3",
   "parents": [
-    "wa-past-only-times"
+    "wa-past-only-times",
+    "u昔"
   ],
   "props": {
     "en": "the old days",

@@ -1,0 +1,17 @@
+{
+  "_id": "x1pt1cgkzxt",
+  "name": "八寒",
+  "order": "2.4.6.1.8",
+  "params": {
+    "_g": "寒",
+    "_r": "m八"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "9",
+    "_sl": "2",
+    "jp": "八"
+  }
+}

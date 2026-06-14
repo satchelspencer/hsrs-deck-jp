@@ -1,0 +1,17 @@
+{
+  "_id": "40t1aybkgnq",
+  "name": "大突",
+  "order": "4.2.0.1.5",
+  "params": {
+    "_g": "突",
+    "_r": "m大"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "3",
+    "jp": "大"
+  }
+}

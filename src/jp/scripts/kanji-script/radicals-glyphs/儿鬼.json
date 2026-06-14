@@ -1,0 +1,18 @@
+{
+  "_id": "tsricl6p6ck",
+  "desc": "variant of 八",
+  "name": "儿鬼",
+  "order": "4.2.7.8.0",
+  "params": {
+    "_g": "鬼",
+    "_r": "m儿"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "2",
+    "jp": "儿"
+  }
+}

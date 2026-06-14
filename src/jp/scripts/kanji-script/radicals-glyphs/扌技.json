@@ -1,0 +1,18 @@
+{
+  "_id": "vs404dp2j9l",
+  "desc": "variant of 手",
+  "name": "扌技",
+  "order": "4.1.1.6.1",
+  "params": {
+    "_g": "技",
+    "_r": "m扌"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "扌"
+  }
+}

@@ -4,7 +4,9 @@
   "name": "next-time",
   "order": "3",
   "parents": [
-    "wa-future-only-times"
+    "wa-future-only-times",
+    "u今",
+    "u度"
   ],
   "props": {
     "en": "next time",

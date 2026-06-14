@@ -1,0 +1,18 @@
+{
+  "_id": "g9wd4pnrft3",
+  "name": "言誰",
+  "order": "1.9.8.6.4",
+  "params": {
+    "_1": "口誰",
+    "_g": "誰",
+    "_r": "m言"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "7",
+    "jp": "言"
+  }
+}

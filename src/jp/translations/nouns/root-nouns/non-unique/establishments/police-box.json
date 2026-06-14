@@ -4,7 +4,9 @@
   "order": "2",
   "parents": [
     "establishments",
-    "ken-buildings-countable"
+    "ken-buildings-countable",
+    "u交",
+    "u番"
   ],
   "props": {
     "en": "police box",

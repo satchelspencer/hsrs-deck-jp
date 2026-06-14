@@ -4,7 +4,8 @@
   "name": "face",
   "order": "2",
   "parents": [
-    "body-parts"
+    "body-parts",
+    "u顔"
   ],
   "props": {
     "en": "face",

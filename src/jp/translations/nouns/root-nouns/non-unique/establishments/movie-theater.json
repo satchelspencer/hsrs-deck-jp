@@ -4,7 +4,10 @@
   "order": "2",
   "parents": [
     "establishments",
-    "ken-buildings-countable"
+    "ken-buildings-countable",
+    "u映",
+    "u画",
+    "u館"
   ],
   "props": {
     "en": "movie theater",

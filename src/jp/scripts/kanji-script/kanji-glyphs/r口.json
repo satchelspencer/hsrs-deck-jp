@@ -1,0 +1,17 @@
+{
+  "_id": "p1qz2ecs61q",
+  "name": "r口",
+  "order": "1.1.3.5.0.1",
+  "params": {
+    "_g": "口",
+    "_r": "m口"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

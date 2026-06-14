@@ -1,0 +1,17 @@
+{
+  "_id": "mvfw7empn36",
+  "name": "八並",
+  "order": "3.5.5.5.8",
+  "params": {
+    "_g": "並",
+    "_r": "m八"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "2",
+    "jp": "八"
+  }
+}

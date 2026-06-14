@@ -1,0 +1,17 @@
+{
+  "_id": "tk7qp22oku2",
+  "name": "广度",
+  "order": "2.9.5.4.0",
+  "params": {
+    "_g": "度",
+    "_r": "m广"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "广"
+  }
+}

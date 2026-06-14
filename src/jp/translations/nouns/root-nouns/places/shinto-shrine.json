@@ -3,7 +3,9 @@
   "name": "shinto-shrine",
   "order": "3",
   "parents": [
-    "places"
+    "places",
+    "u神",
+    "u社"
   ],
   "props": {
     "en": "shinto shrine",

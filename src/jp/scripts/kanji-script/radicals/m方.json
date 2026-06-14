@@ -1,0 +1,10 @@
+{
+  "_id": "5fj2gkyk3be",
+  "name": "m方",
+  "parents": [
+    "radicals"
+  ],
+  "props": {
+    "_m": "direction, person, alternative"
+  }
+}

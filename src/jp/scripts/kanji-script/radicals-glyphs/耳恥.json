@@ -1,0 +1,17 @@
+{
+  "_id": "yssyb8de23q",
+  "name": "耳恥",
+  "order": "3.9.3.6.4",
+  "params": {
+    "_g": "恥",
+    "_r": "m耳"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "耳"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "_id": "rfnwyjigkp9",
+  "desc": "variant of 曰",
+  "name": "日贈",
+  "order": "3.9.1.1.2",
+  "params": {
+    "_g": "贈",
+    "_r": "m日"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "15",
+    "_sl": "4",
+    "jp": "日"
+  }
+}

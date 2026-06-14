@@ -3,7 +3,9 @@
   "name": "typhoon",
   "order": "3",
   "parents": [
-    "events"
+    "events",
+    "u台",
+    "u風"
   ],
   "props": {
     "en": "typhoon",

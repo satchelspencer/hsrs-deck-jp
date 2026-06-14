@@ -3,7 +3,9 @@
   "name": "cautious",
   "order": "4",
   "parents": [
-    "na-people"
+    "na-people",
+    "u慎",
+    "u重"
   ],
   "props": {
     "en": "cautious",

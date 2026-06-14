@@ -5,7 +5,8 @@
   "order": "3",
   "parents": [
     "godan-ku",
-    "objects-do"
+    "objects-do",
+    "u付"
   ],
   "props": {
     "en": "be attached",

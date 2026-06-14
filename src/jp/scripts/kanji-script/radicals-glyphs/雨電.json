@@ -1,0 +1,17 @@
+{
+  "_id": "iwfxj9wzddo",
+  "name": "雨電",
+  "order": "1.6.5.2.0",
+  "params": {
+    "_g": "電",
+    "_r": "m雨"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "8",
+    "jp": "雨"
+  }
+}

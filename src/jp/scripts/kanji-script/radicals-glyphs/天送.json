@@ -1,0 +1,17 @@
+{
+  "_id": "oqlpoh6s7vy",
+  "name": "天送",
+  "order": "2.6.5.5.6",
+  "params": {
+    "_g": "送",
+    "_r": "m天"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "3",
+    "_sl": "4",
+    "jp": "天"
+  }
+}

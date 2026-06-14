@@ -5,7 +5,8 @@
   "parents": [
     "climbables",
     "high-low",
-    "places"
+    "places",
+    "u山"
   ],
   "props": {
     "en": "mountain",

@@ -1,0 +1,17 @@
+{
+  "_id": "drp71b2wem6",
+  "name": "米隣",
+  "order": "2.9.2.0.3",
+  "params": {
+    "_g": "隣",
+    "_r": "m米"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "6",
+    "jp": "米"
+  }
+}

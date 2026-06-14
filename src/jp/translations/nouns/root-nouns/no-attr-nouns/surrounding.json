@@ -4,7 +4,9 @@
   "name": "surrounding",
   "order": "4",
   "parents": [
-    "no-attr-nouns"
+    "no-attr-nouns",
+    "u周",
+    "u囲"
   ],
   "props": {
     "en": "surrounding",

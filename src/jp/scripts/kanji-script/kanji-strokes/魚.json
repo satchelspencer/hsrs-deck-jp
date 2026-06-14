@@ -1,0 +1,15 @@
+{
+  "_id": "jree9kaol4w",
+  "name": "魚",
+  "order": "1.6.7.2.4",
+  "params": {
+    "_wd": "u魚"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "魚",
+    "_st": "CwNNMA1jAAEAAoEDQy0VJR4aJAVNMRNjAQACAAQAYwWBC4EOgmMDgQQCAgRjhQaJC44RBE0bKWMBAQICAgRjAQUCDwMXYwABAAMABAVNHitDLSlDJk4lYwQABgEGBGMABYIPgxhjAAEAAoEDA002KmMBAQECAQNDNzI3QTdCAk0gOEMsNkY0UTQCTSJGYw2BHoMuhAJNGlFjAAWGDYcPAk0rT2MDAwYLBw8CTT5OYwMDCAsJEAJNVE9jBAMLCwwP"
+  }
+}

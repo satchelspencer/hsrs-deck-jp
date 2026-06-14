@@ -1,0 +1,10 @@
+{
+  "_id": "hrp2s6nmzbt",
+  "name": "m道",
+  "parents": [
+    "radicals"
+  ],
+  "props": {
+    "_m": "road-way, street, district"
+  }
+}

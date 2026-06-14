@@ -1,0 +1,17 @@
+{
+  "_id": "pszhh7ldq5a",
+  "name": "木乗",
+  "order": "1.5.7.5.0",
+  "params": {
+    "_g": "乗",
+    "_r": "m木"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "4",
+    "jp": "木"
+  }
+}

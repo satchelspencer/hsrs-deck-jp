@@ -1,0 +1,18 @@
+{
+  "_id": "9xlr9e0g9j1",
+  "desc": "variant of 辶",
+  "name": "⻌週",
+  "order": "1.9.5.0.5",
+  "params": {
+    "_g": "週",
+    "_r": "m⻌"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "9",
+    "_sl": "3",
+    "jp": "⻌"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "dkp3oi3bose",
+  "name": "广庭",
+  "order": "2.9.1.5.1",
+  "params": {
+    "_g": "庭",
+    "_r": "m广"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "广"
+  }
+}

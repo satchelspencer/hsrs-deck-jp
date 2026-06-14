@@ -1,0 +1,17 @@
+{
+  "_id": "imjmwzdnee2",
+  "name": "大奮",
+  "order": "4.9.6.8.0",
+  "params": {
+    "_g": "奮",
+    "_r": "m大"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "大"
+  }
+}

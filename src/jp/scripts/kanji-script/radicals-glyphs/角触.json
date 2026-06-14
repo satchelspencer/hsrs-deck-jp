@@ -1,0 +1,18 @@
+{
+  "_id": "pookd3nv6h3",
+  "name": "角触",
+  "order": "3.3.3.9.6",
+  "params": {
+    "_1": "𠂊触",
+    "_g": "触",
+    "_r": "m角"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "7",
+    "jp": "角"
+  }
+}

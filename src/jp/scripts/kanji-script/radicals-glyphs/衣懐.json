@@ -1,0 +1,18 @@
+{
+  "_id": "gf5s00iyu9h",
+  "name": "衣懐",
+  "order": "4.6.8.7.4",
+  "params": {
+    "_1": "亠懐",
+    "_g": "懐",
+    "_r": "m衣"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "11",
+    "_sl": "6",
+    "jp": "衣"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "ehghr5f7z4g",
+  "name": "夫漢",
+  "order": "3.9.9.0.1",
+  "params": {
+    "_g": "漢",
+    "_r": "m夫"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "10",
+    "_sl": "4",
+    "jp": "夫"
+  }
+}

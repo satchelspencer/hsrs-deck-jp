@@ -3,7 +3,8 @@
   "name": "father",
   "order": "1",
   "parents": [
-    "family"
+    "family",
+    "u父"
   ],
   "props": {
     "en": "father",

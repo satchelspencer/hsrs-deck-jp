@@ -1,0 +1,17 @@
+{
+  "_id": "qb8d5gfhjal",
+  "name": "白迫",
+  "order": "4.4.1.1.0",
+  "params": {
+    "_g": "迫",
+    "_r": "m白"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "白"
+  }
+}

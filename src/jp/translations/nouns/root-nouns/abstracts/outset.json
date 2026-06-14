@@ -4,7 +4,8 @@
   "name": "outset",
   "order": "4",
   "parents": [
-    "abstracts"
+    "abstracts",
+    "u始"
   ],
   "props": {
     "en": "outset",

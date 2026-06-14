@@ -1,0 +1,18 @@
+{
+  "_id": "apubifhv46z",
+  "desc": "variant of 曰",
+  "name": "日更",
+  "order": "1.2.4.5.0",
+  "params": {
+    "_g": "更",
+    "_r": "m日"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "2",
+    "_sl": "4",
+    "jp": "日"
+  }
+}

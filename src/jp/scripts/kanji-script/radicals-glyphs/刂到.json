@@ -1,0 +1,18 @@
+{
+  "_id": "maaq1c96jt8",
+  "desc": "variant of 刀",
+  "name": "刂到",
+  "order": "3.5.2.1.7",
+  "params": {
+    "_g": "到",
+    "_r": "m刂"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "2",
+    "jp": "刂"
+  }
+}

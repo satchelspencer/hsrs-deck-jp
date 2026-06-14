@@ -1,0 +1,18 @@
+{
+  "_id": "21yecueypit",
+  "name": "足踊",
+  "order": "3.3.6.5.6",
+  "params": {
+    "_1": "口踊",
+    "_g": "踊",
+    "_r": "m足"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "7",
+    "jp": "足"
+  }
+}

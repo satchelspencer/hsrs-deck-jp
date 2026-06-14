@@ -1,0 +1,17 @@
+{
+  "_id": "ixugl1flycm",
+  "name": "土増",
+  "order": "3.2.0.3.6",
+  "params": {
+    "_g": "増",
+    "_r": "m土"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "土"
+  }
+}

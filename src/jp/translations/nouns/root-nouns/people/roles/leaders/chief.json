@@ -4,7 +4,8 @@
   "name": "chief",
   "order": "4",
   "parents": [
-    "leaders"
+    "leaders",
+    "u長"
   ],
   "props": {
     "en": "chief",

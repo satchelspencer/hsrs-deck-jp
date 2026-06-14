@@ -4,7 +4,8 @@
   "name": "exactly",
   "order": "4",
   "parents": [
-    "clause-adverbs"
+    "clause-adverbs",
+    "u正"
   ],
   "props": {
     "en": "exactly",

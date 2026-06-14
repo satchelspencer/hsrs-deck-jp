@@ -4,7 +4,8 @@
   "name": "be-heard",
   "order": "2",
   "parents": [
-    "ichidan"
+    "ichidan",
+    "u聞"
   ],
   "props": {
     "en": "be heard",

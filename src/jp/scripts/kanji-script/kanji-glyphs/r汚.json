@@ -1,0 +1,17 @@
+{
+  "_id": "oucrxif857h",
+  "name": "r汚",
+  "order": "2.5.6.6.1.1",
+  "params": {
+    "_g": "汚",
+    "_r": "m汚"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "汚"
+  }
+}

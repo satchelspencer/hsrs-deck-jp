@@ -4,7 +4,8 @@
   "order": "4",
   "parents": [
     "building-materials",
-    "no-attr-nouns"
+    "no-attr-nouns",
+    "u土"
   ],
   "props": {
     "en": "dirt",

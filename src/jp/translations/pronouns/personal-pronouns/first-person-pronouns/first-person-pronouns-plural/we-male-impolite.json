@@ -6,7 +6,8 @@
     "pronoun": "ore"
   },
   "parents": [
-    "first-person-pronouns-plural"
+    "first-person-pronouns-plural",
+    "u俺"
   ],
   "props": {
     "en": "we",

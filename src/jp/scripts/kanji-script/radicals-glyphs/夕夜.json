@@ -1,0 +1,17 @@
+{
+  "_id": "g1405fj5371",
+  "name": "夕夜",
+  "order": "1.6.7.6.8",
+  "params": {
+    "_g": "夜",
+    "_r": "m夕"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "3",
+    "jp": "夕"
+  }
+}

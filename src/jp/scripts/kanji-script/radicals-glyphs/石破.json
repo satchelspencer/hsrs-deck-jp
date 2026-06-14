@@ -1,0 +1,17 @@
+{
+  "_id": "v4y1czkv3lj",
+  "name": "石破",
+  "order": "4.2.5.0.8",
+  "params": {
+    "_g": "破",
+    "_r": "m石"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "石"
+  }
+}

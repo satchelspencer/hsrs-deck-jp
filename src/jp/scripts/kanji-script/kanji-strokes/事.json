@@ -1,0 +1,15 @@
+{
+  "_id": "f8v5s6jr2t2",
+  "name": "事",
+  "order": "1.2.3.9.1",
+  "params": {
+    "_wd": "u事"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "事",
+    "_st": "CARNDhljAgEFAQcBYxGBLoRDhGMDAAUABgEETR8iYwAAAQABAWMBAgIHAwtjAAEAAQACBE0hI2MIgSGDKYRjAgAEAQMEY4ECggWCBwNNIy5jBAAbgiWDYwEAAwAEAAVNHDhjAwEEAQcBYw2BHYIog2MEAAYBBQVjgQWDCIQRBE0PRGMDAQUBCABjF4Irg0CEYwMABgAHAARNHFBjAgAEAQUAYw6BG4Mng2MCAAMABQAETTUKYwEBAgMCBWMADwBIAE1jAAqFA4kA"
+  }
+}

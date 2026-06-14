@@ -4,7 +4,8 @@
   "name": "be-divided",
   "order": "2",
   "parents": [
-    "ichidan"
+    "ichidan",
+    "u分"
   ],
   "props": {
     "en": "be divided",

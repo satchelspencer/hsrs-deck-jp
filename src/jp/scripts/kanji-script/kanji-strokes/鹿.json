@@ -1,0 +1,15 @@
+{
+  "_id": "7t8h5cbnbnf",
+  "name": "鹿",
+  "order": "4.9.5.5.9",
+  "params": {
+    "_wd": "u鹿"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "鹿",
+    "_st": "CwNNNQtjAQECAwIEYwACAAMABwRNFRljAwEHAAoAYwyBHYMthGMDAAcACgADTRkaYwEBAQMBBUMZMhdLC1wFTSAqYwMBBgEJAGMMgiOEJ4RjAwAEAgQEY4EEgQaDDANNLh9jAQEBAgEDYwAIAQ8BFgNNQxpjAQEBAgEDQ0MlQjBBNgRNIDpjAgEFAAcAYwiBGoMjhGMDAAUACAADTSdOYwQAB4ELgmMBAAMABAAFTSRDYwEBAQIBBGMAAgARABdjAAMABAMDYwOBB4MLhANNV0NjAAEAAoECY4ICigeRCgVNQD9jAQEBAwEEYwACABIAFWMACAIJDgljCwANgQ2I"
+  }
+}

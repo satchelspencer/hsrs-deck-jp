@@ -1,0 +1,18 @@
+{
+  "_id": "zhyod2x1oid",
+  "desc": "variant of 艸",
+  "name": "艹菜",
+  "order": "2.9.8.4.6",
+  "params": {
+    "_g": "菜",
+    "_r": "m艹"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "艹"
+  }
+}

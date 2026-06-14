@@ -1,0 +1,18 @@
+{
+  "_id": "sq8di8za1uo",
+  "name": "吾語",
+  "order": "1.9.2.4.6",
+  "params": {
+    "_1": "五語",
+    "_g": "語",
+    "_r": "m吾"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "7",
+    "jp": "吾"
+  }
+}

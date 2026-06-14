@@ -3,7 +3,9 @@
   "name": "section-manager",
   "order": "4",
   "parents": [
-    "leaders"
+    "leaders",
+    "u課",
+    "u長"
   ],
   "props": {
     "en": "section manager",

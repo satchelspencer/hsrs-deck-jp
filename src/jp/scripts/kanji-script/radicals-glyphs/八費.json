@@ -1,0 +1,17 @@
+{
+  "_id": "mhcjstzg562",
+  "name": "八費",
+  "order": "4.2.6.6.6",
+  "params": {
+    "_g": "費",
+    "_r": "m八"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "11",
+    "_sl": "2",
+    "jp": "八"
+  }
+}

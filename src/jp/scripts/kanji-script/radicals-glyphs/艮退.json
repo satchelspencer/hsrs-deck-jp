@@ -1,0 +1,17 @@
+{
+  "_id": "36jrgbqshpj",
+  "name": "艮退",
+  "order": "3.9.2.3.1",
+  "params": {
+    "_g": "退",
+    "_r": "m艮"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "艮"
+  }
+}

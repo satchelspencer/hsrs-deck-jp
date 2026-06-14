@@ -4,7 +4,8 @@
   "name": "world-of-life",
   "order": "4",
   "parents": [
-    "abstracts"
+    "abstracts",
+    "u世"
   ],
   "props": {
     "en": "world of life",

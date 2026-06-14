@@ -1,0 +1,17 @@
+{
+  "_id": "x6pnb0pdvhj",
+  "name": "去法",
+  "order": "3.2.2.2.3",
+  "params": {
+    "_g": "法",
+    "_r": "m去"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "5",
+    "jp": "去"
+  }
+}

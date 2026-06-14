@@ -1,0 +1,17 @@
+{
+  "_id": "zmubi5u6vxu",
+  "name": "夕夢",
+  "order": "2.4.5.0.6",
+  "params": {
+    "_g": "夢",
+    "_r": "m夕"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "11",
+    "_sl": "3",
+    "jp": "夕"
+  }
+}

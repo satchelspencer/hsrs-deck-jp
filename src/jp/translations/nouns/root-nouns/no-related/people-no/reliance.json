@@ -4,7 +4,9 @@
   "name": "reliance",
   "order": "4",
   "parents": [
-    "people-no"
+    "people-no",
+    "u信",
+    "u頼"
   ],
   "props": {
     "en": "reliance",

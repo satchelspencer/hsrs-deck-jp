@@ -1,0 +1,17 @@
+{
+  "_id": "zy1kgrc4nvb",
+  "name": "千憩",
+  "order": "3.2.1.7.5",
+  "params": {
+    "_g": "憩",
+    "_r": "m千"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "千"
+  }
+}

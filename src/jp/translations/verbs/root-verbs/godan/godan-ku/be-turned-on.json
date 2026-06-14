@@ -5,7 +5,8 @@
   "order": "2",
   "parents": [
     "godan-ku",
-    "te-iru-verbs-state"
+    "te-iru-verbs-state",
+    "u点"
   ],
   "props": {
     "_st": "turned on",

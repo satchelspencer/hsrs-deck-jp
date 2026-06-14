@@ -1,0 +1,17 @@
+{
+  "_id": "ka62g6w9sej",
+  "name": "r炎",
+  "order": "4.1.9.4.9.1",
+  "params": {
+    "_g": "炎",
+    "_r": "m炎"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "8",
+    "jp": "炎"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "_id": "89d6nmtyjs1",
+  "desc": "variant of 艸",
+  "name": "艹薬",
+  "order": "2.4.7.5.5",
+  "params": {
+    "_g": "薬",
+    "_r": "m艹"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "艹"
+  }
+}

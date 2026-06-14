@@ -1,0 +1,17 @@
+{
+  "_id": "8kpkr9oad1x",
+  "name": "r号",
+  "order": "2.9.8.8.2.1",
+  "params": {
+    "_g": "号",
+    "_r": "m号"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "号"
+  }
+}

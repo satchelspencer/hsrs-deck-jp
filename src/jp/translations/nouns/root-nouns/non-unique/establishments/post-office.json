@@ -3,7 +3,10 @@
   "name": "post-office",
   "order": "2",
   "parents": [
-    "establishments"
+    "establishments",
+    "u郵",
+    "u便",
+    "u局"
   ],
   "props": {
     "en": "post office",

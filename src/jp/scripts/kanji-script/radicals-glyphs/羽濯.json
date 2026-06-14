@@ -1,0 +1,17 @@
+{
+  "_id": "nyd732pd6o3",
+  "name": "羽濯",
+  "order": "2.9.0.1.2",
+  "params": {
+    "_g": "濯",
+    "_r": "m羽"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "6",
+    "jp": "羽"
+  }
+}

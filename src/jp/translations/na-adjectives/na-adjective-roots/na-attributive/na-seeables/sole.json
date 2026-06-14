@@ -4,7 +4,9 @@
   "name": "sole",
   "order": "4",
   "parents": [
-    "na-seeables"
+    "na-seeables",
+    "u唯",
+    "u一"
   ],
   "props": {
     "en": "sole",

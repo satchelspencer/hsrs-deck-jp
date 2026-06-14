@@ -1,0 +1,17 @@
+{
+  "_id": "e0zm49tgeud",
+  "name": "山崩",
+  "order": "4.4.0.1.6",
+  "params": {
+    "_g": "崩",
+    "_r": "m山"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "山"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "_id": "okbdr3x4q8i",
+  "desc": "variant of 巳",
+  "name": "己改",
+  "order": "4.9.4.4.5",
+  "params": {
+    "_g": "改",
+    "_r": "m己"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "己"
+  }
+}

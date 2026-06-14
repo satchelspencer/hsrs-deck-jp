@@ -1,0 +1,17 @@
+{
+  "_id": "96nw2t7lbp9",
+  "name": "炎談",
+  "order": "4.1.9.4.9",
+  "params": {
+    "_g": "談",
+    "_r": "m炎"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "8",
+    "jp": "炎"
+  }
+}

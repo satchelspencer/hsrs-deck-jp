@@ -1,0 +1,18 @@
+{
+  "_id": "5yulogzlm0c",
+  "desc": "variant of 吅",
+  "name": "⺍桜",
+  "order": "2.9.2.4.0",
+  "params": {
+    "_g": "桜",
+    "_r": "m⺍"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "3",
+    "jp": "⺍"
+  }
+}

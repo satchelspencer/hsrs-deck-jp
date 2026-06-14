@@ -1,0 +1,17 @@
+{
+  "_id": "9he19pjhnh0",
+  "name": "八慣",
+  "order": "2.3.5.5.5",
+  "params": {
+    "_g": "慣",
+    "_r": "m八"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "13",
+    "_sl": "2",
+    "jp": "八"
+  }
+}

@@ -3,7 +3,9 @@
   "name": "pencil",
   "order": "2",
   "parents": [
-    "writing-utensils"
+    "writing-utensils",
+    "u鉛",
+    "u筆"
   ],
   "props": {
     "en": "pencil",

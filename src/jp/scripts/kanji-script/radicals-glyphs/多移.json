@@ -1,0 +1,17 @@
+{
+  "_id": "789dsd5q344",
+  "name": "多移",
+  "order": "3.6.0.9.8",
+  "params": {
+    "_g": "移",
+    "_r": "m多"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "6",
+    "jp": "多"
+  }
+}

@@ -4,7 +4,8 @@
   "order": "2",
   "parents": [
     "i-attributive-standard",
-    "i-objects"
+    "i-objects",
+    "u重"
   ],
   "props": {
     "_ad": "heavily",

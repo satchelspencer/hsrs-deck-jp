@@ -1,0 +1,18 @@
+{
+  "_id": "3v471bxfc32",
+  "desc": "variant of 襾",
+  "name": "覀要",
+  "order": "1.3.5.9.8",
+  "params": {
+    "_g": "要",
+    "_r": "m覀"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "覀"
+  }
+}

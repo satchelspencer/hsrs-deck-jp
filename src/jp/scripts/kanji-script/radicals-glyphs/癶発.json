@@ -1,0 +1,17 @@
+{
+  "_id": "j5142zkbwc8",
+  "name": "癶発",
+  "order": "3.1.0.6.8",
+  "params": {
+    "_g": "発",
+    "_r": "m癶"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "癶"
+  }
+}

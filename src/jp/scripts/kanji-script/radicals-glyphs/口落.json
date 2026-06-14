@@ -1,0 +1,17 @@
+{
+  "_id": "133all4r1aj",
+  "name": "口落",
+  "order": "2.3.5.7.3",
+  "params": {
+    "_g": "落",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "10",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

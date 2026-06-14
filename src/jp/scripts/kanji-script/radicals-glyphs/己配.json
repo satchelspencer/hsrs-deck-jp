@@ -1,0 +1,18 @@
+{
+  "_id": "fgxamlzyy09",
+  "desc": "variant of 巳",
+  "name": "己配",
+  "order": "2.6.6.3.1",
+  "params": {
+    "_g": "配",
+    "_r": "m己"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "3",
+    "jp": "己"
+  }
+}

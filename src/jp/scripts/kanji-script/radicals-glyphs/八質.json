@@ -1,0 +1,17 @@
+{
+  "_id": "ab9i9sb9mg8",
+  "name": "八質",
+  "order": "2.6.3.8.0",
+  "params": {
+    "_g": "質",
+    "_r": "m八"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "14",
+    "_sl": "2",
+    "jp": "八"
+  }
+}

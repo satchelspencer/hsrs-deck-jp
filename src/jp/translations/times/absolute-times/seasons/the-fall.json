@@ -3,7 +3,8 @@
   "desc": "autumn, fall",
   "name": "the-fall",
   "parents": [
-    "seasons"
+    "seasons",
+    "u秋"
   ],
   "props": {
     "en": "the fall",

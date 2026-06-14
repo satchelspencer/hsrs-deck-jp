@@ -1,0 +1,17 @@
+{
+  "_id": "3jn0fobj4yf",
+  "name": "厂顔",
+  "order": "2.4.0.5.0",
+  "params": {
+    "_g": "顔",
+    "_r": "m厂"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "2",
+    "jp": "厂"
+  }
+}

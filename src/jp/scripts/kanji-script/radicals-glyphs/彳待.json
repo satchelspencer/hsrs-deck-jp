@@ -1,0 +1,17 @@
+{
+  "_id": "279mkqcv5cu",
+  "name": "彳待",
+  "order": "1.2.2.2.9",
+  "params": {
+    "_g": "待",
+    "_r": "m彳"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "彳"
+  }
+}

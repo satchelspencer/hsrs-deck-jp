@@ -1,0 +1,17 @@
+{
+  "_id": "5hbfgqu1ynw",
+  "name": "口客",
+  "order": "3.6.3.5.6",
+  "params": {
+    "_g": "客",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

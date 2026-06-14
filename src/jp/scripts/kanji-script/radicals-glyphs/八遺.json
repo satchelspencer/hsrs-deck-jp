@@ -1,0 +1,17 @@
+{
+  "_id": "kwye8c25c32",
+  "name": "八遺",
+  "order": "4.2.6.2.4",
+  "params": {
+    "_g": "遺",
+    "_r": "m八"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "11",
+    "_sl": "2",
+    "jp": "八"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "_id": "b7nc8th77t3",
+  "desc": "variant of 手",
+  "name": "扌撮",
+  "order": "3.6.8.7.8",
+  "params": {
+    "_g": "撮",
+    "_r": "m扌"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "扌"
+  }
+}

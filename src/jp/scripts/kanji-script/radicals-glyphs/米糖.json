@@ -1,0 +1,17 @@
+{
+  "_id": "cusjn3uxdds",
+  "name": "米糖",
+  "order": "3.9.4.8.0",
+  "params": {
+    "_g": "糖",
+    "_r": "m米"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "米"
+  }
+}

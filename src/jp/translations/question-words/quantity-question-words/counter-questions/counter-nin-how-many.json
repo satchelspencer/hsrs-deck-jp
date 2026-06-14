@@ -5,7 +5,9 @@
     "root": "people-counter"
   },
   "parents": [
-    "counter-questions"
+    "counter-questions",
+    "u何",
+    "u人"
   ],
   "props": {
     "en": "how many people",

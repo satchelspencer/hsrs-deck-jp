@@ -1,0 +1,17 @@
+{
+  "_id": "tk1pylvrxpt",
+  "name": "非罪",
+  "order": "3.9.2.7.7",
+  "params": {
+    "_g": "罪",
+    "_r": "m非"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "8",
+    "jp": "非"
+  }
+}

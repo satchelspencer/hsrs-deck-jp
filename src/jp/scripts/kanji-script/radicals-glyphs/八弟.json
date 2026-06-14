@@ -1,0 +1,17 @@
+{
+  "_id": "449nyqlqnwn",
+  "name": "八弟",
+  "order": "1.9.8.8.7",
+  "params": {
+    "_g": "弟",
+    "_r": "m八"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "2",
+    "jp": "八"
+  }
+}

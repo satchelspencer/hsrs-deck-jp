@@ -1,0 +1,17 @@
+{
+  "_id": "v99j1d334mu",
+  "name": "匕指",
+  "order": "3.4.8.7.3",
+  "params": {
+    "_g": "指",
+    "_r": "m匕"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "2",
+    "jp": "匕"
+  }
+}

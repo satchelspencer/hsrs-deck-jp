@@ -1,0 +1,10 @@
+{
+  "_id": "62v0a8ra0ac",
+  "name": "m店",
+  "parents": [
+    "radicals"
+  ],
+  "props": {
+    "_m": "store, shop"
+  }
+}

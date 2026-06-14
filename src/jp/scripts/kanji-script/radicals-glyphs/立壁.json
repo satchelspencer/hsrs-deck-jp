@@ -1,0 +1,17 @@
+{
+  "_id": "n58r03f0vqb",
+  "name": "立壁",
+  "order": "2.4.0.0.6",
+  "params": {
+    "_g": "壁",
+    "_r": "m立"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "5",
+    "jp": "立"
+  }
+}

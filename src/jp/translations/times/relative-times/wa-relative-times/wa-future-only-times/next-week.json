@@ -3,7 +3,9 @@
   "name": "next-week",
   "order": "1",
   "parents": [
-    "wa-future-only-times"
+    "wa-future-only-times",
+    "u来",
+    "u週"
   ],
   "props": {
     "en": "next week",

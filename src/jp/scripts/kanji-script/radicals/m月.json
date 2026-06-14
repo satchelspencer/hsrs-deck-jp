@@ -1,0 +1,11 @@
+{
+  "_id": "acbwa14kw0n",
+  "desc": "variant of 肉",
+  "name": "m月",
+  "parents": [
+    "radicals"
+  ],
+  "props": {
+    "_m": "month, moon"
+  }
+}

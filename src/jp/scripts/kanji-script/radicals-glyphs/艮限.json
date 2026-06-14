@@ -1,0 +1,17 @@
+{
+  "_id": "5azjdinnzpj",
+  "name": "艮限",
+  "order": "4.1.7.1.8",
+  "params": {
+    "_g": "限",
+    "_r": "m艮"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "6",
+    "jp": "艮"
+  }
+}

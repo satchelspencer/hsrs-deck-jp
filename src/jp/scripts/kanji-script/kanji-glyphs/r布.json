@@ -1,0 +1,17 @@
+{
+  "_id": "63uc4bssfhi",
+  "name": "r布",
+  "order": "1.9.8.6.4.1",
+  "params": {
+    "_g": "布",
+    "_r": "m布"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "布"
+  }
+}

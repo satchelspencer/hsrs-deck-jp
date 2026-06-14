@@ -1,0 +1,15 @@
+{
+  "_id": "bcmfznlcv9e",
+  "name": "旅",
+  "order": "2.5.2.0.7",
+  "params": {
+    "_wd": "u旅"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "旅",
+    "_st": "CgNNHRFjAQECAwIFYwAEAAcACgRNDSNjAgAEAAYAYweBEIMVhGMBAAOBBQAFTR4wYwMBBgIJBGMCAQMCAgRjAAeIH4wkY4MDhYGGggNNHiVjAAEBAwAEQxw1FkYMUQNNOg9jAAEAAgADY4IGhhKMGQRNOR9jAgADAAUAYwaBEYQWhWMBAAMABQADTUQhYwABAAIABGODCIoWlSAETT42YwEBAQIBBGMACwAYACFjAAMABgAHA01XKWMAAQACAANjggSFCIoNA01FOGMDABATFRljAQIDAwQE"
+  }
+}

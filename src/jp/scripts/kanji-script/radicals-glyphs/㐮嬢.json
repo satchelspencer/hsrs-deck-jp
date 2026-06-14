@@ -1,0 +1,20 @@
+{
+  "_id": "z8ci0lbrr67",
+  "desc": "variant of 襄",
+  "name": "㐮嬢",
+  "order": "3.9.0.9.1",
+  "params": {
+    "_1": "六嬢",
+    "_2": "𧘇嬢",
+    "_g": "嬢",
+    "_r": "m㐮"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "13",
+    "jp": "㐮"
+  }
+}

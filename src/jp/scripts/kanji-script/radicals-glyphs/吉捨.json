@@ -1,0 +1,19 @@
+{
+  "_id": "ujkheu1febh",
+  "name": "吉捨",
+  "order": "3.4.9.1.7",
+  "params": {
+    "_1": "士捨",
+    "_2": "口捨",
+    "_g": "捨",
+    "_r": "m吉"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "6",
+    "jp": "吉"
+  }
+}

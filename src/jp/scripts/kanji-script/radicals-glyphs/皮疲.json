@@ -1,0 +1,17 @@
+{
+  "_id": "aufi0vm4xvl",
+  "name": "皮疲",
+  "order": "2.4.0.5.3",
+  "params": {
+    "_g": "疲",
+    "_r": "m皮"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "5",
+    "jp": "皮"
+  }
+}

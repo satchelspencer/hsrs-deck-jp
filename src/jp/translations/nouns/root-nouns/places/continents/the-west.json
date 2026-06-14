@@ -4,7 +4,9 @@
   "name": "the-west",
   "order": "3",
   "parents": [
-    "continents"
+    "continents",
+    "u西",
+    "u洋"
   ],
   "props": {
     "en": "the west",

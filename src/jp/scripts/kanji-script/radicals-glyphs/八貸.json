@@ -1,0 +1,17 @@
+{
+  "_id": "yapw4qdaa85",
+  "name": "八貸",
+  "order": "2.6.6.6.3",
+  "params": {
+    "_g": "貸",
+    "_r": "m八"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "11",
+    "_sl": "2",
+    "jp": "八"
+  }
+}

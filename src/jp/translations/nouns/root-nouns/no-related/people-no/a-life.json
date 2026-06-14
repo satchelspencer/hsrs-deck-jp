@@ -4,7 +4,8 @@
   "name": "a-life",
   "order": "4",
   "parents": [
-    "people-no"
+    "people-no",
+    "u命"
   ],
   "props": {
     "en": "a life",

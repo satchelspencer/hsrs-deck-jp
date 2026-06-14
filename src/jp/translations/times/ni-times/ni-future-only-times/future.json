@@ -5,7 +5,9 @@
   "order": "3",
   "parents": [
     "ni-future-only-times",
-    "abstracts"
+    "abstracts",
+    "u将",
+    "u来"
   ],
   "props": {
     "en": "future",

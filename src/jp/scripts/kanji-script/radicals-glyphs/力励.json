@@ -1,0 +1,17 @@
+{
+  "_id": "5jd35oobtyg",
+  "name": "力励",
+  "order": "3.9.4.0.8",
+  "params": {
+    "_g": "励",
+    "_r": "m力"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "2",
+    "jp": "力"
+  }
+}

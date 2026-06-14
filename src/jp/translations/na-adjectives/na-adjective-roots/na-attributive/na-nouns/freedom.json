@@ -5,7 +5,9 @@
   "order": "4",
   "parents": [
     "na-nouns",
-    "abstracts"
+    "abstracts",
+    "u自",
+    "u由"
   ],
   "props": {
     "_at": "free",

@@ -1,0 +1,17 @@
+{
+  "_id": "b8j2cxv9er8",
+  "name": "r当",
+  "order": "1.2.6.5.1.1",
+  "params": {
+    "_g": "当",
+    "_r": "m当"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "当"
+  }
+}

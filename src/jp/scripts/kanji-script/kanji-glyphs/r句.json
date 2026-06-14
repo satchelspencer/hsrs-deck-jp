@@ -1,0 +1,17 @@
+{
+  "_id": "m19iqrhsaeb",
+  "name": "r句",
+  "order": "2.4.6.1.0.1",
+  "params": {
+    "_g": "句",
+    "_r": "m句"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "句"
+  }
+}

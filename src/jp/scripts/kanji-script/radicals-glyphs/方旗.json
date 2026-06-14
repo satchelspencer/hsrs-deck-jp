@@ -1,0 +1,17 @@
+{
+  "_id": "7o3hv45p521",
+  "name": "方旗",
+  "order": "3.9.1.0.2",
+  "params": {
+    "_g": "旗",
+    "_r": "m方"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "方"
+  }
+}

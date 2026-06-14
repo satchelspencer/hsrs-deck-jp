@@ -1,0 +1,17 @@
+{
+  "_id": "fbb40azta8g",
+  "name": "丙病",
+  "order": "2.4.0.1.5",
+  "params": {
+    "_g": "病",
+    "_r": "m丙"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "5",
+    "jp": "丙"
+  }
+}

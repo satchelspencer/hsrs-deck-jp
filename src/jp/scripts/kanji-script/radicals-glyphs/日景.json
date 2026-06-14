@@ -1,0 +1,18 @@
+{
+  "_id": "pgrbas3p0w3",
+  "desc": "variant of 曰",
+  "name": "日景",
+  "order": "3.4.1.6.1",
+  "params": {
+    "_g": "景",
+    "_r": "m日"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "日"
+  }
+}

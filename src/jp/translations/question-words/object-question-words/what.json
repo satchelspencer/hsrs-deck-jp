@@ -4,7 +4,8 @@
   "order": "1",
   "parents": [
     "object-question-words",
-    "ka-question-gated"
+    "ka-question-gated",
+    "u何"
   ],
   "props": {
     "_dm": "anything",

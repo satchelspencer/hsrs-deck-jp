@@ -5,7 +5,8 @@
     "number": "seven"
   },
   "parents": [
-    "counter-wago"
+    "counter-wago",
+    "u七"
   ],
   "props": {
     "en": null,

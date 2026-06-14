@@ -1,0 +1,18 @@
+{
+  "_id": "x6vkdxv1pea",
+  "desc": "variant of 肉",
+  "name": "月祭",
+  "order": "2.4.6.1.0",
+  "params": {
+    "_g": "祭",
+    "_r": "m月"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "月"
+  }
+}

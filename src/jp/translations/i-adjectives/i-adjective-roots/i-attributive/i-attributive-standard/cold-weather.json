@@ -4,7 +4,8 @@
   "name": "cold-weather",
   "order": "2",
   "parents": [
-    "i-attributive-standard"
+    "i-attributive-standard",
+    "u寒"
   ],
   "props": {
     "_ad": "coldly",

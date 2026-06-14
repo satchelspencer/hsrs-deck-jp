@@ -1,0 +1,18 @@
+{
+  "_id": "dsozo3rqeth",
+  "desc": "variant of 手",
+  "name": "扌担",
+  "order": "4.9.7.2.3",
+  "params": {
+    "_g": "担",
+    "_r": "m扌"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "扌"
+  }
+}

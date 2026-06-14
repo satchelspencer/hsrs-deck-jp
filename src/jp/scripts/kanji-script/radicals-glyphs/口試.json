@@ -1,0 +1,17 @@
+{
+  "_id": "9jq7vmqj1d3",
+  "name": "口試",
+  "order": "3.9.6.5.1",
+  "params": {
+    "_g": "試",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

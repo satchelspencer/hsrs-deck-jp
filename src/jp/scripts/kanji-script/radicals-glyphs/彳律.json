@@ -1,0 +1,17 @@
+{
+  "_id": "3xbvre13w1y",
+  "name": "彳律",
+  "order": "3.4.8.1.8",
+  "params": {
+    "_g": "律",
+    "_r": "m彳"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "彳"
+  }
+}

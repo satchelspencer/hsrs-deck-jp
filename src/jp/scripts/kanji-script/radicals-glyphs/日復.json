@@ -1,0 +1,18 @@
+{
+  "_id": "ypbjknxsv7m",
+  "desc": "variant of 曰",
+  "name": "日復",
+  "order": "3.9.6.5.7",
+  "params": {
+    "_g": "復",
+    "_r": "m日"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "4",
+    "jp": "日"
+  }
+}

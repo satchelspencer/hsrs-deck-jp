@@ -1,0 +1,17 @@
+{
+  "_id": "lrmrisfo6sc",
+  "name": "旦喧",
+  "order": "3.9.7.3.6",
+  "params": {
+    "_g": "喧",
+    "_r": "m旦"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "5",
+    "jp": "旦"
+  }
+}

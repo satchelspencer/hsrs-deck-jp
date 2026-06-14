@@ -1,0 +1,17 @@
+{
+  "_id": "xca7jkyfavn",
+  "name": "r丸",
+  "order": "2.3.1.9.6.1",
+  "params": {
+    "_g": "丸",
+    "_r": "m丸"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "丸"
+  }
+}

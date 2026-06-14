@@ -6,7 +6,9 @@
     "tools",
     "pullables",
     "satsu-countable",
-    "readables"
+    "readables",
+    "u字",
+    "u引"
   ],
   "props": {
     "en": "kanji dictionary",

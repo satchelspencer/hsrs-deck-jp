@@ -4,7 +4,10 @@
   "name": "possibility",
   "order": "4.9",
   "parents": [
-    "verb-clause-nouns-any"
+    "verb-clause-nouns-any",
+    "u可",
+    "u能",
+    "u性"
   ],
   "props": {
     "en": "possibility",

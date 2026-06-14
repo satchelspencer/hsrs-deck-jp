@@ -1,0 +1,15 @@
+{
+  "_id": "0f47adpovf8",
+  "name": "道",
+  "order": "1.9.7.8.0",
+  "params": {
+    "_wd": "u道"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "道",
+    "_st": "DAJNMQ9jAwIHBwcKA01NDWMAAQACAAJjgQODB4cKBE0qIWMCAAUABwBjCoEagyWDYwMABQAGAANNQCJjAAAAAgACY4ECggWEBwRNMyxjAQEBAgEDYwABABcAIGMAAgADAAQFTTUtYwaBF4MZg2MCAAMBAwNjAAGBF4EgYwACAAMAAwJNNThjBgAVghuCAk01RGMHABOCGoICTTVPYwUAE4EZgQJNFBRjAwIIBgoJB00NNGMCAQQABQBzCYMLhGMDgQQAAgNjhwqHCQAOYwICAgSBBUMaShZMEk8ETQ1SYwMACYEOgWMHAB8IJAlDS15SYFtg"
+  }
+}

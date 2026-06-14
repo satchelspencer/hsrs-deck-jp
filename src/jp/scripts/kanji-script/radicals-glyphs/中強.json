@@ -1,0 +1,17 @@
+{
+  "_id": "ap0wqyv0j43",
+  "name": "中強",
+  "order": "1.2.5.8.6",
+  "params": {
+    "_g": "強",
+    "_r": "m中"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "4",
+    "jp": "中"
+  }
+}

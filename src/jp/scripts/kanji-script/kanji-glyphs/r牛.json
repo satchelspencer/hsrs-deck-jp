@@ -1,0 +1,17 @@
+{
+  "_id": "dq7gfgihq2t",
+  "name": "r牛",
+  "order": "1.3.8.4.2.1",
+  "params": {
+    "_g": "牛",
+    "_r": "m牛"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "牛"
+  }
+}

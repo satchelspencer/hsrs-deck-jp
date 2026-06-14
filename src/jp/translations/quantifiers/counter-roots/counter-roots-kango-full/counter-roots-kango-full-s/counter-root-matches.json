@@ -4,7 +4,9 @@
   "name": "counter-root-matches",
   "order": "4",
   "parents": [
-    "counter-roots-kango-full-s"
+    "counter-roots-kango-full-s",
+    "u試",
+    "u合"
   ],
   "props": {
     "_ec": "matches",

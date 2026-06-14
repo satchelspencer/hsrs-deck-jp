@@ -1,0 +1,17 @@
+{
+  "_id": "x1w5dm8c27q",
+  "name": "且畳",
+  "order": "3.9.0.9.1",
+  "params": {
+    "_g": "畳",
+    "_r": "m且"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "5",
+    "jp": "且"
+  }
+}

@@ -3,7 +3,8 @@
   "name": "hundred",
   "order": "8",
   "parents": [
-    "numbers"
+    "numbers",
+    "u百"
   ],
   "props": {
     "_fw": "１００",

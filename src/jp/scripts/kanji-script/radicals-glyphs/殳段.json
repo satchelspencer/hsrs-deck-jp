@@ -1,0 +1,17 @@
+{
+  "_id": "8n373rtj5jd",
+  "name": "殳段",
+  "order": "2.2.7.9.9",
+  "params": {
+    "_g": "段",
+    "_r": "m殳"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "4",
+    "jp": "殳"
+  }
+}

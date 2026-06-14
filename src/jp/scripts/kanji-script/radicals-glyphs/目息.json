@@ -1,0 +1,17 @@
+{
+  "_id": "a5ewqf17o7s",
+  "name": "目息",
+  "order": "1.9.6.8.5",
+  "params": {
+    "_g": "息",
+    "_r": "m目"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "2",
+    "_sl": "5",
+    "jp": "目"
+  }
+}

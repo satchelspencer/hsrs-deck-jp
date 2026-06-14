@@ -1,0 +1,18 @@
+{
+  "_id": "5db36txj7jc",
+  "name": "甬踊",
+  "order": "3.3.6.5.6",
+  "params": {
+    "_1": "用踊",
+    "_g": "踊",
+    "_r": "m甬"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "7",
+    "jp": "甬"
+  }
+}

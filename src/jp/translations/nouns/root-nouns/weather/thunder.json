@@ -5,7 +5,8 @@
   "order": "4",
   "parents": [
     "weather",
-    "ringers"
+    "ringers",
+    "u雷"
   ],
   "props": {
     "en": "thunder",

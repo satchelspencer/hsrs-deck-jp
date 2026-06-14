@@ -6,7 +6,8 @@
   "parents": [
     "fastenables",
     "ko-countable",
-    "wago-countable"
+    "wago-countable",
+    "u鍵"
   ],
   "props": {
     "en": "key",

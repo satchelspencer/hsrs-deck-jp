@@ -1,0 +1,18 @@
+{
+  "_id": "y2h4l37jbkj",
+  "name": "馬駄",
+  "order": "1.6.4.4.7",
+  "params": {
+    "_1": "灬駄",
+    "_g": "駄",
+    "_r": "m馬"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "10",
+    "jp": "馬"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "wo1dqghwuc8",
+  "name": "甘基",
+  "order": "2.9.9.6.9",
+  "params": {
+    "_g": "基",
+    "_r": "m甘"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "甘"
+  }
+}

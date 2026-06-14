@@ -1,0 +1,17 @@
+{
+  "_id": "x8d0jt9zmrr",
+  "name": "白習",
+  "order": "2.2.8.0.7",
+  "params": {
+    "_g": "習",
+    "_r": "m白"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "5",
+    "jp": "白"
+  }
+}

@@ -4,7 +4,8 @@
   "name": "hard",
   "order": "3",
   "parents": [
-    "i-attributive-standard"
+    "i-attributive-standard",
+    "u硬"
   ],
   "props": {
     "_ad": "hard-ly",

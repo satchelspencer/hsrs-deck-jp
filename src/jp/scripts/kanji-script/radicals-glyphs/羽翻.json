@@ -1,0 +1,17 @@
+{
+  "_id": "n49g8921hd4",
+  "name": "羽翻",
+  "order": "3.6.7.0.4",
+  "params": {
+    "_g": "翻",
+    "_r": "m羽"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "13",
+    "_sl": "6",
+    "jp": "羽"
+  }
+}

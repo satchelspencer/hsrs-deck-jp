@@ -1,0 +1,17 @@
+{
+  "_id": "vo5decw1t7a",
+  "name": "口計",
+  "order": "3.2.0.1.7",
+  "params": {
+    "_g": "計",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

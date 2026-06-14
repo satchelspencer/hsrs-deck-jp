@@ -4,7 +4,9 @@
   "order": "1",
   "parents": [
     "foods",
-    "cuttables"
+    "cuttables",
+    "u寿",
+    "u司"
   ],
   "props": {
     "en": "sushi",

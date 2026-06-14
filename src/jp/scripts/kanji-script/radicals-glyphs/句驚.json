@@ -1,0 +1,17 @@
+{
+  "_id": "nf4eiyap8ef",
+  "name": "句驚",
+  "order": "3.2.1.0.0",
+  "params": {
+    "_g": "驚",
+    "_r": "m句"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "5",
+    "jp": "句"
+  }
+}

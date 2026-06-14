@@ -1,0 +1,17 @@
+{
+  "_id": "imt0uds45ya",
+  "name": "雨濡",
+  "order": "3.2.2.6.9",
+  "params": {
+    "_g": "濡",
+    "_r": "m雨"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "8",
+    "jp": "雨"
+  }
+}

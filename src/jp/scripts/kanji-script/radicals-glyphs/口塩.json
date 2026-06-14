@@ -1,0 +1,17 @@
+{
+  "_id": "p6fc9mbwhsi",
+  "name": "口塩",
+  "order": "1.9.5.4.3",
+  "params": {
+    "_g": "塩",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

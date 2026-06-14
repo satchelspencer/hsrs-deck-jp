@@ -4,7 +4,8 @@
   "name": "flourishing",
   "order": "3",
   "parents": [
-    "na-attributive"
+    "na-attributive",
+    "u盛"
   ],
   "props": {
     "en": "flourishing",

@@ -1,0 +1,15 @@
+{
+  "_id": "lz9h2k3u4oj",
+  "name": "院",
+  "order": "2.9.4.7.4",
+  "params": {
+    "_wd": "u院"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "院",
+    "_st": "CgVNDBZjAQACAAMAYweBC4IOg2MEgQUCBARDIBoaJBgoAk0YKGMNCAwkAh0ETQ0WYwEBAQIBA2MAAQAvAEBjAAMABQAGA00-DmMBAQECAQRjAAQABgAJAk0sHGMABYILgw4DTS0dQzsbThlWGGMHAIEIgggETTQqYwEAAwAEAGMGgQqCDoJjAgADAAQABE0qOWMCAAQBBgBjCoEZhCKEYwMABAAFAANNOTxjAQEBAwAEQzdIM1UmXgVNQzpjAQECAgIEYwAIABAAFWMACAELDQtjCwANgg2I"
+  }
+}

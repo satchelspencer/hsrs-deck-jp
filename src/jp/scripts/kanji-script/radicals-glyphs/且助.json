@@ -1,0 +1,17 @@
+{
+  "_id": "tyw81v1407l",
+  "name": "且助",
+  "order": "1.9.2.5.8",
+  "params": {
+    "_g": "助",
+    "_r": "m且"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "且"
+  }
+}

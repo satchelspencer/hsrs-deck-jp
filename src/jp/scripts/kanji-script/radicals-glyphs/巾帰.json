@@ -1,0 +1,17 @@
+{
+  "_id": "cixc39a3opb",
+  "name": "巾帰",
+  "order": "2.6.2.5.4",
+  "params": {
+    "_g": "帰",
+    "_r": "m巾"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "3",
+    "jp": "巾"
+  }
+}

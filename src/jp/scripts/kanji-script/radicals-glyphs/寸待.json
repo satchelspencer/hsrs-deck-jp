@@ -1,0 +1,17 @@
+{
+  "_id": "pc0j6ttjrxg",
+  "name": "寸待",
+  "order": "1.2.2.2.9",
+  "params": {
+    "_g": "待",
+    "_r": "m寸"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "3",
+    "jp": "寸"
+  }
+}

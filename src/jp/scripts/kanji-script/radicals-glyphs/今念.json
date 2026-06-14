@@ -1,0 +1,17 @@
+{
+  "_id": "t8ivafvptqi",
+  "name": "今念",
+  "order": "2.9.1.7.4",
+  "params": {
+    "_g": "念",
+    "_r": "m今"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "今"
+  }
+}

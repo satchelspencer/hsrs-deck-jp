@@ -1,0 +1,17 @@
+{
+  "_id": "9s15lc44a8g",
+  "name": "斤祈",
+  "order": "3.6.0.5.8",
+  "params": {
+    "_g": "祈",
+    "_r": "m斤"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "4",
+    "jp": "斤"
+  }
+}

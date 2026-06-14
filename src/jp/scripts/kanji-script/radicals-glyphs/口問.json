@@ -1,0 +1,17 @@
+{
+  "_id": "27lm6o4aeyu",
+  "name": "口問",
+  "order": "2.6.3.8.0",
+  "params": {
+    "_g": "問",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "9",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

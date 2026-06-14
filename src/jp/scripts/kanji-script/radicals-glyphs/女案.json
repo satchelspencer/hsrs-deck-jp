@@ -1,0 +1,17 @@
+{
+  "_id": "zbt2kmqp274",
+  "name": "女案",
+  "order": "3.4.3.3.1",
+  "params": {
+    "_g": "案",
+    "_r": "m女"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "3",
+    "jp": "女"
+  }
+}

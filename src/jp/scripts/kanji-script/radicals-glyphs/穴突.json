@@ -1,0 +1,17 @@
+{
+  "_id": "3niddndvb72",
+  "name": "穴突",
+  "order": "4.2.0.1.5",
+  "params": {
+    "_g": "突",
+    "_r": "m穴"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "穴"
+  }
+}

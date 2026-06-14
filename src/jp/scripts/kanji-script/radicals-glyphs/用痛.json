@@ -1,0 +1,17 @@
+{
+  "_id": "346n9oz27am",
+  "name": "用痛",
+  "order": "2.4.0.6.0",
+  "params": {
+    "_g": "痛",
+    "_r": "m用"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "5",
+    "jp": "用"
+  }
+}

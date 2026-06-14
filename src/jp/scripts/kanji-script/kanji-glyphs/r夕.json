@@ -1,0 +1,17 @@
+{
+  "_id": "3lbe241ewdc",
+  "name": "r夕",
+  "order": "1.2.0.1.4.1",
+  "params": {
+    "_g": "夕",
+    "_r": "m夕"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "夕"
+  }
+}

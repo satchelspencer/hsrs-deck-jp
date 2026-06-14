@@ -3,7 +3,9 @@
   "name": "church",
   "order": "4",
   "parents": [
-    "organizations"
+    "organizations",
+    "u教",
+    "u会"
   ],
   "props": {
     "en": "church",

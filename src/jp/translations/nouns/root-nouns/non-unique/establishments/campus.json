@@ -4,7 +4,9 @@
   "name": "campus",
   "order": "4",
   "parents": [
-    "establishments"
+    "establishments",
+    "u学",
+    "u園"
   ],
   "props": {
     "en": "campus",

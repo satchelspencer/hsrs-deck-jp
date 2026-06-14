@@ -4,7 +4,9 @@
   "name": "complaint",
   "order": "4",
   "parents": [
-    "people-no"
+    "people-no",
+    "u文",
+    "u句"
   ],
   "props": {
     "en": "complaint",

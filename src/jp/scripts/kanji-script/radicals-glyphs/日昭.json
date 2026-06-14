@@ -1,0 +1,18 @@
+{
+  "_id": "8bcs0xb8r4p",
+  "desc": "variant of 曰",
+  "name": "日昭",
+  "order": "3.9.6.0.0",
+  "params": {
+    "_g": "昭",
+    "_r": "m日"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "日"
+  }
+}

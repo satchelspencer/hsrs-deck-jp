@@ -6,7 +6,9 @@
   "parents": [
     "beliefs",
     "na-nouns",
-    "na-place"
+    "na-place",
+    "u平",
+    "u和"
   ],
   "props": {
     "_at": "peaceful",

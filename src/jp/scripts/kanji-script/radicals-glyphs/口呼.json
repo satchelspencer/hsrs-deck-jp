@@ -1,0 +1,17 @@
+{
+  "_id": "9oc5pvv911c",
+  "name": "口呼",
+  "order": "3.3.8.8.0",
+  "params": {
+    "_g": "呼",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

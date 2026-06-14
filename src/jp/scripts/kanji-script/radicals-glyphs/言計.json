@@ -1,0 +1,18 @@
+{
+  "_id": "j9uounw4eul",
+  "name": "言計",
+  "order": "3.2.0.1.7",
+  "params": {
+    "_1": "口計",
+    "_g": "計",
+    "_r": "m言"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "7",
+    "jp": "言"
+  }
+}

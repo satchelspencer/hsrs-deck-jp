@@ -1,0 +1,18 @@
+{
+  "_id": "y1d2yh02m81",
+  "desc": "variant of 刀",
+  "name": "刂則",
+  "order": "2.6.2.6.2",
+  "params": {
+    "_g": "則",
+    "_r": "m刂"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "2",
+    "jp": "刂"
+  }
+}

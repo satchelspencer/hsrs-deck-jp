@@ -1,0 +1,17 @@
+{
+  "_id": "8f2tzpyw189",
+  "name": "疒病",
+  "order": "2.4.0.1.5",
+  "params": {
+    "_g": "病",
+    "_r": "m疒"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "疒"
+  }
+}

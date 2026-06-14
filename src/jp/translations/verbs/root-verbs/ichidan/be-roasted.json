@@ -4,7 +4,8 @@
   "name": "be-roasted",
   "order": "3",
   "parents": [
-    "ichidan"
+    "ichidan",
+    "u焼"
   ],
   "props": {
     "en": "be roasted",

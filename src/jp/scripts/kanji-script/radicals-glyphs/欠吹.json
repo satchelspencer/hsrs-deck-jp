@@ -1,0 +1,17 @@
+{
+  "_id": "4r09v4vf2o4",
+  "name": "欠吹",
+  "order": "3.6.1.1.0",
+  "params": {
+    "_g": "吹",
+    "_r": "m欠"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "4",
+    "jp": "欠"
+  }
+}

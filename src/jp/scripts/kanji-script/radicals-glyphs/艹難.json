@@ -1,0 +1,18 @@
+{
+  "_id": "h0rowc2cifi",
+  "desc": "variant of 艸",
+  "name": "艹難",
+  "order": "2.2.6.5.3",
+  "params": {
+    "_g": "難",
+    "_r": "m艹"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "艹"
+  }
+}

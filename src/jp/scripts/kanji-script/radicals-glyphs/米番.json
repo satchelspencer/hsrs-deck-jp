@@ -1,0 +1,17 @@
+{
+  "_id": "nkgr0f2wa68",
+  "name": "米番",
+  "order": "1.9.3.2.3",
+  "params": {
+    "_g": "番",
+    "_r": "m米"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "2",
+    "_sl": "6",
+    "jp": "米"
+  }
+}

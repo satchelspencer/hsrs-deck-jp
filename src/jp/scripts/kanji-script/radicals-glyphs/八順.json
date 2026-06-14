@@ -1,0 +1,17 @@
+{
+  "_id": "8vv2r495wpa",
+  "name": "八順",
+  "order": "4.3.9.7.2",
+  "params": {
+    "_g": "順",
+    "_r": "m八"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "11",
+    "_sl": "2",
+    "jp": "八"
+  }
+}

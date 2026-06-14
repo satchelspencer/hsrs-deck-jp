@@ -3,7 +3,8 @@
   "name": "city",
   "order": "4",
   "parents": [
-    "places"
+    "places",
+    "u市"
   ],
   "props": {
     "en": "city",

@@ -1,0 +1,17 @@
+{
+  "_id": "bnv14jvhwfy",
+  "name": "白線",
+  "order": "2.6.4.8.2",
+  "params": {
+    "_g": "線",
+    "_r": "m白"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "5",
+    "jp": "白"
+  }
+}

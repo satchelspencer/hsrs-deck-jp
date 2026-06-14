@@ -1,0 +1,18 @@
+{
+  "_id": "kvzisetn3da",
+  "desc": "variant of 曰",
+  "name": "日暇",
+  "order": "2.9.2.5.9",
+  "params": {
+    "_g": "暇",
+    "_r": "m日"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "日"
+  }
+}

@@ -3,7 +3,9 @@
   "name": "suburb",
   "order": "3",
   "parents": [
-    "places"
+    "places",
+    "u郊",
+    "u外"
   ],
   "props": {
     "en": "suburb",

@@ -1,0 +1,18 @@
+{
+  "_id": "ai09qfqxjed",
+  "desc": "variant of 曰",
+  "name": "日増",
+  "order": "3.2.0.3.6",
+  "params": {
+    "_g": "増",
+    "_r": "m日"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "11",
+    "_sl": "4",
+    "jp": "日"
+  }
+}

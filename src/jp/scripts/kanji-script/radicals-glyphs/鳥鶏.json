@@ -1,0 +1,18 @@
+{
+  "_id": "pi5fb90qfx8",
+  "name": "鳥鶏",
+  "order": "2.9.7.1.2",
+  "params": {
+    "_1": "灬鶏",
+    "_g": "鶏",
+    "_r": "m鳥"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "9",
+    "_sl": "11",
+    "jp": "鳥"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "ne1i4apabil",
+  "name": "立辞",
+  "order": "1.9.0.0.9",
+  "params": {
+    "_g": "辞",
+    "_r": "m立"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "5",
+    "jp": "立"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "xn5ztj20d33",
+  "name": "广魔",
+  "order": "4.2.7.8.0",
+  "params": {
+    "_g": "魔",
+    "_r": "m广"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "广"
+  }
+}

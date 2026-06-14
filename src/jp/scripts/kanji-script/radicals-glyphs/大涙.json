@@ -1,0 +1,17 @@
+{
+  "_id": "vvm4ahrs4d5",
+  "name": "大涙",
+  "order": "4.2.1.7.5",
+  "params": {
+    "_g": "涙",
+    "_r": "m大"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "3",
+    "jp": "大"
+  }
+}

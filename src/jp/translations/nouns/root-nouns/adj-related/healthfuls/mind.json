@@ -4,7 +4,8 @@
   "name": "mind",
   "order": "3",
   "parents": [
-    "healthfuls"
+    "healthfuls",
+    "u心"
   ],
   "props": {
     "en": "mind",

@@ -1,0 +1,17 @@
+{
+  "_id": "4ouyrjsr3x3",
+  "name": "乃秀",
+  "order": "4.5.2.8.5",
+  "params": {
+    "_g": "秀",
+    "_r": "m乃"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "2",
+    "jp": "乃"
+  }
+}

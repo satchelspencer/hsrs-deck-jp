@@ -6,7 +6,9 @@
   "parents": [
     "godan-su",
     "te-iru-verbs-continuous",
-    "de-location-verbs"
+    "de-location-verbs",
+    "u降",
+    "u出"
   ],
   "props": {
     "_pg": "starting to shower down",

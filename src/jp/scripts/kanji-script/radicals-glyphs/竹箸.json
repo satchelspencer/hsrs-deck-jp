@@ -1,0 +1,17 @@
+{
+  "_id": "f2txddld2gt",
+  "name": "竹箸",
+  "order": "1.9.5.5.3",
+  "params": {
+    "_g": "箸",
+    "_r": "m竹"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "竹"
+  }
+}

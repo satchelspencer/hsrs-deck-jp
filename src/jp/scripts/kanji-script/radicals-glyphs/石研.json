@@ -1,0 +1,17 @@
+{
+  "_id": "43xlqiq21py",
+  "name": "石研",
+  "order": "3.4.8.3.4",
+  "params": {
+    "_g": "研",
+    "_r": "m石"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "石"
+  }
+}

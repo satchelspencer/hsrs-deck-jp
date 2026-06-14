@@ -1,0 +1,17 @@
+{
+  "_id": "ya8ch3zwv2z",
+  "name": "反飯",
+  "order": "1.9.0.1.0",
+  "params": {
+    "_g": "飯",
+    "_r": "m反"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "9",
+    "_sl": "4",
+    "jp": "反"
+  }
+}

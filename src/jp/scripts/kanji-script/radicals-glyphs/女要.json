@@ -1,0 +1,17 @@
+{
+  "_id": "8fdejejsp3n",
+  "name": "女要",
+  "order": "1.3.5.9.8",
+  "params": {
+    "_g": "要",
+    "_r": "m女"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "3",
+    "jp": "女"
+  }
+}

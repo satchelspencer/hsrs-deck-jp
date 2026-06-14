@@ -3,7 +3,10 @@
   "name": "fountain-pen",
   "order": "3",
   "parents": [
-    "writing-utensils"
+    "writing-utensils",
+    "u万",
+    "u年",
+    "u筆"
   ],
   "props": {
     "en": "fountain pen",

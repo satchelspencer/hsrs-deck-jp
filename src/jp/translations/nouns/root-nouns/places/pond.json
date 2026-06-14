@@ -3,7 +3,8 @@
   "name": "pond",
   "order": "3",
   "parents": [
-    "places"
+    "places",
+    "u池"
   ],
   "props": {
     "en": "pond",

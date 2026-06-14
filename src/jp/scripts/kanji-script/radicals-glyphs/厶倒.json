@@ -1,0 +1,17 @@
+{
+  "_id": "fdclz7fr81l",
+  "name": "厶倒",
+  "order": "3.5.2.1.7",
+  "params": {
+    "_g": "倒",
+    "_r": "m厶"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "2",
+    "jp": "厶"
+  }
+}

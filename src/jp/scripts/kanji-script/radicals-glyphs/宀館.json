@@ -1,0 +1,17 @@
+{
+  "_id": "wsls2qcpckw",
+  "name": "宀館",
+  "order": "2.9.7.7.5",
+  "params": {
+    "_g": "館",
+    "_r": "m宀"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "9",
+    "_sl": "3",
+    "jp": "宀"
+  }
+}

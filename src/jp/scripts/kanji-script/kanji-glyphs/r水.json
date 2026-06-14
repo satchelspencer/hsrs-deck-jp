@@ -1,0 +1,17 @@
+{
+  "_id": "ubpmd9htg1g",
+  "name": "r水",
+  "order": "1.5.1.6.8.1",
+  "params": {
+    "_g": "水",
+    "_r": "m水"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "水"
+  }
+}

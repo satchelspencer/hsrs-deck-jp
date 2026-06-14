@@ -1,0 +1,18 @@
+{
+  "_id": "xdqpu1a3203",
+  "desc": "variant of 曰",
+  "name": "日婚",
+  "order": "2.9.0.0.1",
+  "params": {
+    "_g": "婚",
+    "_r": "m日"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "4",
+    "jp": "日"
+  }
+}

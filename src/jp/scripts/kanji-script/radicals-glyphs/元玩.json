@@ -1,0 +1,17 @@
+{
+  "_id": "pnq5eoe48pb",
+  "name": "元玩",
+  "order": "2.9.8.3.8",
+  "params": {
+    "_g": "玩",
+    "_r": "m元"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "4",
+    "jp": "元"
+  }
+}

@@ -4,7 +4,9 @@
   "name": "heart",
   "order": "4",
   "parents": [
-    "body-parts"
+    "body-parts",
+    "u心",
+    "u臓"
   ],
   "props": {
     "en": "heart",

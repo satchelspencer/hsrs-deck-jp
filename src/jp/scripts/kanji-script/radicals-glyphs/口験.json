@@ -1,0 +1,17 @@
+{
+  "_id": "p3ps65vblat",
+  "name": "口験",
+  "order": "3.2.1.8.8",
+  "params": {
+    "_g": "験",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "14",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

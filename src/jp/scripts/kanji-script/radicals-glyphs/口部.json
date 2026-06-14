@@ -1,0 +1,17 @@
+{
+  "_id": "f32py89jqrh",
+  "name": "口部",
+  "order": "1.4.3.3.7",
+  "params": {
+    "_g": "部",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "hzp2xttqo2r",
+  "name": "田贈",
+  "order": "3.9.1.1.2",
+  "params": {
+    "_g": "贈",
+    "_r": "m田"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "10",
+    "_sl": "5",
+    "jp": "田"
+  }
+}

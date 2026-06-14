@@ -1,0 +1,17 @@
+{
+  "_id": "8igviilh120",
+  "name": "r両",
+  "order": "2.9.0.9.1.1",
+  "params": {
+    "_g": "両",
+    "_r": "m両"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "両"
+  }
+}

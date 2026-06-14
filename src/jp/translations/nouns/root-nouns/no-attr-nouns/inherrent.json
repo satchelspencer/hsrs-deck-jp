@@ -4,7 +4,9 @@
   "name": "inherrent",
   "order": "4",
   "parents": [
-    "no-attr-nouns"
+    "no-attr-nouns",
+    "u本",
+    "u来"
   ],
   "props": {
     "en": "inherrent",

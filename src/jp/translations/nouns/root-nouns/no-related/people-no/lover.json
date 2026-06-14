@@ -5,7 +5,9 @@
   "order": "4",
   "parents": [
     "people-no",
-    "people"
+    "people",
+    "u恋",
+    "u人"
   ],
   "props": {
     "en": "lover",

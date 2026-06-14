@@ -1,0 +1,17 @@
+{
+  "_id": "e3fxk0br9of",
+  "name": "r再",
+  "order": "2.9.0.7.5.1",
+  "params": {
+    "_g": "再",
+    "_r": "m再"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "再"
+  }
+}

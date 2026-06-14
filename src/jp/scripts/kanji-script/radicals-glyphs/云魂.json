@@ -1,0 +1,17 @@
+{
+  "_id": "q7f93dctkcj",
+  "name": "云魂",
+  "order": "4.9.7.6.6",
+  "params": {
+    "_g": "魂",
+    "_r": "m云"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "云"
+  }
+}

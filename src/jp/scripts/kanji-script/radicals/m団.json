@@ -1,0 +1,10 @@
+{
+  "_id": "ca8l89xmy1c",
+  "name": "m団",
+  "parents": [
+    "radicals"
+  ],
+  "props": {
+    "_m": "group, association"
+  }
+}

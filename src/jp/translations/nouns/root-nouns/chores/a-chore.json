@@ -5,7 +5,9 @@
   "order": "2",
   "parents": [
     "chores",
-    "activities"
+    "activities",
+    "u家",
+    "u事"
   ],
   "props": {
     "en": "chore",

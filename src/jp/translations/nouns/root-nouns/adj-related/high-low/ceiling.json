@@ -4,7 +4,9 @@
   "name": "ceiling",
   "order": "4",
   "parents": [
-    "high-low"
+    "high-low",
+    "u天",
+    "u井"
   ],
   "props": {
     "en": "ceiling",

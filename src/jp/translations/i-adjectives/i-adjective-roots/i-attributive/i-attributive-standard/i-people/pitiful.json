@@ -5,7 +5,8 @@
   "order": "4",
   "parents": [
     "i-people",
-    "i-people-do"
+    "i-people-do",
+    "u情"
   ],
   "props": {
     "en": "pitiful",

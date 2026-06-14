@@ -5,7 +5,9 @@
   "order": "4",
   "parents": [
     "wa-past-only-times",
-    "people-no"
+    "people-no",
+    "u過",
+    "u去"
   ],
   "props": {
     "_at": "bygone",

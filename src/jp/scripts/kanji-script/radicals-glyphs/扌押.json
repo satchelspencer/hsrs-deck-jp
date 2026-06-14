@@ -1,0 +1,18 @@
+{
+  "_id": "avu5xs7tij7",
+  "desc": "variant of 手",
+  "name": "扌押",
+  "order": "2.5.3.3.8",
+  "params": {
+    "_g": "押",
+    "_r": "m扌"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "扌"
+  }
+}

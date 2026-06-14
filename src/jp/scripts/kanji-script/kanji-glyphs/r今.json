@@ -1,0 +1,17 @@
+{
+  "_id": "tbltukhk1dt",
+  "name": "r今",
+  "order": "1.9.1.8.3.1",
+  "params": {
+    "_g": "今",
+    "_r": "m今"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "今"
+  }
+}

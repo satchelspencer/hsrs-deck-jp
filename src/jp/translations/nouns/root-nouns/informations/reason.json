@@ -5,7 +5,9 @@
   "order": "2",
   "parents": [
     "informations",
-    "wago-countable"
+    "wago-countable",
+    "u理",
+    "u由"
   ],
   "props": {
     "en": "reason",

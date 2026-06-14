@@ -1,0 +1,17 @@
+{
+  "_id": "phxq30lnqw3",
+  "name": "口絡",
+  "order": "3.9.6.5.3",
+  "params": {
+    "_g": "絡",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "10",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

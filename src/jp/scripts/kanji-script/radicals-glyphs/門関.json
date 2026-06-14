@@ -1,0 +1,17 @@
+{
+  "_id": "zkt2rv171bh",
+  "name": "門関",
+  "order": "3.3.9.6.0",
+  "params": {
+    "_g": "関",
+    "_r": "m門"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "8",
+    "jp": "門"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "_id": "0rzjlr4z0u8",
+  "name": "m番",
+  "parents": [
+    "radicals"
+  ],
+  "props": {
+    "_m": "turn, number in a series"
+  }
+}

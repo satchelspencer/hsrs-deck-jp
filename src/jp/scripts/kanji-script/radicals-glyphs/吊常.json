@@ -1,0 +1,19 @@
+{
+  "_id": "rebw9pfqsla",
+  "name": "吊常",
+  "order": "3.9.8.3.5",
+  "params": {
+    "_1": "口常",
+    "_2": "巾常",
+    "_g": "常",
+    "_r": "m吊"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "6",
+    "jp": "吊"
+  }
+}

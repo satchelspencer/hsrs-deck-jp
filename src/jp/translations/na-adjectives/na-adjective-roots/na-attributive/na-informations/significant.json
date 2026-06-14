@@ -5,7 +5,9 @@
   "order": "3",
   "parents": [
     "na-informations",
-    "na-seeables"
+    "na-seeables",
+    "u大",
+    "u切"
   ],
   "props": {
     "en": "significant",

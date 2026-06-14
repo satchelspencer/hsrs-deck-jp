@@ -5,7 +5,8 @@
   "order": "3",
   "parents": [
     "te-iru-verbs-continuous",
-    "ichidan"
+    "ichidan",
+    "u売"
   ],
   "props": {
     "_pg": "selling well",

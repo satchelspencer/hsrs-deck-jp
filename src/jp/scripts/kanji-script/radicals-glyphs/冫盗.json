@@ -1,0 +1,18 @@
+{
+  "_id": "qa9bn64754t",
+  "desc": "variant of 氷",
+  "name": "冫盗",
+  "order": "3.9.6.5.4",
+  "params": {
+    "_g": "盗",
+    "_r": "m冫"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "2",
+    "jp": "冫"
+  }
+}

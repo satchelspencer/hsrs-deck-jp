@@ -1,0 +1,17 @@
+{
+  "_id": "eq6f1dbc65r",
+  "name": "卆酔",
+  "order": "4.5.5.2.7",
+  "params": {
+    "_g": "酔",
+    "_r": "m卆"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "4",
+    "jp": "卆"
+  }
+}

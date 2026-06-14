@@ -3,7 +3,8 @@
   "name": "raw",
   "order": "3",
   "parents": [
-    "no-attr-nouns"
+    "no-attr-nouns",
+    "u生"
   ],
   "props": {
     "en": "raw",

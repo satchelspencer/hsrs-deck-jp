@@ -1,0 +1,15 @@
+{
+  "_id": "s0obb74ivum",
+  "name": "店",
+  "order": "1.5.9.5.1",
+  "params": {
+    "_wd": "u店"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "店",
+    "_st": "CANNOQtjAQECAwIEYwABAAUACQRNGhtjAwEFAQYBQzAbPxlUF2MDAAQABgEDTR0dYwEBAQIBA0MeNxtPD1sDTTohYwEBAgMCBGMAAwAcACEDTTwzYwiBEIIWg2MBAAMABAAETSdIYwEBAQICA2MBBwINAxRjAAEAAgADBE0qSWMMgiGEKIRjAwAEAgQEY4EFgw2EEwNNLmBDNF9EXk5dYwIABAAFAA"
+  }
+}

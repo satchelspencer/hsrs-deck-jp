@@ -1,0 +1,18 @@
+{
+  "_id": "8062eh06pim",
+  "desc": "variant of 食",
+  "name": "飠飾",
+  "order": "3.3.5.2.9",
+  "params": {
+    "_g": "飾",
+    "_r": "m飠"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "8",
+    "jp": "飠"
+  }
+}

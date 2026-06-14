@@ -1,0 +1,19 @@
+{
+  "_id": "g2oqccvkmyg",
+  "name": "思慮",
+  "order": "3.9.5.3.9",
+  "params": {
+    "_1": "田慮",
+    "_2": "心慮",
+    "_g": "慮",
+    "_r": "m思"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "9",
+    "jp": "思"
+  }
+}

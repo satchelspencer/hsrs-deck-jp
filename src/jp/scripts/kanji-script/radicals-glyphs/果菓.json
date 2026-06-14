@@ -1,0 +1,18 @@
+{
+  "_id": "e2zlcbab4ve",
+  "name": "果菓",
+  "order": "1.9.2.7.2",
+  "params": {
+    "_1": "木菓",
+    "_g": "菓",
+    "_r": "m果"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "8",
+    "jp": "果"
+  }
+}

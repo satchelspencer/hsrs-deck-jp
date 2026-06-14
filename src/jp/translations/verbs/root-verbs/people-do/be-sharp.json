@@ -5,7 +5,8 @@
   "order": "3",
   "parents": [
     "people-do",
-    "ichidan"
+    "ichidan",
+    "u切"
   ],
   "props": {
     "en": "be sharp",

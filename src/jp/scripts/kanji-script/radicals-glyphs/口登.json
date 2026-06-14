@@ -1,0 +1,17 @@
+{
+  "_id": "7l3683jm6xm",
+  "name": "口登",
+  "order": "3.9.1.5.0",
+  "params": {
+    "_g": "登",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

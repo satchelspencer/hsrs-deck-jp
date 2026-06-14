@@ -1,0 +1,17 @@
+{
+  "_id": "luwm45a2ijp",
+  "name": "一醬",
+  "order": "1.9.4.0.0",
+  "params": {
+    "_g": "醬",
+    "_r": "m一"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "17",
+    "_sl": "1",
+    "jp": "一"
+  }
+}

@@ -4,7 +4,8 @@
   "name": "thanks",
   "order": "4",
   "parents": [
-    "writeables"
+    "writeables",
+    "u礼"
   ],
   "props": {
     "en": "thanks",

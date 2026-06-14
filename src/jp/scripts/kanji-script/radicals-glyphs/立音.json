@@ -1,0 +1,17 @@
+{
+  "_id": "ugi6yvsnoni",
+  "name": "立音",
+  "order": "1.5.3.9.3",
+  "params": {
+    "_g": "音",
+    "_r": "m立"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "立"
+  }
+}

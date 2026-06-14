@@ -1,0 +1,17 @@
+{
+  "_id": "xzmddbr1ll6",
+  "name": "口論",
+  "order": "4.4.2.9.4",
+  "params": {
+    "_g": "論",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

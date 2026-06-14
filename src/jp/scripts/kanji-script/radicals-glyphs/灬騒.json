@@ -1,0 +1,18 @@
+{
+  "_id": "pmb8h9pps1h",
+  "desc": "variant of 火",
+  "name": "灬騒",
+  "order": "3.9.4.2.4",
+  "params": {
+    "_g": "騒",
+    "_r": "m灬"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "4",
+    "jp": "灬"
+  }
+}

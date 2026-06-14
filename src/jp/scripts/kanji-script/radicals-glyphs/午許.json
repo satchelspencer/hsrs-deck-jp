@@ -1,0 +1,17 @@
+{
+  "_id": "55t8zvj0ffg",
+  "name": "午許",
+  "order": "3.6.1.1.3",
+  "params": {
+    "_g": "許",
+    "_r": "m午"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "4",
+    "jp": "午"
+  }
+}

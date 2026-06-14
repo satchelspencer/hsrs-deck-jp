@@ -1,0 +1,15 @@
+{
+  "_id": "us14f9xc9d2",
+  "name": "南",
+  "order": "2.9.3.8.0",
+  "params": {
+    "_wd": "u南"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "南",
+    "_st": "CQRNGxxjAgAEAAcAYwyBHIMphGMDAAUABwADTTQLYwEBAgMCBGMABwATAB0ETRQuYwEBAgMCBWMABAEbASZjAAMABQAGBU0XMGMQgjuGPYZjBQAGAgYHYwAFACUAK2MACIMGiQECTScxYwMCBwcHCgNNQi5jAAEAAgADY4EDgweFCgRNIz5jAgAFAQYAYwmBE4IcgmMDAAUABgAETSFKYwIABQEGAWMLgReCH4NjAwAFAAYABE02P2MBAQECAQRjAAYAEgAZYwACAAQABA"
+  }
+}

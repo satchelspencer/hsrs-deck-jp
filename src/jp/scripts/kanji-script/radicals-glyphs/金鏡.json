@@ -1,0 +1,17 @@
+{
+  "_id": "pdeeq4okjsh",
+  "name": "金鏡",
+  "order": "2.9.8.8.5",
+  "params": {
+    "_g": "鏡",
+    "_r": "m金"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "8",
+    "jp": "金"
+  }
+}

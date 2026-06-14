@@ -4,7 +4,8 @@
   "name": "your-home",
   "order": "3",
   "parents": [
-    "places"
+    "places",
+    "u宅"
   ],
   "props": {
     "en": "your home",

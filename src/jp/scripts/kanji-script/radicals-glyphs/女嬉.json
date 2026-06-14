@@ -1,0 +1,17 @@
+{
+  "_id": "gfuq9zlh23u",
+  "name": "女嬉",
+  "order": "2.3.2.1.2",
+  "params": {
+    "_g": "嬉",
+    "_r": "m女"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "女"
+  }
+}

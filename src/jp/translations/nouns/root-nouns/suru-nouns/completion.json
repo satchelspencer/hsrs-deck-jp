@@ -4,7 +4,9 @@
   "name": "completion",
   "order": "4",
   "parents": [
-    "suru-nouns"
+    "suru-nouns",
+    "u完",
+    "u成"
   ],
   "props": {
     "_pg": "completed",

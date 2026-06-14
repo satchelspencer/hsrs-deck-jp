@@ -1,0 +1,17 @@
+{
+  "_id": "mb7dcgk4pj9",
+  "name": "口壁",
+  "order": "2.4.0.0.6",
+  "params": {
+    "_g": "壁",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

@@ -4,7 +4,8 @@
   "name": "brain",
   "order": "3",
   "parents": [
-    "body-parts"
+    "body-parts",
+    "u脳"
   ],
   "props": {
     "en": "brain",

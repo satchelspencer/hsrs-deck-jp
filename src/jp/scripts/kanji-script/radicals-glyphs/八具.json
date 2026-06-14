@@ -1,0 +1,17 @@
+{
+  "_id": "489lq6ny86a",
+  "name": "八具",
+  "order": "2.2.4.6.1",
+  "params": {
+    "_g": "具",
+    "_r": "m八"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "2",
+    "jp": "八"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "b5nq4kk23yz",
+  "name": "r舌",
+  "order": "1.2.9.6.7.1",
+  "params": {
+    "_g": "舌",
+    "_r": "m舌"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "舌"
+  }
+}

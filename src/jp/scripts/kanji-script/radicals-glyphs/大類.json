@@ -1,0 +1,17 @@
+{
+  "_id": "r8d5mdtient",
+  "name": "大類",
+  "order": "3.3.0.3.8",
+  "params": {
+    "_g": "類",
+    "_r": "m大"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "3",
+    "jp": "大"
+  }
+}

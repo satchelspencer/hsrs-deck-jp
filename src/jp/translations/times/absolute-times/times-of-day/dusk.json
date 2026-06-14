@@ -4,7 +4,9 @@
   "name": "dusk",
   "order": "2",
   "parents": [
-    "times-of-day"
+    "times-of-day",
+    "u夕",
+    "u方"
   ],
   "props": {
     "en": "dusk",

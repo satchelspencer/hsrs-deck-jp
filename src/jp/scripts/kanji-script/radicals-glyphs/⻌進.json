@@ -1,0 +1,18 @@
+{
+  "_id": "qcq5kbrmpnm",
+  "desc": "variant of 辶",
+  "name": "⻌進",
+  "order": "2.2.1.6.3",
+  "params": {
+    "_g": "進",
+    "_r": "m⻌"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "9",
+    "_sl": "3",
+    "jp": "⻌"
+  }
+}

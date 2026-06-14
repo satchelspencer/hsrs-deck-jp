@@ -3,7 +3,9 @@
   "name": "uncle",
   "order": "2",
   "parents": [
-    "family"
+    "family",
+    "u伯",
+    "u父"
   ],
   "props": {
     "en": "uncle",

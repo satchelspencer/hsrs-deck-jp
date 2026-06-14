@@ -4,7 +4,9 @@
   "order": "3",
   "parents": [
     "people-no",
-    "good-bads"
+    "good-bads",
+    "u気",
+    "u分"
   ],
   "props": {
     "en": "mood",

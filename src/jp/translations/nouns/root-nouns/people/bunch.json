@@ -5,7 +5,9 @@
   "name": "bunch",
   "order": "4",
   "parents": [
-    "people"
+    "people",
+    "u連",
+    "u中"
   ],
   "props": {
     "en": "bunch",

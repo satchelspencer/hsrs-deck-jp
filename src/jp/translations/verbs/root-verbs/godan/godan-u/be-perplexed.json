@@ -6,7 +6,9 @@
   "parents": [
     "godan-u",
     "people-do",
-    "te-iru-verbs-state"
+    "te-iru-verbs-state",
+    "u戸",
+    "u惑"
   ],
   "props": {
     "_st": "perplexed",

@@ -5,7 +5,8 @@
   "order": "2",
   "parents": [
     "i-attributive-standard",
-    "i-objects"
+    "i-objects",
+    "u古"
   ],
   "props": {
     "en": "old",

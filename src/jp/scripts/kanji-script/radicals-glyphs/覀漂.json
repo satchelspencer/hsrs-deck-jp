@@ -1,0 +1,18 @@
+{
+  "_id": "10fz6uh448a",
+  "desc": "variant of 襾",
+  "name": "覀漂",
+  "order": "4.2.4.8.6",
+  "params": {
+    "_g": "漂",
+    "_r": "m覀"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "6",
+    "jp": "覀"
+  }
+}

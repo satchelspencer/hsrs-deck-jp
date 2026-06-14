@@ -1,0 +1,18 @@
+{
+  "_id": "mpruzc2r02d",
+  "desc": "variant of 攴",
+  "name": "攵務",
+  "order": "3.9.0.3.1",
+  "params": {
+    "_g": "務",
+    "_r": "m攵"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "4",
+    "jp": "攵"
+  }
+}

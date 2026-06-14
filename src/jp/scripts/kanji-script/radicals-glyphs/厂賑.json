@@ -1,0 +1,17 @@
+{
+  "_id": "xy82ac5ixjd",
+  "name": "厂賑",
+  "order": "1.4.7.9.8",
+  "params": {
+    "_g": "賑",
+    "_r": "m厂"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "2",
+    "jp": "厂"
+  }
+}

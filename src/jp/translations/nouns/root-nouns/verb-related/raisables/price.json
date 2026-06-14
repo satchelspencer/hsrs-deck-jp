@@ -4,7 +4,9 @@
   "order": "2",
   "parents": [
     "raisables",
-    "product-no"
+    "product-no",
+    "u値",
+    "u段"
   ],
   "props": {
     "en": "price",

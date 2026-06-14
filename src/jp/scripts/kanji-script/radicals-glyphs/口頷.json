@@ -1,0 +1,17 @@
+{
+  "_id": "pq5pwtf9iep",
+  "name": "口頷",
+  "order": "4.9.7.5.0",
+  "params": {
+    "_g": "頷",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

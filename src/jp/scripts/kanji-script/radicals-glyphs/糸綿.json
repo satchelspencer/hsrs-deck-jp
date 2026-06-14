@@ -1,0 +1,17 @@
+{
+  "_id": "uhlosdgahyy",
+  "name": "糸綿",
+  "order": "3.9.0.2.3",
+  "params": {
+    "_g": "綿",
+    "_r": "m糸"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "糸"
+  }
+}

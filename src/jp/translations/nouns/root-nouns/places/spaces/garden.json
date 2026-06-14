@@ -4,7 +4,8 @@
   "name": "garden",
   "order": "2",
   "parents": [
-    "spaces"
+    "spaces",
+    "u庭"
   ],
   "props": {
     "en": "garden",

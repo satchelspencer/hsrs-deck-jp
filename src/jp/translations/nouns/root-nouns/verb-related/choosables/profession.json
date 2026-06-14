@@ -4,7 +4,9 @@
   "name": "profession",
   "order": "3",
   "parents": [
-    "choosables"
+    "choosables",
+    "u職",
+    "u業"
   ],
   "props": {
     "en": "profession",

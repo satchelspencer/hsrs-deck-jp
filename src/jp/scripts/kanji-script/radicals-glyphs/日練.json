@@ -1,0 +1,18 @@
+{
+  "_id": "th24xnlksh7",
+  "desc": "variant of 曰",
+  "name": "日練",
+  "order": "2.2.8.0.7",
+  "params": {
+    "_g": "練",
+    "_r": "m日"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "4",
+    "jp": "日"
+  }
+}

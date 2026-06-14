@@ -4,7 +4,8 @@
   "name": "stomach",
   "order": "1",
   "parents": [
-    "body-parts"
+    "body-parts",
+    "u腹"
   ],
   "props": {
     "en": "stomach",

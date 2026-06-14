@@ -1,0 +1,17 @@
+{
+  "_id": "pvc5gtuuvo1",
+  "name": "𠂉旗",
+  "order": "3.9.1.0.2",
+  "params": {
+    "_g": "旗",
+    "_r": "m𠂉"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "2",
+    "jp": "𠂉"
+  }
+}

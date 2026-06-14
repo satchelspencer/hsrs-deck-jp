@@ -1,0 +1,17 @@
+{
+  "_id": "7nx9dbsehne",
+  "name": "口訳",
+  "order": "3.6.7.0.4",
+  "params": {
+    "_g": "訳",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

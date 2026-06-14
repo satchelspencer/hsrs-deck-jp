@@ -1,0 +1,17 @@
+{
+  "_id": "7m5opcb2k50",
+  "name": "火焼",
+  "order": "3.5.3.3.0",
+  "params": {
+    "_g": "焼",
+    "_r": "m火"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "火"
+  }
+}

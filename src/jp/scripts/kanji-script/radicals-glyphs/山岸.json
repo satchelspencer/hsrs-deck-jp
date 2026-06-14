@@ -1,0 +1,17 @@
+{
+  "_id": "3dy8vlnm128",
+  "name": "山岸",
+  "order": "3.9.0.9.4",
+  "params": {
+    "_g": "岸",
+    "_r": "m山"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "山"
+  }
+}

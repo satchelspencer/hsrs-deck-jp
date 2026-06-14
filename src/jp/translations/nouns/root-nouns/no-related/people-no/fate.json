@@ -4,7 +4,9 @@
   "name": "fate",
   "order": "4",
   "parents": [
-    "people-no"
+    "people-no",
+    "u運",
+    "u命"
   ],
   "props": {
     "en": "fate",

@@ -4,7 +4,8 @@
   "name": "counter-root-companies",
   "order": "4",
   "parents": [
-    "counter-roots-kango-full-s"
+    "counter-roots-kango-full-s",
+    "u社"
   ],
   "props": {
     "_ec": "companies",

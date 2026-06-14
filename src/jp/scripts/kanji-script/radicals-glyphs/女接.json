@@ -1,0 +1,17 @@
+{
+  "_id": "if9ow7b81x5",
+  "name": "女接",
+  "order": "4.2.1.6.9",
+  "params": {
+    "_g": "接",
+    "_r": "m女"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "9",
+    "_sl": "3",
+    "jp": "女"
+  }
+}

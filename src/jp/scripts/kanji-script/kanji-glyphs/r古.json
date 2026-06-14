@@ -1,0 +1,17 @@
+{
+  "_id": "b03w8augr4x",
+  "name": "r古",
+  "order": "2.2.2.3.1.1",
+  "params": {
+    "_g": "古",
+    "_r": "m古"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "古"
+  }
+}

@@ -4,7 +4,9 @@
   "name": "company",
   "order": "2",
   "parents": [
-    "organizations"
+    "organizations",
+    "u会",
+    "u社"
   ],
   "props": {
     "en": "company",

@@ -1,0 +1,18 @@
+{
+  "_id": "dv348ue5vge",
+  "desc": "variant of 水",
+  "name": "氵泣",
+  "order": "3.5.5.9.5",
+  "params": {
+    "_g": "泣",
+    "_r": "m氵"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "氵"
+  }
+}

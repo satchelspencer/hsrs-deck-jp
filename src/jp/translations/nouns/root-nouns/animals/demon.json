@@ -4,7 +4,9 @@
   "name": "demon",
   "order": "4",
   "parents": [
-    "animals"
+    "animals",
+    "u悪",
+    "u魔"
   ],
   "props": {
     "en": "demon",

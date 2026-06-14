@@ -2,7 +2,8 @@
   "_id": "la8mzjy0gh",
   "name": "west",
   "parents": [
-    "cardinal-directions"
+    "cardinal-directions",
+    "u西"
   ],
   "props": {
     "en": "west",

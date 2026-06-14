@@ -4,7 +4,9 @@
   "name": "water-supply",
   "order": "3",
   "parents": [
-    "drinks"
+    "drinks",
+    "u水",
+    "u道"
   ],
   "props": {
     "en": "water supply",

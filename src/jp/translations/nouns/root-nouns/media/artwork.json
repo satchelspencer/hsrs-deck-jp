@@ -4,7 +4,9 @@
   "name": "artwork",
   "order": "3",
   "parents": [
-    "media"
+    "media",
+    "u作",
+    "u品"
   ],
   "props": {
     "en": "artwork",

@@ -1,0 +1,17 @@
+{
+  "_id": "chdegudkvz5",
+  "name": "八則",
+  "order": "2.6.2.6.2",
+  "params": {
+    "_g": "則",
+    "_r": "m八"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "2",
+    "jp": "八"
+  }
+}

@@ -4,7 +4,9 @@
   "name": "polite-na",
   "order": "3",
   "parents": [
-    "na-people"
+    "na-people",
+    "u丁",
+    "u寧"
   ],
   "props": {
     "en": "polite",

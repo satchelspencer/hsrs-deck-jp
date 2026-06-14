@@ -1,0 +1,18 @@
+{
+  "_id": "mehyyu5j6sj",
+  "desc": "variant of 艸",
+  "name": "艹暮",
+  "order": "3.6.5.3.8",
+  "params": {
+    "_g": "暮",
+    "_r": "m艹"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "艹"
+  }
+}

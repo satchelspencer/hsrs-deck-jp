@@ -3,7 +3,9 @@
   "name": "tonight",
   "order": "1",
   "parents": [
-    "wa-any-times"
+    "wa-any-times",
+    "u今",
+    "u夜"
   ],
   "props": {
     "en": "tonight",

@@ -1,0 +1,18 @@
+{
+  "_id": "rcn9uqiwkel",
+  "desc": "variant of 土",
+  "name": "士週",
+  "order": "1.9.5.0.5",
+  "params": {
+    "_g": "週",
+    "_r": "m士"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "3",
+    "_sl": "3",
+    "jp": "士"
+  }
+}

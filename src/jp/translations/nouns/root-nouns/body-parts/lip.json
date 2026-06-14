@@ -4,7 +4,8 @@
   "name": "lip",
   "order": "4",
   "parents": [
-    "body-parts"
+    "body-parts",
+    "u唇"
   ],
   "props": {
     "en": "lip",

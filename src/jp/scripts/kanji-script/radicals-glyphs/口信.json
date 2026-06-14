@@ -1,0 +1,17 @@
+{
+  "_id": "7najj5dby2g",
+  "name": "口信",
+  "order": "2.3.9.9.9",
+  "params": {
+    "_g": "信",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "q38c9c3sgic",
+  "name": "糸線",
+  "order": "2.6.4.8.2",
+  "params": {
+    "_g": "線",
+    "_r": "m糸"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "糸"
+  }
+}

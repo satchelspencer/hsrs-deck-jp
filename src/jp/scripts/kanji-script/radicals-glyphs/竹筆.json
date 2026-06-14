@@ -1,0 +1,17 @@
+{
+  "_id": "9jjchsau0ss",
+  "name": "竹筆",
+  "order": "2.6.7.7.5",
+  "params": {
+    "_g": "筆",
+    "_r": "m竹"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "竹"
+  }
+}

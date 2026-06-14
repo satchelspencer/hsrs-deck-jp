@@ -1,0 +1,17 @@
+{
+  "_id": "85s73dke4pj",
+  "name": "人珍",
+  "order": "3.3.6.6.5",
+  "params": {
+    "_g": "珍",
+    "_r": "m人"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "2",
+    "jp": "人"
+  }
+}

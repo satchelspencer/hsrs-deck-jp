@@ -4,7 +4,9 @@
   "name": "beginning",
   "order": "2",
   "parents": [
-    "wa-past-only-times"
+    "wa-past-only-times",
+    "u最",
+    "u初"
   ],
   "props": {
     "_at": "beginning",

@@ -1,0 +1,17 @@
+{
+  "_id": "arvksjlj6nc",
+  "name": "雨雲",
+  "order": "1.9.9.2.6",
+  "params": {
+    "_g": "雲",
+    "_r": "m雨"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "8",
+    "jp": "雨"
+  }
+}

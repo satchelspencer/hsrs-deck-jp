@@ -1,0 +1,17 @@
+{
+  "_id": "cmv5a9te4db",
+  "name": "并瓶",
+  "order": "3.9.2.1.0",
+  "params": {
+    "_g": "瓶",
+    "_r": "m并"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "并"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "hgvvyj295xh",
+  "name": "凵画",
+  "order": "1.4.9.4.1",
+  "params": {
+    "_g": "画",
+    "_r": "m凵"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "2",
+    "jp": "凵"
+  }
+}

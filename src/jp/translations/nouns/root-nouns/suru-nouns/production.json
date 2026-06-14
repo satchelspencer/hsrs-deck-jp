@@ -5,7 +5,9 @@
   "order": "4",
   "parents": [
     "suru-nouns",
-    "product-no"
+    "product-no",
+    "u生",
+    "u産"
   ],
   "props": {
     "_v": "produce",

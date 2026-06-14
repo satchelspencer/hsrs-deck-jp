@@ -1,0 +1,19 @@
+{
+  "_id": "5avsejgawfq",
+  "name": "見覧",
+  "order": "3.9.6.0.3",
+  "params": {
+    "_1": "目覧",
+    "_2": "儿覧",
+    "_g": "覧",
+    "_r": "m見"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "11",
+    "_sl": "7",
+    "jp": "見"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "vct95yjk18d",
+  "name": "矢医",
+  "order": "2.9.8.0.1",
+  "params": {
+    "_g": "医",
+    "_r": "m矢"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "2",
+    "_sl": "5",
+    "jp": "矢"
+  }
+}

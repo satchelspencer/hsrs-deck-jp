@@ -1,0 +1,17 @@
+{
+  "_id": "mjqb8l52f5h",
+  "name": "人僕",
+  "order": "2.6.1.8.7",
+  "params": {
+    "_g": "僕",
+    "_r": "m人"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "13",
+    "_sl": "2",
+    "jp": "人"
+  }
+}

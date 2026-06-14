@@ -4,7 +4,8 @@
   "name": "counter-root-birds",
   "order": "3",
   "parents": [
-    "counter-roots-kango-full-w"
+    "counter-roots-kango-full-w",
+    "u羽"
   ],
   "props": {
     "_ec": "birds",

@@ -1,0 +1,17 @@
+{
+  "_id": "r20tjz0bu59",
+  "name": "子教",
+  "order": "1.3.9.4.8",
+  "params": {
+    "_g": "教",
+    "_r": "m子"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "3",
+    "jp": "子"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "_id": "dojua23cy9j",
+  "desc": "variant of 玉",
+  "name": "王珍",
+  "order": "3.3.6.6.5",
+  "params": {
+    "_g": "珍",
+    "_r": "m王"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "王"
+  }
+}

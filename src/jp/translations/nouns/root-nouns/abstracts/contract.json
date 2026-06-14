@@ -4,7 +4,9 @@
   "order": "4",
   "parents": [
     "abstracts",
-    "do-togethers"
+    "do-togethers",
+    "u契",
+    "u約"
   ],
   "props": {
     "en": "contract",

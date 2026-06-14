@@ -1,0 +1,19 @@
+{
+  "_id": "efhz8kjakfc",
+  "name": "巷港",
+  "order": "3.9.6.5.1",
+  "params": {
+    "_1": "共港",
+    "_2": "己港",
+    "_g": "港",
+    "_r": "m巷"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "9",
+    "jp": "巷"
+  }
+}

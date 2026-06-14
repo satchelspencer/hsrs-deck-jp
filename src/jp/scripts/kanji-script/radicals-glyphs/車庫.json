@@ -1,0 +1,17 @@
+{
+  "_id": "h7pah22gv3i",
+  "name": "車庫",
+  "order": "2.9.1.8.6",
+  "params": {
+    "_g": "庫",
+    "_r": "m車"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "7",
+    "jp": "車"
+  }
+}

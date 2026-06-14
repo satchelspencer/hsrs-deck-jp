@@ -3,7 +3,9 @@
   "name": "body-weight",
   "order": "2",
   "parents": [
-    "countables"
+    "countables",
+    "u体",
+    "u重"
   ],
   "props": {
     "en": "body weight",

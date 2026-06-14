@@ -1,0 +1,17 @@
+{
+  "_id": "26d09j2pdu7",
+  "name": "一命",
+  "order": "3.6.8.4.7",
+  "params": {
+    "_g": "命",
+    "_r": "m一"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "3",
+    "_sl": "1",
+    "jp": "一"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "seqdkimw4ki",
+  "name": "宀官",
+  "order": "2.9.7.7.5",
+  "params": {
+    "_g": "官",
+    "_r": "m宀"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "宀"
+  }
+}

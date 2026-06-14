@@ -4,7 +4,8 @@
   "name": "breath",
   "order": "4",
   "parents": [
-    "inhaleables"
+    "inhaleables",
+    "u息"
   ],
   "props": {
     "en": "breath",

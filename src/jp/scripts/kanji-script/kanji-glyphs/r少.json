@@ -1,0 +1,17 @@
+{
+  "_id": "ttz4znqzfhz",
+  "name": "r少",
+  "order": "2.3.5.7.2.1",
+  "params": {
+    "_g": "少",
+    "_r": "m少"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "少"
+  }
+}

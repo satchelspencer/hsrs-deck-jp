@@ -3,7 +3,9 @@
   "name": "cotton",
   "order": "3",
   "parents": [
-    "fabrics"
+    "fabrics",
+    "u木",
+    "u綿"
   ],
   "props": {
     "en": "cotton",

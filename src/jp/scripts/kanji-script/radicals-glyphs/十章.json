@@ -1,0 +1,17 @@
+{
+  "_id": "m17tlwodyxz",
+  "name": "十章",
+  "order": "3.6.1.5.6",
+  "params": {
+    "_g": "章",
+    "_r": "m十"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "10",
+    "_sl": "2",
+    "jp": "十"
+  }
+}

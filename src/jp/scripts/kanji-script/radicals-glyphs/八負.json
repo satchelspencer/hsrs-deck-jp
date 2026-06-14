@@ -1,0 +1,17 @@
+{
+  "_id": "z1l98toc7v5",
+  "name": "八負",
+  "order": "3.2.5.8.0",
+  "params": {
+    "_g": "負",
+    "_r": "m八"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "2",
+    "jp": "八"
+  }
+}

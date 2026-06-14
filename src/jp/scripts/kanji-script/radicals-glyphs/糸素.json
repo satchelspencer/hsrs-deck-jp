@@ -1,0 +1,17 @@
+{
+  "_id": "06nhn2e3mvs",
+  "name": "糸素",
+  "order": "3.3.8.7.7",
+  "params": {
+    "_g": "素",
+    "_r": "m糸"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "6",
+    "jp": "糸"
+  }
+}

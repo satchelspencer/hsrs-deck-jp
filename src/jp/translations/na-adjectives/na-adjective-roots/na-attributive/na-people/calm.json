@@ -4,7 +4,9 @@
   "name": "calm",
   "order": "4",
   "parents": [
-    "na-people"
+    "na-people",
+    "u冷",
+    "u静"
   ],
   "props": {
     "en": "calm",

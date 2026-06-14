@@ -1,0 +1,15 @@
+{
+  "_id": "to0fx0pjgp7",
+  "name": "経",
+  "order": "3.2.1.8.8",
+  "params": {
+    "_wd": "u経"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "経",
+    "_st": "CwVNHA5jAAEBAgADQxgYFB8QI2OBAYEDAANjBAEIBAoFBU0nGmMAAQACgQNjhgiPFJccY4ICAAMCAmMFgg6FFocCTSMuYwICBggHCwRNGjxjAQEBAgEEYwAGABMAG2MAAwAGAAYDTRJFYwABAAIAA2OBBIUMhw8CTSVFYwIDBAoEDAVNMhRjAQADAAYAYwIAEIMUhWMDgQYABARDRyc8My08A00zHWMEARQNIhdjAwIGBAkFBE0xSGMDAQUABwBjCoEPghmDYwIABAAGAANNQjhjAQECAgIEYwAMABoAHQRNKVtjAgEGAQgBYw2BHYIngmMDAAUABwE"
+  }
+}

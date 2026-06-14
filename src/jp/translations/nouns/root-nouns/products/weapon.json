@@ -5,7 +5,9 @@
   "order": "4",
   "parents": [
     "products",
-    "wago-countable"
+    "wago-countable",
+    "u武",
+    "u器"
   ],
   "props": {
     "en": "weapon",

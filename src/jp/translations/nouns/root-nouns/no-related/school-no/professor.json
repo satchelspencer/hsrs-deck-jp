@@ -4,7 +4,9 @@
   "order": "3",
   "parents": [
     "school-no",
-    "people"
+    "people",
+    "u教",
+    "u授"
   ],
   "props": {
     "en": "professor",

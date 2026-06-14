@@ -5,7 +5,8 @@
     "neg": "plain-negative"
   },
   "parents": [
-    "verb-hogaii"
+    "verb-hogaii",
+    "u方"
   ],
   "props": {
     "en": "'it would be better to '+neg.en",

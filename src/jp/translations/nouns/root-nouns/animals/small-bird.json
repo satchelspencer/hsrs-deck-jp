@@ -3,7 +3,9 @@
   "name": "small-bird",
   "order": "3",
   "parents": [
-    "animals"
+    "animals",
+    "u小",
+    "u鳥"
   ],
   "props": {
     "en": "small bird",

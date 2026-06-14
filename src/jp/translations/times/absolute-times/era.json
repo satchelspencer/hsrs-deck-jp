@@ -4,7 +4,9 @@
   "order": "4",
   "parents": [
     "absolute-times",
-    "events"
+    "events",
+    "u時",
+    "u代"
   ],
   "props": {
     "en": "era",

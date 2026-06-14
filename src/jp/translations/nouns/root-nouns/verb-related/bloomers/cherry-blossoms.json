@@ -4,7 +4,8 @@
   "name": "cherry-blossoms",
   "order": "2",
   "parents": [
-    "bloomers"
+    "bloomers",
+    "u桜"
   ],
   "props": {
     "en": "cherry blossoms",

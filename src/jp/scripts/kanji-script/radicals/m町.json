@@ -1,0 +1,10 @@
+{
+  "_id": "u05ez3fi2hr",
+  "name": "m町",
+  "parents": [
+    "radicals"
+  ],
+  "props": {
+    "_m": "town, village, block, street"
+  }
+}

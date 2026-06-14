@@ -1,0 +1,18 @@
+{
+  "_id": "9sekf2amoxc",
+  "desc": "variant of 吅",
+  "name": "⺍図",
+  "order": "1.5.2.8.9",
+  "params": {
+    "_g": "図",
+    "_r": "m⺍"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "3",
+    "_sl": "3",
+    "jp": "⺍"
+  }
+}

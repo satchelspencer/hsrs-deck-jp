@@ -5,7 +5,8 @@
   "order": "1",
   "parents": [
     "personal-question-words",
-    "ka-question-gated"
+    "ka-question-gated",
+    "u誰"
   ],
   "props": {
     "_dm": "anybody",

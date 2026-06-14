@@ -1,0 +1,18 @@
+{
+  "_id": "ka7izh19shw",
+  "name": "羊洋",
+  "order": "2.9.3.7.9",
+  "params": {
+    "_1": "䒑洋",
+    "_g": "洋",
+    "_r": "m羊"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "6",
+    "jp": "羊"
+  }
+}

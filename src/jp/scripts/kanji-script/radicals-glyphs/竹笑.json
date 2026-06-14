@@ -1,0 +1,17 @@
+{
+  "_id": "xgg0fu1vtw5",
+  "name": "竹笑",
+  "order": "3.2.6.2.5",
+  "params": {
+    "_g": "笑",
+    "_r": "m竹"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "竹"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "jzp456n6oi6",
+  "name": "r文",
+  "order": "2.5.1.1.9.1",
+  "params": {
+    "_g": "文",
+    "_r": "m文"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "文"
+  }
+}

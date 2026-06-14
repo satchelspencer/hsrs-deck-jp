@@ -1,0 +1,17 @@
+{
+  "_id": "9d8rhwrbo2r",
+  "name": "羊着",
+  "order": "1.5.7.8.9",
+  "params": {
+    "_g": "着",
+    "_r": "m羊"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "羊"
+  }
+}

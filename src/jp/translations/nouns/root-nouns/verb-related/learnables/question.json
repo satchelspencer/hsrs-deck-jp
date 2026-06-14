@@ -6,7 +6,9 @@
   "parents": [
     "learnables",
     "choosables",
-    "wago-countable"
+    "wago-countable",
+    "u質",
+    "u問"
   ],
   "props": {
     "en": "question",

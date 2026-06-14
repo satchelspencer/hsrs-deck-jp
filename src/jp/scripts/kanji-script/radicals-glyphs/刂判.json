@@ -1,0 +1,18 @@
+{
+  "_id": "hwo95nnfwam",
+  "desc": "variant of 刀",
+  "name": "刂判",
+  "order": "4.1.4.3.9",
+  "params": {
+    "_g": "判",
+    "_r": "m刂"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "2",
+    "jp": "刂"
+  }
+}

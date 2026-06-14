@@ -1,0 +1,18 @@
+{
+  "_id": "rp49meitd2b",
+  "name": "束速",
+  "order": "3.1.9.3.8",
+  "params": {
+    "_1": "口速",
+    "_g": "速",
+    "_r": "m束"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "7",
+    "jp": "束"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "s99luj56xkn",
+  "name": "車輪",
+  "order": "3.9.4.1.3",
+  "params": {
+    "_g": "輪",
+    "_r": "m車"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "7",
+    "jp": "車"
+  }
+}

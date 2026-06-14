@@ -4,7 +4,9 @@
   "name": "way-of-doing",
   "order": "3",
   "parents": [
-    "choosables"
+    "choosables",
+    "u仕",
+    "u方"
   ],
   "props": {
     "en": "way of doing",

@@ -1,0 +1,17 @@
+{
+  "_id": "oivy4whh9gb",
+  "name": "冂周",
+  "order": "1.9.5.0.5",
+  "params": {
+    "_g": "周",
+    "_r": "m冂"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "2",
+    "jp": "冂"
+  }
+}

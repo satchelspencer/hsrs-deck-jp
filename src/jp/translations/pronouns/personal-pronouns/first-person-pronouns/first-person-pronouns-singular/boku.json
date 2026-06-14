@@ -5,7 +5,8 @@
   "name": "boku",
   "order": "2",
   "parents": [
-    "first-person-pronouns-singular"
+    "first-person-pronouns-singular",
+    "u僕"
   ],
   "props": {
     "en": "I",

@@ -1,0 +1,17 @@
+{
+  "_id": "qdiltwx0i02",
+  "name": "r金",
+  "order": "1.9.7.2.1.1",
+  "params": {
+    "_g": "金",
+    "_r": "m金"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "8",
+    "jp": "金"
+  }
+}

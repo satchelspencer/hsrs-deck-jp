@@ -4,7 +4,9 @@
   "name": "personality",
   "order": "4",
   "parents": [
-    "people-no"
+    "people-no",
+    "u性",
+    "u格"
   ],
   "props": {
     "en": "personality",

@@ -1,0 +1,17 @@
+{
+  "_id": "9sq3aisshyj",
+  "name": "r主",
+  "order": "1.9.7.7.5.1",
+  "params": {
+    "_g": "主",
+    "_r": "m主"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "主"
+  }
+}

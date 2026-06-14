@@ -4,7 +4,9 @@
   "name": "footing",
   "order": "4",
   "parents": [
-    "abstracts"
+    "abstracts",
+    "u足",
+    "u元"
   ],
   "props": {
     "en": "footing",

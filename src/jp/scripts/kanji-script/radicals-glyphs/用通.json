@@ -1,0 +1,17 @@
+{
+  "_id": "dc7wukz07h4",
+  "name": "用通",
+  "order": "2.9.9.8.4",
+  "params": {
+    "_g": "通",
+    "_r": "m用"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "3",
+    "_sl": "5",
+    "jp": "用"
+  }
+}

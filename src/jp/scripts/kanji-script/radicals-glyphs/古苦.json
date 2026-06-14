@@ -1,0 +1,17 @@
+{
+  "_id": "i7xbiuxkj1j",
+  "name": "古苦",
+  "order": "3.2.6.2.0",
+  "params": {
+    "_g": "苦",
+    "_r": "m古"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "5",
+    "jp": "古"
+  }
+}

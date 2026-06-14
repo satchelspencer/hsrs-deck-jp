@@ -4,7 +4,9 @@
   "name": "programme",
   "order": "3",
   "parents": [
-    "media"
+    "media",
+    "u番",
+    "u組"
   ],
   "props": {
     "en": "programme",

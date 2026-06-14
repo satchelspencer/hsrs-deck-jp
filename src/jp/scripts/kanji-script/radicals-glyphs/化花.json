@@ -1,0 +1,17 @@
+{
+  "_id": "3rlck8o12bo",
+  "name": "化花",
+  "order": "1.6.0.3.0",
+  "params": {
+    "_g": "花",
+    "_r": "m化"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "4",
+    "jp": "化"
+  }
+}

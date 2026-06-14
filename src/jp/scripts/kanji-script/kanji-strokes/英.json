@@ -1,0 +1,15 @@
+{
+  "_id": "9qlp7cttitl",
+  "name": "英",
+  "order": "1.9.2.4.6",
+  "params": {
+    "_wd": "u英"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "英",
+    "_st": "CARNFRpjAwEFAAgAYw2BJoM0g2MDAAUACAADTSYOYwEBAgICA2MBBwINAxMDTUQMYwEBAQIBBGOCCYILhBMDTSAtYwEBAgICBGMBCAIOAhAETSIuYwQAIoQnhGMDAAUBBQRjgQSDDoMQBE0SQWMDAQYBCQFjDoElgjeDYwQACAALAQNNNSJjAQEBAgEEYwAmii6fOgNNNkFjBwgTEhsYYwICBQQIBQ"
+  }
+}

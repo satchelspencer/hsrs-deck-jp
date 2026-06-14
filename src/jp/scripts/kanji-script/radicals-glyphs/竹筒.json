@@ -1,0 +1,17 @@
+{
+  "_id": "fkdp6622vsn",
+  "name": "竹筒",
+  "order": "3.9.1.8.1",
+  "params": {
+    "_g": "筒",
+    "_r": "m竹"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "竹"
+  }
+}

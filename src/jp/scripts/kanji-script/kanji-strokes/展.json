@@ -1,0 +1,15 @@
+{
+  "_id": "7eaiv1eyc5y",
+  "name": "展",
+  "order": "3.9.6.0.3",
+  "params": {
+    "_wd": "u展"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "展",
+    "_st": "CgVNGRFjAgEDAQUBYwqBKIQshWMCAAMCAwRjgQOBBYMKA00eIGMFAByDKYRjAgAEAAUAA00cE2MBAQECAQNDHTQZRgtbBE0kMWMDAAUABwBjCIEYgyCDYwIABAAGAANNLiVjAQEBAgEEYwABAA0AFANNQSRjAQEBAgEEYwAFgQuCFARNHT9jAgEFAAgAYwqBIIQrhGMCAAQABwAFTSlBYwEBAQIBBGMACwARABZjAAIBAwMBYwGBDYoPjANNTUJjAAEAAYECY4IChASIBwNNNENjBQAWDx4WYwIBBQQIBQ"
+  }
+}

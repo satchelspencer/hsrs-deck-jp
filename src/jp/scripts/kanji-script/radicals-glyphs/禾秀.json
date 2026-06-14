@@ -1,0 +1,17 @@
+{
+  "_id": "ah101ok9hch",
+  "name": "禾秀",
+  "order": "4.5.2.8.5",
+  "params": {
+    "_g": "秀",
+    "_r": "m禾"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "禾"
+  }
+}

@@ -3,7 +3,9 @@
   "name": "hat",
   "order": "1",
   "parents": [
-    "headgear"
+    "headgear",
+    "u帽",
+    "u子"
   ],
   "props": {
     "en": "hat",

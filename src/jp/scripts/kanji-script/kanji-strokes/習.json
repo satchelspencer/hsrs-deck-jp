@@ -1,0 +1,15 @@
+{
+  "_id": "7w2su01du4o",
+  "name": "習",
+  "order": "2.2.8.0.7",
+  "params": {
+    "_wd": "u習"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "習",
+    "_st": "CwZNEhVjAgEEAQYAYwaBDYMQg2MEgQYBBgRjAASBE4EcYwAJhgOIAQJNFR1jAwEIAwoFA00RM2MBAAIAAwBjAYEIhgyJBk05EmMCAQQBBwFjBIENgxGDYwSBBgAGBGMABQAWACBjAAqFA4cCAk08G2MEAQkDCwUDTTswYwEBAgEDAGMBgQeECocDTTYzYwABAAEAAmOBA4MFhgkETSBBYwEBAQIBA2MAAwIRAxljAAEAAgADBU0jQ2MNgSaFKoVjAwAEAgQFY4EEggyDF2MAAQACgQMCTSRPYwiBIYMqgwJNJl1jC4EbgiaD"
+  }
+}

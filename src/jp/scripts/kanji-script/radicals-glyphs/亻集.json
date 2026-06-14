@@ -1,0 +1,18 @@
+{
+  "_id": "vgqdy3ixxbz",
+  "desc": "variant of 人",
+  "name": "亻集",
+  "order": "2.4.0.5.8",
+  "params": {
+    "_g": "集",
+    "_r": "m亻"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "2",
+    "jp": "亻"
+  }
+}

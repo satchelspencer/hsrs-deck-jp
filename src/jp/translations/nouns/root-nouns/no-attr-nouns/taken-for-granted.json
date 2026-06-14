@@ -4,7 +4,9 @@
   "name": "taken-for-granted",
   "order": "4",
   "parents": [
-    "no-attr-nouns"
+    "no-attr-nouns",
+    "u当",
+    "u前"
   ],
   "props": {
     "en": "taken for granted",

@@ -1,0 +1,18 @@
+{
+  "_id": "s2mvvn5i1uz",
+  "desc": "variant of 爪",
+  "name": "⺤菜",
+  "order": "2.9.8.4.6",
+  "params": {
+    "_g": "菜",
+    "_r": "m⺤"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "4",
+    "jp": "⺤"
+  }
+}

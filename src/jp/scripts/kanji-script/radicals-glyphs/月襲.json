@@ -1,0 +1,18 @@
+{
+  "_id": "axfs0nup6xo",
+  "desc": "variant of 肉",
+  "name": "月襲",
+  "order": "4.9.3.4.8",
+  "params": {
+    "_g": "襲",
+    "_r": "m月"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "4",
+    "jp": "月"
+  }
+}

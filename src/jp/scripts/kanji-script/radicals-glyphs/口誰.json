@@ -1,0 +1,17 @@
+{
+  "_id": "pqeacxf1zvk",
+  "name": "口誰",
+  "order": "1.9.8.6.4",
+  "params": {
+    "_g": "誰",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

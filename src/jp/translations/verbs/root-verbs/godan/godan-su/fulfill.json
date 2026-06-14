@@ -5,7 +5,8 @@
   "order": "4",
   "parents": [
     "godan-su",
-    "te-iru-verbs-continuous"
+    "te-iru-verbs-continuous",
+    "u満"
   ],
   "props": {
     "_pg": "fulfilling",

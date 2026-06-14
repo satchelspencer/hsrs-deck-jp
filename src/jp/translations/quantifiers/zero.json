@@ -3,7 +3,8 @@
   "name": "zero",
   "order": "2",
   "parents": [
-    "quantifiers"
+    "quantifiers",
+    "u零"
   ],
   "props": {
     "en": "zero",

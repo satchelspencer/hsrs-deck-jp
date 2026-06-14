@@ -1,0 +1,17 @@
+{
+  "_id": "xsxvb1ge5py",
+  "name": "口惑",
+  "order": "4.9.1.3.1",
+  "params": {
+    "_g": "惑",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "2",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

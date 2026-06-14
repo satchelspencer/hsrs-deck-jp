@@ -5,7 +5,9 @@
   "order": "4",
   "parents": [
     "abstracts",
-    "no-attr-nouns"
+    "no-attr-nouns",
+    "u現",
+    "u実"
   ],
   "props": {
     "_at": "real-world",

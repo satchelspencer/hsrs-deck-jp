@@ -1,0 +1,18 @@
+{
+  "_id": "ovvdy69c5cp",
+  "name": "衣袋",
+  "order": "2.5.0.0.0",
+  "params": {
+    "_1": "亠袋",
+    "_g": "袋",
+    "_r": "m衣"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "6",
+    "jp": "衣"
+  }
+}

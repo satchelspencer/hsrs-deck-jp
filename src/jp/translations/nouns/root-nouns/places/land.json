@@ -4,7 +4,8 @@
   "name": "land",
   "order": "4",
   "parents": [
-    "places"
+    "places",
+    "u地"
   ],
   "props": {
     "en": "land",

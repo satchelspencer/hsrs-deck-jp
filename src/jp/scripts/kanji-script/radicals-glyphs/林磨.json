@@ -1,0 +1,17 @@
+{
+  "_id": "73olcl72uel",
+  "name": "林磨",
+  "order": "2.5.6.1.0",
+  "params": {
+    "_g": "磨",
+    "_r": "m林"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "8",
+    "jp": "林"
+  }
+}

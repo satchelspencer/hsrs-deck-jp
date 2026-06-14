@@ -1,0 +1,18 @@
+{
+  "_id": "dxbb8myinn8",
+  "desc": "variant of 小",
+  "name": "⺌常",
+  "order": "3.9.8.3.5",
+  "params": {
+    "_g": "常",
+    "_r": "m⺌"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "⺌"
+  }
+}

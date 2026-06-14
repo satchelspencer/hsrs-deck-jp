@@ -5,7 +5,9 @@
   "parents": [
     "tools",
     "pullables",
-    "satsu-countable"
+    "satsu-countable",
+    "u辞",
+    "u書"
   ],
   "props": {
     "en": "dictionary",

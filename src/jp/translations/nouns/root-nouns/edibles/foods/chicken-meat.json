@@ -3,7 +3,9 @@
   "name": "chicken-meat",
   "order": "2",
   "parents": [
-    "foods"
+    "foods",
+    "u鶏",
+    "u肉"
   ],
   "props": {
     "en": "chicken meat",

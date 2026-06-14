@@ -1,0 +1,18 @@
+{
+  "_id": "m4yer1fohvr",
+  "name": "里裏",
+  "order": "3.9.9.0.5",
+  "params": {
+    "_1": "日裏",
+    "_g": "裏",
+    "_r": "m里"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "3",
+    "_sl": "7",
+    "jp": "里"
+  }
+}

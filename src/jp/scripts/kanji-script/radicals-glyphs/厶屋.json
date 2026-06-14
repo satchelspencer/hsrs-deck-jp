@@ -1,0 +1,17 @@
+{
+  "_id": "jrmknc5h8jx",
+  "name": "厶屋",
+  "order": "1.4.3.3.7",
+  "params": {
+    "_g": "屋",
+    "_r": "m厶"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "2",
+    "jp": "厶"
+  }
+}

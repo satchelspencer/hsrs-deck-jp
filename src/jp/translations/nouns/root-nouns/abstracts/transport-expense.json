@@ -4,7 +4,10 @@
   "name": "transport-expense",
   "order": "4",
   "parents": [
-    "abstracts"
+    "abstracts",
+    "u交",
+    "u通",
+    "u費"
   ],
   "props": {
     "en": "transportation expenses",

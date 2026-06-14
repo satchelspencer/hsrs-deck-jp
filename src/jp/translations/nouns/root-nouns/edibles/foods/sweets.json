@@ -4,7 +4,9 @@
   "name": "sweets",
   "order": "1",
   "parents": [
-    "foods"
+    "foods",
+    "u菓",
+    "u子"
   ],
   "props": {
     "en": "sweets",

@@ -4,7 +4,9 @@
   "order": "1",
   "parents": [
     "drinks",
-    "categories"
+    "categories",
+    "u飲",
+    "u物"
   ],
   "props": {
     "en": "beverage",

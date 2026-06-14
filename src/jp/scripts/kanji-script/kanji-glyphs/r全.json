@@ -1,0 +1,17 @@
+{
+  "_id": "9a54rtocz6d",
+  "name": "r全",
+  "order": "1.9.5.0.5.1",
+  "params": {
+    "_g": "全",
+    "_r": "m全"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "全"
+  }
+}

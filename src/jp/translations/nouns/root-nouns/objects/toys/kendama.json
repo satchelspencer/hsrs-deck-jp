@@ -3,7 +3,8 @@
   "name": "kendama",
   "order": "3",
   "parents": [
-    "toys"
+    "toys",
+    "u玉"
   ],
   "props": {
     "en": "kendama",

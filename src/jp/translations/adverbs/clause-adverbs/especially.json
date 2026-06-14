@@ -4,7 +4,8 @@
   "name": "especially",
   "order": "3",
   "parents": [
-    "clause-adverbs"
+    "clause-adverbs",
+    "u特"
   ],
   "props": {
     "en": "especially",

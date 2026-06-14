@@ -3,7 +3,10 @@
   "name": "conference-room",
   "order": "4",
   "parents": [
-    "spaces"
+    "spaces",
+    "u会",
+    "u議",
+    "u室"
   ],
   "props": {
     "en": "conference room",

@@ -1,0 +1,17 @@
+{
+  "_id": "7pgfehsr0at",
+  "name": "土基",
+  "order": "2.9.9.6.9",
+  "params": {
+    "_g": "基",
+    "_r": "m土"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "9",
+    "_sl": "3",
+    "jp": "土"
+  }
+}

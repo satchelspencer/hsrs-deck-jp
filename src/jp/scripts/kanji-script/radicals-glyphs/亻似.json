@@ -1,0 +1,18 @@
+{
+  "_id": "dz4ohpssm2o",
+  "desc": "variant of 人",
+  "name": "亻似",
+  "order": "2.9.6.6.1",
+  "params": {
+    "_g": "似",
+    "_r": "m亻"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "2",
+    "jp": "亻"
+  }
+}

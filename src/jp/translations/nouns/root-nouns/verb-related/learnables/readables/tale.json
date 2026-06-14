@@ -4,7 +4,9 @@
   "name": "tale",
   "order": "4",
   "parents": [
-    "readables"
+    "readables",
+    "u物",
+    "u語"
   ],
   "props": {
     "en": "tale",

@@ -1,0 +1,17 @@
+{
+  "_id": "a4eys1l9dx3",
+  "name": "口漢",
+  "order": "3.9.9.0.1",
+  "params": {
+    "_g": "漢",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

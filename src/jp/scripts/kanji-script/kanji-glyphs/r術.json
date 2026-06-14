@@ -1,0 +1,18 @@
+{
+  "_id": "xhr3rz9tjek",
+  "name": "r術",
+  "order": "3.6.1.0.6.1",
+  "params": {
+    "_1": "朮術",
+    "_g": "術",
+    "_r": "m術"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "11",
+    "jp": "術"
+  }
+}

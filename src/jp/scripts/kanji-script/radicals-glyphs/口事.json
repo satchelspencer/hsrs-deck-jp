@@ -1,0 +1,17 @@
+{
+  "_id": "67004k0ivut",
+  "name": "口事",
+  "order": "1.2.3.9.1",
+  "params": {
+    "_g": "事",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "2",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

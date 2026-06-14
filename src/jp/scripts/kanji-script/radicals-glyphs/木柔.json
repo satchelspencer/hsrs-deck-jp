@@ -1,0 +1,17 @@
+{
+  "_id": "ukps91i6fuu",
+  "name": "木柔",
+  "order": "3.2.2.0.5",
+  "params": {
+    "_g": "柔",
+    "_r": "m木"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "4",
+    "jp": "木"
+  }
+}

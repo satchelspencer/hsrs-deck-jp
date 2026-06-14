@@ -4,7 +4,9 @@
   "name": "circumstances",
   "order": "3",
   "parents": [
-    "people-no"
+    "people-no",
+    "u都",
+    "u合"
   ],
   "props": {
     "en": "circumstances",

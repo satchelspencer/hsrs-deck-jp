@@ -1,0 +1,20 @@
+{
+  "_id": "96v6eaiu4zs",
+  "desc": "variant of 僉",
+  "name": "㑒験",
+  "order": "3.2.1.8.8",
+  "params": {
+    "_1": "一験",
+    "_2": "口験",
+    "_g": "験",
+    "_r": "m㑒"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "11",
+    "_sl": "8",
+    "jp": "㑒"
+  }
+}

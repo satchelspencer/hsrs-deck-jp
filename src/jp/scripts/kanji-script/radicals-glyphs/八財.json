@@ -1,0 +1,17 @@
+{
+  "_id": "eh30h9ukb6v",
+  "name": "八財",
+  "order": "1.9.8.6.4",
+  "params": {
+    "_g": "財",
+    "_r": "m八"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "2",
+    "jp": "八"
+  }
+}

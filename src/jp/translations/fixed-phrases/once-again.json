@@ -4,7 +4,9 @@
   "name": "once-again",
   "order": "2",
   "parents": [
-    "fixed-phrases"
+    "fixed-phrases",
+    "u一",
+    "u度"
   ],
   "props": {
     "en": "once again",

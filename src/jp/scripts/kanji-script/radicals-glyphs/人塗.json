@@ -1,0 +1,17 @@
+{
+  "_id": "r0audundieq",
+  "name": "人塗",
+  "order": "3.2.5.8.7",
+  "params": {
+    "_g": "塗",
+    "_r": "m人"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "2",
+    "jp": "人"
+  }
+}

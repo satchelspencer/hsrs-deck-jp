@@ -3,7 +3,9 @@
   "name": "telegram",
   "order": "4",
   "parents": [
-    "sendables"
+    "sendables",
+    "u電",
+    "u報"
   ],
   "props": {
     "en": "telegram",

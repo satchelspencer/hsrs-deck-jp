@@ -4,7 +4,8 @@
   "name": "round",
   "order": "2",
   "parents": [
-    "i-attributive-standard"
+    "i-attributive-standard",
+    "u丸"
   ],
   "props": {
     "en": "round",

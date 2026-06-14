@@ -1,0 +1,18 @@
+{
+  "_id": "0aypa7ybh46",
+  "name": "貝顔",
+  "order": "2.4.0.5.0",
+  "params": {
+    "_1": "目顔",
+    "_g": "顔",
+    "_r": "m貝"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "12",
+    "_sl": "7",
+    "jp": "貝"
+  }
+}

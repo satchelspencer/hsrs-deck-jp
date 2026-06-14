@@ -1,0 +1,17 @@
+{
+  "_id": "hp717ccrshn",
+  "name": "斤近",
+  "order": "1.3.3.0.2",
+  "params": {
+    "_g": "近",
+    "_r": "m斤"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "斤"
+  }
+}

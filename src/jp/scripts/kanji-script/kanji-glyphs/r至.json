@@ -1,0 +1,17 @@
+{
+  "_id": "04jrdtj4sr5",
+  "name": "r至",
+  "order": "1.4.3.3.7.1",
+  "params": {
+    "_g": "至",
+    "_r": "m至"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "至"
+  }
+}

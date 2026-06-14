@@ -1,0 +1,18 @@
+{
+  "_id": "xvfyc05kvid",
+  "desc": "variant of 攴",
+  "name": "攵教",
+  "order": "1.3.9.4.8",
+  "params": {
+    "_g": "教",
+    "_r": "m攵"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "4",
+    "jp": "攵"
+  }
+}

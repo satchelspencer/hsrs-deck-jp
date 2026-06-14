@@ -1,0 +1,18 @@
+{
+  "_id": "8frf8a8mfff",
+  "name": "r角",
+  "order": "3.3.3.9.6.1",
+  "params": {
+    "_1": "𠂊角",
+    "_g": "角",
+    "_r": "m角"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "7",
+    "jp": "角"
+  }
+}

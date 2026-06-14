@@ -1,0 +1,18 @@
+{
+  "_id": "cezajneja91",
+  "name": "有随",
+  "order": "4.9.4.2.5",
+  "params": {
+    "_1": "月随",
+    "_g": "随",
+    "_r": "m有"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "6",
+    "jp": "有"
+  }
+}

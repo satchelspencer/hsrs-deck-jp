@@ -1,0 +1,17 @@
+{
+  "_id": "fmdbww2cxom",
+  "name": "八頬",
+  "order": "4.3.6.1.5",
+  "params": {
+    "_g": "頬",
+    "_r": "m八"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "14",
+    "_sl": "2",
+    "jp": "八"
+  }
+}

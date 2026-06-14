@@ -5,7 +5,9 @@
   "order": "1",
   "parents": [
     "verb-adverbs",
-    "no-attr-nouns"
+    "no-attr-nouns",
+    "u沢",
+    "u山"
   ],
   "props": {
     "_at": "a lot of",

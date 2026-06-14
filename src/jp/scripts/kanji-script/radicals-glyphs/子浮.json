@@ -1,0 +1,17 @@
+{
+  "_id": "nvvfc649jme",
+  "name": "子浮",
+  "order": "4.9.3.5.5",
+  "params": {
+    "_g": "浮",
+    "_r": "m子"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "3",
+    "jp": "子"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "gp0fpv0ijyw",
+  "name": "十植",
+  "order": "3.9.1.3.6",
+  "params": {
+    "_g": "植",
+    "_r": "m十"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "2",
+    "jp": "十"
+  }
+}

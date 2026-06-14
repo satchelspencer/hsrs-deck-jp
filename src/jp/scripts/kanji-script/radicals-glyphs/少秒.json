@@ -1,0 +1,17 @@
+{
+  "_id": "qgc9lgv06bd",
+  "name": "少秒",
+  "order": "2.9.9.9.5",
+  "params": {
+    "_g": "秒",
+    "_r": "m少"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "4",
+    "jp": "少"
+  }
+}

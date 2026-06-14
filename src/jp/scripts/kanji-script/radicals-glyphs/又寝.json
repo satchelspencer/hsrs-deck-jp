@@ -1,0 +1,17 @@
+{
+  "_id": "fgt2kirrhp4",
+  "name": "又寝",
+  "order": "1.5.2.3.9",
+  "params": {
+    "_g": "寝",
+    "_r": "m又"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "12",
+    "_sl": "2",
+    "jp": "又"
+  }
+}

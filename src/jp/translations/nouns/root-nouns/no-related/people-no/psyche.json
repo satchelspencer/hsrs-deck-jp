@@ -4,7 +4,9 @@
   "name": "psyche",
   "order": "4",
   "parents": [
-    "people-no"
+    "people-no",
+    "u精",
+    "u神"
   ],
   "props": {
     "en": "psyche",

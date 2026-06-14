@@ -1,0 +1,10 @@
+{
+  "_id": "if8kkocmdkg",
+  "name": "m案",
+  "parents": [
+    "radicals"
+  ],
+  "props": {
+    "_m": "plan, suggestion, draft"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "1e3cb2opus3",
+  "name": "工尋",
+  "order": "3.9.8.9.6",
+  "params": {
+    "_g": "尋",
+    "_r": "m工"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "3",
+    "jp": "工"
+  }
+}

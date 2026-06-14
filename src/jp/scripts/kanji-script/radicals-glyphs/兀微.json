@@ -1,0 +1,17 @@
+{
+  "_id": "gyrvzg69rde",
+  "name": "兀微",
+  "order": "4.4.2.0.6",
+  "params": {
+    "_g": "微",
+    "_r": "m兀"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "3",
+    "jp": "兀"
+  }
+}

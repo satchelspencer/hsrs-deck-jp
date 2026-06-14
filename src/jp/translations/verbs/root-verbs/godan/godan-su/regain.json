@@ -6,7 +6,9 @@
   "parents": [
     "godan-su",
     "te-iru-verbs-continuous",
-    "people-do-volitional"
+    "people-do-volitional",
+    "u取",
+    "u戻"
   ],
   "props": {
     "en": "regain",

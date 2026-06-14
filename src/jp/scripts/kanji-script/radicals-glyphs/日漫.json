@@ -1,0 +1,18 @@
+{
+  "_id": "dpnw4qnpy7m",
+  "desc": "variant of 曰",
+  "name": "日漫",
+  "order": "3.9.6.5.7",
+  "params": {
+    "_g": "漫",
+    "_r": "m日"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "4",
+    "jp": "日"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "_id": "j5d5g1zzmup",
+  "name": "暖",
+  "order": "1.4.3.0.7",
+  "params": {
+    "_wd": "u暖"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "暖",
+    "_st": "DQRNDR1jAQEBAgEEYwABABsAJ2MAAgAEAAUFTQ4eYwIAEIIRgmMCAAMBAwNjAAIAGgAmYwAEAAYABwJNDzJjBQAMghKCAk0PSGMEAA2BEoIDTUkNYwABAAKBAmOEA4sGlwoCTS0dYwIBBgYHCAJNPRpjAgEEBgUIA01XFGMAAQACgQJjggOFB4kLBE0vK2MCAQQBBgFjBoESgheDYwIAA4EEAARNKjhjAwAFAAgAYw2CGIMihGMCAAUABwADTT8uYwABAAIAA0M7PTROIlkFTTpDYwEAAwAEAGMFgQuDD4RjA4EEAQMEY4UKlhqnHwNNNkdjBAETEBsVQ1ZfWWBbYQ"
+  }
+}

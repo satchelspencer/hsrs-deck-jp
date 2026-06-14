@@ -1,0 +1,17 @@
+{
+  "_id": "fd04or5x0nt",
+  "name": "r万",
+  "order": "1.9.1.3.9.1",
+  "params": {
+    "_g": "万",
+    "_r": "m万"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "万"
+  }
+}

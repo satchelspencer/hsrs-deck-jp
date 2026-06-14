@@ -1,0 +1,17 @@
+{
+  "_id": "5fbmo2fnhdu",
+  "name": "口絹",
+  "order": "3.9.3.1.7",
+  "params": {
+    "_g": "絹",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

@@ -4,7 +4,8 @@
   "name": "counter-root-seconds",
   "order": "2",
   "parents": [
-    "counter-roots-kango-simple"
+    "counter-roots-kango-simple",
+    "u秒"
   ],
   "props": {
     "_ec": "seconds",

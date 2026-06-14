@@ -4,7 +4,8 @@
   "order": "3",
   "parents": [
     "i-attributive-standard",
-    "i-places"
+    "i-places",
+    "u遠"
   ],
   "props": {
     "en": "distant",

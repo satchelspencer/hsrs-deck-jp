@@ -5,7 +5,8 @@
   "order": "3",
   "parents": [
     "hot-cold-weather",
-    "weather"
+    "weather",
+    "u風"
   ],
   "props": {
     "en": "wind",

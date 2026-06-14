@@ -1,0 +1,17 @@
+{
+  "_id": "xksjao02ubj",
+  "name": "廿席",
+  "order": "3.4.3.5.1",
+  "params": {
+    "_g": "席",
+    "_r": "m廿"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "4",
+    "jp": "廿"
+  }
+}

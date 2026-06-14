@@ -1,0 +1,17 @@
+{
+  "_id": "p4m87dac7c3",
+  "name": "口額",
+  "order": "4.9.3.1.2",
+  "params": {
+    "_g": "額",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

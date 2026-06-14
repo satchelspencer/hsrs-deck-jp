@@ -1,0 +1,17 @@
+{
+  "_id": "2ktmgrhd6ue",
+  "name": "口誌",
+  "order": "3.5.2.3.5",
+  "params": {
+    "_g": "誌",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

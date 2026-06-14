@@ -4,7 +4,9 @@
   "name": "confidence",
   "order": "4",
   "parents": [
-    "people-no"
+    "people-no",
+    "u自",
+    "u信"
   ],
   "props": {
     "en": "confidence",

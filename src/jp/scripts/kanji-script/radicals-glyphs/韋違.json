@@ -1,0 +1,18 @@
+{
+  "_id": "7ybxcnpbbad",
+  "name": "韋違",
+  "order": "1.4.0.2.8",
+  "params": {
+    "_1": "口違",
+    "_g": "違",
+    "_r": "m韋"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "10",
+    "jp": "韋"
+  }
+}

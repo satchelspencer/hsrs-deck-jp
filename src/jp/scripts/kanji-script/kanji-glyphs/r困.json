@@ -1,0 +1,18 @@
+{
+  "_id": "i8naxe1c1vs",
+  "name": "r困",
+  "order": "2.9.1.4.6.1",
+  "params": {
+    "_1": "木困",
+    "_g": "困",
+    "_r": "m困"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "7",
+    "jp": "困"
+  }
+}

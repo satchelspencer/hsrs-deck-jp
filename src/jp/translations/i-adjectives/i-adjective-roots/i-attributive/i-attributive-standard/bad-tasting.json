@@ -3,7 +3,9 @@
   "name": "bad-tasting",
   "order": "2",
   "parents": [
-    "i-attributive-standard"
+    "i-attributive-standard",
+    "u不",
+    "u味"
   ],
   "props": {
     "en": "bad tasting",

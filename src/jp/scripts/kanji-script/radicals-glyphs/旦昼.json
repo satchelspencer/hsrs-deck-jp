@@ -1,0 +1,17 @@
+{
+  "_id": "uzvn1o7nvbc",
+  "name": "旦昼",
+  "order": "1.9.3.4.1",
+  "params": {
+    "_g": "昼",
+    "_r": "m旦"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "5",
+    "jp": "旦"
+  }
+}

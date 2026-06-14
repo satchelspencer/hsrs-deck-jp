@@ -4,7 +4,8 @@
   "name": "counter-root-stores",
   "order": "3",
   "parents": [
-    "counter-roots-kango-full-t"
+    "counter-roots-kango-full-t",
+    "u店"
   ],
   "props": {
     "_ec": "stores",

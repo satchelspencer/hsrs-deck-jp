@@ -1,0 +1,17 @@
+{
+  "_id": "259bfn1jeom",
+  "name": "豕像",
+  "order": "4.2.5.3.4",
+  "params": {
+    "_g": "像",
+    "_r": "m豕"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "7",
+    "jp": "豕"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "fsm5x73701e",
+  "name": "ト",
+  "params": {
+    "_kn": "katakana-to"
+  },
+  "parents": [
+    "katakana-glyphs"
+  ],
+  "props": {
+    "_st": "AgRNLBBjAQECAwIGYwAaADYAOmMABAALAA0CTTErYwwEEgsZEw",
+    "jp": "ト"
+  }
+}

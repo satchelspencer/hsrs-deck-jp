@@ -1,0 +1,18 @@
+{
+  "_id": "egp39ab6lbw",
+  "desc": "variant of 巳",
+  "name": "己港",
+  "order": "3.9.6.5.1",
+  "params": {
+    "_g": "港",
+    "_r": "m己"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "10",
+    "_sl": "3",
+    "jp": "己"
+  }
+}

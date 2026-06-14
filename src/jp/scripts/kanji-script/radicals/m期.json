@@ -1,0 +1,10 @@
+{
+  "_id": "76cesya2kyi",
+  "name": "m期",
+  "parents": [
+    "radicals"
+  ],
+  "props": {
+    "_m": "period, time, date, term"
+  }
+}

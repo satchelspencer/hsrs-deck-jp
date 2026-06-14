@@ -1,0 +1,15 @@
+{
+  "_id": "mcr2gc1cr5c",
+  "name": "燃",
+  "order": "4.4.0.8.1",
+  "params": {
+    "_wd": "u燃"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "燃",
+    "_st": "EAJNDSVjAQMDCwMOA00kHGMAAYECgQNjgQGEBYcHA00ZEmMBAQECAQRjACaDNY9DAk0aQGMDAgYJBw0DTS8WYwABAQIAA2ODB4cQjBYFTTIZYwEAAgADgWMCgQWBBoJjAoEDAQMDQzkoNDYoQQJNLiJjAQAFAggEAk0qLGMDAQYEBwYETUAmYwIAAwAFAGMFgQyCEIJjAQADAAQAA01KEmMBAQECAQNDTChHODlBA01MJmMEBgkPDhZjAQICAwQEAk1VFWMFAwYFBwgCTSpOYwAFhQyHDQJNNk1jAgMDCgMOAk1GTGMCAgUJBQ0CTVZLYwQEBwkJDw"
+  }
+}

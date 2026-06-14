@@ -1,0 +1,15 @@
+{
+  "_id": "r4bdc04sxf7",
+  "name": "忙",
+  "order": "1.5.5.3.5",
+  "params": {
+    "_wd": "u忙"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "忙",
+    "_st": "BgJNECVjAAeDEIMSAk0eHGMDAQgGCQgETRkMYwEBAQIBBGMAAQAzAEhjAAQABwAIA01CD2MBAQIDAgVjAAUADgATBE0oLGMDAQYBCQBjCoIehCiFYwMABgAJAAVNNS9jAQEBAwEFYwALABYAG2MACQIMEwxjCgARgRWC"
+  }
+}

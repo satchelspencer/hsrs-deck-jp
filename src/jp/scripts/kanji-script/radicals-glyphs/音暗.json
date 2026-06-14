@@ -1,0 +1,18 @@
+{
+  "_id": "rrekn4bjb5j",
+  "name": "音暗",
+  "order": "2.2.8.5.6",
+  "params": {
+    "_1": "立暗",
+    "_g": "暗",
+    "_r": "m音"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "9",
+    "jp": "音"
+  }
+}

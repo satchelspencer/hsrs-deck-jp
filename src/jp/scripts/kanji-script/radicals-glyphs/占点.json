@@ -1,0 +1,17 @@
+{
+  "_id": "rxflflu0ala",
+  "name": "占点",
+  "order": "1.6.0.6.1",
+  "params": {
+    "_g": "点",
+    "_r": "m占"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "占"
+  }
+}

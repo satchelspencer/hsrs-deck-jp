@@ -3,7 +3,8 @@
   "desc": "spring, springtime",
   "name": "spring",
   "parents": [
-    "seasons"
+    "seasons",
+    "u春"
   ],
   "props": {
     "en": "spring",

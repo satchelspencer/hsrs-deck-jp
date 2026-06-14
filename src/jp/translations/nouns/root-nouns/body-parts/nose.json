@@ -3,7 +3,8 @@
   "name": "nose",
   "order": "2",
   "parents": [
-    "body-parts"
+    "body-parts",
+    "u鼻"
   ],
   "props": {
     "en": "nose",

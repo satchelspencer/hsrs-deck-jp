@@ -4,7 +4,8 @@
   "name": "now",
   "order": "1",
   "parents": [
-    "wa-future-only-times"
+    "wa-future-only-times",
+    "u今"
   ],
   "props": {
     "_at": "current",

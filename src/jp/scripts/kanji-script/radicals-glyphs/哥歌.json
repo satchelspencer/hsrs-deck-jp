@@ -1,0 +1,17 @@
+{
+  "_id": "m0scrneg8ey",
+  "name": "哥歌",
+  "order": "1.5.1.1.2",
+  "params": {
+    "_g": "歌",
+    "_r": "m哥"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "10",
+    "jp": "哥"
+  }
+}

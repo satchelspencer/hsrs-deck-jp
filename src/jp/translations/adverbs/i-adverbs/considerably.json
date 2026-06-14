@@ -4,7 +4,9 @@
   "name": "considerably",
   "order": "3",
   "parents": [
-    "i-adverbs"
+    "i-adverbs",
+    "u大",
+    "u分"
   ],
   "props": {
     "en": "considerably",

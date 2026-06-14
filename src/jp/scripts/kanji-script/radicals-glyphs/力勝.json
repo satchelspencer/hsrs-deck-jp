@@ -1,0 +1,17 @@
+{
+  "_id": "c5gulylcszo",
+  "name": "力勝",
+  "order": "3.1.9.3.6",
+  "params": {
+    "_g": "勝",
+    "_r": "m力"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "11",
+    "_sl": "2",
+    "jp": "力"
+  }
+}

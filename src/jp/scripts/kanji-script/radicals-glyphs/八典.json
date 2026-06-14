@@ -1,0 +1,17 @@
+{
+  "_id": "dokks7cw8p3",
+  "name": "八典",
+  "order": "4.9.1.0.5",
+  "params": {
+    "_g": "典",
+    "_r": "m八"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "2",
+    "jp": "八"
+  }
+}

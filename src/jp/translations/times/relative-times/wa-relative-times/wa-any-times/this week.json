@@ -3,7 +3,9 @@
   "name": "this week",
   "order": "1",
   "parents": [
-    "wa-any-times"
+    "wa-any-times",
+    "u今",
+    "u週"
   ],
   "props": {
     "en": "this week",

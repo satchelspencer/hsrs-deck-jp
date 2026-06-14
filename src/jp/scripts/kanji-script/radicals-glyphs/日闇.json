@@ -1,0 +1,18 @@
+{
+  "_id": "gkk7x91al5n",
+  "desc": "variant of 曰",
+  "name": "日闇",
+  "order": "4.1.9.3.2",
+  "params": {
+    "_g": "闇",
+    "_r": "m日"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "14",
+    "_sl": "4",
+    "jp": "日"
+  }
+}

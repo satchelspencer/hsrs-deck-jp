@@ -1,0 +1,18 @@
+{
+  "_id": "8c12m559twv",
+  "desc": "variant of 刀",
+  "name": "刂型",
+  "order": "4.9.2.9.0",
+  "params": {
+    "_g": "型",
+    "_r": "m刂"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "2",
+    "jp": "刂"
+  }
+}

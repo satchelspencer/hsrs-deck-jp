@@ -3,7 +3,8 @@
   "name": "green-color",
   "order": "3",
   "parents": [
-    "colors"
+    "colors",
+    "u緑"
   ],
   "props": {
     "en": "green color",

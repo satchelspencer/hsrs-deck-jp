@@ -4,7 +4,8 @@
   "name": "day-by-day",
   "order": "4",
   "parents": [
-    "continuing-times"
+    "continuing-times",
+    "u日"
   ],
   "props": {
     "en": "day by day",

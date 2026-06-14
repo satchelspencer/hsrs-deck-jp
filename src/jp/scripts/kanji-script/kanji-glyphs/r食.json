@@ -1,0 +1,17 @@
+{
+  "_id": "2y319lfaqte",
+  "name": "r食",
+  "order": "1.3.8.3.9.1",
+  "params": {
+    "_g": "食",
+    "_r": "m食"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "9",
+    "jp": "食"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "dajuuvxwa64",
+  "name": "目漬",
+  "order": "3.6.4.5.4",
+  "params": {
+    "_g": "漬",
+    "_r": "m目"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "5",
+    "jp": "目"
+  }
+}

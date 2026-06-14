@@ -3,7 +3,8 @@
   "name": "tatami",
   "order": "3",
   "parents": [
-    "furniture"
+    "furniture",
+    "u畳"
   ],
   "props": {
     "en": "tatami mats",

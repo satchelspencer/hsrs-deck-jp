@@ -1,0 +1,17 @@
+{
+  "_id": "bybxnxr5z4l",
+  "name": "r巡",
+  "order": "2.9.6.0.3.1",
+  "params": {
+    "_g": "巡",
+    "_r": "m巡"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "巡"
+  }
+}

@@ -3,7 +3,9 @@
   "name": "once",
   "order": "3",
   "parents": [
-    "verb-adverbs"
+    "verb-adverbs",
+    "u一",
+    "u度"
   ],
   "props": {
     "en": "once",

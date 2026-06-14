@@ -6,7 +6,8 @@
   "parents": [
     "building-materials",
     "objects",
-    "ko-countable"
+    "ko-countable",
+    "u石"
   ],
   "props": {
     "en": "stone",

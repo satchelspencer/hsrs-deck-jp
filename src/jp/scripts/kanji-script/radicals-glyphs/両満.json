@@ -1,0 +1,19 @@
+{
+  "_id": "fjhkfldoai9",
+  "name": "両満",
+  "order": "4.9.1.5.1",
+  "params": {
+    "_1": "冂満",
+    "_2": "山満",
+    "_g": "満",
+    "_r": "m両"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "6",
+    "jp": "両"
+  }
+}

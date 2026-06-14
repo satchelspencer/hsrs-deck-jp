@@ -4,7 +4,8 @@
   "name": "inside",
   "order": "2",
   "parents": [
-    "positional-words"
+    "positional-words",
+    "u中"
   ],
   "props": {
     "en": "inside",

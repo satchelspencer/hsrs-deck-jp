@@ -1,0 +1,18 @@
+{
+  "_id": "gt1ossbotpj",
+  "desc": "variant of 火",
+  "name": "灬燃",
+  "order": "4.4.0.8.1",
+  "params": {
+    "_g": "燃",
+    "_r": "m灬"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "13",
+    "_sl": "4",
+    "jp": "灬"
+  }
+}

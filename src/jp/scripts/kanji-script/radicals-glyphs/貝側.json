@@ -1,0 +1,19 @@
+{
+  "_id": "zkm8vsrtbxm",
+  "name": "貝側",
+  "order": "2.6.2.6.2",
+  "params": {
+    "_1": "目側",
+    "_2": "八側",
+    "_g": "側",
+    "_r": "m貝"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "3",
+    "_sl": "7",
+    "jp": "貝"
+  }
+}

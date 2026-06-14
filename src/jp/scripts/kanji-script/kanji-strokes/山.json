@@ -1,0 +1,15 @@
+{
+  "_id": "sjnqv2rww8g",
+  "name": "山",
+  "order": "1.4.8.0.9",
+  "params": {
+    "_wd": "u山"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "山",
+    "_st": "AwNNNBBjAQECBAIGYwABADoAOwVNFTdjAQEBAgEEY4EHgRCCF2OBAwAEAgRjEYIvhUKGBE1ZMWMBAQICAgRjAASCFIMdYwADAAUABQ"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "heif5abixl3",
+  "name": "弔弟",
+  "order": "1.9.8.8.7",
+  "params": {
+    "_g": "弟",
+    "_r": "m弔"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "3",
+    "_sl": "4",
+    "jp": "弔"
+  }
+}

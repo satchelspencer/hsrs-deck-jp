@@ -4,7 +4,8 @@
   "name": "surface",
   "order": "3",
   "parents": [
-    "positional-words"
+    "positional-words",
+    "u表"
   ],
   "props": {
     "en": "surface",

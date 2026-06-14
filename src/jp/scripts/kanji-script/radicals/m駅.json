@@ -1,0 +1,10 @@
+{
+  "_id": "2yhyimd9kgq",
+  "name": "m駅",
+  "parents": [
+    "radicals"
+  ],
+  "props": {
+    "_m": "station"
+  }
+}

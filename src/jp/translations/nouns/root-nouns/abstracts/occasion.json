@@ -4,7 +4,8 @@
   "name": "occasion",
   "order": "4",
   "parents": [
-    "abstracts"
+    "abstracts",
+    "u場"
   ],
   "props": {
     "en": "occasion",

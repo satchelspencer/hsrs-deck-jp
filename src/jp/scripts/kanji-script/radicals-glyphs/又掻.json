@@ -1,0 +1,17 @@
+{
+  "_id": "k0yonb22t6d",
+  "name": "又掻",
+  "order": "3.2.1.1.2",
+  "params": {
+    "_g": "掻",
+    "_r": "m又"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "2",
+    "jp": "又"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "adro3b0fu39",
+  "name": "口喉",
+  "order": "3.9.7.4.4",
+  "params": {
+    "_g": "喉",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

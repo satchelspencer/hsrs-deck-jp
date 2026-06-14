@@ -1,0 +1,18 @@
+{
+  "_id": "0i0szkplqvy",
+  "desc": "variant of 巛",
+  "name": "川順",
+  "order": "4.3.9.7.2",
+  "params": {
+    "_g": "順",
+    "_r": "m川"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "川"
+  }
+}

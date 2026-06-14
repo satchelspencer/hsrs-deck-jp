@@ -1,0 +1,19 @@
+{
+  "_id": "23stsb0yx8w",
+  "constraint": "_wd",
+  "name": "radicals-glyphs",
+  "order": "2",
+  "parents": [
+    "kanji-script"
+  ],
+  "props": {
+    "_en": "_g._wd.en",
+    "_jp": "_g._jp",
+    "_m": "_r._m",
+    "_st": "_g._st",
+    "_tl": "_g._wd.tl",
+    "_wd": "_g._wd.jp",
+    "jp": ""
+  },
+  "virtual": true
+}

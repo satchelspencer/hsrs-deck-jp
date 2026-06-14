@@ -1,0 +1,18 @@
+{
+  "_id": "bzcff2t7trf",
+  "desc": "variant of 人",
+  "name": "亻偉",
+  "order": "4.9.8.4.1",
+  "params": {
+    "_g": "偉",
+    "_r": "m亻"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "2",
+    "jp": "亻"
+  }
+}

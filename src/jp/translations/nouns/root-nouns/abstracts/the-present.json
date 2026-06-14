@@ -6,7 +6,9 @@
   "parents": [
     "abstracts",
     "no-attr-nouns",
-    "wa-any-times"
+    "wa-any-times",
+    "u現",
+    "u在"
   ],
   "props": {
     "_at": "present time",

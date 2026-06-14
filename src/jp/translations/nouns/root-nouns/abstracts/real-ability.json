@@ -4,7 +4,9 @@
   "name": "real-ability",
   "order": "4",
   "parents": [
-    "abstracts"
+    "abstracts",
+    "u実",
+    "u力"
   ],
   "props": {
     "en": "real ability",

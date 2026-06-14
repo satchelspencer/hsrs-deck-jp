@@ -4,7 +4,9 @@
   "name": "emotions",
   "order": "4",
   "parents": [
-    "people-no"
+    "people-no",
+    "u感",
+    "u情"
   ],
   "props": {
     "en": "emotions",

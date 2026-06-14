@@ -1,0 +1,17 @@
+{
+  "_id": "nc4ynt70c2a",
+  "name": "r団",
+  "order": "3.9.2.3.3.1",
+  "params": {
+    "_g": "団",
+    "_r": "m団"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "団"
+  }
+}

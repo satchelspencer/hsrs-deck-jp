@@ -1,0 +1,18 @@
+{
+  "_id": "w41of1ailk7",
+  "desc": "variant of 手",
+  "name": "扌指",
+  "order": "3.4.8.7.3",
+  "params": {
+    "_g": "指",
+    "_r": "m扌"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "扌"
+  }
+}

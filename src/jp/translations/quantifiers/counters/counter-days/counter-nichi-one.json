@@ -5,7 +5,9 @@
     "number": "one"
   },
   "parents": [
-    "counter-days"
+    "counter-days",
+    "u一",
+    "u日"
   ],
   "props": {
     "jp": "一日",

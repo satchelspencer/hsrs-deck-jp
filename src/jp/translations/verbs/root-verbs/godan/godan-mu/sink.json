@@ -5,7 +5,8 @@
   "order": "4",
   "parents": [
     "godan-mu",
-    "te-iru-verbs-continuous"
+    "te-iru-verbs-continuous",
+    "u沈"
   ],
   "props": {
     "en": "sink",

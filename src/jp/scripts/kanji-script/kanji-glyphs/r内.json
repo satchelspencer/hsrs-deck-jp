@@ -1,0 +1,17 @@
+{
+  "_id": "zxek6s9jx87",
+  "name": "r内",
+  "order": "2.4.0.1.5.1",
+  "params": {
+    "_g": "内",
+    "_r": "m内"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "内"
+  }
+}

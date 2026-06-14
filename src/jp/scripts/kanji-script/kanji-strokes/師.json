@@ -1,0 +1,15 @@
+{
+  "_id": "tgfv7dfhzrv",
+  "name": "師",
+  "order": "3.9.1.6.6",
+  "params": {
+    "_wd": "u師"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "師",
+    "_st": "CgNNIQxjAAEAA4EEQx0VGBoSHgRNDx9jAQEBAwEEYwABACAAL2MAAwAEAAYETREjYweBE4MXg2MBAAIBAgJjgQOCBoQOA00RM2MJgQ-CE4JjAQACAAQABE0RQmMJgRKDFoNjAgADAgIDY4EEggiDDgNNEVNjBAANghOCYwIAAwAFAARNMRRjAwEFAQcAYwiBGIMihGMCAAUABwAETTQpYwEBAgMCBGMAAQAQABpjAAMABQAFBU02LGMLgRyEJIVjAgAEAgQEYwAKABSBHWMABYQCh4EETUcWYwEBAgMCBGMAAQAvAENjAAQABgAH"
+  }
+}

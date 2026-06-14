@@ -5,7 +5,8 @@
   "order": "3",
   "parents": [
     "godan-su",
-    "people-do-volitional"
+    "people-do-volitional",
+    "u沸"
   ],
   "props": {
     "en": "boil",

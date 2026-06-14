@@ -1,0 +1,15 @@
+{
+  "_id": "11hiesv1ibe",
+  "name": "足",
+  "order": "1.9.3.6.5",
+  "params": {
+    "_wd": "u足"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "足",
+    "_st": "BwRNHhNjAQEBAgICYwEDAw0FE2MAAgEDAQMETSAUYwyCIoUohWMDAAQCBARjgQSED4URA00lKWMHABWCIIRjAgADAAUAA001KWMBAQECAQRjAAUAIAAiA004O0M5O0I6SjlDSzhNOE44A00kN2MAAgADAARjggiKGJIfA00hR0MqSENXUl1jAwEHAgoC"
+  }
+}

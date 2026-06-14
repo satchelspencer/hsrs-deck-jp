@@ -1,0 +1,17 @@
+{
+  "_id": "omoexpch3k8",
+  "name": "木困",
+  "order": "2.9.1.4.6",
+  "params": {
+    "_g": "困",
+    "_r": "m木"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "3",
+    "_sl": "4",
+    "jp": "木"
+  }
+}

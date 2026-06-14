@@ -3,7 +3,9 @@
   "name": "china",
   "order": "1",
   "parents": [
-    "countries"
+    "countries",
+    "u中",
+    "u国"
   ],
   "props": {
     "_ad": "chinese",

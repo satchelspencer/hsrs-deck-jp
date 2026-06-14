@@ -1,0 +1,15 @@
+{
+  "_id": "dsiog78oi02",
+  "name": "郵",
+  "order": "2.9.4.4.6",
+  "params": {
+    "_wd": "u郵"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "郵",
+    "_st": "CwNNLg1jAAEAAoIDY4YEjQeXCwRNECJjAgEFAAcAYweBFIMbhGMCAAUABwAETQwyYwIBBQEGAGMJgRqEJIVjAwAFAAgAA00WKWMBAQECAQNjAQgCEAITA000JWMBAQECAQRjgQeCC4MTBE0RQWMCAQUBBwBjB4ETgxuEYwIABIEGAANNJRhjAQEBAgEEYwABACoANANNEVVjAQECAQQBYwuDGYgljAVNRBdjAgEDAQQAYwYADYIRg2MEgQUBAwRjgQOJD4wTAk1RLUNmOl9bVEwETUUYYwEBAQIBBGMACQAyAD9jAAMABQAI"
+  }
+}

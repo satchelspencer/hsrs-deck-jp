@@ -1,0 +1,17 @@
+{
+  "_id": "7lnrdg91zbm",
+  "name": "r皿",
+  "order": "1.9.5.4.3.1",
+  "params": {
+    "_g": "皿",
+    "_r": "m皿"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "皿"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "qjt3eq6fy35",
+  "name": "r八",
+  "order": "1.1.8.3.8.1",
+  "params": {
+    "_g": "八",
+    "_r": "m八"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "2",
+    "jp": "八"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "rx4xryvx2ub",
+  "name": "山岩",
+  "order": "3.9.9.7.9",
+  "params": {
+    "_g": "岩",
+    "_r": "m山"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "山"
+  }
+}

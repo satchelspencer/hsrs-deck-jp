@@ -4,7 +4,9 @@
   "name": "human-being",
   "order": "4",
   "parents": [
-    "people"
+    "people",
+    "u人",
+    "u間"
   ],
   "props": {
     "en": "human being",

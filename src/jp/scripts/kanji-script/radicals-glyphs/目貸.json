@@ -1,0 +1,17 @@
+{
+  "_id": "bo1lslpb3w1",
+  "name": "目貸",
+  "order": "2.6.6.6.3",
+  "params": {
+    "_g": "貸",
+    "_r": "m目"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "5",
+    "jp": "目"
+  }
+}

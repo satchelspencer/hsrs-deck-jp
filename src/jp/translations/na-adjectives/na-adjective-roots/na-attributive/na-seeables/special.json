@@ -4,7 +4,9 @@
   "name": "special",
   "order": "3",
   "parents": [
-    "na-seeables"
+    "na-seeables",
+    "u特",
+    "u別"
   ],
   "props": {
     "en": "special",

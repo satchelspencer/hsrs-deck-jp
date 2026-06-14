@@ -3,7 +3,8 @@
   "name": "baby",
   "order": "3",
   "parents": [
-    "people"
+    "people",
+    "u赤"
   ],
   "props": {
     "en": "baby",

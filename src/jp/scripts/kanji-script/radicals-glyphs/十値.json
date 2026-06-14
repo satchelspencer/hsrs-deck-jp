@@ -1,0 +1,17 @@
+{
+  "_id": "u4ll97mtv8v",
+  "name": "十値",
+  "order": "2.2.7.9.9",
+  "params": {
+    "_g": "値",
+    "_r": "m十"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "3",
+    "_sl": "2",
+    "jp": "十"
+  }
+}

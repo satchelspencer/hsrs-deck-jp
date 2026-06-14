@@ -4,7 +4,9 @@
   "name": "jacket",
   "order": "2",
   "parents": [
-    "wearables"
+    "wearables",
+    "u上",
+    "u着"
   ],
   "props": {
     "en": "jacket",

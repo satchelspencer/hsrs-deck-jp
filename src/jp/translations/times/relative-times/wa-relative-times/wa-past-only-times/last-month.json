@@ -3,7 +3,9 @@
   "name": "last-month",
   "order": "1",
   "parents": [
-    "wa-past-only-times"
+    "wa-past-only-times",
+    "u先",
+    "u月"
   ],
   "props": {
     "en": "last month",

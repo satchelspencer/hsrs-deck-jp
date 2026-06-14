@@ -4,7 +4,8 @@
   "order": "3",
   "parents": [
     "body-parts",
-    "flowing"
+    "flowing",
+    "u血"
   ],
   "props": {
     "en": "blood",

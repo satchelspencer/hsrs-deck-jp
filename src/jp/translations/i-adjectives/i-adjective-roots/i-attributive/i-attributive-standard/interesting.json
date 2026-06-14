@@ -6,7 +6,9 @@
   "parents": [
     "i-attributive-standard",
     "i-people",
-    "i-people-do"
+    "i-people-do",
+    "u面",
+    "u白"
   ],
   "props": {
     "en": "interesting",

@@ -5,7 +5,8 @@
   "name": "ore",
   "order": "3",
   "parents": [
-    "first-person-pronouns-singular"
+    "first-person-pronouns-singular",
+    "u俺"
   ],
   "props": {
     "en": "I",

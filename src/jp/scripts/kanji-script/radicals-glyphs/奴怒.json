@@ -1,0 +1,17 @@
+{
+  "_id": "ntdyhwud7a5",
+  "name": "奴怒",
+  "order": "3.6.0.7.0",
+  "params": {
+    "_g": "怒",
+    "_r": "m奴"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "奴"
+  }
+}

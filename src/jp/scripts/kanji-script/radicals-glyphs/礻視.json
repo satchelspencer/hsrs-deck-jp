@@ -1,0 +1,18 @@
+{
+  "_id": "9rxgvj4pnh5",
+  "desc": "variant of 示",
+  "name": "礻視",
+  "order": "4.1.6.6.6",
+  "params": {
+    "_g": "視",
+    "_r": "m礻"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "礻"
+  }
+}

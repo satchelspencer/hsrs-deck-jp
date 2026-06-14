@@ -4,7 +4,9 @@
   "name": "writing",
   "order": "3",
   "parents": [
-    "people-no"
+    "people-no",
+    "u作",
+    "u文"
   ],
   "props": {
     "en": "writing",

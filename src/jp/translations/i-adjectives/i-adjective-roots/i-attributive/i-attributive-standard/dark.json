@@ -4,7 +4,8 @@
   "name": "dark",
   "order": "2",
   "parents": [
-    "i-attributive-standard"
+    "i-attributive-standard",
+    "u暗"
   ],
   "props": {
     "en": "dark",

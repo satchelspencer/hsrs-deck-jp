@@ -1,0 +1,17 @@
+{
+  "_id": "qy9taferg69",
+  "name": "力効",
+  "order": "4.1.4.0.7",
+  "params": {
+    "_g": "効",
+    "_r": "m力"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "2",
+    "jp": "力"
+  }
+}

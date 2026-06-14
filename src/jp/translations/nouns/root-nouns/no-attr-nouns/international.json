@@ -3,7 +3,9 @@
   "name": "international",
   "order": "3",
   "parents": [
-    "no-attr-nouns"
+    "no-attr-nouns",
+    "u国",
+    "u際"
   ],
   "props": {
     "en": "international",

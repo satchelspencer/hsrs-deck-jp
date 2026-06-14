@@ -1,0 +1,17 @@
+{
+  "_id": "d3bbemhxngv",
+  "name": "又漫",
+  "order": "3.9.6.5.7",
+  "params": {
+    "_g": "漫",
+    "_r": "m又"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "13",
+    "_sl": "2",
+    "jp": "又"
+  }
+}

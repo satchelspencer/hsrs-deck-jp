@@ -1,0 +1,18 @@
+{
+  "_id": "0kx2d9nf3ni",
+  "desc": "variant of 示",
+  "name": "礻祈",
+  "order": "3.6.0.5.8",
+  "params": {
+    "_g": "祈",
+    "_r": "m礻"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "礻"
+  }
+}

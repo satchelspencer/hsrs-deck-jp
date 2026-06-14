@@ -4,7 +4,9 @@
   "order": "3",
   "parents": [
     "roles",
-    "country-no"
+    "country-no",
+    "u市",
+    "u民"
   ],
   "props": {
     "en": "citizen",

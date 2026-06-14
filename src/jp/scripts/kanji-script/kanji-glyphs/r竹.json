@@ -1,0 +1,17 @@
+{
+  "_id": "c40lejbld3h",
+  "name": "r竹",
+  "order": "1.6.0.8.5.1",
+  "params": {
+    "_g": "竹",
+    "_r": "m竹"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "竹"
+  }
+}

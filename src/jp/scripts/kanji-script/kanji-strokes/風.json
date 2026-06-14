@@ -1,0 +1,15 @@
+{
+  "_id": "0d1xexsu3mb",
+  "name": "風",
+  "order": "1.9.5.6.4",
+  "params": {
+    "_wd": "u風"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "風",
+    "_st": "CQNNGRZjAQEBAwEFYwAXAjKLPgZNGxhjAQADgQWBQy4VPxJKEWMEAAYBBgVDTCtNSFxYYwcIBgEGhQNNQBlDPxo_Gz0cQzkeMCMkJgRNITFjAQEBAgICYwEDAQYCCmMAAQACAAMETSQzYwyCGIQdhGMDAAQBAwNjgQOBBYMJA00mP2MGgRGCGoNjAQACAAQAA00yJWMBAQECAQRjAAQAHwAmA00hUmMBAQMBAwFjB4IYhx6JAk1ARGMEBAgKCQ8"
+  }
+}

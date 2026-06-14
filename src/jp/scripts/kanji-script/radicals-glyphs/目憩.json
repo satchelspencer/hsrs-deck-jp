@@ -1,0 +1,17 @@
+{
+  "_id": "h2un24321xl",
+  "name": "目憩",
+  "order": "3.2.1.7.5",
+  "params": {
+    "_g": "憩",
+    "_r": "m目"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "5",
+    "jp": "目"
+  }
+}

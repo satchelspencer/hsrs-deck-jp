@@ -1,0 +1,17 @@
+{
+  "_id": "j4axryl9qc6",
+  "name": "r土",
+  "order": "1.2.1.7.8.1",
+  "params": {
+    "_g": "土",
+    "_r": "m土"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "土"
+  }
+}

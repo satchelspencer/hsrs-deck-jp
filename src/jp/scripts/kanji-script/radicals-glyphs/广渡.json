@@ -1,0 +1,17 @@
+{
+  "_id": "bx6jco62j6l",
+  "name": "广渡",
+  "order": "3.4.4.7.3",
+  "params": {
+    "_g": "渡",
+    "_r": "m广"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "3",
+    "jp": "广"
+  }
+}

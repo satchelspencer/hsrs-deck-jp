@@ -1,0 +1,17 @@
+{
+  "_id": "xrygr02gkfd",
+  "name": "立位",
+  "order": "4.3.0.8.1",
+  "params": {
+    "_g": "位",
+    "_r": "m立"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "3",
+    "_sl": "5",
+    "jp": "立"
+  }
+}

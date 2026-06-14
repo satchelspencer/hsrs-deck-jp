@@ -1,0 +1,10 @@
+{
+  "_id": "qlb6iqbhene",
+  "name": "m帯",
+  "parents": [
+    "radicals"
+  ],
+  "props": {
+    "_m": "sash, belt, obi, zone, region"
+  }
+}

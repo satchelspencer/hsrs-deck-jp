@@ -1,0 +1,17 @@
+{
+  "_id": "28j3ch4sbbc",
+  "name": "口告",
+  "order": "3.3.6.6.8",
+  "params": {
+    "_g": "告",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

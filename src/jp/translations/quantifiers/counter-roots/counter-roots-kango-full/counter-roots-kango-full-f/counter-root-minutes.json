@@ -6,7 +6,8 @@
   "parents": [
     "counter-roots-kango-full-f",
     "units",
-    "be-requiredables"
+    "be-requiredables",
+    "u分"
   ],
   "props": {
     "_ec": "minutes",

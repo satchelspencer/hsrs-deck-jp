@@ -6,7 +6,8 @@
     "amount": "time-amounts"
   },
   "parents": [
-    "ni-future-only-times"
+    "ni-future-only-times",
+    "u後"
   ],
   "props": {
     "en": "amount.en+' from now'",

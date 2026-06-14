@@ -1,0 +1,17 @@
+{
+  "_id": "sgnad9aaihb",
+  "name": "糸絹",
+  "order": "3.9.3.1.7",
+  "params": {
+    "_g": "絹",
+    "_r": "m糸"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "糸"
+  }
+}

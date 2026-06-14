@@ -1,0 +1,18 @@
+{
+  "_id": "e7qmx0l4rtx",
+  "desc": "variant of 攴",
+  "name": "攵攻",
+  "order": "4.2.1.5.4",
+  "params": {
+    "_g": "攻",
+    "_r": "m攵"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "4",
+    "jp": "攵"
+  }
+}

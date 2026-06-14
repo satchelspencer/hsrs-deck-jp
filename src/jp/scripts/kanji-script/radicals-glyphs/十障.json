@@ -1,0 +1,17 @@
+{
+  "_id": "okrqnkdir4d",
+  "name": "十障",
+  "order": "3.6.1.5.6",
+  "params": {
+    "_g": "障",
+    "_r": "m十"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "13",
+    "_sl": "2",
+    "jp": "十"
+  }
+}

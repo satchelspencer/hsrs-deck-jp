@@ -1,0 +1,18 @@
+{
+  "_id": "0hpe1cs7mtx",
+  "name": "東凍",
+  "order": "4.2.2.4.6",
+  "params": {
+    "_1": "日凍",
+    "_g": "凍",
+    "_r": "m東"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "3",
+    "_sl": "8",
+    "jp": "東"
+  }
+}

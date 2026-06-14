@@ -1,0 +1,17 @@
+{
+  "_id": "wuyy5gbervi",
+  "name": "門閉",
+  "order": "1.9.1.6.5",
+  "params": {
+    "_g": "閉",
+    "_r": "m門"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "8",
+    "jp": "門"
+  }
+}

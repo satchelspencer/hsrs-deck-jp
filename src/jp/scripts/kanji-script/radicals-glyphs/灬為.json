@@ -1,0 +1,18 @@
+{
+  "_id": "bvugb6nzc8p",
+  "desc": "variant of 火",
+  "name": "灬為",
+  "order": "4.9.6.0.5",
+  "params": {
+    "_g": "為",
+    "_r": "m灬"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "4",
+    "jp": "灬"
+  }
+}

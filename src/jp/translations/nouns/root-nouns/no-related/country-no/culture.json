@@ -4,7 +4,9 @@
   "name": "culture",
   "order": "2",
   "parents": [
-    "country-no"
+    "country-no",
+    "u文",
+    "u化"
   ],
   "props": {
     "en": "culture",

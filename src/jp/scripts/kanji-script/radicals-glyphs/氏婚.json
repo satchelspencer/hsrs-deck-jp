@@ -1,0 +1,17 @@
+{
+  "_id": "vgha85zq1a2",
+  "name": "氏婚",
+  "order": "2.9.0.0.1",
+  "params": {
+    "_g": "婚",
+    "_r": "m氏"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "4",
+    "jp": "氏"
+  }
+}

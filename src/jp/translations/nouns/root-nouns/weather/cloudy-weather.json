@@ -3,7 +3,8 @@
   "name": "cloudy-weather",
   "order": "1",
   "parents": [
-    "weather"
+    "weather",
+    "u曇"
   ],
   "props": {
     "en": "cloudy weather",

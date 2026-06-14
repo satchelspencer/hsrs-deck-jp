@@ -1,0 +1,17 @@
+{
+  "_id": "4wg1b835f1q",
+  "name": "口謎",
+  "order": "4.9.8.6.6",
+  "params": {
+    "_g": "謎",
+    "_r": "m口"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "3",
+    "jp": "口"
+  }
+}

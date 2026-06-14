@@ -1,0 +1,17 @@
+{
+  "_id": "v78m8l52isv",
+  "name": "旦担",
+  "order": "4.9.7.2.3",
+  "params": {
+    "_g": "担",
+    "_r": "m旦"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "5",
+    "jp": "旦"
+  }
+}

@@ -5,7 +5,9 @@
   "order": "3",
   "parents": [
     "flowing",
-    "places"
+    "places",
+    "u小",
+    "u川"
   ],
   "props": {
     "en": "stream",

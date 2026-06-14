@@ -1,0 +1,17 @@
+{
+  "_id": "xsawk7cy75a",
+  "name": "冂換",
+  "order": "1.9.1.1.3",
+  "params": {
+    "_g": "換",
+    "_r": "m冂"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "2",
+    "jp": "冂"
+  }
+}

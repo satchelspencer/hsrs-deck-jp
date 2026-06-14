@@ -4,7 +4,9 @@
   "name": "precisely",
   "order": "2",
   "parents": [
-    "verb-adverbs"
+    "verb-adverbs",
+    "u丁",
+    "u度"
   ],
   "props": {
     "en": "precisely",

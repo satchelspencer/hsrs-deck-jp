@@ -1,0 +1,18 @@
+{
+  "_id": "uafmk79rvfa",
+  "desc": "variant of 八",
+  "name": "儿勉",
+  "order": "1.2.5.8.6",
+  "params": {
+    "_g": "勉",
+    "_r": "m儿"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "2",
+    "jp": "儿"
+  }
+}

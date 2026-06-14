@@ -1,0 +1,18 @@
+{
+  "_id": "8r96bzdvfvo",
+  "name": "r戒",
+  "order": "3.5.1.0.7.1",
+  "params": {
+    "_1": "廾戒",
+    "_g": "戒",
+    "_r": "m戒"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "7",
+    "jp": "戒"
+  }
+}

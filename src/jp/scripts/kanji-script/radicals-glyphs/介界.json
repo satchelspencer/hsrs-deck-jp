@@ -1,0 +1,17 @@
+{
+  "_id": "radc8o44zbn",
+  "name": "介界",
+  "order": "1.3.4.3.4",
+  "params": {
+    "_g": "界",
+    "_r": "m介"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "4",
+    "jp": "介"
+  }
+}

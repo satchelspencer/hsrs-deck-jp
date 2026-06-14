@@ -1,0 +1,17 @@
+{
+  "_id": "wf6xh8mf375",
+  "name": "足路",
+  "order": "2.5.1.5.3",
+  "params": {
+    "_g": "路",
+    "_r": "m足"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "7",
+    "jp": "足"
+  }
+}

@@ -3,7 +3,10 @@
   "name": "automobile",
   "order": "3",
   "parents": [
-    "transports"
+    "transports",
+    "u自",
+    "u動",
+    "u車"
   ],
   "props": {
     "en": "automobile",

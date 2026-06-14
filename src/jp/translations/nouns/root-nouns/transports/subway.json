@@ -4,7 +4,10 @@
   "name": "subway",
   "order": "2",
   "parents": [
-    "transports"
+    "transports",
+    "u地",
+    "u下",
+    "u鉄"
   ],
   "props": {
     "en": "subway",

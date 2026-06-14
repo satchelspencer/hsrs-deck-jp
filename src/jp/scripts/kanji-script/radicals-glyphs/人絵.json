@@ -1,0 +1,17 @@
+{
+  "_id": "w9yydjjl5y1",
+  "name": "人絵",
+  "order": "2.4.4.3.8",
+  "params": {
+    "_g": "絵",
+    "_r": "m人"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "2",
+    "jp": "人"
+  }
+}

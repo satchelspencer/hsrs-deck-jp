@@ -6,7 +6,9 @@
   "parents": [
     "godan-ru",
     "do-to-sendables",
-    "people-do-volitional"
+    "people-do-volitional",
+    "u受",
+    "u取"
   ],
   "props": {
     "en": "recieve",

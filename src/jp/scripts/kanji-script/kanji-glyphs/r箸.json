@@ -1,0 +1,18 @@
+{
+  "_id": "g4a3ntexeiw",
+  "name": "r箸",
+  "order": "1.9.5.5.3.1",
+  "params": {
+    "_1": "竹箸",
+    "_g": "箸",
+    "_r": "m箸"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "15",
+    "jp": "箸"
+  }
+}

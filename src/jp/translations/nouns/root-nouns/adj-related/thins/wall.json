@@ -5,7 +5,8 @@
   "order": "2",
   "parents": [
     "thins",
-    "mai-countable"
+    "mai-countable",
+    "u壁"
   ],
   "props": {
     "en": "wall",

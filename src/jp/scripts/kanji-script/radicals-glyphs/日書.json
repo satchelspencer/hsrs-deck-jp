@@ -1,0 +1,18 @@
+{
+  "_id": "y0i7ietdgit",
+  "desc": "variant of 曰",
+  "name": "日書",
+  "order": "1.2.4.8.4",
+  "params": {
+    "_g": "書",
+    "_r": "m日"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "4",
+    "jp": "日"
+  }
+}

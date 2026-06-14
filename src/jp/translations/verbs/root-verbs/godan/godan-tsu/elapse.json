@@ -4,7 +4,8 @@
   "name": "elapse",
   "order": "4",
   "parents": [
-    "godan-tsu"
+    "godan-tsu",
+    "u経"
   ],
   "props": {
     "en": "elapse",

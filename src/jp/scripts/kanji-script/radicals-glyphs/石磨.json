@@ -1,0 +1,17 @@
+{
+  "_id": "1dcsnahhxk0",
+  "name": "石磨",
+  "order": "2.5.6.1.0",
+  "params": {
+    "_g": "磨",
+    "_r": "m石"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "12",
+    "_sl": "5",
+    "jp": "石"
+  }
+}

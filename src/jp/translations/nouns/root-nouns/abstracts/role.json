@@ -4,7 +4,8 @@
   "name": "role",
   "order": "4",
   "parents": [
-    "abstracts"
+    "abstracts",
+    "u役"
   ],
   "props": {
     "en": "role",

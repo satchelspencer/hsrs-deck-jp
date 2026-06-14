@@ -1,0 +1,17 @@
+{
+  "_id": "xnuywidzhkl",
+  "name": "目慎",
+  "order": "4.2.0.4.0",
+  "params": {
+    "_g": "慎",
+    "_r": "m目"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "5",
+    "jp": "目"
+  }
+}

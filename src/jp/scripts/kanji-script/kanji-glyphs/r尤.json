@@ -1,0 +1,17 @@
+{
+  "_id": "6edydf1o2hs",
+  "name": "r尤",
+  "order": "2.3.8.1.6.1",
+  "params": {
+    "_g": "尤",
+    "_r": "m尤"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "尤"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "_id": "lmdzlofsp6r",
+  "name": "r段",
+  "order": "2.2.7.9.9.1",
+  "params": {
+    "_1": "殳段",
+    "_g": "段",
+    "_r": "m段"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "9",
+    "jp": "段"
+  }
+}

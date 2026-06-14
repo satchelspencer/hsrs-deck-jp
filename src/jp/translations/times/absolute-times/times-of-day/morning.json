@@ -3,7 +3,8 @@
   "name": "morning",
   "order": "1",
   "parents": [
-    "times-of-day"
+    "times-of-day",
+    "u朝"
   ],
   "props": {
     "en": "morning",

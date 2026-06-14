@@ -1,0 +1,19 @@
+{
+  "_id": "qgli6xpycqx",
+  "name": "貝責",
+  "order": "3.6.4.5.4",
+  "params": {
+    "_1": "目責",
+    "_2": "八責",
+    "_g": "責",
+    "_r": "m貝"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "5",
+    "_sl": "7",
+    "jp": "貝"
+  }
+}

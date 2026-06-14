@@ -4,7 +4,9 @@
   "name": "way-of-saying",
   "order": "4",
   "parents": [
-    "people-no"
+    "people-no",
+    "u言",
+    "u方"
   ],
   "props": {
     "en": "way of saying",

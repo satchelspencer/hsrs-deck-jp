@@ -4,7 +4,9 @@
   "order": "1",
   "parents": [
     "animals",
-    "categories"
+    "categories",
+    "u動",
+    "u物"
   ],
   "props": {
     "en": "animal",

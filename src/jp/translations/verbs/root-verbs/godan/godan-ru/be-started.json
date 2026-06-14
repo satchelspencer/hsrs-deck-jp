@@ -6,7 +6,8 @@
   "parents": [
     "godan-ru",
     "events-do",
-    "te-iru-verbs-state"
+    "te-iru-verbs-state",
+    "u始"
   ],
   "props": {
     "en": "start",

@@ -1,0 +1,18 @@
+{
+  "_id": "jinsz0c4zlt",
+  "desc": "variant of 幵",
+  "name": "开形",
+  "order": "3.2.3.8.7",
+  "params": {
+    "_g": "形",
+    "_r": "m开"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "开"
+  }
+}

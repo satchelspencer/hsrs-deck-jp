@@ -4,7 +4,9 @@
   "name": "principal",
   "order": "3",
   "parents": [
-    "leaders"
+    "leaders",
+    "u校",
+    "u長"
   ],
   "props": {
     "en": "principal",

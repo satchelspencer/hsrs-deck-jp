@@ -1,0 +1,17 @@
+{
+  "_id": "voq7hn6whye",
+  "name": "雨雷",
+  "order": "4.9.3.5.3",
+  "params": {
+    "_g": "雷",
+    "_r": "m雨"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "8",
+    "jp": "雨"
+  }
+}

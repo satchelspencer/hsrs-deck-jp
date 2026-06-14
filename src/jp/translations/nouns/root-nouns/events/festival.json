@@ -3,7 +3,8 @@
   "name": "festival",
   "order": "3",
   "parents": [
-    "events"
+    "events",
+    "u祭"
   ],
   "props": {
     "en": "festival",

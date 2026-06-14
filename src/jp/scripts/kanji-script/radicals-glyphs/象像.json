@@ -1,0 +1,19 @@
+{
+  "_id": "is8sywbmybs",
+  "name": "象像",
+  "order": "4.2.5.3.4",
+  "params": {
+    "_1": "𠂊像",
+    "_2": "豕像",
+    "_g": "像",
+    "_r": "m象"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "3",
+    "_sl": "12",
+    "jp": "象"
+  }
+}

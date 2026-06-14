@@ -3,7 +3,9 @@
   "name": "summer-break",
   "order": "2",
   "parents": [
-    "events"
+    "events",
+    "u夏",
+    "u休"
   ],
   "props": {
     "en": "summer break",

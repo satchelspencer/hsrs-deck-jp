@@ -1,0 +1,17 @@
+{
+  "_id": "xg81qxra0b9",
+  "name": "r門",
+  "order": "1.2.4.1.5.1",
+  "params": {
+    "_g": "門",
+    "_r": "m門"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "8",
+    "jp": "門"
+  }
+}

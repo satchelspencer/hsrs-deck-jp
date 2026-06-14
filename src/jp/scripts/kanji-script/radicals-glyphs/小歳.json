@@ -1,0 +1,17 @@
+{
+  "_id": "w8gusby3du8",
+  "name": "小歳",
+  "order": "1.9.2.6.2",
+  "params": {
+    "_g": "歳",
+    "_r": "m小"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "3",
+    "jp": "小"
+  }
+}

@@ -3,7 +3,9 @@
   "name": "no-good",
   "order": "1",
   "parents": [
-    "na-predonly"
+    "na-predonly",
+    "u駄",
+    "u目"
   ],
   "props": {
     "en": "no good",

@@ -1,0 +1,18 @@
+{
+  "_id": "4rhdfagw7r7",
+  "name": "言訓",
+  "order": "4.9.2.3.0",
+  "params": {
+    "_1": "口訓",
+    "_g": "訓",
+    "_r": "m言"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "7",
+    "jp": "言"
+  }
+}

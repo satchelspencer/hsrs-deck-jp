@@ -1,0 +1,18 @@
+{
+  "_id": "m8ahctbcjq1",
+  "desc": "variant of 曰",
+  "name": "日識",
+  "order": "4.1.4.1.0",
+  "params": {
+    "_g": "識",
+    "_r": "m日"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "13",
+    "_sl": "4",
+    "jp": "日"
+  }
+}

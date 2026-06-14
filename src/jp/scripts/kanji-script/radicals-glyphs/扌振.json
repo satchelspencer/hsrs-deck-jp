@@ -1,0 +1,18 @@
+{
+  "_id": "ozpstzcnwls",
+  "desc": "variant of 手",
+  "name": "扌振",
+  "order": "4.3.7.6.0",
+  "params": {
+    "_g": "振",
+    "_r": "m扌"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "扌"
+  }
+}

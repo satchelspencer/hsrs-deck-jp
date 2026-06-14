@@ -1,0 +1,17 @@
+{
+  "_id": "2galn583diw",
+  "name": "一筒",
+  "order": "3.9.1.8.1",
+  "params": {
+    "_g": "筒",
+    "_r": "m一"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "9",
+    "_sl": "1",
+    "jp": "一"
+  }
+}

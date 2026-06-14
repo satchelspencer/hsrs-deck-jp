@@ -1,0 +1,15 @@
+{
+  "_id": "admcqzzopkv",
+  "name": "上",
+  "order": "1.2.2.9.6",
+  "params": {
+    "_wd": "u上"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "上",
+    "_st": "AwNNNBBjAQECAwIFYwABAEAAQQNNOi1jB4EOghKDYwEABAAFAARNDVhjBAEHAQsAYxCBKYM8g2MEAAcACwE"
+  }
+}

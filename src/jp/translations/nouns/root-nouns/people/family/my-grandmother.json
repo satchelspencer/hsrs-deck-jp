@@ -4,7 +4,9 @@
   "name": "my-grandmother",
   "order": "3",
   "parents": [
-    "family"
+    "family",
+    "u祖",
+    "u母"
   ],
   "props": {
     "en": "my grandmother",

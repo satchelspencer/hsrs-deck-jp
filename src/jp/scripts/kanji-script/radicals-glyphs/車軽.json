@@ -1,0 +1,17 @@
+{
+  "_id": "thxporioo9v",
+  "name": "車軽",
+  "order": "2.2.9.1.5",
+  "params": {
+    "_g": "軽",
+    "_r": "m車"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "7",
+    "jp": "車"
+  }
+}

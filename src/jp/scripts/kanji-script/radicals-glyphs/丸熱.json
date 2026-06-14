@@ -1,0 +1,17 @@
+{
+  "_id": "n7targbgdbg",
+  "name": "丸熱",
+  "order": "2.3.5.6.8",
+  "params": {
+    "_g": "熱",
+    "_r": "m丸"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "9",
+    "_sl": "3",
+    "jp": "丸"
+  }
+}

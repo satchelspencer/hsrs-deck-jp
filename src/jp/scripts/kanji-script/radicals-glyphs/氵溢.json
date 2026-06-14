@@ -1,0 +1,18 @@
+{
+  "_id": "oobsa7f309m",
+  "desc": "variant of 水",
+  "name": "氵溢",
+  "order": "4.9.3.3.5",
+  "params": {
+    "_g": "溢",
+    "_r": "m氵"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "氵"
+  }
+}

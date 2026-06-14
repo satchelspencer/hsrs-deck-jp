@@ -1,0 +1,18 @@
+{
+  "_id": "row1e7updtz",
+  "desc": "variant of 曰",
+  "name": "日腹",
+  "order": "1.9.5.6.5",
+  "params": {
+    "_g": "腹",
+    "_r": "m日"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "4",
+    "jp": "日"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "ibsb4wvua1y",
+  "name": "r由",
+  "order": "1.4.9.4.1.1",
+  "params": {
+    "_g": "由",
+    "_r": "m由"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "5",
+    "jp": "由"
+  }
+}

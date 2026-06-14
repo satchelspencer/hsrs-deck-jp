@@ -1,0 +1,15 @@
+{
+  "_id": "xkfqofxk3zs",
+  "name": "天",
+  "order": "1.5.0.5.7",
+  "params": {
+    "_wd": "u天"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "天",
+    "_st": "BARNFhljAgAFAAcAYw-CI4QyhWMDAAUABgAETRk0YwIAAwAGAGMLgSSELoVjAgAEAAYAA00yGmMBAQEDAQVjAB-PM6I8A00yM0M7PEtOV1djAgIEAwgE"
+  }
+}

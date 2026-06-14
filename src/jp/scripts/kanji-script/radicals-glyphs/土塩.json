@@ -1,0 +1,17 @@
+{
+  "_id": "uizrc7vfvbc",
+  "name": "土塩",
+  "order": "1.9.5.4.3",
+  "params": {
+    "_g": "塩",
+    "_r": "m土"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "3",
+    "jp": "土"
+  }
+}

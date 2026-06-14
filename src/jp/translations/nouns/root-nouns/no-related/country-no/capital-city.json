@@ -3,7 +3,9 @@
   "name": "capital-city",
   "order": "3",
   "parents": [
-    "country-no"
+    "country-no",
+    "u首",
+    "u都"
   ],
   "props": {
     "en": "capital city",

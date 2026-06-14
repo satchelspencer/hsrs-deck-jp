@@ -5,7 +5,8 @@
     "verb": "kuru"
   },
   "parents": [
-    "reru-plain"
+    "reru-plain",
+    "u来"
   ],
   "props": {
     "jp": "verb.jp|r('来る', '来れる')|r('くる', 'これる')",

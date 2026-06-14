@@ -4,7 +4,8 @@
   "name": "counter-root-cans",
   "order": "3",
   "parents": [
-    "counter-roots-kango-3+-only-k"
+    "counter-roots-kango-3+-only-k",
+    "u缶"
   ],
   "props": {
     "_ec": "cans",

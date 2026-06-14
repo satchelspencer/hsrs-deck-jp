@@ -3,7 +3,8 @@
   "name": "diverse",
   "order": "4",
   "parents": [
-    "na-seeables"
+    "na-seeables",
+    "u様"
   ],
   "props": {
     "en": "diverse",

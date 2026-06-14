@@ -1,0 +1,17 @@
+{
+  "_id": "ighovi5td9q",
+  "name": "用備",
+  "order": "3.2.5.0.2",
+  "params": {
+    "_g": "備",
+    "_r": "m用"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "5",
+    "jp": "用"
+  }
+}

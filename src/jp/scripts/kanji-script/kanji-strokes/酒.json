@@ -1,0 +1,15 @@
+{
+  "_id": "jmg2kgcdsm8",
+  "name": "酒",
+  "order": "2.6.4.1.1",
+  "params": {
+    "_wd": "u酒"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "酒",
+    "_st": "CgJNFBFjBAEKBgsIAk0QJ2MEAQkECwgDTQ5UYwIBAwAFgWMDhAaJCY4ETScWYwIABQAGAGMLgR2EKoRjAwAGAAgABE0rJ2MBAQECAQNjAAEALQAtYwAAAAMABAVNLSljBAAohSuFYwMABQEFBGMAAQAjAC5jAAIABAAGA005F2MBAQECAQNjARGBHYokBU1IFWMBAQECAQRjAAYAEAAWYwAHAQgHCGMFAAeBCYICTS5JYwqBJIMtgwJNLlhjCoEhgi2D"
+  }
+}

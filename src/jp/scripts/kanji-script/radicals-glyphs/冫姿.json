@@ -1,0 +1,18 @@
+{
+  "_id": "pgbey8pemfi",
+  "desc": "variant of 氷",
+  "name": "冫姿",
+  "order": "4.1.1.7.2",
+  "params": {
+    "_g": "姿",
+    "_r": "m冫"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "2",
+    "jp": "冫"
+  }
+}

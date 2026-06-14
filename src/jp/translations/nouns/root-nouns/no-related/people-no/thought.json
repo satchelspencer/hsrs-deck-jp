@@ -3,7 +3,8 @@
   "name": "thought",
   "order": "4",
   "parents": [
-    "people-no"
+    "people-no",
+    "u思"
   ],
   "props": {
     "en": "thought",

@@ -4,7 +4,8 @@
   "order": "3",
   "parents": [
     "i-attributive-standard",
-    "i-people-do"
+    "i-people-do",
+    "u酷"
   ],
   "props": {
     "en": "cruel",

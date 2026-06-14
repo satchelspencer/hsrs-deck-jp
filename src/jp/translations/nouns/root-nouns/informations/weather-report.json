@@ -3,7 +3,11 @@
   "name": "weather-report",
   "order": "3",
   "parents": [
-    "informations"
+    "informations",
+    "u天",
+    "u気",
+    "u予",
+    "u報"
   ],
   "props": {
     "en": "weather report",

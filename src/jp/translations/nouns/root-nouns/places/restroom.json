@@ -5,7 +5,9 @@
   "order": "1",
   "parents": [
     "places",
-    "rooms"
+    "rooms",
+    "u手",
+    "u洗"
   ],
   "props": {
     "en": "restroom",

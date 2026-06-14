@@ -1,0 +1,17 @@
+{
+  "_id": "ip1i2yilq8s",
+  "name": "石岩",
+  "order": "3.9.9.7.9",
+  "params": {
+    "_g": "岩",
+    "_r": "m石"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "5",
+    "jp": "石"
+  }
+}

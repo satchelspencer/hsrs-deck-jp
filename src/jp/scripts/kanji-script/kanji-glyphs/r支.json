@@ -1,0 +1,17 @@
+{
+  "_id": "1brama6aasl",
+  "name": "r支",
+  "order": "4.1.1.6.1.1",
+  "params": {
+    "_g": "支",
+    "_r": "m支"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "支"
+  }
+}

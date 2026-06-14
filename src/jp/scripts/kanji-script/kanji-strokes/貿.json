@@ -1,0 +1,15 @@
+{
+  "_id": "m32y272fzam",
+  "name": "貿",
+  "order": "3.9.8.4.2",
+  "params": {
+    "_wd": "u貿"
+  },
+  "parents": [
+    "kanji-strokes"
+  ],
+  "props": {
+    "_jp": "貿",
+    "_st": "DANNKwtjAAEAAoECY4QDhwWPCQVNFhdjAQEBAgEDYwABAA0AEGMAAwEEBAJDICknJSwhAk0pG2MDBAYIBw0GTTwUYwEABAAFAGMHgRKDFoNjAgADAQMDQ1kYVyFTJmOCA4QChgADTUYXYwABAAIAAkNDHkAkOCoETSMxYwEBAQIBBGMAAQAbABxjAAEAAgAEBU0lMmMHgR-DIoNjAwAEAQQDYwAFABMAG2MAAgAEAAUCTSY9YweBH4IkggJNJkdjCgAagiSCAk0mUmMLgRqCJIIDTS1WYwABAAKBA0MnXCBhGGUCTUNWYwcEDgoQDQ"
+  }
+}

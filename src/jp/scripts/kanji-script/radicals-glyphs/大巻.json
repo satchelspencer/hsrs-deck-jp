@@ -1,0 +1,17 @@
+{
+  "_id": "t8ra4lsl9y2",
+  "name": "大巻",
+  "order": "3.9.8.4.6",
+  "params": {
+    "_g": "巻",
+    "_r": "m大"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "4",
+    "_sl": "3",
+    "jp": "大"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "e31y91mrpo4",
+  "name": "戈残",
+  "order": "2.9.1.7.4",
+  "params": {
+    "_g": "残",
+    "_r": "m戈"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "7",
+    "_sl": "4",
+    "jp": "戈"
+  }
+}

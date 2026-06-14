@@ -24,3 +24,10 @@ this deck is somewhat opinionated about certain aspects of japanese, and languag
   - ...particles like に, pronouns, counters etc, verb forms and past/future times, and many more.
 - pitch accent is not yet addressed, partially due to the limitations of current text-to-speech models.
 - modes are: [casual,polite][female,male][subbordinate,rude][spoken,written][affirmative,negative][past,nonpast]
+
+## attributions
+
+the kanji portion of this deck derives data from two open-source projects:
+
+- **[KanjiVG](https://kanjivg.tagaini.net):** stroke order and decomposition data for kanji, hiragana and katakana glyphs
+- **[KANJIDIC2](https://www.edrdg.org/wiki/index.php/KANJIDIC_Project):** english meanings for radicals

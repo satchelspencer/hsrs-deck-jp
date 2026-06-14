@@ -1,0 +1,17 @@
+{
+  "_id": "oof98lzi46q",
+  "name": "百優",
+  "order": "1.2.6.6.8",
+  "params": {
+    "_g": "優",
+    "_r": "m百"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "3",
+    "_sl": "6",
+    "jp": "百"
+  }
+}

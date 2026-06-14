@@ -1,0 +1,18 @@
+{
+  "_id": "a77eoixnxrp",
+  "desc": "variant of 土",
+  "name": "士誌",
+  "order": "3.5.2.3.5",
+  "params": {
+    "_g": "誌",
+    "_r": "m士"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "8",
+    "_sl": "3",
+    "jp": "士"
+  }
+}

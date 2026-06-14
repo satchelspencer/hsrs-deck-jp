@@ -1,0 +1,17 @@
+{
+  "_id": "7d0dikj3ugc",
+  "name": "中騒",
+  "order": "3.9.4.2.4",
+  "params": {
+    "_g": "騒",
+    "_r": "m中"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "13",
+    "_sl": "4",
+    "jp": "中"
+  }
+}

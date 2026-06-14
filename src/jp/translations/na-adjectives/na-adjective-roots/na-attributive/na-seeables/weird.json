@@ -5,7 +5,8 @@
   "order": "2",
   "parents": [
     "na-seeables",
-    "na-people-do"
+    "na-people-do",
+    "u変"
   ],
   "props": {
     "en": "weird",

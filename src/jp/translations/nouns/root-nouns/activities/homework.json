@@ -4,7 +4,9 @@
   "name": "homework",
   "order": "2",
   "parents": [
-    "activities"
+    "activities",
+    "u宿",
+    "u題"
   ],
   "props": {
     "en": "homework",

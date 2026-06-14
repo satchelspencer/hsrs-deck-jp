@@ -3,7 +3,10 @@
   "name": "day-after-tomorrow",
   "order": "2",
   "parents": [
-    "wa-future-only-times"
+    "wa-future-only-times",
+    "u明",
+    "u後",
+    "u日"
   ],
   "props": {
     "en": "day after tommorrow",

@@ -1,0 +1,17 @@
+{
+  "_id": "ym9hchcsosz",
+  "name": "米粧",
+  "order": "4.2.1.2.6",
+  "params": {
+    "_g": "粧",
+    "_r": "m米"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "6",
+    "jp": "米"
+  }
+}

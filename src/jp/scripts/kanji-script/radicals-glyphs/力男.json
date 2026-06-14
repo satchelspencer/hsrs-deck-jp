@@ -1,0 +1,17 @@
+{
+  "_id": "vbrtieg8wub",
+  "name": "力男",
+  "order": "1.9.3.6.2",
+  "params": {
+    "_g": "男",
+    "_r": "m力"
+  },
+  "parents": [
+    "radicals-glyphs"
+  ],
+  "props": {
+    "_rs": "6",
+    "_sl": "2",
+    "jp": "力"
+  }
+}

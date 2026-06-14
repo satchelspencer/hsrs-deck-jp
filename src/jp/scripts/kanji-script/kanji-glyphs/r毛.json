@@ -1,0 +1,17 @@
+{
+  "_id": "ot5ubbewx4b",
+  "name": "r毛",
+  "order": "3.9.1.6.7.1",
+  "params": {
+    "_g": "毛",
+    "_r": "m毛"
+  },
+  "parents": [
+    "kanji-glyphs"
+  ],
+  "props": {
+    "_rs": "1",
+    "_sl": "4",
+    "jp": "毛"
+  }
+}

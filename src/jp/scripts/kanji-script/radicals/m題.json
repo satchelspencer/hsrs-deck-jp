@@ -1,0 +1,10 @@
+{
+  "_id": "wn370k40cc1",
+  "name": "m題",
+  "parents": [
+    "radicals"
+  ],
+  "props": {
+    "_m": "topic, subject"
+  }
+}
