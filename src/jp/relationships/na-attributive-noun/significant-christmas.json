@@ -1,0 +1,13 @@
+{
+  "_id": "sqj2l6i370w",
+  "name": "significant-christmas",
+  "params": {
+    "na": "significant",
+    "noun": "christmas"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

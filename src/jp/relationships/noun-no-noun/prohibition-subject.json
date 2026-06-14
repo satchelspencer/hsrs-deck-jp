@@ -1,0 +1,13 @@
+{
+  "_id": "ggodk3az0kk",
+  "name": "prohibition-subject",
+  "params": {
+    "noun": "subject",
+    "owner": "prohibition"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "p8lto6w0aqk",
+  "name": "intense-scratch",
+  "params": {
+    "iadj": "intense",
+    "verb": "scratch"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "nawmfscuhgw",
+  "desc": "出る means to be released/published in this context",
+  "name": "media-come-out",
+  "params": {
+    "noun": "media",
+    "verb": "come-out"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "2492mr3c44w",
+  "name": "water-freeze",
+  "params": {
+    "noun": "water",
+    "verb": "freeze"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

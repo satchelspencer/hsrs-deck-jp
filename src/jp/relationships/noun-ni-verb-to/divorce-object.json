@@ -1,0 +1,13 @@
+{
+  "_id": "a98yxb8xqek",
+  "name": "divorce-object",
+  "params": {
+    "noun": "divorce",
+    "verb": "objection"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

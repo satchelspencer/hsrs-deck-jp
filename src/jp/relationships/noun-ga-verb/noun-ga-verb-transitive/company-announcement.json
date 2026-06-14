@@ -1,0 +1,13 @@
+{
+  "_id": "3sowzj4jpcj",
+  "name": "company-announcement",
+  "params": {
+    "noun": "company",
+    "verb": "announcement"
+  },
+  "parents": [
+    "noun-ga-verb-transitive"
+  ],
+  "props": {
+  }
+}

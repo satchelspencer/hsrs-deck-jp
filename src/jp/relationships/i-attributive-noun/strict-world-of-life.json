@@ -1,0 +1,14 @@
+{
+  "_id": "sazbhswgbmh",
+  "desc": "厳しい世 means a harsh/tough world",
+  "name": "strict-world-of-life",
+  "params": {
+    "iadj": "strict",
+    "noun": "world-of-life"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

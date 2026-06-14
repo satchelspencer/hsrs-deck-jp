@@ -1,0 +1,14 @@
+{
+  "_id": "6xtk1o0k5bg",
+  "desc": "休憩で here means 'during/by means of a break'",
+  "name": "rest-break-rest",
+  "params": {
+    "noun": "rest-break",
+    "verb": "rest"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "0xgkmqjrtme",
+  "name": "detailed-memo",
+  "params": {
+    "iadj": "detailed",
+    "noun": "memo"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

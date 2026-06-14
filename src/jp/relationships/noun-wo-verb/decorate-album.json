@@ -1,0 +1,13 @@
+{
+  "_id": "ss41bl5bb8u",
+  "name": "decorate-album",
+  "params": {
+    "noun": "album",
+    "verb": "decorate"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

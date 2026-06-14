@@ -1,0 +1,13 @@
+{
+  "_id": "qm7zg00efp8",
+  "name": "accurate-announcement",
+  "params": {
+    "na": "accurate",
+    "noun": "announcement"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

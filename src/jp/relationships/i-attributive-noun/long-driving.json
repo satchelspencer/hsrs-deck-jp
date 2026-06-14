@@ -1,0 +1,13 @@
+{
+  "_id": "j4k0y67c9h7",
+  "name": "long-driving",
+  "params": {
+    "iadj": "long",
+    "noun": "driving"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

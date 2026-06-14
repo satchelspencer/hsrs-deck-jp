@@ -1,0 +1,13 @@
+{
+  "_id": "1cx5aj7yx1r",
+  "name": "places-entrance",
+  "params": {
+    "noun": "entrance",
+    "owner": "places"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "uouq3j995wg",
+  "name": "personage-entrance-appearance",
+  "params": {
+    "noun": "entrance-appearance",
+    "owner": "personage"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

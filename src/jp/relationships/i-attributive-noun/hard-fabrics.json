@@ -1,0 +1,13 @@
+{
+  "_id": "0gls0skf1q6",
+  "name": "hard-fabrics",
+  "params": {
+    "iadj": "hard",
+    "noun": "fabrics"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

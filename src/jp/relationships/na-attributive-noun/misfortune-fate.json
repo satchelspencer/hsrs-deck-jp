@@ -1,0 +1,13 @@
+{
+  "_id": "fzyr6d24k4m",
+  "name": "misfortune-fate",
+  "params": {
+    "na": "misfortune",
+    "noun": "fate"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

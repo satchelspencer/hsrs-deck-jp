@@ -1,0 +1,13 @@
+{
+  "_id": "de6x3fxulan",
+  "name": "stewardess-aim-for",
+  "params": {
+    "noun": "stewardess",
+    "verb": "aim-for"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "wy5nwj8639f",
+  "name": "high-transport-expense",
+  "params": {
+    "iadj": "high",
+    "noun": "transport-expense"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

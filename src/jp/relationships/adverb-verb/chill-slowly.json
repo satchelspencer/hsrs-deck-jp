@@ -1,0 +1,13 @@
+{
+  "_id": "xvht3e2i1ll",
+  "name": "chill-slowly",
+  "params": {
+    "adv": "slowly",
+    "verb": "chill"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

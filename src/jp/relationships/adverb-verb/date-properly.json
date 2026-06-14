@@ -1,0 +1,13 @@
+{
+  "_id": "ampse8okdwo",
+  "name": "date-properly",
+  "params": {
+    "adv": "properly",
+    "verb": "date"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

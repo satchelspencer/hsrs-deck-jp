@@ -1,0 +1,13 @@
+{
+  "_id": "geq6yj7mtqs",
+  "name": "sudden-departure",
+  "params": {
+    "na": "sudden",
+    "verb": "departure"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

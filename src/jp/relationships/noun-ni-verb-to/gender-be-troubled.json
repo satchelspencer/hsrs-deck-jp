@@ -1,0 +1,13 @@
+{
+  "_id": "gr00ss8qjp0",
+  "name": "gender-be-troubled",
+  "params": {
+    "noun": "gender",
+    "verb": "be-troubled"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

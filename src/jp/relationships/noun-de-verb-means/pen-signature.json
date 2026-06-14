@@ -1,0 +1,13 @@
+{
+  "_id": "msxvneyrg9h",
+  "name": "pen-signature",
+  "params": {
+    "noun": "pen",
+    "verb": "signature"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

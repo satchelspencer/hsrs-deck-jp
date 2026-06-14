@@ -1,0 +1,13 @@
+{
+  "_id": "ee14nlfd9qy",
+  "name": "new-establishments",
+  "params": {
+    "iadj": "new",
+    "noun": "establishments"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

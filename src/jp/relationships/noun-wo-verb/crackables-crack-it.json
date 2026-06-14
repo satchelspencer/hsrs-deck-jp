@@ -1,0 +1,13 @@
+{
+  "_id": "fd19pgpa5ub",
+  "name": "crackables-crack-it",
+  "params": {
+    "noun": "crackables",
+    "verb": "crack-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

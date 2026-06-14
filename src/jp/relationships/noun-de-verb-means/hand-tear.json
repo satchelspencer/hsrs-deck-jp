@@ -1,0 +1,13 @@
+{
+  "_id": "5gyyzh9q9d6",
+  "name": "hand-tear",
+  "params": {
+    "noun": "hand",
+    "verb": "tear"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

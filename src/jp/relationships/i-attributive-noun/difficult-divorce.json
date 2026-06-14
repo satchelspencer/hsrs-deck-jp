@@ -1,0 +1,13 @@
+{
+  "_id": "fjv1wl18vqu",
+  "name": "difficult-divorce",
+  "params": {
+    "iadj": "difficult",
+    "noun": "divorce"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

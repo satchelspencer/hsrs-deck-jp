@@ -1,0 +1,13 @@
+{
+  "_id": "k2ladtly1sg",
+  "name": "price-plot-of-land",
+  "params": {
+    "noun": "price",
+    "owner": "plot-of-land"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

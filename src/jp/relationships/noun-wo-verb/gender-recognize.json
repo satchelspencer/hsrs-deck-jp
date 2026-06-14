@@ -1,0 +1,13 @@
+{
+  "_id": "0385w8hv52r",
+  "name": "gender-recognize",
+  "params": {
+    "noun": "gender",
+    "verb": "recognize"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

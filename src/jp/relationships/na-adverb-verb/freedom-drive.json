@@ -1,0 +1,13 @@
+{
+  "_id": "d01s6klzmm2",
+  "name": "freedom-drive",
+  "params": {
+    "na": "freedom",
+    "verb": "drive"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

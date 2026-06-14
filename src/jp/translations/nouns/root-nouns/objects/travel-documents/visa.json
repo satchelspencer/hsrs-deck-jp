@@ -1,0 +1,15 @@
+{
+  "_id": "9t0ly7bkbyy",
+  "desc": "visa, entry permit",
+  "name": "visa",
+  "order": "4",
+  "parents": [
+    "travel-documents",
+    "mai-countable"
+  ],
+  "props": {
+    "en": "visa",
+    "jp": "ビザ",
+    "tl": "びざ"
+  }
+}

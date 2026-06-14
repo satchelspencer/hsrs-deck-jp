@@ -1,0 +1,13 @@
+{
+  "_id": "ip3qwn0pse6",
+  "name": "paper-be-left-over",
+  "params": {
+    "noun": "paper",
+    "verb": "be-left-over"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

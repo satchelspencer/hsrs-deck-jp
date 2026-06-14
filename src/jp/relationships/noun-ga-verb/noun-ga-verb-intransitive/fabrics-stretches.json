@@ -1,0 +1,13 @@
+{
+  "_id": "z4nqmycwnh6",
+  "name": "fabrics-stretches",
+  "params": {
+    "noun": "fabrics",
+    "verb": "be-stretched"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

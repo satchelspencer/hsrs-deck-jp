@@ -1,0 +1,13 @@
+{
+  "_id": "ajsj13j9sau",
+  "name": "holiday-use",
+  "params": {
+    "noun": "holiday",
+    "verb": "use"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

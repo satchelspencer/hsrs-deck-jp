@@ -1,0 +1,13 @@
+{
+  "_id": "gbr9edvwqtz",
+  "name": "hard-rubber",
+  "params": {
+    "iadj": "hard",
+    "noun": "rubber"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

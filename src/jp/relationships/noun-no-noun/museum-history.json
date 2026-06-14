@@ -1,0 +1,13 @@
+{
+  "_id": "zfbpfgixzky",
+  "name": "museum-history",
+  "params": {
+    "noun": "history",
+    "owner": "museum"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

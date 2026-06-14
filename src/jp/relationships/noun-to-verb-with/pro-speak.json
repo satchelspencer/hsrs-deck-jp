@@ -1,0 +1,13 @@
+{
+  "_id": "sx3q7urged9",
+  "name": "pro-speak",
+  "params": {
+    "noun": "pro",
+    "verb": "speak"
+  },
+  "parents": [
+    "noun-to-verb-with"
+  ],
+  "props": {
+  }
+}

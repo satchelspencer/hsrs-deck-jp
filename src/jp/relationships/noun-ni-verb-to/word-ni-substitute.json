@@ -1,0 +1,14 @@
+{
+  "_id": "kium982v6is",
+  "desc": "言葉に代える means express with words (as substitute for feelings etc)",
+  "name": "word-ni-substitute",
+  "params": {
+    "noun": "word",
+    "verb": "substitute"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

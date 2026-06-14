@@ -1,0 +1,13 @@
+{
+  "_id": "7rzatutppoq",
+  "name": "plot-of-land-be-found",
+  "params": {
+    "noun": "plot-of-land",
+    "verb": "be-found"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

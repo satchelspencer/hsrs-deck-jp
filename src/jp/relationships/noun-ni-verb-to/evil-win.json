@@ -1,0 +1,13 @@
+{
+  "_id": "d7hy1uj9euv",
+  "name": "evil-win",
+  "params": {
+    "noun": "evil",
+    "verb": "win"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

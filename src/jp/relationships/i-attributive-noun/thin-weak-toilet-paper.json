@@ -1,0 +1,13 @@
+{
+  "_id": "fgmgl1nvu5g",
+  "name": "thin-weak-toilet-paper",
+  "params": {
+    "iadj": "thin-weak",
+    "noun": "toilet-paper"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

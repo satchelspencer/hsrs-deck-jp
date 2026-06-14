@@ -1,0 +1,13 @@
+{
+  "_id": "a0wcx4g8754",
+  "name": "position-switch",
+  "params": {
+    "noun": "position",
+    "owner": "switch"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

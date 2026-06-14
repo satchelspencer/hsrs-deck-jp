@@ -1,0 +1,13 @@
+{
+  "_id": "gjqz8p12t82",
+  "name": "scary-driving",
+  "params": {
+    "iadj": "scary",
+    "noun": "driving"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "rfogn7xpf7v",
+  "name": "gender-difference",
+  "params": {
+    "noun": "difference",
+    "owner": "gender"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

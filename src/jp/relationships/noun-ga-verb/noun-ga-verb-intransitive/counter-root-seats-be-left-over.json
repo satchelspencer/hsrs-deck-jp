@@ -1,0 +1,13 @@
+{
+  "_id": "218zbgwri0n",
+  "name": "counter-root-seats-be-left-over",
+  "params": {
+    "noun": "counter-root-seats",
+    "verb": "be-left-over"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

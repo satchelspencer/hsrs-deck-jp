@@ -1,0 +1,13 @@
+{
+  "_id": "kmcsr45cbxz",
+  "name": "sauce-make",
+  "params": {
+    "noun": "sauce",
+    "verb": "make"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

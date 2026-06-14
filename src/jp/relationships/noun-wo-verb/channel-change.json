@@ -1,0 +1,13 @@
+{
+  "_id": "7jvypff51b2",
+  "name": "channel-change",
+  "params": {
+    "noun": "channel",
+    "verb": "change"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

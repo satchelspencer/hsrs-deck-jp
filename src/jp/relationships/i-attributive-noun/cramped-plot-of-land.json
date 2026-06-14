@@ -1,0 +1,13 @@
+{
+  "_id": "dovm4zci4rm",
+  "name": "cramped-plot-of-land",
+  "params": {
+    "iadj": "cramped",
+    "noun": "plot-of-land"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

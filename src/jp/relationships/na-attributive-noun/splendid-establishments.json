@@ -1,0 +1,13 @@
+{
+  "_id": "8njo5hbmzwe",
+  "name": "splendid-establishments",
+  "params": {
+    "na": "splendid",
+    "noun": "establishments"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

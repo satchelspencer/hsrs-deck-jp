@@ -1,0 +1,13 @@
+{
+  "_id": "6ae8b1ffx53",
+  "name": "mark-make",
+  "params": {
+    "noun": "mark",
+    "verb": "make"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "kl6zngjqna4",
+  "name": "music-genres-spread-out",
+  "params": {
+    "noun": "music-genres",
+    "verb": "spread-out"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

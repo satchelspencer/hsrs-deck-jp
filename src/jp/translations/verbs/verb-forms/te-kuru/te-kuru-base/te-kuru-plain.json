@@ -1,0 +1,18 @@
+{
+  "_id": "3gqvoajw722",
+  "constraint": "verb",
+  "mode": "c---an",
+  "name": "te-kuru-plain",
+  "order": "1",
+  "params": {
+    "te": "verb-te-form-pos",
+    "verb": "te-iru-verbs"
+  },
+  "parents": [
+    "te-kuru-base"
+  ],
+  "props": {
+    "en": "'will be '+(verb._pg||verb._st)",
+    "jp": "te.jp+'くる'"
+  }
+}

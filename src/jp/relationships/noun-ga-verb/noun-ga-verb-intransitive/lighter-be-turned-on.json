@@ -1,0 +1,13 @@
+{
+  "_id": "vy6j5u1880u",
+  "name": "lighter-be-turned-on",
+  "params": {
+    "noun": "lighter",
+    "verb": "be-turned-on"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

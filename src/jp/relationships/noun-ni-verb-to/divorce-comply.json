@@ -1,0 +1,13 @@
+{
+  "_id": "6lu3yaj5h4g",
+  "name": "divorce-comply",
+  "params": {
+    "noun": "divorce",
+    "verb": "comply"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

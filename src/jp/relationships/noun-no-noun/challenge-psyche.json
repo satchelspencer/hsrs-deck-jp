@@ -1,0 +1,13 @@
+{
+  "_id": "lvbcsp0priw",
+  "name": "challenge-psyche",
+  "params": {
+    "noun": "psyche",
+    "owner": "challenge"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

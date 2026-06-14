@@ -1,0 +1,13 @@
+{
+  "_id": "0zd1w6bs97e",
+  "name": "museum-map",
+  "params": {
+    "noun": "map",
+    "owner": "museum"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

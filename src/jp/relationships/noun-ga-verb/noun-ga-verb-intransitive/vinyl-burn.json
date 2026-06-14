@@ -1,0 +1,13 @@
+{
+  "_id": "0878gb9h41s",
+  "name": "vinyl-burn",
+  "params": {
+    "noun": "vinyl",
+    "verb": "burn"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

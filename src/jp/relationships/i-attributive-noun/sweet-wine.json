@@ -1,0 +1,13 @@
+{
+  "_id": "pn8wxe1kdxy",
+  "name": "sweet-wine",
+  "params": {
+    "iadj": "sweet",
+    "noun": "wine"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

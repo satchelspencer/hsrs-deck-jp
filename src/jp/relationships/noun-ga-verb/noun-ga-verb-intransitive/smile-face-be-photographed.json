@@ -1,0 +1,13 @@
+{
+  "_id": "b04x0b60qkg",
+  "name": "smile-face-be-photographed",
+  "params": {
+    "noun": "smile-face",
+    "verb": "be-photographed"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

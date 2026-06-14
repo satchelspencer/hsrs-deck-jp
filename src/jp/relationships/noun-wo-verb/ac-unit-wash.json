@@ -1,0 +1,13 @@
+{
+  "_id": "yvmlq709qfi",
+  "name": "ac-unit-wash",
+  "params": {
+    "noun": "ac-unit",
+    "verb": "wash"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

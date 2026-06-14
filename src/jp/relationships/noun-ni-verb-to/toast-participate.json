@@ -1,0 +1,13 @@
+{
+  "_id": "k2bal8cnwrn",
+  "name": "toast-participate",
+  "params": {
+    "noun": "toast",
+    "verb": "participation"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

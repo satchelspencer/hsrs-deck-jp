@@ -1,0 +1,15 @@
+{
+  "_id": "z25vejacr7a",
+  "desc": "lighter (fire)",
+  "name": "lighter",
+  "order": "4",
+  "parents": [
+    "tools",
+    "ko-countable"
+  ],
+  "props": {
+    "en": "lighter",
+    "jp": "ライター",
+    "tl": "らいたー"
+  }
+}

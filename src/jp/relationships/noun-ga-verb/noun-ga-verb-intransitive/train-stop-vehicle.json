@@ -1,0 +1,13 @@
+{
+  "_id": "y52ajofs819",
+  "name": "train-stop-vehicle",
+  "params": {
+    "noun": "train",
+    "verb": "stop-vehicle"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

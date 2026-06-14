@@ -1,0 +1,13 @@
+{
+  "_id": "5ihk10wszdj",
+  "name": "ball-kick",
+  "params": {
+    "noun": "ball",
+    "verb": "kick"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

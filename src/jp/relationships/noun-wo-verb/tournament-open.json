@@ -1,0 +1,13 @@
+{
+  "_id": "qg50ako6zga",
+  "name": "tournament-open",
+  "params": {
+    "noun": "tournament",
+    "verb": "open-hiraku"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

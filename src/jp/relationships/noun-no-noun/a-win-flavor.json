@@ -1,0 +1,14 @@
+{
+  "_id": "c52ako2jawg",
+  "desc": "勝ちの味 means the taste/feeling of victory",
+  "name": "a-win-flavor",
+  "params": {
+    "noun": "flavor",
+    "owner": "a-win"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

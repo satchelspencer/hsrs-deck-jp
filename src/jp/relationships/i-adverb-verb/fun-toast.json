@@ -1,0 +1,13 @@
+{
+  "_id": "b3voe2qba79",
+  "name": "fun-toast",
+  "params": {
+    "iadj": "fun",
+    "verb": "toast"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

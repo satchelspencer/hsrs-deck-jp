@@ -1,0 +1,13 @@
+{
+  "_id": "vycpw754lvo",
+  "name": "polite-na-scratch",
+  "params": {
+    "na": "polite-na",
+    "verb": "scratch"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

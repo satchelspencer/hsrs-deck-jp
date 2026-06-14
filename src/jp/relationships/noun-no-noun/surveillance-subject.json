@@ -1,0 +1,13 @@
+{
+  "_id": "cd7tojlhu79",
+  "name": "surveillance-subject",
+  "params": {
+    "noun": "subject",
+    "owner": "surveillance"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

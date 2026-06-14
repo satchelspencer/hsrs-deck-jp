@@ -1,0 +1,13 @@
+{
+  "_id": "2mmz5vwzlyr",
+  "name": "complexity-transaction",
+  "params": {
+    "na": "complexity",
+    "noun": "transaction"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

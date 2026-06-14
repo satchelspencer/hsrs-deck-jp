@@ -1,0 +1,13 @@
+{
+  "_id": "pfl32n2iay3",
+  "name": "descent-line",
+  "params": {
+    "no": "descent",
+    "noun": "line"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

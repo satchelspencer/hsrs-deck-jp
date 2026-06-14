@@ -1,0 +1,13 @@
+{
+  "_id": "osg2psvdlda",
+  "name": "holiday-look-forward",
+  "params": {
+    "noun": "holiday",
+    "verb": "expectation"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

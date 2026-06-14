@@ -1,0 +1,13 @@
+{
+  "_id": "1ezojd4rdzt",
+  "name": "important-surveillance",
+  "params": {
+    "na": "important-polite",
+    "noun": "surveillance"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

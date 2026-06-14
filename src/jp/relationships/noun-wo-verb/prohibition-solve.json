@@ -1,0 +1,14 @@
+{
+  "_id": "033rj0icgvs",
+  "desc": "解く is lift/undo in this context",
+  "name": "prohibition-solve",
+  "params": {
+    "noun": "prohibition",
+    "verb": "solve"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

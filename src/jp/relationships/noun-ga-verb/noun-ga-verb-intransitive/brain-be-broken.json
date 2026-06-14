@@ -1,0 +1,13 @@
+{
+  "_id": "rcdh58g6411",
+  "name": "brain-be-broken",
+  "params": {
+    "noun": "brain",
+    "verb": "be-broken"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "hdzbb6259zo",
+  "name": "music-genres-sing",
+  "params": {
+    "noun": "music-genres",
+    "verb": "sing"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

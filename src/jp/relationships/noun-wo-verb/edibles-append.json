@@ -1,0 +1,14 @@
+{
+  "_id": "5pnk4jve051",
+  "desc": "加える means to add as an ingredient to a recipe or mixture",
+  "name": "edibles-append",
+  "params": {
+    "noun": "edibles",
+    "verb": "append"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

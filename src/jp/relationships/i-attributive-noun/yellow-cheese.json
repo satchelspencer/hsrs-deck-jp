@@ -1,0 +1,13 @@
+{
+  "_id": "6crv5ndo0zk",
+  "name": "yellow-cheese",
+  "params": {
+    "iadj": "yellow",
+    "noun": "cheese"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

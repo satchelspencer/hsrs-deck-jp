@@ -1,0 +1,13 @@
+{
+  "_id": "vd9b0xrk6a7",
+  "name": "safety-departure",
+  "params": {
+    "na": "safety",
+    "noun": "departure"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

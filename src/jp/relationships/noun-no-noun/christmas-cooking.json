@@ -1,0 +1,13 @@
+{
+  "_id": "3ud3ux3y3hp",
+  "name": "christmas-cooking",
+  "params": {
+    "noun": "cooking",
+    "owner": "christmas"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "o2wxfs6zror",
+  "name": "danger-prohibition",
+  "params": {
+    "na": "danger",
+    "noun": "prohibition"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "p6pe54ogoqw",
+  "name": "long-announcement",
+  "params": {
+    "iadj": "long",
+    "noun": "announcement"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

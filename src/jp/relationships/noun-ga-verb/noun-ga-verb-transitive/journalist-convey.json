@@ -1,0 +1,13 @@
+{
+  "_id": "ez8mdmclmse",
+  "name": "journalist-convey",
+  "params": {
+    "noun": "journalist",
+    "verb": "convey"
+  },
+  "parents": [
+    "noun-ga-verb-transitive"
+  ],
+  "props": {
+  }
+}

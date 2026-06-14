@@ -1,0 +1,13 @@
+{
+  "_id": "b6r5ixems6n",
+  "name": "thin-weak-freeze",
+  "params": {
+    "iadj": "thin-weak",
+    "verb": "freeze"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

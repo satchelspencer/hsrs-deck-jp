@@ -1,0 +1,13 @@
+{
+  "_id": "iwwg3a9g84w",
+  "desc": "watermelon",
+  "name": "watermelon",
+  "order": "4",
+  "parents": [
+    "foods"
+  ],
+  "props": {
+    "en": "watermelon",
+    "jp": "すいか"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "0mhj6e990za",
+  "name": "special-album",
+  "params": {
+    "na": "special",
+    "noun": "album"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

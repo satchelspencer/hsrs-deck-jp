@@ -1,0 +1,13 @@
+{
+  "_id": "yoznhsbf5v3",
+  "name": "good-rapport",
+  "params": {
+    "iadj": "good",
+    "noun": "rapport"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

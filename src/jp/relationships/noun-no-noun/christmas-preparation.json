@@ -1,0 +1,13 @@
+{
+  "_id": "n5jghgguofk",
+  "name": "christmas-preparation",
+  "params": {
+    "noun": "preparation",
+    "owner": "christmas"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "utju97gtlyj",
+  "name": "curtain-take-down",
+  "params": {
+    "noun": "curtain",
+    "verb": "take-down"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

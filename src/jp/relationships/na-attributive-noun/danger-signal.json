@@ -1,0 +1,13 @@
+{
+  "_id": "i6s0w1dzfq8",
+  "name": "danger-signal",
+  "params": {
+    "na": "danger",
+    "noun": "traffic-signal"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

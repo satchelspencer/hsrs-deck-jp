@@ -1,0 +1,13 @@
+{
+  "_id": "hk28187d81k",
+  "name": "company-announcement",
+  "params": {
+    "noun": "announcement",
+    "owner": "company"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

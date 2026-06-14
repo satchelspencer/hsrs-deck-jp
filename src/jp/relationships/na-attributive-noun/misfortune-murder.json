@@ -1,0 +1,13 @@
+{
+  "_id": "80qg9t5zg7q",
+  "name": "misfortune-murder",
+  "params": {
+    "na": "misfortune",
+    "noun": "murder"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

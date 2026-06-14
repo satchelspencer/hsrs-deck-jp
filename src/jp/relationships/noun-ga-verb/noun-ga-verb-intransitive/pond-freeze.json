@@ -1,0 +1,13 @@
+{
+  "_id": "k6flufuss1q",
+  "name": "pond-freeze",
+  "params": {
+    "noun": "pond",
+    "verb": "freeze"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

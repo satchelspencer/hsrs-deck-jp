@@ -1,0 +1,13 @@
+{
+  "_id": "6syldm5qpf9",
+  "name": "yellow-lemon",
+  "params": {
+    "iadj": "yellow",
+    "noun": "lemon"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

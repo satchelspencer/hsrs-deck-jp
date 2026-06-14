@@ -1,0 +1,13 @@
+{
+  "_id": "wezcu23osdg",
+  "name": "orange-cut",
+  "params": {
+    "noun": "orange",
+    "verb": "cut"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

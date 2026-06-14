@@ -1,0 +1,13 @@
+{
+  "_id": "eq399tgx3j6",
+  "name": "stewardess-job",
+  "params": {
+    "noun": "job",
+    "owner": "stewardess"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

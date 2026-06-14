@@ -1,0 +1,13 @@
+{
+  "_id": "729cvzryjxg",
+  "name": "thin-weak-towel",
+  "params": {
+    "iadj": "thin-weak",
+    "noun": "towel"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

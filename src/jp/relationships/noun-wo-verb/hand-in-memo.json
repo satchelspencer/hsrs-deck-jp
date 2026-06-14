@@ -1,0 +1,13 @@
+{
+  "_id": "ekd326b4opv",
+  "name": "hand-in-memo",
+  "params": {
+    "noun": "memo",
+    "verb": "hand-in"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

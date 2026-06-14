@@ -1,0 +1,13 @@
+{
+  "_id": "rz1igw9f1xx",
+  "name": "bag-inner-side",
+  "params": {
+    "noun": "inner-side",
+    "owner": "bag"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

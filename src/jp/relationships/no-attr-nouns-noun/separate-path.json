@@ -1,0 +1,13 @@
+{
+  "_id": "bi4sui10g01",
+  "name": "separate-path",
+  "params": {
+    "no": "separate",
+    "noun": "path"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

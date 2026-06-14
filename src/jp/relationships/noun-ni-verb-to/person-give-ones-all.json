@@ -1,0 +1,13 @@
+{
+  "_id": "slb13yrtayk",
+  "name": "person-give-ones-all",
+  "params": {
+    "noun": "person",
+    "verb": "give-ones-all"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

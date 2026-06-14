@@ -1,0 +1,13 @@
+{
+  "_id": "eoawuhzfuny",
+  "name": "lose-it-memo",
+  "params": {
+    "noun": "memo",
+    "verb": "lose-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

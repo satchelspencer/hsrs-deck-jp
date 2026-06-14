@@ -1,0 +1,13 @@
+{
+  "_id": "6ar3rxhj3rr",
+  "name": "device-exchange-it",
+  "params": {
+    "noun": "device",
+    "verb": "exchange-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

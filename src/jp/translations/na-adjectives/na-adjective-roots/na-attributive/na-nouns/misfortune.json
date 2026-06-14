@@ -1,0 +1,18 @@
+{
+  "_id": "3p8mzre4u6t",
+  "desc": "unhappiness, misfortune, bad luck, disaster. unhappy, unfortunate, unlucky",
+  "name": "misfortune",
+  "order": "3",
+  "parents": [
+    "na-nouns",
+    "na-people",
+    "abstracts",
+    "events"
+  ],
+  "props": {
+    "_at": "unfortunate",
+    "en": "misfortune",
+    "jp": "不幸",
+    "tl": "ふこう"
+  }
+}

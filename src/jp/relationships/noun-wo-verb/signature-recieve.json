@@ -1,0 +1,13 @@
+{
+  "_id": "9oacyt3r22c",
+  "name": "signature-recieve",
+  "params": {
+    "noun": "signature",
+    "verb": "recieve"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

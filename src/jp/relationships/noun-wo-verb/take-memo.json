@@ -1,0 +1,13 @@
+{
+  "_id": "paeaes4az8i",
+  "name": "take-memo",
+  "params": {
+    "noun": "memo",
+    "verb": "take"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

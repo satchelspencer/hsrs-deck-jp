@@ -1,0 +1,13 @@
+{
+  "_id": "d38rzex3nwg",
+  "name": "challenge-head-toward",
+  "params": {
+    "noun": "challenge",
+    "verb": "head-toward"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

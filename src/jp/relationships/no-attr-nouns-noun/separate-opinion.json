@@ -1,0 +1,13 @@
+{
+  "_id": "ygprkjvm29w",
+  "name": "separate-opinion",
+  "params": {
+    "no": "separate",
+    "noun": "opinion"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

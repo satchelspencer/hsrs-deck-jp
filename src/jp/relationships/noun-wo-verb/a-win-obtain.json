@@ -1,0 +1,13 @@
+{
+  "_id": "tcykgsfdxs6",
+  "name": "a-win-obtain",
+  "params": {
+    "noun": "a-win",
+    "verb": "obtain"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

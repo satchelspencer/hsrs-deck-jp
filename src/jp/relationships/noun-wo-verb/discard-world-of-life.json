@@ -1,0 +1,14 @@
+{
+  "_id": "xemdmqce8jr",
+  "desc": "世を捨てる means to renounce the world",
+  "name": "discard-world-of-life",
+  "params": {
+    "noun": "world-of-life",
+    "verb": "discard"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

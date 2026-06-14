@@ -1,0 +1,13 @@
+{
+  "_id": "rdelol1vy4a",
+  "name": "holiday-enjoy",
+  "params": {
+    "noun": "holiday",
+    "verb": "enjoy"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "3yicsjesvvj",
+  "name": "police-surveillance",
+  "params": {
+    "noun": "surveillance",
+    "owner": "police"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

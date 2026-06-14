@@ -1,0 +1,13 @@
+{
+  "_id": "8zh2xd0ulit",
+  "name": "bus-drive",
+  "params": {
+    "noun": "bus",
+    "verb": "driving"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

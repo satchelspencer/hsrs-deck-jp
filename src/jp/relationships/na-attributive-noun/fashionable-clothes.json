@@ -1,0 +1,13 @@
+{
+  "_id": "32b2ugp3qhc",
+  "name": "fashionable-clothes",
+  "params": {
+    "na": "fashionable",
+    "noun": "clothes"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

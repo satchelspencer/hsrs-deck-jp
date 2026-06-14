@@ -1,0 +1,13 @@
+{
+  "_id": "3zyo2borv96",
+  "name": "chill-polite",
+  "params": {
+    "na": "polite-na",
+    "verb": "chill"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

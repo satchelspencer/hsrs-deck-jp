@@ -1,0 +1,14 @@
+{
+  "_id": "1z0l41byh2a",
+  "desc": "果たす means to fulfill/accomplish — 登場を果たす is a set phrase for making a (long-awaited) appearance",
+  "name": "entrance-appearance-accomplish",
+  "params": {
+    "noun": "entrance-appearance",
+    "verb": "accomplish"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

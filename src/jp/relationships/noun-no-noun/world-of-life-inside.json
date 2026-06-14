@@ -1,0 +1,14 @@
+{
+  "_id": "v8vjpji0lw6",
+  "desc": "世の中 is a set phrase meaning the world/society",
+  "name": "world-of-life-inside",
+  "params": {
+    "noun": "inside",
+    "owner": "world-of-life"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

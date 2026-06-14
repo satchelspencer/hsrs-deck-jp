@@ -1,0 +1,13 @@
+{
+  "_id": "a8xogwy1b0k",
+  "name": "tournament-lose",
+  "params": {
+    "noun": "tournament",
+    "verb": "be-defeated"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "gw85ca3lxm2",
+  "desc": "世の流れ means the flow/trend of the times",
+  "name": "world-of-life-flow",
+  "params": {
+    "noun": "a-flow",
+    "owner": "world-of-life"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

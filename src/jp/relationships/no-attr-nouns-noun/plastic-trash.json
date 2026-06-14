@@ -1,0 +1,13 @@
+{
+  "_id": "wp47880abjc",
+  "name": "plastic-trash",
+  "params": {
+    "no": "plastic",
+    "noun": "trash"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

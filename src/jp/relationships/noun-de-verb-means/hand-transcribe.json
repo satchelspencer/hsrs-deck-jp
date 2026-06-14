@@ -1,0 +1,13 @@
+{
+  "_id": "e64ikuvtdw8",
+  "name": "hand-transcribe",
+  "params": {
+    "noun": "hand",
+    "verb": "transcribe"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

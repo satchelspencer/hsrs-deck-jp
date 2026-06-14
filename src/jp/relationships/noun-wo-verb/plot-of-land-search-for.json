@@ -1,0 +1,13 @@
+{
+  "_id": "7taw0pordyw",
+  "name": "plot-of-land-search-for",
+  "params": {
+    "noun": "plot-of-land",
+    "verb": "search-for"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

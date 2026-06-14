@@ -1,0 +1,13 @@
+{
+  "_id": "nnggbowsssa",
+  "name": "repair-be-fixed",
+  "params": {
+    "noun": "repair",
+    "verb": "be-fixed"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

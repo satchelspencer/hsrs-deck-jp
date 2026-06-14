@@ -1,0 +1,13 @@
+{
+  "_id": "k04o7t8zevk",
+  "name": "car-repair",
+  "params": {
+    "noun": "car",
+    "verb": "repair"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

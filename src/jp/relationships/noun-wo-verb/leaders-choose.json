@@ -1,0 +1,13 @@
+{
+  "_id": "mjof5xgm5ul",
+  "name": "leaders-choose",
+  "params": {
+    "noun": "leaders",
+    "verb": "choose"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

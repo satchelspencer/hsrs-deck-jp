@@ -1,0 +1,13 @@
+{
+  "_id": "cd1ycijfhwa",
+  "name": "signature-name",
+  "params": {
+    "noun": "name",
+    "owner": "signature"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

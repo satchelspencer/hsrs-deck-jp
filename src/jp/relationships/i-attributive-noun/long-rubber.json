@@ -1,0 +1,13 @@
+{
+  "_id": "vq8r2k3n5x1",
+  "name": "long-rubber",
+  "params": {
+    "iadj": "long",
+    "noun": "rubber"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

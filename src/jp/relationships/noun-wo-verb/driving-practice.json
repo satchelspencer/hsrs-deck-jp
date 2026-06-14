@@ -1,0 +1,13 @@
+{
+  "_id": "t02dnbfjw9a",
+  "name": "driving-practice",
+  "params": {
+    "noun": "driving",
+    "verb": "practice"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

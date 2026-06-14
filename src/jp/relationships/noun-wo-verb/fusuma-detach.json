@@ -1,0 +1,13 @@
+{
+  "_id": "qawvtpsscx7",
+  "name": "fusuma-detach",
+  "params": {
+    "noun": "fusuma",
+    "verb": "detach-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

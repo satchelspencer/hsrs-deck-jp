@@ -1,0 +1,13 @@
+{
+  "_id": "habootcwfrh",
+  "name": "chill-air-cooling",
+  "params": {
+    "noun": "air-cooling",
+    "verb": "chill"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

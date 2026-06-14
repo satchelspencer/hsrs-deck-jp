@@ -1,0 +1,13 @@
+{
+  "_id": "6ry22hd4n2c",
+  "name": "polite-na-drive",
+  "params": {
+    "na": "polite-na",
+    "verb": "driving"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

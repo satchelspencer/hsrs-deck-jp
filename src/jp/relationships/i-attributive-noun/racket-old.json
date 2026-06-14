@@ -1,0 +1,13 @@
+{
+  "_id": "pf69a37se57",
+  "name": "racket-old",
+  "params": {
+    "iadj": "old",
+    "noun": "racket"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "y87a739nrxa",
+  "name": "departure-decide-on",
+  "params": {
+    "noun": "departure",
+    "verb": "decide-on"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "5tewkwt6e5d",
+  "name": "soft-towel",
+  "params": {
+    "iadj": "soft",
+    "noun": "towel"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

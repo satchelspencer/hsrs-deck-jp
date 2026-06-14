@@ -1,0 +1,13 @@
+{
+  "_id": "sz9sb6d6d75",
+  "name": "channel-category",
+  "params": {
+    "noun": "category",
+    "owner": "channel"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

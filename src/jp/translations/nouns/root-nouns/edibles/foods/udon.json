@@ -1,0 +1,16 @@
+{
+  "_id": "nos1dumyx4f",
+  "desc": "udon noodles, thick Japanese wheat noodles",
+  "name": "udon",
+  "order": "3",
+  "parents": [
+    "foods",
+    "heated-edibles",
+    "hai-countable"
+  ],
+  "props": {
+    "en": "udon",
+    "jp": "うどん",
+    "tl": "うどん"
+  }
+}

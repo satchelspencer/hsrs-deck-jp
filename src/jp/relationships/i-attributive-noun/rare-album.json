@@ -1,0 +1,13 @@
+{
+  "_id": "intec0fvyfa",
+  "name": "rare-album",
+  "params": {
+    "iadj": "rare",
+    "noun": "album"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

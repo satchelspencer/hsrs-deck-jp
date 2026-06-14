@@ -1,0 +1,13 @@
+{
+  "_id": "v2kw0e9p44s",
+  "name": "complexity-world-of-life",
+  "params": {
+    "na": "complexity",
+    "noun": "world-of-life"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

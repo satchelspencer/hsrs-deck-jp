@@ -1,0 +1,13 @@
+{
+  "_id": "sg6kukwv834",
+  "name": "date-invite",
+  "params": {
+    "noun": "date",
+    "verb": "invite"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "_id": "odjct09fsqn",
+  "desc": "set free, let loose, release (animal/person)",
+  "name": "release",
+  "order": "4",
+  "parents": [
+    "godan-su",
+    "te-iru-verbs-continuous",
+    "do-to-animals",
+    "ni-destination-verbs",
+    "people-do-volitional"
+  ],
+  "props": {
+    "_pg": "releasing",
+    "en": "release",
+    "jp": "放す",
+    "tl": "はなす"
+  }
+}

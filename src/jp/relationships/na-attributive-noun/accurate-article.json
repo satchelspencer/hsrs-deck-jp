@@ -1,0 +1,13 @@
+{
+  "_id": "gj0xv2kmkrs",
+  "name": "accurate-article",
+  "params": {
+    "na": "accurate",
+    "noun": "article"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

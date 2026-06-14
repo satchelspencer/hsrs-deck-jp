@@ -1,0 +1,13 @@
+{
+  "_id": "sy65yc3rny7",
+  "name": "journalist-gather",
+  "params": {
+    "noun": "journalist",
+    "verb": "be-gathered"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

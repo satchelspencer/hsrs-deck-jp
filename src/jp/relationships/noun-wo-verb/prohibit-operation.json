@@ -1,0 +1,13 @@
+{
+  "_id": "r6jahbhj79y",
+  "name": "prohibit-operation",
+  "params": {
+    "noun": "operation",
+    "verb": "prohibition"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

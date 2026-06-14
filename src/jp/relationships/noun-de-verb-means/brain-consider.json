@@ -1,0 +1,13 @@
+{
+  "_id": "3c7vakn3bdc",
+  "name": "brain-consider",
+  "params": {
+    "noun": "brain",
+    "verb": "consider"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

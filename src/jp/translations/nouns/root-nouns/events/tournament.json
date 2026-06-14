@@ -1,0 +1,15 @@
+{
+  "_id": "xgw54u3ta5w",
+  "desc": "large competition, convention, mass meeting",
+  "name": "tournament",
+  "order": "3",
+  "parents": [
+    "events",
+    "activities"
+  ],
+  "props": {
+    "en": "tournament",
+    "jp": "大会",
+    "tl": "たいかい"
+  }
+}

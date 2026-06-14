@@ -1,0 +1,13 @@
+{
+  "_id": "9q83iksham2",
+  "name": "announcement-hear",
+  "params": {
+    "noun": "announcement",
+    "verb": "hear"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

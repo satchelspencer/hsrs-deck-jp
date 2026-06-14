@@ -1,0 +1,13 @@
+{
+  "_id": "bcicok50f31",
+  "name": "rubber-smell",
+  "params": {
+    "noun": "scent",
+    "owner": "rubber"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

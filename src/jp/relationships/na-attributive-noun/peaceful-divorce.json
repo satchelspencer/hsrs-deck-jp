@@ -1,0 +1,13 @@
+{
+  "_id": "m218kn2mv5v",
+  "name": "peaceful-divorce",
+  "params": {
+    "na": "peaceful",
+    "noun": "divorce"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

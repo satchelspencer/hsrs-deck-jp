@@ -1,0 +1,14 @@
+{
+  "_id": "wiqe8lowz18",
+  "desc": "挟む means insert/fit in a break here",
+  "name": "rest-break-sandwitch",
+  "params": {
+    "noun": "rest-break",
+    "verb": "sandwitch-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

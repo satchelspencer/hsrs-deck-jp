@@ -1,0 +1,13 @@
+{
+  "_id": "rg9qgr1ob02",
+  "name": "racket-break",
+  "params": {
+    "noun": "racket",
+    "verb": "be-broken"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "i7ifvwggne7",
+  "name": "big-plot-of-land",
+  "params": {
+    "iadj": "big",
+    "noun": "plot-of-land"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

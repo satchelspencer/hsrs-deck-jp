@@ -1,0 +1,13 @@
+{
+  "_id": "rud8phucgf9",
+  "name": "liked-music-genres",
+  "params": {
+    "na": "liked",
+    "noun": "music-genres"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

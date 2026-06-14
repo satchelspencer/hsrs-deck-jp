@@ -1,0 +1,13 @@
+{
+  "_id": "zkw9bd01hf6",
+  "name": "knife-tear",
+  "params": {
+    "noun": "knife",
+    "verb": "tear"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

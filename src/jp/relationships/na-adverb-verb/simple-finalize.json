@@ -1,0 +1,13 @@
+{
+  "_id": "y8o36a9g9rn",
+  "name": "simple-finalize",
+  "params": {
+    "na": "simple",
+    "verb": "finalization"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

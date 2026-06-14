@@ -1,0 +1,13 @@
+{
+  "_id": "m1ozrbj02cx",
+  "desc": "deeply, fast asleep",
+  "name": "soundly",
+  "order": "4",
+  "parents": [
+    "people-do-adverbs"
+  ],
+  "props": {
+    "en": "soundly",
+    "jp": "ぐっすり"
+  }
+}

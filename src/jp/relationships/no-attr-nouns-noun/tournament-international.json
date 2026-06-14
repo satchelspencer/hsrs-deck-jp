@@ -1,0 +1,13 @@
+{
+  "_id": "8rvz6m7oxoa",
+  "name": "tournament-international",
+  "params": {
+    "no": "international",
+    "noun": "tournament"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

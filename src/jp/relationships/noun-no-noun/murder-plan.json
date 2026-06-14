@@ -1,0 +1,13 @@
+{
+  "_id": "41jvfp90rmg",
+  "name": "murder-plan",
+  "params": {
+    "noun": "plan",
+    "owner": "murder"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

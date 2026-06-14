@@ -1,0 +1,13 @@
+{
+  "_id": "rw2494ypyzj",
+  "name": "electrics-repair",
+  "params": {
+    "noun": "electrics",
+    "verb": "repair"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

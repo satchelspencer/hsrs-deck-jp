@@ -1,0 +1,16 @@
+{
+  "_id": "s9wfg75ftyz",
+  "desc": "good at, strong at, skilled in, one's forte, one's specialty",
+  "name": "speciality",
+  "order": "3",
+  "parents": [
+    "na-attributive",
+    "na-people-do"
+  ],
+  "props": {
+    "_ad": "proudly",
+    "en": "speciality",
+    "jp": "得意",
+    "tl": "とくい"
+  }
+}

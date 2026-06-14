@@ -1,0 +1,13 @@
+{
+  "_id": "e8vlhl9echo",
+  "name": "separate-room",
+  "params": {
+    "no": "separate",
+    "noun": "room"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

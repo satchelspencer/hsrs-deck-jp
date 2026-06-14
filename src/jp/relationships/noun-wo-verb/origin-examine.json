@@ -1,0 +1,13 @@
+{
+  "_id": "qjk9nr9sgn6",
+  "name": "origin-examine",
+  "params": {
+    "noun": "origins",
+    "verb": "examine"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

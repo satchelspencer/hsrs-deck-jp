@@ -1,0 +1,13 @@
+{
+  "_id": "asl4xetex36",
+  "name": "famous-entrance-appearance",
+  "params": {
+    "na": "famous",
+    "noun": "entrance-appearance"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

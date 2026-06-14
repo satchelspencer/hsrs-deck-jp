@@ -1,0 +1,13 @@
+{
+  "_id": "djtgn1wiuek",
+  "name": "another-brain",
+  "params": {
+    "no": "another",
+    "noun": "brain"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

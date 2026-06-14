@@ -1,0 +1,13 @@
+{
+  "_id": "htyth2goh85",
+  "name": "side-dish-leave-behind",
+  "params": {
+    "noun": "side-dish",
+    "verb": "leave-behind"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

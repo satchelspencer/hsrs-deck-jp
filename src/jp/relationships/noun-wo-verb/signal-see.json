@@ -1,0 +1,13 @@
+{
+  "_id": "d9k4r5ywmz3",
+  "name": "signal-see",
+  "params": {
+    "noun": "traffic-signal",
+    "verb": "see"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

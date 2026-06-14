@@ -1,0 +1,13 @@
+{
+  "_id": "tckhcmtjs44",
+  "name": "challenge-be-continuing",
+  "params": {
+    "noun": "challenge",
+    "verb": "be-continuing"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

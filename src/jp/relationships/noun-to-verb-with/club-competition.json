@@ -1,0 +1,13 @@
+{
+  "_id": "exsozpl2wcc",
+  "name": "club-competition",
+  "params": {
+    "noun": "club",
+    "verb": "competition"
+  },
+  "parents": [
+    "noun-to-verb-with"
+  ],
+  "props": {
+  }
+}

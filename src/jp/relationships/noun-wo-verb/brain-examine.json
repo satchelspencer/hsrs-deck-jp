@@ -1,0 +1,13 @@
+{
+  "_id": "t2dz1lrwhe3",
+  "name": "brain-examine",
+  "params": {
+    "noun": "brain",
+    "verb": "examine"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "4zax94a6gpr",
+  "name": "lightweight-take-down",
+  "params": {
+    "iadj": "lightweight",
+    "verb": "take-down"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

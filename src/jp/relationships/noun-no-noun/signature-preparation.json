@@ -1,0 +1,13 @@
+{
+  "_id": "p1lqv89jtvd",
+  "name": "signature-preparation",
+  "params": {
+    "noun": "preparation",
+    "owner": "signature"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

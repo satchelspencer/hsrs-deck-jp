@@ -1,0 +1,14 @@
+{
+  "_id": "chekyead3bx",
+  "desc": "丸をつける means to mark with a circle (◯)",
+  "name": "circle-affix",
+  "params": {
+    "noun": "circle",
+    "verb": "affix"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

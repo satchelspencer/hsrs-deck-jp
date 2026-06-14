@@ -1,0 +1,13 @@
+{
+  "_id": "rir2wnv5u58",
+  "name": "movie-admission-ticket",
+  "params": {
+    "noun": "admission-ticket",
+    "owner": "movie"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

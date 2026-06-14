@@ -1,0 +1,13 @@
+{
+  "_id": "z458oqzf06u",
+  "name": "earn-trust",
+  "params": {
+    "noun": "reliance",
+    "verb": "earn"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

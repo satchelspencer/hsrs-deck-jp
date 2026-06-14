@@ -1,0 +1,13 @@
+{
+  "_id": "oq9jxbqbi1s",
+  "name": "every-day-repair",
+  "params": {
+    "no": "every-day",
+    "noun": "repair"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

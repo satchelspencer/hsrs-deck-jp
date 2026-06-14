@@ -1,0 +1,13 @@
+{
+  "_id": "qmi0fmdogsw",
+  "name": "special-club",
+  "params": {
+    "na": "special",
+    "noun": "club"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

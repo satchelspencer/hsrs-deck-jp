@@ -1,0 +1,13 @@
+{
+  "_id": "c3ipc26k2yx",
+  "name": "color-katakana-choose",
+  "params": {
+    "noun": "color-katakana",
+    "verb": "choose"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

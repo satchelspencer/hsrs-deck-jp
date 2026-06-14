@@ -1,0 +1,13 @@
+{
+  "_id": "g9udkmljm0f",
+  "name": "convenience-machines",
+  "params": {
+    "na": "convenience",
+    "noun": "machines"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

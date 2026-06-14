@@ -1,0 +1,13 @@
+{
+  "_id": "emonheu1iow",
+  "name": "suicide-be-increased",
+  "params": {
+    "noun": "suicide",
+    "verb": "be-increased"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

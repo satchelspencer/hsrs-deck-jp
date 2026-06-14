@@ -1,0 +1,13 @@
+{
+  "_id": "3gxfdu98f9u",
+  "name": "racket-be-struck",
+  "params": {
+    "noun": "racket",
+    "verb": "be-struck"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

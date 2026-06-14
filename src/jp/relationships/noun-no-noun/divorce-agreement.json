@@ -1,0 +1,13 @@
+{
+  "_id": "m4yv2ha6nu0",
+  "name": "divorce-agreement",
+  "params": {
+    "noun": "agreement",
+    "owner": "divorce"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

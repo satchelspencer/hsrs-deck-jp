@@ -1,0 +1,13 @@
+{
+  "_id": "hsu13ac5hzt",
+  "name": "pregnancy-conceal-it",
+  "params": {
+    "noun": "pregnancy",
+    "verb": "conceal-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

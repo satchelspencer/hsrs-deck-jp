@@ -1,0 +1,13 @@
+{
+  "_id": "qrkrjmgvedm",
+  "name": "cool-music-genres",
+  "params": {
+    "iadj": "cool",
+    "noun": "music-genres"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

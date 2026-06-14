@@ -1,0 +1,13 @@
+{
+  "_id": "z9qf6hte21i",
+  "name": "polite-crack-it",
+  "params": {
+    "na": "polite-na",
+    "verb": "crack-it"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

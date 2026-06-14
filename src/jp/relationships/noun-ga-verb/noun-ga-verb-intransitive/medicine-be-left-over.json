@@ -1,0 +1,13 @@
+{
+  "_id": "kpw6l4974f0",
+  "name": "medicine-be-left-over",
+  "params": {
+    "noun": "medicine",
+    "verb": "be-left-over"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "_id": "r22tp4h5gcw",
+  "desc": "towel, bath towel",
+  "name": "towel",
+  "order": "2",
+  "parents": [
+    "clothing",
+    "mai-countable"
+  ],
+  "props": {
+    "en": "towel",
+    "jp": "タオル",
+    "tl": "たおる"
+  }
+}

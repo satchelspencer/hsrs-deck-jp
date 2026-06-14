@@ -1,0 +1,13 @@
+{
+  "_id": "61z16ujkp07",
+  "name": "cautious-scratch",
+  "params": {
+    "na": "cautious",
+    "verb": "scratch"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

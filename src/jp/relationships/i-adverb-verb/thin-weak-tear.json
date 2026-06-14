@@ -1,0 +1,13 @@
+{
+  "_id": "wlgq4a4bc73",
+  "name": "thin-weak-tear",
+  "params": {
+    "iadj": "thin-weak",
+    "verb": "tear"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

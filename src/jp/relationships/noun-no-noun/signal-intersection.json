@@ -1,0 +1,13 @@
+{
+  "_id": "b4f2k9twvn1",
+  "name": "signal-intersection",
+  "params": {
+    "noun": "traffic-signal",
+    "owner": "intersection"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

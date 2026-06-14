@@ -1,0 +1,13 @@
+{
+  "_id": "v57bk73qxl1",
+  "name": "pregnancy-confirmation-no",
+  "params": {
+    "noun": "confirmation",
+    "owner": "pregnancy"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

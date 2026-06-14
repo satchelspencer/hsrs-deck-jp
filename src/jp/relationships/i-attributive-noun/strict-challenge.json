@@ -1,0 +1,13 @@
+{
+  "_id": "cdwaq5thdpm",
+  "name": "strict-challenge",
+  "params": {
+    "iadj": "strict",
+    "noun": "challenge"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

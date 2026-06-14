@@ -1,0 +1,13 @@
+{
+  "_id": "m39xzmp9lie",
+  "name": "cautious-driving",
+  "params": {
+    "na": "cautious",
+    "noun": "driving"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

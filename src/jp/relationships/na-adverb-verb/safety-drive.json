@@ -1,0 +1,13 @@
+{
+  "_id": "34nnp5thyqg",
+  "name": "safety-drive",
+  "params": {
+    "na": "safety",
+    "verb": "driving"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "hewj0vxmqnb",
+  "name": "strong-ac-unit",
+  "params": {
+    "iadj": "strong",
+    "noun": "ac-unit"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

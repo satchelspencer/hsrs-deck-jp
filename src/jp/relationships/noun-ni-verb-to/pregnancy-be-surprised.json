@@ -1,0 +1,13 @@
+{
+  "_id": "a2p5fxp4z44",
+  "name": "pregnancy-be-surprised",
+  "params": {
+    "noun": "pregnancy",
+    "verb": "be-surprised"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

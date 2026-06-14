@@ -1,0 +1,13 @@
+{
+  "_id": "ihps51ioca1",
+  "name": "typewriter-buy",
+  "params": {
+    "noun": "typewriter",
+    "verb": "buy"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

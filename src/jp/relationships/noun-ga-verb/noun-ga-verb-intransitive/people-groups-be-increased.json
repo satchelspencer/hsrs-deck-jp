@@ -1,0 +1,13 @@
+{
+  "_id": "3zph03lp9x7",
+  "name": "people-groups-be-increased",
+  "params": {
+    "noun": "people-groups",
+    "verb": "be-increased"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "au1jnyzufzk",
+  "name": "triangle-paper",
+  "params": {
+    "no": "triangle",
+    "noun": "paper"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

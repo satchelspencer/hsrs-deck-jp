@@ -1,0 +1,13 @@
+{
+  "_id": "zekwzcg5o10",
+  "name": "date-fun",
+  "params": {
+    "iadj": "fun",
+    "noun": "date"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

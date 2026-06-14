@@ -1,0 +1,13 @@
+{
+  "_id": "xmfc2lfp36k",
+  "name": "new-substitute",
+  "params": {
+    "iadj": "new",
+    "verb": "substitute"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

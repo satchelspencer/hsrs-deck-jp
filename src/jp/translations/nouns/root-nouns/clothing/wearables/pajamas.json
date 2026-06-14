@@ -1,0 +1,15 @@
+{
+  "_id": "xghptmho1st",
+  "desc": "pajamas, sleepwear",
+  "name": "pajamas",
+  "order": "4",
+  "parents": [
+    "wearables",
+    "mai-countable"
+  ],
+  "props": {
+    "en": "pajamas",
+    "jp": "パジャマ",
+    "tl": "ぱじゃま"
+  }
+}

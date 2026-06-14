@@ -1,0 +1,13 @@
+{
+  "_id": "bs8nag2cy2u",
+  "name": "cold-touch-watermelon",
+  "params": {
+    "iadj": "cold-touch",
+    "noun": "watermelon"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

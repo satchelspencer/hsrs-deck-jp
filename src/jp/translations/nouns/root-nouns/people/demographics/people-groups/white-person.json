@@ -1,0 +1,14 @@
+{
+  "_id": "55avjzpxy5t",
+  "desc": "white person",
+  "name": "white-person",
+  "order": "3",
+  "parents": [
+    "people-groups"
+  ],
+  "props": {
+    "en": "white person",
+    "jp": "白人",
+    "tl": "はくじん"
+  }
+}

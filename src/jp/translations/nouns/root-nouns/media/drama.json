@@ -1,0 +1,14 @@
+{
+  "_id": "vx1pagp8nq6",
+  "desc": "TV drama, television series",
+  "name": "drama",
+  "order": "2",
+  "parents": [
+    "media"
+  ],
+  "props": {
+    "en": "drama",
+    "jp": "ドラマ",
+    "tl": "どらま"
+  }
+}

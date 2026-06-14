@@ -1,0 +1,14 @@
+{
+  "_id": "kyy9a4v940d",
+  "desc": "切れる means expire in this context",
+  "name": "travel-documents-be-sharp",
+  "params": {
+    "noun": "travel-documents",
+    "verb": "be-sharp"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

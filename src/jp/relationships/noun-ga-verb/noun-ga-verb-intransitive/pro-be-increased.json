@@ -1,0 +1,13 @@
+{
+  "_id": "mf4xqj0ahl8",
+  "name": "pro-be-increased",
+  "params": {
+    "noun": "pro",
+    "verb": "be-increased"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

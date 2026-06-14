@@ -1,0 +1,16 @@
+{
+  "_id": "g6sm5exyd70",
+  "desc": "ミルク is a loanword alternate of 牛乳 (milk)",
+  "name": "milk-katakana",
+  "order": "2",
+  "parents": [
+    "alternates",
+    "drinks",
+    "raws"
+  ],
+  "props": {
+    "en": "milk",
+    "jp": "ミルク",
+    "tl": "みるく"
+  }
+}

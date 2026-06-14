@@ -1,0 +1,13 @@
+{
+  "_id": "8qzjnx34uyt",
+  "name": "vinyl-cut",
+  "params": {
+    "noun": "vinyl",
+    "verb": "cut"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

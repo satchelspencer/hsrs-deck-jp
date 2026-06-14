@@ -1,0 +1,13 @@
+{
+  "_id": "vhynh3h1uqh",
+  "name": "tournament-special",
+  "params": {
+    "na": "special",
+    "noun": "tournament"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

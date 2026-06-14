@@ -1,0 +1,13 @@
+{
+  "_id": "emthv63df7m",
+  "name": "write-with-ink",
+  "params": {
+    "noun": "ink",
+    "verb": "write"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

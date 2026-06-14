@@ -1,0 +1,13 @@
+{
+  "_id": "l22u0jmpzat",
+  "name": "fusuma-pull",
+  "params": {
+    "noun": "fusuma",
+    "verb": "pull"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

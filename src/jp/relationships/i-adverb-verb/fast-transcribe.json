@@ -1,0 +1,13 @@
+{
+  "_id": "3h3vv0trmd8",
+  "name": "fast-transcribe",
+  "params": {
+    "iadj": "fast",
+    "verb": "transcribe"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

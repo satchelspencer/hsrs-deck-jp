@@ -1,0 +1,13 @@
+{
+  "_id": "kku8i3hk9jh",
+  "name": "hardship-end",
+  "params": {
+    "noun": "hardship",
+    "verb": "end"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

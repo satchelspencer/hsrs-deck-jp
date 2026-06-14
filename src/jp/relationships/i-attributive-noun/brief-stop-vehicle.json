@@ -1,0 +1,13 @@
+{
+  "_id": "vkaiuav19ad",
+  "name": "brief-stop-vehicle",
+  "params": {
+    "iadj": "brief",
+    "noun": "stop-vehicle"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

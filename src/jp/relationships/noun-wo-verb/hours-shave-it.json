@@ -1,0 +1,14 @@
+{
+  "_id": "3f17gspzrgv",
+  "desc": "削る means cut down/reduce in this context",
+  "name": "hours-shave-it",
+  "params": {
+    "noun": "hours",
+    "verb": "shave-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

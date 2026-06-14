@@ -1,0 +1,13 @@
+{
+  "_id": "674nbycu14a",
+  "name": "tooth-shave-it",
+  "params": {
+    "noun": "tooth",
+    "verb": "shave-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

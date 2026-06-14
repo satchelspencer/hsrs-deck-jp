@@ -1,0 +1,14 @@
+{
+  "_id": "nhctf0g8ub9",
+  "desc": "下ろす is withdraw (money from ATM/bank) in this context",
+  "name": "money-take-down",
+  "params": {
+    "noun": "money",
+    "verb": "take-down"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

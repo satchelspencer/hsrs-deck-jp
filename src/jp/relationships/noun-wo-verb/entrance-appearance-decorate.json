@@ -1,0 +1,14 @@
+{
+  "_id": "qginfw2bgfd",
+  "desc": "飾る here means to grace/adorn — 登場を飾る means to make a memorable/splendid appearance",
+  "name": "entrance-appearance-decorate",
+  "params": {
+    "noun": "entrance-appearance",
+    "verb": "decorate"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

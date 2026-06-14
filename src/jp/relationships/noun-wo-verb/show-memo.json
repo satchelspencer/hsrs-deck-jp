@@ -1,0 +1,13 @@
+{
+  "_id": "4lez1bq7wur",
+  "name": "show-memo",
+  "params": {
+    "noun": "memo",
+    "verb": "show"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

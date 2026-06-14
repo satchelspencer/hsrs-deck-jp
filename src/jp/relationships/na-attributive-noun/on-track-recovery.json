@@ -1,0 +1,13 @@
+{
+  "_id": "p4pi5v2at88",
+  "name": "on-track-recovery",
+  "params": {
+    "na": "on-track",
+    "noun": "recovery"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

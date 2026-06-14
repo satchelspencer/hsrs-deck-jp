@@ -1,0 +1,13 @@
+{
+  "_id": "4z56ckivpq1",
+  "name": "incidentless-finalize",
+  "params": {
+    "na": "incidentless",
+    "verb": "finalization"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

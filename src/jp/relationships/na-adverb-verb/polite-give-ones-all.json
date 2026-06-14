@@ -1,0 +1,13 @@
+{
+  "_id": "at600o1pika",
+  "name": "polite-give-ones-all",
+  "params": {
+    "na": "polite-na",
+    "verb": "give-ones-all"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

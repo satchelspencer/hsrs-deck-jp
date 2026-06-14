@@ -1,0 +1,13 @@
+{
+  "_id": "vbyxlquhksw",
+  "name": "patrol-car-pass",
+  "params": {
+    "noun": "patrol-car",
+    "verb": "pass"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

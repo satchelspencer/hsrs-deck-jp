@@ -1,0 +1,13 @@
+{
+  "_id": "bxdbxfpofeh",
+  "name": "status-surveil",
+  "params": {
+    "noun": "status",
+    "verb": "surveillance"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

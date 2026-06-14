@@ -1,0 +1,13 @@
+{
+  "_id": "9i8an6nxi21",
+  "name": "appropriate-substitute",
+  "params": {
+    "na": "appropriate",
+    "verb": "substitute"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

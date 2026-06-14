@@ -1,0 +1,13 @@
+{
+  "_id": "cx3xjghasfx",
+  "name": "signature-show",
+  "params": {
+    "noun": "signature",
+    "verb": "show"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

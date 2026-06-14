@@ -1,0 +1,13 @@
+{
+  "_id": "zd1vz4ihswi",
+  "name": "lighter-turn-off",
+  "params": {
+    "noun": "lighter",
+    "verb": "turn-off"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

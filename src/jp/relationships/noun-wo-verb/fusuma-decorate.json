@@ -1,0 +1,13 @@
+{
+  "_id": "jvor3djzgcf",
+  "name": "fusuma-decorate",
+  "params": {
+    "noun": "fusuma",
+    "verb": "decorate"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

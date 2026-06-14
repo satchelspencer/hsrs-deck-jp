@@ -1,0 +1,13 @@
+{
+  "_id": "kwbzwhks77w",
+  "name": "travel-documents-copy-noun",
+  "params": {
+    "noun": "copy",
+    "owner": "travel-documents"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

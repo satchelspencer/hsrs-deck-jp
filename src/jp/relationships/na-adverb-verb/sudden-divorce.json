@@ -1,0 +1,13 @@
+{
+  "_id": "bm8fvb1uciy",
+  "name": "sudden-divorce",
+  "params": {
+    "na": "sudden",
+    "verb": "divorce"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

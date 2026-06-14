@@ -1,0 +1,13 @@
+{
+  "_id": "y00h5uk1zbb",
+  "name": "chill-cold-touch",
+  "params": {
+    "iadj": "cold-touch",
+    "verb": "chill"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

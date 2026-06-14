@@ -1,0 +1,13 @@
+{
+  "_id": "9aich8oxt7t",
+  "name": "serious-transport-expense",
+  "params": {
+    "na": "serious",
+    "noun": "transport-expense"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

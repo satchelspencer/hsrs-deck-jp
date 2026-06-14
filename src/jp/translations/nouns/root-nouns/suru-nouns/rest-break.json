@@ -1,0 +1,21 @@
+{
+  "_id": "7xf7ske9w7x",
+  "desc": "rest, break, recess",
+  "name": "rest-break",
+  "order": "3",
+  "parents": [
+    "suru-nouns",
+    "people-do-volitional",
+    "te-iru-verbs-continuous",
+    "de-location-verbs",
+    "come-go-reasons",
+    "events"
+  ],
+  "props": {
+    "_pg": "resting",
+    "_v": "take a break",
+    "en": "a rest",
+    "jp": "休憩",
+    "tl": "きゅうけい"
+  }
+}

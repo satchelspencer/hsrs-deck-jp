@@ -1,0 +1,13 @@
+{
+  "_id": "qc0pej6qvzq",
+  "name": "stewardess-laugh",
+  "params": {
+    "noun": "stewardess",
+    "verb": "laugh"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

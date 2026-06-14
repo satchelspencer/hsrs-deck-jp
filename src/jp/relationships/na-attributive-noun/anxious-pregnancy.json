@@ -1,0 +1,13 @@
+{
+  "_id": "8drugzq6cwg",
+  "name": "anxious-pregnancy",
+  "params": {
+    "na": "anxious",
+    "noun": "pregnancy"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

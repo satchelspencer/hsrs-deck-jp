@@ -1,0 +1,13 @@
+{
+  "_id": "9w3pj7riokh",
+  "name": "numerous-transfer",
+  "params": {
+    "iadj": "numerous",
+    "noun": "transfer"
+  },
+  "parents": [
+    "i-predicate-noun"
+  ],
+  "props": {
+  }
+}

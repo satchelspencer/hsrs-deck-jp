@@ -1,0 +1,13 @@
+{
+  "_id": "ta9ial94ltg",
+  "name": "rare-murder",
+  "params": {
+    "iadj": "rare",
+    "noun": "murder"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

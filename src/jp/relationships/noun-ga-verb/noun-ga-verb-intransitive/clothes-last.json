@@ -1,0 +1,13 @@
+{
+  "_id": "ql2pgk9u97j",
+  "name": "clothes-last",
+  "params": {
+    "noun": "clothes",
+    "verb": "last"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "x9t2l63453d",
+  "name": "job-give-ones-all",
+  "params": {
+    "noun": "job",
+    "verb": "give-ones-all"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

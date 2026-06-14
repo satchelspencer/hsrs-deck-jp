@@ -1,0 +1,13 @@
+{
+  "_id": "291lzt9adco",
+  "name": "departure-plan",
+  "params": {
+    "noun": "plan",
+    "owner": "departure"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

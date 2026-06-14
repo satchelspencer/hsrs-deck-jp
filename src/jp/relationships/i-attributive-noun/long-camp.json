@@ -1,0 +1,13 @@
+{
+  "_id": "mpiw0967npt",
+  "name": "long-camp",
+  "params": {
+    "iadj": "long",
+    "noun": "camp"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

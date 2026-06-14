@@ -1,0 +1,13 @@
+{
+  "_id": "788nrq0et5u",
+  "name": "color-katakana-change",
+  "params": {
+    "noun": "color-katakana",
+    "verb": "change"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "mkfxjqvro9v",
+  "name": "gender-be-different",
+  "params": {
+    "noun": "gender",
+    "verb": "be-different"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

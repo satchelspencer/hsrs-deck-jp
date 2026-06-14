@@ -1,0 +1,14 @@
+{
+  "_id": "frwy17ebjus",
+  "desc": "pop music (genre)",
+  "name": "pop-music",
+  "order": "3",
+  "parents": [
+    "music-genres"
+  ],
+  "props": {
+    "en": "pop music",
+    "jp": "ポップ",
+    "tl": "ぽっぷ"
+  }
+}

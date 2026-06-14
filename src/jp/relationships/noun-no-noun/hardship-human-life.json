@@ -1,0 +1,13 @@
+{
+  "_id": "gx1b1nqcwve",
+  "name": "hardship-human-life",
+  "params": {
+    "noun": "hardship",
+    "owner": "human-life"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

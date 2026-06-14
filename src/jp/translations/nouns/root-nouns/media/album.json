@@ -1,0 +1,16 @@
+{
+  "_id": "mopohdhggy4",
+  "desc": "music album, photo album",
+  "name": "album",
+  "order": "3",
+  "parents": [
+    "media",
+    "products",
+    "audibles"
+  ],
+  "props": {
+    "en": "album",
+    "jp": "アルバム",
+    "tl": "あるばむ"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "h6vee895h19",
+  "name": "announcement-end",
+  "params": {
+    "noun": "announcement",
+    "verb": "end"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

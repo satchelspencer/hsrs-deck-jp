@@ -1,0 +1,13 @@
+{
+  "_id": "e97v7j15f0y",
+  "name": "fusuma-special",
+  "params": {
+    "na": "special",
+    "noun": "fusuma"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

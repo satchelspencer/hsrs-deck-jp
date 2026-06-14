@@ -1,0 +1,13 @@
+{
+  "_id": "xi1mxexlv6f",
+  "name": "special-christmas",
+  "params": {
+    "na": "special",
+    "noun": "christmas"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

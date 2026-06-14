@@ -1,0 +1,13 @@
+{
+  "_id": "4nz0db7sszk",
+  "name": "necklace-polish",
+  "params": {
+    "noun": "necklace",
+    "verb": "polish"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

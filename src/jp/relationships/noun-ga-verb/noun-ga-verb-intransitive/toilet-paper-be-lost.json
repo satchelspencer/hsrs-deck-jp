@@ -1,0 +1,13 @@
+{
+  "_id": "8u2png0hpba",
+  "name": "toilet-paper-be-lost",
+  "params": {
+    "noun": "toilet-paper",
+    "verb": "be-lost"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

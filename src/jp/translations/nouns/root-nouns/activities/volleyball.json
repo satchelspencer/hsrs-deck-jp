@@ -1,0 +1,15 @@
+{
+  "_id": "5cza7niwwin",
+  "name": "volleyball",
+  "order": "3",
+  "parents": [
+    "activities",
+    "shiai-countable",
+    "sports"
+  ],
+  "props": {
+    "en": "volleyball",
+    "jp": "バレーボール",
+    "tl": "ばれーぼーる"
+  }
+}

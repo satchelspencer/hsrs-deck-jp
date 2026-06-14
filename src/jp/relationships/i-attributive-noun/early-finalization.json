@@ -1,0 +1,13 @@
+{
+  "_id": "dcos0cegse3",
+  "name": "early-finalization",
+  "params": {
+    "iadj": "early",
+    "noun": "finalization"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

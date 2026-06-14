@@ -1,0 +1,13 @@
+{
+  "_id": "qm3madj22sq",
+  "name": "soft-tomato",
+  "params": {
+    "iadj": "soft",
+    "noun": "tomato"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "jpw9lup9z05",
+  "name": "lively-toast",
+  "params": {
+    "na": "lively",
+    "verb": "toast"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

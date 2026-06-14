@@ -1,0 +1,13 @@
+{
+  "_id": "t3lhx088dfz",
+  "name": "pro-aim-for",
+  "params": {
+    "noun": "pro",
+    "verb": "aim-for"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

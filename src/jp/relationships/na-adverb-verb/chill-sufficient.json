@@ -1,0 +1,13 @@
+{
+  "_id": "nzxo6b4f9j8",
+  "name": "chill-sufficient",
+  "params": {
+    "na": "sufficient",
+    "verb": "chill"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

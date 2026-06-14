@@ -1,0 +1,13 @@
+{
+  "_id": "8cubbh25kym",
+  "name": "thin-weak-drinks",
+  "params": {
+    "iadj": "thin-weak",
+    "noun": "drinks"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

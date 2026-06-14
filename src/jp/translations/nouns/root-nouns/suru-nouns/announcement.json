@@ -1,0 +1,21 @@
+{
+  "_id": "j2xyqcxem3n",
+  "desc": "presentation, announcement, publication, release",
+  "name": "announcement",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "informations",
+    "people-do-volitional",
+    "te-iru-verbs-continuous",
+    "de-location-verbs",
+    "come-go-reasons"
+  ],
+  "props": {
+    "_pg": "announcing",
+    "_v": "announce",
+    "en": "announcement",
+    "jp": "発表",
+    "tl": "はっぴょう"
+  }
+}

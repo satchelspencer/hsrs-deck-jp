@@ -1,0 +1,13 @@
+{
+  "_id": "kqq99u35prz",
+  "name": "strong-squad",
+  "params": {
+    "iadj": "strong",
+    "noun": "squad"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

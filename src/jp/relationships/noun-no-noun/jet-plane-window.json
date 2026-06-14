@@ -1,0 +1,13 @@
+{
+  "_id": "q10ecz9m23h",
+  "name": "jet-plane-window",
+  "params": {
+    "noun": "window",
+    "owner": "jet-plane"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

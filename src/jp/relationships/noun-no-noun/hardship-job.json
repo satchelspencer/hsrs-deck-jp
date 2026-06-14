@@ -1,0 +1,13 @@
+{
+  "_id": "mtg33vv069t",
+  "name": "hardship-job",
+  "params": {
+    "noun": "hardship",
+    "owner": "job"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

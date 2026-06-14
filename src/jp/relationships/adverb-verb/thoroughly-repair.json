@@ -1,0 +1,13 @@
+{
+  "_id": "lvv7nftmm9j",
+  "name": "thoroughly-repair",
+  "params": {
+    "adv": "thoroughly",
+    "verb": "repair"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

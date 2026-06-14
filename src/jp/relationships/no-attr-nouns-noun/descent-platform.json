@@ -1,0 +1,13 @@
+{
+  "_id": "7d59tt4ccij",
+  "name": "descent-platform",
+  "params": {
+    "no": "descent",
+    "noun": "platform"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

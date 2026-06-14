@@ -1,0 +1,13 @@
+{
+  "_id": "du725az3mku",
+  "name": "hardship-be-defeated",
+  "params": {
+    "noun": "hardship",
+    "verb": "be-defeated"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

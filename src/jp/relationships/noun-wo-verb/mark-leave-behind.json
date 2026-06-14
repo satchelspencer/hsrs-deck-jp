@@ -1,0 +1,13 @@
+{
+  "_id": "o7z5md1zxbg",
+  "name": "mark-leave-behind",
+  "params": {
+    "noun": "mark",
+    "verb": "leave-behind"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

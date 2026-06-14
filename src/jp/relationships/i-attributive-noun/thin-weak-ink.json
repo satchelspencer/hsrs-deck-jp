@@ -1,0 +1,13 @@
+{
+  "_id": "4ave4u4v3ry",
+  "name": "thin-weak-ink",
+  "params": {
+    "iadj": "thin-weak",
+    "noun": "ink"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "kxlscy27peh",
+  "name": "cooking-ingredients",
+  "params": {
+    "noun": "ingredients",
+    "owner": "cooking"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

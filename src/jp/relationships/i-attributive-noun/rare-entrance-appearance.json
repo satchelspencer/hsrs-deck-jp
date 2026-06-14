@@ -1,0 +1,13 @@
+{
+  "_id": "ppa126s3st8",
+  "name": "rare-entrance-appearance",
+  "params": {
+    "iadj": "rare",
+    "noun": "entrance-appearance"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

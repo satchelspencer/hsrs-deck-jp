@@ -1,0 +1,13 @@
+{
+  "_id": "fvb02e1d0c5",
+  "name": "new-announcement",
+  "params": {
+    "iadj": "new",
+    "noun": "announcement"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

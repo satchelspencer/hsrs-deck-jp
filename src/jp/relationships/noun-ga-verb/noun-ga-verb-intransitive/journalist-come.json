@@ -1,0 +1,13 @@
+{
+  "_id": "7s5xca4rwrg",
+  "name": "journalist-come",
+  "params": {
+    "noun": "journalist",
+    "verb": "come"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

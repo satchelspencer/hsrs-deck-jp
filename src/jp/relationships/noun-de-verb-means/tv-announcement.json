@@ -1,0 +1,13 @@
+{
+  "_id": "x38x644jj9s",
+  "name": "tv-announcement",
+  "params": {
+    "noun": "tv",
+    "verb": "announcement"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "h6herje7gbg",
+  "name": "sweet-orange",
+  "params": {
+    "iadj": "sweet",
+    "noun": "orange"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

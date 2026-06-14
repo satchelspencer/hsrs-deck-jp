@@ -1,0 +1,13 @@
+{
+  "_id": "z5sphz4a1vo",
+  "name": "remains-fall-over",
+  "params": {
+    "noun": "remains",
+    "verb": "fall-over"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

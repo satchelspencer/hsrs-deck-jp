@@ -1,0 +1,13 @@
+{
+  "_id": "4dn892nv0xj",
+  "name": "famous-wine",
+  "params": {
+    "na": "famous",
+    "noun": "wine"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

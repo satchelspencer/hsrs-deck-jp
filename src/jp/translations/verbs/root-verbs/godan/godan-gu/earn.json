@@ -1,0 +1,18 @@
+{
+  "_id": "wqshe4a975r",
+  "desc": "make money, earn a living",
+  "name": "earn",
+  "order": "4",
+  "parents": [
+    "godan-gu",
+    "people-do-volitional",
+    "te-iru-verbs-continuous",
+    "de-location-verbs"
+  ],
+  "props": {
+    "_pg": "earning it",
+    "en": "earn it",
+    "jp": "稼ぐ",
+    "tl": "かせぐ"
+  }
+}

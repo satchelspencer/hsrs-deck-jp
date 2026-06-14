@@ -1,0 +1,13 @@
+{
+  "_id": "sphkjaes9u7",
+  "name": "special-patrol-car",
+  "params": {
+    "na": "special",
+    "noun": "patrol-car"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

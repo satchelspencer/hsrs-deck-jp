@@ -1,0 +1,13 @@
+{
+  "_id": "k8u2y3fbhs0",
+  "name": "signal-protect",
+  "params": {
+    "noun": "traffic-signal",
+    "verb": "protect"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

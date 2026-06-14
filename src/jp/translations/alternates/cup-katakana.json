@@ -1,0 +1,16 @@
+{
+  "_id": "3td9hskmhw8",
+  "desc": "コップ is a loanword alternate of カップ (cup/glass)",
+  "name": "cup-katakana",
+  "order": "3",
+  "parents": [
+    "alternates",
+    "containers",
+    "ko-countable"
+  ],
+  "props": {
+    "en": "cup",
+    "jp": "コップ",
+    "tl": "こっぷ"
+  }
+}

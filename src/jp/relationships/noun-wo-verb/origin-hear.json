@@ -1,0 +1,13 @@
+{
+  "_id": "ijttp6eie0d",
+  "name": "origin-hear",
+  "params": {
+    "noun": "origins",
+    "verb": "hear"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

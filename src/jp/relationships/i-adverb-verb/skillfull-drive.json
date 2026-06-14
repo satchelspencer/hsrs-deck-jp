@@ -1,0 +1,13 @@
+{
+  "_id": "9p73sorvuy2",
+  "name": "skillfull-drive",
+  "params": {
+    "iadj": "skillfull",
+    "verb": "driving"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

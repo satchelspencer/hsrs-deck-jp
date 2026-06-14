@@ -1,0 +1,13 @@
+{
+  "_id": "wq7b0gp4jqi",
+  "name": "signature-forget",
+  "params": {
+    "noun": "signature",
+    "verb": "forget"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

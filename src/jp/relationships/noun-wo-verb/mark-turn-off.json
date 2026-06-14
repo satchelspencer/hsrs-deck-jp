@@ -1,0 +1,13 @@
+{
+  "_id": "lkrt18osvhr",
+  "name": "mark-turn-off",
+  "params": {
+    "noun": "mark",
+    "verb": "turn-off"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

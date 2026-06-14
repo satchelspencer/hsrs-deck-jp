@@ -1,0 +1,13 @@
+{
+  "_id": "vyhgatbc1ve",
+  "name": "long-rest-break",
+  "params": {
+    "iadj": "long",
+    "noun": "rest-break"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

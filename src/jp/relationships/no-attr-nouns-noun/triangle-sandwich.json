@@ -1,0 +1,13 @@
+{
+  "_id": "lk17nykapm8",
+  "name": "triangle-sandwich",
+  "params": {
+    "no": "triangle",
+    "noun": "sandwich"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

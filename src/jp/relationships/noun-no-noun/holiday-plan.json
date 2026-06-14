@@ -1,0 +1,13 @@
+{
+  "_id": "b77qyu3k2uw",
+  "name": "holiday-plan",
+  "params": {
+    "noun": "plan",
+    "owner": "holiday"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "2w3v8cbcewx",
+  "name": "role-organizations",
+  "params": {
+    "noun": "role",
+    "owner": "organizations"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "_id": "4tar8vyimij",
+  "desc": "to crack, to break, to smash, to split (by force)",
+  "name": "crack-it",
+  "order": "4",
+  "parents": [
+    "godan-ru",
+    "people-do-volitional"
+  ],
+  "props": {
+    "en": "crack it",
+    "jp": "割る",
+    "tl": "わる"
+  }
+}

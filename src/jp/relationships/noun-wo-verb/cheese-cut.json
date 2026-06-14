@@ -1,0 +1,13 @@
+{
+  "_id": "lid6mml6mqg",
+  "name": "cheese-cut",
+  "params": {
+    "noun": "cheese",
+    "verb": "cut"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

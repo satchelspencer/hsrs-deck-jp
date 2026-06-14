@@ -1,0 +1,13 @@
+{
+  "_id": "7owkzq86tzv",
+  "name": "my-wife-pregnancy",
+  "params": {
+    "noun": "my-wife",
+    "verb": "pregnancy"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

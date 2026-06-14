@@ -1,0 +1,13 @@
+{
+  "_id": "5vddbtkauwy",
+  "name": "triangle-shape",
+  "params": {
+    "noun": "shape",
+    "owner": "triangle"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

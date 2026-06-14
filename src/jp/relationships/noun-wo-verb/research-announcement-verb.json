@@ -1,0 +1,13 @@
+{
+  "_id": "j18k82csbdr",
+  "name": "research-announcement-verb",
+  "params": {
+    "noun": "research",
+    "verb": "announcement"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

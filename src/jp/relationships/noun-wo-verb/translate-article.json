@@ -1,0 +1,13 @@
+{
+  "_id": "mo2ix9dg2ol",
+  "name": "translate-article",
+  "params": {
+    "noun": "article",
+    "verb": "translation"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

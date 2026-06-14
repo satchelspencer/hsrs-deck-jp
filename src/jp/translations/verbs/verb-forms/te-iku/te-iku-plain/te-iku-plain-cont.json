@@ -1,0 +1,14 @@
+{
+  "_id": "at5n3pbdy08",
+  "name": "te-iku-plain-cont",
+  "params": {
+    "verb": "te-iru-verbs-continuous"
+  },
+  "parents": [
+    "te-iku-plain"
+  ],
+  "props": {
+    "en": "'keep '+verb._pg",
+    "jp": "te.jp+'いく'"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "efoq581jh0f",
+  "name": "long-banana",
+  "params": {
+    "iadj": "long",
+    "noun": "banana"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "ufr59b0x1uv",
+  "name": "vinyl-bag",
+  "params": {
+    "no": "vinyl",
+    "noun": "sack"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

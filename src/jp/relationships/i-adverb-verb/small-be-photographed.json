@@ -1,0 +1,13 @@
+{
+  "_id": "sdhme49anb0",
+  "name": "small-be-photographed",
+  "params": {
+    "iadj": "small",
+    "verb": "be-photographed"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

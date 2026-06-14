@@ -1,0 +1,13 @@
+{
+  "_id": "nj8w377zax1",
+  "name": "travel-documents-show",
+  "params": {
+    "noun": "travel-documents",
+    "verb": "show"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

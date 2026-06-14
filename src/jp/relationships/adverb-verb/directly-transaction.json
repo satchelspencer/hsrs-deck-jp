@@ -1,0 +1,13 @@
+{
+  "_id": "5xc34tje6zl",
+  "name": "directly-transaction",
+  "params": {
+    "adv": "directly",
+    "verb": "transaction"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

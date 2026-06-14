@@ -1,0 +1,13 @@
+{
+  "_id": "pj3iut1jjga",
+  "name": "photo-be-photographed",
+  "params": {
+    "noun": "photo",
+    "verb": "be-photographed"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

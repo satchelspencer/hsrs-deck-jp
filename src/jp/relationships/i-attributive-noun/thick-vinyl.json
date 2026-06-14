@@ -1,0 +1,13 @@
+{
+  "_id": "y03af8vk5gn",
+  "name": "thick-vinyl",
+  "params": {
+    "iadj": "thick",
+    "noun": "vinyl"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

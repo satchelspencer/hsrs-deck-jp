@@ -1,0 +1,13 @@
+{
+  "_id": "f4scvnjeic1",
+  "name": "taxi-drive",
+  "params": {
+    "noun": "taxi",
+    "verb": "driving"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

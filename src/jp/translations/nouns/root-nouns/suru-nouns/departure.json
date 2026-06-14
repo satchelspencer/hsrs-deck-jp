@@ -1,0 +1,20 @@
+{
+  "_id": "lu71ot64bw5",
+  "desc": "departure, setting off, leaving",
+  "name": "departure",
+  "order": "3",
+  "parents": [
+    "suru-nouns",
+    "te-iru-verbs-state",
+    "people-do-volitional",
+    "do-togethers",
+    "come-go-reasons"
+  ],
+  "props": {
+    "_st": "departed",
+    "_v": "depart",
+    "en": "departure",
+    "jp": "出発",
+    "tl": "しゅっぱつ"
+  }
+}

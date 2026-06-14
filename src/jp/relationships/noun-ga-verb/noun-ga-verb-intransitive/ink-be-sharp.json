@@ -1,0 +1,14 @@
+{
+  "_id": "deu3ylm8py6",
+  "desc": "切れる means to run out in this context",
+  "name": "ink-be-sharp",
+  "params": {
+    "noun": "ink",
+    "verb": "be-sharp"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

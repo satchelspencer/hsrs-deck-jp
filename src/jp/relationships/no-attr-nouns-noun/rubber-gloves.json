@@ -1,0 +1,13 @@
+{
+  "_id": "8auhd4eswou",
+  "name": "rubber-gloves",
+  "params": {
+    "no": "rubber",
+    "noun": "glove"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

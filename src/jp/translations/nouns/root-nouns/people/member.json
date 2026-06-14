@@ -1,0 +1,13 @@
+{
+  "_id": "4yr4sv7v3p5",
+  "name": "member",
+  "order": "4",
+  "parents": [
+    "people"
+  ],
+  "props": {
+    "en": "member",
+    "jp": "メンバー",
+    "tl": "めんばー"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "9kipkuc7z9p",
+  "name": "sound-musical-instruments",
+  "params": {
+    "noun": "sound",
+    "owner": "musical-instruments"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

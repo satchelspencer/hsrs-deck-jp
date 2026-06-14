@@ -1,0 +1,13 @@
+{
+  "_id": "tmjx3mg6kep",
+  "name": "pro-experience",
+  "params": {
+    "noun": "experience",
+    "owner": "pro"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

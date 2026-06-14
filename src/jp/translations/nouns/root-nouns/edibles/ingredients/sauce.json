@@ -1,0 +1,14 @@
+{
+  "_id": "2hrk3zuemtg",
+  "desc": "sauce, dressing, condiment",
+  "name": "sauce",
+  "order": "2",
+  "parents": [
+    "ingredients"
+  ],
+  "props": {
+    "en": "sauce",
+    "jp": "ソース",
+    "tl": "そーす"
+  }
+}

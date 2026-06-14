@@ -1,0 +1,13 @@
+{
+  "_id": "d20sry1bwcx",
+  "name": "village-origin",
+  "params": {
+    "noun": "origins",
+    "owner": "village"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

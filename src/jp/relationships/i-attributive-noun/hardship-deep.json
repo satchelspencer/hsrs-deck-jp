@@ -1,0 +1,13 @@
+{
+  "_id": "u76f9eapunt",
+  "name": "hardship-deep",
+  "params": {
+    "iadj": "deep",
+    "noun": "hardship"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "u4ptiqe9vco",
+  "name": "needed-ac-unit",
+  "params": {
+    "na": "needed",
+    "noun": "ac-unit"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

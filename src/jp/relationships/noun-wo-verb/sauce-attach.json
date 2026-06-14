@@ -1,0 +1,14 @@
+{
+  "_id": "8qusvivnr5j",
+  "desc": "つける is to dip/apply in this context",
+  "name": "sauce-attach",
+  "params": {
+    "noun": "sauce",
+    "verb": "attach"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

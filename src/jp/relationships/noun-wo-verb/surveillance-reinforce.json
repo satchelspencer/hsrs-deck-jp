@@ -1,0 +1,13 @@
+{
+  "_id": "tl32lcltie2",
+  "name": "surveillance-reinforce",
+  "params": {
+    "noun": "surveillance",
+    "verb": "reinforcement"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

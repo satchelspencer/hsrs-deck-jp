@@ -1,0 +1,13 @@
+{
+  "_id": "zfmfq3gf3cz",
+  "name": "arm-stab",
+  "params": {
+    "noun": "arm",
+    "verb": "stab"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "ho6pigueht5",
+  "name": "school-prohibition",
+  "params": {
+    "noun": "prohibition",
+    "owner": "school"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

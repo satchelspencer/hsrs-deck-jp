@@ -1,0 +1,14 @@
+{
+  "_id": "1xlnt9kydc4",
+  "name": "museum",
+  "order": "3",
+  "parents": [
+    "establishments",
+    "ken-buildings-countable"
+  ],
+  "props": {
+    "en": "museum",
+    "jp": "博物館",
+    "tl": "はくぶつかん"
+  }
+}

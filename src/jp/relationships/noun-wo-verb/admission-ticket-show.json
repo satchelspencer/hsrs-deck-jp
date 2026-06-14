@@ -1,0 +1,13 @@
+{
+  "_id": "2ac4s592ss8",
+  "name": "admission-ticket-show",
+  "params": {
+    "noun": "admission-ticket",
+    "verb": "show"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

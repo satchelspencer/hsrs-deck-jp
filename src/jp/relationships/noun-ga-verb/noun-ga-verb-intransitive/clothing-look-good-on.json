@@ -1,0 +1,13 @@
+{
+  "_id": "biyg5fxedjt",
+  "name": "clothing-look-good-on",
+  "params": {
+    "noun": "clothing",
+    "verb": "look-good-on"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

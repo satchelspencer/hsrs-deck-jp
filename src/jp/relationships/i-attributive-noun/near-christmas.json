@@ -1,0 +1,13 @@
+{
+  "_id": "e0vae1h5zdd",
+  "name": "near-christmas",
+  "params": {
+    "iadj": "near",
+    "noun": "christmas"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

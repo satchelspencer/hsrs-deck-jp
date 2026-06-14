@@ -1,0 +1,13 @@
+{
+  "_id": "nvo1t021vr3",
+  "name": "sound-ac-unit",
+  "params": {
+    "noun": "sound",
+    "owner": "ac-unit"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

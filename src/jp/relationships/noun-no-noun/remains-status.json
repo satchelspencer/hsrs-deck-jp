@@ -1,0 +1,13 @@
+{
+  "_id": "aqcvoavtlqx",
+  "name": "remains-status",
+  "params": {
+    "noun": "status",
+    "owner": "remains"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

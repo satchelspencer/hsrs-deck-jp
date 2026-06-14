@@ -1,0 +1,13 @@
+{
+  "_id": "apnxm7ravtj",
+  "name": "brain-memory",
+  "params": {
+    "noun": "memory",
+    "owner": "brain"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

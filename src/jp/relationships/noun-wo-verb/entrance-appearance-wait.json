@@ -1,0 +1,13 @@
+{
+  "_id": "wd9wcqiig52",
+  "name": "entrance-appearance-wait",
+  "params": {
+    "noun": "entrance-appearance",
+    "verb": "wait"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "itwudumtm73",
+  "name": "machines-be-moving",
+  "params": {
+    "noun": "machines",
+    "verb": "be-moving"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

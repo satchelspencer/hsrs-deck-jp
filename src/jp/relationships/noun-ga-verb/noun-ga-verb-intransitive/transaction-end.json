@@ -1,0 +1,13 @@
+{
+  "_id": "hmfjeei74ww",
+  "name": "transaction-end",
+  "params": {
+    "noun": "transaction",
+    "verb": "end"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

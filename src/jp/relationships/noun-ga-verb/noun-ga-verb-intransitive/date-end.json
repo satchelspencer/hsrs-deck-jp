@@ -1,0 +1,13 @@
+{
+  "_id": "4p2y8dyhjcj",
+  "name": "date-end",
+  "params": {
+    "noun": "date",
+    "verb": "end"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

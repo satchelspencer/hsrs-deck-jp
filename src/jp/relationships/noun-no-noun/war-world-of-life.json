@@ -1,0 +1,13 @@
+{
+  "_id": "dk2wsga14pn",
+  "name": "war-world-of-life",
+  "params": {
+    "noun": "world-of-life",
+    "owner": "war"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "jvwgmzbari2",
+  "name": "safety-transports",
+  "params": {
+    "na": "safety",
+    "noun": "transports"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

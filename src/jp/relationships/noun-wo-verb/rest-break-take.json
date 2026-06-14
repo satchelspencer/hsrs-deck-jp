@@ -1,0 +1,13 @@
+{
+  "_id": "nkzdlf0ey6z",
+  "name": "rest-break-take",
+  "params": {
+    "noun": "rest-break",
+    "verb": "take"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

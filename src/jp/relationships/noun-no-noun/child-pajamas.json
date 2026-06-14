@@ -1,0 +1,13 @@
+{
+  "_id": "425qjgkhaik",
+  "name": "child-pajamas",
+  "params": {
+    "noun": "pajamas",
+    "owner": "child"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "j2vawyjvcip",
+  "name": "announcement-objection",
+  "params": {
+    "noun": "announcement",
+    "verb": "objection"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

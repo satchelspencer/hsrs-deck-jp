@@ -1,0 +1,13 @@
+{
+  "_id": "o4zzrgm5si2",
+  "name": "cheese-put-in",
+  "params": {
+    "noun": "cheese",
+    "verb": "put-in"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

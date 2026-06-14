@@ -1,0 +1,13 @@
+{
+  "_id": "d8uv64z1ifi",
+  "name": "music-genres-sound",
+  "params": {
+    "noun": "sound",
+    "owner": "music-genres"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

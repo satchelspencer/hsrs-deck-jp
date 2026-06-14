@@ -1,0 +1,13 @@
+{
+  "_id": "ah3kewoixlh",
+  "name": "famous-media",
+  "params": {
+    "na": "famous",
+    "noun": "media"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

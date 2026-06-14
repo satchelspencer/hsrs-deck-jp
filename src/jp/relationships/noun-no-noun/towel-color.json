@@ -1,0 +1,13 @@
+{
+  "_id": "q3g0njaekc9",
+  "name": "towel-color",
+  "params": {
+    "noun": "color",
+    "owner": "towel"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "5st8br9ko5j",
+  "name": "lightweight-fabrics",
+  "params": {
+    "iadj": "lightweight",
+    "noun": "fabrics"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

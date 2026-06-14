@@ -1,0 +1,13 @@
+{
+  "_id": "ntkpplj1c65",
+  "name": "brain-work",
+  "params": {
+    "noun": "brain",
+    "verb": "work"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

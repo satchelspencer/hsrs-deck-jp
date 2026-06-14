@@ -1,0 +1,13 @@
+{
+  "_id": "r6mmhs9wz3u",
+  "name": "murder-prevent",
+  "params": {
+    "noun": "murder",
+    "verb": "prevent-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

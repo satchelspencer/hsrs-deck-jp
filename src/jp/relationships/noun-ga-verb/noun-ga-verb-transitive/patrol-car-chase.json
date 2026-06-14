@@ -1,0 +1,13 @@
+{
+  "_id": "n1878um37t6",
+  "name": "patrol-car-chase",
+  "params": {
+    "noun": "patrol-car",
+    "verb": "chase-it"
+  },
+  "parents": [
+    "noun-ga-verb-transitive"
+  ],
+  "props": {
+  }
+}

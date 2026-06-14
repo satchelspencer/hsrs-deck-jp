@@ -1,0 +1,13 @@
+{
+  "_id": "6yudtzlwh06",
+  "name": "bustling-toast",
+  "params": {
+    "na": "bustling",
+    "verb": "toast"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

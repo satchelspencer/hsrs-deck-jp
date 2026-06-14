@@ -1,0 +1,14 @@
+{
+  "_id": "62iqoercx9a",
+  "desc": "wine",
+  "name": "wine",
+  "order": "3",
+  "parents": [
+    "drinks"
+  ],
+  "props": {
+    "en": "wine",
+    "jp": "ワイン",
+    "tl": "わいん"
+  }
+}

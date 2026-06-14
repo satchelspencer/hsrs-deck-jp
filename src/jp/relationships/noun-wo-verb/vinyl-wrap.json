@@ -1,0 +1,13 @@
+{
+  "_id": "g664durtkin",
+  "name": "vinyl-wrap",
+  "params": {
+    "noun": "vinyl",
+    "verb": "wrap-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

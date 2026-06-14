@@ -1,0 +1,13 @@
+{
+  "_id": "4qbnno0alqs",
+  "name": "happy-a-win",
+  "params": {
+    "iadj": "happy",
+    "noun": "a-win"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

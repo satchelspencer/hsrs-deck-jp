@@ -1,0 +1,13 @@
+{
+  "_id": "52q5qmeybva",
+  "name": "habitual-repair",
+  "params": {
+    "no": "habitual",
+    "noun": "repair"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

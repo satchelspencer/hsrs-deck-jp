@@ -1,0 +1,13 @@
+{
+  "_id": "6hgepycubwj",
+  "name": "date-suddenly",
+  "params": {
+    "adv": "abruptly",
+    "verb": "date"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

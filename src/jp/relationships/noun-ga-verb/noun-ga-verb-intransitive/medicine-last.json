@@ -1,0 +1,13 @@
+{
+  "_id": "6h6q41cczur",
+  "name": "medicine-last",
+  "params": {
+    "noun": "medicine",
+    "verb": "last"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "_id": "x4iyrair3yo",
+  "desc": "smooth, going well, favorable, on track",
+  "name": "on-track",
+  "order": "4",
+  "parents": [
+    "na-attributive"
+  ],
+  "props": {
+    "_ad": "smoothly",
+    "en": "on-track",
+    "jp": "順調",
+    "tl": "じゅんちょう"
+  }
+}

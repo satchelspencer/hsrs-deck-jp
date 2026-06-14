@@ -1,0 +1,13 @@
+{
+  "_id": "rs4zfxyw65d",
+  "name": "tent-get-wet",
+  "params": {
+    "noun": "tent",
+    "verb": "get-wet"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "n8jufrnhcr9",
+  "name": "rare-people-groups",
+  "params": {
+    "iadj": "rare",
+    "noun": "people-groups"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

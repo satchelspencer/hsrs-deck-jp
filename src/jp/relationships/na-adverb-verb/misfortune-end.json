@@ -1,0 +1,13 @@
+{
+  "_id": "oa29sv71r8c",
+  "name": "misfortune-end",
+  "params": {
+    "na": "misfortune",
+    "verb": "end"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

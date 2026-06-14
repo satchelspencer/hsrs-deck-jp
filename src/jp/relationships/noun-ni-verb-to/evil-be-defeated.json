@@ -1,0 +1,13 @@
+{
+  "_id": "l1bg1muk7io",
+  "name": "evil-be-defeated",
+  "params": {
+    "noun": "evil",
+    "verb": "be-defeated"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

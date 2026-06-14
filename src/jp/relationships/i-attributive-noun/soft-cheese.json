@@ -1,0 +1,13 @@
+{
+  "_id": "ymtodegnsnv",
+  "name": "soft-cheese",
+  "params": {
+    "iadj": "soft",
+    "noun": "cheese"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

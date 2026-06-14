@@ -1,0 +1,13 @@
+{
+  "_id": "h0e9bdemijj",
+  "name": "friend-toast",
+  "params": {
+    "noun": "friend",
+    "verb": "toast"
+  },
+  "parents": [
+    "noun-to-verb-with"
+  ],
+  "props": {
+  }
+}

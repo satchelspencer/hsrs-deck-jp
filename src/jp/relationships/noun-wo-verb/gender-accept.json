@@ -1,0 +1,13 @@
+{
+  "_id": "x0ws93nm93v",
+  "name": "gender-accept",
+  "params": {
+    "noun": "gender",
+    "verb": "accept"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

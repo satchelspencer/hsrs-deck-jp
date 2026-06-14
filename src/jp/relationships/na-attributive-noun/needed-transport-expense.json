@@ -1,0 +1,13 @@
+{
+  "_id": "1ghwbdpq0mp",
+  "name": "needed-transport-expense",
+  "params": {
+    "na": "needed",
+    "noun": "transport-expense"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

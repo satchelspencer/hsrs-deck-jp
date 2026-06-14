@@ -1,0 +1,13 @@
+{
+  "_id": "ax1d6zzycm9",
+  "name": "vinyl-color",
+  "params": {
+    "noun": "color",
+    "owner": "vinyl"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

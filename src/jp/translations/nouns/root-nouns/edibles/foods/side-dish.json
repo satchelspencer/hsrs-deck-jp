@@ -1,0 +1,13 @@
+{
+  "_id": "x1df4w6pipe",
+  "desc": "side dish (savory accompaniment to rice)",
+  "name": "side-dish",
+  "order": "3",
+  "parents": [
+    "foods"
+  ],
+  "props": {
+    "en": "side dish",
+    "jp": "おかず"
+  }
+}

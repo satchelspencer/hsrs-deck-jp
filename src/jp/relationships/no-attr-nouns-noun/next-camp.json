@@ -1,0 +1,13 @@
+{
+  "_id": "vixqqeyrrun",
+  "name": "next-camp",
+  "params": {
+    "no": "next",
+    "noun": "camp"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

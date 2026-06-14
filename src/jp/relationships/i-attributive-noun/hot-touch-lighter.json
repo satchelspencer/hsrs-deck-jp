@@ -1,0 +1,13 @@
+{
+  "_id": "2g33icjfh4g",
+  "name": "hot-touch-lighter",
+  "params": {
+    "iadj": "hot-touch",
+    "noun": "lighter"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

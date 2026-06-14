@@ -1,0 +1,13 @@
+{
+  "_id": "calfowprzc7",
+  "name": "speciality-technique",
+  "params": {
+    "na": "speciality",
+    "noun": "technique"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "ub28w2zbjaz",
+  "desc": "代える means assign/appoint as substitute here",
+  "name": "role-ni-substitute",
+  "params": {
+    "noun": "role",
+    "verb": "substitute"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

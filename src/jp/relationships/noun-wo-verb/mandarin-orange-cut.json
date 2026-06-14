@@ -1,0 +1,13 @@
+{
+  "_id": "3xu1g0nu2ps",
+  "name": "mandarin-orange-cut",
+  "params": {
+    "noun": "mandarin-orange",
+    "verb": "cut"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

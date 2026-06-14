@@ -1,0 +1,13 @@
+{
+  "_id": "si5e6mimnab",
+  "name": "soundly-sleep",
+  "params": {
+    "adv": "soundly",
+    "verb": "sleep"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

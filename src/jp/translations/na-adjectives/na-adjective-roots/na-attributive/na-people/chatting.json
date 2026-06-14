@@ -1,0 +1,22 @@
+{
+  "_id": "9a71dl96fmg",
+  "desc": "talkative, chatty; chat, chatter",
+  "name": "chatting",
+  "order": "4",
+  "parents": [
+    "na-people",
+    "suru-nouns",
+    "people-do-volitional",
+    "na-people-do",
+    "te-iru-verbs-continuous",
+    "do-togethers",
+    "audibles"
+  ],
+  "props": {
+    "_at": "chatty",
+    "_pg": "chatting",
+    "_v": "chat",
+    "en": "chatting",
+    "jp": "おしゃべり"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "5fs84uxj17o",
+  "name": "surveillance-result",
+  "params": {
+    "noun": "result",
+    "owner": "surveillance"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "5s5mk7st41q",
+  "name": "animals-scratch",
+  "params": {
+    "noun": "animals",
+    "verb": "scratch"
+  },
+  "parents": [
+    "noun-ga-verb-transitive"
+  ],
+  "props": {
+  }
+}

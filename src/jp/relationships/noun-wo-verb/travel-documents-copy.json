@@ -1,0 +1,13 @@
+{
+  "_id": "cxomn3453yc",
+  "name": "travel-documents-copy",
+  "params": {
+    "noun": "travel-documents",
+    "verb": "copy"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

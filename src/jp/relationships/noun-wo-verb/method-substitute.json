@@ -1,0 +1,13 @@
+{
+  "_id": "34bhbpzos8h",
+  "name": "method-substitute",
+  "params": {
+    "noun": "method",
+    "verb": "substitute"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

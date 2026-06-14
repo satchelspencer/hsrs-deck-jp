@@ -1,0 +1,13 @@
+{
+  "_id": "4tnvs1w598v",
+  "name": "small-organizations",
+  "params": {
+    "iadj": "small",
+    "noun": "organizations"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

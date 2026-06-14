@@ -1,0 +1,13 @@
+{
+  "_id": "aayu3mj15t0",
+  "name": "channel-be-increased",
+  "params": {
+    "noun": "channel",
+    "verb": "be-increased"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

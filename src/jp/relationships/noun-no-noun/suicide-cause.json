@@ -1,0 +1,13 @@
+{
+  "_id": "wm2uq5b9lnt",
+  "name": "suicide-cause",
+  "params": {
+    "noun": "cause",
+    "owner": "suicide"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

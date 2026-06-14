@@ -1,0 +1,13 @@
+{
+  "_id": "9beogpiem7i",
+  "name": "misfortune-know",
+  "params": {
+    "noun": "misfortune",
+    "verb": "know"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "0xg94rtfv39",
+  "desc": "release one's grip",
+  "name": "hand-release",
+  "params": {
+    "noun": "hand",
+    "verb": "release"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

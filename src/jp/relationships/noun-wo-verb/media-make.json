@@ -1,0 +1,14 @@
+{
+  "_id": "3srj0iel7y6",
+  "desc": "作る is to make/produce in this context",
+  "name": "media-make",
+  "params": {
+    "noun": "media",
+    "verb": "make"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

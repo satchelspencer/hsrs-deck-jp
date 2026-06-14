@@ -1,0 +1,13 @@
+{
+  "_id": "gf1w0yyg90s",
+  "name": "device-rare",
+  "params": {
+    "iadj": "rare",
+    "noun": "device"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "gmvdfsefwyy",
+  "name": "makeup-end",
+  "params": {
+    "noun": "makeup",
+    "verb": "end"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

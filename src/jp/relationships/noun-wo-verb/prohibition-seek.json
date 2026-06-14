@@ -1,0 +1,13 @@
+{
+  "_id": "6jri5qcvnwk",
+  "name": "prohibition-seek",
+  "params": {
+    "noun": "prohibition",
+    "verb": "seek"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

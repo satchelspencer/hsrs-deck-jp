@@ -1,0 +1,13 @@
+{
+  "_id": "20iivh3ovqp",
+  "name": "bag-katakana-forget",
+  "params": {
+    "noun": "bag-katakana",
+    "verb": "forget"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

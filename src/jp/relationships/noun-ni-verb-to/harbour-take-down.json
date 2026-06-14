@@ -1,0 +1,14 @@
+{
+  "_id": "uoynoc84syk",
+  "desc": "下ろす is unload (cargo at harbour) in this context",
+  "name": "harbour-take-down",
+  "params": {
+    "noun": "harbour",
+    "verb": "take-down"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

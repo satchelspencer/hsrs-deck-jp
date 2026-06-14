@@ -1,0 +1,13 @@
+{
+  "_id": "kos7cl430vj",
+  "name": "complete-prohibition",
+  "params": {
+    "na": "complete",
+    "noun": "prohibition"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

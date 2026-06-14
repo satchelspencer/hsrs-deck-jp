@@ -1,0 +1,13 @@
+{
+  "_id": "s2jbfh978ma",
+  "name": "draw-with-ink",
+  "params": {
+    "noun": "ink",
+    "verb": "draw"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

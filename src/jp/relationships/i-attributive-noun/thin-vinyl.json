@@ -1,0 +1,13 @@
+{
+  "_id": "tr2jp3bw7l7",
+  "name": "thin-vinyl",
+  "params": {
+    "iadj": "thin-weak",
+    "noun": "vinyl"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

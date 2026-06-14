@@ -1,0 +1,13 @@
+{
+  "_id": "520uv7r3iea",
+  "name": "near-departure",
+  "params": {
+    "iadj": "near",
+    "noun": "departure"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

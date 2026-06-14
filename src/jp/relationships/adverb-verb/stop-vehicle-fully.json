@@ -1,0 +1,13 @@
+{
+  "_id": "xweipmvi4qu",
+  "name": "stop-vehicle-fully",
+  "params": {
+    "adv": "fully",
+    "verb": "stop-vehicle"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

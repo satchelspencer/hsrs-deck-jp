@@ -1,0 +1,13 @@
+{
+  "_id": "yw4bckndv7l",
+  "name": "announcement-wait",
+  "params": {
+    "noun": "announcement",
+    "verb": "wait"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

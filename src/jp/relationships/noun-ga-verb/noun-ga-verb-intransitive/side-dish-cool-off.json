@@ -1,0 +1,13 @@
+{
+  "_id": "qrsxvifkcy6",
+  "name": "side-dish-cool-off",
+  "params": {
+    "noun": "side-dish",
+    "verb": "cool-off"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

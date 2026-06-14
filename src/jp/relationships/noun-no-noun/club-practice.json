@@ -1,0 +1,13 @@
+{
+  "_id": "dxv0jexqnxy",
+  "name": "club-practice",
+  "params": {
+    "noun": "practice",
+    "owner": "club"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

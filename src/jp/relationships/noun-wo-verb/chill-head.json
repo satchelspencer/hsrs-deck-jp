@@ -1,0 +1,13 @@
+{
+  "_id": "xr03rhwnyqw",
+  "name": "chill-head",
+  "params": {
+    "noun": "head",
+    "verb": "chill"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

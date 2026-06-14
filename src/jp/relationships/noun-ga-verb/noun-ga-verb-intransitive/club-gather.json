@@ -1,0 +1,13 @@
+{
+  "_id": "qbv99lmoaxs",
+  "name": "club-gather",
+  "params": {
+    "noun": "club",
+    "verb": "be-gathered"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

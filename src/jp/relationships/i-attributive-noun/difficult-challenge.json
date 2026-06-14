@@ -1,0 +1,13 @@
+{
+  "_id": "xfyoagjr6kk",
+  "name": "difficult-challenge",
+  "params": {
+    "iadj": "difficult",
+    "noun": "challenge"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "w37xpss1psf",
+  "name": "remains-pray",
+  "params": {
+    "noun": "remains",
+    "verb": "pray"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

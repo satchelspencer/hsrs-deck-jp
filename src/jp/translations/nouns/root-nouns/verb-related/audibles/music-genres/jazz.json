@@ -1,0 +1,14 @@
+{
+  "_id": "1r2uv7w5xc2",
+  "desc": "jazz (genre)",
+  "name": "jazz",
+  "order": "3",
+  "parents": [
+    "music-genres"
+  ],
+  "props": {
+    "en": "jazz",
+    "jp": "ジャズ",
+    "tl": "じゃず"
+  }
+}

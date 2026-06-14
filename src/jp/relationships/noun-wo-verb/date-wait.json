@@ -1,0 +1,13 @@
+{
+  "_id": "wsgeju2yrtf",
+  "name": "date-wait",
+  "params": {
+    "noun": "date",
+    "verb": "wait"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

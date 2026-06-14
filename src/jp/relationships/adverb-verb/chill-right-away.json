@@ -1,0 +1,13 @@
+{
+  "_id": "dvqq8v00n3o",
+  "name": "chill-right-away",
+  "params": {
+    "adv": "right-away",
+    "verb": "chill"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

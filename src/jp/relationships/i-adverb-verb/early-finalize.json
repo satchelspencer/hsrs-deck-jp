@@ -1,0 +1,13 @@
+{
+  "_id": "fw3lo39ntfz",
+  "name": "early-finalize",
+  "params": {
+    "iadj": "early",
+    "verb": "finalization"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

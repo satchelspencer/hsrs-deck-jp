@@ -1,0 +1,13 @@
+{
+  "_id": "jn266me4ulh",
+  "name": "trip-transport-expense",
+  "params": {
+    "noun": "transport-expense",
+    "owner": "trip"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

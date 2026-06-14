@@ -1,0 +1,13 @@
+{
+  "_id": "tpuqaui7b03",
+  "name": "watermelon-crack-it",
+  "params": {
+    "noun": "watermelon",
+    "verb": "crack-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "pmmxfthanpw",
+  "name": "announcement-method",
+  "params": {
+    "noun": "method",
+    "owner": "announcement"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

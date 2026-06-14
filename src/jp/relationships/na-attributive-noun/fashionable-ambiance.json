@@ -1,0 +1,13 @@
+{
+  "_id": "5ur6ts81y2g",
+  "name": "fashionable-ambiance",
+  "params": {
+    "na": "fashionable",
+    "noun": "ambiance"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

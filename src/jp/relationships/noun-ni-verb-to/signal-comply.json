@@ -1,0 +1,13 @@
+{
+  "_id": "e2n6s7zvbq4",
+  "name": "signal-comply",
+  "params": {
+    "noun": "traffic-signal",
+    "verb": "comply"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

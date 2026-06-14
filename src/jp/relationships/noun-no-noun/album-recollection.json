@@ -1,0 +1,13 @@
+{
+  "_id": "juehiznvvno",
+  "name": "album-recollection",
+  "params": {
+    "noun": "recollection",
+    "owner": "album"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

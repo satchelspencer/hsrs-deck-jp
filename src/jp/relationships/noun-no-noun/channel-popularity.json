@@ -1,0 +1,13 @@
+{
+  "_id": "iioizd9h33h",
+  "name": "channel-popularity",
+  "params": {
+    "noun": "popularity",
+    "owner": "channel"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

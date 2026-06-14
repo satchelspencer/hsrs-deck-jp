@@ -1,0 +1,13 @@
+{
+  "_id": "zy21pfxim0r",
+  "name": "effect-last",
+  "params": {
+    "noun": "effect",
+    "verb": "last"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

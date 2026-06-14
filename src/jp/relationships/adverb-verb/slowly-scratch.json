@@ -1,0 +1,13 @@
+{
+  "_id": "a6w5pp7w98i",
+  "name": "slowly-scratch",
+  "params": {
+    "adv": "slowly",
+    "verb": "scratch"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "5ji3pirv9gw",
+  "name": "colors-be-conspicuous",
+  "params": {
+    "noun": "colors",
+    "verb": "be-conspicuous"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

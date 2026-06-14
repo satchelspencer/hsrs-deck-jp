@@ -1,0 +1,13 @@
+{
+  "_id": "0hpxc60sbjx",
+  "name": "hardship-big",
+  "params": {
+    "iadj": "big",
+    "noun": "hardship"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

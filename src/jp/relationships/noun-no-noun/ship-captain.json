@@ -1,0 +1,13 @@
+{
+  "_id": "q6cfck5fmxw",
+  "name": "ship-captain",
+  "params": {
+    "noun": "captain",
+    "owner": "ship"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "6e4mnutolrg",
+  "name": "patrol-car-come",
+  "params": {
+    "noun": "patrol-car",
+    "verb": "come"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

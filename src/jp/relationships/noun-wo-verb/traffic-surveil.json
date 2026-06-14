@@ -1,0 +1,13 @@
+{
+  "_id": "8qupcjww9rm",
+  "name": "traffic-surveil",
+  "params": {
+    "noun": "traffic",
+    "verb": "surveillance"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

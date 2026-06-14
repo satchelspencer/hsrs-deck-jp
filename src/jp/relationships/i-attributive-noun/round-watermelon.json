@@ -1,0 +1,13 @@
+{
+  "_id": "kjjdklymvww",
+  "name": "round-watermelon",
+  "params": {
+    "iadj": "round",
+    "noun": "watermelon"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

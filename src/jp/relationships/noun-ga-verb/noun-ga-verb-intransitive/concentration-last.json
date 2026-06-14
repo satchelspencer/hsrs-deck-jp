@@ -1,0 +1,13 @@
+{
+  "_id": "nyzbdl4o5c3",
+  "name": "concentration-last",
+  "params": {
+    "noun": "concentration",
+    "verb": "last"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

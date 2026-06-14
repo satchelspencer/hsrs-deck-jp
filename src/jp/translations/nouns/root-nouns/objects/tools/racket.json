@@ -1,0 +1,17 @@
+{
+  "_id": "7w9xz4ifh5f",
+  "desc": "a sports racket (tennis, badminton, etc.)",
+  "name": "racket",
+  "order": "4",
+  "parents": [
+    "tools",
+    "products",
+    "hon-countable",
+    "non-unique"
+  ],
+  "props": {
+    "en": "sports racket",
+    "jp": "ラケット",
+    "tl": "らけっと"
+  }
+}

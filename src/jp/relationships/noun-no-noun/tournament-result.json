@@ -1,0 +1,13 @@
+{
+  "_id": "68l5ikhitix",
+  "name": "tournament-result",
+  "params": {
+    "noun": "result",
+    "owner": "tournament"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

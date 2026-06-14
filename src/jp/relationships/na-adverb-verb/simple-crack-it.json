@@ -1,0 +1,13 @@
+{
+  "_id": "0f51dgbmc64",
+  "name": "simple-crack-it",
+  "params": {
+    "na": "simple",
+    "verb": "crack-it"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

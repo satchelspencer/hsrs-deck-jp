@@ -1,0 +1,13 @@
+{
+  "_id": "9vgkwha5l7b",
+  "name": "big-mark",
+  "params": {
+    "iadj": "big",
+    "noun": "mark"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

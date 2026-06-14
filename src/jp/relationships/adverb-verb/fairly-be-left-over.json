@@ -1,0 +1,13 @@
+{
+  "_id": "cer93cuffwh",
+  "name": "fairly-be-left-over",
+  "params": {
+    "adv": "fairly",
+    "verb": "be-left-over"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

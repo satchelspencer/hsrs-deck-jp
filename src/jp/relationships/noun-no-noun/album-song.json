@@ -1,0 +1,13 @@
+{
+  "_id": "bfy7f18bsvn",
+  "name": "album-song",
+  "params": {
+    "noun": "piece-of-music",
+    "owner": "album"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

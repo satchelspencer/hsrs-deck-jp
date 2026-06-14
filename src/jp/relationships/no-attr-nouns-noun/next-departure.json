@@ -1,0 +1,13 @@
+{
+  "_id": "aode53kiikr",
+  "name": "next-departure",
+  "params": {
+    "no": "next",
+    "noun": "departure"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "cxynct4j5k0",
+  "desc": "club, group, organization (social/activity)",
+  "name": "club",
+  "order": "3",
+  "parents": [
+    "organizations"
+  ],
+  "props": {
+    "en": "club",
+    "jp": "クラブ",
+    "tl": "くらぶ"
+  }
+}

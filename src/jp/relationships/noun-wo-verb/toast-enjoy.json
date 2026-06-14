@@ -1,0 +1,13 @@
+{
+  "_id": "zizp4p0ewq8",
+  "name": "toast-enjoy",
+  "params": {
+    "noun": "toast",
+    "verb": "enjoy"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

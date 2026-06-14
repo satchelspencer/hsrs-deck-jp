@@ -1,0 +1,13 @@
+{
+  "_id": "6u45vjtny02",
+  "name": "detailed-announcement",
+  "params": {
+    "iadj": "detailed",
+    "noun": "announcement"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

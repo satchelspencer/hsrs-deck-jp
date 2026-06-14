@@ -1,0 +1,14 @@
+{
+  "_id": "f19rzk8j1wt",
+  "desc": "holiday, day off, public holiday",
+  "name": "holiday",
+  "order": "3",
+  "parents": [
+    "events"
+  ],
+  "props": {
+    "en": "holiday",
+    "jp": "休日",
+    "tl": "きゅうじつ"
+  }
+}

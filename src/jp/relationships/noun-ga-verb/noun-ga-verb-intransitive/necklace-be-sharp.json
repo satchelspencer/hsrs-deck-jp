@@ -1,0 +1,14 @@
+{
+  "_id": "mfxra5pdu78",
+  "desc": "切れる means snap/break for chains and necklaces",
+  "name": "necklace-be-sharp",
+  "params": {
+    "noun": "necklace",
+    "verb": "be-sharp"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

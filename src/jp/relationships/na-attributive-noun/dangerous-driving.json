@@ -1,0 +1,13 @@
+{
+  "_id": "9ebvusmrvvu",
+  "name": "dangerous-driving",
+  "params": {
+    "na": "danger",
+    "noun": "driving"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

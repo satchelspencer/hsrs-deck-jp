@@ -1,0 +1,13 @@
+{
+  "_id": "vbyn3jl8ibm",
+  "name": "skilled-makeup",
+  "params": {
+    "na": "skilled",
+    "noun": "makeup"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

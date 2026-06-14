@@ -1,0 +1,13 @@
+{
+  "_id": "lfxzyjfso1p",
+  "name": "mark-be-conspicuous",
+  "params": {
+    "noun": "mark",
+    "verb": "be-conspicuous"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

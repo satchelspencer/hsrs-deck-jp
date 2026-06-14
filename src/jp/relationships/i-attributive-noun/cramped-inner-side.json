@@ -1,0 +1,13 @@
+{
+  "_id": "qhpnsnrhc3l",
+  "name": "cramped-inner-side",
+  "params": {
+    "iadj": "cramped",
+    "noun": "inner-side"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

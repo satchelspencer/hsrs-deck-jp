@@ -1,0 +1,13 @@
+{
+  "_id": "vddbeibp2q9",
+  "name": "small-transaction",
+  "params": {
+    "iadj": "small",
+    "noun": "transaction"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

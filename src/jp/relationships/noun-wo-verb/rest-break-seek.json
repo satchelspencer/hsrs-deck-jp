@@ -1,0 +1,13 @@
+{
+  "_id": "9aqv7d1jpuu",
+  "name": "rest-break-seek",
+  "params": {
+    "noun": "rest-break",
+    "verb": "seek"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

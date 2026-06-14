@@ -1,0 +1,13 @@
+{
+  "_id": "wb58q2zrcb8",
+  "name": "stop-vehicle-seek",
+  "params": {
+    "noun": "stop-vehicle",
+    "verb": "seek"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

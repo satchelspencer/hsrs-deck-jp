@@ -1,0 +1,13 @@
+{
+  "_id": "3y8ttd9at7x",
+  "name": "toast-bustling",
+  "params": {
+    "na": "bustling",
+    "noun": "toast"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

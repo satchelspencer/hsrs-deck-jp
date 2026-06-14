@@ -1,0 +1,13 @@
+{
+  "_id": "4p4o8ith85i",
+  "name": "fun-holiday",
+  "params": {
+    "iadj": "fun",
+    "noun": "holiday"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "akiln910k06",
+  "name": "device-know",
+  "params": {
+    "noun": "device",
+    "verb": "know"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "807lx80ukhf",
+  "desc": "exhaust, give one's all, be devoted to",
+  "name": "give-ones-all",
+  "order": "3",
+  "parents": [
+    "godan-su",
+    "people-do-volitional",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "giving one's all",
+    "en": "give one's all",
+    "jp": "尽くす",
+    "tl": "つくす"
+  }
+}

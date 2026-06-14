@@ -1,0 +1,13 @@
+{
+  "_id": "vzn2ad1ul1r",
+  "name": "channel-ni-align-it",
+  "params": {
+    "noun": "channel",
+    "verb": "align-it"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

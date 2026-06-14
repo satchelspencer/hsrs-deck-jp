@@ -1,0 +1,13 @@
+{
+  "_id": "9vz0mh2qj18",
+  "name": "device-sound",
+  "params": {
+    "noun": "sound",
+    "owner": "device"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

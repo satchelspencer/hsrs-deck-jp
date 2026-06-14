@@ -1,0 +1,13 @@
+{
+  "_id": "txlqwp03dbs",
+  "name": "rest-break-hours",
+  "params": {
+    "noun": "hours",
+    "owner": "rest-break"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "aqxxei33gxw",
+  "name": "pregnancy-convey",
+  "params": {
+    "noun": "pregnancy",
+    "verb": "convey"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "ek95eyxv38c",
+  "name": "evil-spread-out",
+  "params": {
+    "noun": "evil",
+    "verb": "spread-out"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

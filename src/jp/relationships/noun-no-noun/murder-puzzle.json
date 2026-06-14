@@ -1,0 +1,13 @@
+{
+  "_id": "xcrw66sy2c1",
+  "name": "murder-puzzle",
+  "params": {
+    "noun": "puzzle",
+    "owner": "murder"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

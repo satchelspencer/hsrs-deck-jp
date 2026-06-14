@@ -1,0 +1,13 @@
+{
+  "_id": "lwy80zz2hps",
+  "name": "actual-driving",
+  "params": {
+    "no": "actual",
+    "noun": "driving"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "ol6xqvxrrgl",
+  "name": "events-recollection",
+  "params": {
+    "noun": "recollection",
+    "owner": "events"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

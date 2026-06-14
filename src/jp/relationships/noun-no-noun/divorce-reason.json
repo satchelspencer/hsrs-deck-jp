@@ -1,0 +1,13 @@
+{
+  "_id": "vdv89djg587",
+  "name": "divorce-reason",
+  "params": {
+    "noun": "reason",
+    "owner": "divorce"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

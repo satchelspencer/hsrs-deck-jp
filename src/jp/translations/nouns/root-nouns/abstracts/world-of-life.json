@@ -1,0 +1,14 @@
+{
+  "_id": "kq8ywk5mmiq",
+  "desc": "the world, society, era, lifetime, age. Unlike 世界 (the physical/spatial world), 世 is the world as lived in: life, the times, mortality.",
+  "name": "world-of-life",
+  "order": "4",
+  "parents": [
+    "abstracts"
+  ],
+  "props": {
+    "en": "world of life",
+    "jp": "世",
+    "tl": "よ"
+  }
+}

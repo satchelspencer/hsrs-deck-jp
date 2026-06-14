@@ -1,0 +1,18 @@
+{
+  "_id": "5jmvfctrof6",
+  "constraint": "verb",
+  "mode": "c---ap",
+  "name": "te-kuru-past-state",
+  "order": "3",
+  "params": {
+    "te": "verb-te-form-pos",
+    "verb": "te-iru-verbs-state"
+  },
+  "parents": [
+    "te-kuru-base"
+  ],
+  "props": {
+    "en": "'has been getting '+verb._st",
+    "jp": "te.jp+'きた'"
+  }
+}

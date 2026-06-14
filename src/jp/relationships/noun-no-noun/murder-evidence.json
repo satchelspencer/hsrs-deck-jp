@@ -1,0 +1,13 @@
+{
+  "_id": "zg7kk5emt6w",
+  "name": "murder-evidence",
+  "params": {
+    "noun": "evidence",
+    "owner": "murder"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

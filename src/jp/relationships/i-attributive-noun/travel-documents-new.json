@@ -1,0 +1,13 @@
+{
+  "_id": "wl9dpcsm4e5",
+  "name": "travel-documents-new",
+  "params": {
+    "iadj": "new",
+    "noun": "travel-documents"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

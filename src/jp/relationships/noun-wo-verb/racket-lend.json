@@ -1,0 +1,13 @@
+{
+  "_id": "vr2i36oadr0",
+  "name": "racket-lend",
+  "params": {
+    "noun": "racket",
+    "verb": "lend"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "5feu5ef5ds2",
+  "name": "finalization-confirm",
+  "params": {
+    "noun": "finalization",
+    "verb": "confirmation"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "qo8zlcupnie",
+  "name": "entrance-appearance-be-continuing",
+  "params": {
+    "noun": "entrance-appearance",
+    "verb": "be-continuing"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

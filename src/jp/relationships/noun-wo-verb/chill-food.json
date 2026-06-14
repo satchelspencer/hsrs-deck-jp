@@ -1,0 +1,13 @@
+{
+  "_id": "eag73u8tubn",
+  "name": "chill-food",
+  "params": {
+    "noun": "food",
+    "verb": "chill"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

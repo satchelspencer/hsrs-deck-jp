@@ -1,0 +1,13 @@
+{
+  "_id": "fv5of1v43hf",
+  "name": "shapes-make",
+  "params": {
+    "noun": "shapes",
+    "verb": "make"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

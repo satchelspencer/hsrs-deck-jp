@@ -1,0 +1,13 @@
+{
+  "_id": "k6iala4cdsc",
+  "name": "unforseen-entrance-appearance",
+  "params": {
+    "na": "unforseen",
+    "noun": "entrance-appearance"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

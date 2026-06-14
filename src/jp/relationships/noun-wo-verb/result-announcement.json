@@ -1,0 +1,13 @@
+{
+  "_id": "p0i292606z4",
+  "name": "result-announcement",
+  "params": {
+    "noun": "result",
+    "verb": "announcement"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

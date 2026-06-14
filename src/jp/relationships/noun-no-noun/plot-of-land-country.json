@@ -1,0 +1,13 @@
+{
+  "_id": "lcx4vyxucgk",
+  "name": "plot-of-land-country",
+  "params": {
+    "noun": "plot-of-land",
+    "owner": "country"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

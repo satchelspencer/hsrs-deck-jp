@@ -1,0 +1,13 @@
+{
+  "_id": "ubcr2nt6vkt",
+  "name": "machines-be-broken",
+  "params": {
+    "noun": "machines",
+    "verb": "be-broken"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

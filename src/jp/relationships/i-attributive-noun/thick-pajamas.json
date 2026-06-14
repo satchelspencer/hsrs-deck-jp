@@ -1,0 +1,13 @@
+{
+  "_id": "17hje0z83ib",
+  "name": "thick-pajamas",
+  "params": {
+    "iadj": "thick",
+    "noun": "pajamas"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

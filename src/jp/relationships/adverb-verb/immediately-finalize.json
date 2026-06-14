@@ -1,0 +1,13 @@
+{
+  "_id": "aedz3gzkt13",
+  "name": "immediately-finalize",
+  "params": {
+    "adv": "immediately",
+    "verb": "finalization"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

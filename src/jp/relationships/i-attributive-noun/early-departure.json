@@ -1,0 +1,13 @@
+{
+  "_id": "q2bzv5c2wqa",
+  "name": "early-departure",
+  "params": {
+    "iadj": "early",
+    "noun": "departure"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "_id": "vvtl616lysk",
+  "name": "switch",
+  "order": "4",
+  "parents": [
+    "electrics",
+    "pushables",
+    "ko-countable"
+  ],
+  "props": {
+    "en": "switch",
+    "jp": "スイッチ",
+    "tl": "すいっち"
+  }
+}

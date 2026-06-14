@@ -1,0 +1,13 @@
+{
+  "_id": "itnn5grzi2f",
+  "name": "admission-ticket-be-found",
+  "params": {
+    "noun": "admission-ticket",
+    "verb": "be-found"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "maq3r74b3n8",
+  "name": "evil-darkness",
+  "params": {
+    "noun": "darkness",
+    "owner": "evil"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

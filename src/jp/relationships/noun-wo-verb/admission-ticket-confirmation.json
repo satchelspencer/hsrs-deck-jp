@@ -1,0 +1,13 @@
+{
+  "_id": "85psxpgjx8f",
+  "name": "admission-ticket-confirmation",
+  "params": {
+    "noun": "admission-ticket",
+    "verb": "confirmation"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

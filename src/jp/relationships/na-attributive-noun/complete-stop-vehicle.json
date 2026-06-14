@@ -1,0 +1,13 @@
+{
+  "_id": "epqqv6eqtro",
+  "name": "complete-stop-vehicle",
+  "params": {
+    "na": "complete",
+    "noun": "stop-vehicle"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

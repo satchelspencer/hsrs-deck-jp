@@ -1,0 +1,13 @@
+{
+  "_id": "weikc0y3ivn",
+  "name": "intense-kick",
+  "params": {
+    "iadj": "intense",
+    "verb": "kick"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

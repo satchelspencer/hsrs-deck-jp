@@ -1,0 +1,13 @@
+{
+  "_id": "q668zixcu8v",
+  "name": "line-up-album",
+  "params": {
+    "noun": "album",
+    "verb": "line-it-up"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

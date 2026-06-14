@@ -1,0 +1,13 @@
+{
+  "_id": "uqpb4ln7ww0",
+  "name": "immediately-divorce",
+  "params": {
+    "adv": "immediately",
+    "verb": "divorce"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

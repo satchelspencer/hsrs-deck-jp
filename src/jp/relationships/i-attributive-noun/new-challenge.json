@@ -1,0 +1,13 @@
+{
+  "_id": "o1xh5xw32vf",
+  "name": "new-challenge",
+  "params": {
+    "iadj": "new",
+    "noun": "challenge"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

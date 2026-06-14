@@ -1,0 +1,14 @@
+{
+  "_id": "flqvu6eo489",
+  "desc": "plot of land, property, real estate",
+  "name": "plot-of-land",
+  "order": "4",
+  "parents": [
+    "places"
+  ],
+  "props": {
+    "en": "plot of land",
+    "jp": "土地",
+    "tl": "とち"
+  }
+}

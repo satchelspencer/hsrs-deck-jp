@@ -1,0 +1,15 @@
+{
+  "_id": "4yewp4dpuyq",
+  "desc": "cooler, air conditioner (the appliance)",
+  "name": "ac-unit",
+  "order": "4",
+  "parents": [
+    "electrics",
+    "dai-countable"
+  ],
+  "props": {
+    "en": "ac unit",
+    "jp": "クーラー",
+    "tl": "くーらー"
+  }
+}

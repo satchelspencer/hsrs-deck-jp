@@ -1,0 +1,13 @@
+{
+  "_id": "j63mwzwaj9s",
+  "name": "paint-be-left-over",
+  "params": {
+    "noun": "paint",
+    "verb": "be-left-over"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

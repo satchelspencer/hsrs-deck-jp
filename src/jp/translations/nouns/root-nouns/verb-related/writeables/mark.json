@@ -1,0 +1,14 @@
+{
+  "_id": "sdtpnr1yt5r",
+  "desc": "mark, symbol, sign, logo",
+  "name": "mark",
+  "order": "3",
+  "parents": [
+    "writeables"
+  ],
+  "props": {
+    "en": "mark",
+    "jp": "マーク",
+    "tl": "まーく"
+  }
+}

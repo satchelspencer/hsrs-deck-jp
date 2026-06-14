@@ -1,0 +1,16 @@
+{
+  "_id": "fgkkhxhcqme",
+  "constraint": "verb",
+  "name": "te-kuru-form",
+  "params": {
+    "form": "$te-kuru-form",
+    "kuru": "$kuru-form"
+  },
+  "parents": [
+    "te-kuru"
+  ],
+  "props": {
+    "en": "(kuru.en+' '+form.en)|rg('(did|come)', '')|rg('n\\'t.*has', 'hasn\\'t')|rg('not.*will', 'will not')|rg('n\\'t.*had', 'hadn\\'t')",
+    "jp": "form.jp|r('くる', kuru.tl)"
+  }
+}

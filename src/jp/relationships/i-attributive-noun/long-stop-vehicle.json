@@ -1,0 +1,13 @@
+{
+  "_id": "4gnifu6z2ac",
+  "name": "long-stop-vehicle",
+  "params": {
+    "iadj": "long",
+    "noun": "stop-vehicle"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

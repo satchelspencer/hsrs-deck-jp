@@ -1,0 +1,16 @@
+{
+  "_id": "sd4ou40sulj",
+  "desc": "to come out (in a photo), to be captured on camera",
+  "name": "be-photographed",
+  "order": "4",
+  "parents": [
+    "godan-ru",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "_st": "photographed",
+    "en": "be photographed",
+    "jp": "写る",
+    "tl": "うつる"
+  }
+}

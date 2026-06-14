@@ -1,0 +1,13 @@
+{
+  "_id": "cs0eh9i2nvl",
+  "name": "still-be-left-over",
+  "params": {
+    "adv": "still",
+    "verb": "be-left-over"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

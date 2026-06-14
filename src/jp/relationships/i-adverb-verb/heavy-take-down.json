@@ -1,0 +1,13 @@
+{
+  "_id": "khh9za418jr",
+  "name": "heavy-take-down",
+  "params": {
+    "iadj": "heavy",
+    "verb": "take-down"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

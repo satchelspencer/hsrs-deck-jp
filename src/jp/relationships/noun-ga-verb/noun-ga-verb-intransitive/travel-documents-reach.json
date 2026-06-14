@@ -1,0 +1,13 @@
+{
+  "_id": "910p75wwy45",
+  "name": "travel-documents-reach",
+  "params": {
+    "noun": "travel-documents",
+    "verb": "reach"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

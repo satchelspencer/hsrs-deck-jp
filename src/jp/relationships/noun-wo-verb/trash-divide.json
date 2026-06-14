@@ -1,0 +1,14 @@
+{
+  "_id": "fr4ylbrt2qy",
+  "desc": "分ける is separate/sort in this context (trash separation)",
+  "name": "trash-divide",
+  "params": {
+    "noun": "trash",
+    "verb": "divide"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

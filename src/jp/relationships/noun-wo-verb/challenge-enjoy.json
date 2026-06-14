@@ -1,0 +1,13 @@
+{
+  "_id": "lp5t1p5c0pu",
+  "name": "challenge-enjoy",
+  "params": {
+    "noun": "challenge",
+    "verb": "enjoy"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "y8khdorlq74",
+  "name": "toast-fun",
+  "params": {
+    "iadj": "fun",
+    "noun": "toast"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "x52mykmhs1l",
+  "name": "sad-murder",
+  "params": {
+    "iadj": "sad",
+    "noun": "murder"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

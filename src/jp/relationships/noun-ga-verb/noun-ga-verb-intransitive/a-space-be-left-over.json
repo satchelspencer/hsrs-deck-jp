@@ -1,0 +1,13 @@
+{
+  "_id": "jz8xe7pezf9",
+  "name": "a-space-be-left-over",
+  "params": {
+    "noun": "a-space",
+    "verb": "be-left-over"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

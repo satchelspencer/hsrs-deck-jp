@@ -1,0 +1,13 @@
+{
+  "_id": "l3vfzeynztr",
+  "name": "police-patrol-car",
+  "params": {
+    "noun": "police",
+    "owner": "patrol-car"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

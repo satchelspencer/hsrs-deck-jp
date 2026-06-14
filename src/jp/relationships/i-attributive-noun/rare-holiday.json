@@ -1,0 +1,13 @@
+{
+  "_id": "couymx7h743",
+  "name": "rare-holiday",
+  "params": {
+    "iadj": "rare",
+    "noun": "holiday"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

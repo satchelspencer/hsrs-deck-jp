@@ -1,0 +1,13 @@
+{
+  "_id": "md5r9oye09j",
+  "name": "law-tear",
+  "params": {
+    "noun": "law",
+    "verb": "tear"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

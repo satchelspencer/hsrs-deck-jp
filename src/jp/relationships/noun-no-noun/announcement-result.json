@@ -1,0 +1,13 @@
+{
+  "_id": "y800vz7lr5a",
+  "name": "announcement-result",
+  "params": {
+    "noun": "result",
+    "owner": "announcement"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

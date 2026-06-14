@@ -1,0 +1,13 @@
+{
+  "_id": "6mfb0i2fsb5",
+  "name": "drinks-temperature",
+  "params": {
+    "noun": "temperature",
+    "owner": "drinks"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

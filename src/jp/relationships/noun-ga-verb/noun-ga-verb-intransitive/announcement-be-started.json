@@ -1,0 +1,13 @@
+{
+  "_id": "aib80zn8cwy",
+  "name": "announcement-be-started",
+  "params": {
+    "noun": "announcement",
+    "verb": "be-started"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "ql90vuibovd",
+  "desc": "燃える is catch fire / burst into flames here",
+  "name": "lighter-burn",
+  "params": {
+    "noun": "lighter",
+    "verb": "burn"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

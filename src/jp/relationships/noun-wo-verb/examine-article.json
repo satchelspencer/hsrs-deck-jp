@@ -1,0 +1,13 @@
+{
+  "_id": "ibxyjstsngr",
+  "name": "examine-article",
+  "params": {
+    "noun": "article",
+    "verb": "examine"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

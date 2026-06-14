@@ -1,0 +1,13 @@
+{
+  "_id": "26uvkuotn6g",
+  "name": "relationship-last",
+  "params": {
+    "noun": "relationship",
+    "verb": "last"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

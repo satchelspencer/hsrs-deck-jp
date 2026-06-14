@@ -1,0 +1,13 @@
+{
+  "_id": "vbf56h9o08j",
+  "name": "stewardess-work",
+  "params": {
+    "noun": "stewardess",
+    "verb": "work"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

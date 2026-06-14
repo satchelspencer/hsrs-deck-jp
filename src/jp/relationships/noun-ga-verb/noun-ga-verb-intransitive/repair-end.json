@@ -1,0 +1,13 @@
+{
+  "_id": "9beh52ha6ob",
+  "name": "repair-end",
+  "params": {
+    "noun": "repair",
+    "verb": "end"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

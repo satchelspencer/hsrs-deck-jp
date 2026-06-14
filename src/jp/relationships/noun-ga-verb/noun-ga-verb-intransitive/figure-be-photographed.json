@@ -1,0 +1,13 @@
+{
+  "_id": "h0wdl0lf6wj",
+  "name": "figure-be-photographed",
+  "params": {
+    "noun": "figure",
+    "verb": "be-photographed"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

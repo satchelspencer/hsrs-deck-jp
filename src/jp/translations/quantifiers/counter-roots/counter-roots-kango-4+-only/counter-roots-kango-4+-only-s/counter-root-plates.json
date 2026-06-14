@@ -4,10 +4,12 @@
   "name": "counter-root-plates",
   "order": "2",
   "parents": [
-    "counter-roots-kango-4+-only-s"
+    "counter-roots-kango-4+-only-s",
+    "objects"
   ],
   "props": {
     "_ec": "plates",
+    "en": "plate",
     "jp": "皿",
     "tl": "さら"
   }

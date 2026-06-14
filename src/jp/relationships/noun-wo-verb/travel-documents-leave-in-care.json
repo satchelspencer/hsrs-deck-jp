@@ -1,0 +1,14 @@
+{
+  "_id": "14kqtpb9yzk",
+  "desc": "預ける means entrust/leave for safekeeping",
+  "name": "travel-documents-leave-in-care",
+  "params": {
+    "noun": "travel-documents",
+    "verb": "leave-in-care"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

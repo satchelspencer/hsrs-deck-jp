@@ -1,0 +1,13 @@
+{
+  "_id": "p4l63fzr01b",
+  "name": "mark-be-turned-off",
+  "params": {
+    "noun": "mark",
+    "verb": "be-turned-off"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

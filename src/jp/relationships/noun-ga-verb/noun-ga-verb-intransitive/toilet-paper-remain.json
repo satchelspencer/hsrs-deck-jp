@@ -1,0 +1,13 @@
+{
+  "_id": "kt94xj6volq",
+  "name": "toilet-paper-remain",
+  "params": {
+    "noun": "toilet-paper",
+    "verb": "remain"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

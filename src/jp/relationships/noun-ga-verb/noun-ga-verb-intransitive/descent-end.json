@@ -1,0 +1,13 @@
+{
+  "_id": "kz3joxt65bs",
+  "name": "descent-end",
+  "params": {
+    "noun": "descent",
+    "verb": "end"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

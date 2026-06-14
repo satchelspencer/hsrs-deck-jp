@@ -1,0 +1,13 @@
+{
+  "_id": "3sfw4aws3iy",
+  "name": "aimlessly-walk",
+  "params": {
+    "adv": "aimlessly",
+    "verb": "walk"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

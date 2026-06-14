@@ -1,0 +1,13 @@
+{
+  "_id": "b1yvggeq0sh",
+  "name": "woman-formal-pregnancy",
+  "params": {
+    "noun": "woman-formal",
+    "verb": "pregnancy"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

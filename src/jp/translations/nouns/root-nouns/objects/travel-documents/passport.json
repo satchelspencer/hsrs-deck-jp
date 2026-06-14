@@ -1,0 +1,15 @@
+{
+  "_id": "yh976exg1qy",
+  "desc": "passport, travel document",
+  "name": "passport",
+  "order": "4",
+  "parents": [
+    "travel-documents",
+    "mai-countable"
+  ],
+  "props": {
+    "en": "passport",
+    "jp": "パスポート",
+    "tl": "ぱすぽーと"
+  }
+}

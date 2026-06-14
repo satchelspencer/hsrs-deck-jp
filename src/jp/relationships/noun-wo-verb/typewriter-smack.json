@@ -1,0 +1,13 @@
+{
+  "_id": "lomq0bnk5pa",
+  "name": "typewriter-smack",
+  "params": {
+    "noun": "typewriter",
+    "verb": "smack"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "w73ly99wkzl",
+  "name": "insect-stab",
+  "params": {
+    "noun": "insect",
+    "verb": "stab"
+  },
+  "parents": [
+    "noun-ga-verb-transitive"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "kjoqvwfik54",
+  "name": "challenge-goal",
+  "params": {
+    "noun": "goal",
+    "owner": "challenge"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

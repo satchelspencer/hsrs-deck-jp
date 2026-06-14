@@ -1,0 +1,18 @@
+{
+  "_id": "w746nugpyol",
+  "desc": "beamingly, grinning",
+  "name": "with-a-smile",
+  "order": "4",
+  "parents": [
+    "people-do-adverbs",
+    "suru-nouns",
+    "people-do-volitional",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "smiling",
+    "_v": "smile",
+    "en": "with a smile",
+    "jp": "にこにこ"
+  }
+}

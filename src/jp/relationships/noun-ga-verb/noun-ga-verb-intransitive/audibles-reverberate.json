@@ -1,0 +1,13 @@
+{
+  "_id": "vqdzk02xy9p",
+  "name": "audibles-reverberate",
+  "params": {
+    "noun": "audibles",
+    "verb": "reverberate"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

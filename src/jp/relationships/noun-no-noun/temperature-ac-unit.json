@@ -1,0 +1,13 @@
+{
+  "_id": "g42us6229gw",
+  "name": "temperature-ac-unit",
+  "params": {
+    "noun": "temperature",
+    "owner": "ac-unit"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

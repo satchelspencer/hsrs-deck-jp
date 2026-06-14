@@ -1,0 +1,13 @@
+{
+  "_id": "a7fuv2d4b2n",
+  "name": "take-down-objects",
+  "params": {
+    "noun": "package",
+    "verb": "take-down"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

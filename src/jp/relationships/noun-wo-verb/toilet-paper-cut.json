@@ -1,0 +1,13 @@
+{
+  "_id": "h6udmb3yjqg",
+  "name": "toilet-paper-cut",
+  "params": {
+    "noun": "toilet-paper",
+    "verb": "cut"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

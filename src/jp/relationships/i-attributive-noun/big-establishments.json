@@ -1,0 +1,13 @@
+{
+  "_id": "hxlg2la5x66",
+  "name": "big-establishments",
+  "params": {
+    "iadj": "big",
+    "noun": "establishments"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "h3z0rdceg71",
+  "name": "left-and-right-brain",
+  "params": {
+    "no": "left-and-right",
+    "noun": "brain"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

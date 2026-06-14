@@ -1,0 +1,13 @@
+{
+  "_id": "6c6j8enrrqx",
+  "name": "novel-entrance-appearance",
+  "params": {
+    "noun": "novel",
+    "verb": "entrance-appearance"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

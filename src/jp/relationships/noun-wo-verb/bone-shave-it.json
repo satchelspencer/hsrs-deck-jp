@@ -1,0 +1,13 @@
+{
+  "_id": "1mkgr56v3sv",
+  "name": "bone-shave-it",
+  "params": {
+    "noun": "bone",
+    "verb": "shave-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

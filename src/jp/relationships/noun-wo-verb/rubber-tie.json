@@ -1,0 +1,14 @@
+{
+  "_id": "6wvp6a69bb9",
+  "desc": "結ぶ is tie/knot a rubber band",
+  "name": "rubber-tie",
+  "params": {
+    "noun": "rubber",
+    "verb": "tie-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

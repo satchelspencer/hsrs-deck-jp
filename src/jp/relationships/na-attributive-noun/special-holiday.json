@@ -1,0 +1,13 @@
+{
+  "_id": "xircmpgdy2y",
+  "name": "special-holiday",
+  "params": {
+    "na": "special",
+    "noun": "holiday"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

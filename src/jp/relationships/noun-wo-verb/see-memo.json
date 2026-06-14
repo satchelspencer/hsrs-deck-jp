@@ -1,0 +1,13 @@
+{
+  "_id": "yfn9pq05eqj",
+  "name": "see-memo",
+  "params": {
+    "noun": "memo",
+    "verb": "see"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

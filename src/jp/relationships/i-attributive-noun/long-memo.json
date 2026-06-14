@@ -1,0 +1,13 @@
+{
+  "_id": "wmfpt5pq6ll",
+  "name": "long-memo",
+  "params": {
+    "iadj": "long",
+    "noun": "memo"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

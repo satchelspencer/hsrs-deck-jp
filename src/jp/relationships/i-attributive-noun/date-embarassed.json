@@ -1,0 +1,13 @@
+{
+  "_id": "5shf9pqz5tr",
+  "name": "date-embarassed",
+  "params": {
+    "iadj": "embarassed",
+    "noun": "date"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

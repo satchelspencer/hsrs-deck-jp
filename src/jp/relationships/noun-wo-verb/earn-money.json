@@ -1,0 +1,13 @@
+{
+  "_id": "8e61lwr85pv",
+  "name": "earn-money",
+  "params": {
+    "noun": "the-money",
+    "verb": "earn"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

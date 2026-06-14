@@ -1,0 +1,13 @@
+{
+  "_id": "vb4c9lk8yj6",
+  "name": "mark-meaning",
+  "params": {
+    "noun": "meaning",
+    "owner": "mark"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "9aauph022k1",
+  "name": "room-fusuma",
+  "params": {
+    "noun": "fusuma",
+    "owner": "room"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

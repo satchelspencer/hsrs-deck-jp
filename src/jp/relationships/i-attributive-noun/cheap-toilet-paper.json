@@ -1,0 +1,13 @@
+{
+  "_id": "39kmyaloc5l",
+  "name": "cheap-toilet-paper",
+  "params": {
+    "iadj": "cheap",
+    "noun": "toilet-paper"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

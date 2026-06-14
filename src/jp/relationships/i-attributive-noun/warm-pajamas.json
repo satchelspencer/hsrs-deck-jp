@@ -1,0 +1,13 @@
+{
+  "_id": "bxb8y4u4r30",
+  "name": "warm-pajamas",
+  "params": {
+    "iadj": "warm",
+    "noun": "pajamas"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

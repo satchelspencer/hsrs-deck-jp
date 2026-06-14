@@ -1,0 +1,13 @@
+{
+  "_id": "oh0jf3l0b5f",
+  "name": "album-reach",
+  "params": {
+    "noun": "album",
+    "verb": "reach"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

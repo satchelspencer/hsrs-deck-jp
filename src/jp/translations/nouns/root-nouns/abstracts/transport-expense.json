@@ -1,0 +1,14 @@
+{
+  "_id": "1qpnonr7r2u",
+  "desc": "travel costs, commuting expenses",
+  "name": "transport-expense",
+  "order": "4",
+  "parents": [
+    "abstracts"
+  ],
+  "props": {
+    "en": "transportation expenses",
+    "jp": "交通費",
+    "tl": "こうつうひ"
+  }
+}

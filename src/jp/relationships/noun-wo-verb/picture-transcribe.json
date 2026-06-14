@@ -1,0 +1,13 @@
+{
+  "_id": "0zajnlcdpyt",
+  "name": "picture-transcribe",
+  "params": {
+    "noun": "picture",
+    "verb": "transcribe"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

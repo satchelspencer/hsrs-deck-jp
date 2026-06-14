@@ -1,0 +1,13 @@
+{
+  "_id": "38luiar6928",
+  "name": "together-toast",
+  "params": {
+    "adv": "together",
+    "verb": "toast"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

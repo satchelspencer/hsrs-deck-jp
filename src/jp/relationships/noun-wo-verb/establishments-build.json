@@ -1,0 +1,13 @@
+{
+  "_id": "5eiddy0r412",
+  "name": "establishments-build",
+  "params": {
+    "noun": "establishments",
+    "verb": "build"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "lyi9xj5mmrr",
+  "name": "properly-be-photographed",
+  "params": {
+    "adv": "properly",
+    "verb": "be-photographed"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

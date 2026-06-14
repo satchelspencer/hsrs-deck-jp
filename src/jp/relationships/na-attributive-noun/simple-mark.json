@@ -1,0 +1,13 @@
+{
+  "_id": "d1xfyrq1mrw",
+  "name": "simple-mark",
+  "params": {
+    "na": "simple",
+    "noun": "mark"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

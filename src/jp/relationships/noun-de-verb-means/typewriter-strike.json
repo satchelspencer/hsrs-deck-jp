@@ -1,0 +1,13 @@
+{
+  "_id": "37onwtpgqe7",
+  "name": "typewriter-strike",
+  "params": {
+    "noun": "typewriter",
+    "verb": "strike"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "vx7gxk1278r",
+  "name": "squad-divide",
+  "params": {
+    "noun": "squad",
+    "verb": "divide"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

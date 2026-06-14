@@ -1,0 +1,13 @@
+{
+  "_id": "1nrtddtmqxs",
+  "name": "red-wine",
+  "params": {
+    "iadj": "red",
+    "noun": "wine"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

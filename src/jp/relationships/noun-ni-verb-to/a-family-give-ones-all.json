@@ -1,0 +1,13 @@
+{
+  "_id": "3w2pq26d1ei",
+  "name": "a-family-give-ones-all",
+  "params": {
+    "noun": "a-family",
+    "verb": "give-ones-all"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

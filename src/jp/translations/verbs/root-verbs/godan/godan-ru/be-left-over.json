@@ -1,0 +1,17 @@
+{
+  "_id": "5dnqvw8jndk",
+  "desc": "to be left over, to remain, to be in excess",
+  "name": "be-left-over",
+  "order": "3",
+  "parents": [
+    "godan-ru",
+    "quantities-do",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "_st": "left over",
+    "en": "be left over",
+    "jp": "余る",
+    "tl": "あまる"
+  }
+}

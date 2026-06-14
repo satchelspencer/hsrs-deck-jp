@@ -1,0 +1,14 @@
+{
+  "_id": "703pafw8hyi",
+  "desc": "remains, dead body (formal/respectful term)",
+  "name": "remains",
+  "order": "4",
+  "parents": [
+    "objects"
+  ],
+  "props": {
+    "en": "remains",
+    "jp": "遺体",
+    "tl": "いたい"
+  }
+}

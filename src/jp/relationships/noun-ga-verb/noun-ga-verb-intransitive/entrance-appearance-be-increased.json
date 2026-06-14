@@ -1,0 +1,13 @@
+{
+  "_id": "tat04hjfoxl",
+  "name": "entrance-appearance-be-increased",
+  "params": {
+    "noun": "entrance-appearance",
+    "verb": "be-increased"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

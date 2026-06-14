@@ -1,0 +1,13 @@
+{
+  "_id": "09s9cbdkgar",
+  "name": "school-origin",
+  "params": {
+    "noun": "origins",
+    "owner": "school"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

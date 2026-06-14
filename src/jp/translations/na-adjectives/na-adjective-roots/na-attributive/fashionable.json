@@ -1,0 +1,14 @@
+{
+  "_id": "5f43vvcqxom",
+  "desc": "stylish, chic, trendy",
+  "name": "fashionable",
+  "order": "3",
+  "parents": [
+    "na-attributive",
+    "na-people-do"
+  ],
+  "props": {
+    "en": "fashionable",
+    "jp": "おしゃれ"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "zaiv2y8hjoe",
+  "desc": "簡単に凍る means freezes easily",
+  "name": "simple-freeze",
+  "params": {
+    "na": "simple",
+    "verb": "freeze"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

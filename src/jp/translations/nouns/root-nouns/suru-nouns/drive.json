@@ -1,0 +1,23 @@
+{
+  "_id": "xpktptsfe11",
+  "desc": "a leisure drive, going for a drive",
+  "name": "drive",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "te-iru-verbs-continuous",
+    "people-do-volitional",
+    "de-location-verbs",
+    "do-togethers",
+    "come-go-reasons",
+    "activities",
+    "events"
+  ],
+  "props": {
+    "_pg": "going for a drive",
+    "_v": "go for a drive",
+    "en": "leisure drive",
+    "jp": "ドライブ",
+    "tl": "どらいぶ"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "sz90r8j97tk",
+  "name": "separate-orientation",
+  "params": {
+    "no": "separate",
+    "noun": "orientation"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

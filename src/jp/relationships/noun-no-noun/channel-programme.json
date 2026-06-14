@@ -1,0 +1,13 @@
+{
+  "_id": "oxog1iy132d",
+  "name": "channel-programme",
+  "params": {
+    "noun": "programme",
+    "owner": "channel"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

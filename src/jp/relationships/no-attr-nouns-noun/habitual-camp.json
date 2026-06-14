@@ -1,0 +1,13 @@
+{
+  "_id": "dg4wvg6m4ej",
+  "name": "habitual-camp",
+  "params": {
+    "no": "habitual",
+    "noun": "camp"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "las9eojt1uo",
+  "name": "wise-animals",
+  "params": {
+    "iadj": "wise",
+    "noun": "animals"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

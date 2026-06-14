@@ -1,0 +1,13 @@
+{
+  "_id": "dwxvixaqpml",
+  "name": "entrance-appearance-see",
+  "params": {
+    "noun": "entrance-appearance",
+    "verb": "see"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

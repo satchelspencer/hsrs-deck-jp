@@ -1,0 +1,13 @@
+{
+  "_id": "fgasvscjcsa",
+  "name": "museum-picture",
+  "params": {
+    "noun": "picture",
+    "owner": "museum"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

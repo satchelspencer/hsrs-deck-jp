@@ -1,0 +1,13 @@
+{
+  "_id": "yebity71y6v",
+  "name": "stamina-last",
+  "params": {
+    "noun": "stamina",
+    "verb": "last"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

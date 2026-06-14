@@ -1,0 +1,13 @@
+{
+  "_id": "uwiyx1oqzwk",
+  "name": "squad-gather",
+  "params": {
+    "noun": "squad",
+    "verb": "gather-together"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

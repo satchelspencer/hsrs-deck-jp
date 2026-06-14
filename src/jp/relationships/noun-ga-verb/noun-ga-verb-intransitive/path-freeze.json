@@ -1,0 +1,13 @@
+{
+  "_id": "z89w8yti381",
+  "name": "path-freeze",
+  "params": {
+    "noun": "path",
+    "verb": "freeze"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

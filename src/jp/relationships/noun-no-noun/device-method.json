@@ -1,0 +1,13 @@
+{
+  "_id": "nywv6me0b25",
+  "name": "device-method",
+  "params": {
+    "noun": "method",
+    "owner": "device"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "v1hgc1f4tlx",
+  "name": "pretty-shapes",
+  "params": {
+    "na": "pretty",
+    "noun": "shapes"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

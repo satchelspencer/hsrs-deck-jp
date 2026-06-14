@@ -1,0 +1,13 @@
+{
+  "_id": "8d6ulp70p0b",
+  "name": "cautious-stab",
+  "params": {
+    "na": "cautious",
+    "verb": "stab"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

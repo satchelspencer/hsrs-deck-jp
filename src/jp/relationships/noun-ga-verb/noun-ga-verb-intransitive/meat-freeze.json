@@ -1,0 +1,13 @@
+{
+  "_id": "vbrcibnpbfl",
+  "name": "meat-freeze",
+  "params": {
+    "noun": "meat",
+    "verb": "freeze"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

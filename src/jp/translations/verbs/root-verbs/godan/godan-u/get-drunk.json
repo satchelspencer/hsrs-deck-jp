@@ -1,0 +1,17 @@
+{
+  "_id": "to3j8r6g25h",
+  "desc": "get drunk, get intoxicated, get motion sick",
+  "name": "get-drunk",
+  "order": "4",
+  "parents": [
+    "godan-u",
+    "te-iru-verbs-state",
+    "people-do-volitional"
+  ],
+  "props": {
+    "_st": "drunk",
+    "en": "get drunk",
+    "jp": "酔う",
+    "tl": "よう"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "6lpk9ylqps4",
+  "name": "on-track-transaction",
+  "params": {
+    "na": "on-track",
+    "noun": "transaction"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

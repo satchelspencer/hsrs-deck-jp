@@ -1,0 +1,13 @@
+{
+  "_id": "mg5k106v1v6",
+  "name": "school-announcement",
+  "params": {
+    "noun": "school",
+    "verb": "announcement"
+  },
+  "parents": [
+    "noun-ga-verb-transitive"
+  ],
+  "props": {
+  }
+}

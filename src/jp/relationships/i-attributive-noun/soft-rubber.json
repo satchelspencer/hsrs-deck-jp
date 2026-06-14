@@ -1,0 +1,13 @@
+{
+  "_id": "u6biusk35oq",
+  "name": "soft-rubber",
+  "params": {
+    "iadj": "soft",
+    "noun": "rubber"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

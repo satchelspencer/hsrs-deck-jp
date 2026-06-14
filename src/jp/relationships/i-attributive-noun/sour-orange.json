@@ -1,0 +1,13 @@
+{
+  "_id": "gzrbmbd95a5",
+  "name": "sour-orange",
+  "params": {
+    "iadj": "sour",
+    "noun": "orange"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

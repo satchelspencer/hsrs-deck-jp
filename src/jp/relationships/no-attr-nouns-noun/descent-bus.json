@@ -1,0 +1,13 @@
+{
+  "_id": "90v9pl32lnj",
+  "name": "descent-bus",
+  "params": {
+    "no": "descent",
+    "noun": "bus"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

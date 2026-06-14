@@ -1,0 +1,13 @@
+{
+  "_id": "xw785q2foax",
+  "name": "shape-plot-of-land",
+  "params": {
+    "noun": "shape",
+    "owner": "plot-of-land"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

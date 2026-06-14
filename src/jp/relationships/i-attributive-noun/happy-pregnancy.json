@@ -1,0 +1,13 @@
+{
+  "_id": "l8uwsmuy4yx",
+  "name": "happy-pregnancy",
+  "params": {
+    "iadj": "happy",
+    "noun": "pregnancy"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

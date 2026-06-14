@@ -1,0 +1,13 @@
+{
+  "_id": "xkuqlt2x2uu",
+  "name": "departure-see-off",
+  "params": {
+    "noun": "departure",
+    "verb": "see-off"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

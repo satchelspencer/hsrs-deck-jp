@@ -1,0 +1,13 @@
+{
+  "_id": "q08tvoocti8",
+  "name": "mandarin-orange-color",
+  "params": {
+    "noun": "color",
+    "owner": "mandarin-orange"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "1xafwjxtty2",
+  "name": "physician-consultation",
+  "params": {
+    "noun": "physician",
+    "verb": "consultation"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

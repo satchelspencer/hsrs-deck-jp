@@ -1,0 +1,13 @@
+{
+  "_id": "kprxac4c6tj",
+  "name": "important-memo",
+  "params": {
+    "na": "important",
+    "noun": "memo"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

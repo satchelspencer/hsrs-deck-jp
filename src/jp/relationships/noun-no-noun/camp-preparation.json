@@ -1,0 +1,13 @@
+{
+  "_id": "vouksxntpl0",
+  "name": "camp-preparation",
+  "params": {
+    "noun": "preparation",
+    "owner": "camp"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

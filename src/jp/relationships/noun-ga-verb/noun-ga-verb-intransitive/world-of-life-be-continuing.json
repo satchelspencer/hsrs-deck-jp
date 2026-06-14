@@ -1,0 +1,13 @@
+{
+  "_id": "gr84sjl7j2m",
+  "name": "world-of-life-be-continuing",
+  "params": {
+    "noun": "world-of-life",
+    "verb": "be-continuing"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

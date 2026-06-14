@@ -1,0 +1,13 @@
+{
+  "_id": "4qoqy8je9bb",
+  "name": "travel-documents-terms",
+  "params": {
+    "noun": "terms",
+    "owner": "travel-documents"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

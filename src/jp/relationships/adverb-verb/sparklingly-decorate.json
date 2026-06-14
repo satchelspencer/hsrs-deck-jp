@@ -1,0 +1,13 @@
+{
+  "_id": "8ds4trdpgh4",
+  "name": "sparklingly-decorate",
+  "params": {
+    "adv": "sparklingly",
+    "verb": "decorate"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

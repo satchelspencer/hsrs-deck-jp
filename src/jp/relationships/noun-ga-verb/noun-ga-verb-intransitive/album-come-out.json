@@ -1,0 +1,14 @@
+{
+  "_id": "ztg2itlxtaj",
+  "desc": "come-out means to be released (発売される)",
+  "name": "album-come-out",
+  "params": {
+    "noun": "album",
+    "verb": "come-out"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

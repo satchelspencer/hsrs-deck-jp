@@ -1,0 +1,13 @@
+{
+  "_id": "atblpntcsl4",
+  "name": "pregnancy-report",
+  "params": {
+    "noun": "pregnancy",
+    "verb": "report"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

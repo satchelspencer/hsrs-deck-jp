@@ -1,0 +1,15 @@
+{
+  "_id": "s4i4gv2s06c",
+  "desc": "カラー is a loanword alternate of 色",
+  "name": "color-katakana",
+  "order": "4",
+  "parents": [
+    "alternates",
+    "object-no"
+  ],
+  "props": {
+    "en": "color",
+    "jp": "カラー",
+    "tl": "からー"
+  }
+}

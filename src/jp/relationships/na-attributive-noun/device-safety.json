@@ -1,0 +1,13 @@
+{
+  "_id": "4k4kqho823v",
+  "name": "device-safety",
+  "params": {
+    "na": "safety",
+    "noun": "device"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

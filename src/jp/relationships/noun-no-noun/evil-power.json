@@ -1,0 +1,13 @@
+{
+  "_id": "f31zgze44l2",
+  "name": "evil-power",
+  "params": {
+    "noun": "power",
+    "owner": "evil"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

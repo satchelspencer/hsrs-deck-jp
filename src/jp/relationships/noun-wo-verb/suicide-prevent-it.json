@@ -1,0 +1,13 @@
+{
+  "_id": "q9g2lnoalh5",
+  "name": "suicide-prevent-it",
+  "params": {
+    "noun": "suicide",
+    "verb": "prevent-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

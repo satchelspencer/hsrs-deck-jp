@@ -1,0 +1,13 @@
+{
+  "_id": "z9xeswp5eyv",
+  "name": "sky-flying-things",
+  "params": {
+    "noun": "flying-things",
+    "owner": "sky"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

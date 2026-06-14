@@ -1,0 +1,13 @@
+{
+  "_id": "eg75gpy2d3s",
+  "name": "chill-refrigerator",
+  "params": {
+    "noun": "refrigerator",
+    "verb": "chill"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

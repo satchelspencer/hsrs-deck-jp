@@ -1,0 +1,13 @@
+{
+  "_id": "mwj95qr2jww",
+  "name": "frightful-world-of-life",
+  "params": {
+    "iadj": "frightful",
+    "noun": "world-of-life"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

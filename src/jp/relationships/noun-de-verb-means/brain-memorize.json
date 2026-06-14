@@ -1,0 +1,13 @@
+{
+  "_id": "4ogd648fsnu",
+  "name": "brain-memorize",
+  "params": {
+    "noun": "brain",
+    "verb": "memorize"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

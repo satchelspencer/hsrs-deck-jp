@@ -1,0 +1,13 @@
+{
+  "_id": "pcuipa669o2",
+  "name": "speciality-musical-instrument",
+  "params": {
+    "na": "speciality",
+    "noun": "musical-instrument"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

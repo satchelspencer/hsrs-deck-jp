@@ -1,0 +1,14 @@
+{
+  "_id": "vz8sxg5e20v",
+  "desc": "代える is rephrase/say differently here",
+  "name": "way-of-saying-substitute",
+  "params": {
+    "noun": "way-of-saying",
+    "verb": "substitute"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

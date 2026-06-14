@@ -1,0 +1,13 @@
+{
+  "_id": "xmbtwluk1cm",
+  "name": "fusuma-be-broken",
+  "params": {
+    "noun": "fusuma",
+    "verb": "be-broken"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

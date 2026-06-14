@@ -1,0 +1,13 @@
+{
+  "_id": "4pd7wk9uo2v",
+  "name": "big-announcement",
+  "params": {
+    "iadj": "big",
+    "noun": "announcement"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

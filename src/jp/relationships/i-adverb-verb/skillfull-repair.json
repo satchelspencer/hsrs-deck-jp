@@ -1,0 +1,13 @@
+{
+  "_id": "qtpk5mcfcep",
+  "name": "skillfull-repair",
+  "params": {
+    "iadj": "skillfull",
+    "verb": "repair"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

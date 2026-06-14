@@ -1,0 +1,13 @@
+{
+  "_id": "q2fu3v8wh7e",
+  "name": "mark-color",
+  "params": {
+    "noun": "color",
+    "owner": "mark"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

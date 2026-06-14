@@ -1,0 +1,13 @@
+{
+  "_id": "n8hababdf6t",
+  "name": "shape-circle",
+  "params": {
+    "noun": "shape",
+    "owner": "circle"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

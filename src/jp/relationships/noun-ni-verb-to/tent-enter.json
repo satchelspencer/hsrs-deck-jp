@@ -1,0 +1,13 @@
+{
+  "_id": "xy40ah7w8xb",
+  "name": "tent-enter",
+  "params": {
+    "noun": "tent",
+    "verb": "enter"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

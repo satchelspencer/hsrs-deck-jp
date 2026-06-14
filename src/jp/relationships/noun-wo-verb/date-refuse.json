@@ -1,0 +1,13 @@
+{
+  "_id": "fprqrx4ai5y",
+  "name": "date-refuse",
+  "params": {
+    "noun": "date",
+    "verb": "refuse"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

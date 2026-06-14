@@ -1,0 +1,13 @@
+{
+  "_id": "tirakv9hlay",
+  "name": "welcome-christmas",
+  "params": {
+    "noun": "christmas",
+    "verb": "welcome"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

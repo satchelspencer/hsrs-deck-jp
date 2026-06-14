@@ -1,0 +1,13 @@
+{
+  "_id": "1zkkxtk301z",
+  "name": "tournament-big",
+  "params": {
+    "iadj": "big",
+    "noun": "tournament"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

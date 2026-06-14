@@ -1,0 +1,13 @@
+{
+  "_id": "p7uhnwwr9wl",
+  "name": "simple-divorce",
+  "params": {
+    "na": "simple",
+    "verb": "divorce"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

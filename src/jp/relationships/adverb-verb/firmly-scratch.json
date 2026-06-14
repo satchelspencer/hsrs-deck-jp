@@ -1,0 +1,13 @@
+{
+  "_id": "id9h4c4mij2",
+  "name": "firmly-scratch",
+  "params": {
+    "adv": "firmly",
+    "verb": "scratch"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

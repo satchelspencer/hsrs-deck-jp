@@ -1,0 +1,18 @@
+{
+  "_id": "2rwpuml7b6j",
+  "desc": "menu",
+  "name": "menu",
+  "order": "3",
+  "parents": [
+    "objects",
+    "readables",
+    "hiraku-tojiru",
+    "documents",
+    "satsu-countable"
+  ],
+  "props": {
+    "en": "menu",
+    "jp": "メニュー",
+    "tl": "めにゅー"
+  }
+}

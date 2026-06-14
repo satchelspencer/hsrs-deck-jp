@@ -1,0 +1,13 @@
+{
+  "_id": "xeciryk1uqa",
+  "name": "pregnancy-be-troubled",
+  "params": {
+    "noun": "pregnancy",
+    "verb": "be-troubled"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

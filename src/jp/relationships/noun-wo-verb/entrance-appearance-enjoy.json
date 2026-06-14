@@ -1,0 +1,13 @@
+{
+  "_id": "cr8xb2pwced",
+  "name": "entrance-appearance-enjoy",
+  "params": {
+    "noun": "entrance-appearance",
+    "verb": "enjoy"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

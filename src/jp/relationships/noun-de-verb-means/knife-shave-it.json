@@ -1,0 +1,13 @@
+{
+  "_id": "sr5a4cr1l2p",
+  "name": "knife-shave-it",
+  "params": {
+    "noun": "knife",
+    "verb": "shave-it"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "g332s3rta77",
+  "name": "absolutely-prohibit",
+  "params": {
+    "adv": "absolutely",
+    "verb": "prohibition"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

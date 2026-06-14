@@ -1,0 +1,13 @@
+{
+  "_id": "d2t746dcln6",
+  "name": "incidentless-departure",
+  "params": {
+    "na": "incidentless",
+    "noun": "departure"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "5oriocfuebc",
+  "name": "descent-walk",
+  "params": {
+    "noun": "descent",
+    "verb": "walk"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

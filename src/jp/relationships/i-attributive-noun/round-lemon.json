@@ -1,0 +1,13 @@
+{
+  "_id": "f9kxs9k06yk",
+  "name": "round-lemon",
+  "params": {
+    "iadj": "round",
+    "noun": "lemon"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

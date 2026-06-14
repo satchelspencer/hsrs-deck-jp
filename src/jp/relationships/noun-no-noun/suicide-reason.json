@@ -1,0 +1,13 @@
+{
+  "_id": "5daphp84wmx",
+  "name": "suicide-reason",
+  "params": {
+    "noun": "reason",
+    "owner": "suicide"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

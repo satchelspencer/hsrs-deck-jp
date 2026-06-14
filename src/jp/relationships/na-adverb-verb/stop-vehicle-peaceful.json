@@ -1,0 +1,13 @@
+{
+  "_id": "rk1gbyaq7ij",
+  "name": "stop-vehicle-peaceful",
+  "params": {
+    "na": "peaceful",
+    "verb": "stop-vehicle"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

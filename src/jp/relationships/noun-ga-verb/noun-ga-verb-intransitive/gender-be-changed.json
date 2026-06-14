@@ -1,0 +1,13 @@
+{
+  "_id": "dnbwbnishtb",
+  "name": "gender-be-changed",
+  "params": {
+    "noun": "gender",
+    "verb": "be-changed"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

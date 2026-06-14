@@ -1,0 +1,13 @@
+{
+  "_id": "qylhoxmu89m",
+  "name": "descent-be-continuing",
+  "params": {
+    "noun": "descent",
+    "verb": "be-continuing"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "4c3jfl3f2jq",
+  "name": "pencil-shave-it",
+  "params": {
+    "noun": "pencil",
+    "verb": "shave-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "jz47whqkb8v",
+  "name": "rest-break-spot",
+  "params": {
+    "noun": "spot",
+    "owner": "rest-break"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

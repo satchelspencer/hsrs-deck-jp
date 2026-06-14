@@ -1,0 +1,13 @@
+{
+  "_id": "kjbt9xgv65q",
+  "name": "makeup-recollection",
+  "params": {
+    "noun": "recollection",
+    "owner": "makeup"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

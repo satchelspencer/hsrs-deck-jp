@@ -1,0 +1,13 @@
+{
+  "_id": "ugamrqnon03",
+  "name": "wine-flavor",
+  "params": {
+    "noun": "flavor",
+    "owner": "wine"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

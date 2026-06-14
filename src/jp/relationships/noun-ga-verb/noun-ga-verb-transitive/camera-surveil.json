@@ -1,0 +1,13 @@
+{
+  "_id": "13l4jjjcsqx",
+  "name": "camera-surveil",
+  "params": {
+    "noun": "camera",
+    "verb": "surveillance"
+  },
+  "parents": [
+    "noun-ga-verb-transitive"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "zjffqa24my8",
+  "name": "happy-christmas",
+  "params": {
+    "iadj": "happy",
+    "noun": "christmas"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

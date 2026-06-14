@@ -1,0 +1,13 @@
+{
+  "_id": "1412jzkr7gi",
+  "name": "famous-club",
+  "params": {
+    "na": "famous",
+    "noun": "club"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

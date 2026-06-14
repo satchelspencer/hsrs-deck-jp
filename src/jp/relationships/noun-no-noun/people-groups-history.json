@@ -1,0 +1,13 @@
+{
+  "_id": "1bdfh5utd4n",
+  "name": "people-groups-history",
+  "params": {
+    "noun": "history",
+    "owner": "people-groups"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

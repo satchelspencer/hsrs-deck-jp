@@ -1,0 +1,16 @@
+{
+  "_id": "cdepoaiozc7",
+  "desc": "jet plane, jet aircraft",
+  "name": "jet-plane",
+  "order": "4",
+  "parents": [
+    "transports",
+    "flying-things",
+    "reservables"
+  ],
+  "props": {
+    "en": "jet plane",
+    "jp": "ジェット機",
+    "tl": "じぇっとき"
+  }
+}

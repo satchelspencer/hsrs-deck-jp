@@ -1,0 +1,21 @@
+{
+  "_id": "34xl69xwlk",
+  "desc": "repair, mending, fixing, restoration",
+  "name": "repair",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "people-do-volitional",
+    "te-iru-verbs-continuous",
+    "de-location-verbs",
+    "chores",
+    "come-go-reasons"
+  ],
+  "props": {
+    "_pg": "repairing",
+    "_v": "repair it",
+    "en": "repair",
+    "jp": "修理",
+    "tl": "しゅうり"
+  }
+}

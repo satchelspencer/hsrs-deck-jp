@@ -1,0 +1,13 @@
+{
+  "_id": "yxpg3ghzlbb",
+  "name": "tournament-participate",
+  "params": {
+    "noun": "tournament",
+    "verb": "participation"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

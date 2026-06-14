@@ -1,0 +1,13 @@
+{
+  "_id": "pdy9x369c6n",
+  "name": "departure-wait",
+  "params": {
+    "noun": "departure",
+    "verb": "wait"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

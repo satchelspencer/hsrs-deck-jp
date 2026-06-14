@@ -1,0 +1,14 @@
+{
+  "_id": "zt2vtw14wfi",
+  "desc": "sign on a contract: 契約にサインする",
+  "name": "contract-signature",
+  "params": {
+    "noun": "contract",
+    "verb": "signature"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

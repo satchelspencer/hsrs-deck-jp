@@ -1,0 +1,13 @@
+{
+  "_id": "wys45khkb8z",
+  "name": "know-world-of-life",
+  "params": {
+    "noun": "world-of-life",
+    "verb": "know"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

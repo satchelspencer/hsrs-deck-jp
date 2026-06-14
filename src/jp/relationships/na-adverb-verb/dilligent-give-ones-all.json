@@ -1,0 +1,13 @@
+{
+  "_id": "engrvi9ofhu",
+  "name": "dilligent-give-ones-all",
+  "params": {
+    "na": "dilligent",
+    "verb": "give-ones-all"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

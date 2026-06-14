@@ -1,0 +1,13 @@
+{
+  "_id": "npy8qxaok8q",
+  "name": "plot-of-land-be-left-over",
+  "params": {
+    "noun": "plot-of-land",
+    "verb": "be-left-over"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

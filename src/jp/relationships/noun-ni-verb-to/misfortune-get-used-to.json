@@ -1,0 +1,13 @@
+{
+  "_id": "zawgmo44v7n",
+  "name": "misfortune-get-used-to",
+  "params": {
+    "noun": "misfortune",
+    "verb": "get-used-to"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

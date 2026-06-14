@@ -1,0 +1,13 @@
+{
+  "_id": "c11nsyuqkjt",
+  "name": "tent-build",
+  "params": {
+    "noun": "tent",
+    "verb": "build"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

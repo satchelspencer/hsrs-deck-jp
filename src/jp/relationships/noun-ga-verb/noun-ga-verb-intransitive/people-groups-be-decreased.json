@@ -1,0 +1,13 @@
+{
+  "_id": "c75q6os6bvb",
+  "name": "people-groups-be-decreased",
+  "params": {
+    "noun": "people-groups",
+    "verb": "be-decreased"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "lrq7dun0d86",
+  "name": "pregnancy-preparation-no",
+  "params": {
+    "noun": "preparation",
+    "owner": "pregnancy"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

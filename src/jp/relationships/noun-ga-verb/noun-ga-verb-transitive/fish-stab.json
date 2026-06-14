@@ -1,0 +1,13 @@
+{
+  "_id": "y0js50ofyvr",
+  "name": "fish-stab",
+  "params": {
+    "noun": "fish",
+    "verb": "stab"
+  },
+  "parents": [
+    "noun-ga-verb-transitive"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "hej0masp5wc",
+  "name": "descent-hill",
+  "params": {
+    "no": "descent",
+    "noun": "hill"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

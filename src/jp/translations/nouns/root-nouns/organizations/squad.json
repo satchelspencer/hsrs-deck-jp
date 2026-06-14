@@ -1,0 +1,14 @@
+{
+  "_id": "um1wy30nbny",
+  "desc": "group, squad, team (organized unit)",
+  "name": "squad",
+  "order": "4",
+  "parents": [
+    "organizations"
+  ],
+  "props": {
+    "en": "squad",
+    "jp": "班",
+    "tl": "はん"
+  }
+}

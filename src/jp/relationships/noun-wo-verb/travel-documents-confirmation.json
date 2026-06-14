@@ -1,0 +1,13 @@
+{
+  "_id": "tgnhkjxox9j",
+  "name": "travel-documents-confirmation",
+  "params": {
+    "noun": "travel-documents",
+    "verb": "confirmation"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

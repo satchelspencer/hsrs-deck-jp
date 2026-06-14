@@ -1,0 +1,13 @@
+{
+  "_id": "01kklg4e0b0",
+  "name": "fabrics-make",
+  "params": {
+    "noun": "fabrics",
+    "verb": "make"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

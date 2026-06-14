@@ -1,0 +1,13 @@
+{
+  "_id": "7p6g751cc0a",
+  "name": "military-jet-plane",
+  "params": {
+    "noun": "jet-plane",
+    "owner": "military"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "92cnt83j4d8",
+  "name": "floor-take-down",
+  "params": {
+    "noun": "floor",
+    "verb": "take-down"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

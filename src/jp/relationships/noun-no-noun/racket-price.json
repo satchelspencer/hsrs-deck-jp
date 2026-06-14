@@ -1,0 +1,13 @@
+{
+  "_id": "r29hczb6hy3",
+  "name": "racket-price",
+  "params": {
+    "noun": "price",
+    "owner": "racket"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

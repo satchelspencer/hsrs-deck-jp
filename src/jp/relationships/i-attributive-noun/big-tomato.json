@@ -1,0 +1,13 @@
+{
+  "_id": "my3cwxlipga",
+  "name": "big-tomato",
+  "params": {
+    "iadj": "big",
+    "noun": "tomato"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

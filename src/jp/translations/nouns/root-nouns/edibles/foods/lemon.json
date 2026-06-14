@@ -1,0 +1,14 @@
+{
+  "_id": "x9efdr03zs6",
+  "desc": "lemon",
+  "name": "lemon",
+  "order": "4",
+  "parents": [
+    "foods"
+  ],
+  "props": {
+    "en": "lemon",
+    "jp": "レモン",
+    "tl": "れもん"
+  }
+}

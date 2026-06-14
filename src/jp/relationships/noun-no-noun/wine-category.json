@@ -1,0 +1,13 @@
+{
+  "_id": "kd9myga5qgh",
+  "name": "wine-category",
+  "params": {
+    "noun": "category",
+    "owner": "wine"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

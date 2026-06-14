@@ -1,0 +1,13 @@
+{
+  "_id": "vdn0yxoay8h",
+  "name": "triangle-corner",
+  "params": {
+    "noun": "corner",
+    "owner": "triangle"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "k5mbfb59t31",
+  "name": "transfer-guidance",
+  "params": {
+    "noun": "guidance",
+    "owner": "transfer"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

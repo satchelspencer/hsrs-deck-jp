@@ -1,0 +1,15 @@
+{
+  "_id": "cccxcp16d6b",
+  "desc": "a win, victory (colloquial noun form of 勝つ)",
+  "name": "a-win",
+  "order": "3",
+  "parents": [
+    "abstracts",
+    "non-unique"
+  ],
+  "props": {
+    "en": "a win",
+    "jp": "勝ち",
+    "tl": "かち"
+  }
+}

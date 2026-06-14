@@ -1,0 +1,13 @@
+{
+  "_id": "gp1y8kc1r9t",
+  "name": "departure-be-decided",
+  "params": {
+    "noun": "departure",
+    "verb": "be-decided"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

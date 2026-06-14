@@ -1,0 +1,13 @@
+{
+  "_id": "ii5wbhzkalv",
+  "name": "special-mark",
+  "params": {
+    "na": "special",
+    "noun": "mark"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

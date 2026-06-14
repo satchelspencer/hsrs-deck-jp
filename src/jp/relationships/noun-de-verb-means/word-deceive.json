@@ -1,0 +1,13 @@
+{
+  "_id": "c0iwgmwm5wx",
+  "name": "word-deceive",
+  "params": {
+    "noun": "word",
+    "verb": "deceive"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

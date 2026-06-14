@@ -1,0 +1,13 @@
+{
+  "_id": "9aufonp1l15",
+  "name": "clearly-be-photographed",
+  "params": {
+    "adv": "clearly",
+    "verb": "be-photographed"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

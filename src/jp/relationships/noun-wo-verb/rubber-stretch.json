@@ -1,0 +1,13 @@
+{
+  "_id": "2w0wv2mt3n2",
+  "name": "rubber-stretch",
+  "params": {
+    "noun": "rubber",
+    "verb": "stretch-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

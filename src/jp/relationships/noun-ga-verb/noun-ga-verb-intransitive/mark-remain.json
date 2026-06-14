@@ -1,0 +1,13 @@
+{
+  "_id": "5y69gatr2f6",
+  "name": "mark-remain",
+  "params": {
+    "noun": "mark",
+    "verb": "remain"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

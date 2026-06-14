@@ -1,0 +1,16 @@
+{
+  "_id": "6hzpn3125ht",
+  "desc": "ramen noodles, Japanese noodle soup",
+  "name": "ramen",
+  "order": "2",
+  "parents": [
+    "foods",
+    "heated-edibles",
+    "hai-countable"
+  ],
+  "props": {
+    "en": "ramen",
+    "jp": "ラーメン",
+    "tl": "らーめん"
+  }
+}

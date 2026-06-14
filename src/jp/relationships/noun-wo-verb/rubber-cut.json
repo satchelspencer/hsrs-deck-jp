@@ -1,0 +1,13 @@
+{
+  "_id": "sqrig1j0ik3",
+  "name": "rubber-cut",
+  "params": {
+    "noun": "rubber",
+    "verb": "cut"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

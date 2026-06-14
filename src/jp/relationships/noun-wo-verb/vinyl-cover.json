@@ -1,0 +1,13 @@
+{
+  "_id": "tk8va4cut32",
+  "name": "vinyl-cover",
+  "params": {
+    "noun": "vinyl",
+    "verb": "cover-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

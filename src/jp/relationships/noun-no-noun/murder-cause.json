@@ -1,0 +1,13 @@
+{
+  "_id": "3fwhe8wmy5x",
+  "name": "murder-cause",
+  "params": {
+    "noun": "cause",
+    "owner": "murder"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "0h9n2iarco5",
+  "desc": "choose which menu/set meal to order",
+  "name": "choose-menu",
+  "params": {
+    "noun": "menu",
+    "verb": "choose"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

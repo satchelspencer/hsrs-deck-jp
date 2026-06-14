@@ -1,0 +1,13 @@
+{
+  "_id": "i4dsnp49a9m",
+  "name": "hardship-serious",
+  "params": {
+    "na": "serious",
+    "noun": "hardship"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

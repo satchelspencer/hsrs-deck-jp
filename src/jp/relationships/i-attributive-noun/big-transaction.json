@@ -1,0 +1,13 @@
+{
+  "_id": "959mwjfemvm",
+  "name": "big-transaction",
+  "params": {
+    "iadj": "big",
+    "noun": "transaction"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "lh9qtxb080q",
+  "name": "speciality-cooking",
+  "params": {
+    "na": "speciality",
+    "noun": "cooking"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

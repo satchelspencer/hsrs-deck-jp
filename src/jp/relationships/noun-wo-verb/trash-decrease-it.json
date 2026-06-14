@@ -1,0 +1,13 @@
+{
+  "_id": "cm5q9ibf1q2",
+  "name": "trash-decrease-it",
+  "params": {
+    "noun": "trash",
+    "verb": "decrease-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

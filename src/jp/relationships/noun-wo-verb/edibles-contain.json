@@ -1,0 +1,13 @@
+{
+  "_id": "ncoqy95tyqw",
+  "name": "edibles-contain",
+  "params": {
+    "noun": "edibles",
+    "verb": "contain"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

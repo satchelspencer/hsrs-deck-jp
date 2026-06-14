@@ -1,0 +1,13 @@
+{
+  "_id": "k7f2ir59aot",
+  "name": "drive-mood",
+  "params": {
+    "noun": "mood",
+    "owner": "drive"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

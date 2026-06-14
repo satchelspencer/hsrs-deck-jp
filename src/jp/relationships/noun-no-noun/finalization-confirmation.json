@@ -1,0 +1,13 @@
+{
+  "_id": "nf1sg8ko6l3",
+  "name": "finalization-confirmation",
+  "params": {
+    "noun": "confirmation",
+    "owner": "finalization"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

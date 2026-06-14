@@ -1,0 +1,13 @@
+{
+  "_id": "lhm9xzvbbl2",
+  "name": "stewardess-ni-speak",
+  "params": {
+    "noun": "stewardess",
+    "verb": "speak"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

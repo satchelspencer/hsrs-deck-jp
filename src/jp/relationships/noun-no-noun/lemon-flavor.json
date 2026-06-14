@@ -1,0 +1,13 @@
+{
+  "_id": "ojra940aivd",
+  "name": "lemon-flavor",
+  "params": {
+    "noun": "flavor",
+    "owner": "lemon"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

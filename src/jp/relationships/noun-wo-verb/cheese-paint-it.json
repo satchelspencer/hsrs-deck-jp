@@ -1,0 +1,14 @@
+{
+  "_id": "42o3uk3cjbj",
+  "desc": "塗る is spread/apply in this context",
+  "name": "cheese-paint-it",
+  "params": {
+    "noun": "cheese",
+    "verb": "paint-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

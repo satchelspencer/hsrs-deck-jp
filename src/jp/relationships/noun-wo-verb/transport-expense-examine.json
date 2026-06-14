@@ -1,0 +1,13 @@
+{
+  "_id": "ifr3ixf1l05",
+  "name": "transport-expense-examine",
+  "params": {
+    "noun": "transport-expense",
+    "verb": "examine"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

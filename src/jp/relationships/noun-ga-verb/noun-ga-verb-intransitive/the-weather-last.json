@@ -1,0 +1,13 @@
+{
+  "_id": "v7ri1ftdt0k",
+  "name": "the-weather-last",
+  "params": {
+    "noun": "the-weather",
+    "verb": "last"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

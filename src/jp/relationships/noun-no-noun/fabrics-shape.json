@@ -1,0 +1,13 @@
+{
+  "_id": "qgsa7ezv1cy",
+  "name": "fabrics-shape",
+  "params": {
+    "noun": "shape",
+    "owner": "fabrics"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

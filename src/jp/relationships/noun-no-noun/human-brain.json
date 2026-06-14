@@ -1,0 +1,13 @@
+{
+  "_id": "3ua54rxnko1",
+  "name": "human-brain",
+  "params": {
+    "noun": "brain",
+    "owner": "human-being"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

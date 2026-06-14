@@ -1,0 +1,13 @@
+{
+  "_id": "u8bkve31mdb",
+  "name": "magazine-article",
+  "params": {
+    "noun": "article",
+    "owner": "magazine"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

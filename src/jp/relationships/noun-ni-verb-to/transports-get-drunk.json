@@ -1,0 +1,14 @@
+{
+  "_id": "oqduz2kc0un",
+  "desc": "酔う means get motion sick with vehicles",
+  "name": "transports-get-drunk",
+  "params": {
+    "noun": "transports",
+    "verb": "get-drunk"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

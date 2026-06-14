@@ -1,0 +1,13 @@
+{
+  "_id": "hkonc668ggd",
+  "name": "paper-tear",
+  "params": {
+    "noun": "paper",
+    "verb": "tear"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

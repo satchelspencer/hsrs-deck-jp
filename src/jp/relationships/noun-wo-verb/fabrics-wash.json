@@ -1,0 +1,13 @@
+{
+  "_id": "t36s85odoc6",
+  "name": "fabrics-wash",
+  "params": {
+    "noun": "fabrics",
+    "verb": "wash"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

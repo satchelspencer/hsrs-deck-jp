@@ -1,0 +1,14 @@
+{
+  "_id": "1ldpbduxx9y",
+  "desc": "体がもつ means the body holds up/endures",
+  "name": "body-last",
+  "params": {
+    "noun": "body",
+    "verb": "last"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

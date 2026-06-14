@@ -1,0 +1,18 @@
+{
+  "_id": "zxv59nyh45i",
+  "desc": "applying makeup, doing one's makeup",
+  "name": "makeup",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "te-iru-verbs-continuous",
+    "people-do-volitional"
+  ],
+  "props": {
+    "_pg": "applying makeup",
+    "_v": "apply makeup",
+    "en": "makeup",
+    "jp": "化粧",
+    "tl": "けしょう"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "899s6autwsd",
+  "desc": "classical music (genre)",
+  "name": "classical-music",
+  "order": "3",
+  "parents": [
+    "music-genres"
+  ],
+  "props": {
+    "en": "classical music",
+    "jp": "クラシック",
+    "tl": "くらしっく"
+  }
+}

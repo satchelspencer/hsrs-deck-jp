@@ -1,0 +1,16 @@
+{
+  "_id": "6f779tsz4il",
+  "desc": "バッグ is a loanword alternate of 鞄",
+  "name": "bag-katakana",
+  "order": "4",
+  "parents": [
+    "alternates",
+    "containers",
+    "products"
+  ],
+  "props": {
+    "en": "bag",
+    "jp": "バッグ",
+    "tl": "ばっぐ"
+  }
+}

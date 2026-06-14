@@ -1,0 +1,13 @@
+{
+  "_id": "puo2rlwfg29",
+  "name": "convenient-plastic",
+  "params": {
+    "na": "convenience",
+    "noun": "plastic"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "15a42adm66h",
+  "desc": "高い = expensive in this context",
+  "name": "high-plot-of-land",
+  "params": {
+    "iadj": "high",
+    "noun": "plot-of-land"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "2hpgdiqc9ky",
+  "name": "bus-stop-vehicle",
+  "params": {
+    "noun": "bus",
+    "verb": "stop-vehicle"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

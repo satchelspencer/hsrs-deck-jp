@@ -1,0 +1,13 @@
+{
+  "_id": "7hjmb2c1d9f",
+  "name": "switch-touch",
+  "params": {
+    "noun": "switch",
+    "verb": "touch"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

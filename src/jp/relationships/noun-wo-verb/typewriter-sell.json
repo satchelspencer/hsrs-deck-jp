@@ -1,0 +1,13 @@
+{
+  "_id": "q9f5gihfyr6",
+  "name": "typewriter-sell",
+  "params": {
+    "noun": "typewriter",
+    "verb": "sell"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

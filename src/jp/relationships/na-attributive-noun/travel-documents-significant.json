@@ -1,0 +1,13 @@
+{
+  "_id": "40t5wwkzwh9",
+  "name": "travel-documents-significant",
+  "params": {
+    "na": "significant",
+    "noun": "travel-documents"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

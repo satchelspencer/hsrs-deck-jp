@@ -1,0 +1,13 @@
+{
+  "_id": "2w32pfy90jc",
+  "name": "edibles-remain",
+  "params": {
+    "noun": "edibles",
+    "verb": "remain"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

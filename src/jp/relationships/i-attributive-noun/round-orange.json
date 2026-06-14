@@ -1,0 +1,13 @@
+{
+  "_id": "tqlbb6su50d",
+  "name": "round-orange",
+  "params": {
+    "iadj": "round",
+    "noun": "orange"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

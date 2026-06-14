@@ -1,0 +1,13 @@
+{
+  "_id": "q5xd1mqgdvx",
+  "name": "wind-ac-unit",
+  "params": {
+    "noun": "wind",
+    "owner": "ac-unit"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

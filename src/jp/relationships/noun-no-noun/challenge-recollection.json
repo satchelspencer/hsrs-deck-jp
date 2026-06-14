@@ -1,0 +1,13 @@
+{
+  "_id": "at5hsx2l9ob",
+  "name": "challenge-recollection",
+  "params": {
+    "noun": "recollection",
+    "owner": "challenge"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

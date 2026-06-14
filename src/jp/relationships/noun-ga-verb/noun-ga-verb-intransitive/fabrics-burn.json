@@ -1,0 +1,13 @@
+{
+  "_id": "rwa479babd8",
+  "name": "fabrics-burn",
+  "params": {
+    "noun": "fabrics",
+    "verb": "burn"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

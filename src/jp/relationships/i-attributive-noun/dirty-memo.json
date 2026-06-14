@@ -1,0 +1,13 @@
+{
+  "_id": "g7vomncyeke",
+  "name": "dirty-memo",
+  "params": {
+    "iadj": "dirty",
+    "noun": "memo"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "sl9sttzdjj6",
+  "name": "rubber-stretches",
+  "params": {
+    "noun": "rubber",
+    "verb": "be-stretched"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

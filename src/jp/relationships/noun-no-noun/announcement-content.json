@@ -1,0 +1,13 @@
+{
+  "_id": "zbcz029b5vy",
+  "name": "announcement-content",
+  "params": {
+    "noun": "content",
+    "owner": "announcement"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

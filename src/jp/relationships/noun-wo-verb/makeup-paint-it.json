@@ -1,0 +1,14 @@
+{
+  "_id": "32zmphpwfd9",
+  "desc": "paint-it is apply in this context",
+  "name": "makeup-paint-it",
+  "params": {
+    "noun": "makeup",
+    "verb": "paint-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "iv1eqcccuzq",
+  "name": "cheap-substitute",
+  "params": {
+    "iadj": "cheap",
+    "verb": "substitute"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "rtz0u61sl1w",
+  "desc": "時間を稼ぐ means to buy/stall for time",
+  "name": "earn-time",
+  "params": {
+    "noun": "hours",
+    "verb": "earn"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

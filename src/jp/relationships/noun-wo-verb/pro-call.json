@@ -1,0 +1,13 @@
+{
+  "_id": "tn27z3vzqq9",
+  "name": "pro-call",
+  "params": {
+    "noun": "pro",
+    "verb": "call"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

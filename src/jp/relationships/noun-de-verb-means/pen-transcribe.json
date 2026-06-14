@@ -1,0 +1,13 @@
+{
+  "_id": "symrtrpy1al",
+  "name": "pen-transcribe",
+  "params": {
+    "noun": "pen",
+    "verb": "transcribe"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

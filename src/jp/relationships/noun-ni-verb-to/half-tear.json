@@ -1,0 +1,13 @@
+{
+  "_id": "jvzpctwavt5",
+  "name": "half-tear",
+  "params": {
+    "noun": "half",
+    "verb": "tear"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

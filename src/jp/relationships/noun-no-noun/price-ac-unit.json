@@ -1,0 +1,13 @@
+{
+  "_id": "20am8ygx75g",
+  "name": "price-ac-unit",
+  "params": {
+    "noun": "price",
+    "owner": "ac-unit"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

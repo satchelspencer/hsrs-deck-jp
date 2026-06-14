@@ -1,0 +1,13 @@
+{
+  "_id": "2cvzl5l9ssu",
+  "name": "a-win-number-of",
+  "params": {
+    "noun": "number-of",
+    "owner": "a-win"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

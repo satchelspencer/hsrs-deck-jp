@@ -1,0 +1,13 @@
+{
+  "_id": "per76jgn25y",
+  "name": "weak-brain",
+  "params": {
+    "iadj": "weak",
+    "noun": "brain"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

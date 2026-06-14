@@ -1,0 +1,13 @@
+{
+  "_id": "meme6662jgr",
+  "name": "a-win-be-increased",
+  "params": {
+    "noun": "a-win",
+    "verb": "be-increased"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "cybop9nkhzy",
+  "name": "stewardess-call",
+  "params": {
+    "noun": "stewardess",
+    "verb": "call"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "ygj2axvxuu0",
+  "name": "hardship-be-continuing",
+  "params": {
+    "noun": "hardship",
+    "verb": "be-continuing"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

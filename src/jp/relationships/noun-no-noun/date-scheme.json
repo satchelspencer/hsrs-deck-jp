@@ -1,0 +1,13 @@
+{
+  "_id": "ji0yt78cc5z",
+  "name": "date-scheme",
+  "params": {
+    "noun": "scheme",
+    "owner": "date"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

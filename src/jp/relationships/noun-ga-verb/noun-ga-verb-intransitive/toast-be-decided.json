@@ -1,0 +1,13 @@
+{
+  "_id": "9yrpim68gke",
+  "name": "toast-be-decided",
+  "params": {
+    "noun": "toast",
+    "verb": "be-decided"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

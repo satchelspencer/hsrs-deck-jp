@@ -1,0 +1,13 @@
+{
+  "_id": "hw2p1oamvbs",
+  "name": "sweet-banana",
+  "params": {
+    "iadj": "sweet",
+    "noun": "banana"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

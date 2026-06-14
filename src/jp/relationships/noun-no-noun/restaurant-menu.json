@@ -1,0 +1,13 @@
+{
+  "_id": "25r2s73adid",
+  "name": "restaurant-menu",
+  "params": {
+    "noun": "menu",
+    "owner": "restaurant"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

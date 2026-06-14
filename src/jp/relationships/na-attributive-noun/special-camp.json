@@ -1,0 +1,13 @@
+{
+  "_id": "73xf4v733z2",
+  "name": "special-camp",
+  "params": {
+    "na": "special",
+    "noun": "camp"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "kjab8lkcdhg",
+  "desc": "banana",
+  "name": "banana",
+  "order": "3",
+  "parents": [
+    "foods"
+  ],
+  "props": {
+    "en": "banana",
+    "jp": "バナナ",
+    "tl": "ばなな"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "2xipg9crbwc",
+  "name": "racket-heavy",
+  "params": {
+    "iadj": "heavy",
+    "noun": "racket"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

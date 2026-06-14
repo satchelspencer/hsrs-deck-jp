@@ -1,0 +1,13 @@
+{
+  "_id": "7y2ti8n78m8",
+  "name": "inner-side-touch",
+  "params": {
+    "noun": "inner-side",
+    "verb": "touch"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

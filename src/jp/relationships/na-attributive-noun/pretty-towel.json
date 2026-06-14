@@ -1,0 +1,13 @@
+{
+  "_id": "30no2gdkxcc",
+  "name": "pretty-towel",
+  "params": {
+    "na": "pretty",
+    "noun": "towel"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

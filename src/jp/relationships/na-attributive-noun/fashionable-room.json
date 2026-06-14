@@ -1,0 +1,13 @@
+{
+  "_id": "j4o8vzy3nyq",
+  "name": "fashionable-room",
+  "params": {
+    "na": "fashionable",
+    "noun": "room"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

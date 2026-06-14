@@ -1,0 +1,13 @@
+{
+  "_id": "n1inwt17ho9",
+  "name": "stewardess-ni-request",
+  "params": {
+    "noun": "stewardess",
+    "verb": "request"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

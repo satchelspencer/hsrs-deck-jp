@@ -1,0 +1,13 @@
+{
+  "_id": "nwmoo5s55be",
+  "name": "plot-of-land-be-enough",
+  "params": {
+    "noun": "plot-of-land",
+    "verb": "be-enough"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

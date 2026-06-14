@@ -1,0 +1,13 @@
+{
+  "_id": "y95jh9rh1yu",
+  "name": "menu-be-changed",
+  "params": {
+    "noun": "menu",
+    "verb": "be-changed"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

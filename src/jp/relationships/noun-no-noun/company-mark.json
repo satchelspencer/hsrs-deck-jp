@@ -1,0 +1,13 @@
+{
+  "_id": "z72rme2doan",
+  "name": "company-mark",
+  "params": {
+    "noun": "mark",
+    "owner": "company"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

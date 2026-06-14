@@ -1,0 +1,13 @@
+{
+  "_id": "6d0vjhoonw5",
+  "name": "meeting-memo",
+  "params": {
+    "noun": "memo",
+    "owner": "meeting"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

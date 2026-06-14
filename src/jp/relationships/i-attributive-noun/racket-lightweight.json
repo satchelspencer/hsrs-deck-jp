@@ -1,0 +1,13 @@
+{
+  "_id": "qmi9nef5di4",
+  "name": "racket-lightweight",
+  "params": {
+    "iadj": "lightweight",
+    "noun": "racket"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

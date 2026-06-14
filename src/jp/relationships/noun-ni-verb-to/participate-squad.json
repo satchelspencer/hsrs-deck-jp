@@ -1,0 +1,13 @@
+{
+  "_id": "wbxzx0kenq0",
+  "name": "participate-squad",
+  "params": {
+    "noun": "squad",
+    "verb": "participation"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

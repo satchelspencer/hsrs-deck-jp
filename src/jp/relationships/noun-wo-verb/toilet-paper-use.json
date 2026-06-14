@@ -1,0 +1,13 @@
+{
+  "_id": "9h25syoe4p8",
+  "name": "toilet-paper-use",
+  "params": {
+    "noun": "toilet-paper",
+    "verb": "use"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

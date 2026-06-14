@@ -1,0 +1,13 @@
+{
+  "_id": "000c199r9fw",
+  "name": "vinyl-smell",
+  "params": {
+    "noun": "scent",
+    "owner": "vinyl"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

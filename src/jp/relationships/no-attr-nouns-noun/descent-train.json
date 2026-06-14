@@ -1,0 +1,13 @@
+{
+  "_id": "zdljfas5yl2",
+  "name": "descent-train",
+  "params": {
+    "no": "descent",
+    "noun": "train"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

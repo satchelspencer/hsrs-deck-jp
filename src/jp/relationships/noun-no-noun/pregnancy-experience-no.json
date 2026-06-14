@@ -1,0 +1,13 @@
+{
+  "_id": "vwzrl18rh45",
+  "name": "pregnancy-experience-no",
+  "params": {
+    "noun": "experience",
+    "owner": "pregnancy"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

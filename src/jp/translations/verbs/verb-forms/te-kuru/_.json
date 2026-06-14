@@ -1,0 +1,11 @@
+{
+  "_id": "pvng2ycl78b",
+  "name": "te-kuru",
+  "order": "4",
+  "parents": [
+    "verb-forms"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

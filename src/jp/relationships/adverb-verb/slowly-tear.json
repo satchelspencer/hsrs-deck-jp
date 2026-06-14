@@ -1,0 +1,13 @@
+{
+  "_id": "g5zfhi64t9z",
+  "name": "slowly-tear",
+  "params": {
+    "adv": "slowly",
+    "verb": "tear"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

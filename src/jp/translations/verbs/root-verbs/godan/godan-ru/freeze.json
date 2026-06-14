@@ -1,0 +1,16 @@
+{
+  "_id": "v9j9hp580hl",
+  "desc": "freeze over, be frozen",
+  "name": "freeze",
+  "order": "4",
+  "parents": [
+    "godan-ru",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "_st": "frozen",
+    "en": "freeze",
+    "jp": "凍る",
+    "tl": "こおる"
+  }
+}

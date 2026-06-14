@@ -1,0 +1,13 @@
+{
+  "_id": "x18z7wgb81n",
+  "name": "tournament-preparation",
+  "params": {
+    "noun": "preparation",
+    "owner": "tournament"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

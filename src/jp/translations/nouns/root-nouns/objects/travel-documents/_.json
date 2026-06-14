@@ -1,0 +1,10 @@
+{
+  "_id": "87n1fhwfbls",
+  "name": "travel-documents",
+  "parents": [
+    "objects"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

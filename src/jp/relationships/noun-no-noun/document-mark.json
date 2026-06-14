@@ -1,0 +1,13 @@
+{
+  "_id": "jdveik2mi0k",
+  "name": "document-mark",
+  "params": {
+    "noun": "mark",
+    "owner": "document"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

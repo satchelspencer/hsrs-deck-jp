@@ -1,0 +1,13 @@
+{
+  "_id": "uanq7ajryua",
+  "name": "museum-ticket",
+  "params": {
+    "noun": "ticket",
+    "owner": "museum"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

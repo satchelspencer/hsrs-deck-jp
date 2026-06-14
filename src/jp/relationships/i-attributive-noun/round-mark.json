@@ -1,0 +1,13 @@
+{
+  "_id": "7s2dtwpy062",
+  "name": "round-mark",
+  "params": {
+    "iadj": "round",
+    "noun": "mark"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

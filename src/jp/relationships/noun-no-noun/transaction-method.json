@@ -1,0 +1,13 @@
+{
+  "_id": "iexyecthb7p",
+  "name": "transaction-method",
+  "params": {
+    "noun": "method",
+    "owner": "transaction"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

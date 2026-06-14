@@ -1,0 +1,13 @@
+{
+  "_id": "663wd8nkc5k",
+  "name": "food-be-left-over",
+  "params": {
+    "noun": "food",
+    "verb": "be-left-over"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

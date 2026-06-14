@@ -1,0 +1,13 @@
+{
+  "_id": "ug7pclit8zj",
+  "name": "law-prohibition",
+  "params": {
+    "noun": "prohibition",
+    "owner": "law"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

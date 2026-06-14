@@ -1,0 +1,13 @@
+{
+  "_id": "zkp3tpfllnr",
+  "name": "busy-christmas",
+  "params": {
+    "iadj": "busy",
+    "noun": "christmas"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

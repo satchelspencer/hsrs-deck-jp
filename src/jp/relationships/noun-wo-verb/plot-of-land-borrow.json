@@ -1,0 +1,13 @@
+{
+  "_id": "vs9ujsmrsj1",
+  "name": "plot-of-land-borrow",
+  "params": {
+    "noun": "plot-of-land",
+    "verb": "borrow"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

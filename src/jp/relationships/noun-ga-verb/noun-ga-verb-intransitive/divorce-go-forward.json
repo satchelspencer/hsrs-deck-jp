@@ -1,0 +1,13 @@
+{
+  "_id": "4wuqftn6a98",
+  "name": "divorce-go-forward",
+  "params": {
+    "noun": "divorce",
+    "verb": "go-forward"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

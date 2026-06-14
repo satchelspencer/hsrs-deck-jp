@@ -1,0 +1,13 @@
+{
+  "_id": "ttktjryhmd5",
+  "name": "announcement-repeat",
+  "params": {
+    "noun": "announcement",
+    "verb": "repeat"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

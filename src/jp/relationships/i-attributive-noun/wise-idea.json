@@ -1,0 +1,13 @@
+{
+  "_id": "r0brxdhi12p",
+  "name": "wise-idea",
+  "params": {
+    "iadj": "wise",
+    "noun": "idea"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

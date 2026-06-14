@@ -1,0 +1,13 @@
+{
+  "_id": "i3oa9drhs40",
+  "name": "abruptly-divorce",
+  "params": {
+    "adv": "abruptly",
+    "verb": "divorce"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

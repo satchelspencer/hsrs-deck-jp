@@ -1,0 +1,13 @@
+{
+  "_id": "oe2tzqx4u57",
+  "name": "orgs-prohibit",
+  "params": {
+    "noun": "organizations",
+    "verb": "prohibition"
+  },
+  "parents": [
+    "noun-ga-verb-transitive"
+  ],
+  "props": {
+  }
+}

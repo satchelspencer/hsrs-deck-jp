@@ -1,0 +1,13 @@
+{
+  "_id": "t0vli8mlqk3",
+  "name": "table-take-down",
+  "params": {
+    "noun": "table",
+    "verb": "take-down"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

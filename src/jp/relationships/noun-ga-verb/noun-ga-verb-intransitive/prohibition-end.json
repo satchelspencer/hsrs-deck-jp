@@ -1,0 +1,13 @@
+{
+  "_id": "ywe3dka82o0",
+  "name": "prohibition-end",
+  "params": {
+    "noun": "prohibition",
+    "verb": "end"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

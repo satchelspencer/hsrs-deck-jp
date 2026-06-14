@@ -1,0 +1,13 @@
+{
+  "_id": "fnwuk47mmg0",
+  "name": "abnormal-murder",
+  "params": {
+    "na": "abnormal",
+    "noun": "murder"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

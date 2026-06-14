@@ -1,0 +1,13 @@
+{
+  "_id": "hf87gzufaht",
+  "name": "big-be-photographed",
+  "params": {
+    "iadj": "big",
+    "verb": "be-photographed"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

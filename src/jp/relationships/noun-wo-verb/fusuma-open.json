@@ -1,0 +1,13 @@
+{
+  "_id": "175blyrpk1j",
+  "name": "fusuma-open",
+  "params": {
+    "noun": "fusuma",
+    "verb": "open-akeru"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "024madsn9rb",
+  "name": "bright-toast",
+  "params": {
+    "iadj": "bright",
+    "verb": "toast"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

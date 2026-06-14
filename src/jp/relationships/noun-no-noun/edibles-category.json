@@ -1,0 +1,13 @@
+{
+  "_id": "2wgkjls5rzf",
+  "name": "edibles-category",
+  "params": {
+    "noun": "category",
+    "owner": "edibles"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "j49ecj05ggk",
+  "name": "bright-be-photographed",
+  "params": {
+    "iadj": "bright",
+    "verb": "be-photographed"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "3728awlg754",
+  "name": "challenge-accept",
+  "params": {
+    "noun": "challenge",
+    "verb": "accept"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

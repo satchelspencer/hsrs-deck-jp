@@ -1,0 +1,14 @@
+{
+  "_id": "b6qvsenzfl9",
+  "desc": "thick noodles",
+  "name": "fat-ramen",
+  "params": {
+    "iadj": "fat",
+    "noun": "ramen"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

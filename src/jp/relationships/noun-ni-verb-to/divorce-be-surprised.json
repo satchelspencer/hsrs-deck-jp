@@ -1,0 +1,13 @@
+{
+  "_id": "zy2jhll3bfs",
+  "name": "divorce-be-surprised",
+  "params": {
+    "noun": "divorce",
+    "verb": "be-surprised"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "9lg3zstrw5w",
+  "name": "descent-run",
+  "params": {
+    "noun": "descent",
+    "verb": "run"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

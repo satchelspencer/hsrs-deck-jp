@@ -1,0 +1,13 @@
+{
+  "_id": "hd5j72vrg1p",
+  "name": "drive-scheme",
+  "params": {
+    "noun": "scheme",
+    "owner": "drive"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

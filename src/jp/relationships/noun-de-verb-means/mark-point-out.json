@@ -1,0 +1,13 @@
+{
+  "_id": "xc36kb7xdn1",
+  "name": "mark-point-out",
+  "params": {
+    "noun": "mark",
+    "verb": "point-out"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

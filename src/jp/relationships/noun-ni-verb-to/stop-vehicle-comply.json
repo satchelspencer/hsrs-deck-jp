@@ -1,0 +1,13 @@
+{
+  "_id": "d03z0k9per8",
+  "name": "stop-vehicle-comply",
+  "params": {
+    "noun": "stop-vehicle",
+    "verb": "comply"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

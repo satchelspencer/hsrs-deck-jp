@@ -1,0 +1,13 @@
+{
+  "_id": "rgqbvozalw2",
+  "name": "tournament-do-to",
+  "params": {
+    "noun": "tournament",
+    "verb": "enjoy"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

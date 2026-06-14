@@ -1,0 +1,13 @@
+{
+  "_id": "ihrq5fwjkrh",
+  "name": "date-embarassed",
+  "params": {
+    "iadj": "embarassed",
+    "verb": "date"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

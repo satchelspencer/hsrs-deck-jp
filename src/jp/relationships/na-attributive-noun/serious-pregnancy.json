@@ -1,0 +1,13 @@
+{
+  "_id": "wwnpl4lg4x9",
+  "name": "serious-pregnancy",
+  "params": {
+    "na": "serious",
+    "noun": "pregnancy"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

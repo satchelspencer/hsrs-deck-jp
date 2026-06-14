@@ -1,0 +1,13 @@
+{
+  "_id": "aiewlz43t7a",
+  "name": "plastic-price",
+  "params": {
+    "noun": "price",
+    "owner": "plastic"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

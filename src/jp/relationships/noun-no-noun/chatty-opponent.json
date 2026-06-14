@@ -1,0 +1,14 @@
+{
+  "_id": "vj597vkbjxs",
+  "desc": "おしゃべりの相手 means chat partner/companion",
+  "name": "chatty-opponent",
+  "params": {
+    "noun": "chatting",
+    "owner": "opponent"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

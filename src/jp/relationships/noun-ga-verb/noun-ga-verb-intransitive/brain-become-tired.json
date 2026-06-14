@@ -1,0 +1,13 @@
+{
+  "_id": "fi3y7ce0mt4",
+  "name": "brain-become-tired",
+  "params": {
+    "noun": "brain",
+    "verb": "become-tired"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

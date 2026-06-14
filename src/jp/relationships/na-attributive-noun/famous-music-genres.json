@@ -1,0 +1,13 @@
+{
+  "_id": "pq67qtiw14k",
+  "name": "famous-music-genres",
+  "params": {
+    "na": "famous",
+    "noun": "music-genres"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

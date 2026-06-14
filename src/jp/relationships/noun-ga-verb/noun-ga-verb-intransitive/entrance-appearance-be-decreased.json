@@ -1,0 +1,13 @@
+{
+  "_id": "l11xsmmk8ob",
+  "name": "entrance-appearance-be-decreased",
+  "params": {
+    "noun": "entrance-appearance",
+    "verb": "be-decreased"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

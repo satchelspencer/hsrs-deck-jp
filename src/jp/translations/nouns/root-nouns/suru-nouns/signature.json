@@ -1,0 +1,19 @@
+{
+  "_id": "ym3vt7419le",
+  "desc": "signature, autograph, signing",
+  "name": "signature",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "people-do-volitional",
+    "de-location-verbs",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "_st": "signed",
+    "_v": "sign it",
+    "en": "signature",
+    "jp": "サイン",
+    "tl": "さいん"
+  }
+}

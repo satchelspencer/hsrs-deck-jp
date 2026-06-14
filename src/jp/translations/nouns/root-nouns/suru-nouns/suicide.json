@@ -1,0 +1,15 @@
+{
+  "_id": "nublyve8n2b",
+  "name": "suicide",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "people-do"
+  ],
+  "props": {
+    "_v": "commit suicide",
+    "en": "suicide",
+    "jp": "自殺",
+    "tl": "じさつ"
+  }
+}

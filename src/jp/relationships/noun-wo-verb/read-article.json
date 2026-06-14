@@ -1,0 +1,13 @@
+{
+  "_id": "mdcbxhipbsw",
+  "name": "read-article",
+  "params": {
+    "noun": "article",
+    "verb": "read"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "trzjemj5o78",
+  "name": "entrance-appearance-method",
+  "params": {
+    "noun": "method",
+    "owner": "entrance-appearance"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "4bh8udegtfr",
+  "name": "sad-suicide",
+  "params": {
+    "iadj": "sad",
+    "noun": "suicide"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

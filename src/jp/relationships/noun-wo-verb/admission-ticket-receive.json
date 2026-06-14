@@ -1,0 +1,13 @@
+{
+  "_id": "zrkfb3soflj",
+  "name": "admission-ticket-receive",
+  "params": {
+    "noun": "admission-ticket",
+    "verb": "recieve"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

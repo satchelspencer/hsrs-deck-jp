@@ -1,0 +1,13 @@
+{
+  "_id": "i0ce463vkpc",
+  "name": "patrol-car-call",
+  "params": {
+    "noun": "patrol-car",
+    "verb": "call"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

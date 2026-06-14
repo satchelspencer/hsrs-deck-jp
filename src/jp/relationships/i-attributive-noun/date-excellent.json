@@ -1,0 +1,13 @@
+{
+  "_id": "sjj56n6hwym",
+  "name": "date-excellent",
+  "params": {
+    "iadj": "excellent",
+    "noun": "date"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

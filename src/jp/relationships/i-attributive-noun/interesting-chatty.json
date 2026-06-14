@@ -1,0 +1,13 @@
+{
+  "_id": "drtlfei96ke",
+  "name": "interesting-chatty",
+  "params": {
+    "iadj": "interesting",
+    "noun": "chatting"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

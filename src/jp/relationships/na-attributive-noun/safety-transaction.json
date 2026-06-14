@@ -1,0 +1,13 @@
+{
+  "_id": "xv1y12nmtfd",
+  "name": "safety-transaction",
+  "params": {
+    "na": "safety",
+    "noun": "transaction"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "coutcmbvy5q",
+  "name": "zoo-admission-ticket",
+  "params": {
+    "noun": "admission-ticket",
+    "owner": "zoo"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

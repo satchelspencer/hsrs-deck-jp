@@ -1,0 +1,15 @@
+{
+  "_id": "76a1c413wec",
+  "desc": "to substitute, to replace (one thing with another), to use in place of",
+  "name": "substitute",
+  "order": "4",
+  "parents": [
+    "ichidan",
+    "people-do-volitional"
+  ],
+  "props": {
+    "en": "substitute",
+    "jp": "代える",
+    "tl": "かえる"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "36h6o92aze5",
+  "name": "music-genres-be-popular",
+  "params": {
+    "noun": "music-genres",
+    "verb": "be-popular"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

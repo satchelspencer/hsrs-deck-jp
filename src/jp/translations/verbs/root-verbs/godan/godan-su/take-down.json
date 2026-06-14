@@ -1,0 +1,17 @@
+{
+  "_id": "9nci7fjwrl8",
+  "desc": "to take down, to lower (from a height), to unload, to withdraw (money), to grate (food)",
+  "name": "take-down",
+  "order": "3",
+  "parents": [
+    "godan-su",
+    "people-do-volitional",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "taking it down",
+    "en": "take it down",
+    "jp": "下ろす",
+    "tl": "おろす"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "ysh6409g24i",
+  "name": "difficult-repair",
+  "params": {
+    "iadj": "difficult",
+    "noun": "repair"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

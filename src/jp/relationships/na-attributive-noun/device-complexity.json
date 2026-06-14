@@ -1,0 +1,13 @@
+{
+  "_id": "28vh25e1q7r",
+  "name": "device-complexity",
+  "params": {
+    "na": "complexity",
+    "noun": "device"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

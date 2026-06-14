@@ -1,0 +1,14 @@
+{
+  "_id": "ummdewiza0e",
+  "desc": "wool, woolen fabric",
+  "name": "wool",
+  "order": "3",
+  "parents": [
+    "fabrics"
+  ],
+  "props": {
+    "en": "wool",
+    "jp": "ウール",
+    "tl": "うーる"
+  }
+}

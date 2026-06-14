@@ -1,0 +1,13 @@
+{
+  "_id": "sg4xesyij94",
+  "name": "cheap-lighter",
+  "params": {
+    "iadj": "cheap",
+    "noun": "lighter"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

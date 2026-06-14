@@ -1,0 +1,13 @@
+{
+  "_id": "y71bgfgu8ad",
+  "name": "plot-of-land-lend",
+  "params": {
+    "noun": "plot-of-land",
+    "verb": "lend"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

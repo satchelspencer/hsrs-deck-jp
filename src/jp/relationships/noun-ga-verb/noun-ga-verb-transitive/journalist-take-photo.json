@@ -1,0 +1,13 @@
+{
+  "_id": "zj2gjbjebg4",
+  "name": "journalist-take-photo",
+  "params": {
+    "noun": "journalist",
+    "verb": "take-photo"
+  },
+  "parents": [
+    "noun-ga-verb-transitive"
+  ],
+  "props": {
+  }
+}

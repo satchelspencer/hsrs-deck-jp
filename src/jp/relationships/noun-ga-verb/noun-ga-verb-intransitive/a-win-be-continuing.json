@@ -1,0 +1,13 @@
+{
+  "_id": "8kybvfoljrg",
+  "name": "a-win-be-continuing",
+  "params": {
+    "noun": "a-win",
+    "verb": "be-continuing"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

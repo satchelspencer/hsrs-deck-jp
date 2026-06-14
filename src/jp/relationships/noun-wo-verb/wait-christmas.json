@@ -1,0 +1,13 @@
+{
+  "_id": "36uze2w7yjf",
+  "name": "wait-christmas",
+  "params": {
+    "noun": "christmas",
+    "verb": "wait"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

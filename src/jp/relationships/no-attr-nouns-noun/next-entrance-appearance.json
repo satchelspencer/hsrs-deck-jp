@@ -1,0 +1,13 @@
+{
+  "_id": "39usnfih7j5",
+  "name": "next-entrance-appearance",
+  "params": {
+    "no": "next",
+    "noun": "entrance-appearance"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

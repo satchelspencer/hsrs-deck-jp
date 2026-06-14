@@ -1,0 +1,13 @@
+{
+  "_id": "s74c2ztsfoh",
+  "name": "mark-find",
+  "params": {
+    "noun": "mark",
+    "verb": "find"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

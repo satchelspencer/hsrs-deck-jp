@@ -1,0 +1,13 @@
+{
+  "_id": "tdr5rntbzzp",
+  "name": "big-brain",
+  "params": {
+    "iadj": "big",
+    "noun": "brain"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "n2seiobm89p",
+  "desc": "入れる is activate/turn on in this context",
+  "name": "switch-put-in",
+  "params": {
+    "noun": "switch",
+    "verb": "put-in"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

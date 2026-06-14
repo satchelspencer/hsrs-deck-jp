@@ -1,0 +1,13 @@
+{
+  "_id": "c7n6c8wxxmf",
+  "name": "finalization-wait",
+  "params": {
+    "noun": "finalization",
+    "verb": "wait"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

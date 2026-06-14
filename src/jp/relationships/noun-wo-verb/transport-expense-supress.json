@@ -1,0 +1,14 @@
+{
+  "_id": "pymapeglb7u",
+  "desc": "抑える means to keep down/control in this context",
+  "name": "transport-expense-supress",
+  "params": {
+    "noun": "transport-expense",
+    "verb": "supress"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "dy8zkajcnss",
+  "desc": "murder, homicide, killing",
+  "name": "murder",
+  "order": "3",
+  "parents": [
+    "ken-matters-countable"
+  ],
+  "props": {
+    "en": "murder",
+    "jp": "殺人",
+    "tl": "さつじん"
+  }
+}

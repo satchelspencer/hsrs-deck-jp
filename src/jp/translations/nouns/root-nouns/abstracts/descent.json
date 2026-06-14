@@ -1,0 +1,16 @@
+{
+  "_id": "1c7inj2kb1m",
+  "desc": "downhill, descent, down-train (outbound from Tokyo)",
+  "name": "descent",
+  "order": "4",
+  "parents": [
+    "abstracts",
+    "no-attr-nouns"
+  ],
+  "props": {
+    "_at": "downbound",
+    "en": "descent",
+    "jp": "下り",
+    "tl": "くだり"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "49pg5w3ntja",
+  "name": "article-spread-out",
+  "params": {
+    "noun": "article",
+    "verb": "spread-out"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "b2izfxg7ts8",
+  "name": "signature-be-given-to",
+  "params": {
+    "noun": "signature",
+    "verb": "be-given-to"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

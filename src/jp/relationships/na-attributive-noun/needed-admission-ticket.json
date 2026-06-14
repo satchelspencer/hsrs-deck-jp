@@ -1,0 +1,13 @@
+{
+  "_id": "nq40jn93hod",
+  "name": "needed-admission-ticket",
+  "params": {
+    "na": "needed",
+    "noun": "admission-ticket"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

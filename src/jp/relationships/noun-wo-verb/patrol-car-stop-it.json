@@ -1,0 +1,13 @@
+{
+  "_id": "to9w65ric20",
+  "name": "patrol-car-stop-it",
+  "params": {
+    "noun": "patrol-car",
+    "verb": "stop-it-moving"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

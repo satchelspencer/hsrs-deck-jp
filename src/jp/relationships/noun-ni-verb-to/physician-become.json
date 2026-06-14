@@ -1,0 +1,13 @@
+{
+  "_id": "8xh4k5cr09w",
+  "name": "physician-become",
+  "params": {
+    "noun": "physician",
+    "verb": "become"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

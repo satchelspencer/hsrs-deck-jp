@@ -1,0 +1,13 @@
+{
+  "_id": "urqo33u15pd",
+  "name": "earn-points",
+  "params": {
+    "noun": "dot",
+    "verb": "earn"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

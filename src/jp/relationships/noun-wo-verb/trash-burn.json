@@ -1,0 +1,13 @@
+{
+  "_id": "tg9x9cenu28",
+  "name": "trash-burn",
+  "params": {
+    "noun": "trash",
+    "verb": "burn"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "8jbe1yrmjef",
+  "name": "organization-mark",
+  "params": {
+    "noun": "mark",
+    "owner": "organization"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "yak44kziokq",
+  "name": "sauce-color",
+  "params": {
+    "noun": "color",
+    "owner": "sauce"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

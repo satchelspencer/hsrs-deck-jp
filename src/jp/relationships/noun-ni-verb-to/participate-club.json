@@ -1,0 +1,13 @@
+{
+  "_id": "emum10gkoxp",
+  "name": "participate-club",
+  "params": {
+    "noun": "club",
+    "verb": "participation"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

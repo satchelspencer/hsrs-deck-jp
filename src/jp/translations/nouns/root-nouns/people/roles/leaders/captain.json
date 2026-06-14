@@ -1,0 +1,14 @@
+{
+  "_id": "a2p3qhy065x",
+  "desc": "ship captain, captain of a vessel",
+  "name": "captain",
+  "order": "3",
+  "parents": [
+    "leaders"
+  ],
+  "props": {
+    "en": "ship captain",
+    "jp": "船長",
+    "tl": "せんちょう"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "iafjb50ri3m",
+  "name": "strong-scratch",
+  "params": {
+    "iadj": "strong",
+    "verb": "scratch"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

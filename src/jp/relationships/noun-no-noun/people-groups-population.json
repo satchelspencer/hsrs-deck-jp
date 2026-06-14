@@ -1,0 +1,13 @@
+{
+  "_id": "jzne5s1a9z0",
+  "name": "people-groups-population",
+  "params": {
+    "noun": "population",
+    "owner": "people-groups"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

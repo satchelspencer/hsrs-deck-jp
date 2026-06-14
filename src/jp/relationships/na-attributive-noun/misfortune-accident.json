@@ -1,0 +1,13 @@
+{
+  "_id": "b5t0q5wy3vh",
+  "name": "misfortune-accident",
+  "params": {
+    "na": "misfortune",
+    "noun": "accident"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

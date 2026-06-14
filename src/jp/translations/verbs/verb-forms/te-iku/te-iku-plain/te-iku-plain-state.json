@@ -1,0 +1,14 @@
+{
+  "_id": "ftrjkdxuaj8",
+  "name": "te-iku-plain-state",
+  "params": {
+    "verb": "te-iru-verbs-state"
+  },
+  "parents": [
+    "te-iku-plain"
+  ],
+  "props": {
+    "en": "'keep becoming '+verb._st",
+    "jp": "te.jp+'いく'"
+  }
+}

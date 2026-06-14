@@ -1,0 +1,13 @@
+{
+  "_id": "ns1xg13gt8q",
+  "name": "nylon-shoes",
+  "params": {
+    "no": "nylon",
+    "noun": "shoes"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

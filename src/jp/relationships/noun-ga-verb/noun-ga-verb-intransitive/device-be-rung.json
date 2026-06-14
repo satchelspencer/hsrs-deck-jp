@@ -1,0 +1,14 @@
+{
+  "_id": "rbr4yexiv8y",
+  "desc": "鳴る means to sound/beep for a device",
+  "name": "device-be-rung",
+  "params": {
+    "noun": "device",
+    "verb": "be-rung"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

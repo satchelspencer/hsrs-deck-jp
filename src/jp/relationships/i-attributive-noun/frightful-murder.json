@@ -1,0 +1,13 @@
+{
+  "_id": "ecd3nje9m5i",
+  "name": "frightful-murder",
+  "params": {
+    "iadj": "frightful",
+    "noun": "murder"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

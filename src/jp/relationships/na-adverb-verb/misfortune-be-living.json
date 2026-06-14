@@ -1,0 +1,13 @@
+{
+  "_id": "iy0qwpz4pdx",
+  "name": "misfortune-be-living",
+  "params": {
+    "na": "misfortune",
+    "verb": "be-living"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

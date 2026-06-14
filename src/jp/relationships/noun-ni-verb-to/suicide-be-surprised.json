@@ -1,0 +1,13 @@
+{
+  "_id": "7geqn2xy8qy",
+  "name": "suicide-be-surprised",
+  "params": {
+    "noun": "suicide",
+    "verb": "be-surprised"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

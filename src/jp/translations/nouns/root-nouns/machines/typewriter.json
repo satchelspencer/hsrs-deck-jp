@@ -1,0 +1,15 @@
+{
+  "_id": "incnqw9pl7d",
+  "desc": "typewriter",
+  "name": "typewriter",
+  "order": "4",
+  "parents": [
+    "machines",
+    "non-unique"
+  ],
+  "props": {
+    "en": "typewriter",
+    "jp": "タイプライター",
+    "tl": "たいぷらいたー"
+  }
+}

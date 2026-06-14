@@ -1,0 +1,15 @@
+{
+  "_id": "xsolc4pd45e",
+  "desc": "ink for writing/printing",
+  "name": "ink",
+  "order": "4",
+  "parents": [
+    "objects",
+    "non-unique"
+  ],
+  "props": {
+    "en": "ink",
+    "jp": "インク",
+    "tl": "いんく"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "589h7pcd2uk",
+  "name": "signature-request",
+  "params": {
+    "noun": "signature",
+    "verb": "request"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

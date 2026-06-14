@@ -1,0 +1,13 @@
+{
+  "_id": "9kqg2ctzy97",
+  "name": "alcohol-get-drunk",
+  "params": {
+    "noun": "alcohol",
+    "verb": "get-drunk"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

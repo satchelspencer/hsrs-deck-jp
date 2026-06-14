@@ -1,0 +1,13 @@
+{
+  "_id": "1at4bvp1uh4",
+  "name": "device-come-to-a-stop",
+  "params": {
+    "noun": "device",
+    "verb": "come-to-a-stop"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

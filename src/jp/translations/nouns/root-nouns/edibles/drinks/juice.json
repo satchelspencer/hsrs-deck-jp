@@ -1,0 +1,13 @@
+{
+  "_id": "od4cgirg1qa",
+  "name": "juice",
+  "order": "2",
+  "parents": [
+    "drinks"
+  ],
+  "props": {
+    "en": "juice",
+    "jp": "ジュース",
+    "tl": "じゅーす"
+  }
+}

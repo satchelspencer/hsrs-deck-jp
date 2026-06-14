@@ -1,0 +1,13 @@
+{
+  "_id": "g332xdy8tpl",
+  "name": "incidentless-finalization",
+  "params": {
+    "na": "incidentless",
+    "noun": "finalization"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

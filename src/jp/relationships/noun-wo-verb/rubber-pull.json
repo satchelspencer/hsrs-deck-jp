@@ -1,0 +1,14 @@
+{
+  "_id": "0oebvpxdxwg",
+  "desc": "引っ張る is pull/stretch in this context",
+  "name": "rubber-pull",
+  "params": {
+    "noun": "rubber",
+    "verb": "drag"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

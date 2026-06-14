@@ -1,0 +1,13 @@
+{
+  "_id": "fp0kfxlc2vb",
+  "name": "leg-kick",
+  "params": {
+    "noun": "leg",
+    "verb": "kick"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

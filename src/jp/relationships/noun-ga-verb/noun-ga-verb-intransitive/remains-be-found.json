@@ -1,0 +1,13 @@
+{
+  "_id": "ntmltcr4ve7",
+  "name": "remains-be-found",
+  "params": {
+    "noun": "remains",
+    "verb": "be-found"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

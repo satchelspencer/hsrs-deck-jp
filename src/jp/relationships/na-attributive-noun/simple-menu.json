@@ -1,0 +1,13 @@
+{
+  "_id": "obllhwfxr7q",
+  "name": "simple-menu",
+  "params": {
+    "na": "simple",
+    "noun": "menu"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

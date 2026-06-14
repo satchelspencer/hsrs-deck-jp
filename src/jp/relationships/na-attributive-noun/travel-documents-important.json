@@ -1,0 +1,13 @@
+{
+  "_id": "gpxmz234iu2",
+  "name": "travel-documents-important",
+  "params": {
+    "na": "important",
+    "noun": "travel-documents"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

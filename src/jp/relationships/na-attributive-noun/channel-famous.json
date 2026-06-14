@@ -1,0 +1,13 @@
+{
+  "_id": "uixjqd9xn5t",
+  "name": "channel-famous",
+  "params": {
+    "na": "famous",
+    "noun": "channel"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

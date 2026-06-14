@@ -1,0 +1,13 @@
+{
+  "_id": "olga5qb7wgd",
+  "name": "soft-fabrics",
+  "params": {
+    "iadj": "soft",
+    "noun": "fabrics"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

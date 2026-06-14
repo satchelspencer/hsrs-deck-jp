@@ -1,0 +1,13 @@
+{
+  "_id": "pyynry9tu70",
+  "name": "fusuma-robust",
+  "params": {
+    "na": "robust",
+    "noun": "fusuma"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "8z4dl1bj0ef",
+  "name": "travel-documents-photo",
+  "params": {
+    "noun": "photo",
+    "owner": "travel-documents"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "a52mnfgnyg4",
+  "name": "convenient-transfer",
+  "params": {
+    "na": "convenience",
+    "noun": "transfer"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

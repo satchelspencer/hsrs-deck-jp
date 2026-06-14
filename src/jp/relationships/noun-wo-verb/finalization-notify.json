@@ -1,0 +1,13 @@
+{
+  "_id": "066x81eeltf",
+  "name": "finalization-notify",
+  "params": {
+    "noun": "finalization",
+    "verb": "notify"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

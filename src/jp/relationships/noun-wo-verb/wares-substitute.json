@@ -1,0 +1,13 @@
+{
+  "_id": "ooou3slvr4b",
+  "name": "wares-substitute",
+  "params": {
+    "noun": "wares",
+    "verb": "substitute"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

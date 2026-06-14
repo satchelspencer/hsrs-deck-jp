@@ -1,0 +1,13 @@
+{
+  "_id": "5vzmpnfztdx",
+  "name": "misfortune-dodge",
+  "params": {
+    "noun": "misfortune",
+    "verb": "dodge"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

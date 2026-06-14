@@ -1,0 +1,13 @@
+{
+  "_id": "dhvcqjw736r",
+  "name": "spicy-sauce",
+  "params": {
+    "iadj": "spicy",
+    "noun": "sauce"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

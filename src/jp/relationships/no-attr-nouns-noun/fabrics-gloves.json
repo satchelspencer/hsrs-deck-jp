@@ -1,0 +1,13 @@
+{
+  "_id": "6raspfo305q",
+  "name": "fabrics-gloves",
+  "params": {
+    "no": "fabrics",
+    "noun": "glove"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

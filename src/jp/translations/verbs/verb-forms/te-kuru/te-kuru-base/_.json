@@ -1,0 +1,10 @@
+{
+  "_id": "la336av1sx8",
+  "name": "te-kuru-base",
+  "parents": [
+    "te-kuru"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

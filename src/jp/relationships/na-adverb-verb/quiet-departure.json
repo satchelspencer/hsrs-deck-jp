@@ -1,0 +1,13 @@
+{
+  "_id": "ha3ivknfq97",
+  "name": "quiet-departure",
+  "params": {
+    "na": "quiet",
+    "verb": "departure"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

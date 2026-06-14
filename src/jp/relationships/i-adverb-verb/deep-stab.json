@@ -1,0 +1,13 @@
+{
+  "_id": "yzrpb7ilvp8",
+  "name": "deep-stab",
+  "params": {
+    "iadj": "deep",
+    "verb": "stab"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

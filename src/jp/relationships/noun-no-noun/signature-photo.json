@@ -1,0 +1,13 @@
+{
+  "_id": "us39ft7sg7r",
+  "name": "signature-photo",
+  "params": {
+    "noun": "photo",
+    "owner": "signature"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

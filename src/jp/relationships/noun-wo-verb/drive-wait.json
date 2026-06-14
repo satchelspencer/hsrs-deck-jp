@@ -1,0 +1,13 @@
+{
+  "_id": "l5lhi3rlnqs",
+  "name": "drive-wait",
+  "params": {
+    "noun": "drive",
+    "verb": "wait"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

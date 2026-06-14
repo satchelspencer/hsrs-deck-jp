@@ -1,0 +1,13 @@
+{
+  "_id": "hbfjvcz9hcz",
+  "name": "plot-of-land-buy",
+  "params": {
+    "noun": "plot-of-land",
+    "verb": "buy"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

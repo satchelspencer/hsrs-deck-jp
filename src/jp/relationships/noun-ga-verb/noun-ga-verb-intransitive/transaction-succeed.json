@@ -1,0 +1,13 @@
+{
+  "_id": "226e4n30zfx",
+  "name": "transaction-succeed",
+  "params": {
+    "noun": "transaction",
+    "verb": "success"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

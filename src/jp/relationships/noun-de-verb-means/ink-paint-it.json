@@ -1,0 +1,13 @@
+{
+  "_id": "4qw4s15rft4",
+  "name": "ink-paint-it",
+  "params": {
+    "noun": "ink",
+    "verb": "paint-it"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

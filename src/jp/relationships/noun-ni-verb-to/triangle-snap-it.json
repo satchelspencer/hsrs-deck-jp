@@ -1,0 +1,13 @@
+{
+  "_id": "f213sldwjz8",
+  "name": "triangle-snap-it",
+  "params": {
+    "noun": "triangle",
+    "verb": "snap-it"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

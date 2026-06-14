@@ -1,0 +1,13 @@
+{
+  "_id": "4cln0nflqfs",
+  "name": "member-organizations",
+  "params": {
+    "noun": "member",
+    "owner": "organizations"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

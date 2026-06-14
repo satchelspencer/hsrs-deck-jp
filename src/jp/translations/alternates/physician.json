@@ -1,0 +1,16 @@
+{
+  "_id": "zv7hf26m1ak",
+  "desc": "医師 is the formal/medical term for doctor (医者)",
+  "name": "physician",
+  "order": "4",
+  "parents": [
+    "alternates",
+    "people",
+    "roles"
+  ],
+  "props": {
+    "en": "doctor",
+    "jp": "医師",
+    "tl": "いし"
+  }
+}

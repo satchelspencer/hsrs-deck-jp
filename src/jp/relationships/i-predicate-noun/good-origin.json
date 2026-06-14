@@ -1,0 +1,13 @@
+{
+  "_id": "ov0vo8262pi",
+  "name": "good-origin",
+  "params": {
+    "iadj": "good",
+    "noun": "origins"
+  },
+  "parents": [
+    "i-predicate-noun"
+  ],
+  "props": {
+  }
+}

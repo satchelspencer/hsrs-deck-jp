@@ -1,0 +1,13 @@
+{
+  "_id": "dad0ueiesoq",
+  "name": "new-entrance-appearance",
+  "params": {
+    "iadj": "new",
+    "noun": "entrance-appearance"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

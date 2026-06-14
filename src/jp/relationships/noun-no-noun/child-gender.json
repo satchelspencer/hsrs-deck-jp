@@ -1,0 +1,13 @@
+{
+  "_id": "c8kctfo0cry",
+  "name": "child-gender",
+  "params": {
+    "noun": "gender",
+    "owner": "child"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

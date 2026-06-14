@@ -1,0 +1,13 @@
+{
+  "_id": "5vy0kswgkll",
+  "name": "hardship-forget",
+  "params": {
+    "noun": "hardship",
+    "verb": "forget"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

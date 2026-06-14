@@ -1,0 +1,13 @@
+{
+  "_id": "6yqwhbfrg8l",
+  "name": "inner-side-color",
+  "params": {
+    "noun": "color",
+    "owner": "inner-side"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "1ytzn8lju5v",
+  "name": "makeup-tool",
+  "params": {
+    "noun": "tool",
+    "owner": "makeup"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

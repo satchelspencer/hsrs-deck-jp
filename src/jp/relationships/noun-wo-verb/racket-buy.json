@@ -1,0 +1,13 @@
+{
+  "_id": "3c5qoknx6ys",
+  "name": "racket-buy",
+  "params": {
+    "noun": "racket",
+    "verb": "buy"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

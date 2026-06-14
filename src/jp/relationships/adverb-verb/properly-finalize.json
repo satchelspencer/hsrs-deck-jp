@@ -1,0 +1,13 @@
+{
+  "_id": "6vwrj51icmw",
+  "name": "properly-finalize",
+  "params": {
+    "adv": "properly",
+    "verb": "finalization"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

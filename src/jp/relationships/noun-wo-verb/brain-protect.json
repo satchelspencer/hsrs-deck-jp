@@ -1,0 +1,13 @@
+{
+  "_id": "ls1dnjt7oco",
+  "name": "brain-protect",
+  "params": {
+    "noun": "brain",
+    "verb": "protect"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

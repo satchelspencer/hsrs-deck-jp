@@ -1,0 +1,19 @@
+{
+  "_id": "g1whbpuc7yz",
+  "desc": "toast, cheers (raising glasses)",
+  "name": "toast",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "te-iru-verbs-continuous",
+    "people-do-volitional",
+    "do-togethers"
+  ],
+  "props": {
+    "_pg": "making a toast",
+    "_v": "make a toast",
+    "en": "a toast",
+    "jp": "乾杯",
+    "tl": "かんぱい"
+  }
+}

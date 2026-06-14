@@ -1,0 +1,13 @@
+{
+  "_id": "1tra0k0xw89",
+  "name": "divorce-seek",
+  "params": {
+    "noun": "divorce",
+    "verb": "seek"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "y3rlu7u5bsb",
+  "name": "information-deceive",
+  "params": {
+    "noun": "information",
+    "verb": "deceive"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

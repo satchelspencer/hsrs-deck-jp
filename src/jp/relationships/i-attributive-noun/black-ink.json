@@ -1,0 +1,13 @@
+{
+  "_id": "0eohl3mixhx",
+  "name": "black-ink",
+  "params": {
+    "iadj": "black",
+    "noun": "ink"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

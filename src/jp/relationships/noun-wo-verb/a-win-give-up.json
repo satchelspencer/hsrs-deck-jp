@@ -1,0 +1,13 @@
+{
+  "_id": "mupyia3ozpi",
+  "name": "a-win-give-up",
+  "params": {
+    "noun": "a-win",
+    "verb": "give-up"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

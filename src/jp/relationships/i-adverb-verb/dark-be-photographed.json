@@ -1,0 +1,13 @@
+{
+  "_id": "mfi0y566odo",
+  "name": "dark-be-photographed",
+  "params": {
+    "iadj": "dark",
+    "verb": "be-photographed"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

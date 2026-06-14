@@ -1,0 +1,14 @@
+{
+  "_id": "105roujaqt8",
+  "desc": "inner side, inside (of an object). the interior surface or inner part",
+  "name": "inner-side",
+  "order": "4",
+  "parents": [
+    "positional-words"
+  ],
+  "props": {
+    "en": "inner side",
+    "jp": "内側",
+    "tl": "うちがわ"
+  }
+}

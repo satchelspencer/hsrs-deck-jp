@@ -1,0 +1,13 @@
+{
+  "_id": "bnt2bt829kv",
+  "name": "brief-article",
+  "params": {
+    "iadj": "brief",
+    "noun": "article"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

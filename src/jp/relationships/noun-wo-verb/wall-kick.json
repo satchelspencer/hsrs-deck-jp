@@ -1,0 +1,13 @@
+{
+  "_id": "jqs6lpf9aeh",
+  "name": "wall-kick",
+  "params": {
+    "noun": "wall",
+    "verb": "kick"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "mippdm6ay3k",
+  "name": "kindness-stewardess",
+  "params": {
+    "na": "kindness",
+    "noun": "stewardess"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

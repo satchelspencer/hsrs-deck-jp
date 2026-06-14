@@ -1,0 +1,13 @@
+{
+  "_id": "h5jwpudbj3h",
+  "name": "stewardess-come",
+  "params": {
+    "noun": "stewardess",
+    "verb": "come"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "zzod2ir2up6",
+  "name": "detailed-article",
+  "params": {
+    "iadj": "detailed",
+    "noun": "article"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "upgfzqs7efj",
+  "name": "ac-unit-chill",
+  "params": {
+    "noun": "ac-unit",
+    "verb": "chill"
+  },
+  "parents": [
+    "noun-ga-verb-transitive"
+  ],
+  "props": {
+  }
+}

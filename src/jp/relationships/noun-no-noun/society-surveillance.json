@@ -1,0 +1,13 @@
+{
+  "_id": "1dm6bzz382n",
+  "name": "society-surveillance",
+  "params": {
+    "noun": "surveillance",
+    "owner": "society"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "qi4kxkzh8tx",
+  "name": "mark-attach",
+  "params": {
+    "noun": "mark",
+    "verb": "attach"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

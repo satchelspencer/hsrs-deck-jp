@@ -1,0 +1,13 @@
+{
+  "_id": "s7zg2854t9s",
+  "name": "scheme-announcement",
+  "params": {
+    "noun": "scheme",
+    "verb": "announcement"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

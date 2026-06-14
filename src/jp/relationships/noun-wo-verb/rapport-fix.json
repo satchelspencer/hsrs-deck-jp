@@ -1,0 +1,14 @@
+{
+  "_id": "85dc60cgduy",
+  "desc": "fix is mend/patch up in this context",
+  "name": "rapport-fix",
+  "params": {
+    "noun": "rapport",
+    "verb": "fix"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

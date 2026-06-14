@@ -1,0 +1,13 @@
+{
+  "_id": "psh8lp70bzz",
+  "name": "cramped-tent",
+  "params": {
+    "iadj": "cramped",
+    "noun": "tent"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

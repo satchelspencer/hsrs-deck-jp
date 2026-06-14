@@ -1,0 +1,13 @@
+{
+  "_id": "cua6pws02on",
+  "name": "a-little-be-left-over",
+  "params": {
+    "adv": "a-little",
+    "verb": "be-left-over"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

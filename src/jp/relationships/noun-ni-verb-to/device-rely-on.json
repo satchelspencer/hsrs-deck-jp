@@ -1,0 +1,13 @@
+{
+  "_id": "olvq4681c1m",
+  "name": "device-rely-on",
+  "params": {
+    "noun": "device",
+    "verb": "rely-on"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

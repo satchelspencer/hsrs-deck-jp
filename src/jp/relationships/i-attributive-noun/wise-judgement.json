@@ -1,0 +1,13 @@
+{
+  "_id": "e4bd9txq606",
+  "name": "wise-judgement",
+  "params": {
+    "iadj": "wise",
+    "noun": "judgement"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

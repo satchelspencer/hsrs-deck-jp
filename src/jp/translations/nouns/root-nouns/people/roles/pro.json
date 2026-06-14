@@ -1,0 +1,14 @@
+{
+  "_id": "gwilm0jp0ao",
+  "desc": "professional, pro",
+  "name": "pro",
+  "order": "3",
+  "parents": [
+    "roles"
+  ],
+  "props": {
+    "en": "pro",
+    "jp": "プロ",
+    "tl": "ぷろ"
+  }
+}

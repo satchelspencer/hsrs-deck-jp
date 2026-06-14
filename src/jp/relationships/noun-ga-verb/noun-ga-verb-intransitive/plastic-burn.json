@@ -1,0 +1,13 @@
+{
+  "_id": "m4nsi34vt7a",
+  "name": "plastic-burn",
+  "params": {
+    "noun": "plastic",
+    "verb": "burn"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

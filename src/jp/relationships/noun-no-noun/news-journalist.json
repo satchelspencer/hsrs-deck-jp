@@ -1,0 +1,13 @@
+{
+  "_id": "4zablj3m39k",
+  "name": "news-journalist",
+  "params": {
+    "noun": "journalist",
+    "owner": "news"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

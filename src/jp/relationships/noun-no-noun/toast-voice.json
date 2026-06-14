@@ -1,0 +1,13 @@
+{
+  "_id": "2zt1xfsxmo1",
+  "name": "toast-voice",
+  "params": {
+    "noun": "voice",
+    "owner": "toast"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

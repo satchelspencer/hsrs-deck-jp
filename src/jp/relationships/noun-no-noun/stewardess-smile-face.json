@@ -1,0 +1,13 @@
+{
+  "_id": "klgl3u3stlt",
+  "name": "stewardess-smile-face",
+  "params": {
+    "noun": "smile-face",
+    "owner": "stewardess"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

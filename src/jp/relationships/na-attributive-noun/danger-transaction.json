@@ -1,0 +1,13 @@
+{
+  "_id": "q2hln54vkz0",
+  "name": "danger-transaction",
+  "params": {
+    "na": "danger",
+    "noun": "transaction"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

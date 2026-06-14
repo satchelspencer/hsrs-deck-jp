@@ -1,0 +1,13 @@
+{
+  "_id": "ql403elxaij",
+  "name": "pink-color",
+  "order": "4",
+  "parents": [
+    "colors"
+  ],
+  "props": {
+    "en": "pink color",
+    "jp": "ピンク",
+    "tl": "ぴんく"
+  }
+}

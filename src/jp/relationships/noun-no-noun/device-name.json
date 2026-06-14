@@ -1,0 +1,13 @@
+{
+  "_id": "wi374ko4r75",
+  "name": "device-name",
+  "params": {
+    "noun": "name",
+    "owner": "device"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

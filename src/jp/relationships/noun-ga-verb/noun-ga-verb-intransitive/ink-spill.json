@@ -1,0 +1,13 @@
+{
+  "_id": "teyk7pcbioe",
+  "name": "ink-spill",
+  "params": {
+    "noun": "ink",
+    "verb": "spill"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

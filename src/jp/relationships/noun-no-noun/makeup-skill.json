@@ -1,0 +1,13 @@
+{
+  "_id": "xgjsaz39pyv",
+  "name": "makeup-skill",
+  "params": {
+    "noun": "skill",
+    "owner": "makeup"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

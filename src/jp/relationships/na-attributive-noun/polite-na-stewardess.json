@@ -1,0 +1,13 @@
+{
+  "_id": "anyym0sacug",
+  "name": "polite-na-stewardess",
+  "params": {
+    "na": "polite-na",
+    "noun": "stewardess"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

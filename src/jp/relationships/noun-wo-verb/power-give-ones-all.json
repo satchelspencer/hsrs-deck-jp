@@ -1,0 +1,13 @@
+{
+  "_id": "th2sg9wjl5r",
+  "name": "power-give-ones-all",
+  "params": {
+    "noun": "power",
+    "verb": "give-ones-all"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

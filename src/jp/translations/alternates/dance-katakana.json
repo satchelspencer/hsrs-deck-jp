@@ -1,0 +1,14 @@
+{
+  "_id": "7drwggdi2ug",
+  "name": "dance-katakana",
+  "order": "3",
+  "parents": [
+    "alternates",
+    "activities"
+  ],
+  "props": {
+    "en": "dance",
+    "jp": "ダンス",
+    "tl": "だんす"
+  }
+}

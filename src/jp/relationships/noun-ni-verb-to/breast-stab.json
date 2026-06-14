@@ -1,0 +1,13 @@
+{
+  "_id": "4fxb2nfiz3m",
+  "name": "breast-stab",
+  "params": {
+    "noun": "breast",
+    "verb": "stab"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

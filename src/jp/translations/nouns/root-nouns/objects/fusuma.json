@@ -1,0 +1,16 @@
+{
+  "_id": "34l8lqszcbc",
+  "desc": "fusuma, Japanese sliding panel door (opaque, used to divide rooms)",
+  "name": "fusuma",
+  "order": "4",
+  "parents": [
+    "objects",
+    "akeru-shimeru",
+    "pullables",
+    "mai-countable"
+  ],
+  "props": {
+    "en": "fusuma door",
+    "jp": "ふすま"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "n2keuje7imp",
+  "name": "chill-beer",
+  "params": {
+    "noun": "beer",
+    "verb": "chill"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

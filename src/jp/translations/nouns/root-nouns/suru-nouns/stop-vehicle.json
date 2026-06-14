@@ -1,0 +1,19 @@
+{
+  "_id": "jg2xn42css8",
+  "desc": "a stop, stopping (of a vehicle/train)",
+  "name": "stop-vehicle",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "te-iru-verbs-state",
+    "events"
+  ],
+  "props": {
+    "_pg": "making a stop",
+    "_st": "stopped",
+    "_v": "make a stop",
+    "en": "transit stop",
+    "jp": "停車",
+    "tl": "ていしゃ"
+  }
+}

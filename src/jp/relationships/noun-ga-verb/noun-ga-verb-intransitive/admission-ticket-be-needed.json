@@ -1,0 +1,13 @@
+{
+  "_id": "lxyack5b363",
+  "name": "admission-ticket-be-needed",
+  "params": {
+    "noun": "admission-ticket",
+    "verb": "be-needed"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

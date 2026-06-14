@@ -1,0 +1,13 @@
+{
+  "_id": "5hvehw007aa",
+  "name": "departure-notify",
+  "params": {
+    "noun": "departure",
+    "verb": "notify"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

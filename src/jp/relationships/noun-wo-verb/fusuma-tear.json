@@ -1,0 +1,13 @@
+{
+  "_id": "09eidcpr4j1",
+  "name": "fusuma-tear",
+  "params": {
+    "noun": "fusuma",
+    "verb": "tear"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

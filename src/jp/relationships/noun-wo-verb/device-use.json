@@ -1,0 +1,13 @@
+{
+  "_id": "p8p1gcsdx9g",
+  "name": "device-use",
+  "params": {
+    "noun": "device",
+    "verb": "use"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

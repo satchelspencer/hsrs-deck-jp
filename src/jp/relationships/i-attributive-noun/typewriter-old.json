@@ -1,0 +1,13 @@
+{
+  "_id": "2y0gtkaijgn",
+  "name": "typewriter-old",
+  "params": {
+    "iadj": "old",
+    "noun": "typewriter"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "4eux23su6yq",
+  "name": "enemy-entrance-appearance",
+  "params": {
+    "noun": "enemy",
+    "verb": "entrance-appearance"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "4s3wzt4bhc0",
+  "name": "lightweight-plastic",
+  "params": {
+    "iadj": "lightweight",
+    "noun": "plastic"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

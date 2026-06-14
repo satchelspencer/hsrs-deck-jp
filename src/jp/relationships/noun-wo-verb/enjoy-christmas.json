@@ -1,0 +1,13 @@
+{
+  "_id": "chrqeblf32c",
+  "name": "enjoy-christmas",
+  "params": {
+    "noun": "christmas",
+    "verb": "enjoy"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

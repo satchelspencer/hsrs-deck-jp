@@ -1,0 +1,13 @@
+{
+  "_id": "u9vsbth7bje",
+  "name": "travel-documents-be-found",
+  "params": {
+    "noun": "travel-documents",
+    "verb": "be-found"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

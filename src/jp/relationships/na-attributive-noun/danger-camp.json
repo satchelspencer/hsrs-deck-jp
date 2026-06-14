@@ -1,0 +1,13 @@
+{
+  "_id": "lnybv6hjgj2",
+  "name": "danger-camp",
+  "params": {
+    "na": "danger",
+    "noun": "camp"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

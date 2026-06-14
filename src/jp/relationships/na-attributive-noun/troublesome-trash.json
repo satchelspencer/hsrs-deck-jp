@@ -1,0 +1,13 @@
+{
+  "_id": "zf4tz04dvai",
+  "name": "troublesome-trash",
+  "params": {
+    "na": "troublesome",
+    "noun": "trash"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

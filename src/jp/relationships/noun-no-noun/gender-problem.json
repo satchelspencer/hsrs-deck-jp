@@ -1,0 +1,13 @@
+{
+  "_id": "jyk98q1hpqg",
+  "name": "gender-problem",
+  "params": {
+    "noun": "problem",
+    "owner": "gender"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

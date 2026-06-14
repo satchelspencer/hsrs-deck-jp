@@ -1,0 +1,13 @@
+{
+  "_id": "ba6h3rm89md",
+  "name": "sudden-stab",
+  "params": {
+    "na": "sudden",
+    "verb": "stab"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

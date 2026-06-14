@@ -1,0 +1,13 @@
+{
+  "_id": "ygncqr377rd",
+  "name": "silence-tear",
+  "params": {
+    "noun": "silence",
+    "verb": "tear"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

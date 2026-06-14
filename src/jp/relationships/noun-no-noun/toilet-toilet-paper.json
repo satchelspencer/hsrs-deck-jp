@@ -1,0 +1,13 @@
+{
+  "_id": "9k6hrlw9su1",
+  "name": "toilet-toilet-paper",
+  "params": {
+    "noun": "toilet-paper",
+    "owner": "toilet"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

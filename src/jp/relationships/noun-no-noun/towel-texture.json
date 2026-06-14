@@ -1,0 +1,13 @@
+{
+  "_id": "zhpv9c67hqr",
+  "name": "towel-texture",
+  "params": {
+    "noun": "texture",
+    "owner": "towel"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

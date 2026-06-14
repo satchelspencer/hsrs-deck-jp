@@ -1,0 +1,14 @@
+{
+  "_id": "6vup3qxrdx4",
+  "desc": "決める means to clinch/secure in this context",
+  "name": "a-win-decide-on",
+  "params": {
+    "noun": "a-win",
+    "verb": "decide-on"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

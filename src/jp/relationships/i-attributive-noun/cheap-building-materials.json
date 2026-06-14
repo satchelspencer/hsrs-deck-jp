@@ -1,0 +1,13 @@
+{
+  "_id": "b3jvef49ow9",
+  "name": "cheap-building-materials",
+  "params": {
+    "iadj": "cheap",
+    "noun": "building-materials"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

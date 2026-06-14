@@ -1,0 +1,13 @@
+{
+  "_id": "1gotrdi0b50",
+  "name": "complete-freeze",
+  "params": {
+    "na": "complete",
+    "verb": "freeze"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

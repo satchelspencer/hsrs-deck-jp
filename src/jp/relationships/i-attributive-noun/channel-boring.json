@@ -1,0 +1,13 @@
+{
+  "_id": "cmh0wuxoyh6",
+  "name": "channel-boring",
+  "params": {
+    "iadj": "boring",
+    "noun": "channel"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

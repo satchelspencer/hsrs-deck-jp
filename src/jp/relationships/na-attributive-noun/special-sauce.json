@@ -1,0 +1,13 @@
+{
+  "_id": "ktxjfu6ridn",
+  "name": "special-sauce",
+  "params": {
+    "na": "special",
+    "noun": "sauce"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

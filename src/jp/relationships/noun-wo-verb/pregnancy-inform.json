@@ -1,0 +1,14 @@
+{
+  "_id": "3ekdrqffx8c",
+  "desc": "告げる means to announce/tell in this context",
+  "name": "pregnancy-inform",
+  "params": {
+    "noun": "pregnancy",
+    "verb": "inform"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

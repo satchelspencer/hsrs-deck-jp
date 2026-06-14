@@ -1,0 +1,13 @@
+{
+  "_id": "5w052qyhr9k",
+  "name": "leaders-entrust",
+  "params": {
+    "noun": "leaders",
+    "verb": "entrust"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "x733g4g1bxl",
+  "name": "transport-expense-be-enough",
+  "params": {
+    "noun": "transport-expense",
+    "verb": "be-enough"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "msc3mzjwgdr",
+  "name": "lightweight-scratch",
+  "params": {
+    "iadj": "lightweight",
+    "verb": "scratch"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

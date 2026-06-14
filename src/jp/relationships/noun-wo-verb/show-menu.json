@@ -1,0 +1,13 @@
+{
+  "_id": "9emgco1tbtw",
+  "name": "show-menu",
+  "params": {
+    "noun": "menu",
+    "verb": "show"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

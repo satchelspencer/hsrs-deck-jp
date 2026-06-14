@@ -1,0 +1,13 @@
+{
+  "_id": "7miojsm3174",
+  "name": "chatty-content",
+  "params": {
+    "noun": "content",
+    "owner": "chatting"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "t93v6iwka9f",
+  "name": "news-announcement",
+  "params": {
+    "noun": "news",
+    "verb": "announcement"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

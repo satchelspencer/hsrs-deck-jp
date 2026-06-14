@@ -1,0 +1,13 @@
+{
+  "_id": "ei0gsooayk9",
+  "name": "accurate-transcribe",
+  "params": {
+    "na": "accurate",
+    "verb": "transcribe"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

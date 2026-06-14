@@ -1,0 +1,13 @@
+{
+  "_id": "ceyxuujxfp1",
+  "name": "plastic-bottle",
+  "params": {
+    "no": "plastic",
+    "noun": "bottle"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

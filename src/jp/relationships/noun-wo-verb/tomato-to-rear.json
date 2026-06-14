@@ -1,0 +1,13 @@
+{
+  "_id": "anha5oop4q0",
+  "name": "tomato-to-rear",
+  "params": {
+    "noun": "tomato",
+    "verb": "to-rear"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

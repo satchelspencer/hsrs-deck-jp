@@ -1,0 +1,13 @@
+{
+  "_id": "8dlupzkzy2p",
+  "name": "fusuma-beautiful",
+  "params": {
+    "iadj": "beautiful",
+    "noun": "fusuma"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

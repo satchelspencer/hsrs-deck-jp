@@ -1,0 +1,13 @@
+{
+  "_id": "e5pw60bpdwr",
+  "name": "remains-cause",
+  "params": {
+    "noun": "cause",
+    "owner": "remains"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "r5njkge3aye",
+  "name": "immediately-crack-it",
+  "params": {
+    "adv": "immediately",
+    "verb": "crack-it"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "ge9jwtz96do",
+  "name": "fusuma-be-open",
+  "params": {
+    "noun": "fusuma",
+    "verb": "be-open"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "0swir4yu3hv",
+  "name": "abruptly-departure",
+  "params": {
+    "adv": "abruptly",
+    "verb": "departure"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "s9t0q9cfkf1",
+  "name": "country-give-ones-all",
+  "params": {
+    "noun": "country",
+    "verb": "give-ones-all"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

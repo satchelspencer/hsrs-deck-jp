@@ -1,0 +1,13 @@
+{
+  "_id": "jcw9mqankwx",
+  "name": "fast-finalize",
+  "params": {
+    "iadj": "fast",
+    "verb": "finalization"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

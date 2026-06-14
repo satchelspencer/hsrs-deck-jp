@@ -1,0 +1,13 @@
+{
+  "_id": "1iylwq48viw",
+  "name": "toilet-paper-be-decreased",
+  "params": {
+    "noun": "toilet-paper",
+    "verb": "be-decreased"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

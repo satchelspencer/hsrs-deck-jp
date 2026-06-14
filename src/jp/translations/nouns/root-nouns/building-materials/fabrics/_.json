@@ -1,0 +1,10 @@
+{
+  "_id": "l3wj9kivg31",
+  "name": "fabrics",
+  "parents": [
+    "building-materials"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

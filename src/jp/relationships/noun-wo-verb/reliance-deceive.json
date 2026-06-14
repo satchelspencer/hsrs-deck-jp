@@ -1,0 +1,13 @@
+{
+  "_id": "bvz49a1k303",
+  "name": "reliance-deceive",
+  "params": {
+    "noun": "reliance",
+    "verb": "deceive"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

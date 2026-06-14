@@ -1,0 +1,13 @@
+{
+  "_id": "baexzzp51t5",
+  "name": "divorce-be-increased",
+  "params": {
+    "noun": "divorce",
+    "verb": "be-increased"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

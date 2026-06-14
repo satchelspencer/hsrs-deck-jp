@@ -1,0 +1,13 @@
+{
+  "_id": "evp4xeld0go",
+  "name": "suicide-examine",
+  "params": {
+    "noun": "suicide",
+    "verb": "examine"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

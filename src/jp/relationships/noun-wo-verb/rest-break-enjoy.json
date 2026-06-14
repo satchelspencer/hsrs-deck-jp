@@ -1,0 +1,13 @@
+{
+  "_id": "rq3t9k9peny",
+  "name": "rest-break-enjoy",
+  "params": {
+    "noun": "rest-break",
+    "verb": "enjoy"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

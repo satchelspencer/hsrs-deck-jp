@@ -1,0 +1,16 @@
+{
+  "_id": "l0qqsrce3gw",
+  "desc": "necklace",
+  "name": "necklace",
+  "order": "4",
+  "parents": [
+    "hangables",
+    "accessories",
+    "ko-countable"
+  ],
+  "props": {
+    "en": "necklace",
+    "jp": "ネックレス",
+    "tl": "ねっくれす"
+  }
+}

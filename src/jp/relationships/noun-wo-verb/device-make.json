@@ -1,0 +1,13 @@
+{
+  "_id": "2kj4ce0a94r",
+  "name": "device-make",
+  "params": {
+    "noun": "device",
+    "verb": "make"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

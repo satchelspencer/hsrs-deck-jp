@@ -1,0 +1,13 @@
+{
+  "_id": "qxsra53jwyr",
+  "name": "fusuma-exchange",
+  "params": {
+    "noun": "fusuma",
+    "verb": "exchange-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

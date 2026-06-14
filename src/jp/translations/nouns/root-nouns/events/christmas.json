@@ -1,0 +1,13 @@
+{
+  "_id": "l8cawsg06bt",
+  "name": "christmas",
+  "order": "2",
+  "parents": [
+    "events"
+  ],
+  "props": {
+    "en": "christmas",
+    "jp": "クリスマス",
+    "tl": "くりすます"
+  }
+}

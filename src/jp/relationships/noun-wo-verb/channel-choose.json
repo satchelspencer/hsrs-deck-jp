@@ -1,0 +1,13 @@
+{
+  "_id": "jserd37v1ey",
+  "name": "channel-choose",
+  "params": {
+    "noun": "channel",
+    "verb": "choose"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

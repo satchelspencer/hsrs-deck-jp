@@ -1,0 +1,13 @@
+{
+  "_id": "c7xrg1m6tvn",
+  "name": "soft-banana",
+  "params": {
+    "iadj": "soft",
+    "noun": "banana"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

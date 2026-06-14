@@ -1,0 +1,13 @@
+{
+  "_id": "znqa9i6zfhq",
+  "name": "all-at-once-tear",
+  "params": {
+    "adv": "all-at-once",
+    "verb": "tear"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

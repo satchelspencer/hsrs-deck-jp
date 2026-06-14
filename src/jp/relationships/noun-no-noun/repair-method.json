@@ -1,0 +1,13 @@
+{
+  "_id": "rceypytkfjk",
+  "name": "repair-method",
+  "params": {
+    "noun": "method",
+    "owner": "repair"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

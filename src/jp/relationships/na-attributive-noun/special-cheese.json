@@ -1,0 +1,13 @@
+{
+  "_id": "6x490q0quie",
+  "name": "special-cheese",
+  "params": {
+    "na": "special",
+    "noun": "cheese"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

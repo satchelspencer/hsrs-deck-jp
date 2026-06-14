@@ -1,0 +1,13 @@
+{
+  "_id": "ycq8n3pzmx7",
+  "name": "color-signal",
+  "params": {
+    "noun": "color",
+    "owner": "traffic-signal"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "o2y6c7jflw4",
+  "name": "important-signal",
+  "params": {
+    "na": "important",
+    "noun": "traffic-signal"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

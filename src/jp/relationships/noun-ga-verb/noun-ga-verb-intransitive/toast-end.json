@@ -1,0 +1,13 @@
+{
+  "_id": "mic95p0mvi1",
+  "name": "toast-end",
+  "params": {
+    "noun": "toast",
+    "verb": "end"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

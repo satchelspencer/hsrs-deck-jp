@@ -1,0 +1,13 @@
+{
+  "_id": "19sv0g5hgxh",
+  "name": "rule-katakana-protect",
+  "params": {
+    "noun": "rule-katakana",
+    "verb": "protect"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

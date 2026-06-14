@@ -1,0 +1,13 @@
+{
+  "_id": "gme98olrg9x",
+  "name": "animal-gender",
+  "params": {
+    "noun": "gender",
+    "owner": "animal"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

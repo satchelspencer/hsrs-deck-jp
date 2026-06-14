@@ -1,0 +1,13 @@
+{
+  "_id": "s6mj42u4pit",
+  "name": "cool-entrance-appearance",
+  "params": {
+    "iadj": "cool",
+    "noun": "entrance-appearance"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

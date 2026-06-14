@@ -1,0 +1,13 @@
+{
+  "_id": "h96u6cw38u8",
+  "name": "journalist-enquire",
+  "params": {
+    "noun": "journalist",
+    "verb": "enquire"
+  },
+  "parents": [
+    "noun-ga-verb-transitive"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "_id": "z32thsmaodg",
+  "constraint": "verb",
+  "desc": "",
+  "mode": "c---ap",
+  "name": "te-kuru-past-perfect-cont",
+  "params": {
+    "te": "verb-te-form-pos",
+    "verb": "te-iru-verbs-continuous"
+  },
+  "parents": [
+    "te-kuru"
+  ],
+  "props": {
+    "en": "'had previously been '+verb._pg",
+    "jp": "te.jp+'きていた'"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "pm1blfttgij",
+  "name": "world-of-life-ending",
+  "params": {
+    "noun": "ending",
+    "owner": "world-of-life"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

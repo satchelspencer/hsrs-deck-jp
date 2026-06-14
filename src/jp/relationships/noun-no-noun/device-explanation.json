@@ -1,0 +1,13 @@
+{
+  "_id": "rgmhtg8wijw",
+  "name": "device-explanation",
+  "params": {
+    "noun": "explanation",
+    "owner": "device"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

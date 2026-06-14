@@ -1,0 +1,13 @@
+{
+  "_id": "glhg65fsmpg",
+  "name": "special-menu",
+  "params": {
+    "na": "special",
+    "noun": "menu"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

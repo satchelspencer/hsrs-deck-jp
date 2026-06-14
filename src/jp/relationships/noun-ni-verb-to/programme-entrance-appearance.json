@@ -1,0 +1,13 @@
+{
+  "_id": "84db1h1if2x",
+  "name": "programme-entrance-appearance",
+  "params": {
+    "noun": "programme",
+    "verb": "entrance-appearance"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

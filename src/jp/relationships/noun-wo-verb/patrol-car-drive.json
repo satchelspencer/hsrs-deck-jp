@@ -1,0 +1,13 @@
+{
+  "_id": "ylx7njkkqwj",
+  "name": "patrol-car-drive",
+  "params": {
+    "noun": "patrol-car",
+    "verb": "driving"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "dj45dupy5xp",
+  "name": "automobile-stop-vehicle",
+  "params": {
+    "noun": "automobile",
+    "verb": "stop-vehicle"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

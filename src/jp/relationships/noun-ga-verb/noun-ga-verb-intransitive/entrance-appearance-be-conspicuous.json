@@ -1,0 +1,13 @@
+{
+  "_id": "8i5fmesisbj",
+  "name": "entrance-appearance-be-conspicuous",
+  "params": {
+    "noun": "entrance-appearance",
+    "verb": "be-conspicuous"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

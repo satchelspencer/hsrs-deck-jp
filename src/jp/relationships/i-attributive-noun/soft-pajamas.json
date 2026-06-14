@@ -1,0 +1,13 @@
+{
+  "_id": "aod5scggiik",
+  "name": "soft-pajamas",
+  "params": {
+    "iadj": "soft",
+    "noun": "pajamas"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

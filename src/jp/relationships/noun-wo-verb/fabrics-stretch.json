@@ -1,0 +1,13 @@
+{
+  "_id": "ondt3o9l0h0",
+  "name": "fabrics-stretch",
+  "params": {
+    "noun": "fabrics",
+    "verb": "stretch-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

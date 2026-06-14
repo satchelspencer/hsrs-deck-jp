@@ -1,0 +1,13 @@
+{
+  "_id": "wbr2jj0uv8k",
+  "name": "firmly-prohibit",
+  "params": {
+    "adv": "firmly",
+    "verb": "prohibition"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

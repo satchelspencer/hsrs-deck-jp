@@ -1,0 +1,13 @@
+{
+  "_id": "a3zhp3vwh4r",
+  "name": "food-last",
+  "params": {
+    "noun": "food",
+    "verb": "last"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

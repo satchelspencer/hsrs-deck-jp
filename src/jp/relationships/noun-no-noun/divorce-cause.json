@@ -1,0 +1,13 @@
+{
+  "_id": "ukcynybqs8g",
+  "name": "divorce-cause",
+  "params": {
+    "noun": "cause",
+    "owner": "divorce"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "ogcihpb7syo",
+  "name": "driving-practice",
+  "params": {
+    "noun": "practice",
+    "owner": "driving"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

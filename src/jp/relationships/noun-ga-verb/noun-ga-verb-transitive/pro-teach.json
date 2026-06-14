@@ -1,0 +1,13 @@
+{
+  "_id": "jxe3gvkqchk",
+  "name": "pro-teach",
+  "params": {
+    "noun": "pro",
+    "verb": "teach"
+  },
+  "parents": [
+    "noun-ga-verb-transitive"
+  ],
+  "props": {
+  }
+}

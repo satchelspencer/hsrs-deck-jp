@@ -1,0 +1,13 @@
+{
+  "_id": "8iwn4bponvl",
+  "name": "colors-paint-it",
+  "params": {
+    "noun": "colors",
+    "verb": "paint-it"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

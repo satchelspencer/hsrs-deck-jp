@@ -1,0 +1,13 @@
+{
+  "_id": "5qifw1x7kje",
+  "name": "channel-liked",
+  "params": {
+    "na": "liked",
+    "noun": "channel"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "vz0nvqalmbf",
+  "name": "suicide-notify",
+  "params": {
+    "noun": "suicide",
+    "verb": "notify"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "vjz3ay30k1k",
+  "name": "christmas-light",
+  "params": {
+    "noun": "light",
+    "owner": "christmas"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "eikgkd5t25a",
+  "name": "body-parts-scratch",
+  "params": {
+    "noun": "body-parts",
+    "verb": "scratch"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "etskmygx1xc",
+  "name": "world-of-life-end",
+  "params": {
+    "noun": "world-of-life",
+    "verb": "end"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

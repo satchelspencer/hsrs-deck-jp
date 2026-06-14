@@ -1,0 +1,14 @@
+{
+  "_id": "mr3tn6g67g2",
+  "desc": "落ちる means to crash/go down for a device",
+  "name": "device-fall",
+  "params": {
+    "noun": "device",
+    "verb": "fall"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

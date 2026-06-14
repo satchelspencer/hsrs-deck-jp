@@ -1,0 +1,13 @@
+{
+  "_id": "ein3af58sjj",
+  "name": "remains-conceal",
+  "params": {
+    "noun": "remains",
+    "verb": "conceal-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

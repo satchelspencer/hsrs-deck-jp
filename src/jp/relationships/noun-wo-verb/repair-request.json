@@ -1,0 +1,13 @@
+{
+  "_id": "ihyb532ftu8",
+  "name": "repair-request",
+  "params": {
+    "noun": "repair",
+    "verb": "request"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "ey5kq0svxps",
+  "name": "vinyl-shoes",
+  "params": {
+    "no": "vinyl",
+    "noun": "shoes"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

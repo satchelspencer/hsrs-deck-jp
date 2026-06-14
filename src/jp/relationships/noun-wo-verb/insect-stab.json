@@ -1,0 +1,13 @@
+{
+  "_id": "4qdssjjty2s",
+  "name": "insect-stab",
+  "params": {
+    "noun": "insect",
+    "verb": "stab"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

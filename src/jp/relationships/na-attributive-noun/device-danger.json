@@ -1,0 +1,13 @@
+{
+  "_id": "3anxs58b4vf",
+  "name": "device-danger",
+  "params": {
+    "na": "danger",
+    "noun": "device"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

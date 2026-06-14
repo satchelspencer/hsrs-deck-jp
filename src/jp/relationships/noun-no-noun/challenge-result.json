@@ -1,0 +1,13 @@
+{
+  "_id": "y90gkcb0dm0",
+  "name": "challenge-result",
+  "params": {
+    "noun": "result",
+    "owner": "challenge"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

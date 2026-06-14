@@ -1,0 +1,13 @@
+{
+  "_id": "8x0dzzl2f8a",
+  "name": "half-crack-it",
+  "params": {
+    "noun": "half",
+    "verb": "crack-it"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

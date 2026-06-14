@@ -1,0 +1,16 @@
+{
+  "_id": "7b9tb0oxhe3",
+  "desc": "entrance ticket, admission pass",
+  "name": "admission-ticket",
+  "order": "4",
+  "parents": [
+    "products",
+    "reservables",
+    "mai-countable"
+  ],
+  "props": {
+    "en": "admission ticket",
+    "jp": "入場券",
+    "tl": "にゅうじょうけん"
+  }
+}

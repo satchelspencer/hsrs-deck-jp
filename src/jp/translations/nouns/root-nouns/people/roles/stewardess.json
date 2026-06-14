@@ -1,0 +1,14 @@
+{
+  "_id": "vtx662u25df",
+  "desc": "cabin crew, flight attendant",
+  "name": "stewardess",
+  "order": "4",
+  "parents": [
+    "roles"
+  ],
+  "props": {
+    "en": "stewardess",
+    "jp": "スチュワーデス",
+    "tl": "すちゅわーです"
+  }
+}

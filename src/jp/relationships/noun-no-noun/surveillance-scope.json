@@ -1,0 +1,13 @@
+{
+  "_id": "0f46ud4v1k6",
+  "name": "surveillance-scope",
+  "params": {
+    "noun": "scope",
+    "owner": "surveillance"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

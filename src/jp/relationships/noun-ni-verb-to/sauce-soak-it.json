@@ -1,0 +1,13 @@
+{
+  "_id": "o8a1s6nbtuu",
+  "name": "sauce-soak-it",
+  "params": {
+    "noun": "sauce",
+    "verb": "soak-it"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

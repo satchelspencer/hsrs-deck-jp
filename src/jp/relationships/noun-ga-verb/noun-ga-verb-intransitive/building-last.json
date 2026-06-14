@@ -1,0 +1,13 @@
+{
+  "_id": "980rivqnnaa",
+  "name": "building-last",
+  "params": {
+    "noun": "building",
+    "verb": "last"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

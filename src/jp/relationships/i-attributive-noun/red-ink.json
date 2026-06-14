@@ -1,0 +1,13 @@
+{
+  "_id": "av20wrqt09l",
+  "name": "red-ink",
+  "params": {
+    "iadj": "red",
+    "noun": "ink"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

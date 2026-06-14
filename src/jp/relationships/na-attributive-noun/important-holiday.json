@@ -1,0 +1,13 @@
+{
+  "_id": "5xmcrmejfox",
+  "name": "important-holiday",
+  "params": {
+    "na": "important",
+    "noun": "holiday"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "k06yck4emn8",
+  "desc": "relationship between people, terms (on good/bad terms)",
+  "name": "rapport",
+  "order": "4",
+  "parents": [
+    "abstracts"
+  ],
+  "props": {
+    "en": "rapport",
+    "jp": "仲",
+    "tl": "なか"
+  }
+}

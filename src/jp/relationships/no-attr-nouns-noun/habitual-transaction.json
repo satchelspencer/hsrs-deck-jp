@@ -1,0 +1,13 @@
+{
+  "_id": "1ukg2c647i6",
+  "name": "habitual-transaction",
+  "params": {
+    "no": "habitual",
+    "noun": "transaction"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "3w8q3rxni88",
+  "name": "murder-examine",
+  "params": {
+    "noun": "murder",
+    "verb": "examine"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

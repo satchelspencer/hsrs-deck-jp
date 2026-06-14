@@ -1,0 +1,13 @@
+{
+  "_id": "qypi7y9ilr4",
+  "name": "safety-transaction",
+  "params": {
+    "na": "safety",
+    "verb": "transaction"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

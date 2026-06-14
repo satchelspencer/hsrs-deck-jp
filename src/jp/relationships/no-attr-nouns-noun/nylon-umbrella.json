@@ -1,0 +1,13 @@
+{
+  "_id": "x0av42fl793",
+  "name": "nylon-umbrella",
+  "params": {
+    "no": "nylon",
+    "noun": "umbrella"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

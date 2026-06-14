@@ -1,0 +1,13 @@
+{
+  "_id": "m7ra1a454xi",
+  "name": "hand-freeze",
+  "params": {
+    "noun": "hand",
+    "verb": "freeze"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

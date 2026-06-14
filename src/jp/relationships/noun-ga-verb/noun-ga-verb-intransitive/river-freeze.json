@@ -1,0 +1,13 @@
+{
+  "_id": "skxd2k9dqv5",
+  "name": "river-freeze",
+  "params": {
+    "noun": "river",
+    "verb": "freeze"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

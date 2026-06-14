@@ -1,0 +1,13 @@
+{
+  "_id": "1i28ij6n2zv",
+  "name": "travel-documents-needed",
+  "params": {
+    "na": "needed",
+    "noun": "travel-documents"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

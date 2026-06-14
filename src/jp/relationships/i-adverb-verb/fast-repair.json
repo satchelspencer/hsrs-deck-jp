@@ -1,0 +1,13 @@
+{
+  "_id": "ntsihcp5cs8",
+  "name": "fast-repair",
+  "params": {
+    "iadj": "fast",
+    "verb": "repair"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

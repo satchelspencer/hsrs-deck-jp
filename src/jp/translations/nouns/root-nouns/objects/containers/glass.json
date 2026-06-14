@@ -4,7 +4,8 @@
   "order": "3",
   "parents": [
     "containers",
-    "ko-countable"
+    "ko-countable",
+    "crackables"
   ],
   "props": {
     "en": "glass",

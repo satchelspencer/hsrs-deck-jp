@@ -1,0 +1,13 @@
+{
+  "_id": "ag4d0vwqil6",
+  "name": "admission-ticket-hand-in",
+  "params": {
+    "noun": "admission-ticket",
+    "verb": "hand-in"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "25rkkkjsg3n",
+  "name": "earn-by-job",
+  "params": {
+    "noun": "job",
+    "verb": "earn"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "itq7ma1rcgw",
+  "name": "plastic-be-broken",
+  "params": {
+    "noun": "plastic",
+    "verb": "be-broken"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

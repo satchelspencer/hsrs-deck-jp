@@ -1,0 +1,13 @@
+{
+  "_id": "7cntcdt9n0g",
+  "name": "mark-use",
+  "params": {
+    "noun": "mark",
+    "verb": "use"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

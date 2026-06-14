@@ -1,0 +1,13 @@
+{
+  "_id": "gwh2jspxrqt",
+  "name": "robust-tent",
+  "params": {
+    "na": "robust",
+    "noun": "tent"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "uihvdlkbow7",
+  "desc": "separate, individual, respective, apart. each one different/distinct",
+  "name": "separate",
+  "order": "3",
+  "parents": [
+    "no-attr-nouns",
+    "na-attributive",
+    "na-people-do"
+  ],
+  "props": {
+    "_ad": "separately",
+    "en": "separate",
+    "jp": "別々",
+    "tl": "べつべつ"
+  }
+}

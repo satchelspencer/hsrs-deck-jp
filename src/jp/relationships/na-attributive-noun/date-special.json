@@ -1,0 +1,13 @@
+{
+  "_id": "y821ko1aalf",
+  "name": "date-special",
+  "params": {
+    "na": "special",
+    "noun": "date"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

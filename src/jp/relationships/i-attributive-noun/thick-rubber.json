@@ -1,0 +1,13 @@
+{
+  "_id": "oefkonjpipi",
+  "name": "thick-rubber",
+  "params": {
+    "iadj": "thick",
+    "noun": "rubber"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

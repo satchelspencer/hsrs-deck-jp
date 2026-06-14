@@ -1,0 +1,13 @@
+{
+  "_id": "tbj0uaq4vde",
+  "name": "club-tournament",
+  "params": {
+    "noun": "tournament",
+    "owner": "club"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

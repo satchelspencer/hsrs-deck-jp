@@ -1,0 +1,15 @@
+{
+  "_id": "anmn2vf3ol3",
+  "desc": "tomato",
+  "name": "tomato",
+  "order": "3",
+  "parents": [
+    "foods",
+    "ko-countable"
+  ],
+  "props": {
+    "en": "tomato",
+    "jp": "トマト",
+    "tl": "とまと"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "zl57d4ewa8r",
+  "name": "date-plan",
+  "params": {
+    "noun": "date",
+    "verb": "scheme"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

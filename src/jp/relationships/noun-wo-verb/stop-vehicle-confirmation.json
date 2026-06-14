@@ -1,0 +1,13 @@
+{
+  "_id": "iok42xrlt1e",
+  "name": "stop-vehicle-confirmation",
+  "params": {
+    "noun": "stop-vehicle",
+    "verb": "confirmation"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "re39s7f1cnz",
+  "name": "announcement-consolidate",
+  "params": {
+    "noun": "announcement",
+    "verb": "consolidate"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

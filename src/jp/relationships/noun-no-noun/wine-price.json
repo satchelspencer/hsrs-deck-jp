@@ -1,0 +1,13 @@
+{
+  "_id": "f71b1ry7rov",
+  "name": "wine-price",
+  "params": {
+    "noun": "price",
+    "owner": "wine"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

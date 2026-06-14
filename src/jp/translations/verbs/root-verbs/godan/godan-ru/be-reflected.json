@@ -5,7 +5,6 @@
   "order": "4",
   "parents": [
     "godan-ru",
-    "seeables-do",
     "te-iru-verbs-state"
   ],
   "props": {

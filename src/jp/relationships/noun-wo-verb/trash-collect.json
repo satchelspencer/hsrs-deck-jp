@@ -1,0 +1,13 @@
+{
+  "_id": "ldkpet08pao",
+  "name": "trash-collect",
+  "params": {
+    "noun": "trash",
+    "verb": "collect"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

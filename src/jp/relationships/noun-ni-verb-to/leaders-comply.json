@@ -1,0 +1,13 @@
+{
+  "_id": "hqspqrw3ok4",
+  "name": "leaders-comply",
+  "params": {
+    "noun": "leaders",
+    "verb": "comply"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

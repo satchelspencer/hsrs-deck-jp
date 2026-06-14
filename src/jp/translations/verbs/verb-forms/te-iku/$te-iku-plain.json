@@ -1,0 +1,16 @@
+{
+  "_id": "q9xy9ufuou",
+  "constraint": "verb",
+  "mode": "*---**",
+  "name": "$te-iku-plain",
+  "params": {
+    "form": "te-iku-plain"
+  },
+  "parents": [
+    "te-iku"
+  ],
+  "props": {
+    "en": "form.en",
+    "jp": "form.jp"
+  }
+}

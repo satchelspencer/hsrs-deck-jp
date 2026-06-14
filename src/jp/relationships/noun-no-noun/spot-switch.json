@@ -1,0 +1,13 @@
+{
+  "_id": "suxs1ra5xnd",
+  "name": "spot-switch",
+  "params": {
+    "noun": "spot",
+    "owner": "switch"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "05eicvktu8f",
+  "name": "fabrics-sack",
+  "params": {
+    "no": "fabrics",
+    "noun": "sack"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

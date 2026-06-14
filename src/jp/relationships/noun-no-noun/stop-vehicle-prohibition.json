@@ -1,0 +1,13 @@
+{
+  "_id": "usxx51vaqp0",
+  "name": "stop-vehicle-prohibition",
+  "params": {
+    "noun": "prohibition",
+    "owner": "stop-vehicle"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "9ewwx5cdv9d",
+  "name": "music-genres-hear",
+  "params": {
+    "noun": "music-genres",
+    "verb": "hear"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

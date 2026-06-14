@@ -1,0 +1,13 @@
+{
+  "_id": "at4nvdue3d4",
+  "name": "repair-be-needed",
+  "params": {
+    "noun": "repair",
+    "verb": "be-needed"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

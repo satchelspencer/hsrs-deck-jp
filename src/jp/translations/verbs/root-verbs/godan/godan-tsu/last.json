@@ -1,0 +1,15 @@
+{
+  "_id": "9es0ova0bzr",
+  "desc": "to last, be durable, hold up, keep (food keeps, stamina holds out)",
+  "name": "last",
+  "order": "4",
+  "parents": [
+    "godan-tsu",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "_st": "lasting",
+    "en": "last",
+    "jp": "もつ"
+  }
+}

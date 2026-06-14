@@ -1,0 +1,13 @@
+{
+  "_id": "w4oymh41xyu",
+  "name": "people-groups-ratio",
+  "params": {
+    "noun": "ratio-of",
+    "owner": "people-groups"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

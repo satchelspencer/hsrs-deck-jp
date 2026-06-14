@@ -1,0 +1,15 @@
+{
+  "_id": "t12laaeqxm9",
+  "desc": "TV/streaming channel",
+  "name": "channel",
+  "order": "4",
+  "parents": [
+    "seeables",
+    "non-unique"
+  ],
+  "props": {
+    "en": "channel",
+    "jp": "チャンネル",
+    "tl": "ちゃんねる"
+  }
+}

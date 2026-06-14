@@ -1,0 +1,13 @@
+{
+  "_id": "8voz9a3r39e",
+  "name": "long-article",
+  "params": {
+    "iadj": "long",
+    "noun": "article"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

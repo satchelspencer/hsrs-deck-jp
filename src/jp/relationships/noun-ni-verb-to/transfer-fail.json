@@ -1,0 +1,14 @@
+{
+  "_id": "qiij0hwiakc",
+  "desc": "乗り換えに失敗する - fail at the transfer",
+  "name": "transfer-fail",
+  "params": {
+    "noun": "transfer",
+    "verb": "failure"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

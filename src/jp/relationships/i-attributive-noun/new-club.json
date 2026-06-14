@@ -1,0 +1,13 @@
+{
+  "_id": "nvztw0ee95b",
+  "name": "new-club",
+  "params": {
+    "iadj": "new",
+    "noun": "club"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

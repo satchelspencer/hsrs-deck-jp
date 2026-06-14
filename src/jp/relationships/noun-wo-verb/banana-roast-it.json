@@ -1,0 +1,13 @@
+{
+  "_id": "r8vctol189e",
+  "name": "banana-roast-it",
+  "params": {
+    "noun": "banana",
+    "verb": "roast-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

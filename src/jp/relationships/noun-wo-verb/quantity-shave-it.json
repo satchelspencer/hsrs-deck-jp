@@ -1,0 +1,14 @@
+{
+  "_id": "ejxn5tt83f0",
+  "desc": "削る means cut down/reduce in this context",
+  "name": "quantity-shave-it",
+  "params": {
+    "noun": "quantity",
+    "verb": "shave-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

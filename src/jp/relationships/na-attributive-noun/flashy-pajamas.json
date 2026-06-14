@@ -1,0 +1,13 @@
+{
+  "_id": "jkfc3rbccmu",
+  "name": "flashy-pajamas",
+  "params": {
+    "na": "flashy",
+    "noun": "pajamas"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

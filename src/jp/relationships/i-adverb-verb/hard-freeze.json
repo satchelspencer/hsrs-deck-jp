@@ -1,0 +1,13 @@
+{
+  "_id": "nisb7gmitt5",
+  "name": "hard-freeze",
+  "params": {
+    "iadj": "hard",
+    "verb": "freeze"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "cjuwucrib7g",
+  "name": "superior-pro",
+  "params": {
+    "na": "superior",
+    "noun": "pro"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "8zc21lyw0a7",
+  "name": "factory-device",
+  "params": {
+    "noun": "device",
+    "owner": "factory"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

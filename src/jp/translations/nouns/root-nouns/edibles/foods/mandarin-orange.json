@@ -1,0 +1,13 @@
+{
+  "_id": "wamgrprnpaz",
+  "desc": "mandarin orange, satsuma",
+  "name": "mandarin-orange",
+  "order": "3",
+  "parents": [
+    "foods"
+  ],
+  "props": {
+    "en": "mandarin orange",
+    "jp": "みかん"
+  }
+}

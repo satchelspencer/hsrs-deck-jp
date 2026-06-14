@@ -1,0 +1,13 @@
+{
+  "_id": "esl4e779bnk",
+  "name": "shoes-last",
+  "params": {
+    "noun": "shoes",
+    "verb": "last"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

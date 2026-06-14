@@ -1,0 +1,13 @@
+{
+  "_id": "qksegwigd0k",
+  "name": "transaction-result",
+  "params": {
+    "noun": "result",
+    "owner": "transaction"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

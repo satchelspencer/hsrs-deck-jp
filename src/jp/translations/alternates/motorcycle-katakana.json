@@ -1,0 +1,15 @@
+{
+  "_id": "q3s4d6tar65",
+  "desc": "バイク is a common loanword alternate of オートバイ",
+  "name": "motorcycle-katakana",
+  "order": "4",
+  "parents": [
+    "alternates",
+    "transports"
+  ],
+  "props": {
+    "en": "motorcycle",
+    "jp": "バイク",
+    "tl": "ばいく"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "3lxyt1tqwb7",
+  "name": "sweet-watermelon",
+  "params": {
+    "iadj": "sweet",
+    "noun": "watermelon"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

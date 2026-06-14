@@ -1,0 +1,14 @@
+{
+  "_id": "u82jmzhousd",
+  "desc": "流す means flush in this context",
+  "name": "toilet-paper-pour",
+  "params": {
+    "noun": "toilet-paper",
+    "verb": "pour"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

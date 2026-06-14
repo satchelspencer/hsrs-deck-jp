@@ -1,0 +1,13 @@
+{
+  "_id": "n1bvf6ujvlf",
+  "name": "content-menu",
+  "params": {
+    "noun": "content",
+    "owner": "menu"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

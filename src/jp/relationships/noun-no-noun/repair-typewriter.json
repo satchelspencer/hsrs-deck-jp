@@ -1,0 +1,13 @@
+{
+  "_id": "h15veefu9wn",
+  "name": "repair-typewriter",
+  "params": {
+    "noun": "repair",
+    "owner": "typewriter"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "ormqc7v4n5j",
+  "name": "plot-of-land-town",
+  "params": {
+    "noun": "plot-of-land",
+    "owner": "town"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

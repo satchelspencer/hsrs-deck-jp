@@ -1,0 +1,13 @@
+{
+  "_id": "h5r9v0cyep7",
+  "name": "bright-signal",
+  "params": {
+    "iadj": "bright",
+    "noun": "traffic-signal"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

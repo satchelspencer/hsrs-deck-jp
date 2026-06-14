@@ -1,0 +1,13 @@
+{
+  "_id": "9gti8kmcf8l",
+  "name": "wise-answer",
+  "params": {
+    "iadj": "wise",
+    "noun": "answer"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

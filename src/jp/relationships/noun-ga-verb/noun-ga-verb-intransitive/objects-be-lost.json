@@ -1,0 +1,13 @@
+{
+  "_id": "tgxwxh94icg",
+  "name": "objects-be-lost",
+  "params": {
+    "noun": "objects",
+    "verb": "be-lost"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

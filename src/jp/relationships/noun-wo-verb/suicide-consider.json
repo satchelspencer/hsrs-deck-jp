@@ -1,0 +1,13 @@
+{
+  "_id": "5ahbali2xw3",
+  "name": "suicide-consider",
+  "params": {
+    "noun": "suicide",
+    "verb": "consider"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

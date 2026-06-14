@@ -1,0 +1,13 @@
+{
+  "_id": "6q2x48aw283",
+  "name": "properly-repair",
+  "params": {
+    "adv": "properly",
+    "verb": "repair"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

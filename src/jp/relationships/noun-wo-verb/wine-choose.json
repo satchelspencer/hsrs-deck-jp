@@ -1,0 +1,13 @@
+{
+  "_id": "oanr11e9w2u",
+  "name": "wine-choose",
+  "params": {
+    "noun": "wine",
+    "verb": "choose"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

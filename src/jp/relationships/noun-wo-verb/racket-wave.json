@@ -1,0 +1,13 @@
+{
+  "_id": "pcvj35o086n",
+  "name": "racket-wave",
+  "params": {
+    "noun": "racket",
+    "verb": "wave"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

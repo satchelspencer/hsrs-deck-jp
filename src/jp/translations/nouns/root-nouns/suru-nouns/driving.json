@@ -1,0 +1,20 @@
+{
+  "_id": "j36s4wrpd1i",
+  "desc": "driving, operating (a vehicle)",
+  "name": "driving",
+  "order": "3",
+  "parents": [
+    "suru-nouns",
+    "te-iru-verbs-continuous",
+    "people-do-volitional",
+    "de-location-verbs",
+    "do-togethers"
+  ],
+  "props": {
+    "_pg": "driving",
+    "_v": "drive",
+    "en": "driving",
+    "jp": "運転",
+    "tl": "うんてん"
+  }
+}

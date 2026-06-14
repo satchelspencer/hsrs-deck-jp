@@ -1,0 +1,13 @@
+{
+  "_id": "8ik33gm0j6z",
+  "name": "category-menu",
+  "params": {
+    "noun": "category",
+    "owner": "menu"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

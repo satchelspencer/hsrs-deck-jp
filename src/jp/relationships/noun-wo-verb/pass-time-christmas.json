@@ -1,0 +1,13 @@
+{
+  "_id": "7670uz1hx36",
+  "name": "pass-time-christmas",
+  "params": {
+    "noun": "christmas",
+    "verb": "pass-time"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

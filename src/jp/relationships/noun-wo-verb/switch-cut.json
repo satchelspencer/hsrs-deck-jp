@@ -1,0 +1,14 @@
+{
+  "_id": "6afwdjy0tm9",
+  "desc": "切る is turn off/disconnect in this context",
+  "name": "switch-cut",
+  "params": {
+    "noun": "switch",
+    "verb": "cut"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

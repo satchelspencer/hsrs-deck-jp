@@ -1,0 +1,22 @@
+{
+  "_id": "fd7v38yl9sh",
+  "desc": "camping, outdoor camping",
+  "name": "camp",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "people-do-volitional",
+    "te-iru-verbs-continuous",
+    "de-location-verbs",
+    "do-togethers",
+    "come-go-reasons",
+    "activities"
+  ],
+  "props": {
+    "_pg": "camping",
+    "_v": "camp",
+    "en": "camping",
+    "jp": "キャンプ",
+    "tl": "きゃんぷ"
+  }
+}

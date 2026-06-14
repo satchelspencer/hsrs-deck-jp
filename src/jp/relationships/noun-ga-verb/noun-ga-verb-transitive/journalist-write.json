@@ -1,0 +1,13 @@
+{
+  "_id": "n8n3ff3mcw5",
+  "name": "journalist-write",
+  "params": {
+    "noun": "journalist",
+    "verb": "write"
+  },
+  "parents": [
+    "noun-ga-verb-transitive"
+  ],
+  "props": {
+  }
+}

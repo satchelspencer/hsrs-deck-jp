@@ -1,0 +1,13 @@
+{
+  "_id": "0l2hwaj6ozq",
+  "name": "town-origin",
+  "params": {
+    "noun": "origins",
+    "owner": "town"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

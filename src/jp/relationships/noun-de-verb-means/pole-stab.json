@@ -1,0 +1,13 @@
+{
+  "_id": "e8scobkeq0b",
+  "name": "pole-stab",
+  "params": {
+    "noun": "pole",
+    "verb": "stab"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

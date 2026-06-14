@@ -1,0 +1,13 @@
+{
+  "_id": "1sgadrzbbka",
+  "name": "separate-plate",
+  "params": {
+    "no": "separate",
+    "noun": "counter-root-plates"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

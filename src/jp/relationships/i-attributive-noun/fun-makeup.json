@@ -1,0 +1,13 @@
+{
+  "_id": "yiii476ebzr",
+  "name": "fun-makeup",
+  "params": {
+    "iadj": "fun",
+    "noun": "makeup"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

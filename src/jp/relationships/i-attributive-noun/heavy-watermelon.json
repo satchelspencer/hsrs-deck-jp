@@ -1,0 +1,13 @@
+{
+  "_id": "lphydpdt7wl",
+  "name": "heavy-watermelon",
+  "params": {
+    "iadj": "heavy",
+    "noun": "watermelon"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

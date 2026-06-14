@@ -1,0 +1,13 @@
+{
+  "_id": "47a7qpphr5v",
+  "name": "travel-documents-confirmation",
+  "params": {
+    "noun": "confirmation",
+    "owner": "travel-documents"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

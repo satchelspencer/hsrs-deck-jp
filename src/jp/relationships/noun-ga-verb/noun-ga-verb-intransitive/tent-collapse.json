@@ -1,0 +1,13 @@
+{
+  "_id": "xx2o45n1vwr",
+  "name": "tent-collapse",
+  "params": {
+    "noun": "tent",
+    "verb": "collapse"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

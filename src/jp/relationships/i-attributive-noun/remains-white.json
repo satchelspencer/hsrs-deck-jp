@@ -1,0 +1,13 @@
+{
+  "_id": "7wr0nhirmqm",
+  "name": "remains-white",
+  "params": {
+    "iadj": "white",
+    "noun": "remains"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

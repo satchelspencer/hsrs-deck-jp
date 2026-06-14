@@ -1,0 +1,13 @@
+{
+  "_id": "b0bqn32191h",
+  "name": "world-of-life-people",
+  "params": {
+    "noun": "people-noun",
+    "owner": "world-of-life"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

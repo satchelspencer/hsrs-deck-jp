@@ -1,0 +1,13 @@
+{
+  "_id": "k8w2virb1kx",
+  "name": "sparklingly-sparkle",
+  "params": {
+    "adv": "sparklingly",
+    "verb": "sparkle"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "5a41qah3i4z",
+  "name": "stop-vehicle-sudden",
+  "params": {
+    "na": "sudden",
+    "verb": "stop-vehicle"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "gqhe2bb4kx1",
+  "name": "needed-rest-break",
+  "params": {
+    "na": "needed",
+    "noun": "rest-break"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

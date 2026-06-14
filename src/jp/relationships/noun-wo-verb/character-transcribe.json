@@ -1,0 +1,13 @@
+{
+  "_id": "u7q768p6e6w",
+  "name": "character-transcribe",
+  "params": {
+    "noun": "charachter",
+    "verb": "transcribe"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

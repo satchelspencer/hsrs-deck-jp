@@ -1,0 +1,13 @@
+{
+  "_id": "psyyxey6a6m",
+  "name": "device-heavy",
+  "params": {
+    "iadj": "heavy",
+    "noun": "device"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

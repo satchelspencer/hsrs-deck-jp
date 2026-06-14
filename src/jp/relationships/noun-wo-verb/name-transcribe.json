@@ -1,0 +1,13 @@
+{
+  "_id": "56trzcrhpql",
+  "name": "name-transcribe",
+  "params": {
+    "noun": "name",
+    "verb": "transcribe"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

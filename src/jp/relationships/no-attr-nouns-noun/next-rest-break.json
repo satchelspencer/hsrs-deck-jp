@@ -1,0 +1,13 @@
+{
+  "_id": "6k6uvaxz4hs",
+  "name": "next-rest-break",
+  "params": {
+    "no": "next",
+    "noun": "rest-break"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

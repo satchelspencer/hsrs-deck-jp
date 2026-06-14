@@ -1,0 +1,13 @@
+{
+  "_id": "tbx7cb9wjgx",
+  "name": "signature-write",
+  "params": {
+    "noun": "signature",
+    "verb": "write"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

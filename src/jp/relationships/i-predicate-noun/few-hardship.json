@@ -1,0 +1,13 @@
+{
+  "_id": "91swac474zq",
+  "name": "few-hardship",
+  "params": {
+    "iadj": "few",
+    "noun": "hardship"
+  },
+  "parents": [
+    "i-predicate-noun"
+  ],
+  "props": {
+  }
+}

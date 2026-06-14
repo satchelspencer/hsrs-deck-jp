@@ -1,0 +1,13 @@
+{
+  "_id": "5s167mv7w34",
+  "name": "vinyl-stretch",
+  "params": {
+    "noun": "vinyl",
+    "verb": "be-stretched"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

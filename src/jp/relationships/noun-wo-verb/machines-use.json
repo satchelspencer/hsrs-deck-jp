@@ -1,0 +1,13 @@
+{
+  "_id": "6ptamufihdz",
+  "name": "machines-use",
+  "params": {
+    "noun": "machines",
+    "verb": "use"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

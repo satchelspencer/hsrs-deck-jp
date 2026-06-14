@@ -1,0 +1,14 @@
+{
+  "_id": "obveu1suvvw",
+  "desc": "出す is put out (for collection) in this context",
+  "name": "trash-take-out",
+  "params": {
+    "noun": "trash",
+    "verb": "take-out"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

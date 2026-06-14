@@ -1,0 +1,13 @@
+{
+  "_id": "qzgosmz5b8y",
+  "name": "leaders-judgement",
+  "params": {
+    "noun": "leaders",
+    "verb": "judgement"
+  },
+  "parents": [
+    "noun-ga-verb-transitive"
+  ],
+  "props": {
+  }
+}

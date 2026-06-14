@@ -1,0 +1,13 @@
+{
+  "_id": "x1c4xvs19m4",
+  "name": "wine-get-drunk",
+  "params": {
+    "noun": "wine",
+    "verb": "get-drunk"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

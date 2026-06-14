@@ -1,0 +1,13 @@
+{
+  "_id": "3k40w7vvcyo",
+  "name": "signature-collect",
+  "params": {
+    "noun": "signature",
+    "verb": "collect"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

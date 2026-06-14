@@ -1,0 +1,13 @@
+{
+  "_id": "2wl76wakvh1",
+  "name": "transaction-content",
+  "params": {
+    "noun": "content",
+    "owner": "transaction"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

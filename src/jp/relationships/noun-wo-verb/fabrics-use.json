@@ -1,0 +1,13 @@
+{
+  "_id": "b6c9tiy42f2",
+  "name": "fabrics-use",
+  "params": {
+    "noun": "fabrics",
+    "verb": "use"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

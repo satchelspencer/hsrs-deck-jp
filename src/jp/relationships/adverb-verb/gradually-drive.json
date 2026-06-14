@@ -1,0 +1,13 @@
+{
+  "_id": "c44yx73tc78",
+  "name": "gradually-drive",
+  "params": {
+    "adv": "gradually",
+    "verb": "driving"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

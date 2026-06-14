@@ -1,0 +1,13 @@
+{
+  "_id": "z159hxo2iwk",
+  "name": "device-examine",
+  "params": {
+    "noun": "device",
+    "verb": "examine"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

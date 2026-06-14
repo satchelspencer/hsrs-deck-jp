@@ -1,0 +1,13 @@
+{
+  "_id": "8zs6h0ukudb",
+  "name": "toast-be-started",
+  "params": {
+    "noun": "toast",
+    "verb": "be-started"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

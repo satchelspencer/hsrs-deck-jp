@@ -1,0 +1,13 @@
+{
+  "_id": "tvmjs1iz738",
+  "name": "fusuma-heavy",
+  "params": {
+    "iadj": "heavy",
+    "noun": "fusuma"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

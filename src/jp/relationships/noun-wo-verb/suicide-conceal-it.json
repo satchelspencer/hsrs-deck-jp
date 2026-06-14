@@ -1,0 +1,13 @@
+{
+  "_id": "6f08y510gzd",
+  "name": "suicide-conceal-it",
+  "params": {
+    "noun": "suicide",
+    "verb": "conceal-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "vadeb4ocbxj",
+  "name": "fine-transcribe",
+  "params": {
+    "iadj": "fine",
+    "verb": "transcribe"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

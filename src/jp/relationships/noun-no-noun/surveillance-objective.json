@@ -1,0 +1,13 @@
+{
+  "_id": "51e4cx07srx",
+  "name": "surveillance-objective",
+  "params": {
+    "noun": "objective",
+    "owner": "surveillance"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "zmoc88z9jt1",
+  "name": "hardship-experience",
+  "params": {
+    "noun": "hardship",
+    "owner": "experience"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "_id": "4uasfapa31q",
+  "desc": "cheese",
+  "name": "cheese",
+  "order": "4",
+  "parents": [
+    "ingredients",
+    "paintables",
+    "roastables",
+    "kire-countable",
+    "ko-countable"
+  ],
+  "props": {
+    "en": "cheese",
+    "jp": "チーズ",
+    "tl": "ちーず"
+  }
+}

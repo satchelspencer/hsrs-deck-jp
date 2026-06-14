@@ -1,0 +1,13 @@
+{
+  "_id": "py9tt0kq6ap",
+  "name": "divorce-be-decided",
+  "params": {
+    "noun": "divorce",
+    "verb": "be-decided"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "jg3xtqk1d8z",
+  "name": "chill-body",
+  "params": {
+    "noun": "body",
+    "verb": "chill"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

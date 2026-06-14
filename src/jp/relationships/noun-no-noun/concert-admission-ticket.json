@@ -1,0 +1,13 @@
+{
+  "_id": "4eho1q8fi59",
+  "name": "concert-admission-ticket",
+  "params": {
+    "noun": "admission-ticket",
+    "owner": "concert"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

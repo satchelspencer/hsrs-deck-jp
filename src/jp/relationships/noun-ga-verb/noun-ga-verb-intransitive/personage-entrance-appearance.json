@@ -1,0 +1,13 @@
+{
+  "_id": "f0pkkqxeaet",
+  "name": "personage-entrance-appearance",
+  "params": {
+    "noun": "personage",
+    "verb": "entrance-appearance"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

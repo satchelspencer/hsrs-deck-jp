@@ -1,0 +1,13 @@
+{
+  "_id": "1xi97eqlpm6",
+  "name": "similar-brain",
+  "params": {
+    "no": "similar",
+    "noun": "brain"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

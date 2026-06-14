@@ -1,0 +1,13 @@
+{
+  "_id": "u5ja60qm5sl",
+  "name": "brain-activity",
+  "params": {
+    "noun": "activity",
+    "owner": "brain"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

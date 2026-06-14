@@ -1,0 +1,14 @@
+{
+  "_id": "xkkvnvbeqp6",
+  "desc": "下ろす is withdraw (cash) in this context",
+  "name": "cash-take-down",
+  "params": {
+    "noun": "cash",
+    "verb": "take-down"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

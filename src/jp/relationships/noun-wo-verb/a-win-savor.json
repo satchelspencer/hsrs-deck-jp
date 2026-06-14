@@ -1,0 +1,13 @@
+{
+  "_id": "89zsskqlg2z",
+  "name": "a-win-savor",
+  "params": {
+    "noun": "a-win",
+    "verb": "savor"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

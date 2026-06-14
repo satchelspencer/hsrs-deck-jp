@@ -1,0 +1,13 @@
+{
+  "_id": "pxv5xgv819d",
+  "name": "ice-cream",
+  "order": "2",
+  "parents": [
+    "foods"
+  ],
+  "props": {
+    "en": "ice cream",
+    "jp": "アイスクリーム",
+    "tl": "あいすくりーむ"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "po8fy4ws8kt",
+  "name": "word-give-ones-all",
+  "params": {
+    "noun": "word",
+    "verb": "give-ones-all"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

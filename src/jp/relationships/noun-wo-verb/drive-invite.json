@@ -1,0 +1,13 @@
+{
+  "_id": "nfa4nsz8ciy",
+  "name": "drive-invite",
+  "params": {
+    "noun": "drive",
+    "verb": "invite"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

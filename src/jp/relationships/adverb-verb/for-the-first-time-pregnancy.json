@@ -1,0 +1,13 @@
+{
+  "_id": "yxumfapqn1u",
+  "name": "for-the-first-time-pregnancy",
+  "params": {
+    "adv": "for-the-first-time",
+    "verb": "pregnancy"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

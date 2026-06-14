@@ -1,0 +1,13 @@
+{
+  "_id": "x0v3yh1em85",
+  "name": "wide-tent",
+  "params": {
+    "iadj": "wide",
+    "noun": "tent"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

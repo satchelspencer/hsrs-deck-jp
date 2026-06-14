@@ -1,0 +1,14 @@
+{
+  "_id": "8p9mi2ozsm4",
+  "desc": "入る is activate/turn on intransitively in this context",
+  "name": "switch-enter",
+  "params": {
+    "noun": "switch",
+    "verb": "enter"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "67cuvwld0ka",
+  "name": "fabrics-cut",
+  "params": {
+    "noun": "fabrics",
+    "verb": "cut"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

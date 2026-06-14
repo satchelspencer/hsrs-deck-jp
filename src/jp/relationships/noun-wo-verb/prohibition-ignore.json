@@ -1,0 +1,13 @@
+{
+  "_id": "w39j5mzb0d2",
+  "name": "prohibition-ignore",
+  "params": {
+    "noun": "prohibition",
+    "verb": "ignoring"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

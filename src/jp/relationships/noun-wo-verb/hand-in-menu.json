@@ -1,0 +1,13 @@
+{
+  "_id": "jn28o7ea71a",
+  "name": "hand-in-menu",
+  "params": {
+    "noun": "menu",
+    "verb": "hand-in"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

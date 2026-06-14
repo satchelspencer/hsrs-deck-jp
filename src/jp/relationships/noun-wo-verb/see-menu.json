@@ -1,0 +1,13 @@
+{
+  "_id": "255foi7umg6",
+  "name": "see-menu",
+  "params": {
+    "noun": "menu",
+    "verb": "see"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

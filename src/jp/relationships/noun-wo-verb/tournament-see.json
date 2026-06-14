@@ -1,0 +1,13 @@
+{
+  "_id": "f14udb9m5h5",
+  "name": "tournament-see",
+  "params": {
+    "noun": "tournament",
+    "verb": "see"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

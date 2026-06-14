@@ -1,0 +1,13 @@
+{
+  "_id": "j0yqhbdk8gu",
+  "name": "mark-write",
+  "params": {
+    "noun": "mark",
+    "verb": "write"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

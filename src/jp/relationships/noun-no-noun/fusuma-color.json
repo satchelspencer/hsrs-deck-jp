@@ -1,0 +1,13 @@
+{
+  "_id": "pj4otmy26rp",
+  "name": "fusuma-color",
+  "params": {
+    "noun": "color",
+    "owner": "fusuma"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

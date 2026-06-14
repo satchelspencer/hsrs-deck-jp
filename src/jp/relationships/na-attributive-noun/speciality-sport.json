@@ -1,0 +1,13 @@
+{
+  "_id": "yqgus3uik8x",
+  "name": "speciality-sport",
+  "params": {
+    "na": "speciality",
+    "noun": "sport"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

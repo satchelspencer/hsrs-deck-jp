@@ -1,0 +1,13 @@
+{
+  "_id": "istkthzid0s",
+  "name": "remains-wound",
+  "params": {
+    "noun": "wound",
+    "owner": "remains"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

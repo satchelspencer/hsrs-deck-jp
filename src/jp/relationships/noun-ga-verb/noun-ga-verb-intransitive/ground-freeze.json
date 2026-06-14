@@ -1,0 +1,13 @@
+{
+  "_id": "vmhvarhtdvr",
+  "name": "ground-freeze",
+  "params": {
+    "noun": "ground",
+    "verb": "freeze"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

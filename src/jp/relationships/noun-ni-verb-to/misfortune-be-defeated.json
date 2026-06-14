@@ -1,0 +1,13 @@
+{
+  "_id": "2mvnjk2ot9y",
+  "name": "misfortune-be-defeated",
+  "params": {
+    "noun": "misfortune",
+    "verb": "be-defeated"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

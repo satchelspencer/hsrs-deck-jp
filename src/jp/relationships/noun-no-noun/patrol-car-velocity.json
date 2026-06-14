@@ -1,0 +1,13 @@
+{
+  "_id": "ab2ugo1z5sj",
+  "name": "patrol-car-velocity",
+  "params": {
+    "noun": "velocity",
+    "owner": "patrol-car"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

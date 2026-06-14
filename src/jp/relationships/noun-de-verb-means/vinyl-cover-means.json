@@ -1,0 +1,13 @@
+{
+  "_id": "oolg13lshkh",
+  "name": "vinyl-cover-means",
+  "params": {
+    "noun": "vinyl",
+    "verb": "cover-it"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

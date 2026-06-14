@@ -1,0 +1,13 @@
+{
+  "_id": "kig53kmq6aa",
+  "name": "back-kick",
+  "params": {
+    "noun": "back",
+    "verb": "kick"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

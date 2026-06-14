@@ -1,0 +1,13 @@
+{
+  "_id": "sgt2tpgw3gj",
+  "name": "channel-be-changed",
+  "params": {
+    "noun": "channel",
+    "verb": "be-changed"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

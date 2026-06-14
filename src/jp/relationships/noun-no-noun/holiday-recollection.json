@@ -1,0 +1,13 @@
+{
+  "_id": "nqu12ih3hsp",
+  "name": "holiday-recollection",
+  "params": {
+    "noun": "recollection",
+    "owner": "holiday"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

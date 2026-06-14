@@ -1,0 +1,13 @@
+{
+  "_id": "1jmtxvf55wc",
+  "name": "toast-bright",
+  "params": {
+    "iadj": "bright",
+    "noun": "toast"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

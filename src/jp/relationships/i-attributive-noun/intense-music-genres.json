@@ -1,0 +1,13 @@
+{
+  "_id": "qc7acew2p2o",
+  "name": "intense-music-genres",
+  "params": {
+    "iadj": "intense",
+    "noun": "music-genres"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

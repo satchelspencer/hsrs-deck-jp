@@ -1,0 +1,13 @@
+{
+  "_id": "ho5vqx1s5s2",
+  "name": "rest-break-scheme",
+  "params": {
+    "noun": "scheme",
+    "owner": "rest-break"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

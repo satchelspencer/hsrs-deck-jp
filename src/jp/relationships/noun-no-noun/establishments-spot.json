@@ -1,0 +1,13 @@
+{
+  "_id": "xv61ci1d1u1",
+  "name": "establishments-spot",
+  "params": {
+    "noun": "spot",
+    "owner": "establishments"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

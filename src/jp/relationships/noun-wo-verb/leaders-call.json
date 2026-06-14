@@ -1,0 +1,13 @@
+{
+  "_id": "dej9fx5l8b0",
+  "name": "leaders-call",
+  "params": {
+    "noun": "leaders",
+    "verb": "call"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "o5s0kk1pqq4",
+  "name": "important-article",
+  "params": {
+    "na": "important",
+    "noun": "article"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

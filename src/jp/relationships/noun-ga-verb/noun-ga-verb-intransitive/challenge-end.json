@@ -1,0 +1,13 @@
+{
+  "_id": "uwxesmz11h6",
+  "name": "challenge-end",
+  "params": {
+    "noun": "challenge",
+    "verb": "end"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

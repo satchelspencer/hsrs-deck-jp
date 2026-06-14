@@ -1,0 +1,13 @@
+{
+  "_id": "cbuei1kogxv",
+  "name": "lemon-cut",
+  "params": {
+    "noun": "lemon",
+    "verb": "cut"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

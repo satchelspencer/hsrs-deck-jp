@@ -1,0 +1,13 @@
+{
+  "_id": "judjsa0gpcu",
+  "name": "answer-transcribe",
+  "params": {
+    "noun": "answer",
+    "verb": "transcribe"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "0jc2s5tppv0",
+  "name": "special-wine",
+  "params": {
+    "na": "special",
+    "noun": "wine"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

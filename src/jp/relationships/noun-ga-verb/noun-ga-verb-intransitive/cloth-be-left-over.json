@@ -1,0 +1,13 @@
+{
+  "_id": "sdy0tngigqv",
+  "name": "cloth-be-left-over",
+  "params": {
+    "noun": "cloth",
+    "verb": "be-left-over"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

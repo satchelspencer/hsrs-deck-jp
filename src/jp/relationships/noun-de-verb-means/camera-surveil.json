@@ -1,0 +1,13 @@
+{
+  "_id": "0c23nk7k205",
+  "name": "camera-surveil",
+  "params": {
+    "noun": "camera",
+    "verb": "surveillance"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

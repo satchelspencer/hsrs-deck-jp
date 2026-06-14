@@ -1,0 +1,13 @@
+{
+  "_id": "gavqigpvpnx",
+  "name": "door-kick",
+  "params": {
+    "noun": "door",
+    "verb": "kick"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "nt8p6or0k0b",
+  "desc": "copy by writing, hand-copy",
+  "name": "transcribe",
+  "order": "3",
+  "parents": [
+    "godan-su",
+    "people-do-volitional",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "transcribing",
+    "en": "transcribe",
+    "jp": "写す",
+    "tl": "うつす"
+  }
+}

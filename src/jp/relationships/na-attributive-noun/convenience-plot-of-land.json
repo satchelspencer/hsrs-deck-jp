@@ -1,0 +1,13 @@
+{
+  "_id": "2x24ua57udl",
+  "name": "convenience-plot-of-land",
+  "params": {
+    "na": "convenience",
+    "noun": "plot-of-land"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

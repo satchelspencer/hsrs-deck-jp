@@ -1,0 +1,13 @@
+{
+  "_id": "p4zjnohq79t",
+  "name": "polite-transcribe",
+  "params": {
+    "na": "polite-na",
+    "verb": "transcribe"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

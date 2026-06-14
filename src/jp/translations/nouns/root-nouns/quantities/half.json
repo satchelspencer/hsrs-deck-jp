@@ -5,7 +5,8 @@
   "order": "4",
   "parents": [
     "quantities",
-    "verb-adverbs"
+    "verb-adverbs",
+    "abstracts"
   ],
   "props": {
     "_ad": "halfway",

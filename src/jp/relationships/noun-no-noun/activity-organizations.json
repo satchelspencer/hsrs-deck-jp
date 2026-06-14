@@ -1,0 +1,13 @@
+{
+  "_id": "bk2fb0bs7ka",
+  "name": "activity-organizations",
+  "params": {
+    "noun": "activity",
+    "owner": "organizations"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

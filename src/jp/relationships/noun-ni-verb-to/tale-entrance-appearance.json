@@ -1,0 +1,13 @@
+{
+  "_id": "q15gzz156ee",
+  "name": "tale-entrance-appearance",
+  "params": {
+    "noun": "tale",
+    "verb": "entrance-appearance"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

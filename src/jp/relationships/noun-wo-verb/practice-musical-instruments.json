@@ -1,0 +1,13 @@
+{
+  "_id": "lokpp5elwoc",
+  "name": "practice-musical-instruments",
+  "params": {
+    "noun": "musical-instruments",
+    "verb": "practice"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

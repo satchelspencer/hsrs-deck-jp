@@ -1,0 +1,13 @@
+{
+  "_id": "s1bg4278zw0",
+  "name": "suspicious-transaction",
+  "params": {
+    "iadj": "suspicious",
+    "noun": "transaction"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "8ydu253y15h",
+  "name": "cautious-drive",
+  "params": {
+    "na": "cautious",
+    "verb": "driving"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

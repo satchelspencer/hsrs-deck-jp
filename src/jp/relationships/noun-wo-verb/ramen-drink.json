@@ -1,0 +1,14 @@
+{
+  "_id": "i0h8es3q8tj",
+  "desc": "drinking the broth/soup of ramen",
+  "name": "ramen-drink",
+  "params": {
+    "noun": "ramen",
+    "verb": "drink"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

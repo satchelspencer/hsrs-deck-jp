@@ -1,0 +1,13 @@
+{
+  "_id": "3mavigokia5",
+  "name": "lighter-fire",
+  "params": {
+    "noun": "fire",
+    "owner": "lighter"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "vngu6xjt6du",
+  "name": "driving-method",
+  "params": {
+    "noun": "method",
+    "owner": "driving"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

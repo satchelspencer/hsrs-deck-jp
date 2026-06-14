@@ -1,0 +1,13 @@
+{
+  "_id": "cq0z2w85ynf",
+  "name": "driving-enjoy",
+  "params": {
+    "noun": "driving",
+    "verb": "enjoy"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "y6ru1ltvp9x",
+  "name": "surveillance-record",
+  "params": {
+    "noun": "record",
+    "owner": "surveillance"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "wcq57x9de48",
+  "name": "proper-repair",
+  "params": {
+    "no": "proper",
+    "noun": "repair"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

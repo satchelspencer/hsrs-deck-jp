@@ -1,0 +1,13 @@
+{
+  "_id": "paqtxicb2e0",
+  "name": "driving-be-continuing",
+  "params": {
+    "noun": "driving",
+    "verb": "be-continuing"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

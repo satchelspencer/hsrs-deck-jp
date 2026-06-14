@@ -1,0 +1,13 @@
+{
+  "_id": "bfo7ey100cz",
+  "name": "complex-gender",
+  "params": {
+    "na": "complexity",
+    "noun": "gender"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "clo4xgiq8vm",
+  "name": "a-win-aim-for",
+  "params": {
+    "noun": "a-win",
+    "verb": "aim-for"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

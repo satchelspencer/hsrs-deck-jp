@@ -1,0 +1,13 @@
+{
+  "_id": "tdej15epenx",
+  "name": "device-protect",
+  "params": {
+    "noun": "device",
+    "verb": "protect"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

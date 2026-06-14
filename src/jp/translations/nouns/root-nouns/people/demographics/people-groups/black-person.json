@@ -1,0 +1,14 @@
+{
+  "_id": "fcbbo3nquds",
+  "desc": "Black person",
+  "name": "black-person",
+  "order": "2",
+  "parents": [
+    "people-groups"
+  ],
+  "props": {
+    "en": "black person",
+    "jp": "黒人",
+    "tl": "こくじん"
+  }
+}

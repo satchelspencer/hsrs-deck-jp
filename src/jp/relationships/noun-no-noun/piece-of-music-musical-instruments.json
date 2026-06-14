@@ -1,0 +1,13 @@
+{
+  "_id": "73u22agvogc",
+  "name": "piece-of-music-musical-instruments",
+  "params": {
+    "noun": "piece-of-music",
+    "owner": "musical-instruments"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "_id": "c3jvtyjeygf",
+  "desc": "transfer (trains/buses), transit connection",
+  "name": "transfer",
+  "order": "4",
+  "parents": [
+    "abstracts",
+    "non-unique"
+  ],
+  "props": {
+    "en": "a transfer",
+    "jp": "乗り換え",
+    "tl": "のりかえ"
+  }
+}

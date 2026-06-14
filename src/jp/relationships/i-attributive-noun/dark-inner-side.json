@@ -1,0 +1,13 @@
+{
+  "_id": "7my6sgrf5yx",
+  "name": "dark-inner-side",
+  "params": {
+    "iadj": "dark",
+    "noun": "inner-side"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

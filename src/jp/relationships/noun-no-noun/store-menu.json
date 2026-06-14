@@ -1,0 +1,13 @@
+{
+  "_id": "m6n02gvdpyp",
+  "name": "store-menu",
+  "params": {
+    "noun": "menu",
+    "owner": "store"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

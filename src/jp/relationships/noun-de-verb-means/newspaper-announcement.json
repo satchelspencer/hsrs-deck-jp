@@ -1,0 +1,13 @@
+{
+  "_id": "1gfbclpb3ps",
+  "name": "newspaper-announcement",
+  "params": {
+    "noun": "newspaper",
+    "verb": "announcement"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

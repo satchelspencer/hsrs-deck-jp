@@ -1,0 +1,13 @@
+{
+  "_id": "mbjzey373p1",
+  "name": "tree-shave-it",
+  "params": {
+    "noun": "tree",
+    "verb": "shave-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

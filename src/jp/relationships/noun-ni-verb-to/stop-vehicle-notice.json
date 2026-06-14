@@ -1,0 +1,13 @@
+{
+  "_id": "fan11my74lq",
+  "name": "stop-vehicle-notice",
+  "params": {
+    "noun": "stop-vehicle",
+    "verb": "notice"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

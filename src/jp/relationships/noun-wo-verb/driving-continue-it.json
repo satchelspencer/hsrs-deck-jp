@@ -1,0 +1,13 @@
+{
+  "_id": "7fhgp1bkoqp",
+  "name": "driving-continue-it",
+  "params": {
+    "noun": "driving",
+    "verb": "continue-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

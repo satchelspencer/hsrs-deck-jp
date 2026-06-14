@@ -1,0 +1,13 @@
+{
+  "_id": "cm77c1mcst6",
+  "name": "faintly-be-photographed",
+  "params": {
+    "adv": "faintly",
+    "verb": "be-photographed"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

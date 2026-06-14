@@ -1,0 +1,13 @@
+{
+  "_id": "au9hhrcr247",
+  "name": "strong-stab",
+  "params": {
+    "iadj": "strong",
+    "verb": "stab"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "cng5m09adk5",
+  "name": "company-transport-expense",
+  "params": {
+    "noun": "transport-expense",
+    "owner": "company"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

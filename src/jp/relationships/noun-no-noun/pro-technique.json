@@ -1,0 +1,13 @@
+{
+  "_id": "5djoqklelyo",
+  "name": "pro-technique",
+  "params": {
+    "noun": "technique",
+    "owner": "pro"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "h4nk2jqizme",
+  "name": "departure-preparation",
+  "params": {
+    "noun": "preparation",
+    "owner": "departure"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "6en2t7fuewl",
+  "name": "rapport-siblings",
+  "params": {
+    "noun": "rapport",
+    "owner": "siblings"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

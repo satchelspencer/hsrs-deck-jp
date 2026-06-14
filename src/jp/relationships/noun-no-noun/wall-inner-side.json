@@ -1,0 +1,13 @@
+{
+  "_id": "2dkfksahgfm",
+  "name": "wall-inner-side",
+  "params": {
+    "noun": "inner-side",
+    "owner": "wall"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

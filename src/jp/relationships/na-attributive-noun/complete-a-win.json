@@ -1,0 +1,13 @@
+{
+  "_id": "n23u5lfibtl",
+  "name": "complete-a-win",
+  "params": {
+    "na": "complete",
+    "noun": "a-win"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

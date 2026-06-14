@@ -1,0 +1,13 @@
+{
+  "_id": "q7p99n99goz",
+  "name": "sour-lemon",
+  "params": {
+    "iadj": "sour",
+    "noun": "lemon"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "rs6vxu1jj2b",
+  "name": "sparklingly-shine",
+  "params": {
+    "adv": "sparklingly",
+    "verb": "shine"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

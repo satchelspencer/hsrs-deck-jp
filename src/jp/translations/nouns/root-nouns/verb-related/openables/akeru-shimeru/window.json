@@ -6,7 +6,8 @@
     "akeru-shimeru",
     "objects",
     "polishables",
-    "wago-countable"
+    "wago-countable",
+    "crackables"
   ],
   "props": {
     "en": "window",

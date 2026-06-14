@@ -1,0 +1,13 @@
+{
+  "_id": "ixt9qg5siue",
+  "name": "suicide-be-decreased",
+  "params": {
+    "noun": "suicide",
+    "verb": "be-decreased"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

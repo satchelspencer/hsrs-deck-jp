@@ -1,0 +1,13 @@
+{
+  "_id": "5egrglt8ayn",
+  "name": "travel-documents-correct",
+  "params": {
+    "iadj": "correct",
+    "noun": "travel-documents"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

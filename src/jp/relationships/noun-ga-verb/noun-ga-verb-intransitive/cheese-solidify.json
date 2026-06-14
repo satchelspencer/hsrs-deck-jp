@@ -1,0 +1,13 @@
+{
+  "_id": "lvl2xs8hufs",
+  "name": "cheese-solidify",
+  "params": {
+    "noun": "cheese",
+    "verb": "solidify"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

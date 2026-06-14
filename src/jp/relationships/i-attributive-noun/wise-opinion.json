@@ -1,0 +1,13 @@
+{
+  "_id": "dddgdpo7rv3",
+  "name": "wise-opinion",
+  "params": {
+    "iadj": "wise",
+    "noun": "opinion"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

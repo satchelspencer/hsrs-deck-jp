@@ -1,0 +1,13 @@
+{
+  "_id": "mfu1rk788p5",
+  "name": "record-tear",
+  "params": {
+    "noun": "record",
+    "verb": "tear"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

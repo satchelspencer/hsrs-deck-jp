@@ -1,0 +1,13 @@
+{
+  "_id": "hb0ta469f4i",
+  "name": "fashionable-cafe",
+  "params": {
+    "na": "fashionable",
+    "noun": "cafe"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

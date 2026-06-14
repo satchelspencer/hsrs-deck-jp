@@ -1,0 +1,13 @@
+{
+  "_id": "7glif0cdpvu",
+  "name": "divorce-discuss",
+  "params": {
+    "noun": "divorce",
+    "verb": "discuss"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

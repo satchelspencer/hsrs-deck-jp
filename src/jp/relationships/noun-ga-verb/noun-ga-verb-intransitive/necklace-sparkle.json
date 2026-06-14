@@ -1,0 +1,13 @@
+{
+  "_id": "613mgvd6r19",
+  "name": "necklace-sparkle",
+  "params": {
+    "noun": "necklace",
+    "verb": "sparkle"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

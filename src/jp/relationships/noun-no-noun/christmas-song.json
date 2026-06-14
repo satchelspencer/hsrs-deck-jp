@@ -1,0 +1,13 @@
+{
+  "_id": "4enqh6mo7j3",
+  "name": "christmas-song",
+  "params": {
+    "noun": "song",
+    "owner": "christmas"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

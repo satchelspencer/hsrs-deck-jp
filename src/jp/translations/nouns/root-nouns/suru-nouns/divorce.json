@@ -1,0 +1,21 @@
+{
+  "_id": "0qfagy6hxam",
+  "desc": "a divorce, divorcing",
+  "name": "divorce",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "te-iru-verbs-state",
+    "people-do-volitional",
+    "do-togethers",
+    "events"
+  ],
+  "props": {
+    "_pg": "divorcing",
+    "_st": "divorced",
+    "_v": "divorce",
+    "en": "divorce",
+    "jp": "離婚",
+    "tl": "りこん"
+  }
+}

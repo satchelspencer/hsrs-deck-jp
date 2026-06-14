@@ -1,0 +1,13 @@
+{
+  "_id": "2oguuvtkc6z",
+  "name": "fabrics-thread",
+  "params": {
+    "no": "fabrics",
+    "noun": "thread"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

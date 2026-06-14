@@ -1,0 +1,17 @@
+{
+  "_id": "3zev52kuyyw",
+  "desc": "to cool, to chill, to refrigerate. to calm (anger, excitement)",
+  "name": "chill",
+  "order": "4",
+  "parents": [
+    "godan-su",
+    "people-do-volitional",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "chilling it",
+    "en": "chill it",
+    "jp": "冷やす",
+    "tl": "ひやす"
+  }
+}

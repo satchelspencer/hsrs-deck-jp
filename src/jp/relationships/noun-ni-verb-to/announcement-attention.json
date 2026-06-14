@@ -1,0 +1,13 @@
+{
+  "_id": "pvx6lfrhks3",
+  "name": "announcement-attention",
+  "params": {
+    "noun": "announcement",
+    "verb": "attention"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

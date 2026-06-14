@@ -1,0 +1,13 @@
+{
+  "_id": "7zsfgw5349b",
+  "name": "cheese-eat",
+  "params": {
+    "noun": "cheese",
+    "verb": "eat"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

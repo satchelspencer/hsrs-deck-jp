@@ -1,0 +1,13 @@
+{
+  "_id": "lgpnxkgpfiy",
+  "name": "pro-work",
+  "params": {
+    "noun": "pro",
+    "verb": "work"
+  },
+  "parents": [
+    "noun-to-verb-with"
+  ],
+  "props": {
+  }
+}

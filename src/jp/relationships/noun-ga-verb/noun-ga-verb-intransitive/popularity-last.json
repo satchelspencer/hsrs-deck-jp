@@ -1,0 +1,13 @@
+{
+  "_id": "8f43rcu1n9t",
+  "name": "popularity-last",
+  "params": {
+    "noun": "popularity",
+    "verb": "last"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

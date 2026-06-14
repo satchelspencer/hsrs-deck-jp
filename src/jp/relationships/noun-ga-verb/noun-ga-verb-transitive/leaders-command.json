@@ -1,0 +1,13 @@
+{
+  "_id": "l9s09ml6707",
+  "name": "leaders-command",
+  "params": {
+    "noun": "leaders",
+    "verb": "command"
+  },
+  "parents": [
+    "noun-ga-verb-transitive"
+  ],
+  "props": {
+  }
+}

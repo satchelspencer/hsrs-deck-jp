@@ -1,0 +1,13 @@
+{
+  "_id": "vab4yqf5vzz",
+  "name": "driving-technique",
+  "params": {
+    "noun": "technique",
+    "owner": "driving"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

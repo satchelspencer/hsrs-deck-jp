@@ -1,0 +1,13 @@
+{
+  "_id": "adgqgqljkrw",
+  "name": "strict-surveillance",
+  "params": {
+    "iadj": "strict",
+    "noun": "surveillance"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

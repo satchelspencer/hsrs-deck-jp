@@ -1,0 +1,13 @@
+{
+  "_id": "lscu1v7av2n",
+  "name": "date-promise",
+  "params": {
+    "noun": "promise",
+    "owner": "date"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

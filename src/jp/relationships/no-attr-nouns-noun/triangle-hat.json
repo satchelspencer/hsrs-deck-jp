@@ -1,0 +1,13 @@
+{
+  "_id": "f2ng3ng7ihj",
+  "name": "triangle-hat",
+  "params": {
+    "no": "triangle",
+    "noun": "hat"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

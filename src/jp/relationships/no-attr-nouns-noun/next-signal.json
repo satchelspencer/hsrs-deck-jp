@@ -1,0 +1,13 @@
+{
+  "_id": "n1x5b6iekv3",
+  "name": "next-signal",
+  "params": {
+    "no": "next",
+    "noun": "traffic-signal"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

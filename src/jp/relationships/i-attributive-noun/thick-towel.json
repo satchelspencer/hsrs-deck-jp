@@ -1,0 +1,13 @@
+{
+  "_id": "e3wewe5lq0p",
+  "name": "thick-towel",
+  "params": {
+    "iadj": "thick",
+    "noun": "towel"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

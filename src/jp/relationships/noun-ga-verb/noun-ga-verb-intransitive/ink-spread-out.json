@@ -1,0 +1,13 @@
+{
+  "_id": "el9r43cqsrx",
+  "name": "ink-spread-out",
+  "params": {
+    "noun": "ink",
+    "verb": "spread-out"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

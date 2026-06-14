@@ -1,0 +1,13 @@
+{
+  "_id": "ny0xlvn4fl0",
+  "name": "new-switch",
+  "params": {
+    "iadj": "new",
+    "noun": "switch"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

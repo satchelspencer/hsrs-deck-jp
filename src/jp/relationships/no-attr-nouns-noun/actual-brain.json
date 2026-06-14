@@ -1,0 +1,13 @@
+{
+  "_id": "96danel6v05",
+  "name": "actual-brain",
+  "params": {
+    "no": "actual",
+    "noun": "brain"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

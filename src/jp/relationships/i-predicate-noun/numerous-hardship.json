@@ -1,0 +1,13 @@
+{
+  "_id": "1bynso4grcm",
+  "name": "numerous-hardship",
+  "params": {
+    "iadj": "numerous",
+    "noun": "hardship"
+  },
+  "parents": [
+    "i-predicate-noun"
+  ],
+  "props": {
+  }
+}

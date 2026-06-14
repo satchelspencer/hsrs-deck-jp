@@ -1,0 +1,13 @@
+{
+  "_id": "b6mzdto3hc2",
+  "name": "train-station-stop-vehicle",
+  "params": {
+    "noun": "train-station",
+    "verb": "stop-vehicle"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

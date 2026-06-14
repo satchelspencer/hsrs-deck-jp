@@ -1,0 +1,13 @@
+{
+  "_id": "iachcw7tvdv",
+  "name": "a-win-be-decreased",
+  "params": {
+    "noun": "a-win",
+    "verb": "be-decreased"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "c1xdag6e5y9",
+  "name": "hardship-recount",
+  "params": {
+    "noun": "hardship",
+    "verb": "recount"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

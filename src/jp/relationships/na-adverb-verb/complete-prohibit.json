@@ -1,0 +1,13 @@
+{
+  "_id": "1252ragmkax",
+  "name": "complete-prohibit",
+  "params": {
+    "na": "complete",
+    "verb": "prohibition"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

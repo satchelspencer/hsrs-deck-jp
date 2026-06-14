@@ -1,0 +1,13 @@
+{
+  "_id": "uvkkxgkqe5e",
+  "name": "obvious-gender",
+  "params": {
+    "na": "obvious",
+    "noun": "gender"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

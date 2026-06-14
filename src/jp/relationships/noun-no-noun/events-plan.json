@@ -1,0 +1,13 @@
+{
+  "_id": "wuv9xtmvydp",
+  "name": "events-plan",
+  "params": {
+    "noun": "plan",
+    "owner": "events"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

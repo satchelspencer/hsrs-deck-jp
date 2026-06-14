@@ -1,0 +1,13 @@
+{
+  "_id": "6bstof5eaj0",
+  "name": "significant-brain",
+  "params": {
+    "na": "significant",
+    "noun": "brain"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

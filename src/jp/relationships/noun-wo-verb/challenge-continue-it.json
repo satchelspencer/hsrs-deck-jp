@@ -1,0 +1,13 @@
+{
+  "_id": "yzlatr1ye8e",
+  "name": "challenge-continue-it",
+  "params": {
+    "noun": "challenge",
+    "verb": "continue-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

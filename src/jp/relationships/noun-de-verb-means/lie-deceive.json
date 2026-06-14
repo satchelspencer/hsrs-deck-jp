@@ -1,0 +1,13 @@
+{
+  "_id": "l5ci1yuwel9",
+  "name": "lie-deceive",
+  "params": {
+    "noun": "a-lie",
+    "verb": "deceive"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

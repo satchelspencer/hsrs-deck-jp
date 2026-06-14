@@ -1,0 +1,13 @@
+{
+  "_id": "xpur22xaktc",
+  "name": "necklace-shine",
+  "params": {
+    "noun": "necklace",
+    "verb": "shine"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

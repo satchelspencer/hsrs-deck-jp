@@ -1,0 +1,14 @@
+{
+  "_id": "xp7ehy06n8j",
+  "desc": "若い妊娠 — young pregnancy, i.e. pregnancy at a young age",
+  "name": "young-pregnancy",
+  "params": {
+    "iadj": "young",
+    "noun": "pregnancy"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "u236z8mvjks",
+  "name": "bad-rapport",
+  "params": {
+    "iadj": "bad",
+    "noun": "rapport"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "i8vr3jjfh5o",
+  "name": "pro-request",
+  "params": {
+    "noun": "pro",
+    "verb": "request"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

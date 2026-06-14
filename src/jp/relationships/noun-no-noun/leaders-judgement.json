@@ -1,0 +1,13 @@
+{
+  "_id": "6oxzcsewdgd",
+  "name": "leaders-judgement",
+  "params": {
+    "noun": "judgement",
+    "owner": "leaders"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

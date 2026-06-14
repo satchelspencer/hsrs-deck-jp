@@ -1,0 +1,13 @@
+{
+  "_id": "pdxcd4p5wbz",
+  "name": "repair-wait",
+  "params": {
+    "noun": "repair",
+    "verb": "wait"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

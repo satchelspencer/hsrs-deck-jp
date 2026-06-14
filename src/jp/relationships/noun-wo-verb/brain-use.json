@@ -1,0 +1,13 @@
+{
+  "_id": "pcj8qr1to2s",
+  "name": "brain-use",
+  "params": {
+    "noun": "brain",
+    "verb": "use"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

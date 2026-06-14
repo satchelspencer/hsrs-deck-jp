@@ -1,0 +1,13 @@
+{
+  "_id": "ks2d0xudjzd",
+  "name": "soft-vinyl",
+  "params": {
+    "iadj": "soft",
+    "noun": "vinyl"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

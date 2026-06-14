@@ -1,0 +1,13 @@
+{
+  "_id": "hm0c1r28sn1",
+  "name": "pro-request",
+  "params": {
+    "noun": "pro",
+    "verb": "request"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

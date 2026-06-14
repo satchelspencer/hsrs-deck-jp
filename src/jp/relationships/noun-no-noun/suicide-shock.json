@@ -1,0 +1,13 @@
+{
+  "_id": "samueapr8fi",
+  "name": "suicide-shock",
+  "params": {
+    "noun": "shock",
+    "owner": "suicide"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

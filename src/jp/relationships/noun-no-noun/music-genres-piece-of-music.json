@@ -1,0 +1,13 @@
+{
+  "_id": "ut0j68oapuy",
+  "name": "music-genres-piece-of-music",
+  "params": {
+    "noun": "piece-of-music",
+    "owner": "music-genres"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "_id": "iw8pxf61who",
+  "name": "leaders",
+  "parents": [
+    "roles"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

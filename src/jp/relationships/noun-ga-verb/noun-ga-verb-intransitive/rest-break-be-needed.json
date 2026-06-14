@@ -1,0 +1,13 @@
+{
+  "_id": "vo5iunz3n7u",
+  "name": "rest-break-be-needed",
+  "params": {
+    "noun": "rest-break",
+    "verb": "be-needed"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

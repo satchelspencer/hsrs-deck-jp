@@ -1,0 +1,13 @@
+{
+  "_id": "6iv4yaz5h1i",
+  "name": "transaction-go-forward",
+  "params": {
+    "noun": "transaction",
+    "verb": "go-forward"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

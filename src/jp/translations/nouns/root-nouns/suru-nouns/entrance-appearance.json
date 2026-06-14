@@ -1,0 +1,18 @@
+{
+  "_id": "xa5yrm7sn39",
+  "desc": "entry on stage, appearance in a work, debut",
+  "name": "entrance-appearance",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "te-iru-verbs-continuous",
+    "people-do-volitional"
+  ],
+  "props": {
+    "_pg": "making an appearance",
+    "_v": "make an appearance",
+    "en": "stage appearance",
+    "jp": "登場",
+    "tl": "とうじょう"
+  }
+}

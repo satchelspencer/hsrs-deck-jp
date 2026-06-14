@@ -1,0 +1,13 @@
+{
+  "_id": "h7lhz1y84uh",
+  "name": "misfortune-forget",
+  "params": {
+    "noun": "misfortune",
+    "verb": "forget"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

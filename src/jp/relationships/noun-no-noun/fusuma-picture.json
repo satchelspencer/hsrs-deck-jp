@@ -1,0 +1,13 @@
+{
+  "_id": "nkl9o5ij18y",
+  "name": "fusuma-picture",
+  "params": {
+    "noun": "picture",
+    "owner": "fusuma"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

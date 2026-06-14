@@ -1,0 +1,13 @@
+{
+  "_id": "andcuaswnxq",
+  "name": "towel-become-dry",
+  "params": {
+    "noun": "towel",
+    "verb": "become-dry"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

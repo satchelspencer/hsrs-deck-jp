@@ -1,0 +1,13 @@
+{
+  "_id": "mtgif498xnf",
+  "name": "announcement-be-late",
+  "params": {
+    "noun": "announcement",
+    "verb": "be-late"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

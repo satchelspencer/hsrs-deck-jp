@@ -1,0 +1,17 @@
+{
+  "_id": "ludl0us62ok",
+  "desc": "tear, rip, break, violate (rules/promises), break (records)",
+  "name": "tear",
+  "order": "4",
+  "parents": [
+    "godan-ru",
+    "people-do-volitional",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "tearing it",
+    "en": "tear it",
+    "jp": "破る",
+    "tl": "やぶる"
+  }
+}

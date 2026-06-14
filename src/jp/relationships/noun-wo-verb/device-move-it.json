@@ -1,0 +1,13 @@
+{
+  "_id": "xhjfqtbkezo",
+  "name": "device-move-it",
+  "params": {
+    "noun": "device",
+    "verb": "move-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

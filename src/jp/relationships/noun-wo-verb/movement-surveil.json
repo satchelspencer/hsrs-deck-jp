@@ -1,0 +1,13 @@
+{
+  "_id": "hysbt8wg5vp",
+  "name": "movement-surveil",
+  "params": {
+    "noun": "movement",
+    "verb": "surveillance"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

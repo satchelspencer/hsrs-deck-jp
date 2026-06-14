@@ -1,0 +1,13 @@
+{
+  "_id": "1apt61ixsrk",
+  "name": "channel-interesting",
+  "params": {
+    "iadj": "interesting",
+    "noun": "channel"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

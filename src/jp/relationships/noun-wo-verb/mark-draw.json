@@ -1,0 +1,13 @@
+{
+  "_id": "ll2lcsdyfud",
+  "name": "mark-draw",
+  "params": {
+    "noun": "mark",
+    "verb": "draw"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

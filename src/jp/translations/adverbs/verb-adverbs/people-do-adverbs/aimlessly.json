@@ -1,0 +1,21 @@
+{
+  "_id": "38zcwiqynzk",
+  "desc": "wandering, strolling idly, loafing",
+  "name": "aimlessly",
+  "order": "4",
+  "parents": [
+    "people-do-adverbs",
+    "suru-nouns",
+    "people-do-volitional",
+    "te-iru-verbs-continuous",
+    "de-location-verbs",
+    "do-togethers",
+    "do-to-places"
+  ],
+  "props": {
+    "_pg": "loafing around",
+    "_v": "loaf around",
+    "en": "aimlessly",
+    "jp": "ぶらぶら"
+  }
+}

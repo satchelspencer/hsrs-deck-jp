@@ -1,0 +1,17 @@
+{
+  "_id": "x5g5owxf8a4",
+  "desc": "to deceive, to trick, to cheat, to fool",
+  "name": "deceive",
+  "order": "3",
+  "parents": [
+    "godan-su",
+    "do-to-people",
+    "te-iru-verbs-continuous",
+    "people-do-volitional"
+  ],
+  "props": {
+    "_pg": "deceiving",
+    "en": "deceive",
+    "jp": "だます"
+  }
+}

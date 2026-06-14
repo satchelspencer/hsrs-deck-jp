@@ -1,0 +1,13 @@
+{
+  "_id": "w2l0bxiuewl",
+  "name": "stop-vehicle-end",
+  "params": {
+    "noun": "stop-vehicle",
+    "verb": "end"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

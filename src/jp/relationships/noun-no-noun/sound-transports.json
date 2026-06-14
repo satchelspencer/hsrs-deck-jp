@@ -1,0 +1,13 @@
+{
+  "_id": "h6rx7qovau7",
+  "name": "sound-transports",
+  "params": {
+    "noun": "sound",
+    "owner": "transports"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

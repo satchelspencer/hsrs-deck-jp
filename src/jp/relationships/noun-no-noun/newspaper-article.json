@@ -1,0 +1,13 @@
+{
+  "_id": "nby708md8nc",
+  "name": "newspaper-article",
+  "params": {
+    "noun": "article",
+    "owner": "newspaper"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "2yrwe343yqi",
+  "name": "departure-be-late",
+  "params": {
+    "noun": "departure",
+    "verb": "be-late"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

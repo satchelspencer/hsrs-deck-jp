@@ -1,0 +1,13 @@
+{
+  "_id": "gr3m3tmlccj",
+  "name": "plastic-wash",
+  "params": {
+    "noun": "plastic",
+    "verb": "wash"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

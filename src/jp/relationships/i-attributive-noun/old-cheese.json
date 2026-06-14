@@ -1,0 +1,13 @@
+{
+  "_id": "az6inb8kl2a",
+  "name": "old-cheese",
+  "params": {
+    "iadj": "old",
+    "noun": "cheese"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

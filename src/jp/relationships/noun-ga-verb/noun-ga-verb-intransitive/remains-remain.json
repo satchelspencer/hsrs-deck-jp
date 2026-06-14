@@ -1,0 +1,13 @@
+{
+  "_id": "wmxbw5gaaag",
+  "name": "remains-remain",
+  "params": {
+    "noun": "remains",
+    "verb": "remain"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

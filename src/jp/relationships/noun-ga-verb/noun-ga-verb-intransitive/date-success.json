@@ -1,0 +1,13 @@
+{
+  "_id": "8f9c375qsot",
+  "name": "date-success",
+  "params": {
+    "noun": "date",
+    "verb": "success"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

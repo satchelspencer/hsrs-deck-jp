@@ -1,0 +1,21 @@
+{
+  "_id": "3ndsj3v4vvr",
+  "desc": "romantic date, going on a date",
+  "name": "date",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "people-do-volitional",
+    "te-iru-verbs-continuous",
+    "do-togethers",
+    "come-go-reasons",
+    "activities"
+  ],
+  "props": {
+    "_pg": "going on a date",
+    "_v": "go on a date",
+    "en": "a date",
+    "jp": "デート",
+    "tl": "でーと"
+  }
+}

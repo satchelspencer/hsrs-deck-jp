@@ -1,0 +1,13 @@
+{
+  "_id": "8lalv1h37pz",
+  "name": "white-toilet-paper",
+  "params": {
+    "iadj": "white",
+    "noun": "toilet-paper"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

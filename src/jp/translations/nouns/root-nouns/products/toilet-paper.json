@@ -1,0 +1,15 @@
+{
+  "_id": "lvyaocm82hm",
+  "desc": "toilet paper, toilet roll, TP",
+  "name": "toilet-paper",
+  "order": "4",
+  "parents": [
+    "products",
+    "hon-countable"
+  ],
+  "props": {
+    "en": "toilet paper",
+    "jp": "トイレットペーパー",
+    "tl": "といれっとぺーぱー"
+  }
+}

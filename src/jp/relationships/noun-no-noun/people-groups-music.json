@@ -1,0 +1,13 @@
+{
+  "_id": "94evb2sy4uc",
+  "name": "people-groups-music",
+  "params": {
+    "noun": "music",
+    "owner": "people-groups"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

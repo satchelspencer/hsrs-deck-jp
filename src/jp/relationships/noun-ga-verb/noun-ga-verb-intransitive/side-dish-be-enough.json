@@ -1,0 +1,13 @@
+{
+  "_id": "934mc70wxou",
+  "name": "side-dish-be-enough",
+  "params": {
+    "noun": "side-dish",
+    "verb": "be-enough"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "_id": "p7xbpb6y6cy",
+  "desc": "wickedness, wrongdoing, vice",
+  "name": "evil",
+  "order": "3",
+  "parents": [
+    "beliefs",
+    "abstracts"
+  ],
+  "props": {
+    "en": "evil",
+    "jp": "悪",
+    "tl": "あく"
+  }
+}

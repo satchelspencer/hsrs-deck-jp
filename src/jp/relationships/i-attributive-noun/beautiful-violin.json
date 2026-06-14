@@ -1,0 +1,13 @@
+{
+  "_id": "00brbk7p9or",
+  "name": "beautiful-violin",
+  "params": {
+    "iadj": "beautiful",
+    "noun": "violin"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

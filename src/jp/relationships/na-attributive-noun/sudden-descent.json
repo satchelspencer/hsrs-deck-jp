@@ -1,0 +1,14 @@
+{
+  "_id": "yfkkt6cqjbv",
+  "desc": "急 means steep when describing a slope/descent",
+  "name": "sudden-descent",
+  "params": {
+    "na": "sudden",
+    "noun": "descent"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

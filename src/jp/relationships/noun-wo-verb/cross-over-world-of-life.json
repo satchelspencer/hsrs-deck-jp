@@ -1,0 +1,14 @@
+{
+  "_id": "szz8bs2d0uk",
+  "desc": "世を渡る means to get by in the world / make one's way",
+  "name": "cross-over-world-of-life",
+  "params": {
+    "noun": "world-of-life",
+    "verb": "cross-over"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

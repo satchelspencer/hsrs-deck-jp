@@ -1,0 +1,13 @@
+{
+  "_id": "9ci2ek43uvi",
+  "name": "important-repair",
+  "params": {
+    "na": "important",
+    "noun": "repair"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

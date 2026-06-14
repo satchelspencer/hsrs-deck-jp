@@ -1,0 +1,13 @@
+{
+  "_id": "8s9bkfq62cs",
+  "name": "hardship-know",
+  "params": {
+    "noun": "hardship",
+    "verb": "know"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

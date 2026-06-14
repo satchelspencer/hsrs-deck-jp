@@ -1,0 +1,13 @@
+{
+  "_id": "nxw9p2ymdcu",
+  "name": "fusuma-close",
+  "params": {
+    "noun": "fusuma",
+    "verb": "close-shimeru"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

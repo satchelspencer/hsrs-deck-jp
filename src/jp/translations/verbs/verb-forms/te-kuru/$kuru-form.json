@@ -1,0 +1,21 @@
+{
+  "_id": "uu1tsti2g5q",
+  "constraint": "kuru",
+  "cpmap": {
+    "form": {
+      "verb": "kuru"
+    }
+  },
+  "name": "$kuru-form",
+  "params": {
+    "form": "plain-polite-forms",
+    "kuru": "kuru"
+  },
+  "parents": [
+    "te-kuru"
+  ],
+  "props": {
+    "en": "form.en",
+    "jp": "form.jp"
+  }
+}

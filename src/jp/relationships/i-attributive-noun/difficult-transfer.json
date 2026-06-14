@@ -1,0 +1,13 @@
+{
+  "_id": "rqq6nglxp53",
+  "name": "difficult-transfer",
+  "params": {
+    "iadj": "difficult",
+    "noun": "transfer"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

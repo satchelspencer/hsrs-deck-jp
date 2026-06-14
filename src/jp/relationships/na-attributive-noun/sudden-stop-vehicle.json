@@ -1,0 +1,13 @@
+{
+  "_id": "9hqd709r1f7",
+  "name": "sudden-stop-vehicle",
+  "params": {
+    "na": "sudden",
+    "noun": "stop-vehicle"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

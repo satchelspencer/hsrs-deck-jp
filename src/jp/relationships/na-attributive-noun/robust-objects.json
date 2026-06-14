@@ -1,0 +1,13 @@
+{
+  "_id": "3v81abdqxax",
+  "name": "robust-objects",
+  "params": {
+    "na": "robust",
+    "noun": "objects"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

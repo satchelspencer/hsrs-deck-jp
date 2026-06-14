@@ -1,0 +1,13 @@
+{
+  "_id": "dd3acjvu5ux",
+  "name": "significant-album",
+  "params": {
+    "na": "significant",
+    "noun": "album"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

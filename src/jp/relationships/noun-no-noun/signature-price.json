@@ -1,0 +1,13 @@
+{
+  "_id": "knd3bx4isx5",
+  "name": "signature-price",
+  "params": {
+    "noun": "price",
+    "owner": "signature"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

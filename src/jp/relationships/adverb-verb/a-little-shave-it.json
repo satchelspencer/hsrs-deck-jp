@@ -1,0 +1,13 @@
+{
+  "_id": "vp3no0sx1qf",
+  "name": "a-little-shave-it",
+  "params": {
+    "adv": "a-little",
+    "verb": "shave-it"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

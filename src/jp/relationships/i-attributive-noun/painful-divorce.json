@@ -1,0 +1,13 @@
+{
+  "_id": "drb4itp7upj",
+  "name": "painful-divorce",
+  "params": {
+    "iadj": "painful",
+    "noun": "divorce"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

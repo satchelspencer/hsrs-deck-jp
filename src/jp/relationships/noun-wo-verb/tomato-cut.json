@@ -1,0 +1,13 @@
+{
+  "_id": "m9lema7ounk",
+  "name": "tomato-cut",
+  "params": {
+    "noun": "tomato",
+    "verb": "cut"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

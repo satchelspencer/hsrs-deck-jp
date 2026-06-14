@@ -1,0 +1,15 @@
+{
+  "_id": "km27w8o0m6y",
+  "desc": "clever, smart, wise, sensible",
+  "name": "wise",
+  "order": "4",
+  "parents": [
+    "i-people",
+    "i-people-do"
+  ],
+  "props": {
+    "en": "wise",
+    "jp": "賢い",
+    "tl": "かしこい"
+  }
+}

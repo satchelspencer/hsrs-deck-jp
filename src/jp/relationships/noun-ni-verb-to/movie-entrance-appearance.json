@@ -1,0 +1,13 @@
+{
+  "_id": "mj3poadvc0c",
+  "name": "movie-entrance-appearance",
+  "params": {
+    "noun": "movie",
+    "verb": "entrance-appearance"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

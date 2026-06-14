@@ -1,0 +1,13 @@
+{
+  "_id": "4hy4dyazv7t",
+  "name": "important-mark",
+  "params": {
+    "na": "important",
+    "noun": "mark"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

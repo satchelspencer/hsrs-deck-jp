@@ -1,0 +1,13 @@
+{
+  "_id": "wsrj58uoy72",
+  "name": "robust-fabrics",
+  "params": {
+    "na": "robust",
+    "noun": "fabrics"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

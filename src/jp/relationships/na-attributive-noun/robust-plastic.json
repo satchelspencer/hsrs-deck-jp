@@ -1,0 +1,13 @@
+{
+  "_id": "hdr9yglrywk",
+  "name": "robust-plastic",
+  "params": {
+    "na": "robust",
+    "noun": "plastic"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

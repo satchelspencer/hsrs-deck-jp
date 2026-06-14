@@ -1,0 +1,13 @@
+{
+  "_id": "jih4xwwpalq",
+  "name": "thick-freeze",
+  "params": {
+    "iadj": "thick",
+    "verb": "freeze"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

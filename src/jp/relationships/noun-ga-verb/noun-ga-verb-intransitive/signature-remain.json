@@ -1,0 +1,13 @@
+{
+  "_id": "tlrt2bdq83q",
+  "name": "signature-remain",
+  "params": {
+    "noun": "signature",
+    "verb": "remain"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

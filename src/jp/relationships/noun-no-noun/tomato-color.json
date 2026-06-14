@@ -1,0 +1,13 @@
+{
+  "_id": "k502d3ap8qx",
+  "name": "tomato-color",
+  "params": {
+    "noun": "color",
+    "owner": "tomato"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

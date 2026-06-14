@@ -1,0 +1,13 @@
+{
+  "_id": "454koiowihw",
+  "name": "signature-hand-in",
+  "params": {
+    "noun": "signature",
+    "verb": "hand-in"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

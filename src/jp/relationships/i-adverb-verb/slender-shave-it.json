@@ -1,0 +1,13 @@
+{
+  "_id": "3rd6e3cmhg6",
+  "name": "slender-shave-it",
+  "params": {
+    "iadj": "slender",
+    "verb": "shave-it"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

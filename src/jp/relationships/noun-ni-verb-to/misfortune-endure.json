@@ -1,0 +1,13 @@
+{
+  "_id": "vana9tccll9",
+  "name": "misfortune-endure",
+  "params": {
+    "noun": "misfortune",
+    "verb": "endure"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

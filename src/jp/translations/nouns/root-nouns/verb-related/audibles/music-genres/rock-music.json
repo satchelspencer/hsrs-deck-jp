@@ -1,0 +1,14 @@
+{
+  "_id": "ivgywt7j8wv",
+  "desc": "rock music (genre)",
+  "name": "rock-music",
+  "order": "3",
+  "parents": [
+    "music-genres"
+  ],
+  "props": {
+    "en": "rock music",
+    "jp": "ロック",
+    "tl": "ろっく"
+  }
+}

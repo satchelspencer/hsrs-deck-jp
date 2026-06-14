@@ -1,0 +1,14 @@
+{
+  "_id": "q3ojn26xgze",
+  "desc": "wide menu means extensive/varied selection in this context",
+  "name": "wide-menu",
+  "params": {
+    "iadj": "wide",
+    "noun": "menu"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

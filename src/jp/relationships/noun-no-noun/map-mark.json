@@ -1,0 +1,13 @@
+{
+  "_id": "wkvyee3bl7z",
+  "name": "map-mark",
+  "params": {
+    "noun": "mark",
+    "owner": "map"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

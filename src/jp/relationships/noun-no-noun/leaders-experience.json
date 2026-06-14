@@ -1,0 +1,13 @@
+{
+  "_id": "5kttm1gqu4f",
+  "name": "leaders-experience",
+  "params": {
+    "noun": "experience",
+    "owner": "leaders"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

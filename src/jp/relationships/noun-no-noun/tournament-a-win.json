@@ -1,0 +1,13 @@
+{
+  "_id": "d7iato7n10r",
+  "name": "tournament-a-win",
+  "params": {
+    "noun": "a-win",
+    "owner": "tournament"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

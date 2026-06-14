@@ -1,0 +1,13 @@
+{
+  "_id": "vdjoq0zajtk",
+  "name": "difficult-drive",
+  "params": {
+    "iadj": "difficult",
+    "verb": "driving"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

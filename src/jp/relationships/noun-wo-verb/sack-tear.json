@@ -1,0 +1,13 @@
+{
+  "_id": "7c7l4ptwgo4",
+  "name": "sack-tear",
+  "params": {
+    "noun": "sack",
+    "verb": "tear"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

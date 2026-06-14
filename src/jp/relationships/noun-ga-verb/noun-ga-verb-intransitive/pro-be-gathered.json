@@ -1,0 +1,13 @@
+{
+  "_id": "l7snkesr7fd",
+  "name": "pro-be-gathered",
+  "params": {
+    "noun": "pro",
+    "verb": "be-gathered"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

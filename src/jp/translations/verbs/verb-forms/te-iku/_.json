@@ -1,0 +1,12 @@
+{
+  "_id": "dm1y8kkn2q9",
+  "constraint": "verb",
+  "name": "te-iku",
+  "order": "4",
+  "parents": [
+    "verb-forms"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

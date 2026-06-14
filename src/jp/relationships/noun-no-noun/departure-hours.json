@@ -1,0 +1,13 @@
+{
+  "_id": "x3efyaybreo",
+  "name": "departure-hours",
+  "params": {
+    "noun": "hours",
+    "owner": "departure"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

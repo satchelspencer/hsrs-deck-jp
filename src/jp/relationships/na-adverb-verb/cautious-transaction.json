@@ -1,0 +1,13 @@
+{
+  "_id": "ndw6iakwebb",
+  "name": "cautious-transaction",
+  "params": {
+    "na": "cautious",
+    "verb": "transaction"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

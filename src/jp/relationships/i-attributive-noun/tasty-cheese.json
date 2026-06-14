@@ -1,0 +1,13 @@
+{
+  "_id": "51lu5oceg3e",
+  "name": "tasty-cheese",
+  "params": {
+    "iadj": "tasty",
+    "noun": "cheese"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

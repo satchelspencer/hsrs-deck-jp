@@ -1,0 +1,13 @@
+{
+  "_id": "d0t6k8hg3a5",
+  "name": "cold-touch-drinks",
+  "params": {
+    "iadj": "cold-touch",
+    "noun": "drinks"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

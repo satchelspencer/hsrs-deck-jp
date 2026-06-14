@@ -1,0 +1,13 @@
+{
+  "_id": "a1dro74t7vn",
+  "name": "aimlessly-pass-time",
+  "params": {
+    "adv": "aimlessly",
+    "verb": "pass-time"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

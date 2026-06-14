@@ -1,0 +1,13 @@
+{
+  "_id": "2xoexpdsz38",
+  "name": "containers-put-in",
+  "params": {
+    "noun": "containers",
+    "verb": "put-in"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

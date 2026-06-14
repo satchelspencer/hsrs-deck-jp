@@ -1,0 +1,13 @@
+{
+  "_id": "kxcdtn51jbi",
+  "name": "heavy-prohibition",
+  "params": {
+    "iadj": "heavy",
+    "noun": "prohibition"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "09rw5k0dgiz",
+  "desc": "かける is pour/drizzle on in this context",
+  "name": "sauce-hang-up",
+  "params": {
+    "noun": "sauce",
+    "verb": "hang-up"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

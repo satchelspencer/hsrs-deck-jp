@@ -1,0 +1,13 @@
+{
+  "_id": "jxq1lqgvr4m",
+  "name": "date-fun",
+  "params": {
+    "iadj": "fun",
+    "verb": "date"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

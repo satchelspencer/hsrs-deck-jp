@@ -1,0 +1,13 @@
+{
+  "_id": "vdt8p3kx2m",
+  "name": "videotape",
+  "order": "4",
+  "parents": [
+    "objects",
+    "media"
+  ],
+  "props": {
+    "en": "videotape",
+    "jp": "ビデオテープ"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "kjvrkn93q26",
+  "name": "art-museum-admission-ticket",
+  "params": {
+    "noun": "admission-ticket",
+    "owner": "art-museum"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

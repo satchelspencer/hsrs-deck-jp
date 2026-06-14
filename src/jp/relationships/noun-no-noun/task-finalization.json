@@ -1,0 +1,13 @@
+{
+  "_id": "ozljrphja1c",
+  "name": "task-finalization",
+  "params": {
+    "noun": "finalization",
+    "owner": "task"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

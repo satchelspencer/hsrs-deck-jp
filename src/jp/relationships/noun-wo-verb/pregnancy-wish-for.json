@@ -1,0 +1,13 @@
+{
+  "_id": "mvqy04z1bd8",
+  "name": "pregnancy-wish-for",
+  "params": {
+    "noun": "pregnancy",
+    "verb": "wish-for"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

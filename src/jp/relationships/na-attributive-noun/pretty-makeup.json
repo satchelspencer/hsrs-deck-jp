@@ -1,0 +1,13 @@
+{
+  "_id": "byemgh9ougg",
+  "name": "pretty-makeup",
+  "params": {
+    "na": "pretty",
+    "noun": "makeup"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

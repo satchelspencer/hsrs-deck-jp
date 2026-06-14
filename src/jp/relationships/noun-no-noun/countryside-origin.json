@@ -1,0 +1,13 @@
+{
+  "_id": "l51axy875w7",
+  "name": "countryside-origin",
+  "params": {
+    "noun": "origins",
+    "owner": "countryside"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

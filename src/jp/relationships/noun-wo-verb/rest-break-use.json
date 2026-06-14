@@ -1,0 +1,13 @@
+{
+  "_id": "alllvpqb253",
+  "name": "rest-break-use",
+  "params": {
+    "noun": "rest-break",
+    "verb": "use"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "w33vhwqabq9",
+  "name": "soft-brain",
+  "params": {
+    "iadj": "soft",
+    "noun": "brain"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

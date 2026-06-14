@@ -1,0 +1,13 @@
+{
+  "_id": "3owjqodc6he",
+  "name": "complexity-divorce",
+  "params": {
+    "na": "complexity",
+    "noun": "divorce"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

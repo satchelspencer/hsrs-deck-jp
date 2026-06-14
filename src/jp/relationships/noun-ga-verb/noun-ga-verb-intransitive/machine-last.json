@@ -1,0 +1,13 @@
+{
+  "_id": "vma8rl99mf7",
+  "name": "machine-last",
+  "params": {
+    "noun": "machine",
+    "verb": "last"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

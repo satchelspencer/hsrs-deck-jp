@@ -1,0 +1,13 @@
+{
+  "_id": "9xczguuk7zg",
+  "name": "big-misfortune",
+  "params": {
+    "iadj": "big",
+    "noun": "misfortune"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

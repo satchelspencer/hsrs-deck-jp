@@ -1,0 +1,13 @@
+{
+  "_id": "52yzq2gm0ad",
+  "name": "lemon-use",
+  "params": {
+    "noun": "lemon",
+    "verb": "use"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

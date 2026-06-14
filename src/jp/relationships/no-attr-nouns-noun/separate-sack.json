@@ -1,0 +1,13 @@
+{
+  "_id": "tmma0881p0h",
+  "name": "separate-sack",
+  "params": {
+    "no": "separate",
+    "noun": "sack"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

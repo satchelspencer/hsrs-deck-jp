@@ -1,0 +1,13 @@
+{
+  "_id": "n0imt8wcdxr",
+  "name": "thin-plastic",
+  "params": {
+    "iadj": "thin-weak",
+    "noun": "plastic"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

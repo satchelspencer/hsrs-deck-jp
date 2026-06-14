@@ -1,0 +1,13 @@
+{
+  "_id": "eug1trt2gvk",
+  "name": "pro-real-ability",
+  "params": {
+    "noun": "real-ability",
+    "owner": "pro"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "jhcwvdx2hxd",
+  "name": "firmly-drive",
+  "params": {
+    "adv": "firmly",
+    "verb": "driving"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

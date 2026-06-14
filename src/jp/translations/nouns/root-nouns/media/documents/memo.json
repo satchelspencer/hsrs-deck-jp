@@ -1,0 +1,16 @@
+{
+  "_id": "b52m3swm3t7",
+  "desc": "memo, note, written reminder",
+  "name": "memo",
+  "order": "4",
+  "parents": [
+    "documents",
+    "writeables",
+    "mai-countable"
+  ],
+  "props": {
+    "en": "memo",
+    "jp": "メモ",
+    "tl": "めも"
+  }
+}

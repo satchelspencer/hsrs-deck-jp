@@ -1,0 +1,13 @@
+{
+  "_id": "fjumml43p0q",
+  "name": "rule-katakana-decide-on",
+  "params": {
+    "noun": "rule-katakana",
+    "verb": "decide-on"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

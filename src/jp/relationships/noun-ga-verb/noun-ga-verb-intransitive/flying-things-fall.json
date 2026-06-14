@@ -1,0 +1,13 @@
+{
+  "_id": "8rt0pyf91gl",
+  "name": "flying-things-fall",
+  "params": {
+    "noun": "flying-things",
+    "verb": "fall"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

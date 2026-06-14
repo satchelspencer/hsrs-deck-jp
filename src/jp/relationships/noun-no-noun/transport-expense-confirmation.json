@@ -1,0 +1,13 @@
+{
+  "_id": "gqkcs0t4isj",
+  "name": "transport-expense-confirmation",
+  "params": {
+    "noun": "confirmation",
+    "owner": "transport-expense"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

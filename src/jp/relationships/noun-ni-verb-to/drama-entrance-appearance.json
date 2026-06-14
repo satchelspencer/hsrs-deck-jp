@@ -1,0 +1,13 @@
+{
+  "_id": "4y2atwchih6",
+  "name": "drama-entrance-appearance",
+  "params": {
+    "noun": "drama",
+    "verb": "entrance-appearance"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

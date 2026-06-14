@@ -1,0 +1,13 @@
+{
+  "_id": "pz8hwu9qqm5",
+  "name": "brain-feel",
+  "params": {
+    "noun": "brain",
+    "verb": "feel-emotion"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

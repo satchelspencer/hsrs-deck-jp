@@ -1,0 +1,13 @@
+{
+  "_id": "0dm8v1fjk2t",
+  "name": "police-surveil",
+  "params": {
+    "noun": "police",
+    "verb": "surveillance"
+  },
+  "parents": [
+    "noun-ga-verb-transitive"
+  ],
+  "props": {
+  }
+}

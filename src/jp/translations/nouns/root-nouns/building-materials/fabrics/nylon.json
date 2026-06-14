@@ -1,0 +1,16 @@
+{
+  "_id": "82fcahtqa8b",
+  "desc": "nylon, synthetic fiber",
+  "name": "nylon",
+  "order": "4",
+  "parents": [
+    "fabrics",
+    "objects",
+    "no-attr-nouns"
+  ],
+  "props": {
+    "en": "nylon",
+    "jp": "ナイロン",
+    "tl": "ないろん"
+  }
+}

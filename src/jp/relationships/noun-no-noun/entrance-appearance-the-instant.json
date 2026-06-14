@@ -1,0 +1,13 @@
+{
+  "_id": "fzaywrp6m1p",
+  "name": "entrance-appearance-the-instant",
+  "params": {
+    "noun": "the-instant",
+    "owner": "entrance-appearance"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

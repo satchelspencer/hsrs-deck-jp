@@ -1,0 +1,13 @@
+{
+  "_id": "qxi20hs41i9",
+  "name": "murder-solve",
+  "params": {
+    "noun": "murder",
+    "verb": "solve"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

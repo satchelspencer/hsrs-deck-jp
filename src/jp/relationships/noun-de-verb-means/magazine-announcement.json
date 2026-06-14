@@ -1,0 +1,13 @@
+{
+  "_id": "zaznbi7l18o",
+  "name": "magazine-announcement",
+  "params": {
+    "noun": "magazine",
+    "verb": "announcement"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "lasfd7y1aih",
+  "name": "establishments-name",
+  "params": {
+    "noun": "name",
+    "owner": "establishments"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

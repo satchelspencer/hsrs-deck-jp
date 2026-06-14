@@ -1,0 +1,13 @@
+{
+  "_id": "6kw0kdl37js",
+  "name": "sad-world-of-life",
+  "params": {
+    "iadj": "sad",
+    "noun": "world-of-life"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

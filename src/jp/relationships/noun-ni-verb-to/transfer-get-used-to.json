@@ -1,0 +1,13 @@
+{
+  "_id": "bbbmrxfu5nu",
+  "name": "transfer-get-used-to",
+  "params": {
+    "noun": "transfer",
+    "verb": "get-used-to"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

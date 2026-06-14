@@ -1,0 +1,13 @@
+{
+  "_id": "ye2f196oa3j",
+  "name": "wide-plot-of-land",
+  "params": {
+    "iadj": "wide",
+    "noun": "plot-of-land"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

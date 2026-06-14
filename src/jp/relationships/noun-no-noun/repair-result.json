@@ -1,0 +1,13 @@
+{
+  "_id": "4au6k3ycxxl",
+  "name": "repair-result",
+  "params": {
+    "noun": "result",
+    "owner": "repair"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "4ja6snttx4w",
+  "name": "sentence-transcribe",
+  "params": {
+    "noun": "sentence",
+    "verb": "transcribe"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

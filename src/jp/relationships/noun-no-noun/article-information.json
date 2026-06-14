@@ -1,0 +1,13 @@
+{
+  "_id": "amvygmcbyu8",
+  "name": "article-information",
+  "params": {
+    "noun": "information",
+    "owner": "article"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

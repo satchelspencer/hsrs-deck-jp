@@ -1,0 +1,13 @@
+{
+  "_id": "xt7x7j9oqby",
+  "name": "travel-documents-old",
+  "params": {
+    "iadj": "old",
+    "noun": "travel-documents"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "j7t1x2eagr9",
+  "name": "surrounding-signal",
+  "params": {
+    "no": "surrounding",
+    "noun": "traffic-signal"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

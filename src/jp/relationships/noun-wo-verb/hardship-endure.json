@@ -1,0 +1,13 @@
+{
+  "_id": "iksir2q4wk0",
+  "name": "hardship-endure",
+  "params": {
+    "noun": "hardship",
+    "verb": "endure"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

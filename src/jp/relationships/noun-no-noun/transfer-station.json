@@ -1,0 +1,13 @@
+{
+  "_id": "dkx13crlk5u",
+  "name": "transfer-station",
+  "params": {
+    "noun": "train-station",
+    "owner": "transfer"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "cv49zit39tl",
+  "name": "lighter-gas",
+  "params": {
+    "noun": "gas",
+    "owner": "lighter"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

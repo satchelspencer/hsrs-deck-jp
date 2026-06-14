@@ -1,0 +1,13 @@
+{
+  "_id": "fbmdv5k84fk",
+  "name": "transaction-begin",
+  "params": {
+    "noun": "transaction",
+    "verb": "be-started"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

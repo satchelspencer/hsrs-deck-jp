@@ -1,0 +1,13 @@
+{
+  "_id": "slduh9tahrf",
+  "name": "remains-transfer",
+  "params": {
+    "noun": "remains",
+    "verb": "transfer"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

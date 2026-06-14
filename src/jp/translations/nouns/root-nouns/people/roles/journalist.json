@@ -1,0 +1,14 @@
+{
+  "_id": "yai799hde8z",
+  "desc": "reporter, press",
+  "name": "journalist",
+  "order": "3",
+  "parents": [
+    "roles"
+  ],
+  "props": {
+    "en": "journalist",
+    "jp": "記者",
+    "tl": "きしゃ"
+  }
+}

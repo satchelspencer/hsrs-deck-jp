@@ -1,0 +1,13 @@
+{
+  "_id": "tejlwnk0hiy",
+  "name": "flag-take-down",
+  "params": {
+    "noun": "flag",
+    "verb": "take-down"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

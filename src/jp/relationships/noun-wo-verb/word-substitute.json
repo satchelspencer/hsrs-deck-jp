@@ -1,0 +1,13 @@
+{
+  "_id": "doqsdqm5ny8",
+  "name": "word-substitute",
+  "params": {
+    "noun": "word",
+    "verb": "substitute"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

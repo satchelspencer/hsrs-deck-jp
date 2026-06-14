@@ -1,0 +1,13 @@
+{
+  "_id": "kqaai1ubgke",
+  "name": "physician-explanation",
+  "params": {
+    "noun": "explanation",
+    "owner": "physician"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

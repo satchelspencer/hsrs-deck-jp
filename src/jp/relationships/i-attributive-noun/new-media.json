@@ -1,0 +1,13 @@
+{
+  "_id": "k215sdtq6tw",
+  "name": "new-media",
+  "params": {
+    "iadj": "new",
+    "noun": "media"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

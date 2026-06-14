@@ -1,0 +1,13 @@
+{
+  "_id": "0dilva6n250",
+  "name": "strong-fabrics",
+  "params": {
+    "iadj": "strong",
+    "noun": "fabrics"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

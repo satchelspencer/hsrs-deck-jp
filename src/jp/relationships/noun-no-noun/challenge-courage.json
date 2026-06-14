@@ -1,0 +1,13 @@
+{
+  "_id": "ev98indn0go",
+  "name": "challenge-courage",
+  "params": {
+    "noun": "courage",
+    "owner": "challenge"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

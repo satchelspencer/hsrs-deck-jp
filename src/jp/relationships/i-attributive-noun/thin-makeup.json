@@ -1,0 +1,13 @@
+{
+  "_id": "evypzwy7bbt",
+  "name": "thin-makeup",
+  "params": {
+    "iadj": "thin-weak",
+    "noun": "makeup"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "t3umj7cyqbp",
+  "name": "bag-katakana-be-found",
+  "params": {
+    "noun": "bag-katakana",
+    "verb": "be-found"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

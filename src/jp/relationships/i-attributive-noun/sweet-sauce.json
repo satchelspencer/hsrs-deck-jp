@@ -1,0 +1,13 @@
+{
+  "_id": "arp9zsa7np7",
+  "name": "sweet-sauce",
+  "params": {
+    "iadj": "sweet",
+    "noun": "sauce"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

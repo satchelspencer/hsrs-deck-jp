@@ -1,0 +1,13 @@
+{
+  "_id": "9hveegx8cqu",
+  "name": "challenge-give-up",
+  "params": {
+    "noun": "challenge",
+    "verb": "give-up"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

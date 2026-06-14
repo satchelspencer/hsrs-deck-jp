@@ -1,0 +1,14 @@
+{
+  "_id": "iv84kjpwkqq",
+  "desc": "train station platform (from English 'platform' via プラットホーム)",
+  "name": "platform",
+  "order": "3",
+  "parents": [
+    "places"
+  ],
+  "props": {
+    "en": "platform",
+    "jp": "ホーム",
+    "tl": "ほーむ"
+  }
+}

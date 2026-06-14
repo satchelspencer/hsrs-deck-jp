@@ -1,0 +1,13 @@
+{
+  "_id": "n33zc31o2u9",
+  "name": "danger-plastic",
+  "params": {
+    "na": "danger",
+    "noun": "plastic"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

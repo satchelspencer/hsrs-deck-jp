@@ -1,0 +1,13 @@
+{
+  "_id": "xi953prgnwk",
+  "name": "typewriter-rare",
+  "params": {
+    "iadj": "rare",
+    "noun": "typewriter"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

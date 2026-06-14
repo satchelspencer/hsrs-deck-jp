@@ -1,0 +1,13 @@
+{
+  "_id": "csa0to04xfu",
+  "name": "busy-holiday",
+  "params": {
+    "iadj": "busy",
+    "noun": "holiday"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

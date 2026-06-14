@@ -1,0 +1,13 @@
+{
+  "_id": "48zhe83pf9e",
+  "name": "lake-freeze",
+  "params": {
+    "noun": "lake",
+    "verb": "freeze"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "iru1uk12wye",
+  "name": "hardship-savor",
+  "params": {
+    "noun": "hardship",
+    "verb": "savor"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

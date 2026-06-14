@@ -1,0 +1,13 @@
+{
+  "_id": "74qqphb2fvz",
+  "name": "holiday-feeling",
+  "params": {
+    "noun": "feeling",
+    "owner": "holiday"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "nx3zc3wmgsb",
+  "name": "research-announcement",
+  "params": {
+    "noun": "announcement",
+    "owner": "research"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

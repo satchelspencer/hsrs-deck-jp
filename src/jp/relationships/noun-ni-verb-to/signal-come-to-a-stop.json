@@ -1,0 +1,13 @@
+{
+  "_id": "m0w4a5hdju2",
+  "name": "signal-come-to-a-stop",
+  "params": {
+    "noun": "traffic-signal",
+    "verb": "come-to-a-stop"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

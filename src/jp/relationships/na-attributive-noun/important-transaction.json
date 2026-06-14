@@ -1,0 +1,13 @@
+{
+  "_id": "kb5ccdi4ile",
+  "name": "important-transaction",
+  "params": {
+    "na": "important-polite",
+    "noun": "transaction"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

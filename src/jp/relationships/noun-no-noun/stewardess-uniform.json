@@ -1,0 +1,13 @@
+{
+  "_id": "6uyt31hzlyb",
+  "name": "stewardess-uniform",
+  "params": {
+    "noun": "uniform",
+    "owner": "stewardess"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

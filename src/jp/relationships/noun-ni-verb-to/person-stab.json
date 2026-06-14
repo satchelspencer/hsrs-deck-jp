@@ -1,0 +1,13 @@
+{
+  "_id": "jj5lut67m9m",
+  "name": "person-stab",
+  "params": {
+    "noun": "person",
+    "verb": "stab"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

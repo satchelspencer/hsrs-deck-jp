@@ -1,0 +1,16 @@
+{
+  "_id": "m8tzu7i8jxj",
+  "desc": "orange (color), also the fruit",
+  "name": "orange",
+  "order": "3",
+  "parents": [
+    "colors",
+    "foods"
+  ],
+  "props": {
+    "_at": "orange",
+    "en": "orange",
+    "jp": "オレンジ",
+    "tl": "おれんじ"
+  }
+}

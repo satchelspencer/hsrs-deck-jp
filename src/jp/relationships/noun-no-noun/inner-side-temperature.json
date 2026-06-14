@@ -1,0 +1,13 @@
+{
+  "_id": "o2wriin1p7y",
+  "name": "inner-side-temperature",
+  "params": {
+    "noun": "temperature",
+    "owner": "inner-side"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

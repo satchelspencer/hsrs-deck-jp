@@ -1,0 +1,13 @@
+{
+  "_id": "1ritbzc5nhw",
+  "name": "origin-be-understood",
+  "params": {
+    "noun": "origins",
+    "verb": "be-understood"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

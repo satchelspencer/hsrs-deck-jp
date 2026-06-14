@@ -1,0 +1,13 @@
+{
+  "_id": "y5owt0fzmnm",
+  "name": "leave-behind-memo",
+  "params": {
+    "noun": "memo",
+    "verb": "leave-behind"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

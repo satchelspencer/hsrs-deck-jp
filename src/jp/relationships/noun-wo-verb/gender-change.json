@@ -1,0 +1,13 @@
+{
+  "_id": "qyrfc62d2um",
+  "name": "gender-change",
+  "params": {
+    "noun": "gender",
+    "verb": "change"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

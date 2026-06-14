@@ -1,0 +1,13 @@
+{
+  "_id": "1gs9u4cdvgz",
+  "name": "flavor-orange",
+  "params": {
+    "noun": "flavor",
+    "owner": "orange"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "ywnt3120edv",
+  "name": "travel-documents-lose-it",
+  "params": {
+    "noun": "travel-documents",
+    "verb": "lose-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

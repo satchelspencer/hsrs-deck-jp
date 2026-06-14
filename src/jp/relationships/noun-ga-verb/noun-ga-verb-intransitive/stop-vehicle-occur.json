@@ -1,0 +1,13 @@
+{
+  "_id": "y3mjpahgnpf",
+  "name": "stop-vehicle-occur",
+  "params": {
+    "noun": "stop-vehicle",
+    "verb": "occur"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

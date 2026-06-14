@@ -1,0 +1,13 @@
+{
+  "_id": "8brcxbftp7s",
+  "name": "makeup-begin",
+  "params": {
+    "noun": "makeup",
+    "verb": "be-started"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

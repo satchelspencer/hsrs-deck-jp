@@ -1,0 +1,13 @@
+{
+  "_id": "3aqbk8spd3r",
+  "name": "all-out-give-ones-all",
+  "params": {
+    "na": "all-out",
+    "verb": "give-ones-all"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

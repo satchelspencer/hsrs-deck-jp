@@ -1,0 +1,13 @@
+{
+  "_id": "t2o7xhvvfp0",
+  "name": "transaction-record",
+  "params": {
+    "noun": "record",
+    "owner": "transaction"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

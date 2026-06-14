@@ -1,0 +1,13 @@
+{
+  "_id": "glz3wctdyex",
+  "name": "ultimately-finalize",
+  "params": {
+    "adv": "ultimately",
+    "verb": "finalization"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

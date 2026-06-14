@@ -1,0 +1,18 @@
+{
+  "_id": "724ozhmmlmn",
+  "constraint": "verb",
+  "mode": "c---ap",
+  "name": "te-kuru-past-cont",
+  "order": "2",
+  "params": {
+    "te": "verb-te-form-pos",
+    "verb": "te-iru-verbs-continuous"
+  },
+  "parents": [
+    "te-kuru-base"
+  ],
+  "props": {
+    "en": "'has been '+verb._pg",
+    "jp": "te.jp+'きた'"
+  }
+}

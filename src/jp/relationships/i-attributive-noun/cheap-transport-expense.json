@@ -1,0 +1,13 @@
+{
+  "_id": "9zuuylk2osj",
+  "name": "cheap-transport-expense",
+  "params": {
+    "iadj": "cheap",
+    "noun": "transport-expense"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

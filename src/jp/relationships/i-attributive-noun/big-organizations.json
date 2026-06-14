@@ -1,0 +1,13 @@
+{
+  "_id": "vc9vv6gtmwx",
+  "name": "big-organizations",
+  "params": {
+    "iadj": "big",
+    "noun": "organizations"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

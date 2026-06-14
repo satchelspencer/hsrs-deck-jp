@@ -1,0 +1,13 @@
+{
+  "_id": "nz7t0aixyo2",
+  "name": "face-be-photographed",
+  "params": {
+    "noun": "face",
+    "verb": "be-photographed"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

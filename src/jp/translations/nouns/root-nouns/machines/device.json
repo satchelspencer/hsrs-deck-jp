@@ -1,0 +1,16 @@
+{
+  "_id": "xjh5miwhpsk",
+  "desc": "device, apparatus, equipment, system",
+  "name": "device",
+  "order": "4",
+  "parents": [
+    "machines",
+    "non-unique",
+    "dai-countable"
+  ],
+  "props": {
+    "en": "device",
+    "jp": "装置",
+    "tl": "そうち"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "4r4q6sr5cxc",
+  "name": "fine-crack-it",
+  "params": {
+    "iadj": "fine",
+    "verb": "crack-it"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

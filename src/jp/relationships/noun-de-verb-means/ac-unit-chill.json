@@ -1,0 +1,13 @@
+{
+  "_id": "m8fygf8p2cv",
+  "name": "ac-unit-chill",
+  "params": {
+    "noun": "ac-unit",
+    "verb": "chill"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

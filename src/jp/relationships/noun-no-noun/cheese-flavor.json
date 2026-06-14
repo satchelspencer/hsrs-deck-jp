@@ -1,0 +1,13 @@
+{
+  "_id": "1lbkkzpi210",
+  "name": "cheese-flavor",
+  "params": {
+    "noun": "flavor",
+    "owner": "cheese"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

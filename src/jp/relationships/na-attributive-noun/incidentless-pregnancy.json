@@ -1,0 +1,13 @@
+{
+  "_id": "gzt20804cnv",
+  "name": "incidentless-pregnancy",
+  "params": {
+    "na": "incidentless",
+    "noun": "pregnancy"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

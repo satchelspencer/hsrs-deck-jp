@@ -1,0 +1,13 @@
+{
+  "_id": "ekjze4ana3w",
+  "name": "channel-see",
+  "params": {
+    "noun": "channel",
+    "verb": "see"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

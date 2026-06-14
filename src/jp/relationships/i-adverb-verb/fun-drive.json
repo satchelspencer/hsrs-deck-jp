@@ -1,0 +1,13 @@
+{
+  "_id": "74y2x0661k1",
+  "name": "fun-drive",
+  "params": {
+    "iadj": "fun",
+    "verb": "driving"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

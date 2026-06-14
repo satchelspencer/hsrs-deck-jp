@@ -1,0 +1,14 @@
+{
+  "_id": "juzgk3pofv0",
+  "desc": "分かる means to find out/discover in this context",
+  "name": "pregnancy-be-understood",
+  "params": {
+    "noun": "pregnancy",
+    "verb": "be-understood"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

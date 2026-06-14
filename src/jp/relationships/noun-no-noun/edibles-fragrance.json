@@ -1,0 +1,13 @@
+{
+  "_id": "abiu7nz1zou",
+  "name": "edibles-fragrance",
+  "params": {
+    "noun": "fragrance",
+    "owner": "edibles"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

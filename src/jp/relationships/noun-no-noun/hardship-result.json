@@ -1,0 +1,13 @@
+{
+  "_id": "8tevc6gzs3t",
+  "name": "hardship-result",
+  "params": {
+    "noun": "result",
+    "owner": "hardship"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

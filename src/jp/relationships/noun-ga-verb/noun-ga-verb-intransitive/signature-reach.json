@@ -1,0 +1,13 @@
+{
+  "_id": "fkjynjhb42d",
+  "name": "signature-reach",
+  "params": {
+    "noun": "signature",
+    "verb": "reach"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

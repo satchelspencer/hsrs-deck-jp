@@ -1,0 +1,14 @@
+{
+  "_id": "ai5pk8feklu",
+  "desc": "background, where one is from (school, hometown)",
+  "name": "origins",
+  "order": "4",
+  "parents": [
+    "abstracts"
+  ],
+  "props": {
+    "en": "origins",
+    "jp": "出",
+    "tl": "で"
+  }
+}

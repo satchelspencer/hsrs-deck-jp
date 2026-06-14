@@ -1,0 +1,13 @@
+{
+  "_id": "rui31x0w7kk",
+  "name": "noisy-ac-unit",
+  "params": {
+    "iadj": "noisy",
+    "noun": "ac-unit"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

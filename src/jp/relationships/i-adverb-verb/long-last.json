@@ -1,0 +1,13 @@
+{
+  "_id": "dmin5xr76m2",
+  "name": "long-last",
+  "params": {
+    "iadj": "long",
+    "verb": "last"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

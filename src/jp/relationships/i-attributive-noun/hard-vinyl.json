@@ -1,0 +1,13 @@
+{
+  "_id": "ut5ko0i8fz9",
+  "name": "hard-vinyl",
+  "params": {
+    "iadj": "hard",
+    "noun": "vinyl"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

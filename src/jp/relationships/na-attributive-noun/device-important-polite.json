@@ -1,0 +1,13 @@
+{
+  "_id": "pzi1i05zkg5",
+  "name": "device-important-polite",
+  "params": {
+    "na": "important-polite",
+    "noun": "device"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

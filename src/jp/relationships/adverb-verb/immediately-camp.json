@@ -1,0 +1,13 @@
+{
+  "_id": "ivhkehs8yws",
+  "name": "immediately-camp",
+  "params": {
+    "adv": "immediately",
+    "verb": "camp"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

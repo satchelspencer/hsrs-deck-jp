@@ -1,0 +1,13 @@
+{
+  "_id": "v9w20h0lt1n",
+  "name": "surgery-brain",
+  "params": {
+    "noun": "brain",
+    "verb": "surgery"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

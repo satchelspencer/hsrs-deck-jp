@@ -1,0 +1,14 @@
+{
+  "_id": "15zdrm5wdgn",
+  "desc": "出す means present/submit in this context",
+  "name": "travel-documents-take-out",
+  "params": {
+    "noun": "travel-documents",
+    "verb": "take-out"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

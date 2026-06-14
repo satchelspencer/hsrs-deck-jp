@@ -1,0 +1,13 @@
+{
+  "_id": "4wba5jl6p7o",
+  "name": "entrance-appearance-popularity",
+  "params": {
+    "noun": "popularity",
+    "owner": "entrance-appearance"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

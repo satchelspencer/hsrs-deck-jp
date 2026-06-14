@@ -1,0 +1,13 @@
+{
+  "_id": "mhoipqbff1h",
+  "name": "learn-musical-instruments",
+  "params": {
+    "noun": "musical-instruments",
+    "verb": "learn"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

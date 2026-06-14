@@ -1,0 +1,13 @@
+{
+  "_id": "hkppzbsi4fq",
+  "name": "music-genres-enjoy",
+  "params": {
+    "noun": "music-genres",
+    "verb": "enjoy"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

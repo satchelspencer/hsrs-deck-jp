@@ -1,0 +1,13 @@
+{
+  "_id": "rr651j7pi6e",
+  "name": "typewriter-noisy",
+  "params": {
+    "iadj": "noisy",
+    "noun": "typewriter"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

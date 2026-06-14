@@ -1,0 +1,13 @@
+{
+  "_id": "lhc4qyfvokp",
+  "name": "special-music-genres",
+  "params": {
+    "na": "special",
+    "noun": "music-genres"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

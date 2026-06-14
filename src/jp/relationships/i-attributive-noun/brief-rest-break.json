@@ -1,0 +1,13 @@
+{
+  "_id": "71z96dt2w5h",
+  "name": "brief-rest-break",
+  "params": {
+    "iadj": "brief",
+    "noun": "rest-break"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

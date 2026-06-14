@@ -1,0 +1,13 @@
+{
+  "_id": "jewkaatbkff",
+  "name": "building-surveil",
+  "params": {
+    "noun": "building",
+    "verb": "surveillance"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

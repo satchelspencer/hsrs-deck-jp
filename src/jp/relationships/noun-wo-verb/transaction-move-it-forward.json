@@ -1,0 +1,13 @@
+{
+  "_id": "dalsi6uw55c",
+  "name": "transaction-move-it-forward",
+  "params": {
+    "noun": "transaction",
+    "verb": "move-it-forward"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

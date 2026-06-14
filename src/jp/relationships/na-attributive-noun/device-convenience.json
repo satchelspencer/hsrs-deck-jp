@@ -1,0 +1,13 @@
+{
+  "_id": "g6n1j2jnp49",
+  "name": "device-convenience",
+  "params": {
+    "na": "convenience",
+    "noun": "device"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

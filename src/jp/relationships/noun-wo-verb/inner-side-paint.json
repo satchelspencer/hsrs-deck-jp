@@ -1,0 +1,13 @@
+{
+  "_id": "hnm8rozk8u9",
+  "name": "inner-side-paint",
+  "params": {
+    "noun": "inner-side",
+    "verb": "paint-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

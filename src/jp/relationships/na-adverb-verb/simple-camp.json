@@ -1,0 +1,13 @@
+{
+  "_id": "68k4xfmtfd4",
+  "name": "simple-camp",
+  "params": {
+    "na": "simple",
+    "verb": "camp"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

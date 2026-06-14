@@ -1,0 +1,13 @@
+{
+  "_id": "9774hh0733f",
+  "name": "hours-be-left-over",
+  "params": {
+    "noun": "hours",
+    "verb": "be-left-over"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

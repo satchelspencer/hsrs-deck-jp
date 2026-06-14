@@ -1,0 +1,13 @@
+{
+  "_id": "8ayg1esx7gs",
+  "name": "ice-shave-it",
+  "params": {
+    "noun": "ice",
+    "verb": "shave-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

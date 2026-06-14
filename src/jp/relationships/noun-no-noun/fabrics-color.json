@@ -1,0 +1,13 @@
+{
+  "_id": "znj4r9n2je0",
+  "name": "fabrics-color",
+  "params": {
+    "noun": "color",
+    "owner": "fabrics"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

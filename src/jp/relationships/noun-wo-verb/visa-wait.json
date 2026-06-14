@@ -1,0 +1,13 @@
+{
+  "_id": "q2b75zvmb6s",
+  "name": "visa-wait",
+  "params": {
+    "noun": "visa",
+    "verb": "wait"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

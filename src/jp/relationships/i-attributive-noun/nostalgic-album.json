@@ -1,0 +1,13 @@
+{
+  "_id": "7ggou26kjbx",
+  "name": "nostalgic-album",
+  "params": {
+    "iadj": "nostalgic",
+    "noun": "album"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

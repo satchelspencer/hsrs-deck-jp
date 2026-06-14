@@ -1,0 +1,13 @@
+{
+  "_id": "ilno78d7fq2",
+  "name": "ramen-soup",
+  "params": {
+    "noun": "soup",
+    "owner": "ramen"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

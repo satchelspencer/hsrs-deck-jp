@@ -1,0 +1,13 @@
+{
+  "_id": "s2subd7stvi",
+  "name": "watermelon-cut",
+  "params": {
+    "noun": "watermelon",
+    "verb": "cut"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

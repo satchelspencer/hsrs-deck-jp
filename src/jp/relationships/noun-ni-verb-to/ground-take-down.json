@@ -1,0 +1,13 @@
+{
+  "_id": "bf2nkt5yovb",
+  "name": "ground-take-down",
+  "params": {
+    "noun": "ground",
+    "verb": "take-down"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

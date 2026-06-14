@@ -1,0 +1,13 @@
+{
+  "_id": "gnd3b4tsilc",
+  "name": "fusuma-new",
+  "params": {
+    "iadj": "new",
+    "noun": "fusuma"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

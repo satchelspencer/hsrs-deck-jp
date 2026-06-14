@@ -1,0 +1,13 @@
+{
+  "_id": "z92ltugt2qu",
+  "name": "early-departure",
+  "params": {
+    "iadj": "early",
+    "verb": "departure"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

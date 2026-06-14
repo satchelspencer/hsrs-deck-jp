@@ -1,0 +1,13 @@
+{
+  "_id": "wqx4tyfu0rw",
+  "name": "stop-vehicle-hours",
+  "params": {
+    "noun": "hours",
+    "owner": "stop-vehicle"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

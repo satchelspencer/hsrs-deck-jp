@@ -1,0 +1,13 @@
+{
+  "_id": "bnt3sqpd0qb",
+  "name": "towel-scent",
+  "params": {
+    "noun": "scent",
+    "owner": "towel"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "495ytmzrk3n",
+  "name": "lighter-switch-on",
+  "params": {
+    "noun": "lighter",
+    "verb": "switch-on"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

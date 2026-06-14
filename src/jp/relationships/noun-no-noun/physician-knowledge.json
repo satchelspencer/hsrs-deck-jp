@@ -1,0 +1,13 @@
+{
+  "_id": "1vakcxhrm8z",
+  "name": "physician-knowledge",
+  "params": {
+    "noun": "knowledge",
+    "owner": "physician"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

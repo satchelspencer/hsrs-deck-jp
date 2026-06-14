@@ -1,0 +1,13 @@
+{
+  "_id": "onq399e0e5m",
+  "name": "peaceful-divorce",
+  "params": {
+    "na": "peaceful",
+    "verb": "divorce"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

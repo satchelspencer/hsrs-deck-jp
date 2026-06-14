@@ -1,0 +1,13 @@
+{
+  "_id": "bj9fq6zrt5w",
+  "name": "stop-vehicle-safety",
+  "params": {
+    "na": "safety",
+    "verb": "stop-vehicle"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

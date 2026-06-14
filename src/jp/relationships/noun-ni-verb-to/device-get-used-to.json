@@ -1,0 +1,13 @@
+{
+  "_id": "vz4m0wh7302",
+  "name": "device-get-used-to",
+  "params": {
+    "noun": "device",
+    "verb": "get-used-to"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

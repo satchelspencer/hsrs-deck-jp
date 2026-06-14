@@ -1,0 +1,13 @@
+{
+  "_id": "3dht1zjngkv",
+  "name": "near-departure",
+  "params": {
+    "iadj": "near",
+    "verb": "departure"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

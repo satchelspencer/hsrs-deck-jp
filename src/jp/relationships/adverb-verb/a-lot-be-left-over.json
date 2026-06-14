@@ -1,0 +1,13 @@
+{
+  "_id": "wikstcoo4f5",
+  "name": "a-lot-be-left-over",
+  "params": {
+    "adv": "a-lot",
+    "verb": "be-left-over"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

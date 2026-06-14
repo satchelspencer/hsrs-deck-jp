@@ -1,0 +1,13 @@
+{
+  "_id": "6ne7m9scfyb",
+  "name": "rule-katakana-comply",
+  "params": {
+    "noun": "rule-katakana",
+    "verb": "comply"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

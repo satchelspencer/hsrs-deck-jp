@@ -1,0 +1,13 @@
+{
+  "_id": "4aag2vi0xz1",
+  "name": "chill-towel",
+  "params": {
+    "noun": "towel",
+    "verb": "chill"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

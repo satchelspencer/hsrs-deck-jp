@@ -1,0 +1,14 @@
+{
+  "_id": "n9xo1mzqc5n",
+  "desc": "thin noodles",
+  "name": "slender-ramen",
+  "params": {
+    "iadj": "slender",
+    "noun": "ramen"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

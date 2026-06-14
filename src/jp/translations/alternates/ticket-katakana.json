@@ -1,0 +1,16 @@
+{
+  "_id": "3budi113ofs",
+  "desc": "チケット is a loanword alternate of 切符 (ticket)",
+  "name": "ticket-katakana",
+  "order": "2",
+  "parents": [
+    "alternates",
+    "products",
+    "reservables"
+  ],
+  "props": {
+    "en": "ticket",
+    "jp": "チケット",
+    "tl": "ちけっと"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "msitfhsk5z7",
+  "name": "next-transaction",
+  "params": {
+    "no": "next",
+    "noun": "transaction"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

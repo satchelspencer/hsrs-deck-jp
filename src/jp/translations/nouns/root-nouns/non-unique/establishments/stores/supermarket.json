@@ -1,0 +1,14 @@
+{
+  "_id": "p743m5bo537",
+  "name": "supermarket",
+  "order": "3",
+  "parents": [
+    "stores"
+  ],
+  "props": {
+    "desc": "often shortened to スーパー",
+    "en": "supermarket",
+    "jp": "スーパーマーケット",
+    "tl": "すーぱーまーけっと"
+  }
+}

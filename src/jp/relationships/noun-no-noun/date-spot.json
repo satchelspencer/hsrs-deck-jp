@@ -1,0 +1,13 @@
+{
+  "_id": "yiclpckkebd",
+  "name": "date-spot",
+  "params": {
+    "noun": "spot",
+    "owner": "date"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "b3nmmgpso7e",
+  "name": "museum-decorate",
+  "params": {
+    "noun": "museum",
+    "verb": "decorate"
+  },
+  "parents": [
+    "noun-ni-verb-at"
+  ],
+  "props": {
+  }
+}

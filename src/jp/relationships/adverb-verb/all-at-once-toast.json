@@ -1,0 +1,13 @@
+{
+  "_id": "4ijf7hedrss",
+  "name": "all-at-once-toast",
+  "params": {
+    "adv": "all-at-once",
+    "verb": "toast"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

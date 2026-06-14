@@ -1,0 +1,13 @@
+{
+  "_id": "wfrcwioqv2v",
+  "name": "date-together",
+  "params": {
+    "adv": "together",
+    "verb": "date"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "pjvfkd1oich",
+  "name": "earn-by-side-job",
+  "params": {
+    "noun": "side-job",
+    "verb": "earn"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

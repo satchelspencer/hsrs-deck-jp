@@ -1,0 +1,13 @@
+{
+  "_id": "fn4664kl1bm",
+  "name": "world-of-life-be-changed",
+  "params": {
+    "noun": "world-of-life",
+    "verb": "be-changed"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

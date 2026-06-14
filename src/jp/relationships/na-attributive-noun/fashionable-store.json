@@ -1,0 +1,13 @@
+{
+  "_id": "w4iv87yhijl",
+  "name": "fashionable-store",
+  "params": {
+    "na": "fashionable",
+    "noun": "store"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "6gxc2vyd4zx",
+  "name": "milk-last",
+  "params": {
+    "noun": "milk",
+    "verb": "last"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

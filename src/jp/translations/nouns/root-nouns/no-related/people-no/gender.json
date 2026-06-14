@@ -1,0 +1,14 @@
+{
+  "_id": "neoyabxsr78",
+  "desc": "biological sex, also nature/disposition",
+  "name": "gender",
+  "order": "4",
+  "parents": [
+    "people-no"
+  ],
+  "props": {
+    "en": "gender",
+    "jp": "性",
+    "tl": "せい"
+  }
+}

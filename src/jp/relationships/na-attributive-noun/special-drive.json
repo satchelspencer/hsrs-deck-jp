@@ -1,0 +1,13 @@
+{
+  "_id": "qrm5tq657c9",
+  "name": "special-drive",
+  "params": {
+    "na": "special",
+    "noun": "drive"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

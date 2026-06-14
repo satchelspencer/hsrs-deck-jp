@@ -1,0 +1,13 @@
+{
+  "_id": "cjedxaia8wv",
+  "name": "ally-entrance-appearance",
+  "params": {
+    "noun": "ally",
+    "verb": "entrance-appearance"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

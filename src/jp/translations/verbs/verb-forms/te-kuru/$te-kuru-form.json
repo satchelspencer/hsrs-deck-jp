@@ -1,0 +1,16 @@
+{
+  "_id": "a3tp0y3nfj6",
+  "constraint": "verb",
+  "mode": "*---*-",
+  "name": "$te-kuru-form",
+  "params": {
+    "form": "te-kuru-base"
+  },
+  "parents": [
+    "te-kuru"
+  ],
+  "props": {
+    "en": "form.en",
+    "jp": "form.jp"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "s903jpx587x",
+  "name": "travel-documents-take",
+  "params": {
+    "noun": "travel-documents",
+    "verb": "take"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

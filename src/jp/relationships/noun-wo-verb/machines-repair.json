@@ -1,0 +1,13 @@
+{
+  "_id": "m5ibnr2y0r0",
+  "name": "machines-repair",
+  "params": {
+    "noun": "machines",
+    "verb": "repair"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

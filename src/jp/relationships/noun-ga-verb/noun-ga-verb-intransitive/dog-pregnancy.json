@@ -1,0 +1,13 @@
+{
+  "_id": "aa99x5i6mzd",
+  "name": "dog-pregnancy",
+  "params": {
+    "noun": "dog",
+    "verb": "pregnancy"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

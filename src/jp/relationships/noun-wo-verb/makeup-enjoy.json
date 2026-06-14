@@ -1,0 +1,13 @@
+{
+  "_id": "0ddxg8m3mf5",
+  "name": "makeup-enjoy",
+  "params": {
+    "noun": "makeup",
+    "verb": "enjoy"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

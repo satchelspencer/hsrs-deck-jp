@@ -1,0 +1,13 @@
+{
+  "_id": "u5uczc6ykj5",
+  "name": "remains-spot",
+  "params": {
+    "noun": "spot",
+    "owner": "remains"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

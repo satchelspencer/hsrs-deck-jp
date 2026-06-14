@@ -1,0 +1,15 @@
+{
+  "_id": "armwnrqact5",
+  "desc": "traffic light, traffic signal",
+  "name": "traffic-signal",
+  "order": "4",
+  "parents": [
+    "electrics",
+    "dai-countable"
+  ],
+  "props": {
+    "en": "traffic signal",
+    "jp": "信号",
+    "tl": "しんごう"
+  }
+}

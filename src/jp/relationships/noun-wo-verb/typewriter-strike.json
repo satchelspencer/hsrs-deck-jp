@@ -1,0 +1,13 @@
+{
+  "_id": "hex7sjbh1mx",
+  "name": "typewriter-strike",
+  "params": {
+    "noun": "typewriter",
+    "verb": "strike"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

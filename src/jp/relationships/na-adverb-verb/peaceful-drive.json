@@ -1,0 +1,13 @@
+{
+  "_id": "x50rv2ih8b8",
+  "name": "peaceful-drive",
+  "params": {
+    "na": "peaceful",
+    "verb": "drive"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

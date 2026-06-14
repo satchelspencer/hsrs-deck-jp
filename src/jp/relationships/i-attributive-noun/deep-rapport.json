@@ -1,0 +1,13 @@
+{
+  "_id": "x19a83vdsv6",
+  "name": "deep-rapport",
+  "params": {
+    "iadj": "deep",
+    "noun": "rapport"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

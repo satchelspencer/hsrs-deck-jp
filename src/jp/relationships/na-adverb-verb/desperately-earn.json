@@ -1,0 +1,13 @@
+{
+  "_id": "o2z11zzujvq",
+  "name": "desperately-earn",
+  "params": {
+    "na": "desperate",
+    "verb": "earn"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

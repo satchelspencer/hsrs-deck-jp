@@ -1,0 +1,13 @@
+{
+  "_id": "58g7l88jdpy",
+  "name": "separate-departure",
+  "params": {
+    "no": "separate",
+    "noun": "departure"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

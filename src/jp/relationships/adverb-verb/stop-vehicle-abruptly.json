@@ -1,0 +1,13 @@
+{
+  "_id": "eu6lfc7vmx8",
+  "name": "stop-vehicle-abruptly",
+  "params": {
+    "adv": "abruptly",
+    "verb": "stop-vehicle"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

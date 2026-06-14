@@ -1,0 +1,13 @@
+{
+  "_id": "nqw8bojcoab",
+  "name": "effort-give-ones-all",
+  "params": {
+    "noun": "effort",
+    "verb": "give-ones-all"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "hhhyab05se1",
+  "name": "evil-forgive",
+  "params": {
+    "noun": "evil",
+    "verb": "forgive"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "6dn5uquezjv",
+  "desc": "circle, round shape, circle mark (◯)",
+  "name": "circle",
+  "order": "4",
+  "parents": [
+    "shapes"
+  ],
+  "props": {
+    "en": "circle",
+    "jp": "丸",
+    "tl": "まる"
+  }
+}

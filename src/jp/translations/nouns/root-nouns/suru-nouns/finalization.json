@@ -1,0 +1,18 @@
+{
+  "_id": "792pkn7c7q1",
+  "desc": "task/process completion, done",
+  "name": "finalization",
+  "order": "3",
+  "parents": [
+    "suru-nouns",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "_pg": "finalizing",
+    "_st": "finalized",
+    "_v": "finalize",
+    "en": "finalization",
+    "jp": "完了",
+    "tl": "かんりょう"
+  }
+}

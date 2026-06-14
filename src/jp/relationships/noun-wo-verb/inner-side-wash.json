@@ -1,0 +1,13 @@
+{
+  "_id": "kzqgcpy8mr0",
+  "name": "inner-side-wash",
+  "params": {
+    "noun": "inner-side",
+    "verb": "wash"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

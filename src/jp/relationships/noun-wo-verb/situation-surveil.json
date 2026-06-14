@@ -1,0 +1,13 @@
+{
+  "_id": "u043nmcoto8",
+  "name": "situation-surveil",
+  "params": {
+    "noun": "situation",
+    "verb": "surveillance"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

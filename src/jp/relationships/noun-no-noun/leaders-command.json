@@ -1,0 +1,13 @@
+{
+  "_id": "pbqq804s793",
+  "name": "leaders-command",
+  "params": {
+    "noun": "command",
+    "owner": "leaders"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "pibvfjl1mf4",
+  "name": "channel-ni-change",
+  "params": {
+    "noun": "channel",
+    "verb": "change"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

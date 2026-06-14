@@ -1,0 +1,13 @@
+{
+  "_id": "aco2tgfccpc",
+  "name": "squad-be-divided",
+  "params": {
+    "noun": "squad",
+    "verb": "be-divided"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

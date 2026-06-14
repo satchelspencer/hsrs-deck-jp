@@ -1,0 +1,13 @@
+{
+  "_id": "hmaudu6mufg",
+  "name": "transport-expense-be-decreased",
+  "params": {
+    "noun": "transport-expense",
+    "verb": "be-decreased"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

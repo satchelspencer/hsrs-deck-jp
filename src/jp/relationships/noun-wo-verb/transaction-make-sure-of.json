@@ -1,0 +1,13 @@
+{
+  "_id": "u6awporqztn",
+  "name": "transaction-make-sure-of",
+  "params": {
+    "noun": "transaction",
+    "verb": "make-sure-of"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

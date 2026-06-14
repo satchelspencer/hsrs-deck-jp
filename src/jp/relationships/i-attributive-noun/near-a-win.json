@@ -1,0 +1,14 @@
+{
+  "_id": "4md7tw703b5",
+  "desc": "近い勝ち means a close/narrow win",
+  "name": "near-a-win",
+  "params": {
+    "iadj": "near",
+    "noun": "a-win"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

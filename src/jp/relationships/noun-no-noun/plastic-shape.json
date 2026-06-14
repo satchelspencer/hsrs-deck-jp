@@ -1,0 +1,13 @@
+{
+  "_id": "leo1whft4q9",
+  "name": "plastic-shape",
+  "params": {
+    "noun": "shape",
+    "owner": "plastic"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

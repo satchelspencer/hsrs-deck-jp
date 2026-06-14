@@ -1,0 +1,13 @@
+{
+  "_id": "td2c2daudp7",
+  "name": "small-memo",
+  "params": {
+    "iadj": "small",
+    "noun": "memo"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

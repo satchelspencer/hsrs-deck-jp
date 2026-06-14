@@ -1,0 +1,13 @@
+{
+  "_id": "mrby987jyaq",
+  "name": "sweet-mandarin-orange",
+  "params": {
+    "iadj": "sweet",
+    "noun": "mandarin-orange"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

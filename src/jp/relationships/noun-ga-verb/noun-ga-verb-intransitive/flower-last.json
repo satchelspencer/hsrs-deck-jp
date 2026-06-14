@@ -1,0 +1,13 @@
+{
+  "_id": "7s154ngvfkt",
+  "name": "flower-last",
+  "params": {
+    "noun": "flower",
+    "verb": "last"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

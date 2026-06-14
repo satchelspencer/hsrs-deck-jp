@@ -1,0 +1,13 @@
+{
+  "_id": "qeltg3u559z",
+  "name": "toast-start-it",
+  "params": {
+    "noun": "toast",
+    "verb": "start-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

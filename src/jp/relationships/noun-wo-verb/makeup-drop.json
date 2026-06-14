@@ -1,0 +1,14 @@
+{
+  "_id": "fx39ypks864",
+  "desc": "drop is remove/take off in this context",
+  "name": "makeup-drop",
+  "params": {
+    "noun": "makeup",
+    "verb": "drop"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

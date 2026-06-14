@@ -1,0 +1,13 @@
+{
+  "_id": "kd8e16j244d",
+  "name": "discard-memo",
+  "params": {
+    "noun": "memo",
+    "verb": "discard"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

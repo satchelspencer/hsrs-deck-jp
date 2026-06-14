@@ -1,0 +1,13 @@
+{
+  "_id": "u0wf8fmczst",
+  "name": "prohibition-be-continuing",
+  "params": {
+    "noun": "prohibition",
+    "verb": "be-continuing"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

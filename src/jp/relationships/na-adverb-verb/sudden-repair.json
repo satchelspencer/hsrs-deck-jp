@@ -1,0 +1,13 @@
+{
+  "_id": "tpsz59d7olo",
+  "name": "sudden-repair",
+  "params": {
+    "na": "sudden",
+    "verb": "repair"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

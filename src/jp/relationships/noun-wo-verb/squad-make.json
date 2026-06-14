@@ -1,0 +1,13 @@
+{
+  "_id": "xijj205wsfg",
+  "name": "squad-make",
+  "params": {
+    "noun": "squad",
+    "verb": "make"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

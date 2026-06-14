@@ -1,0 +1,13 @@
+{
+  "_id": "3e0n8cwc5e0",
+  "name": "pro-become",
+  "params": {
+    "noun": "pro",
+    "verb": "become"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

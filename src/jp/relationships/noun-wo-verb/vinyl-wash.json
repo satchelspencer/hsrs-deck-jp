@@ -1,0 +1,13 @@
+{
+  "_id": "xsvq84hbeo9",
+  "name": "vinyl-wash",
+  "params": {
+    "noun": "vinyl",
+    "verb": "wash"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

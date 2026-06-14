@@ -1,0 +1,13 @@
+{
+  "_id": "68n8nwc17in",
+  "name": "sweet-cheese",
+  "params": {
+    "iadj": "sweet",
+    "noun": "cheese"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

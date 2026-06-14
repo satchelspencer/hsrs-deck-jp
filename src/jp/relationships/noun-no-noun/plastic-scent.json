@@ -1,0 +1,13 @@
+{
+  "_id": "ncb2d97yoqi",
+  "name": "plastic-scent",
+  "params": {
+    "noun": "scent",
+    "owner": "plastic"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

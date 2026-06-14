@@ -1,0 +1,13 @@
+{
+  "_id": "wb5mxca75lq",
+  "name": "wide-world-of-life",
+  "params": {
+    "iadj": "wide",
+    "noun": "world-of-life"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

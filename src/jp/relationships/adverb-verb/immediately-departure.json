@@ -1,0 +1,13 @@
+{
+  "_id": "cxovfwg8m3r",
+  "name": "immediately-departure",
+  "params": {
+    "adv": "immediately",
+    "verb": "departure"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

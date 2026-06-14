@@ -1,0 +1,13 @@
+{
+  "_id": "l9v3z4gcit1",
+  "name": "signal-know",
+  "params": {
+    "noun": "traffic-signal",
+    "verb": "know"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

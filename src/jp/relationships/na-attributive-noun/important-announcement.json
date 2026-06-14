@@ -1,0 +1,13 @@
+{
+  "_id": "4dn7gzbxjjc",
+  "name": "important-announcement",
+  "params": {
+    "na": "important",
+    "noun": "announcement"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

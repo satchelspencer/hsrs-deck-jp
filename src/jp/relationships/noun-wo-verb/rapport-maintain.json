@@ -1,0 +1,13 @@
+{
+  "_id": "dv4mg019mg1",
+  "name": "rapport-maintain",
+  "params": {
+    "noun": "rapport",
+    "verb": "maintain"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

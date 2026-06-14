@@ -1,0 +1,13 @@
+{
+  "_id": "phjay6zgvjt",
+  "name": "finalization-be-late",
+  "params": {
+    "noun": "finalization",
+    "verb": "be-late"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

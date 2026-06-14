@@ -1,0 +1,13 @@
+{
+  "_id": "8yqd2dzz43n",
+  "name": "car-drive",
+  "params": {
+    "noun": "car",
+    "verb": "driving"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "24mgyic54ea",
+  "name": "agonizing-suicide",
+  "params": {
+    "iadj": "agonizing",
+    "noun": "suicide"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

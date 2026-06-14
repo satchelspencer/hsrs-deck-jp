@@ -1,0 +1,16 @@
+{
+  "_id": "mv9r10yc2t",
+  "constraint": "verb",
+  "name": "te-iku-form",
+  "params": {
+    "form": "$te-iku-plain",
+    "iku": "$iku-form"
+  },
+  "parents": [
+    "te-iku"
+  ],
+  "props": {
+    "en": "iku.en|r('go', '')+' '+form.en",
+    "jp": "form.jp|r('いく', iku.tl)"
+  }
+}

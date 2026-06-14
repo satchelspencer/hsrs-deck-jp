@@ -1,0 +1,13 @@
+{
+  "_id": "lgxn3rdfned",
+  "name": "device-confirmation",
+  "params": {
+    "noun": "device",
+    "verb": "confirmation"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

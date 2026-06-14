@@ -1,0 +1,13 @@
+{
+  "_id": "z3efhxvryax",
+  "name": "peace-world-of-life",
+  "params": {
+    "noun": "world-of-life",
+    "owner": "peace"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "sxxtjn0bpdy",
+  "name": "corner-shave-it",
+  "params": {
+    "noun": "corner",
+    "verb": "shave-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

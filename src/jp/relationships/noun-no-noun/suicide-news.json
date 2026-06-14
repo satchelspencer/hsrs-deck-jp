@@ -1,0 +1,13 @@
+{
+  "_id": "ei6tk6ynuzn",
+  "name": "suicide-news",
+  "params": {
+    "noun": "news",
+    "owner": "suicide"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

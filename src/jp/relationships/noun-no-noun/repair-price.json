@@ -1,0 +1,13 @@
+{
+  "_id": "umiwjknykkq",
+  "name": "repair-price",
+  "params": {
+    "noun": "price",
+    "owner": "repair"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

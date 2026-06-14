@@ -1,0 +1,13 @@
+{
+  "_id": "ied6q59tc5f",
+  "name": "transport-expense-decrease-it",
+  "params": {
+    "noun": "transport-expense",
+    "verb": "decrease-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

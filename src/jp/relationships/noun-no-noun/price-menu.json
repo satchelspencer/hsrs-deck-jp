@@ -1,0 +1,13 @@
+{
+  "_id": "nla5vr9nj68",
+  "name": "price-menu",
+  "params": {
+    "noun": "price",
+    "owner": "menu"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

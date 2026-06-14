@@ -1,0 +1,13 @@
+{
+  "_id": "g671gyj8g5v",
+  "name": "sauce-paint-it",
+  "params": {
+    "noun": "sauce",
+    "verb": "paint-it"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

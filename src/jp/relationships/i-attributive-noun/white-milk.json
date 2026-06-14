@@ -1,0 +1,13 @@
+{
+  "_id": "9t5k0cdriud",
+  "name": "white-milk",
+  "params": {
+    "iadj": "white",
+    "noun": "milk"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

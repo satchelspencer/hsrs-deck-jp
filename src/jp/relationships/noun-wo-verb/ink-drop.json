@@ -1,0 +1,14 @@
+{
+  "_id": "ut7l7bjxzka",
+  "desc": "落とす means to remove (a stain) in this context",
+  "name": "ink-drop",
+  "params": {
+    "noun": "ink",
+    "verb": "drop"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

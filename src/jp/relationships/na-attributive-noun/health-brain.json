@@ -1,0 +1,13 @@
+{
+  "_id": "h6qbjwv335q",
+  "name": "health-brain",
+  "params": {
+    "na": "health",
+    "noun": "brain"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "tia9m10hg8x",
+  "name": "travel-documents-be-given-to",
+  "params": {
+    "noun": "travel-documents",
+    "verb": "be-given-to"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

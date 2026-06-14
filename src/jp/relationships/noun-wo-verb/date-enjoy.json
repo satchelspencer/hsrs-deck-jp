@@ -1,0 +1,13 @@
+{
+  "_id": "1nypsxlq7va",
+  "name": "date-enjoy",
+  "params": {
+    "noun": "date",
+    "verb": "enjoy"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

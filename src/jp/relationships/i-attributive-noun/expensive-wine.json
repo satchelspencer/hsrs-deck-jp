@@ -1,0 +1,13 @@
+{
+  "_id": "iv3il3ssfky",
+  "name": "expensive-wine",
+  "params": {
+    "iadj": "high",
+    "noun": "wine"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

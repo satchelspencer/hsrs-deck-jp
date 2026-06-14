@@ -1,0 +1,14 @@
+{
+  "_id": "vpwtarcfx2p",
+  "desc": "削る is grate/shave in this context",
+  "name": "cheese-shave-it",
+  "params": {
+    "noun": "cheese",
+    "verb": "shave-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

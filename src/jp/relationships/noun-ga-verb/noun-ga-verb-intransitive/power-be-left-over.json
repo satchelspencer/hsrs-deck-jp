@@ -1,0 +1,13 @@
+{
+  "_id": "x7n508knw9n",
+  "name": "power-be-left-over",
+  "params": {
+    "noun": "power",
+    "verb": "be-left-over"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "i9gvk5j40xz",
+  "name": "separate-spot",
+  "params": {
+    "no": "separate",
+    "noun": "spot"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

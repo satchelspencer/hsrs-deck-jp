@@ -1,0 +1,13 @@
+{
+  "_id": "rhlhpavriaj",
+  "name": "side-dish-quantity",
+  "params": {
+    "noun": "quantity",
+    "owner": "side-dish"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

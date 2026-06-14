@@ -1,0 +1,13 @@
+{
+  "_id": "b4x4p44oywr",
+  "name": "people-groups-culture",
+  "params": {
+    "noun": "culture",
+    "owner": "people-groups"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

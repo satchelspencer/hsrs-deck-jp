@@ -1,0 +1,13 @@
+{
+  "_id": "314d7c3w0rv",
+  "name": "towel-hang-up",
+  "params": {
+    "noun": "towel",
+    "verb": "hang-up"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

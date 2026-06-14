@@ -1,0 +1,13 @@
+{
+  "_id": "0ygiqlmdpkv",
+  "name": "channel-number-of",
+  "params": {
+    "noun": "number-of",
+    "owner": "channel"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

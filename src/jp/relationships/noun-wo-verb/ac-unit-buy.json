@@ -1,0 +1,13 @@
+{
+  "_id": "tzvlxvglp0b",
+  "name": "ac-unit-buy",
+  "params": {
+    "noun": "ac-unit",
+    "verb": "buy"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

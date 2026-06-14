@@ -1,0 +1,17 @@
+{
+  "_id": "1b8748uw5ke",
+  "desc": "to scratch, to claw, to scrape",
+  "name": "scratch",
+  "order": "3",
+  "parents": [
+    "godan-ku",
+    "te-iru-verbs-continuous",
+    "people-do-volitional"
+  ],
+  "props": {
+    "_pg": "scratching",
+    "en": "scratch",
+    "jp": "掻く",
+    "tl": "かく"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "iz097ila154",
+  "name": "interest-last",
+  "params": {
+    "noun": "interest",
+    "verb": "last"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

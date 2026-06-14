@@ -1,0 +1,13 @@
+{
+  "_id": "2687g1zjdnm",
+  "name": "sudden-divorce",
+  "params": {
+    "na": "sudden",
+    "noun": "divorce"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

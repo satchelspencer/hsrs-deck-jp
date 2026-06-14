@@ -1,0 +1,13 @@
+{
+  "_id": "0jghlrsjtwi",
+  "name": "important-admission-ticket",
+  "params": {
+    "na": "important",
+    "noun": "admission-ticket"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

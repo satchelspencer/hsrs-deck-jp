@@ -1,0 +1,13 @@
+{
+  "_id": "66u1khdb8og",
+  "name": "thin-rubber",
+  "params": {
+    "iadj": "slender",
+    "noun": "rubber"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

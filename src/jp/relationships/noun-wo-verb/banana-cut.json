@@ -1,0 +1,13 @@
+{
+  "_id": "gicu8rtvlni",
+  "name": "banana-cut",
+  "params": {
+    "noun": "banana",
+    "verb": "cut"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

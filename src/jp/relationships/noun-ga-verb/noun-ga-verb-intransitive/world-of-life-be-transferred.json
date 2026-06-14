@@ -1,0 +1,14 @@
+{
+  "_id": "1cc63qdkt2i",
+  "desc": "世が移る means the era/times shift",
+  "name": "world-of-life-be-transferred",
+  "params": {
+    "noun": "world-of-life",
+    "verb": "be-transferred"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

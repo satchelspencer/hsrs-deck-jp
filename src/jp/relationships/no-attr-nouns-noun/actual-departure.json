@@ -1,0 +1,13 @@
+{
+  "_id": "anlyg24xru5",
+  "name": "actual-departure",
+  "params": {
+    "no": "actual",
+    "noun": "departure"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "bi2qgekhehr",
+  "name": "chatty-person",
+  "params": {
+    "na": "chatting",
+    "noun": "person"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

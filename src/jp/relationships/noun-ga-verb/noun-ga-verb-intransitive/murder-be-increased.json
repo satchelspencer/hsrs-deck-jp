@@ -1,0 +1,13 @@
+{
+  "_id": "sm82ndlsvxz",
+  "name": "murder-be-increased",
+  "params": {
+    "noun": "murder",
+    "verb": "be-increased"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

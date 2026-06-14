@@ -1,0 +1,13 @@
+{
+  "_id": "155vpkezy1p",
+  "name": "enter-organizations",
+  "params": {
+    "noun": "organizations",
+    "verb": "enter"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

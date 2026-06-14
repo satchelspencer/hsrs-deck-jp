@@ -1,0 +1,13 @@
+{
+  "_id": "t9acknu71lm",
+  "name": "cheese-make",
+  "params": {
+    "noun": "cheese",
+    "verb": "make"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

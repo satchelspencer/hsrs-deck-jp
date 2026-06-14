@@ -1,0 +1,13 @@
+{
+  "_id": "2etqi71slh6",
+  "name": "big-tear",
+  "params": {
+    "iadj": "big",
+    "verb": "tear"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

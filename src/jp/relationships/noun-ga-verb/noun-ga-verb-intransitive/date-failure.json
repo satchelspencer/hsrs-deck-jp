@@ -1,0 +1,13 @@
+{
+  "_id": "hrc00gd1sdw",
+  "name": "date-failure",
+  "params": {
+    "noun": "date",
+    "verb": "failure"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

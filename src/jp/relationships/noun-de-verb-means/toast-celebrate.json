@@ -1,0 +1,13 @@
+{
+  "_id": "r26g9f4tjgw",
+  "name": "toast-celebrate",
+  "params": {
+    "noun": "toast",
+    "verb": "celebration"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

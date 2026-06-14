@@ -1,0 +1,13 @@
+{
+  "_id": "7x60t1fw6mv",
+  "name": "typewriter-charachter",
+  "params": {
+    "noun": "charachter",
+    "owner": "typewriter"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

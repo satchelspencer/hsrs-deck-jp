@@ -1,0 +1,13 @@
+{
+  "_id": "ju75w9fjweu",
+  "name": "repair-solve",
+  "params": {
+    "noun": "repair",
+    "verb": "solve"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

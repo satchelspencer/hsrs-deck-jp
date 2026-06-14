@@ -1,0 +1,13 @@
+{
+  "_id": "5zu4dm4kina",
+  "name": "rule-tear",
+  "params": {
+    "noun": "rule",
+    "verb": "tear"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

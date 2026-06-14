@@ -1,0 +1,13 @@
+{
+  "_id": "sdkg6k5f5uf",
+  "name": "finger-stab",
+  "params": {
+    "noun": "finger",
+    "verb": "stab"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

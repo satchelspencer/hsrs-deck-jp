@@ -1,0 +1,13 @@
+{
+  "_id": "zpgzo1q01gx",
+  "name": "announcement-see",
+  "params": {
+    "noun": "announcement",
+    "verb": "see"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

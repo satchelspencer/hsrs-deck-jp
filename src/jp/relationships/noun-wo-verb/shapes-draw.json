@@ -1,0 +1,13 @@
+{
+  "_id": "k2zwmogi7tt",
+  "name": "shapes-draw",
+  "params": {
+    "noun": "shapes",
+    "verb": "draw"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

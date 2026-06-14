@@ -1,0 +1,13 @@
+{
+  "_id": "8eqilx6iwq8",
+  "name": "thin-fabrics",
+  "params": {
+    "iadj": "thin-weak",
+    "noun": "fabrics"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

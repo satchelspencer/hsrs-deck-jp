@@ -1,0 +1,13 @@
+{
+  "_id": "qsnoy5jehj8",
+  "name": "tool-shave-it",
+  "params": {
+    "noun": "tool",
+    "verb": "shave-it"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

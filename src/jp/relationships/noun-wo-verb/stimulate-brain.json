@@ -1,0 +1,13 @@
+{
+  "_id": "6tl0756xhrg",
+  "name": "stimulate-brain",
+  "params": {
+    "noun": "brain",
+    "verb": "stimulation"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "gprdiiervde",
+  "name": "typewriter-make",
+  "params": {
+    "noun": "typewriter",
+    "verb": "make"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

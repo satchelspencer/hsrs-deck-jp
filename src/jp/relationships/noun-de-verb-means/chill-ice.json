@@ -1,0 +1,13 @@
+{
+  "_id": "xz2p1m1zrbu",
+  "name": "chill-ice",
+  "params": {
+    "noun": "ice",
+    "verb": "chill"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

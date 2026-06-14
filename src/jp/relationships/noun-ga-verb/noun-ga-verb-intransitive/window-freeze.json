@@ -1,0 +1,13 @@
+{
+  "_id": "cjst0wynouy",
+  "name": "window-freeze",
+  "params": {
+    "noun": "window",
+    "verb": "freeze"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

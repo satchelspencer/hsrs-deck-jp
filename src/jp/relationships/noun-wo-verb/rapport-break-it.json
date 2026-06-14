@@ -1,0 +1,14 @@
+{
+  "_id": "9wt2zyew9v7",
+  "desc": "break-it is ruin/destroy in this context",
+  "name": "rapport-break-it",
+  "params": {
+    "noun": "rapport",
+    "verb": "break-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

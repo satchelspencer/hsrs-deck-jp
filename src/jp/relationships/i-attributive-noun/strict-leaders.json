@@ -1,0 +1,13 @@
+{
+  "_id": "j1chxl0hckz",
+  "name": "strict-leaders",
+  "params": {
+    "iadj": "strict",
+    "noun": "leaders"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "zj865ez6txi",
+  "name": "pretty-be-photographed",
+  "params": {
+    "na": "pretty",
+    "verb": "be-photographed"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

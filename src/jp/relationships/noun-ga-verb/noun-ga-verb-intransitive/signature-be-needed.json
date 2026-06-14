@@ -1,0 +1,13 @@
+{
+  "_id": "q3p6sa7gqby",
+  "name": "signature-be-needed",
+  "params": {
+    "noun": "signature",
+    "verb": "be-needed"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

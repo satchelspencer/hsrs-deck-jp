@@ -1,0 +1,13 @@
+{
+  "_id": "sh5n57tmf1j",
+  "name": "warm-inner-side",
+  "params": {
+    "iadj": "warm",
+    "noun": "inner-side"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

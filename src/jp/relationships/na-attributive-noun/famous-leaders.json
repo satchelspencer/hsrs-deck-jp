@@ -1,0 +1,13 @@
+{
+  "_id": "jebdv9dbdt9",
+  "name": "famous-leaders",
+  "params": {
+    "na": "famous",
+    "noun": "leaders"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

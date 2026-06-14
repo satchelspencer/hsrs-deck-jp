@@ -1,0 +1,13 @@
+{
+  "_id": "xdcvrgmgbdz",
+  "name": "chill-drinks",
+  "params": {
+    "noun": "beverage",
+    "verb": "chill"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "z7vojslsc17",
+  "name": "museum-artwork",
+  "params": {
+    "noun": "artwork",
+    "owner": "museum"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "57d51j1e8zo",
+  "name": "trash-scent",
+  "params": {
+    "noun": "scent",
+    "owner": "trash"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

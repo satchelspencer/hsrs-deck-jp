@@ -1,0 +1,13 @@
+{
+  "_id": "qyta5ny221u",
+  "name": "suicide-stop-it",
+  "params": {
+    "noun": "suicide",
+    "verb": "stop-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

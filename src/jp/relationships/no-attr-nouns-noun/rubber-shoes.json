@@ -1,0 +1,13 @@
+{
+  "_id": "mx7ji6pob53",
+  "name": "rubber-shoes",
+  "params": {
+    "no": "rubber",
+    "noun": "shoes"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

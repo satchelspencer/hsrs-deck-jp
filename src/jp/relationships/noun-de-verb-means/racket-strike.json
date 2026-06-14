@@ -1,0 +1,13 @@
+{
+  "_id": "aacstax75i2",
+  "name": "racket-strike",
+  "params": {
+    "noun": "racket",
+    "verb": "strike"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

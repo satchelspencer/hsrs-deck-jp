@@ -1,0 +1,13 @@
+{
+  "_id": "cn072ovwhw8",
+  "name": "lighter-flame",
+  "params": {
+    "noun": "flame",
+    "owner": "lighter"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

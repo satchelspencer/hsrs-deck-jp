@@ -1,0 +1,13 @@
+{
+  "_id": "xt99jadot80",
+  "name": "suicide-report",
+  "params": {
+    "noun": "suicide",
+    "verb": "report"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

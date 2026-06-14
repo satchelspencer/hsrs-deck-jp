@@ -1,0 +1,13 @@
+{
+  "_id": "g7mutwes9nf",
+  "name": "finger-freeze",
+  "params": {
+    "noun": "finger",
+    "verb": "freeze"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "7akhhfkmgty",
+  "name": "soft-toilet-paper",
+  "params": {
+    "iadj": "soft",
+    "noun": "toilet-paper"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

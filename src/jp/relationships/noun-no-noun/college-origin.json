@@ -1,0 +1,13 @@
+{
+  "_id": "86pm8oami2p",
+  "name": "college-origin",
+  "params": {
+    "noun": "origins",
+    "owner": "college"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

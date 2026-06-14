@@ -1,0 +1,13 @@
+{
+  "_id": "3avbw39w1bs",
+  "name": "transport-expense-quantity",
+  "params": {
+    "noun": "quantity",
+    "owner": "transport-expense"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

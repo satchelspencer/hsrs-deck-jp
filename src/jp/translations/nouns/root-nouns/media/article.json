@@ -1,0 +1,14 @@
+{
+  "_id": "1gvpsz97io3",
+  "desc": "newspaper/magazine article, written piece",
+  "name": "article",
+  "order": "3",
+  "parents": [
+    "media"
+  ],
+  "props": {
+    "en": "article",
+    "jp": "記事",
+    "tl": "きじ"
+  }
+}

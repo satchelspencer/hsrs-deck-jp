@@ -1,0 +1,13 @@
+{
+  "_id": "lp0ak3yedda",
+  "name": "racket-borrow",
+  "params": {
+    "noun": "racket",
+    "verb": "borrow"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

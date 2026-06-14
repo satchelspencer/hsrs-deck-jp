@@ -1,0 +1,13 @@
+{
+  "_id": "7zyhgpozzn1",
+  "name": "wine-open",
+  "params": {
+    "noun": "wine",
+    "verb": "open-akeru"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

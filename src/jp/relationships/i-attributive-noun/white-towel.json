@@ -1,0 +1,13 @@
+{
+  "_id": "n7uexa675ei",
+  "name": "white-towel",
+  "params": {
+    "iadj": "white",
+    "noun": "towel"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

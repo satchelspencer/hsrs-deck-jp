@@ -1,0 +1,13 @@
+{
+  "_id": "3xkfsa5b3v1",
+  "name": "sharpened-shave-it",
+  "params": {
+    "iadj": "sharpened",
+    "verb": "shave-it"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

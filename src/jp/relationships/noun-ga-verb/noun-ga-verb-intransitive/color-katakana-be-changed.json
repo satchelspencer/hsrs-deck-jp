@@ -1,0 +1,13 @@
+{
+  "_id": "6i4vbokz9hi",
+  "name": "color-katakana-be-changed",
+  "params": {
+    "noun": "color-katakana",
+    "verb": "be-changed"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

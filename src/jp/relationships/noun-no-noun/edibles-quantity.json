@@ -1,0 +1,13 @@
+{
+  "_id": "itm98ta2z7z",
+  "name": "edibles-quantity",
+  "params": {
+    "noun": "quantity",
+    "owner": "edibles"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

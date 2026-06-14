@@ -1,0 +1,13 @@
+{
+  "_id": "0v9duidqupu",
+  "name": "club-make",
+  "params": {
+    "noun": "club",
+    "verb": "make"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

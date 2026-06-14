@@ -1,0 +1,13 @@
+{
+  "_id": "541gai3ub5w",
+  "name": "small-mark",
+  "params": {
+    "iadj": "small",
+    "noun": "mark"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

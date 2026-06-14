@@ -1,0 +1,13 @@
+{
+  "_id": "hsat4qyugfx",
+  "name": "polite-kick",
+  "params": {
+    "na": "polite-na",
+    "verb": "kick"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

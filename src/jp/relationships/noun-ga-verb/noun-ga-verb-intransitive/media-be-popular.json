@@ -1,0 +1,13 @@
+{
+  "_id": "m1ifznr4f0i",
+  "name": "media-be-popular",
+  "params": {
+    "noun": "media",
+    "verb": "be-popular"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

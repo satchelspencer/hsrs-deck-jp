@@ -1,0 +1,13 @@
+{
+  "_id": "o78cdq949t0",
+  "name": "the-money-be-left-over",
+  "params": {
+    "noun": "the-money",
+    "verb": "be-left-over"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

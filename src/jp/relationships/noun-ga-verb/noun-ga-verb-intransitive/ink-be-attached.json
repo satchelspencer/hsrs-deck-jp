@@ -1,0 +1,14 @@
+{
+  "_id": "hzk71hmup1x",
+  "desc": "付く means ink gets on (clothes, hands, etc.) in this context",
+  "name": "ink-be-attached",
+  "params": {
+    "noun": "ink",
+    "verb": "be-attached"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

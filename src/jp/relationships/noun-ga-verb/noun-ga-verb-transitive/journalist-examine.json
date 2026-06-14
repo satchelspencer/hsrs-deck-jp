@@ -1,0 +1,13 @@
+{
+  "_id": "b8quev1s1q9",
+  "name": "journalist-examine",
+  "params": {
+    "noun": "journalist",
+    "verb": "examine"
+  },
+  "parents": [
+    "noun-ga-verb-transitive"
+  ],
+  "props": {
+  }
+}

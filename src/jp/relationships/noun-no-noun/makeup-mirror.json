@@ -1,0 +1,13 @@
+{
+  "_id": "mjoyau5iona",
+  "name": "makeup-mirror",
+  "params": {
+    "noun": "mirror",
+    "owner": "makeup"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

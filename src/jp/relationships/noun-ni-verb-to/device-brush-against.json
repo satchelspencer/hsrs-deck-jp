@@ -1,0 +1,13 @@
+{
+  "_id": "456htrffjdl",
+  "name": "device-brush-against",
+  "params": {
+    "noun": "device",
+    "verb": "brush-against"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

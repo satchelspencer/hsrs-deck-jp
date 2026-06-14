@@ -1,0 +1,13 @@
+{
+  "_id": "gwxkqfaqs9q",
+  "name": "trash-accumulate",
+  "params": {
+    "noun": "trash",
+    "verb": "accumulate"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

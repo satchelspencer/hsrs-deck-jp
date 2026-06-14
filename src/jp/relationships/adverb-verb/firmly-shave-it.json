@@ -1,0 +1,13 @@
+{
+  "_id": "ve8rdklcll0",
+  "name": "firmly-shave-it",
+  "params": {
+    "adv": "firmly",
+    "verb": "shave-it"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

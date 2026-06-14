@@ -1,0 +1,13 @@
+{
+  "_id": "ft81tnwtfzx",
+  "name": "pencil-transcribe",
+  "params": {
+    "noun": "pencil",
+    "verb": "transcribe"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

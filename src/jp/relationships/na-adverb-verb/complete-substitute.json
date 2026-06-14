@@ -1,0 +1,13 @@
+{
+  "_id": "m5vkm6pdd1n",
+  "name": "complete-substitute",
+  "params": {
+    "na": "complete",
+    "verb": "substitute"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

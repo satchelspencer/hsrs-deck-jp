@@ -1,0 +1,13 @@
+{
+  "_id": "gs4cobyp23i",
+  "name": "abnormal-brain",
+  "params": {
+    "na": "abnormal",
+    "noun": "brain"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

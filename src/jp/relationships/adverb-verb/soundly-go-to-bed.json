@@ -1,0 +1,13 @@
+{
+  "_id": "subqxxbs6sx",
+  "name": "soundly-go-to-bed",
+  "params": {
+    "adv": "soundly",
+    "verb": "go-to-bed"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

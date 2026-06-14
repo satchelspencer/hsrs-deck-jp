@@ -1,0 +1,13 @@
+{
+  "_id": "q0odtxq6ulj",
+  "name": "camp-spot",
+  "params": {
+    "noun": "spot",
+    "owner": "camp"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

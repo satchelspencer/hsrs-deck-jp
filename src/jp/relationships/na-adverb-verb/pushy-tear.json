@@ -1,0 +1,13 @@
+{
+  "_id": "k202evjedav",
+  "name": "pushy-tear",
+  "params": {
+    "na": "pushy",
+    "verb": "tear"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

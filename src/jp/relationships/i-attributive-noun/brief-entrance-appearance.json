@@ -1,0 +1,13 @@
+{
+  "_id": "wene6k52xhy",
+  "name": "brief-entrance-appearance",
+  "params": {
+    "iadj": "brief",
+    "noun": "entrance-appearance"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

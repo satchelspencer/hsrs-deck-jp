@@ -1,0 +1,13 @@
+{
+  "_id": "6tujx1fc65g",
+  "name": "speciality-a-language",
+  "params": {
+    "na": "speciality",
+    "noun": "a-language"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

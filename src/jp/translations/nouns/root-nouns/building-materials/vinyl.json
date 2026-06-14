@@ -1,0 +1,17 @@
+{
+  "_id": "2q1v3c9kil7",
+  "desc": "vinyl, plastic (as material), PVC",
+  "name": "vinyl",
+  "order": "4",
+  "parents": [
+    "building-materials",
+    "objects",
+    "no-attr-nouns"
+  ],
+  "props": {
+    "_at": "vinyl",
+    "en": "vinyl plastic",
+    "jp": "ビニール",
+    "tl": "びにーる"
+  }
+}

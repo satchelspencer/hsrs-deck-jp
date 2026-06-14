@@ -1,0 +1,13 @@
+{
+  "_id": "yydnh03qs9b",
+  "name": "plot-of-land-be-decided",
+  "params": {
+    "noun": "plot-of-land",
+    "verb": "be-decided"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "7drds0rboj3",
+  "desc": "the organ",
+  "name": "brain",
+  "order": "3",
+  "parents": [
+    "body-parts"
+  ],
+  "props": {
+    "en": "brain",
+    "jp": "脳",
+    "tl": "のう"
+  }
+}

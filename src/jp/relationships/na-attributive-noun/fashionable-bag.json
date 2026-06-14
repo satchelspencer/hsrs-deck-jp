@@ -1,0 +1,13 @@
+{
+  "_id": "jvl8vo70r05",
+  "name": "fashionable-bag",
+  "params": {
+    "na": "fashionable",
+    "noun": "bag-katakana"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "nqa3z9vheff",
+  "name": "racket-return",
+  "params": {
+    "noun": "racket",
+    "verb": "return-it"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

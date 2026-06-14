@@ -1,0 +1,13 @@
+{
+  "_id": "09pr59b07kb",
+  "name": "big-a-win",
+  "params": {
+    "iadj": "big",
+    "noun": "a-win"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

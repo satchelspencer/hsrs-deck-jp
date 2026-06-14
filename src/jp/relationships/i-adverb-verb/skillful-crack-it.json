@@ -1,0 +1,13 @@
+{
+  "_id": "cysn7512r5t",
+  "name": "skillful-crack-it",
+  "params": {
+    "iadj": "skillfull",
+    "verb": "crack-it"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

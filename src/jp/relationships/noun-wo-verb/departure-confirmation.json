@@ -1,0 +1,13 @@
+{
+  "_id": "qnpaamele0p",
+  "name": "departure-confirmation",
+  "params": {
+    "noun": "departure",
+    "verb": "confirmation"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

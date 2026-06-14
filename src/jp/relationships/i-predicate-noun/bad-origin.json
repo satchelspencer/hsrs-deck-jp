@@ -1,0 +1,13 @@
+{
+  "_id": "z2goweyl6mm",
+  "name": "bad-origin",
+  "params": {
+    "iadj": "bad",
+    "noun": "origins"
+  },
+  "parents": [
+    "i-predicate-noun"
+  ],
+  "props": {
+  }
+}

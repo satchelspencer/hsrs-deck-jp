@@ -1,0 +1,13 @@
+{
+  "_id": "2qb15p7ct5f",
+  "name": "old-establishments",
+  "params": {
+    "iadj": "old",
+    "noun": "establishments"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

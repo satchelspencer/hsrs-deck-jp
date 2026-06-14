@@ -1,0 +1,13 @@
+{
+  "_id": "b2eslabnloo",
+  "name": "pregnancy-report-no",
+  "params": {
+    "noun": "report",
+    "owner": "pregnancy"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

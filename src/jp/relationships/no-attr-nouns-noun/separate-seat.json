@@ -1,0 +1,13 @@
+{
+  "_id": "6qlszf5db0d",
+  "name": "separate-seat",
+  "params": {
+    "no": "separate",
+    "noun": "counter-root-seats"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

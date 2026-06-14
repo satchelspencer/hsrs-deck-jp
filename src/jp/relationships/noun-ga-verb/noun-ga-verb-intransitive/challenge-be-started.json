@@ -1,0 +1,13 @@
+{
+  "_id": "vc1zfw6mj9j",
+  "name": "challenge-be-started",
+  "params": {
+    "noun": "challenge",
+    "verb": "be-started"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

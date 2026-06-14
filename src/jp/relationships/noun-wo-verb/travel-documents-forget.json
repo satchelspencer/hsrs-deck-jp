@@ -1,0 +1,13 @@
+{
+  "_id": "gjqdswkc4ea",
+  "name": "travel-documents-forget",
+  "params": {
+    "noun": "travel-documents",
+    "verb": "forget"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

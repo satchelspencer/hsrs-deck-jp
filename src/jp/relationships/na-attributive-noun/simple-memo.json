@@ -1,0 +1,13 @@
+{
+  "_id": "dz5j16davga",
+  "name": "simple-memo",
+  "params": {
+    "na": "simple",
+    "noun": "memo"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

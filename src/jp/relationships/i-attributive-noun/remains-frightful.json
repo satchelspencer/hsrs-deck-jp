@@ -1,0 +1,13 @@
+{
+  "_id": "o3mh0tj8jmo",
+  "name": "remains-frightful",
+  "params": {
+    "iadj": "frightful",
+    "noun": "remains"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

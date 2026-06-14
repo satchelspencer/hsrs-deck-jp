@@ -1,0 +1,13 @@
+{
+  "_id": "w3wg0npgvow",
+  "name": "chill-firmly",
+  "params": {
+    "adv": "firmly",
+    "verb": "chill"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

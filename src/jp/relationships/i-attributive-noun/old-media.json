@@ -1,0 +1,13 @@
+{
+  "_id": "63sr61h1wpa",
+  "name": "old-media",
+  "params": {
+    "iadj": "old",
+    "noun": "media"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

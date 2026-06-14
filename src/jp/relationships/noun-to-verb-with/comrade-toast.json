@@ -1,0 +1,13 @@
+{
+  "_id": "qb9g4xs2wh2",
+  "name": "comrade-toast",
+  "params": {
+    "noun": "comrade",
+    "verb": "toast"
+  },
+  "parents": [
+    "noun-to-verb-with"
+  ],
+  "props": {
+  }
+}

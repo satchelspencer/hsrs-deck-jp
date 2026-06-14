@@ -1,0 +1,13 @@
+{
+  "_id": "qpalotk3x1s",
+  "name": "prohibit-behavior",
+  "params": {
+    "noun": "behavior",
+    "verb": "prohibition"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

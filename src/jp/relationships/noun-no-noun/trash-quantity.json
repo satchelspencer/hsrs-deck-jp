@@ -1,0 +1,13 @@
+{
+  "_id": "pydcox47rg3",
+  "name": "trash-quantity",
+  "params": {
+    "noun": "quantity",
+    "owner": "trash"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

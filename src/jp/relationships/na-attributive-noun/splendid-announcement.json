@@ -1,0 +1,13 @@
+{
+  "_id": "jr592m27l4k",
+  "name": "splendid-announcement",
+  "params": {
+    "na": "splendid",
+    "noun": "announcement"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

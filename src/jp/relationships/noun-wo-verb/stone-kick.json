@@ -1,0 +1,13 @@
+{
+  "_id": "enp10fkq3f9",
+  "name": "stone-kick",
+  "params": {
+    "noun": "stone",
+    "verb": "kick"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

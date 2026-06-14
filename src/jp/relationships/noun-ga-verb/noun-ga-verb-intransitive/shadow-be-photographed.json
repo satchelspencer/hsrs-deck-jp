@@ -1,0 +1,13 @@
+{
+  "_id": "qw3kou35rli",
+  "name": "shadow-be-photographed",
+  "params": {
+    "noun": "shadow",
+    "verb": "be-photographed"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

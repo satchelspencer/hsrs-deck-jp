@@ -1,0 +1,13 @@
+{
+  "_id": "c7m3p8qxnv2",
+  "name": "signal-wait",
+  "params": {
+    "noun": "traffic-signal",
+    "verb": "wait"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

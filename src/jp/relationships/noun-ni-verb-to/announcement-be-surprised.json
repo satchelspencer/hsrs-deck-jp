@@ -1,0 +1,13 @@
+{
+  "_id": "8b3wdjnaldn",
+  "name": "announcement-be-surprised",
+  "params": {
+    "noun": "announcement",
+    "verb": "be-surprised"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

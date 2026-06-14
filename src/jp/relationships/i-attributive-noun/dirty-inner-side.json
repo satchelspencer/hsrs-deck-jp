@@ -1,0 +1,13 @@
+{
+  "_id": "mg2iqax0f8c",
+  "name": "dirty-inner-side",
+  "params": {
+    "iadj": "dirty",
+    "noun": "inner-side"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

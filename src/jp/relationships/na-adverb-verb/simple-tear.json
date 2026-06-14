@@ -1,0 +1,13 @@
+{
+  "_id": "5l5u9xcytdc",
+  "name": "simple-tear",
+  "params": {
+    "na": "simple",
+    "verb": "tear"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

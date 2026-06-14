@@ -1,0 +1,14 @@
+{
+  "_id": "9uxjsxl1onh",
+  "desc": "削る means to cut/reduce in this context",
+  "name": "transport-expense-shave-it",
+  "params": {
+    "noun": "transport-expense",
+    "verb": "shave-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

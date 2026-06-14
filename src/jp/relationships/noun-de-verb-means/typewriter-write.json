@@ -1,0 +1,13 @@
+{
+  "_id": "fb2l2y29rzf",
+  "name": "typewriter-write",
+  "params": {
+    "noun": "typewriter",
+    "verb": "write"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

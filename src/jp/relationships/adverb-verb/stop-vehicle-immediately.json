@@ -1,0 +1,13 @@
+{
+  "_id": "17gu6y4uo0r",
+  "name": "stop-vehicle-immediately",
+  "params": {
+    "adv": "immediately",
+    "verb": "stop-vehicle"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

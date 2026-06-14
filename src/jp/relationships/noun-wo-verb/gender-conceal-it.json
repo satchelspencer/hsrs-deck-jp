@@ -1,0 +1,13 @@
+{
+  "_id": "fvvo67wvd70",
+  "name": "gender-conceal-it",
+  "params": {
+    "noun": "gender",
+    "verb": "conceal-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

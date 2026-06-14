@@ -1,0 +1,13 @@
+{
+  "_id": "vdipdmun0lu",
+  "name": "cheap-plot-of-land",
+  "params": {
+    "iadj": "cheap",
+    "noun": "plot-of-land"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

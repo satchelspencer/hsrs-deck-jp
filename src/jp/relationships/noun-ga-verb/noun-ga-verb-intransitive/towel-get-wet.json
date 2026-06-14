@@ -1,0 +1,13 @@
+{
+  "_id": "zy4964knv3x",
+  "name": "towel-get-wet",
+  "params": {
+    "noun": "towel",
+    "verb": "get-wet"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

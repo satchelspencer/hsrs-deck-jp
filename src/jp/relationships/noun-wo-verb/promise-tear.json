@@ -1,0 +1,13 @@
+{
+  "_id": "s5rpvssvui1",
+  "name": "promise-tear",
+  "params": {
+    "noun": "promise",
+    "verb": "tear"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

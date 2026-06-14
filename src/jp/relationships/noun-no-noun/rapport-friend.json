@@ -1,0 +1,13 @@
+{
+  "_id": "2e960ytg21y",
+  "name": "rapport-friend",
+  "params": {
+    "noun": "rapport",
+    "owner": "friend"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

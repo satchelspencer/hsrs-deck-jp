@@ -1,0 +1,13 @@
+{
+  "_id": "cc83hfsl6bt",
+  "name": "stop-vehicle-be-continuing",
+  "params": {
+    "noun": "stop-vehicle",
+    "verb": "be-continuing"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

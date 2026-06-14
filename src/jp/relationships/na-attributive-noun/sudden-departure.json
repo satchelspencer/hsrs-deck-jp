@@ -1,0 +1,13 @@
+{
+  "_id": "xtjrt4x08uy",
+  "name": "sudden-departure",
+  "params": {
+    "na": "sudden",
+    "noun": "departure"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

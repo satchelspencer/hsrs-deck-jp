@@ -1,0 +1,13 @@
+{
+  "_id": "um75vs3blcb",
+  "name": "cramped-world-of-life",
+  "params": {
+    "iadj": "cramped",
+    "noun": "world-of-life"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "ct49iy983bb",
+  "name": "special-admission-ticket",
+  "params": {
+    "na": "special",
+    "noun": "admission-ticket"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

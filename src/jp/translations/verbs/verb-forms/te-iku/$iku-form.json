@@ -1,0 +1,21 @@
+{
+  "_id": "gd3k71g3ka7",
+  "constraint": "iku",
+  "cpmap": {
+    "form": {
+      "verb": "iku"
+    }
+  },
+  "name": "$iku-form",
+  "params": {
+    "form": "plain-polite-forms",
+    "iku": "iku"
+  },
+  "parents": [
+    "te-iku"
+  ],
+  "props": {
+    "en": "form.en",
+    "jp": "form.jp"
+  }
+}

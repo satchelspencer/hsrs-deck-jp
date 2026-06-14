@@ -1,0 +1,13 @@
+{
+  "_id": "68jek0vk8c3",
+  "name": "lightweight-vinyl",
+  "params": {
+    "iadj": "lightweight",
+    "noun": "vinyl"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

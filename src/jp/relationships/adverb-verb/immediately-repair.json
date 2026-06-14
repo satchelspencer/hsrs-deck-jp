@@ -1,0 +1,13 @@
+{
+  "_id": "khsqibhdfhj",
+  "name": "immediately-repair",
+  "params": {
+    "adv": "immediately",
+    "verb": "repair"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

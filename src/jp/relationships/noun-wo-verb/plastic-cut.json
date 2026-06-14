@@ -1,0 +1,13 @@
+{
+  "_id": "352052ippef",
+  "name": "plastic-cut",
+  "params": {
+    "noun": "plastic",
+    "verb": "cut"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

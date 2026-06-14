@@ -1,0 +1,13 @@
+{
+  "_id": "k7aqe14cifs",
+  "name": "dangerous-lighter",
+  "params": {
+    "iadj": "dangerous",
+    "noun": "lighter"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

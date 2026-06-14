@@ -1,0 +1,13 @@
+{
+  "_id": "cuvud5mkklp",
+  "name": "tournament-win",
+  "params": {
+    "noun": "tournament",
+    "verb": "win"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

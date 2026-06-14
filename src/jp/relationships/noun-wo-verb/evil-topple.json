@@ -1,0 +1,13 @@
+{
+  "_id": "jctm95kebwz",
+  "name": "evil-topple",
+  "params": {
+    "noun": "evil",
+    "verb": "topple"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "gctsdzu3p10",
+  "name": "misfortune-family",
+  "params": {
+    "na": "misfortune",
+    "noun": "a-family"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

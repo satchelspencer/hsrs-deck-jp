@@ -1,0 +1,13 @@
+{
+  "_id": "57hq13zy1sj",
+  "name": "yellow-banana",
+  "params": {
+    "iadj": "yellow",
+    "noun": "banana"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

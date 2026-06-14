@@ -1,0 +1,15 @@
+{
+  "_id": "2jum5njiy00",
+  "desc": "ルール is a loanword alternate of 規則",
+  "name": "rule-katakana",
+  "order": "3",
+  "parents": [
+    "alternates",
+    "writeables"
+  ],
+  "props": {
+    "en": "rule",
+    "jp": "ルール",
+    "tl": "るーる"
+  }
+}

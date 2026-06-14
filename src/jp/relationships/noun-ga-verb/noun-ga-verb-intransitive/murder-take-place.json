@@ -1,0 +1,13 @@
+{
+  "_id": "50b85z59ljs",
+  "name": "murder-take-place",
+  "params": {
+    "noun": "murder",
+    "verb": "take-place"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

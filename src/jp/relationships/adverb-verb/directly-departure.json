@@ -1,0 +1,13 @@
+{
+  "_id": "iguc27z0da6",
+  "name": "directly-departure",
+  "params": {
+    "adv": "directly",
+    "verb": "departure"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

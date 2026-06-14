@@ -1,0 +1,13 @@
+{
+  "_id": "hhf5jz40niz",
+  "name": "a-win-record",
+  "params": {
+    "noun": "record",
+    "owner": "a-win"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

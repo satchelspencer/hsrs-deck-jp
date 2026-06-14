@@ -1,0 +1,13 @@
+{
+  "_id": "4yxeblor2th",
+  "name": "admission-ticket-category",
+  "params": {
+    "noun": "category",
+    "owner": "admission-ticket"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

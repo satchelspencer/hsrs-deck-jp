@@ -1,0 +1,13 @@
+{
+  "_id": "a0cmcoag8wp",
+  "name": "journalist-announcement",
+  "params": {
+    "noun": "journalist",
+    "verb": "announcement"
+  },
+  "parents": [
+    "noun-ga-verb-transitive"
+  ],
+  "props": {
+  }
+}

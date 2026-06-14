@@ -1,0 +1,13 @@
+{
+  "_id": "xl3ll2doh0m",
+  "name": "sparklingly-be-seen",
+  "params": {
+    "adv": "sparklingly",
+    "verb": "be-seen"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

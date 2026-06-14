@@ -1,0 +1,13 @@
+{
+  "_id": "13rk2gdurzl",
+  "name": "cat-pregnancy",
+  "params": {
+    "noun": "cat",
+    "verb": "pregnancy"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "j51zohqryex",
+  "name": "wise-selection",
+  "params": {
+    "iadj": "wise",
+    "noun": "selection"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

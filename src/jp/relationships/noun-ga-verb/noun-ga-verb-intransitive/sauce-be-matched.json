@@ -1,0 +1,13 @@
+{
+  "_id": "4mdwlal7pko",
+  "name": "sauce-be-matched",
+  "params": {
+    "noun": "sauce",
+    "verb": "be-matched"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

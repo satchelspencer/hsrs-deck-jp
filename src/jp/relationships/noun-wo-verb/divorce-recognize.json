@@ -1,0 +1,14 @@
+{
+  "_id": "kmcjxzlhn05",
+  "desc": "recognize is grant/approve in this context",
+  "name": "divorce-recognize",
+  "params": {
+    "noun": "divorce",
+    "verb": "recognize"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

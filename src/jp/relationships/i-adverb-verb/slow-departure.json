@@ -1,0 +1,13 @@
+{
+  "_id": "czfnc07k94g",
+  "name": "slow-departure",
+  "params": {
+    "iadj": "slow",
+    "verb": "departure"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

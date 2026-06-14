@@ -5,7 +5,7 @@
   "order": "",
   "params": {
     "clause": "noun-i-adj-pred",
-    "rel": "na-predicate-noun"
+    "rel": "i-predicate-noun"
   },
   "parents": [
     "noun-to-and-clause"

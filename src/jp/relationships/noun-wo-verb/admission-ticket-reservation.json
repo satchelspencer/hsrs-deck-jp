@@ -1,0 +1,13 @@
+{
+  "_id": "8gqzsw213r0",
+  "name": "admission-ticket-reservation",
+  "params": {
+    "noun": "admission-ticket",
+    "verb": "reservation"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

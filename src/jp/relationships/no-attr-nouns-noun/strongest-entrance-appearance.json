@@ -1,0 +1,13 @@
+{
+  "_id": "6nyiw53bsi2",
+  "name": "strongest-entrance-appearance",
+  "params": {
+    "no": "strongest",
+    "noun": "entrance-appearance"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

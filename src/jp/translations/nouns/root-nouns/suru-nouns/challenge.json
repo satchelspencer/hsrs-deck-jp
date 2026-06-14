@@ -1,0 +1,19 @@
+{
+  "_id": "3ystik61xk5",
+  "desc": "attempt, trial, challenge oneself",
+  "name": "challenge",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "te-iru-verbs-continuous",
+    "people-do-volitional",
+    "come-go-reasons"
+  ],
+  "props": {
+    "_pg": "challenging",
+    "_v": "challenge it",
+    "en": "challenge",
+    "jp": "挑戦",
+    "tl": "ちょうせん"
+  }
+}

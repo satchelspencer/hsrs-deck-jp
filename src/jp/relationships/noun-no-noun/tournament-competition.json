@@ -1,0 +1,13 @@
+{
+  "_id": "u10ac9yftgk",
+  "name": "tournament-competition",
+  "params": {
+    "noun": "competition",
+    "owner": "tournament"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

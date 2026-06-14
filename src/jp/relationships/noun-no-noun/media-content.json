@@ -1,0 +1,13 @@
+{
+  "_id": "aeiuillh9cg",
+  "name": "media-content",
+  "params": {
+    "noun": "content",
+    "owner": "media"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

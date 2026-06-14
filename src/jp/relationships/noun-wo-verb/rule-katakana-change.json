@@ -1,0 +1,13 @@
+{
+  "_id": "2rw5xuac7e7",
+  "name": "rule-katakana-change",
+  "params": {
+    "noun": "rule-katakana",
+    "verb": "change"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

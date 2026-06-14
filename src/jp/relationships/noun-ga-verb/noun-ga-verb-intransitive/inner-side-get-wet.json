@@ -1,0 +1,13 @@
+{
+  "_id": "nrags21na8w",
+  "name": "inner-side-get-wet",
+  "params": {
+    "noun": "inner-side",
+    "verb": "get-wet"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

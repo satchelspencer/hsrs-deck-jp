@@ -1,0 +1,13 @@
+{
+  "_id": "smqmpmjdkkf",
+  "name": "nylon-rope",
+  "params": {
+    "no": "nylon",
+    "noun": "rope"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

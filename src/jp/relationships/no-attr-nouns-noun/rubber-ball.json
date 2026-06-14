@@ -1,0 +1,13 @@
+{
+  "_id": "bbaobxvbavm",
+  "name": "rubber-ball",
+  "params": {
+    "no": "rubber",
+    "noun": "ball"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

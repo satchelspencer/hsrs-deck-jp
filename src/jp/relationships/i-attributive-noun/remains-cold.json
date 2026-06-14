@@ -1,0 +1,13 @@
+{
+  "_id": "uxnoracjhx6",
+  "name": "remains-cold",
+  "params": {
+    "iadj": "cold-touch",
+    "noun": "remains"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

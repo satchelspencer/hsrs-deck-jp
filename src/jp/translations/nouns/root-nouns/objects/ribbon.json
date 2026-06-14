@@ -1,0 +1,14 @@
+{
+  "_id": "r1b0n4kx9pm",
+  "name": "ribbon",
+  "order": "4",
+  "parents": [
+    "objects",
+    "products"
+  ],
+  "props": {
+    "en": "ribbon",
+    "jp": "リボン",
+    "tl": "りぼん"
+  }
+}

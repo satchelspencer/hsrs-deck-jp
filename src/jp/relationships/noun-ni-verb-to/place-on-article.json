@@ -1,0 +1,14 @@
+{
+  "_id": "8kdcwhgdvl9",
+  "desc": "載せる means to publish/include in this context",
+  "name": "place-on-article",
+  "params": {
+    "noun": "article",
+    "verb": "place-on"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

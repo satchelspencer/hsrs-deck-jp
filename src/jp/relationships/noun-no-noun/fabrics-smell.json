@@ -1,0 +1,13 @@
+{
+  "_id": "de2mjsr1p0e",
+  "name": "fabrics-smell",
+  "params": {
+    "noun": "scent",
+    "owner": "fabrics"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "krn2v2is1to",
+  "name": "feeling-deceive",
+  "params": {
+    "noun": "feeling",
+    "verb": "deceive"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

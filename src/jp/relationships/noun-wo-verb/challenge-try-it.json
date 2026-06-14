@@ -1,0 +1,13 @@
+{
+  "_id": "04ftuac6aao",
+  "name": "challenge-try-it",
+  "params": {
+    "noun": "challenge",
+    "verb": "try-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

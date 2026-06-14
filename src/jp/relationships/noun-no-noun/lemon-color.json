@@ -1,0 +1,13 @@
+{
+  "_id": "m6od6q918om",
+  "name": "lemon-color",
+  "params": {
+    "noun": "color",
+    "owner": "lemon"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

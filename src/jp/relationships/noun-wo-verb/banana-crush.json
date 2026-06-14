@@ -1,0 +1,13 @@
+{
+  "_id": "n4mg1uuluwj",
+  "name": "banana-crush",
+  "params": {
+    "noun": "banana",
+    "verb": "crush"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

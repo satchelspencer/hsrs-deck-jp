@@ -1,0 +1,13 @@
+{
+  "_id": "2oc05n98gt6",
+  "name": "staff",
+  "order": "4",
+  "parents": [
+    "people"
+  ],
+  "props": {
+    "en": "staff",
+    "jp": "スタッフ",
+    "tl": "すたっふ"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "kz8s81dktsh",
+  "name": "entrance-appearance-impression",
+  "params": {
+    "noun": "impression",
+    "owner": "entrance-appearance"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

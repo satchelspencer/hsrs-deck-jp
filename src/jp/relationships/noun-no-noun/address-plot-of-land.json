@@ -1,0 +1,13 @@
+{
+  "_id": "s1k2ertqifl",
+  "name": "address-plot-of-land",
+  "params": {
+    "noun": "address",
+    "owner": "plot-of-land"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

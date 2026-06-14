@@ -1,0 +1,13 @@
+{
+  "_id": "8u3t82sr5ua",
+  "name": "captain-ride",
+  "params": {
+    "noun": "captain",
+    "verb": "ride"
+  },
+  "parents": [
+    "noun-to-verb-with"
+  ],
+  "props": {
+  }
+}

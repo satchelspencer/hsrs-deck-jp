@@ -1,0 +1,13 @@
+{
+  "_id": "s5ytmuh78y3",
+  "name": "long-repair",
+  "params": {
+    "iadj": "long",
+    "noun": "repair"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

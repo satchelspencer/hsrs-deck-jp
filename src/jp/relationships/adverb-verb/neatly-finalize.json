@@ -1,0 +1,13 @@
+{
+  "_id": "dcpwf0qc9rj",
+  "name": "neatly-finalize",
+  "params": {
+    "adv": "neatly",
+    "verb": "finalization"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

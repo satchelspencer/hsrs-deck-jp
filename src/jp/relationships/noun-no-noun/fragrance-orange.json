@@ -1,0 +1,13 @@
+{
+  "_id": "bnkyx3rt2qw",
+  "name": "fragrance-orange",
+  "params": {
+    "noun": "fragrance",
+    "owner": "orange"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "njcmn71shx8",
+  "name": "evil-organization",
+  "params": {
+    "noun": "organization",
+    "owner": "evil"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "eo72d1zmsmr",
+  "name": "album-photo",
+  "params": {
+    "noun": "photo",
+    "owner": "album"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

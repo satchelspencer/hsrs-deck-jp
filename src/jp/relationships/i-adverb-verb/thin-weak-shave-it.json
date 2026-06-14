@@ -1,0 +1,13 @@
+{
+  "_id": "5zegr7fmxh2",
+  "name": "thin-weak-shave-it",
+  "params": {
+    "iadj": "thin-weak",
+    "verb": "shave-it"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

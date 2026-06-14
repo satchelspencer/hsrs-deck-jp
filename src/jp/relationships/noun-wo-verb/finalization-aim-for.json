@@ -1,0 +1,13 @@
+{
+  "_id": "sxky0ie82e0",
+  "name": "finalization-aim-for",
+  "params": {
+    "noun": "finalization",
+    "verb": "aim-for"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

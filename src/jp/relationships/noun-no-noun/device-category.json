@@ -1,0 +1,13 @@
+{
+  "_id": "q4otriuy7ei",
+  "name": "device-category",
+  "params": {
+    "noun": "category",
+    "owner": "device"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

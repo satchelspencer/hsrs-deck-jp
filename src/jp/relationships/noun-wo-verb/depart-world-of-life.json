@@ -1,0 +1,14 @@
+{
+  "_id": "m30pb6y3d5x",
+  "desc": "世を去る means to pass away / leave this world",
+  "name": "depart-world-of-life",
+  "params": {
+    "noun": "world-of-life",
+    "verb": "depart"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

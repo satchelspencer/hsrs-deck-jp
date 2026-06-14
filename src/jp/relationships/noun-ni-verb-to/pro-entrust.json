@@ -1,0 +1,13 @@
+{
+  "_id": "bhsgnl93y1b",
+  "name": "pro-entrust",
+  "params": {
+    "noun": "pro",
+    "verb": "entrust"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "lawfuu5wc0l",
+  "name": "write-article",
+  "params": {
+    "noun": "article",
+    "verb": "write"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "z43oganqs6l",
+  "desc": "to stab, to prick, to sting, to pierce",
+  "name": "stab",
+  "order": "4",
+  "parents": [
+    "godan-su",
+    "people-do-volitional",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "_pg": "stabbing",
+    "en": "stab",
+    "jp": "刺す",
+    "tl": "さす"
+  }
+}

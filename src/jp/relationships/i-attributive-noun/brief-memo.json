@@ -1,0 +1,13 @@
+{
+  "_id": "t77ru1x9fp0",
+  "name": "brief-memo",
+  "params": {
+    "iadj": "brief",
+    "noun": "memo"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

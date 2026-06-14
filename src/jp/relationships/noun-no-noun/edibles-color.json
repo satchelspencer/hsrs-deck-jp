@@ -1,0 +1,13 @@
+{
+  "_id": "9h6mpgw9rmi",
+  "name": "edibles-color",
+  "params": {
+    "noun": "color",
+    "owner": "edibles"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

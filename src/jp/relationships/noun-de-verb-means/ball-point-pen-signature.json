@@ -1,0 +1,13 @@
+{
+  "_id": "s7ia0ck9r52",
+  "name": "ball-point-pen-signature",
+  "params": {
+    "noun": "ball-point-pen",
+    "verb": "signature"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

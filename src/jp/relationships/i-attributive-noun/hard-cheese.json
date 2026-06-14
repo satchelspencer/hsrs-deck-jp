@@ -1,0 +1,13 @@
+{
+  "_id": "hchaph8cr67",
+  "name": "hard-cheese",
+  "params": {
+    "iadj": "hard",
+    "noun": "cheese"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

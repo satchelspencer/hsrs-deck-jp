@@ -1,0 +1,13 @@
+{
+  "_id": "rgdaj6xqurt",
+  "name": "transport-expense-pay",
+  "params": {
+    "noun": "transport-expense",
+    "verb": "paywi"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

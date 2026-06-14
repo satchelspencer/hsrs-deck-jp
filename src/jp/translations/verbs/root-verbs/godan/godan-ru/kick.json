@@ -1,0 +1,19 @@
+{
+  "_id": "pksw5oio9vi",
+  "desc": "kick",
+  "name": "kick",
+  "order": "2",
+  "parents": [
+    "godan-ru",
+    "do-to-people",
+    "de-location-verbs",
+    "te-iru-verbs-continuous",
+    "people-do-volitional"
+  ],
+  "props": {
+    "_pg": "kicking",
+    "en": "kick",
+    "jp": "蹴る",
+    "tl": "ける"
+  }
+}

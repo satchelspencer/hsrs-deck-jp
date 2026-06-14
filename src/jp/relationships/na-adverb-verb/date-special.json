@@ -1,0 +1,13 @@
+{
+  "_id": "ai7rfp6eqfp",
+  "name": "date-special",
+  "params": {
+    "na": "special",
+    "verb": "date"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "5rkeh4j5oks",
+  "desc": "fix is touch up / redo makeup in this context",
+  "name": "makeup-fix",
+  "params": {
+    "noun": "makeup",
+    "verb": "fix"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "7ybxgmfg3rd",
+  "desc": "conception, being with child",
+  "name": "pregnancy",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "te-iru-verbs-state"
+  ],
+  "props": {
+    "_st": "pregnant",
+    "_v": "become pregnant",
+    "en": "pregnancy",
+    "jp": "妊娠",
+    "tl": "にんしん"
+  }
+}

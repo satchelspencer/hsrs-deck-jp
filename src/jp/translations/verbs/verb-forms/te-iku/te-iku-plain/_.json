@@ -1,0 +1,15 @@
+{
+  "_id": "525yyxj0lxn",
+  "mode": "c---an",
+  "name": "te-iku-plain",
+  "params": {
+    "te": "verb-te-form-pos",
+    "verb": "te-iru-verbs"
+  },
+  "parents": [
+    "te-iku"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

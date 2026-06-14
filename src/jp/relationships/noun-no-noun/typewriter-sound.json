@@ -1,0 +1,13 @@
+{
+  "_id": "ri6hd5qski2",
+  "name": "typewriter-sound",
+  "params": {
+    "noun": "sound",
+    "owner": "typewriter"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "d9z8b1yrxcv",
+  "desc": "person from a country",
+  "name": "country-person",
+  "order": "2",
+  "params": {
+    "country": "countries"
+  },
+  "parents": [
+    "people-groups"
+  ],
+  "props": {
+    "en": "country._ad+' person'",
+    "jp": "country.jp+'人'",
+    "tl": "country.tl+'じん'"
+  }
+}

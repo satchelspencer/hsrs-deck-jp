@@ -1,0 +1,13 @@
+{
+  "_id": "d2movukt741",
+  "name": "incidentless-departure",
+  "params": {
+    "na": "incidentless",
+    "verb": "departure"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

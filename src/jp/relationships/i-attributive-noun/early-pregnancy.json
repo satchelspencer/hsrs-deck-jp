@@ -1,0 +1,13 @@
+{
+  "_id": "lnmpl4fsri6",
+  "name": "early-pregnancy",
+  "params": {
+    "iadj": "early",
+    "noun": "pregnancy"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "gfzm3g3yiqo",
+  "desc": "violin, fiddle",
+  "name": "violin",
+  "order": "4",
+  "parents": [
+    "pluckables"
+  ],
+  "props": {
+    "en": "violin",
+    "jp": "バイオリン",
+    "tl": "ばいおりん"
+  }
+}

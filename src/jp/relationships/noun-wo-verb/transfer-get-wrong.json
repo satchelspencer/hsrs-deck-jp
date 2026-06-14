@@ -1,0 +1,13 @@
+{
+  "_id": "niagtvdmvjm",
+  "name": "transfer-get-wrong",
+  "params": {
+    "noun": "transfer",
+    "verb": "get-it-wrong"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "e4cs3jvmof8",
+  "desc": "noodles getting soggy from sitting too long",
+  "name": "ramen-be-stretched",
+  "params": {
+    "noun": "ramen",
+    "verb": "be-stretched"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

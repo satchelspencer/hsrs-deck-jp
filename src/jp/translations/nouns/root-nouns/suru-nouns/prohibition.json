@@ -1,0 +1,19 @@
+{
+  "_id": "ydr1cht8c8o",
+  "desc": "ban, forbidding, not allowed",
+  "name": "prohibition",
+  "order": "3",
+  "parents": [
+    "suru-nouns",
+    "te-iru-verbs-state",
+    "people-do-volitional"
+  ],
+  "props": {
+    "_pg": "prohibiting",
+    "_st": "prohibited",
+    "_v": "prohibit",
+    "en": "prohibition",
+    "jp": "禁止",
+    "tl": "きんし"
+  }
+}

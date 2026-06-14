@@ -1,0 +1,13 @@
+{
+  "_id": "8x8mlrlqvrw",
+  "name": "date-lovely",
+  "params": {
+    "na": "lovely",
+    "noun": "date"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

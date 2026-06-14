@@ -1,0 +1,17 @@
+{
+  "_id": "dbcsu2y5u4f",
+  "constraint": "verb",
+  "mode": "c---ap",
+  "name": "te-kuru-past-perfect-state",
+  "params": {
+    "te": "verb-te-form-pos",
+    "verb": "te-iru-verbs-state"
+  },
+  "parents": [
+    "te-kuru"
+  ],
+  "props": {
+    "en": "'had previously been getting '+verb._st",
+    "jp": "te.jp+'きていた'"
+  }
+}

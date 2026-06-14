@@ -1,0 +1,13 @@
+{
+  "_id": "90aqy992t2s",
+  "name": "challenge-be-defeated",
+  "params": {
+    "noun": "challenge",
+    "verb": "be-defeated"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

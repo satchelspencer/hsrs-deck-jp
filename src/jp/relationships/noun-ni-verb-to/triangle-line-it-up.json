@@ -1,0 +1,13 @@
+{
+  "_id": "osjioesxp1g",
+  "name": "triangle-line-it-up",
+  "params": {
+    "noun": "triangle",
+    "verb": "line-it-up"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

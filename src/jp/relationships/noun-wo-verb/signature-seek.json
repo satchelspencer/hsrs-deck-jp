@@ -1,0 +1,13 @@
+{
+  "_id": "uqfi0iz9wk3",
+  "name": "signature-seek",
+  "params": {
+    "noun": "signature",
+    "verb": "seek"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

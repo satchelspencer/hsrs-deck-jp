@@ -1,0 +1,13 @@
+{
+  "_id": "1jo3sj066h0",
+  "name": "wide-establishments",
+  "params": {
+    "iadj": "wide",
+    "noun": "establishments"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

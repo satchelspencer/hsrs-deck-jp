@@ -1,0 +1,13 @@
+{
+  "_id": "19ow43305q7",
+  "name": "misfortune-cause",
+  "params": {
+    "noun": "cause",
+    "owner": "misfortune"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

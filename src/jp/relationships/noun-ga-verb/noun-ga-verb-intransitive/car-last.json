@@ -1,0 +1,13 @@
+{
+  "_id": "l99p8anh7ct",
+  "name": "car-last",
+  "params": {
+    "noun": "car",
+    "verb": "last"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

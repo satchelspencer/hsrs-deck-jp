@@ -1,0 +1,13 @@
+{
+  "_id": "f0gqjgqvvtj",
+  "name": "side-dish-choose",
+  "params": {
+    "noun": "side-dish",
+    "verb": "choose"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

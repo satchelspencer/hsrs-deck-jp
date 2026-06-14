@@ -1,0 +1,13 @@
+{
+  "_id": "trnsd2uc38v",
+  "name": "pro-knowledge",
+  "params": {
+    "noun": "knowledge",
+    "owner": "pro"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

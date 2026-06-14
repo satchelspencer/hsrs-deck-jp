@@ -1,0 +1,13 @@
+{
+  "_id": "uz13lkjzu3u",
+  "name": "plastic-bag",
+  "params": {
+    "no": "plastic",
+    "noun": "sack"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

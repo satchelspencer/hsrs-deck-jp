@@ -1,0 +1,13 @@
+{
+  "_id": "yr3vaamhxmf",
+  "name": "date-lovely",
+  "params": {
+    "na": "lovely",
+    "verb": "date"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

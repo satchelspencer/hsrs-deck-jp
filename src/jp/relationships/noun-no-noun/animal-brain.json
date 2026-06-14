@@ -1,0 +1,13 @@
+{
+  "_id": "yv24kehjibw",
+  "name": "animal-brain",
+  "params": {
+    "noun": "brain",
+    "owner": "animal"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

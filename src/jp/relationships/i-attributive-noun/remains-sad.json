@@ -1,0 +1,13 @@
+{
+  "_id": "vn8ti1sfwvl",
+  "name": "remains-sad",
+  "params": {
+    "iadj": "sad",
+    "noun": "remains"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

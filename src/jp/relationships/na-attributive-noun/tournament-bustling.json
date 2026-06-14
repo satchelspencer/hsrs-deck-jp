@@ -1,0 +1,13 @@
+{
+  "_id": "8uqykq2bgg9",
+  "name": "tournament-bustling",
+  "params": {
+    "na": "bustling",
+    "noun": "tournament"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

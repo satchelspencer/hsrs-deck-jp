@@ -1,0 +1,13 @@
+{
+  "_id": "5zhem10lr0f",
+  "name": "neatly-camp",
+  "params": {
+    "adv": "neatly",
+    "verb": "camp"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

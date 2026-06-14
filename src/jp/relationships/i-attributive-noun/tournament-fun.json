@@ -1,0 +1,13 @@
+{
+  "_id": "rmpthx94y4r",
+  "name": "tournament-fun",
+  "params": {
+    "iadj": "fun",
+    "noun": "tournament"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

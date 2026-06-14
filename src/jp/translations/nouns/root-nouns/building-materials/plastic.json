@@ -1,0 +1,16 @@
+{
+  "_id": "2qufx5qgxvw",
+  "desc": "plastic, synthetic resin",
+  "name": "plastic",
+  "order": "4",
+  "parents": [
+    "building-materials",
+    "objects",
+    "no-attr-nouns"
+  ],
+  "props": {
+    "en": "plastic",
+    "jp": "プラスチック",
+    "tl": "ぷらすちっく"
+  }
+}

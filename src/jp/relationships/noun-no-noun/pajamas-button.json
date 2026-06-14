@@ -1,0 +1,13 @@
+{
+  "_id": "w8cvxrcxxm5",
+  "name": "pajamas-button",
+  "params": {
+    "noun": "button",
+    "owner": "pajamas"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

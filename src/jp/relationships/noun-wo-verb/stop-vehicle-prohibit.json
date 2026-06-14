@@ -1,0 +1,13 @@
+{
+  "_id": "lxvnuqc5jg7",
+  "name": "stop-vehicle-prohibit",
+  "params": {
+    "noun": "stop-vehicle",
+    "verb": "prohibition"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "efpdop27epq",
+  "name": "needed-surveillance",
+  "params": {
+    "na": "needed",
+    "noun": "surveillance"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

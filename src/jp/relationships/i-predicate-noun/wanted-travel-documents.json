@@ -1,0 +1,13 @@
+{
+  "_id": "idsypp7lxcw",
+  "name": "wanted-travel-documents",
+  "params": {
+    "iadj": "wanted",
+    "noun": "travel-documents"
+  },
+  "parents": [
+    "i-predicate-noun"
+  ],
+  "props": {
+  }
+}

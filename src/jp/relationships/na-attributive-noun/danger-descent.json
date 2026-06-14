@@ -1,0 +1,13 @@
+{
+  "_id": "sm2u92kngr6",
+  "name": "danger-descent",
+  "params": {
+    "na": "danger",
+    "noun": "descent"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

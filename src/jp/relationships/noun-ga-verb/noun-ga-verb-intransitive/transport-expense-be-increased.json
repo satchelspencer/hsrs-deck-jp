@@ -1,0 +1,13 @@
+{
+  "_id": "xf4uu8pwae3",
+  "name": "transport-expense-be-increased",
+  "params": {
+    "noun": "transport-expense",
+    "verb": "be-increased"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "qyjmpt1l3dn",
+  "name": "find-memo",
+  "params": {
+    "noun": "memo",
+    "verb": "find"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

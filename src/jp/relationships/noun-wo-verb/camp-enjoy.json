@@ -1,0 +1,13 @@
+{
+  "_id": "e977ejfchci",
+  "name": "camp-enjoy",
+  "params": {
+    "noun": "camp",
+    "verb": "enjoy"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

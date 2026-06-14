@@ -1,0 +1,13 @@
+{
+  "_id": "bqa8qlqu6v3",
+  "name": "transaction-request",
+  "params": {
+    "noun": "transaction",
+    "verb": "request"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

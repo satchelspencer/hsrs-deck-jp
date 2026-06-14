@@ -1,0 +1,14 @@
+{
+  "_id": "3vf0t0ub194",
+  "desc": "拾う means to snag/pick up a win unexpectedly",
+  "name": "a-win-pick-up",
+  "params": {
+    "noun": "a-win",
+    "verb": "pick-up"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

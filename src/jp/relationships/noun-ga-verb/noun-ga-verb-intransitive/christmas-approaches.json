@@ -1,0 +1,13 @@
+{
+  "_id": "wjptqsw04ez",
+  "name": "christmas-approaches",
+  "params": {
+    "noun": "christmas",
+    "verb": "come"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

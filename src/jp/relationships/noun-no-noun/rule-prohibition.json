@@ -1,0 +1,13 @@
+{
+  "_id": "uy9p279qjqf",
+  "name": "rule-prohibition",
+  "params": {
+    "noun": "prohibition",
+    "owner": "rule"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

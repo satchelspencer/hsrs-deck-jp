@@ -1,0 +1,13 @@
+{
+  "_id": "0ymer03hpkr",
+  "name": "aimlessly-go-out",
+  "params": {
+    "adv": "aimlessly",
+    "verb": "go-out"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

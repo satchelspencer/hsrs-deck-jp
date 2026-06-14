@@ -1,0 +1,13 @@
+{
+  "_id": "15mmq6nt1pv",
+  "name": "stewardess-ni-hear",
+  "params": {
+    "noun": "stewardess",
+    "verb": "hear"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

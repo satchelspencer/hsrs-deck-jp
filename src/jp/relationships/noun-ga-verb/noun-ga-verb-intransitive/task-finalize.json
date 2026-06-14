@@ -1,0 +1,13 @@
+{
+  "_id": "zdyolob1iu3",
+  "name": "task-finalize",
+  "params": {
+    "noun": "task",
+    "verb": "finalization"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

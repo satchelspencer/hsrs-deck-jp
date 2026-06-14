@@ -1,0 +1,13 @@
+{
+  "_id": "0u4ynumkjew",
+  "name": "challenge-win",
+  "params": {
+    "noun": "challenge",
+    "verb": "win"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

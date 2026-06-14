@@ -1,0 +1,16 @@
+{
+  "_id": "9topg5baw6z",
+  "desc": "triangle, triangular shape",
+  "name": "triangle",
+  "order": "4",
+  "parents": [
+    "shapes",
+    "no-attr-nouns"
+  ],
+  "props": {
+    "_at": "triangular",
+    "en": "triangle",
+    "jp": "三角",
+    "tl": "さんかく"
+  }
+}

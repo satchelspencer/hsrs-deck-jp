@@ -1,0 +1,13 @@
+{
+  "_id": "1d51v3xy9km",
+  "name": "vinyl-gloves",
+  "params": {
+    "no": "vinyl",
+    "noun": "glove"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

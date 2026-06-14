@@ -1,0 +1,13 @@
+{
+  "_id": "ykan9zbczo9",
+  "name": "red-tomato",
+  "params": {
+    "iadj": "red",
+    "noun": "tomato"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

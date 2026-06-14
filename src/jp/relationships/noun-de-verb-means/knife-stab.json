@@ -1,0 +1,13 @@
+{
+  "_id": "4xvkk68pvyz",
+  "name": "knife-stab",
+  "params": {
+    "noun": "knife",
+    "verb": "stab"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

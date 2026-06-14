@@ -1,0 +1,13 @@
+{
+  "_id": "mthyc96qq9q",
+  "name": "departure-draw-near",
+  "params": {
+    "noun": "departure",
+    "verb": "draw-near"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

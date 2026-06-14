@@ -1,0 +1,13 @@
+{
+  "_id": "u3foccyiwmq",
+  "name": "inner-side-examine",
+  "params": {
+    "noun": "inner-side",
+    "verb": "examine"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

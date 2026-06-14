@@ -1,0 +1,13 @@
+{
+  "_id": "xx2h0ctwvk4",
+  "name": "finalization-report",
+  "params": {
+    "noun": "finalization",
+    "verb": "report"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

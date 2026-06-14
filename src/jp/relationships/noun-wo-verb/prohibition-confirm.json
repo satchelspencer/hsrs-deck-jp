@@ -1,0 +1,13 @@
+{
+  "_id": "389icu5peju",
+  "name": "prohibition-confirm",
+  "params": {
+    "noun": "prohibition",
+    "verb": "confirmation"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

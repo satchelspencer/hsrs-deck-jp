@@ -1,0 +1,13 @@
+{
+  "_id": "tfi1pwpl9bt",
+  "name": "dangerous-descent",
+  "params": {
+    "iadj": "dangerous",
+    "noun": "descent"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

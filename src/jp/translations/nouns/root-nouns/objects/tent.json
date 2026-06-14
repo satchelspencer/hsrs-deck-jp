@@ -1,0 +1,15 @@
+{
+  "_id": "9sh2ex7ggsk",
+  "desc": "tent, camping tent",
+  "name": "tent",
+  "order": "4",
+  "parents": [
+    "objects",
+    "products"
+  ],
+  "props": {
+    "en": "tent",
+    "jp": "テント",
+    "tl": "てんと"
+  }
+}

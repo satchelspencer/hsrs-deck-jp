@@ -1,0 +1,13 @@
+{
+  "_id": "cma5knpwh74",
+  "name": "firmly-tear",
+  "params": {
+    "adv": "firmly",
+    "verb": "tear"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

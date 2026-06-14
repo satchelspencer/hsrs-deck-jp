@@ -1,0 +1,13 @@
+{
+  "_id": "gsfyuxi4pkd",
+  "name": "pregnancy-know",
+  "params": {
+    "noun": "pregnancy",
+    "verb": "know"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

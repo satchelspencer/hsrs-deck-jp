@@ -1,0 +1,13 @@
+{
+  "_id": "ek3grca96ms",
+  "name": "toast-ambiance",
+  "params": {
+    "noun": "ambiance",
+    "owner": "toast"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

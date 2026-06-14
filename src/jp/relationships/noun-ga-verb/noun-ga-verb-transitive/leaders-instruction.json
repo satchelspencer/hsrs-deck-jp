@@ -1,0 +1,13 @@
+{
+  "_id": "pgwc49iw3vi",
+  "name": "leaders-instruction",
+  "params": {
+    "noun": "leaders",
+    "verb": "instruction"
+  },
+  "parents": [
+    "noun-ga-verb-transitive"
+  ],
+  "props": {
+  }
+}

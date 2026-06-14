@@ -1,0 +1,13 @@
+{
+  "_id": "ez2dq0m1k5o",
+  "name": "pregnancy-be-delighted",
+  "params": {
+    "noun": "pregnancy",
+    "verb": "be-delighted"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "kltf560n0x7",
+  "name": "actual-entrance-appearance",
+  "params": {
+    "no": "actual",
+    "noun": "entrance-appearance"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

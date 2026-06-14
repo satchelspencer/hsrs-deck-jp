@@ -1,0 +1,13 @@
+{
+  "_id": "p962yh3r3bo",
+  "name": "vinyl-wrap-means",
+  "params": {
+    "noun": "vinyl",
+    "verb": "wrap-it"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

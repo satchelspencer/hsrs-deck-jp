@@ -1,0 +1,13 @@
+{
+  "_id": "6a0rn4870s7",
+  "name": "driving-be-started",
+  "params": {
+    "noun": "driving",
+    "verb": "be-started"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "lix4kolldat",
+  "name": "trash-discard",
+  "params": {
+    "noun": "trash",
+    "verb": "discard"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

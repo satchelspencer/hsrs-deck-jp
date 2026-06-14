@@ -1,0 +1,13 @@
+{
+  "_id": "2t9lo2in3xl",
+  "name": "eye-deceive",
+  "params": {
+    "noun": "eye",
+    "verb": "deceive"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "f3p7t8awcr5",
+  "name": "signal-notice",
+  "params": {
+    "noun": "traffic-signal",
+    "verb": "notice"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "dn3ew4xhrgm",
+  "name": "chatty-topic",
+  "params": {
+    "noun": "topic",
+    "owner": "chatting"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

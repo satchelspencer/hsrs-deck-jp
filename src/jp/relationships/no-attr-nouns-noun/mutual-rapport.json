@@ -1,0 +1,13 @@
+{
+  "_id": "akrocz8agfi",
+  "name": "mutual-rapport",
+  "params": {
+    "no": "mutual",
+    "noun": "rapport"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

@@ -4,6 +4,7 @@
   "order": "2",
   "parents": [
     "do-to-objects",
+    "do-to-products",
     "te-iru-verbs-continuous",
     "ichidan",
     "people-do-volitional"

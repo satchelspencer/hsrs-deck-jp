@@ -1,0 +1,13 @@
+{
+  "_id": "qkkme3q3gvh",
+  "name": "bliss-pregnancy",
+  "params": {
+    "na": "bliss",
+    "noun": "pregnancy"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

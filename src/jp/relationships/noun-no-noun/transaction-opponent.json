@@ -1,0 +1,13 @@
+{
+  "_id": "xu8tmkgijnw",
+  "name": "transaction-opponent",
+  "params": {
+    "noun": "opponent",
+    "owner": "transaction"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

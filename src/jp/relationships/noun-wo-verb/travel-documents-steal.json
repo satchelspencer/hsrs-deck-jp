@@ -1,0 +1,13 @@
+{
+  "_id": "6o9io7q1bee",
+  "name": "travel-documents-steal",
+  "params": {
+    "noun": "travel-documents",
+    "verb": "steal"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

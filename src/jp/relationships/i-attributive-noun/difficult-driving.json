@@ -1,0 +1,13 @@
+{
+  "_id": "4x43s3mxx0k",
+  "name": "difficult-driving",
+  "params": {
+    "iadj": "difficult",
+    "noun": "driving"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

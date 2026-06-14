@@ -1,0 +1,13 @@
+{
+  "_id": "f8h01gyhddj",
+  "name": "separate-method",
+  "params": {
+    "no": "separate",
+    "noun": "method"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

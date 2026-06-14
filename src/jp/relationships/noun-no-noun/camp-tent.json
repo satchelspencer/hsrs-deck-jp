@@ -1,0 +1,13 @@
+{
+  "_id": "b9x3cci273e",
+  "name": "camp-tent",
+  "params": {
+    "noun": "tent",
+    "owner": "camp"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

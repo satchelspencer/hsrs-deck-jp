@@ -1,0 +1,13 @@
+{
+  "_id": "jlpx8wy01s3",
+  "name": "transaction-fail",
+  "params": {
+    "noun": "transaction",
+    "verb": "failure"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

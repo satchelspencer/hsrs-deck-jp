@@ -1,0 +1,13 @@
+{
+  "_id": "jzunnyhyiz3",
+  "name": "long-chatty",
+  "params": {
+    "iadj": "long",
+    "noun": "chatting"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

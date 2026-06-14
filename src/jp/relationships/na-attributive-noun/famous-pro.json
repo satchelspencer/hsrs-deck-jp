@@ -1,0 +1,13 @@
+{
+  "_id": "spopzzlu9ln",
+  "name": "famous-pro",
+  "params": {
+    "na": "famous",
+    "noun": "pro"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "np203vxwl9i",
+  "desc": "与える means give/grant someone a break here",
+  "name": "rest-break-grant",
+  "params": {
+    "noun": "rest-break",
+    "verb": "grant-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "lj1a4o561ov",
+  "name": "leaders-work",
+  "params": {
+    "noun": "leaders",
+    "verb": "work"
+  },
+  "parents": [
+    "noun-to-verb-with"
+  ],
+  "props": {
+  }
+}

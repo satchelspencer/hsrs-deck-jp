@@ -1,0 +1,13 @@
+{
+  "_id": "x4yynwdt5cr",
+  "name": "earn-popularity",
+  "params": {
+    "noun": "popularity",
+    "verb": "earn"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

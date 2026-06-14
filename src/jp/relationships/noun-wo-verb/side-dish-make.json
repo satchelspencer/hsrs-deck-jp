@@ -1,0 +1,13 @@
+{
+  "_id": "q3s56n0ujbc",
+  "name": "side-dish-make",
+  "params": {
+    "noun": "side-dish",
+    "verb": "make"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "2iivarspwqs",
+  "name": "comrade-entrance-appearance",
+  "params": {
+    "noun": "comrade",
+    "verb": "entrance-appearance"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

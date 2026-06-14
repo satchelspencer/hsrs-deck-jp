@@ -1,0 +1,13 @@
+{
+  "_id": "lc7mv0djx84",
+  "name": "christmas-present",
+  "params": {
+    "noun": "present",
+    "owner": "christmas"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

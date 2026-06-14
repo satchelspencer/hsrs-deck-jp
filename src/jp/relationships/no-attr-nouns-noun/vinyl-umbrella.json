@@ -1,0 +1,13 @@
+{
+  "_id": "nx3bi0v6dt2",
+  "name": "vinyl-umbrella",
+  "params": {
+    "no": "vinyl",
+    "noun": "umbrella"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "c46rwd51x9i",
+  "name": "small-brain",
+  "params": {
+    "iadj": "small",
+    "noun": "brain"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

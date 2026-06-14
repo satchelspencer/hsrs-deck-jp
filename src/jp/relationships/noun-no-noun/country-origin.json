@@ -1,0 +1,13 @@
+{
+  "_id": "xzjzd3u1f3a",
+  "name": "country-origin",
+  "params": {
+    "noun": "origins",
+    "owner": "country"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

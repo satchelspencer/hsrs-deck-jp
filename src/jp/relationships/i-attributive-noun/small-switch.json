@@ -1,0 +1,13 @@
+{
+  "_id": "2x4cf1qhzud",
+  "name": "small-switch",
+  "params": {
+    "iadj": "small",
+    "noun": "switch"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

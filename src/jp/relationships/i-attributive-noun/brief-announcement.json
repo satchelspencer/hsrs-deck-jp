@@ -1,0 +1,13 @@
+{
+  "_id": "ytr4hb0yhe9",
+  "name": "brief-announcement",
+  "params": {
+    "iadj": "brief",
+    "noun": "announcement"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

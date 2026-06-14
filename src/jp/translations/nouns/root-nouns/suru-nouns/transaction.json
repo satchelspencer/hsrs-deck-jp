@@ -1,0 +1,19 @@
+{
+  "_id": "6n3dywpqv54",
+  "desc": "business transaction, trade, deal",
+  "name": "transaction",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "te-iru-verbs-continuous",
+    "people-do-volitional",
+    "activities"
+  ],
+  "props": {
+    "_pg": "doing a transaction",
+    "_v": "do a transaction",
+    "en": "business transaction",
+    "jp": "取引",
+    "tl": "とりひき"
+  }
+}

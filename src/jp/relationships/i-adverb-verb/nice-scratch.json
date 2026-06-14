@@ -1,0 +1,13 @@
+{
+  "_id": "8e1wntgd5de",
+  "name": "nice-scratch",
+  "params": {
+    "iadj": "nice",
+    "verb": "scratch"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

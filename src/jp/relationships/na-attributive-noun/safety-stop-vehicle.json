@@ -1,0 +1,13 @@
+{
+  "_id": "ebhfbzusln7",
+  "name": "safety-stop-vehicle",
+  "params": {
+    "na": "safety",
+    "noun": "stop-vehicle"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

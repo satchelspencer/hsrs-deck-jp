@@ -1,0 +1,13 @@
+{
+  "_id": "rmr2ag85jll",
+  "name": "important-plot-of-land",
+  "params": {
+    "na": "important",
+    "noun": "plot-of-land"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

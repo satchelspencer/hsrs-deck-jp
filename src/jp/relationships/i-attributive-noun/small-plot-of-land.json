@@ -1,0 +1,13 @@
+{
+  "_id": "j4n9c2cwkzk",
+  "name": "small-plot-of-land",
+  "params": {
+    "iadj": "small",
+    "noun": "plot-of-land"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

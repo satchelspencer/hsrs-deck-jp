@@ -1,0 +1,13 @@
+{
+  "_id": "4oy6c78lgto",
+  "name": "plot-of-land-protect",
+  "params": {
+    "noun": "plot-of-land",
+    "verb": "protect"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

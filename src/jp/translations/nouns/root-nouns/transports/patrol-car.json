@@ -1,0 +1,15 @@
+{
+  "_id": "zoen3lw94ai",
+  "desc": "patrol car, police car",
+  "name": "patrol-car",
+  "order": "3",
+  "parents": [
+    "transports",
+    "dai-countable"
+  ],
+  "props": {
+    "en": "patrol car",
+    "jp": "パトカー",
+    "tl": "ぱとかー"
+  }
+}

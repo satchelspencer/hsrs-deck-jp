@@ -1,0 +1,13 @@
+{
+  "_id": "xbpokwntgo9",
+  "name": "travel-documents-country",
+  "params": {
+    "noun": "country",
+    "owner": "travel-documents"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "dsasommpp0u",
+  "name": "role-substitute",
+  "params": {
+    "noun": "role",
+    "verb": "substitute"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

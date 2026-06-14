@@ -1,0 +1,13 @@
+{
+  "_id": "np0wuexmrzv",
+  "name": "pro-job",
+  "params": {
+    "noun": "job",
+    "owner": "pro"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

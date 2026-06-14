@@ -1,0 +1,13 @@
+{
+  "_id": "pk3320mxmje",
+  "name": "stop-vehicle-spot",
+  "params": {
+    "noun": "spot",
+    "owner": "stop-vehicle"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "qrw665obsmn",
+  "name": "important-plastic",
+  "params": {
+    "na": "important",
+    "noun": "plastic"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

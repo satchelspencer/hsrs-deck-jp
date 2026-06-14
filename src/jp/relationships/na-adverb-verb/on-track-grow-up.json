@@ -1,0 +1,13 @@
+{
+  "_id": "plfpxvxmvxq",
+  "name": "on-track-grow-up",
+  "params": {
+    "na": "on-track",
+    "verb": "grow-up"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "s18vr0ppnjm",
+  "name": "surveillance-camera",
+  "params": {
+    "noun": "camera",
+    "owner": "surveillance"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

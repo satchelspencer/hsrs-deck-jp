@@ -1,0 +1,13 @@
+{
+  "_id": "dsg0o03cfln",
+  "name": "triangle-cut",
+  "params": {
+    "noun": "triangle",
+    "verb": "cut"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

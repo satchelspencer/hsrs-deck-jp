@@ -1,0 +1,13 @@
+{
+  "_id": "cacc5fze61o",
+  "name": "misfortune-person",
+  "params": {
+    "na": "misfortune",
+    "noun": "person"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

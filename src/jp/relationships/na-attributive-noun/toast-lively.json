@@ -1,0 +1,13 @@
+{
+  "_id": "imd8q4ht797",
+  "name": "toast-lively",
+  "params": {
+    "na": "lively",
+    "noun": "toast"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "xqpyvvrwmlg",
+  "name": "driving-end",
+  "params": {
+    "noun": "driving",
+    "verb": "end"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "b6f2nyo89c8",
+  "name": "article-photo",
+  "params": {
+    "noun": "photo",
+    "owner": "article"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

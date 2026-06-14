@@ -1,0 +1,13 @@
+{
+  "_id": "zvzq0knfe9j",
+  "name": "simple-repair",
+  "params": {
+    "na": "simple",
+    "verb": "repair"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

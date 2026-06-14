@@ -1,0 +1,13 @@
+{
+  "_id": "zti7brl4jq1",
+  "name": "strong-prohibition",
+  "params": {
+    "iadj": "strong",
+    "noun": "prohibition"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

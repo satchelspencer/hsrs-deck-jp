@@ -1,0 +1,13 @@
+{
+  "_id": "ywjt5d9spq8",
+  "name": "habitual-driving",
+  "params": {
+    "no": "habitual",
+    "noun": "driving"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

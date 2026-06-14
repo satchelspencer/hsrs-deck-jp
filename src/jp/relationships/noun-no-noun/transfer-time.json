@@ -1,0 +1,13 @@
+{
+  "_id": "91htcbs8o8v",
+  "name": "transfer-time",
+  "params": {
+    "noun": "hours",
+    "owner": "transfer"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

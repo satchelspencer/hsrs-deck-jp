@@ -1,0 +1,14 @@
+{
+  "_id": "46ynje9usew",
+  "desc": "自然に写る means to come out looking natural in a photo",
+  "name": "nature-be-photographed",
+  "params": {
+    "na": "nature",
+    "verb": "be-photographed"
+  },
+  "parents": [
+    "na-adverb-verb"
+  ],
+  "props": {
+  }
+}

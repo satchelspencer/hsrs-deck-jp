@@ -1,0 +1,13 @@
+{
+  "_id": "gfhjc7ppddw",
+  "name": "transfer-be-in-time",
+  "params": {
+    "noun": "transfer",
+    "verb": "be-in-time"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

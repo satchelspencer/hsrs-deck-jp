@@ -1,0 +1,13 @@
+{
+  "_id": "ls5kdniyxbm",
+  "name": "sharpened-triangle",
+  "params": {
+    "iadj": "sharpened",
+    "noun": "triangle"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

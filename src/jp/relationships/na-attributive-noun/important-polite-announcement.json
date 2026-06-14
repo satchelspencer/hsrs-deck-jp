@@ -1,0 +1,13 @@
+{
+  "_id": "oknrx6rym7j",
+  "name": "important-polite-announcement",
+  "params": {
+    "na": "important-polite",
+    "noun": "announcement"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

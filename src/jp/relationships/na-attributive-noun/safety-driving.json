@@ -1,0 +1,13 @@
+{
+  "_id": "fbkajnpnwxa",
+  "name": "safety-driving",
+  "params": {
+    "na": "safety",
+    "noun": "driving"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

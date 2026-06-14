@@ -1,0 +1,13 @@
+{
+  "_id": "ogodx4jk4rs",
+  "name": "earn-experience",
+  "params": {
+    "noun": "experience",
+    "verb": "earn"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

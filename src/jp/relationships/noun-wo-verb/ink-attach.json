@@ -1,0 +1,14 @@
+{
+  "_id": "pwh82hw3gjj",
+  "desc": "付ける means to apply/put on in this context",
+  "name": "ink-attach",
+  "params": {
+    "noun": "ink",
+    "verb": "attach"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

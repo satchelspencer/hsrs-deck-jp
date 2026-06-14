@@ -1,0 +1,14 @@
+{
+  "_id": "sr1tsms5jqw",
+  "desc": "重ねる means accumulate here (苦労を重ねる = accumulate hardships over time)",
+  "name": "hardship-stack-it",
+  "params": {
+    "noun": "hardship",
+    "verb": "stack it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "_id": "svemnn2oai9",
+  "desc": "monitoring, watching over, keeping watch",
+  "name": "surveillance",
+  "order": "4",
+  "parents": [
+    "suru-nouns",
+    "people-do-volitional",
+    "te-iru-verbs-continuous",
+    "de-location-verbs"
+  ],
+  "props": {
+    "_pg": "surveilling",
+    "_v": "surveil",
+    "en": "surveillance",
+    "jp": "監視",
+    "tl": "かんし"
+  }
+}

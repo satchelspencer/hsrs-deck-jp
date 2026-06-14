@@ -1,0 +1,13 @@
+{
+  "_id": "7v5o9ilq4sv",
+  "name": "typewriter-decorate",
+  "params": {
+    "noun": "typewriter",
+    "verb": "decorate"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

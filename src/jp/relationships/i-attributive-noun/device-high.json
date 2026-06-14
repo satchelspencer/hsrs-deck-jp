@@ -1,0 +1,14 @@
+{
+  "_id": "sp3vrg9mbg7",
+  "desc": "高い means expensive for a device",
+  "name": "device-high",
+  "params": {
+    "iadj": "high",
+    "noun": "device"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

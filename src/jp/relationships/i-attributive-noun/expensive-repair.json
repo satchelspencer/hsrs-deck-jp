@@ -1,0 +1,13 @@
+{
+  "_id": "1y5mk7288uo",
+  "name": "expensive-repair",
+  "params": {
+    "iadj": "high",
+    "noun": "repair"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

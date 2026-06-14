@@ -1,0 +1,13 @@
+{
+  "_id": "2jy4xkv1b3s",
+  "name": "danger-transports",
+  "params": {
+    "na": "danger",
+    "noun": "transports"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

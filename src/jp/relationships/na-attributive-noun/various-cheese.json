@@ -1,0 +1,13 @@
+{
+  "_id": "rzc2h437s7f",
+  "name": "various-cheese",
+  "params": {
+    "na": "various",
+    "noun": "cheese"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

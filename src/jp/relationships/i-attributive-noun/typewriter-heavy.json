@@ -1,0 +1,13 @@
+{
+  "_id": "b5ejaui3f4c",
+  "name": "typewriter-heavy",
+  "params": {
+    "iadj": "heavy",
+    "noun": "typewriter"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "g9v5nrfsuou",
+  "name": "blouse",
+  "order": "2",
+  "parents": [
+    "wearables"
+  ],
+  "props": {
+    "en": "blouse",
+    "jp": "ブラウス",
+    "tl": "ぶらうす"
+  }
+}

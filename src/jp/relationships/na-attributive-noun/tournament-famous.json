@@ -1,0 +1,13 @@
+{
+  "_id": "l235d4juewj",
+  "name": "tournament-famous",
+  "params": {
+    "na": "famous",
+    "noun": "tournament"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

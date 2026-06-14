@@ -1,0 +1,13 @@
+{
+  "_id": "on8phi0fjzk",
+  "name": "convenient-tent",
+  "params": {
+    "na": "convenience",
+    "noun": "tent"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

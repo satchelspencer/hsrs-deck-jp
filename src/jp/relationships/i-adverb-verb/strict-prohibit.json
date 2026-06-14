@@ -1,0 +1,13 @@
+{
+  "_id": "04g2ubapjpv",
+  "name": "strict-prohibit",
+  "params": {
+    "iadj": "strict",
+    "verb": "prohibition"
+  },
+  "parents": [
+    "i-adverb-verb"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "20h4yqhxfgs",
+  "name": "slow-departure",
+  "params": {
+    "iadj": "slow",
+    "noun": "departure"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

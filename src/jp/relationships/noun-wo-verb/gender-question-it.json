@@ -1,0 +1,13 @@
+{
+  "_id": "i25qzzzxr15",
+  "name": "gender-question-it",
+  "params": {
+    "noun": "gender",
+    "verb": "question-it"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

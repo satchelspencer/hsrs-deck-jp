@@ -1,0 +1,13 @@
+{
+  "_id": "85vq6orjk95",
+  "name": "towel-use",
+  "params": {
+    "noun": "towel",
+    "verb": "use"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

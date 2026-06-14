@@ -1,0 +1,13 @@
+{
+  "_id": "1ylseigfuty",
+  "name": "pajamas-pocket",
+  "params": {
+    "noun": "pocket",
+    "owner": "pajamas"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

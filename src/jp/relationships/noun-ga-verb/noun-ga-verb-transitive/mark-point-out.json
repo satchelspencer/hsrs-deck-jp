@@ -1,0 +1,13 @@
+{
+  "_id": "3xzo42eieti",
+  "name": "mark-point-out",
+  "params": {
+    "noun": "mark",
+    "verb": "point-out"
+  },
+  "parents": [
+    "noun-ga-verb-transitive"
+  ],
+  "props": {
+  }
+}

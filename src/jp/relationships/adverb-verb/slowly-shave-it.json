@@ -1,0 +1,13 @@
+{
+  "_id": "ea3mi98au67",
+  "name": "slowly-shave-it",
+  "params": {
+    "adv": "slowly",
+    "verb": "shave-it"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

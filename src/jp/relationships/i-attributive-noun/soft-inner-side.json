@@ -1,0 +1,13 @@
+{
+  "_id": "lrbgjlte5r7",
+  "name": "soft-inner-side",
+  "params": {
+    "iadj": "soft",
+    "noun": "inner-side"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

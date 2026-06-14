@@ -1,0 +1,13 @@
+{
+  "_id": "upgrihkhr81",
+  "name": "travel-documents-recieve",
+  "params": {
+    "noun": "travel-documents",
+    "verb": "recieve"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

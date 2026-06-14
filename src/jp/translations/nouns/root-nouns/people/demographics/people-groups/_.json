@@ -1,0 +1,10 @@
+{
+  "_id": "izmxqg03jgt",
+  "name": "people-groups",
+  "parents": [
+    "demographics"
+  ],
+  "props": {
+  },
+  "virtual": true
+}

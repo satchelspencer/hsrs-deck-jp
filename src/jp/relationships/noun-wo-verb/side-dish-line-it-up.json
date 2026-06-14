@@ -1,0 +1,13 @@
+{
+  "_id": "33ciz83fcck",
+  "name": "side-dish-line-it-up",
+  "params": {
+    "noun": "side-dish",
+    "verb": "line-it-up"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

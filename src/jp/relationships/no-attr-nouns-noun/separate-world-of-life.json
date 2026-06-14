@@ -1,0 +1,13 @@
+{
+  "_id": "b6fwzuil0g4",
+  "name": "separate-world-of-life",
+  "params": {
+    "no": "separate",
+    "noun": "world-of-life"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

@@ -4,7 +4,8 @@
   "parents": [
     "root-nouns",
     "people-no",
-    "non-unique"
+    "non-unique",
+    "choosables"
   ],
   "props": {
   },

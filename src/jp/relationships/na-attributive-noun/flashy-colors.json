@@ -1,0 +1,13 @@
+{
+  "_id": "fnc1d5s8of8",
+  "name": "flashy-colors",
+  "params": {
+    "na": "flashy",
+    "noun": "colors"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

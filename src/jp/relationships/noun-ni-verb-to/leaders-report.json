@@ -1,0 +1,13 @@
+{
+  "_id": "7c7as80w0lm",
+  "name": "leaders-report",
+  "params": {
+    "noun": "leaders",
+    "verb": "report"
+  },
+  "parents": [
+    "noun-ni-verb-to"
+  ],
+  "props": {
+  }
+}

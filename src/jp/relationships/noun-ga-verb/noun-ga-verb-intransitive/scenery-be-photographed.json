@@ -1,0 +1,13 @@
+{
+  "_id": "v0zvijnt2g6",
+  "name": "scenery-be-photographed",
+  "params": {
+    "noun": "scenery",
+    "verb": "be-photographed"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

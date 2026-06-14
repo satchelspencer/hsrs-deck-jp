@@ -1,0 +1,13 @@
+{
+  "_id": "uxbaozy0ak2",
+  "name": "descent-road",
+  "params": {
+    "no": "descent",
+    "noun": "road"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

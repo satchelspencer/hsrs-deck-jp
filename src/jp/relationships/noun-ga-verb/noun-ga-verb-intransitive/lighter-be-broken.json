@@ -1,0 +1,13 @@
+{
+  "_id": "521wt3qy6fg",
+  "name": "lighter-be-broken",
+  "params": {
+    "noun": "lighter",
+    "verb": "be-broken"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

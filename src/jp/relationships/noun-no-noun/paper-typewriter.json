@@ -1,0 +1,13 @@
+{
+  "_id": "w8ncjpx9x7k",
+  "name": "paper-typewriter",
+  "params": {
+    "noun": "paper",
+    "owner": "typewriter"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

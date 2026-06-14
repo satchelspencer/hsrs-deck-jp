@@ -1,0 +1,13 @@
+{
+  "_id": "86ilk0glrny",
+  "name": "safety-plot-of-land",
+  "params": {
+    "na": "safety",
+    "noun": "plot-of-land"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

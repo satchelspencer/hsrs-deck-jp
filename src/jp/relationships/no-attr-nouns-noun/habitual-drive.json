@@ -1,0 +1,13 @@
+{
+  "_id": "5qtyu94xxks",
+  "name": "habitual-drive",
+  "params": {
+    "no": "habitual",
+    "noun": "drive"
+  },
+  "parents": [
+    "no-attr-nouns-noun"
+  ],
+  "props": {
+  }
+}

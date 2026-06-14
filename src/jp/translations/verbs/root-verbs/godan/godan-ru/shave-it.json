@@ -1,0 +1,16 @@
+{
+  "_id": "1ayh0z0qb7f",
+  "desc": "to shave/scrape off, to sharpen (pencil), to cut down/reduce",
+  "name": "shave-it",
+  "order": "4",
+  "parents": [
+    "godan-ru",
+    "people-do-volitional",
+    "te-iru-verbs-continuous"
+  ],
+  "props": {
+    "en": "shave it",
+    "jp": "削る",
+    "tl": "けずる"
+  }
+}

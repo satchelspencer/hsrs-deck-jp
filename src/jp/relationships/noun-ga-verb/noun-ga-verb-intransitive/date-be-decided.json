@@ -1,0 +1,13 @@
+{
+  "_id": "jpap8c9i9ux",
+  "name": "date-be-decided",
+  "params": {
+    "noun": "date",
+    "verb": "be-decided"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

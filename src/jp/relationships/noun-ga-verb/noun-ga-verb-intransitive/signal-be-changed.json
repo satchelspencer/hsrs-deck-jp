@@ -1,0 +1,13 @@
+{
+  "_id": "g4q8u9bxds6",
+  "name": "signal-be-changed",
+  "params": {
+    "noun": "traffic-signal",
+    "verb": "be-changed"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

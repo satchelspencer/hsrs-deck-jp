@@ -1,0 +1,13 @@
+{
+  "_id": "8rvqkfrvqay",
+  "name": "evil-be-born",
+  "params": {
+    "noun": "evil",
+    "verb": "be-born"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

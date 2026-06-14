@@ -1,0 +1,13 @@
+{
+  "_id": "p8cym3lbrff",
+  "name": "trash-be-increased",
+  "params": {
+    "noun": "trash",
+    "verb": "be-increased"
+  },
+  "parents": [
+    "noun-ga-verb-intransitive"
+  ],
+  "props": {
+  }
+}

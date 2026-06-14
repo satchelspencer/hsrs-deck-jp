@@ -1,0 +1,13 @@
+{
+  "_id": "fcrslgztq6f",
+  "name": "high-admission-ticket",
+  "params": {
+    "iadj": "high",
+    "noun": "admission-ticket"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "wmxewpi1o54",
+  "name": "chatty-hear",
+  "params": {
+    "noun": "chatting",
+    "verb": "hear"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

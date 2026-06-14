@@ -1,0 +1,13 @@
+{
+  "_id": "06drt5j1wp2",
+  "name": "station-platform",
+  "params": {
+    "noun": "platform",
+    "owner": "train-station"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

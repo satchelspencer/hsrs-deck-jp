@@ -1,0 +1,13 @@
+{
+  "_id": "40ml74ndu85",
+  "name": "interesting-challenge",
+  "params": {
+    "iadj": "interesting",
+    "noun": "challenge"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

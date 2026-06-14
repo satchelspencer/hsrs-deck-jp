@@ -1,0 +1,13 @@
+{
+  "_id": "uwreadswyb9",
+  "name": "fashionable-pajamas",
+  "params": {
+    "na": "fashionable",
+    "noun": "pajamas"
+  },
+  "parents": [
+    "na-attributive-noun"
+  ],
+  "props": {
+  }
+}

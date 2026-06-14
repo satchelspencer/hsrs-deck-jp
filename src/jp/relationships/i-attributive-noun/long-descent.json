@@ -1,0 +1,13 @@
+{
+  "_id": "my1hru2yu25",
+  "name": "long-descent",
+  "params": {
+    "iadj": "long",
+    "noun": "descent"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

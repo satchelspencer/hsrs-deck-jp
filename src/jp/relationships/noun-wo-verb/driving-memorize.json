@@ -1,0 +1,13 @@
+{
+  "_id": "7e1js92p0b1",
+  "name": "driving-memorize",
+  "params": {
+    "noun": "driving",
+    "verb": "memorize"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

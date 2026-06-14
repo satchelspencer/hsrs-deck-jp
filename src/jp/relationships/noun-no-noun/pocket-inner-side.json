@@ -1,0 +1,13 @@
+{
+  "_id": "nma06fho5wt",
+  "name": "pocket-inner-side",
+  "params": {
+    "noun": "inner-side",
+    "owner": "pocket"
+  },
+  "parents": [
+    "noun-no-noun"
+  ],
+  "props": {
+  }
+}

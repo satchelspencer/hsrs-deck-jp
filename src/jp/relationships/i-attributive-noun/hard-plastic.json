@@ -1,0 +1,13 @@
+{
+  "_id": "o776acv5ud6",
+  "name": "hard-plastic",
+  "params": {
+    "iadj": "hard",
+    "noun": "plastic"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

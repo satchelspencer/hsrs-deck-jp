@@ -1,0 +1,13 @@
+{
+  "_id": "4uddyz7a3rk",
+  "name": "tasty-wine",
+  "params": {
+    "iadj": "tasty",
+    "noun": "wine"
+  },
+  "parents": [
+    "i-attributive-noun"
+  ],
+  "props": {
+  }
+}

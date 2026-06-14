@@ -1,0 +1,13 @@
+{
+  "_id": "bs0rmvz77u0",
+  "name": "neatly-transcribe",
+  "params": {
+    "adv": "neatly",
+    "verb": "transcribe"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}

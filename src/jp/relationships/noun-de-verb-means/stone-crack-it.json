@@ -1,0 +1,13 @@
+{
+  "_id": "6tnfwka0w9p",
+  "name": "stone-crack-it",
+  "params": {
+    "noun": "stone",
+    "verb": "crack-it"
+  },
+  "parents": [
+    "noun-de-verb-means"
+  ],
+  "props": {
+  }
+}

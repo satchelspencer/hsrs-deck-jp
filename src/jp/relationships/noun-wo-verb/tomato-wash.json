@@ -1,0 +1,13 @@
+{
+  "_id": "uievs1csfw8",
+  "name": "tomato-wash",
+  "params": {
+    "noun": "tomato",
+    "verb": "wash"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

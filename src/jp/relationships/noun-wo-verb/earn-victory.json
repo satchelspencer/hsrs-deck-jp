@@ -1,0 +1,13 @@
+{
+  "_id": "y2o510mrlzu",
+  "name": "earn-victory",
+  "params": {
+    "noun": "victory",
+    "verb": "earn"
+  },
+  "parents": [
+    "noun-wo-verb"
+  ],
+  "props": {
+  }
+}

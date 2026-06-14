@@ -1,0 +1,13 @@
+{
+  "_id": "o37ns2uqqg3",
+  "name": "clearly-prohibit",
+  "params": {
+    "adv": "clearly",
+    "verb": "prohibition"
+  },
+  "parents": [
+    "adverb-verb"
+  ],
+  "props": {
+  }
+}
